@@ -28,12 +28,13 @@ function pickDate(ep) {
 
 // Filters
 function isNews(show) {
-  const t = (show.type || "").toLowerCase();
-  return t === "news" || t === "talk show";
+  const genres = show.genres || [];
+  return genres.some(g => ["news", "talk show"].includes(g.toLowerCase()));
 }
 
 function isSportsShow(show) {
-  return (show.type || "").trim().toLowerCase() === "sports";
+  const genres = show.genres || [];
+  return genres.some(g => g.toLowerCase() === "sports");
 }
 
 function looksLikeSports(show) {
