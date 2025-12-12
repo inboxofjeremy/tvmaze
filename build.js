@@ -78,13 +78,14 @@ return t === "news" || t === "talk show";
 }
 
 function isForeign(show) {
-const allowed = ["US", "GB", "CA", "AU", "IE", "NZ"];
-const c =
-(show?.network?.country?.code ||
-show?.webChannel?.country?.code ||
-"").toUpperCase();
-if (!c) return true;
-return !allowed.includes(c);
+  const allowed = ["US", "GB", "CA", "AU", "IE", "NZ"];
+  const c =
+    (show?.network?.country?.code ||
+     show?.webChannel?.country?.code ||
+     "").toUpperCase() || null;
+
+  if (!c) return false;  // ✅ missing country = allowed (streaming)
+  return !allowed.includes(c);
 }
 
 function filterLastNDays(episodes, n, todayStr) {
