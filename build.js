@@ -32,22 +32,30 @@ function pickDate(ep) {
 function isNews(show) {
   const type = (show.type || "").toLowerCase();
   const genres = show.genres || [];
+  
+  // Combine all text fields for keyword search
   const name = (show.name || "").toLowerCase();
+  const summary = (show.summary || "").toLowerCase();
+  const description = (show.description || "").toLowerCase();
 
-  // Keywords with original casing
+  // Keywords with original casing for reference
   const newsKeywords = [
-    "News", "Morning", "Early Start", "GMA", "PoliticsNation", "700 Club", "Today", "Talk Show"
+    "News", "Talk Show", "Morning", "Early Start", "GMA", "PoliticsNation", "700 Club", "Today"
   ];
 
-  // Check if type or genre matches
-  const typeOrGenreMatch =
+  // Convert keywords to lowercase for case-insensitive search
+  const keywordMatch = newsKeywords.some(k => 
+    name.includes(k.toLowerCase()) ||
+    summary.includes(k.toLowerCase()) ||
+    description.includes(k.toLowerCase())
+  );
+
+  // Check type, genres, or keywords
+  return (
     type === "news" ||
-    genres.some(g => g.toLowerCase() === "news" || g.toLowerCase() === "talk show");
-
-  // Check title against keywords (case-insensitive)
-  const titleMatch = newsKeywords.some(k => name.includes(k.toLowerCase()));
-
-  return typeOrGenreMatch || titleMatch;
+    genres.some(g => g.toLowerCase() === "news" || g.toLowerCase() === "talk show") ||
+    keywordMatch
+  );
 }
 
 function isSportsShow(show) {
