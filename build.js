@@ -30,31 +30,20 @@ function pickDate(ep) {
 // FILTERS
 // ==========================
 function isNews(show) {
-  const type = (show.type || "").toLowerCase();
-  const genres = show.genres || [];
-  
-  // Combine all text fields for keyword search
   const name = (show.name || "").toLowerCase();
-  const summary = (show.summary || "").toLowerCase();
-  const description = (show.description || "").toLowerCase();
+  const network = (show.network?.name || "").toLowerCase();
 
-  // Keywords with original casing for reference
+  // keywords in show title
   const newsKeywords = [
-    "News", "Talk Show", "Morning", "Early Start", "GMA", "PoliticsNation", "700 Club", "Today"
+    "news", "morning", "early start", "gma", "politicsnation", "700 club", "today", "talk show"
   ];
 
-  // Convert keywords to lowercase for case-insensitive search
-  const keywordMatch = newsKeywords.some(k => 
-    name.includes(k.toLowerCase()) ||
-    summary.includes(k.toLowerCase()) ||
-    description.includes(k.toLowerCase())
-  );
+  // known news networks
+  const newsNetworks = ["cnn", "abc", "cbs", "nbc", "fox news"];
 
-  // Check type, genres, or keywords
   return (
-    type === "news" ||
-    genres.some(g => g.toLowerCase() === "news" || g.toLowerCase() === "talk show") ||
-    keywordMatch
+    newsKeywords.some(k => name.includes(k)) ||
+    newsNetworks.some(n => network.includes(n))
   );
 }
 
