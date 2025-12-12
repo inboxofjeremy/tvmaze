@@ -33,11 +33,21 @@ function isNews(show) {
   const type = (show.type || "").toLowerCase();
   const genres = show.genres || [];
   const name = (show.name || "").toLowerCase();
-  return (
+
+  // Keywords with original casing
+  const newsKeywords = [
+    "News", "Morning", "Early Start", "GMA", "PoliticsNation", "700 Club", "Today", "Talk Show"
+  ];
+
+  // Check if type or genre matches
+  const typeOrGenreMatch =
     type === "news" ||
-    genres.some(g => g.toLowerCase() === "news") ||
-    name.includes("news")
-  );
+    genres.some(g => g.toLowerCase() === "news" || g.toLowerCase() === "talk show");
+
+  // Check title against keywords (case-insensitive)
+  const titleMatch = newsKeywords.some(k => name.includes(k.toLowerCase()));
+
+  return typeOrGenreMatch || titleMatch;
 }
 
 function isSportsShow(show) {
