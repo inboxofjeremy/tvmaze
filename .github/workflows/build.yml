@@ -1,32 +1,31 @@
 name: Build TVMaze Addon
 
 on:
-schedule:
-- cron: "0 */6 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
-build:
-runs-on: ubuntu-latest
-steps:
-- uses: actions/checkout@v4
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-  - name: Setup Node
-    uses: actions/setup-node@v4
-    with:
-      node-version: 20
+      - name: Install fetch polyfill
+        run: npm install node-fetch@3
 
-  - name: Install fetch polyfill
-    run: npm install node-fetch@3
+      - name: Run build script
+        run: node build.js
 
-  - name: Run build
-    run: node build.js
-
-  - name: Commit & Push
-    run: |
-      git config --local user.email "action@github.com"
-      git config --local user.name "GitHub Action"
-      git add .
-      git commit -m "Auto rebuild" || echo "No changes"
-      git push
+      - name: Commit & Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto rebuild" || echo "No changes"
+          git push
