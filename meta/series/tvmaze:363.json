@@ -13952,14 +13952,6 @@
         "overview": "Guests include Amanda Seyfried (The Housemaid) and Andrew Scott (Wake Up Dead Man: A Knives Out Mystery)."
       },
       {
-        "id": "tvmaze:3461881",
-        "title": "Ike Barinholtz, Ashley Padilla",
-        "season": 2025,
-        "episode": 139,
-        "released": "2025-12-11",
-        "overview": "Guests include Ike Barinholtz (All Out: Comedy About Ambition) and Ashley Padilla (Saturday Night Live)."
-      },
-      {
         "id": "tvmaze:3469076",
         "title": "Gwyneth Paltrow, Brad Paisley",
         "season": 2025,
@@ -13974,6 +13966,22 @@
         "episode": 141,
         "released": "2025-12-16",
         "overview": "Day Drinking with Sabrina Carpenter. Guests include Jack Black (Anaconda) and Ella Purnell (Fallout)."
+      },
+      {
+        "id": "tvmaze:3470467",
+        "title": "Kate Hudson, Odessa A'zion, Mary Ellen Matthews",
+        "season": 2025,
+        "episode": 142,
+        "released": "2025-12-17",
+        "overview": "Guests include Kate Hudson (Song Sung Blue), Odessa A'zion (Marty Supreme), and Mary Ellen Matthews (The Art of the SNL Portrait)."
+      },
+      {
+        "id": "tvmaze:3470469",
+        "title": "Ariana Grande, Fran Drescher",
+        "season": 2025,
+        "episode": 143,
+        "released": "2025-12-18",
+        "overview": "Guests include Ariana Grande (Wicked: For Good) and Fran Drescher (Marty Supreme)."
       }
     ]
   }

@@ -17856,14 +17856,6 @@
         "overview": "Guests include Victoria Beckham, Lily Collins, Aryna Sabalenka and musical guest Jutes."
       },
       {
-        "id": "tvmaze:3461082",
-        "title": "Kate Hudson, John Stamos, Lily Allen, Laufey",
-        "season": 2025,
-        "episode": 154,
-        "released": "2025-12-10",
-        "overview": "Guests include Kate Hudson, John Stamos, Lily Allen and musical guest Laufey."
-      },
-      {
         "id": "tvmaze:3469078",
         "title": "Simu Liu, Alysa Liu, Greg Warren",
         "season": 2025,
@@ -17878,6 +17870,22 @@
         "episode": 156,
         "released": "2025-12-16",
         "overview": "Guests include Finn Wolfhard, Martha Stewart, Nathaniel Rateliff and musical guest Finn Wolfhard."
+      },
+      {
+        "id": "tvmaze:3470459",
+        "title": "Timothée Chalamet, The Duffer Brothers, Bleachers",
+        "season": 2025,
+        "episode": 157,
+        "released": "2025-12-17",
+        "overview": "Guests include Timothée Chalamet, The Duffer Brothers and musical guest Bleachers."
+      },
+      {
+        "id": "tvmaze:3470461",
+        "title": "Caleb McLaughlin, Carmelo Anthony, Darlene Love, Paul Shaffer, Little Steven, Disciples",
+        "season": 2025,
+        "episode": 158,
+        "released": "2025-12-18",
+        "overview": "Guests include Caleb McLaughlin, Carmelo Anthony and musical guest Darlene Love ft. Paul Shaffer, Little Steven &amp; The Disciples."
       }
     ]
   }
