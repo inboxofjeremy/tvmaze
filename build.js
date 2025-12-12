@@ -47,15 +47,14 @@ function isSportsShow(show) {
   const type = (show.type || "").toLowerCase();
   const genres = show.genres || [];
 
-  // Only remove shows explicitly marked as "sports"
   return type === "sports" || genres.some(g => g.toLowerCase() === "sports");
 }
 
 function isForeign(show) {
   const allowedCountries = ["US", "GB", "CA", "AU", "NZ", "IE"];
-  const c = show?.network?.country?.code;
-  if (!c) return false; // don’t remove shows with missing country info
-  return !allowedCountries.includes(c);
+  const country = show?.network?.country?.code;
+  // Only remove if country exists and is NOT allowed
+  return country ? !allowedCountries.includes(country) : false;
 }
 
 function filterLastNDays(episodes, n, todayStr) {
@@ -90,7 +89,6 @@ async function tmdbFallback(imdbId) {
 
 // MAIN BUILD PROCESS
 async function build() {
-  // Today
   const now = new Date();
   const yyyy = now.getUTCFullYear();
   const mm = String(now.getUTCMonth() + 1).padStart(2, "0");
@@ -120,9 +118,8 @@ async function build() {
         const show = ep?.show || ep?._embedded?.show;
         if (!show?.id) continue;
 
-        // initial schedule-level filtering
-        if (isNews(show) || isSportsShow(show)) continue;
-        if (isForeign(show)) continue;
+        // Initial schedule-level filtering
+        if (isNews(show) || isSportsShow(show) || isForeign(show)) continue;
 
         const cur = showMap.get(show.id);
         if (!cur) showMap.set(show.id, { show, episodes: [ep] });
@@ -159,7 +156,7 @@ async function build() {
     }
   }
 
-  // 3) TMDB fallback for missing episodes
+  // 3) TMDB fallback
   for (const [id, info] of showMap.entries()) {
     const imdb = info.show.externals?.imdb;
     if (!imdb) continue;
@@ -176,9 +173,12 @@ async function build() {
   const finalList = [...showMap.values()]
     .filter(v => {
       const show = v.show;
-      // remove only actual news or sports shows
-      if (isNews(show) || isSportsShow(show)) return false;
-      return true;
+      // Remove only news, sports, or foreign shows
+      return !(
+        isNews(show) || 
+        isSportsShow(show) || 
+        isForeign(show)
+      );
     })
     .map((v) => {
       const recent = filterLastNDays(v.episodes, 10, todayStr);
@@ -201,7 +201,7 @@ async function build() {
       };
     })
     .filter(Boolean)
-    .sort((a, b) => b.latestDate.localeCompare(a.latestDate));
+    .sort((a,b) => b.latestDate.localeCompare(a.latestDate));
 
   // Write catalog
   fs.mkdirSync("./catalog/series", { recursive: true });
@@ -216,7 +216,6 @@ async function build() {
   for (const v of showMap.values()) {
     const show = v.show;
 
-    // Deduplicate episodes
     const uniqueMap = new Map();
     for (const ep of v.episodes || []) {
       if (!ep?.id) continue;
