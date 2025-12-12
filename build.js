@@ -26,43 +26,16 @@ function pickDate(ep) {
   return null;
 }
 
-// ============================
-// FIXED FILTERS
-// ============================
-
-// NEWS FILTER — expanded to match all TVMaze categories
+// Filters
 function isNews(show) {
   const t = (show.type || "").toLowerCase();
-
-  const newsTypes = [
-    "news",
-    "sports news",
-    "current affairs",
-    "panel show",
-    "talk show",
-    "variety",
-    "information",
-    "special interest"
-  ];
-
-  return newsTypes.includes(t);
+  return t === "news" || t === "talk show";
 }
 
-// SPORTS FILTER — expanded for TVMaze variations
 function isSportsShow(show) {
-  const t = (show.type || "").toLowerCase();
-
-  const sportsTypes = [
-    "sports",
-    "sports news",
-    "sporting event",
-    "sports documentary"
-  ];
-
-  return sportsTypes.includes(t);
+  return (show.type || "").trim().toLowerCase() === "sports";
 }
 
-// Sports keyword/network detection unchanged
 function looksLikeSports(show) {
   const name = (show.name || "").toLowerCase();
   const network = (show.network?.name || "").toLowerCase();
@@ -232,7 +205,7 @@ async function build() {
   for (const v of showMap.values()) {
     const show = v.show;
 
-    // DEDUPLICATE EPISODES BY TVMAZE EPISODE ID
+    // ✅ DEDUPLICATE EPISODES BY TVMAZE EPISODE ID
     const uniqueMap = new Map();
     for (const ep of v.episodes || []) {
       if (!ep?.id) continue;
