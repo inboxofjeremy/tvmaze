@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 
 // CONFIG
-const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc"; // your key
+const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc";   // your key
 const OUTPUT_DIR = "./";
 
 // Helpers
@@ -26,20 +26,17 @@ function pickDate(ep) {
   return null;
 }
 
-// Filters
+// ==========================
+// FILTERS
+// ==========================
 function isNews(show) {
   const type = (show.type || "").toLowerCase();
   const genres = show.genres || [];
   const name = (show.name || "").toLowerCase();
-
-  const newsKeywords = [
-    "news", "morning", "early start", "gma", "politicsnation", "700 club", "today"
-  ];
-
   return (
     type === "news" ||
-    genres.some(g => ["news", "talk show"].includes(g.toLowerCase())) ||
-    newsKeywords.some(k => name.includes(k))
+    genres.some(g => g.toLowerCase() === "news") ||
+    name.includes("news")
   );
 }
 
@@ -47,28 +44,30 @@ function isSportsShow(show) {
   const type = (show.type || "").toLowerCase();
   const genres = show.genres || [];
   const name = (show.name || "").toLowerCase();
-  
-  const sportsKeywords = ["football", "soccer", "basketball", "nfl", "nhl"];
-  
   return (
     type === "sports" ||
     genres.some(g => g.toLowerCase() === "sports") ||
-    sportsKeywords.some(k => name.includes(k))
+    name.includes("football") ||
+    name.includes("soccer")
+  );
+}
+
+function looksLikeSports(show) {
+  const name = (show.name || "").toLowerCase();
+  const network = (show.network?.name || "").toLowerCase();
+  const sportsKeywords = ["football", "soccer", "basketball", "nfl", "nhl"];
+  const sportsNetworks = ["espn", "abc", "nbc sports", "fox sports"];
+  return (
+    sportsKeywords.some((k) => name.includes(k)) ||
+    sportsNetworks.some((n) => network.includes(n))
   );
 }
 
 function isForeign(show) {
   const allowedCountries = ["US", "GB", "CA", "AU", "NZ", "IE"];
-  const country = show?.network?.country?.code;
-
-  if (country) return !allowedCountries.includes(country);
-
-  // fallback: check network name for foreign indicators
-  const networkName = (show?.network?.name || "").toLowerCase();
-  const foreignIndicators = ["china", "japan", "korea", "russia", "cctv", "tvb"];
-  if (foreignIndicators.some(f => networkName.includes(f))) return true;
-
-  return false;
+  const c = show?.network?.country?.code;
+  if (!c) return true;
+  return !allowedCountries.includes(c);
 }
 
 function filterLastNDays(episodes, n, todayStr) {
@@ -85,7 +84,9 @@ function filterLastNDays(episodes, n, todayStr) {
   });
 }
 
+// ==========================
 // TMDB FALLBACK
+// ==========================
 async function tmdbFallback(imdbId) {
   if (!imdbId) return null;
 
@@ -101,7 +102,9 @@ async function tmdbFallback(imdbId) {
   return detail || null;
 }
 
+// ==========================
 // MAIN BUILD PROCESS
+// ==========================
 async function build() {
   const now = new Date();
   const yyyy = now.getUTCFullYear();
@@ -132,10 +135,9 @@ async function build() {
         const show = ep?.show || ep?._embedded?.show;
         if (!show?.id) continue;
 
-        if (isNews(show) || isSportsShow(show) || isForeign(show)) {
-          console.log("Skipping schedule show:", show.name, show.type, show.genres, show.network?.country?.code);
-          continue;
-        }
+        // APPLY NEWS/SPORTS/FILTER
+        if (isNews(show) || isSportsShow(show) || looksLikeSports(show)) continue;
+        if (isForeign(show)) continue;
 
         const cur = showMap.get(show.id);
         if (!cur) showMap.set(show.id, { show, episodes: [ep] });
@@ -166,17 +168,13 @@ async function build() {
         );
 
         if (Array.isArray(ep2) && ep2.length > 0) {
-          if (isNews(show) || isSportsShow(show) || isForeign(show)) {
-            console.log("Skipping episodesByDate show:", show.name);
-            continue;
-          }
           showMap.set(show.id, { show, episodes: ep2 });
         }
       }
     }
   }
 
-  // 3) TMDB fallback
+  // 3) TMDB fallback for missing episodes
   for (const [id, info] of showMap.entries()) {
     const imdb = info.show.externals?.imdb;
     if (!imdb) continue;
@@ -185,17 +183,23 @@ async function build() {
     if (detail && detail._embedded?.episodes?.length > 0) {
       const existing = info.episodes || [];
       const combined = [...existing, ...detail._embedded.episodes];
-      info.episodes = combined;
 
-      // Apply filters after TMDB fallback
-      if (isNews(info.show) || isSportsShow(info.show) || isForeign(info.show)) {
-        console.log("Filtered via TMDB fallback:", info.show.name, info.show.type, info.show.genres);
+      // DEDUPLICATE episodes by ID
+      const combinedMap = new Map();
+      for (const ep of combined) {
+        if (!ep?.id) continue;
+        combinedMap.set(ep.id, ep);
+      }
+      info.episodes = [...combinedMap.values()];
+
+      // Apply NEWS/SPORTS filter after TMDB fallback
+      if (isNews(info.show) || isSportsShow(info.show)) {
         showMap.delete(id);
       }
     }
   }
 
-  // 4) FINAL LIST
+  // Final list
   const finalList = [...showMap.values()]
     .map((v) => {
       const recent = filterLastNDays(v.episodes, 10, todayStr);
@@ -218,7 +222,7 @@ async function build() {
       };
     })
     .filter(Boolean)
-    .sort((a,b) => b.latestDate.localeCompare(a.latestDate));
+    .sort((a, b) => b.latestDate.localeCompare(a.latestDate));
 
   // Write catalog
   fs.mkdirSync("./catalog/series", { recursive: true });
@@ -233,6 +237,7 @@ async function build() {
   for (const v of showMap.values()) {
     const show = v.show;
 
+    // Deduplicate episodes by ID
     const uniqueMap = new Map();
     for (const ep of v.episodes || []) {
       if (!ep?.id) continue;
