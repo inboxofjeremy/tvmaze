@@ -1,16 +1,17 @@
 {
-"id": "tvmaze-weekly-schedule",
-"version": "3.0.0",
-"name": "TVMaze Weekly Schedule",
-"description": "English shows aired in the last 10 days. Includes fallback via episodesByDate and TMDB lookup.",
-"catalogs": [
-{
-"type": "series",
-"id": "tvmaze_weekly_schedule",
-"name": "Weekly Schedule"
-}
-],
-"resources": ["catalog", "meta"],
-"types": ["series"],
-"idPrefixes": ["tvmaze"]
+  "id": "tvmaze-weekly-schedule",
+  "version": "3.0.0",
+  "name": "TVMaze Weekly Schedule",
+  "description": "English shows aired in the last 10 days. Uses schedule + episodesByDate + TMDB fallbacks.",
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "tvmaze_weekly_schedule",
+      "name": "Weekly Schedule",
+      "url": "https://inboxofjeremy.github.io/tvmaze/catalog/series/tvmaze_weekly_schedule.json"
+    }
+  ],
+  "resources": ["catalog", "meta"],
+  "types": ["series"],
+  "idPrefixes": ["tvmaze"]
 }
