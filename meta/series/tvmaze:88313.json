@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:88313",
+    "type": "series",
+    "name": "Aerial Mexico",
+    "description": "Get a stunning view of the soul, strength and spirit of this historic land on Aerial Mexico",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/598/1495774.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/598/1495774.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3449768",
+        "title": "The Industrious Highlands",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-12-07",
+        "overview": "In Mexico's North, ancient runners defy impossible distances and living fossils reveal Earth's secrets. From Monterrey's industrial city to Guanajuato's revolutionary past, discover how mighty mountains forge unbreakable spirit."
+      }
+    ]
+  }
+}

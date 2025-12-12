@@ -1,0 +1,1060 @@
+{
+  "meta": {
+    "id": "tvmaze:78789",
+    "type": "series",
+    "name": "DMV",
+    "description": "DMV is set at the place everyone dreads going most: the DMV. Our quirky and lovable characters are making minimum wage, doing a thankless job where customers are annoyed before they even walk in the door. Good thing they have each other.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479834.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479834.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3402684",
+        "title": "The Next Window",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-08",
+        "overview": "At the Big Sac holiday party, Colette tries to impress Noa before his single window closes; Barb's effort to save the East Hollywood DMV backfires when she accidentally tackles the director, but assistant Sally steps in to help."
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3301101",
+        "title": "Pilot",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-10-13",
+        "overview": "Colette pines for her coworker Noa while enduring teasing from colleagues Gregg, Vic and Ceci; new manager Barb rallies the crew to save their branch from government shutdown."
+      },
+      {
+        "id": "tvmaze:3364406",
+        "title": "Stay in Your Lane",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-10-20",
+        "overview": "When the insanity at the DMV causes a new hire to quit, Colette worries Noa will follow and tries to make things better; employees and customers struggle through a sweltering day with a barely functional air conditioner."
+      },
+      {
+        "id": "tvmaze:3383308",
+        "title": "Easy Pass",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-10-27",
+        "overview": "Colette is tasked with giving Noa his driving test; Ceci helps Barb get camera-ready for her new manager portrait."
+      },
+      {
+        "id": "tvmaze:3393028",
+        "title": "Don't Kill the Job",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-11-03",
+        "overview": "When Colette runs into an old friend at the DMV, she pretends to be a fellow customer rather than an employee in order to save face."
+      },
+      {
+        "id": "tvmaze:3400592",
+        "title": "Stick Shift",
+        "season": 1,
+        "episode": 5,
+        "released": "2025-11-10",
+        "overview": "When Ceci accuses Colette of only being kind for the credit, Colette anonymously gives Noa the perfect gift."
+      },
+      {
+        "id": "tvmaze:3402681",
+        "title": "Blindspot",
+        "season": 1,
+        "episode": 6,
+        "released": "2025-11-17",
+        "overview": "Colette is crushed to learn that Noa is dating someone; Barb tries to find out who is defacing DMV property with childishly inappropriate drawings."
+      },
+      {
+        "id": "tvmaze:3402682",
+        "title": "There Is No I in DMV",
+        "season": 1,
+        "episode": 7,
+        "released": "2025-11-24",
+        "overview": "Barb takes the team on a field trip to the rival North Hollywood branch to learn the secrets of their success; Barb begins to doubt herself after meeting their charismatic manager, Beau."
+      },
+      {
+        "id": "tvmaze:3402683",
+        "title": "Splash Fountain",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-01",
+        "overview": "Colette's effort to redirect holiday plans takes an unexpected turn when it lands her trapped in a car; a surprising new friendship stirs up jealousy among the team."
+      },
+      {
+        "id": "tvmaze:3402684",
+        "title": "The Next Window",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-08",
+        "overview": "At the Big Sac holiday party, Colette tries to impress Noa before his single window closes; Barb's effort to save the East Hollywood DMV backfires when she accidentally tackles the director, but assistant Sally steps in to help."
+      },
+      {
+        "id": "tvmaze:3442979",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449336",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449337",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449338",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449339",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449340",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449341",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449342",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449343",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449344",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449345",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-04",
+        "overview": ""
+      }
+    ]
+  }
+}

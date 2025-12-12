@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:84267",
+    "type": "series",
+    "name": "The Weeknight",
+    "description": "One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/567/1417799.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/567/1417799.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3454152",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

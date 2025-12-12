@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:9965",
+    "type": "series",
+    "name": "FOX & Friends",
+    "description": "FOX &amp; Friends is a conservative American early-morning news and opinion talk show on the Fox News Channel. It begins at 6:00 a.m. Eastern Time with the latest Fox News Live headlines and news of the morning and continues with a variety of segments including current events, interviews, updates of news stories with correspondents, right-leaning analysis from the hosts, and entertainment segments.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/517/1293366.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/517/1293366.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3458125",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "meta": {
+    "id": "tvmaze:76878",
+    "type": "series",
+    "name": "Police 24/7",
+    "description": "Fearless men and women in law enforcement agencies across eight U.S. cities demonstrate what it takes to keep the streets safe from crime.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/601/1503885.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/601/1503885.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2860454",
+        "title": "The Chase",
+        "season": 1,
+        "episode": 1,
+        "released": "2024-05-07",
+        "overview": "Suspects lead police on a car chase then a foot chase through houses. Officers apply first aid to a gunshot victim and arrest his roommate."
+      },
+      {
+        "id": "tvmaze:2895587",
+        "title": "Three Stops You're Out",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-05-07",
+        "overview": "A stolen truck leads police on a dangerous high-speed chase; a speeder gives the police an earful; a disgruntled mom picks up her drunk son."
+      },
+      {
+        "id": "tvmaze:2860455",
+        "title": "Close Shave",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-05-14",
+        "overview": "Officers go on a wild, stolen car chase involving a teenage driver; two men are suspected of stealing thousands of dollars' worth of razors."
+      },
+      {
+        "id": "tvmaze:2860463",
+        "title": "Patients and Patience",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-05-21",
+        "overview": "A call to a shooting leads to a scuffle and a lost gun, an officer must clear squatters from an abandoned house, an angry passenger does not appreciate getting a ride home."
+      },
+      {
+        "id": "tvmaze:2870655",
+        "title": "Into the Woods",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-05-28",
+        "overview": "A multi-officer manhunt through a swamp; A double homicide at a hotel leave officers looking for a suspect on the loose; A woman lost in Florida tries to find her way back to New York."
+      },
+      {
+        "id": "tvmaze:2880526",
+        "title": "On the Run",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-06-04",
+        "overview": "Officers in a nighttime manhunt search for 4 men involved in a shooting; An officer tries to help a woman and her three children looking for shelter; Two men are arrested after an accident downs two powerlines."
+      },
+      {
+        "id": "tvmaze:2894929",
+        "title": "Outrunning the law",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-06-11",
+        "overview": "A man in the woods is interrogated after his actions draw attention from a nearby school; Two men get lucky as they find out their warrants have just expired; A distraught man gets pulled over on suspicion of a DUI."
+      },
+      {
+        "id": "tvmaze:2896794",
+        "title": "You Again",
+        "season": 1,
+        "episode": 8,
+        "released": "2024-06-18",
+        "overview": "Flagler utilizes their SWAT equipment to infiltrate a known drug house; A car pursuit leads to arrest of a man detained on the suspicion of ditching meth; Officers pull over a man for a DUI for the second night in a row."
+      },
+      {
+        "id": "tvmaze:2906472",
+        "title": "Tape It Off",
+        "season": 1,
+        "episode": 9,
+        "released": "2024-06-25",
+        "overview": "Police find a woman covered in blood near a man that's been shot; A stolen car is recovered from a yard across town; Police respond to a domestic dispute involving an elderly man."
+      },
+      {
+        "id": "tvmaze:2934290",
+        "title": "Man's Best Friend",
+        "season": 1,
+        "episode": 10,
+        "released": "2024-06-25",
+        "overview": "A K-9 unit helps lead a manhunt; A property dispute between a squatter and a motel next door; A suspicious vehicle is searched and a felony level of MDMA is discovered."
+      },
+      {
+        "id": "tvmaze:3063512",
+        "title": "Foiled Again",
+        "season": 2,
+        "episode": 1,
+        "released": "2025-01-23",
+        "overview": "Police negotiate with a suspect barricaded in his bedroom; motel occupants fail to convince police that the found paraphernalia isn't theirs; a mishap involving a toy gun has potential deadly consequences."
+      },
+      {
+        "id": "tvmaze:3108091",
+        "title": "Credit Cards with Charges",
+        "season": 2,
+        "episode": 2,
+        "released": "2025-01-30",
+        "overview": "Police attend to a melee at the gas station involving a golf club; a shoplifter is caught with several IDs and credit cards not belonging to her. A DUI suspect recognizes one of the arresting officers."
+      },
+      {
+        "id": "tvmaze:3115745",
+        "title": "Swift Justice",
+        "season": 2,
+        "episode": 3,
+        "released": "2025-02-06",
+        "overview": "Police struggle to remove an overdosing motel occupant; a river rescue proves challenging to local police; a high-speed motorcycle chase leads to a sad confession by the rider."
+      },
+      {
+        "id": "tvmaze:3123108",
+        "title": "Locked and Loaded",
+        "season": 2,
+        "episode": 4,
+        "released": "2025-02-13",
+        "overview": "Police respond to a tip of a suspect hiding out in a hotel; a suspect's auntie gives controversial advice to her nephew; a backyard dwelling gator gets relocated by a team of police."
+      },
+      {
+        "id": "tvmaze:3123109",
+        "title": "Bad Day at the Park",
+        "season": 2,
+        "episode": 5,
+        "released": "2025-02-20",
+        "overview": "Wilmington police investigate a late-night picnic gone wrong; police are forced to figure out a custody dispute in the middle of a crowded bar; police rescue an over-heated dog left in the car."
+      },
+      {
+        "id": "tvmaze:3123110",
+        "title": "Run n' Gun",
+        "season": 2,
+        "episode": 6,
+        "released": "2025-02-27",
+        "overview": "A man on a motorcycle leads police on a high-speed, multi-state chase; Police plot to stop a fleeing car; A traffic stop leads to suspects unsuccessfully trying to dispose of evidence."
+      },
+      {
+        "id": "tvmaze:3123111",
+        "title": "Family Matters",
+        "season": 2,
+        "episode": 7,
+        "released": "2025-03-06",
+        "overview": "A traffic stop turns into a foot chase into the woods; a disgruntled boss works with police to get former employee arrested; A daughter is forced to call the cops on her mom after an altercation."
+      },
+      {
+        "id": "tvmaze:3123112",
+        "title": "Frisky Business",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-03-13",
+        "overview": "A traffic stop leads to a drug arrest with the suspect hiding drugs in an unusual place; a shattered windshield leads to a domestic violence arrest; Police are forced to subdue a man harassing and throwing laundry beads at people."
+      },
+      {
+        "id": "tvmaze:3123113",
+        "title": "Crime After Crime",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-03-20",
+        "overview": "A routine traffic stop uncovers a fugitive hiding in the backseat; Police must figure out a way to get a disturbed man from on top a box truck; Police must use discretion as a high-speed chase gets close to a school zone."
+      },
+      {
+        "id": "tvmaze:3123114",
+        "title": "Naked Aggression",
+        "season": 2,
+        "episode": 10,
+        "released": "2025-03-27",
+        "overview": "Police are forced to deploy a taser while pursuing a suspect on foot; police help a man overdosing on the side of the road; police help reunite parents and their toddler at a corn maze; during patrol, police must act quickly once they hear shots fired."
+      },
+      {
+        "id": "tvmaze:3174100",
+        "title": "Jaws of Life",
+        "season": 2,
+        "episode": 11,
+        "released": "2025-04-03",
+        "overview": "A vehicle pursuit quickly turns to a rescue once the driver crashes; police contain a man in the throes of a drug trip; a late-night driver gets caught with prescriptions that aren't hers."
+      },
+      {
+        "id": "tvmaze:3182473",
+        "title": "Side Swiped",
+        "season": 2,
+        "episode": 12,
+        "released": "2025-04-10",
+        "overview": "Police race to save a women suspected of overdosing; police kick down some doors in order to arrest a suspect; a man pleads for help from the police as he tries to resolve family issues; a driver accidentally runs his car into a store."
+      },
+      {
+        "id": "tvmaze:3190905",
+        "title": "Small But Mighty",
+        "season": 2,
+        "episode": 13,
+        "released": "2025-04-17",
+        "overview": "A melee at a bar is broken up by two cops who also happen to be best friends; police call fire and EMS to a scene of a severely injured man; police dogs find a man suspected of a hit and run."
+      },
+      {
+        "id": "tvmaze:3200829",
+        "title": "Too Much Whine",
+        "season": 2,
+        "episode": 14,
+        "released": "2025-04-24",
+        "overview": "Police track down suspects using dogs and drones; police deal with a drunk man causing problems in the neighborhood; police investigate a fight unclear if the victims are being forthright; while on patrol, police find a woman involved in an accident who's had too much to drink."
+      },
+      {
+        "id": "tvmaze:3205975",
+        "title": "Food Fight",
+        "season": 2,
+        "episode": 15,
+        "released": "2025-05-01",
+        "overview": "A routine traffic stop escalates into a foot chase with a taser deployment; a dispute over food leads to an arrest over outstanding warrants; a recently released man gets arrested for a felonious amount of marijuana; a driver is unaware he's driving a stolen truck."
+      },
+      {
+        "id": "tvmaze:3207794",
+        "title": "You're in a Pickle",
+        "season": 2,
+        "episode": 16,
+        "released": "2025-05-08",
+        "overview": "Police find a man suspected in a domestic battery case hiding under a truck; police find a woman passed out drunk in her car; an officer finds himself in a dilemma concerning a man and a stolen gun."
+      },
+      {
+        "id": "tvmaze:3219481",
+        "title": "Keep Testing Me, Man",
+        "season": 2,
+        "episode": 17,
+        "released": "2025-05-15",
+        "overview": "A crime prevention unit's car gets rammed by a fleeing stolen car; a suspicious group of people are found to have warrants and a squirrel; a homeless lady is warned to stop assaulting people; police pursue suspects relying on dogs and helicopters for help."
+      },
+      {
+        "id": "tvmaze:3225902",
+        "title": "It's Not a Good Day Today",
+        "season": 2,
+        "episode": 18,
+        "released": "2025-05-22",
+        "overview": "A reported menacing call requires multiple police and dogs to resolve the situation; a man tries to get his car back from the impound yard; a security guard on a motorcycle tries to speed his way out of a bad day."
+      },
+      {
+        "id": "tvmaze:3233739",
+        "title": "She's in the Washing Machine",
+        "season": 2,
+        "episode": 19,
+        "released": "2025-05-29",
+        "overview": "Police resort to extreme methods while trying to stop a fleeing suspect; an intoxicated man gets boxed in by police as he tries to drive away; police find suspects as they respond to a shots fired call."
+      },
+      {
+        "id": "tvmaze:3243420",
+        "title": "On the Edge",
+        "season": 2,
+        "episode": 20,
+        "released": "2025-06-05",
+        "overview": "Police rush to help a woman in the middle of a domestic dispute; an upset man threatens to jump of the side of a building; a dirt-bike rider decides it's better to flee than to pullover; police help re-unite a dog with its rightful owner."
+      },
+      {
+        "id": "tvmaze:3248818",
+        "title": "Do You Want to Pick Up a Felony?",
+        "season": 2,
+        "episode": 21,
+        "released": "2025-06-12",
+        "overview": "Police, with the help of canines, track down a suspect hiding in the woods; a traffic stop reveals hidden guns and drugs; police race to assist a woman who's been shot; a pregnant woman gets caught using a fake name."
+      },
+      {
+        "id": "tvmaze:3260949",
+        "title": "I Got One Running",
+        "season": 2,
+        "episode": 22,
+        "released": "2025-06-19",
+        "overview": "A trespassing warning turns into a foot chase; a brawl breaks out between some bikers and locals; a 21-year-old with a crashed car tell police a dubious story; a reckless driver puts himself and others in danger."
+      },
+      {
+        "id": "tvmaze:3269860",
+        "title": "Keep Your Eyes Open",
+        "season": 2,
+        "episode": 23,
+        "released": "2025-06-26",
+        "overview": "Rowdy teenagers cause problems at the local liquor store; a traffic stop yields both guns and drugs; a man creates a medical emergency by swallowing drugs right before his arrest."
+      },
+      {
+        "id": "tvmaze:3357363",
+        "title": "I'm Sorry, Grandma",
+        "season": 2,
+        "episode": 24,
+        "released": "2025-09-18",
+        "overview": "A young man has instant regrets after getting stopped for stealing his grandma's car; a passer-by needs to be airlifted to a hospital after getting sideswiped by a car; neighbors accuse a man of indecent behavior leaving his sister in a difficult situation."
+      },
+      {
+        "id": "tvmaze:3357364",
+        "title": "Get Down!",
+        "season": 2,
+        "episode": 25,
+        "released": "2025-09-18",
+        "overview": "A traffic accident uncovers a prostitute and drug dealer up to no good; police respond to a man accused of brandishing a gun; a good Samaritan helps police revive a man suspected of having an overdose."
+      },
+      {
+        "id": "tvmaze:3357365",
+        "title": "What in the World is This?",
+        "season": 2,
+        "episode": 26,
+        "released": "2025-09-25",
+        "overview": "Police pursue people suspected of throwing rocks at passing cars; officers respond to a domestic violence call with a gun involved; an officer witnesses a car accident and assists with the rescue."
+      },
+      {
+        "id": "tvmaze:3357366",
+        "title": "Rocky Relationship",
+        "season": 2,
+        "episode": 27,
+        "released": "2025-09-25",
+        "overview": "The police's search for a stolen car leads to a foot chase; gun shots at a football game create chaos; police deal with a situation involving a lady with illegal drugs and cancer; and elderly man suffers from a panic attack as he confronts the man that tried to steal his bike."
+      },
+      {
+        "id": "tvmaze:3365373",
+        "title": "I Don't Think It's Crazy",
+        "season": 2,
+        "episode": 28,
+        "released": "2025-10-02",
+        "overview": "Police investigate a drive-by shooting at an apartment building; a homeless man is stopped for smoking fentanyl; a suspicious car leads to a drug arrest; police pursue a woman suspected of stealing a car."
+      },
+      {
+        "id": "tvmaze:3370619",
+        "title": "Where Y'all Headed?",
+        "season": 2,
+        "episode": 29,
+        "released": "2025-10-09",
+        "overview": "A routine traffic stop turns into a foot pursuit; a man suspected of throwing knives is questioned by police; a hotel calls police to help with a non-cooperative man not wanting to leave the property."
+      },
+      {
+        "id": "tvmaze:3379751",
+        "title": "That's My Wife",
+        "season": 2,
+        "episode": 30,
+        "released": "2025-10-16",
+        "overview": "Police pursue a man recklessly driving a motorcycle; officers coordinate with each other to pin in a suspected stolen car; police respond to a traffic accident involving an injured woman; police investigate a suspicious man going door to door asking for help getting his car unstuck."
+      },
+      {
+        "id": "tvmaze:3387995",
+        "title": "We're Not Doing That!",
+        "season": 2,
+        "episode": 31,
+        "released": "2025-10-23",
+        "overview": "A combative driver provides officers with suspicious information and then attempts to flee; a neighbor tips off officers that a wanted suspect just got home; a domestic violence call leads to an investigation where police must figure out who to charge."
+      },
+      {
+        "id": "tvmaze:3392597",
+        "title": "Too Many Coincidences For Me",
+        "season": 2,
+        "episode": 32,
+        "released": "2025-10-30",
+        "overview": "A traffic stop for improper use of center lane turns into a chase; a 911 call leads to officers helping a woman who stabbed herself; a speeding driver complains to officers of unusual health problems."
+      },
+      {
+        "id": "tvmaze:3400718",
+        "title": "Nice Try",
+        "season": 2,
+        "episode": 33,
+        "released": "2025-11-06",
+        "overview": "Officers pullover a car containing a subject wanted for firearms and explosives; a traffic violation leads to an arrest of a man with contortionist skills; a wild hog making a mess gets the attention of the police."
+      },
+      {
+        "id": "tvmaze:3423865",
+        "title": "I'm Not Asking You",
+        "season": 2,
+        "episode": 34,
+        "released": "2025-11-13",
+        "overview": "A speeding vehicle causes a head on collision with another cop car; a man with cancer is found with copious amounts of weed; police are forced to deploy a taser on a difficult suspect."
+      },
+      {
+        "id": "tvmaze:3429831",
+        "title": "Don't Do Nothing Dumb",
+        "season": 2,
+        "episode": 35,
+        "released": "2025-11-20",
+        "overview": "Multiple officers are needed to arrest a fleeing suspect; suspected shoplifters second guess their decisions; a traffic stop leads to seizure of a hidden gun."
+      },
+      {
+        "id": "tvmaze:3448618",
+        "title": "TBA",
+        "season": 2,
+        "episode": 36,
+        "released": "2026-01-21",
+        "overview": ""
+      }
+    ]
+  }
+}

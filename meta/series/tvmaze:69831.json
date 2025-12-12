@@ -1,0 +1,4692 @@
+{
+  "meta": {
+    "id": "tvmaze:69831",
+    "type": "series",
+    "name": "The Source with Kaitlan Collins",
+    "description": "The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/468/1171044.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/468/1171044.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3468773",
+        "title": "Episode 239",
+        "season": 2025,
+        "episode": 239,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2860512",
+        "title": "Episode 1",
+        "season": 2022,
+        "episode": 1,
+        "released": "2022-03-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2593973",
+        "title": "Episode 1",
+        "season": 2023,
+        "episode": 1,
+        "released": "2023-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2593974",
+        "title": "Episode 2",
+        "season": 2023,
+        "episode": 2,
+        "released": "2023-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2593975",
+        "title": "Episode 3",
+        "season": 2023,
+        "episode": 3,
+        "released": "2023-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2593976",
+        "title": "Episode 4",
+        "season": 2023,
+        "episode": 4,
+        "released": "2023-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2593977",
+        "title": "Episode 5",
+        "season": 2023,
+        "episode": 5,
+        "released": "2023-07-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2593978",
+        "title": "Episode 6",
+        "season": 2023,
+        "episode": 6,
+        "released": "2023-07-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2596409",
+        "title": "Episode 7",
+        "season": 2023,
+        "episode": 7,
+        "released": "2023-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2596410",
+        "title": "Episode 8",
+        "season": 2023,
+        "episode": 8,
+        "released": "2023-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2596411",
+        "title": "Episode 9",
+        "season": 2023,
+        "episode": 9,
+        "released": "2023-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2596412",
+        "title": "Episode 10",
+        "season": 2023,
+        "episode": 10,
+        "released": "2023-07-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2600279",
+        "title": "Episode 11",
+        "season": 2023,
+        "episode": 11,
+        "released": "2023-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2600280",
+        "title": "Episode 12",
+        "season": 2023,
+        "episode": 12,
+        "released": "2023-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2600281",
+        "title": "Episode 13",
+        "season": 2023,
+        "episode": 13,
+        "released": "2023-07-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2600282",
+        "title": "Episode 14",
+        "season": 2023,
+        "episode": 14,
+        "released": "2023-07-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2600283",
+        "title": "Episode 15",
+        "season": 2023,
+        "episode": 15,
+        "released": "2023-07-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2600284",
+        "title": "Episode 16",
+        "season": 2023,
+        "episode": 16,
+        "released": "2023-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2605906",
+        "title": "The January 6th Indictment of Donald Trump",
+        "season": 2023,
+        "episode": 17,
+        "released": "2023-08-01",
+        "overview": "Live special coverage of the January 6th Indictment of Donald Trump."
+      },
+      {
+        "id": "tvmaze:2605907",
+        "title": "Episode 18",
+        "season": 2023,
+        "episode": 18,
+        "released": "2023-08-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2605908",
+        "title": "The January 6th Indictment of Donald Trump",
+        "season": 2023,
+        "episode": 19,
+        "released": "2023-08-03",
+        "overview": "Live special coverage of the January 6th Indictment of Donald Trump."
+      },
+      {
+        "id": "tvmaze:2605909",
+        "title": "Episode 20",
+        "season": 2023,
+        "episode": 20,
+        "released": "2023-08-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2605910",
+        "title": "Episode 21",
+        "season": 2023,
+        "episode": 21,
+        "released": "2023-08-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2613752",
+        "title": "Episode 22",
+        "season": 2023,
+        "episode": 22,
+        "released": "2023-08-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2613753",
+        "title": "Episode 23",
+        "season": 2023,
+        "episode": 23,
+        "released": "2023-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2613754",
+        "title": "Episode 24",
+        "season": 2023,
+        "episode": 24,
+        "released": "2023-08-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2613755",
+        "title": "Episode 25",
+        "season": 2023,
+        "episode": 25,
+        "released": "2023-08-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2613756",
+        "title": "Episode 26",
+        "season": 2023,
+        "episode": 26,
+        "released": "2023-08-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2623180",
+        "title": "Episode 27",
+        "season": 2023,
+        "episode": 27,
+        "released": "2023-08-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2623181",
+        "title": "Episode 28",
+        "season": 2023,
+        "episode": 28,
+        "released": "2023-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2623182",
+        "title": "Episode 29",
+        "season": 2023,
+        "episode": 29,
+        "released": "2023-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2623183",
+        "title": "Episode 30",
+        "season": 2023,
+        "episode": 30,
+        "released": "2023-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2623184",
+        "title": "Episode 31",
+        "season": 2023,
+        "episode": 31,
+        "released": "2023-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2626112",
+        "title": "Episode 32",
+        "season": 2023,
+        "episode": 32,
+        "released": "2023-08-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2626114",
+        "title": "Episode 33",
+        "season": 2023,
+        "episode": 33,
+        "released": "2023-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2626115",
+        "title": "The Arrest of Donald Trump",
+        "season": 2023,
+        "episode": 34,
+        "released": "2023-08-24",
+        "overview": "Special coverage of the Georgia indictment of former President Donald Trump."
+      },
+      {
+        "id": "tvmaze:2626116",
+        "title": "Episode 35",
+        "season": 2023,
+        "episode": 35,
+        "released": "2023-08-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2626117",
+        "title": "Episode 36",
+        "season": 2023,
+        "episode": 36,
+        "released": "2023-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2632915",
+        "title": "Episode 37",
+        "season": 2023,
+        "episode": 37,
+        "released": "2023-08-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2632916",
+        "title": "Episode 38",
+        "season": 2023,
+        "episode": 38,
+        "released": "2023-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2632917",
+        "title": "Episode 39",
+        "season": 2023,
+        "episode": 39,
+        "released": "2023-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2632918",
+        "title": "Episode 40",
+        "season": 2023,
+        "episode": 40,
+        "released": "2023-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2632919",
+        "title": "Episode 41",
+        "season": 2023,
+        "episode": 41,
+        "released": "2023-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634620",
+        "title": "Episode 42",
+        "season": 2023,
+        "episode": 42,
+        "released": "2023-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634621",
+        "title": "Episode 43",
+        "season": 2023,
+        "episode": 43,
+        "released": "2023-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634622",
+        "title": "Episode 44",
+        "season": 2023,
+        "episode": 44,
+        "released": "2023-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634623",
+        "title": "Episode 45",
+        "season": 2023,
+        "episode": 45,
+        "released": "2023-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2640038",
+        "title": "Episode 46",
+        "season": 2023,
+        "episode": 46,
+        "released": "2023-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2640039",
+        "title": "Episode 47",
+        "season": 2023,
+        "episode": 47,
+        "released": "2023-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2640040",
+        "title": "Episode 48",
+        "season": 2023,
+        "episode": 48,
+        "released": "2023-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2640041",
+        "title": "Episode 49",
+        "season": 2023,
+        "episode": 49,
+        "released": "2023-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2640042",
+        "title": "Episode 50",
+        "season": 2023,
+        "episode": 50,
+        "released": "2023-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2645447",
+        "title": "Episode 51",
+        "season": 2023,
+        "episode": 51,
+        "released": "2023-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2645448",
+        "title": "Episode 52",
+        "season": 2023,
+        "episode": 52,
+        "released": "2023-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2645449",
+        "title": "Episode 53",
+        "season": 2023,
+        "episode": 53,
+        "released": "2023-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2645450",
+        "title": "Episode 54",
+        "season": 2023,
+        "episode": 54,
+        "released": "2023-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2645451",
+        "title": "Episode 55",
+        "season": 2023,
+        "episode": 55,
+        "released": "2023-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2651206",
+        "title": "Episode 56",
+        "season": 2023,
+        "episode": 56,
+        "released": "2023-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2651207",
+        "title": "Episode 57",
+        "season": 2023,
+        "episode": 57,
+        "released": "2023-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2651208",
+        "title": "Episode 58",
+        "season": 2023,
+        "episode": 58,
+        "released": "2023-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2651209",
+        "title": "Episode 59",
+        "season": 2023,
+        "episode": 59,
+        "released": "2023-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2651210",
+        "title": "Episode 60",
+        "season": 2023,
+        "episode": 60,
+        "released": "2023-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2656807",
+        "title": "Episode 61: The Speaker's Fate",
+        "season": 2023,
+        "episode": 61,
+        "released": "2023-10-03",
+        "overview": "The US House of Representatives voted today to oust its Speaker for the first time in history. When Speaker Kevin McCarthy failed to keep his leadership post, his 269-day speakership became the shortest in more than 140 years. The House must now elect a new speaker, but no clear alternative has the support needed to win the gavel. McCarthy said Tuesday night he will not seek the speakership again."
+      },
+      {
+        "id": "tvmaze:2656808",
+        "title": "Episode 62",
+        "season": 2023,
+        "episode": 62,
+        "released": "2023-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2656809",
+        "title": "Episode 63",
+        "season": 2023,
+        "episode": 63,
+        "released": "2023-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2656810",
+        "title": "Episode 64",
+        "season": 2023,
+        "episode": 64,
+        "released": "2023-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2656811",
+        "title": "Episode 65",
+        "season": 2023,
+        "episode": 65,
+        "released": "2023-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2662712",
+        "title": "Episode 66",
+        "season": 2023,
+        "episode": 66,
+        "released": "2023-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2662713",
+        "title": "Episode 67",
+        "season": 2023,
+        "episode": 67,
+        "released": "2023-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2662714",
+        "title": "Episode 68",
+        "season": 2023,
+        "episode": 68,
+        "released": "2023-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2662715",
+        "title": "Episode 69",
+        "season": 2023,
+        "episode": 69,
+        "released": "2023-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2662717",
+        "title": "Episode 70",
+        "season": 2023,
+        "episode": 70,
+        "released": "2023-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2667950",
+        "title": "Episode 71",
+        "season": 2023,
+        "episode": 71,
+        "released": "2023-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2668601",
+        "title": "Episode 72",
+        "season": 2023,
+        "episode": 72,
+        "released": "2023-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2668602",
+        "title": "Episode 73",
+        "season": 2023,
+        "episode": 73,
+        "released": "2023-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2668603",
+        "title": "Episode 74",
+        "season": 2023,
+        "episode": 74,
+        "released": "2023-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2668604",
+        "title": "Episode 75",
+        "season": 2023,
+        "episode": 75,
+        "released": "2023-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2668605",
+        "title": "Episode 76",
+        "season": 2023,
+        "episode": 76,
+        "released": "2023-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2668606",
+        "title": "Episode 77",
+        "season": 2023,
+        "episode": 77,
+        "released": "2023-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2668607",
+        "title": "Episode 78",
+        "season": 2023,
+        "episode": 78,
+        "released": "2023-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2668608",
+        "title": "Episode 79",
+        "season": 2023,
+        "episode": 79,
+        "released": "2023-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2674276",
+        "title": "Episode 80",
+        "season": 2023,
+        "episode": 80,
+        "released": "2023-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2674277",
+        "title": "Episode 81",
+        "season": 2023,
+        "episode": 81,
+        "released": "2023-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2674278",
+        "title": "Episode 82",
+        "season": 2023,
+        "episode": 82,
+        "released": "2023-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2674279",
+        "title": "Episode 83",
+        "season": 2023,
+        "episode": 83,
+        "released": "2023-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2674280",
+        "title": "Episode 84",
+        "season": 2023,
+        "episode": 84,
+        "released": "2023-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2680409",
+        "title": "Episode 85",
+        "season": 2023,
+        "episode": 85,
+        "released": "2023-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2680410",
+        "title": "Episode 86",
+        "season": 2023,
+        "episode": 86,
+        "released": "2023-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2680411",
+        "title": "Episode 87",
+        "season": 2023,
+        "episode": 87,
+        "released": "2023-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2680412",
+        "title": "Episode 88",
+        "season": 2023,
+        "episode": 88,
+        "released": "2023-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2686514",
+        "title": "Episode 89",
+        "season": 2023,
+        "episode": 89,
+        "released": "2023-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2686515",
+        "title": "Episode 90",
+        "season": 2023,
+        "episode": 90,
+        "released": "2023-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2686516",
+        "title": "Episode 91",
+        "season": 2023,
+        "episode": 91,
+        "released": "2023-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2686517",
+        "title": "Episode 92",
+        "season": 2023,
+        "episode": 92,
+        "released": "2023-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2686518",
+        "title": "Episode 93",
+        "season": 2023,
+        "episode": 93,
+        "released": "2023-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2691584",
+        "title": "Episode 94",
+        "season": 2023,
+        "episode": 94,
+        "released": "2023-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2691585",
+        "title": "Episode 95",
+        "season": 2023,
+        "episode": 95,
+        "released": "2023-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2691586",
+        "title": "Episode 96",
+        "season": 2023,
+        "episode": 96,
+        "released": "2023-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2694302",
+        "title": "Episode 97",
+        "season": 2023,
+        "episode": 97,
+        "released": "2023-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2694303",
+        "title": "Episode 98",
+        "season": 2023,
+        "episode": 98,
+        "released": "2023-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2694304",
+        "title": "Episode 99",
+        "season": 2023,
+        "episode": 99,
+        "released": "2023-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2694305",
+        "title": "Episode 100",
+        "season": 2023,
+        "episode": 100,
+        "released": "2023-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2694306",
+        "title": "Episode 101",
+        "season": 2023,
+        "episode": 101,
+        "released": "2023-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2700689",
+        "title": "Episode 102",
+        "season": 2023,
+        "episode": 102,
+        "released": "2023-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2700690",
+        "title": "Episode 103",
+        "season": 2023,
+        "episode": 103,
+        "released": "2023-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2700691",
+        "title": "Episode 104",
+        "season": 2023,
+        "episode": 104,
+        "released": "2023-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2700692",
+        "title": "Episode 105",
+        "season": 2023,
+        "episode": 105,
+        "released": "2023-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2712794",
+        "title": "Episode 106",
+        "season": 2023,
+        "episode": 106,
+        "released": "2023-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2712795",
+        "title": "Episode 107",
+        "season": 2023,
+        "episode": 107,
+        "released": "2023-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2712796",
+        "title": "Episode 108",
+        "season": 2023,
+        "episode": 108,
+        "released": "2023-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2712797",
+        "title": "Episode 109",
+        "season": 2023,
+        "episode": 109,
+        "released": "2023-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2717293",
+        "title": "Episode 110",
+        "season": 2023,
+        "episode": 110,
+        "released": "2023-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2717294",
+        "title": "Episode 111",
+        "season": 2023,
+        "episode": 111,
+        "released": "2023-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2717295",
+        "title": "Episode 112",
+        "season": 2023,
+        "episode": 112,
+        "released": "2023-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2717296",
+        "title": "Episode 113",
+        "season": 2023,
+        "episode": 113,
+        "released": "2023-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720390",
+        "title": "Episode 114",
+        "season": 2023,
+        "episode": 114,
+        "released": "2023-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720391",
+        "title": "Episode 115",
+        "season": 2023,
+        "episode": 115,
+        "released": "2023-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720392",
+        "title": "Episode 116",
+        "season": 2023,
+        "episode": 116,
+        "released": "2023-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720393",
+        "title": "Episode 1",
+        "season": 2024,
+        "episode": 1,
+        "released": "2024-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2724621",
+        "title": "Episode 2",
+        "season": 2024,
+        "episode": 2,
+        "released": "2024-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2724622",
+        "title": "Episode 3",
+        "season": 2024,
+        "episode": 3,
+        "released": "2024-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2724623",
+        "title": "Episode 4",
+        "season": 2024,
+        "episode": 4,
+        "released": "2024-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2724624",
+        "title": "Episode 5",
+        "season": 2024,
+        "episode": 5,
+        "released": "2024-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732587",
+        "title": "Episode 6",
+        "season": 2024,
+        "episode": 6,
+        "released": "2024-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2736957",
+        "title": "Episode 7",
+        "season": 2024,
+        "episode": 7,
+        "released": "2024-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2742551",
+        "title": "Episode 8",
+        "season": 2024,
+        "episode": 8,
+        "released": "2024-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2744025",
+        "title": "Episode 9",
+        "season": 2024,
+        "episode": 9,
+        "released": "2024-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2744026",
+        "title": "Countdown to NH",
+        "season": 2024,
+        "episode": 10,
+        "released": "2024-01-22",
+        "overview": "Counting down to the 2024 New Hampshire Primary."
+      },
+      {
+        "id": "tvmaze:2749835",
+        "title": "Episode 11",
+        "season": 2024,
+        "episode": 11,
+        "released": "2024-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2749836",
+        "title": "Episode 12",
+        "season": 2024,
+        "episode": 12,
+        "released": "2024-01-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2749837",
+        "title": "Episode 13",
+        "season": 2024,
+        "episode": 13,
+        "released": "2024-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2749872",
+        "title": "Episode 14",
+        "season": 2024,
+        "episode": 14,
+        "released": "2024-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2757321",
+        "title": "Episode 15",
+        "season": 2024,
+        "episode": 15,
+        "released": "2024-01-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2757322",
+        "title": "Episode 16",
+        "season": 2024,
+        "episode": 16,
+        "released": "2024-01-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2757323",
+        "title": "Episode 17",
+        "season": 2024,
+        "episode": 17,
+        "released": "2024-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2757324",
+        "title": "Episode 18",
+        "season": 2024,
+        "episode": 18,
+        "released": "2024-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2757325",
+        "title": "Episode 19",
+        "season": 2024,
+        "episode": 19,
+        "released": "2024-02-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2763865",
+        "title": "Episode 20",
+        "season": 2024,
+        "episode": 20,
+        "released": "2024-02-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2763866",
+        "title": "Episode 21",
+        "season": 2024,
+        "episode": 21,
+        "released": "2024-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2763867",
+        "title": "Trump Ballot Battle at the Supreme Court",
+        "season": 2024,
+        "episode": 22,
+        "released": "2024-02-08",
+        "overview": "Live analysis of Donald Trump's Colorado ballot removal case before the US Supreme Court; Anderson Cooper and Kaitlan Collins anchor."
+      },
+      {
+        "id": "tvmaze:2763868",
+        "title": "Episode 23",
+        "season": 2024,
+        "episode": 23,
+        "released": "2024-02-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2763869",
+        "title": "Episode 24",
+        "season": 2024,
+        "episode": 24,
+        "released": "2024-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2768745",
+        "title": "Episode 25",
+        "season": 2024,
+        "episode": 25,
+        "released": "2024-02-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2768746",
+        "title": "Episode 26",
+        "season": 2024,
+        "episode": 26,
+        "released": "2024-02-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2768747",
+        "title": "Episode 27",
+        "season": 2024,
+        "episode": 27,
+        "released": "2024-02-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2768748",
+        "title": "Episode 28",
+        "season": 2024,
+        "episode": 28,
+        "released": "2024-02-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2774756",
+        "title": "Episode 29",
+        "season": 2024,
+        "episode": 29,
+        "released": "2024-02-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2774757",
+        "title": "Episode 30",
+        "season": 2024,
+        "episode": 30,
+        "released": "2024-02-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2774758",
+        "title": "Episode 31",
+        "season": 2024,
+        "episode": 31,
+        "released": "2024-02-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2774759",
+        "title": "Episode 32",
+        "season": 2024,
+        "episode": 32,
+        "released": "2024-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2774760",
+        "title": "Episode 33",
+        "season": 2024,
+        "episode": 33,
+        "released": "2024-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2780979",
+        "title": "Episode 34",
+        "season": 2024,
+        "episode": 34,
+        "released": "2024-02-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2780980",
+        "title": "Episode 35",
+        "season": 2024,
+        "episode": 35,
+        "released": "2024-02-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2780981",
+        "title": "Episode 36",
+        "season": 2024,
+        "episode": 36,
+        "released": "2024-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2780982",
+        "title": "Episode 37",
+        "season": 2024,
+        "episode": 37,
+        "released": "2024-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2780983",
+        "title": "Episode 38",
+        "season": 2024,
+        "episode": 38,
+        "released": "2024-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2791742",
+        "title": "Episode 39",
+        "season": 2024,
+        "episode": 39,
+        "released": "2024-03-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2791743",
+        "title": "Episode 40",
+        "season": 2024,
+        "episode": 40,
+        "released": "2024-03-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2796631",
+        "title": "Episode 41",
+        "season": 2024,
+        "episode": 41,
+        "released": "2024-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2796632",
+        "title": "Episode 42",
+        "season": 2024,
+        "episode": 42,
+        "released": "2024-03-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2796633",
+        "title": "Episode 43",
+        "season": 2024,
+        "episode": 43,
+        "released": "2024-03-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2796634",
+        "title": "Episode 44",
+        "season": 2024,
+        "episode": 44,
+        "released": "2024-03-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2800662",
+        "title": "Episode 45",
+        "season": 2024,
+        "episode": 45,
+        "released": "2024-03-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2800663",
+        "title": "Episode 46",
+        "season": 2024,
+        "episode": 46,
+        "released": "2024-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2800664",
+        "title": "Episode 47",
+        "season": 2024,
+        "episode": 47,
+        "released": "2024-03-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2800665",
+        "title": "Episode 48",
+        "season": 2024,
+        "episode": 48,
+        "released": "2024-03-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2800666",
+        "title": "Episode 49",
+        "season": 2024,
+        "episode": 49,
+        "released": "2024-03-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802547",
+        "title": "Episode 50",
+        "season": 2024,
+        "episode": 50,
+        "released": "2024-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802548",
+        "title": "Episode 51",
+        "season": 2024,
+        "episode": 51,
+        "released": "2024-03-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802549",
+        "title": "Episode 52",
+        "season": 2024,
+        "episode": 52,
+        "released": "2024-03-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802550",
+        "title": "Episode 53",
+        "season": 2024,
+        "episode": 53,
+        "released": "2024-04-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802551",
+        "title": "Episode 54",
+        "season": 2024,
+        "episode": 54,
+        "released": "2024-04-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802552",
+        "title": "Episode 55",
+        "season": 2024,
+        "episode": 55,
+        "released": "2024-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802553",
+        "title": "Episode 56",
+        "season": 2024,
+        "episode": 56,
+        "released": "2024-04-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802554",
+        "title": "Episode 57",
+        "season": 2024,
+        "episode": 57,
+        "released": "2024-04-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802555",
+        "title": "Episode 58",
+        "season": 2024,
+        "episode": 58,
+        "released": "2024-04-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802556",
+        "title": "Episode 59",
+        "season": 2024,
+        "episode": 59,
+        "released": "2024-04-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802557",
+        "title": "Episode 60",
+        "season": 2024,
+        "episode": 60,
+        "released": "2024-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802558",
+        "title": "Episode 61",
+        "season": 2024,
+        "episode": 61,
+        "released": "2024-04-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802559",
+        "title": "Episode 62",
+        "season": 2024,
+        "episode": 62,
+        "released": "2024-04-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802560",
+        "title": "Episode 63",
+        "season": 2024,
+        "episode": 63,
+        "released": "2024-04-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2802561",
+        "title": "Episode 64",
+        "season": 2024,
+        "episode": 64,
+        "released": "2024-04-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2827311",
+        "title": "Episode 65",
+        "season": 2024,
+        "episode": 65,
+        "released": "2024-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2827312",
+        "title": "Episode 66",
+        "season": 2024,
+        "episode": 66,
+        "released": "2024-04-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2827313",
+        "title": "Episode 67",
+        "season": 2024,
+        "episode": 67,
+        "released": "2024-04-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2827314",
+        "title": "Episode 68",
+        "season": 2024,
+        "episode": 68,
+        "released": "2024-04-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2837708",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 69,
+        "released": "2024-04-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2837709",
+        "title": "Episode 70",
+        "season": 2024,
+        "episode": 70,
+        "released": "2024-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2837710",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 71,
+        "released": "2024-04-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2837711",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 72,
+        "released": "2024-04-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2837712",
+        "title": "Episode 73",
+        "season": 2024,
+        "episode": 73,
+        "released": "2024-04-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840445",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 74,
+        "released": "2024-04-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840446",
+        "title": "Episode 75",
+        "season": 2024,
+        "episode": 75,
+        "released": "2024-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840447",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 76,
+        "released": "2024-05-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840448",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 77,
+        "released": "2024-05-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840449",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 78,
+        "released": "2024-05-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840450",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 79,
+        "released": "2024-05-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840451",
+        "title": "Episode 80",
+        "season": 2024,
+        "episode": 80,
+        "released": "2024-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840452",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 81,
+        "released": "2024-05-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840453",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 82,
+        "released": "2024-05-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840454",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 83,
+        "released": "2024-05-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840455",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 84,
+        "released": "2024-05-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840456",
+        "title": "Episode 85",
+        "season": 2024,
+        "episode": 85,
+        "released": "2024-05-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840457",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 86,
+        "released": "2024-05-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840458",
+        "title": "Episode 87",
+        "season": 2024,
+        "episode": 87,
+        "released": "2024-05-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840459",
+        "title": "Episode 88",
+        "season": 2024,
+        "episode": 88,
+        "released": "2024-05-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840460",
+        "title": "Episode 89",
+        "season": 2024,
+        "episode": 89,
+        "released": "2024-05-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840461",
+        "title": "Episode 90",
+        "season": 2024,
+        "episode": 90,
+        "released": "2024-05-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840462",
+        "title": "Episode 91",
+        "season": 2024,
+        "episode": 91,
+        "released": "2024-05-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840463",
+        "title": "Episode 92",
+        "season": 2024,
+        "episode": 92,
+        "released": "2024-05-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840464",
+        "title": "Trump Hush Money Trial",
+        "season": 2024,
+        "episode": 93,
+        "released": "2024-05-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840465",
+        "title": "Episode 94",
+        "season": 2024,
+        "episode": 94,
+        "released": "2024-05-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840466",
+        "title": "Episode 95",
+        "season": 2024,
+        "episode": 95,
+        "released": "2024-05-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840467",
+        "title": "Episode 96",
+        "season": 2024,
+        "episode": 96,
+        "released": "2024-05-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840468",
+        "title": "Episode 97",
+        "season": 2024,
+        "episode": 97,
+        "released": "2024-06-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2840469",
+        "title": "Episode 98",
+        "season": 2024,
+        "episode": 98,
+        "released": "2024-06-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2895719",
+        "title": "Episode 99",
+        "season": 2024,
+        "episode": 99,
+        "released": "2024-06-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2895720",
+        "title": "Episode 100",
+        "season": 2024,
+        "episode": 100,
+        "released": "2024-06-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2895721",
+        "title": "Episode 101",
+        "season": 2024,
+        "episode": 101,
+        "released": "2024-06-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2895722",
+        "title": "Episode 102",
+        "season": 2024,
+        "episode": 102,
+        "released": "2024-06-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2904047",
+        "title": "Episode 103",
+        "season": 2024,
+        "episode": 103,
+        "released": "2024-06-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2904048",
+        "title": "Episode 104",
+        "season": 2024,
+        "episode": 104,
+        "released": "2024-06-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2904049",
+        "title": "Episode 105",
+        "season": 2024,
+        "episode": 105,
+        "released": "2024-06-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2904050",
+        "title": "Episode 106",
+        "season": 2024,
+        "episode": 106,
+        "released": "2024-06-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2904051",
+        "title": "Episode 107",
+        "season": 2024,
+        "episode": 107,
+        "released": "2024-06-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2915200",
+        "title": "Episode 108",
+        "season": 2024,
+        "episode": 108,
+        "released": "2024-06-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2916276",
+        "title": "Episode 109",
+        "season": 2024,
+        "episode": 109,
+        "released": "2024-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2916277",
+        "title": "Episode 110",
+        "season": 2024,
+        "episode": 110,
+        "released": "2024-06-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2916278",
+        "title": "Episode 111",
+        "season": 2024,
+        "episode": 111,
+        "released": "2024-06-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2916279",
+        "title": "Episode 112",
+        "season": 2024,
+        "episode": 112,
+        "released": "2024-06-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2919986",
+        "title": "Episode 113",
+        "season": 2024,
+        "episode": 113,
+        "released": "2024-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2919987",
+        "title": "Episode 114",
+        "season": 2024,
+        "episode": 114,
+        "released": "2024-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2919988",
+        "title": "Episode 115",
+        "season": 2024,
+        "episode": 115,
+        "released": "2024-06-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2928179",
+        "title": "Episode 116",
+        "season": 2024,
+        "episode": 116,
+        "released": "2024-07-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2928180",
+        "title": "Episode 117",
+        "season": 2024,
+        "episode": 117,
+        "released": "2024-07-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929554",
+        "title": "Episode 118",
+        "season": 2024,
+        "episode": 118,
+        "released": "2024-07-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929555",
+        "title": "Episode 119",
+        "season": 2024,
+        "episode": 119,
+        "released": "2024-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929556",
+        "title": "Episode 120",
+        "season": 2024,
+        "episode": 120,
+        "released": "2024-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929557",
+        "title": "Episode 121",
+        "season": 2024,
+        "episode": 121,
+        "released": "2024-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929558",
+        "title": "Episode 122",
+        "season": 2024,
+        "episode": 122,
+        "released": "2024-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929559",
+        "title": "RNC Preview",
+        "season": 2024,
+        "episode": 123,
+        "released": "2024-07-14",
+        "overview": "Kaitlan Collins previews the 2024 Republican National Convention."
+      },
+      {
+        "id": "tvmaze:2929560",
+        "title": "Episode 124",
+        "season": 2024,
+        "episode": 124,
+        "released": "2024-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929561",
+        "title": "Episode 125",
+        "season": 2024,
+        "episode": 125,
+        "released": "2024-07-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929562",
+        "title": "Episode 126",
+        "season": 2024,
+        "episode": 126,
+        "released": "2024-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929563",
+        "title": "President Biden Oval Office Address",
+        "season": 2024,
+        "episode": 127,
+        "released": "2024-07-24",
+        "overview": "Live coverage of President Joe Biden's Oval Office Address; Kaitlan Collins, Anderson Cooper, and Jake Tapper anchor."
+      },
+      {
+        "id": "tvmaze:2929564",
+        "title": "Episode 128",
+        "season": 2024,
+        "episode": 128,
+        "released": "2024-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929565",
+        "title": "Episode 129",
+        "season": 2024,
+        "episode": 129,
+        "released": "2024-07-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929566",
+        "title": "Episode 130",
+        "season": 2024,
+        "episode": 130,
+        "released": "2024-07-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929567",
+        "title": "Episode 131",
+        "season": 2024,
+        "episode": 131,
+        "released": "2024-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929568",
+        "title": "Episode 132",
+        "season": 2024,
+        "episode": 132,
+        "released": "2024-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929569",
+        "title": "Episode 133",
+        "season": 2024,
+        "episode": 133,
+        "released": "2024-08-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929570",
+        "title": "Episode 134",
+        "season": 2024,
+        "episode": 134,
+        "released": "2024-08-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929571",
+        "title": "Episode 135",
+        "season": 2024,
+        "episode": 135,
+        "released": "2024-08-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2929572",
+        "title": "Episode 136",
+        "season": 2024,
+        "episode": 136,
+        "released": "2024-08-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2960071",
+        "title": "Episode 137",
+        "season": 2024,
+        "episode": 137,
+        "released": "2024-08-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2960072",
+        "title": "Episode 138",
+        "season": 2024,
+        "episode": 138,
+        "released": "2024-08-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2960073",
+        "title": "Episode 139",
+        "season": 2024,
+        "episode": 139,
+        "released": "2024-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2960074",
+        "title": "Episode 140",
+        "season": 2024,
+        "episode": 140,
+        "released": "2024-08-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2971313",
+        "title": "Episode 141",
+        "season": 2024,
+        "episode": 141,
+        "released": "2024-08-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2971314",
+        "title": "Episode 142",
+        "season": 2024,
+        "episode": 142,
+        "released": "2024-08-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2971315",
+        "title": "Episode 143",
+        "season": 2024,
+        "episode": 143,
+        "released": "2024-08-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2971316",
+        "title": "Episode 144",
+        "season": 2024,
+        "episode": 144,
+        "released": "2024-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2971317",
+        "title": "DNC Preview",
+        "season": 2024,
+        "episode": 145,
+        "released": "2024-08-18",
+        "overview": "Kaitlan Collins previews the 2024 Democratic National Convention."
+      },
+      {
+        "id": "tvmaze:2974413",
+        "title": "Episode 146",
+        "season": 2024,
+        "episode": 146,
+        "released": "2024-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2985255",
+        "title": "Episode 147",
+        "season": 2024,
+        "episode": 147,
+        "released": "2024-08-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2985256",
+        "title": "Episode 148",
+        "season": 2024,
+        "episode": 148,
+        "released": "2024-08-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2985257",
+        "title": "Episode 149",
+        "season": 2024,
+        "episode": 149,
+        "released": "2024-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2985258",
+        "title": "Episode 150",
+        "season": 2024,
+        "episode": 150,
+        "released": "2024-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2985259",
+        "title": "Episode 151",
+        "season": 2024,
+        "episode": 151,
+        "released": "2024-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2990657",
+        "title": "Episode 152",
+        "season": 2024,
+        "episode": 152,
+        "released": "2024-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2990658",
+        "title": "Episode 153",
+        "season": 2024,
+        "episode": 153,
+        "released": "2024-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2990659",
+        "title": "Episode 154",
+        "season": 2024,
+        "episode": 154,
+        "released": "2024-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2990660",
+        "title": "Episode 155",
+        "season": 2024,
+        "episode": 155,
+        "released": "2024-09-09",
+        "overview": "In his first interview since police released bodycam footage of his detention, Miami Dolphins wide receiver Tyreek Hill told CNN's Kaitlan Collins that he is still reeling from being detained by police on Sunday as he drove to Hard Rock Stadium for the first game of the NFL season, saying he's still shocked it happened. Hill and his attorney Julius Collins joined The Source with Kaitlan Collins."
+      },
+      {
+        "id": "tvmaze:3000755",
+        "title": "Episode 156",
+        "season": 2024,
+        "episode": 156,
+        "released": "2024-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000756",
+        "title": "Episode 157",
+        "season": 2024,
+        "episode": 157,
+        "released": "2024-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000757",
+        "title": "Episode 158",
+        "season": 2024,
+        "episode": 158,
+        "released": "2024-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000759",
+        "title": "Episode 159",
+        "season": 2024,
+        "episode": 159,
+        "released": "2024-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000760",
+        "title": "Episode 160",
+        "season": 2024,
+        "episode": 160,
+        "released": "2024-09-17",
+        "overview": "Marc Agnifilo, attorney for Sean \"Diddy\" Combs, joined The Source with Kaitlan Collins for an exclusive interview to discuss the sprawling indictment against the music mogul."
+      },
+      {
+        "id": "tvmaze:3000761",
+        "title": "Episode 161",
+        "season": 2024,
+        "episode": 161,
+        "released": "2024-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000762",
+        "title": "Episode 162",
+        "season": 2024,
+        "episode": 162,
+        "released": "2024-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000763",
+        "title": "Episode 163",
+        "season": 2024,
+        "episode": 163,
+        "released": "2024-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000764",
+        "title": "Episode 164",
+        "season": 2024,
+        "episode": 164,
+        "released": "2024-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000765",
+        "title": "Episode 165",
+        "season": 2024,
+        "episode": 165,
+        "released": "2024-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000767",
+        "title": "Episode 166",
+        "season": 2024,
+        "episode": 166,
+        "released": "2024-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000768",
+        "title": "Episode 167",
+        "season": 2024,
+        "episode": 167,
+        "released": "2024-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000769",
+        "title": "Episode 168",
+        "season": 2024,
+        "episode": 168,
+        "released": "2024-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000770",
+        "title": "Episode 169",
+        "season": 2024,
+        "episode": 169,
+        "released": "2024-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000771",
+        "title": "Episode 170",
+        "season": 2024,
+        "episode": 170,
+        "released": "2024-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3000773",
+        "title": "Episode 171",
+        "season": 2024,
+        "episode": 171,
+        "released": "2024-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3014766",
+        "title": "Episode 172",
+        "season": 2024,
+        "episode": 172,
+        "released": "2024-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3014767",
+        "title": "Episode 173",
+        "season": 2024,
+        "episode": 173,
+        "released": "2024-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3014768",
+        "title": "Episode 174",
+        "season": 2024,
+        "episode": 174,
+        "released": "2024-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3020727",
+        "title": "Episode 175",
+        "season": 2024,
+        "episode": 175,
+        "released": "2024-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3020728",
+        "title": "Episode 176",
+        "season": 2024,
+        "episode": 176,
+        "released": "2024-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3020729",
+        "title": "Episode 177",
+        "season": 2024,
+        "episode": 177,
+        "released": "2024-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3020730",
+        "title": "Episode 178",
+        "season": 2024,
+        "episode": 178,
+        "released": "2024-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3020731",
+        "title": "Episode 179",
+        "season": 2024,
+        "episode": 179,
+        "released": "2024-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3025733",
+        "title": "Episode 180",
+        "season": 2024,
+        "episode": 180,
+        "released": "2024-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3025734",
+        "title": "Episode 181",
+        "season": 2024,
+        "episode": 181,
+        "released": "2024-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3025735",
+        "title": "Episode 182",
+        "season": 2024,
+        "episode": 182,
+        "released": "2024-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3025736",
+        "title": "Episode 183",
+        "season": 2024,
+        "episode": 183,
+        "released": "2024-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3030963",
+        "title": "Episode 184",
+        "season": 2024,
+        "episode": 184,
+        "released": "2024-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3030964",
+        "title": "Episode 185",
+        "season": 2024,
+        "episode": 185,
+        "released": "2024-10-24",
+        "overview": "Kaitlan Collins goes straight to the source for the best reporting on the day's biggest stories, chasing the facts and asking the tough questions. She interviews former Secretary of State Hillary Clinton."
+      },
+      {
+        "id": "tvmaze:3030965",
+        "title": "Episode 186",
+        "season": 2024,
+        "episode": 186,
+        "released": "2024-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3030966",
+        "title": "Episode 187",
+        "season": 2024,
+        "episode": 187,
+        "released": "2024-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038612",
+        "title": "Episode 188",
+        "season": 2024,
+        "episode": 188,
+        "released": "2024-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038613",
+        "title": "Episode 189",
+        "season": 2024,
+        "episode": 189,
+        "released": "2024-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038614",
+        "title": "Episode 190",
+        "season": 2024,
+        "episode": 190,
+        "released": "2024-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038615",
+        "title": "Episode 191",
+        "season": 2024,
+        "episode": 191,
+        "released": "2024-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038616",
+        "title": "Countdown to Election Day",
+        "season": 2024,
+        "episode": 192,
+        "released": "2024-11-03",
+        "overview": "Preview of the 2024 election with special coverage from host Kaitlan Collins."
+      },
+      {
+        "id": "tvmaze:3038617",
+        "title": "Countdown to Election Day",
+        "season": 2024,
+        "episode": 193,
+        "released": "2024-11-04",
+        "overview": "Preview of the 2024 election with special coverage from host Kaitlan Collins."
+      },
+      {
+        "id": "tvmaze:3038618",
+        "title": "Episode 194",
+        "season": 2024,
+        "episode": 194,
+        "released": "2024-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038619",
+        "title": "Episode 195",
+        "season": 2024,
+        "episode": 195,
+        "released": "2024-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038620",
+        "title": "Episode 196",
+        "season": 2024,
+        "episode": 196,
+        "released": "2024-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038621",
+        "title": "Episode 197",
+        "season": 2024,
+        "episode": 197,
+        "released": "2024-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038622",
+        "title": "Episode 198",
+        "season": 2024,
+        "episode": 198,
+        "released": "2024-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038623",
+        "title": "Episode 199",
+        "season": 2024,
+        "episode": 199,
+        "released": "2024-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038624",
+        "title": "Episode 200",
+        "season": 2024,
+        "episode": 200,
+        "released": "2024-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038625",
+        "title": "Episode 201",
+        "season": 2024,
+        "episode": 201,
+        "released": "2024-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038626",
+        "title": "Episode 202",
+        "season": 2024,
+        "episode": 202,
+        "released": "2024-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038627",
+        "title": "Episode 203",
+        "season": 2024,
+        "episode": 203,
+        "released": "2024-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038628",
+        "title": "Episode 204",
+        "season": 2024,
+        "episode": 204,
+        "released": "2024-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038629",
+        "title": "Episode 205",
+        "season": 2024,
+        "episode": 205,
+        "released": "2024-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3038630",
+        "title": "Episode 206",
+        "season": 2024,
+        "episode": 206,
+        "released": "2024-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3064304",
+        "title": "Episode 207",
+        "season": 2024,
+        "episode": 207,
+        "released": "2024-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3064305",
+        "title": "Episode 208",
+        "season": 2024,
+        "episode": 208,
+        "released": "2024-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3064306",
+        "title": "Episode 209",
+        "season": 2024,
+        "episode": 209,
+        "released": "2024-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3064307",
+        "title": "Episode 210",
+        "season": 2024,
+        "episode": 210,
+        "released": "2024-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3068805",
+        "title": "Episode 211",
+        "season": 2024,
+        "episode": 211,
+        "released": "2024-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3068806",
+        "title": "Episode 212",
+        "season": 2024,
+        "episode": 212,
+        "released": "2024-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3068807",
+        "title": "Episode 213",
+        "season": 2024,
+        "episode": 213,
+        "released": "2024-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3068808",
+        "title": "Episode 214",
+        "season": 2024,
+        "episode": 214,
+        "released": "2024-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3078245",
+        "title": "Episode 215",
+        "season": 2024,
+        "episode": 215,
+        "released": "2024-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3078246",
+        "title": "Episode 216",
+        "season": 2024,
+        "episode": 216,
+        "released": "2024-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3078247",
+        "title": "Episode 217",
+        "season": 2024,
+        "episode": 217,
+        "released": "2024-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3078248",
+        "title": "Episode 218",
+        "season": 2024,
+        "episode": 218,
+        "released": "2024-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3078249",
+        "title": "Episode 219",
+        "season": 2024,
+        "episode": 219,
+        "released": "2024-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3084378",
+        "title": "Episode 220",
+        "season": 2024,
+        "episode": 220,
+        "released": "2024-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3084379",
+        "title": "Episode 221",
+        "season": 2024,
+        "episode": 221,
+        "released": "2024-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3084380",
+        "title": "Episode 222",
+        "season": 2024,
+        "episode": 222,
+        "released": "2024-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3084381",
+        "title": "Episode 223",
+        "season": 2024,
+        "episode": 223,
+        "released": "2024-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3084382",
+        "title": "Episode 224",
+        "season": 2024,
+        "episode": 224,
+        "released": "2024-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3087545",
+        "title": "Episode 225",
+        "season": 2024,
+        "episode": 225,
+        "released": "2024-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3087546",
+        "title": "Episode 226",
+        "season": 2024,
+        "episode": 226,
+        "released": "2024-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3087547",
+        "title": "Episode 227",
+        "season": 2024,
+        "episode": 227,
+        "released": "2024-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3092211",
+        "title": "Episode 1",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3092212",
+        "title": "Episode 2",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3092213",
+        "title": "Episode 3",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3092214",
+        "title": "Episode 4",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-01-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3092215",
+        "title": "Episode 5",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3092216",
+        "title": "Episode 6",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3092217",
+        "title": "Episode 7",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3092218",
+        "title": "Episode 8",
+        "season": 2025,
+        "episode": 8,
+        "released": "2025-01-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3108024",
+        "title": "Episode 9",
+        "season": 2025,
+        "episode": 9,
+        "released": "2025-01-14",
+        "overview": "Tonight, Senator Elizabeth Warren (D-MA) joined The Source with Kaitlan Collins where she discussed her thoughts on today's confirmations hearing for Pete Hegseth hearing, his comments about women in combat, Senator Jodi Ernst (R-IA) saying she will vote yes for him, and more."
+      },
+      {
+        "id": "tvmaze:3108025",
+        "title": "Episode 10",
+        "season": 2025,
+        "episode": 10,
+        "released": "2025-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3108026",
+        "title": "Episode 11",
+        "season": 2025,
+        "episode": 11,
+        "released": "2025-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3108027",
+        "title": "Episode 12",
+        "season": 2025,
+        "episode": 12,
+        "released": "2025-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3108028",
+        "title": "Countdown to Inauguration",
+        "season": 2025,
+        "episode": 13,
+        "released": "2025-01-19",
+        "overview": "Counting down to the 2025 Presidential Inauguration of Donald Trump. Kaitlan Collins anchors."
+      },
+      {
+        "id": "tvmaze:3116778",
+        "title": "The Inauguration of Donald Trump",
+        "season": 2025,
+        "episode": 14,
+        "released": "2025-01-20",
+        "overview": "Live coverage of the Inaugural Balls from Washington, D.C. with Anderson Cooper and Kaitlan Collins."
+      },
+      {
+        "id": "tvmaze:3116779",
+        "title": "Episode 15",
+        "season": 2025,
+        "episode": 15,
+        "released": "2025-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3116780",
+        "title": "Episode 16",
+        "season": 2025,
+        "episode": 16,
+        "released": "2025-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3116781",
+        "title": "Episode 17",
+        "season": 2025,
+        "episode": 17,
+        "released": "2025-01-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3116782",
+        "title": "Episode 18",
+        "season": 2025,
+        "episode": 18,
+        "released": "2025-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3117254",
+        "title": "Episode 19",
+        "season": 2025,
+        "episode": 19,
+        "released": "2025-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3123654",
+        "title": "Episode 20",
+        "season": 2025,
+        "episode": 20,
+        "released": "2025-01-28",
+        "overview": "Tonight, White House Border Czar Tom Homan joined The Source with Kaitlan Collins to discuss the latest in the Trump Administration's immigration crackdown, whether Immigration and Customs Enforcement plans to conduct raids on schools and churches, and more."
+      },
+      {
+        "id": "tvmaze:3123655",
+        "title": "Episode 21",
+        "season": 2025,
+        "episode": 21,
+        "released": "2025-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3123656",
+        "title": "Episode 22",
+        "season": 2025,
+        "episode": 22,
+        "released": "2025-01-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3123657",
+        "title": "Episode 23",
+        "season": 2025,
+        "episode": 23,
+        "released": "2025-01-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3123658",
+        "title": "Episode 24",
+        "season": 2025,
+        "episode": 24,
+        "released": "2025-02-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3135445",
+        "title": "Episode 25",
+        "season": 2025,
+        "episode": 25,
+        "released": "2025-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3135446",
+        "title": "Episode 26",
+        "season": 2025,
+        "episode": 26,
+        "released": "2025-02-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3135447",
+        "title": "Episode 27",
+        "season": 2025,
+        "episode": 27,
+        "released": "2025-02-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3135448",
+        "title": "Episode 28",
+        "season": 2025,
+        "episode": 28,
+        "released": "2025-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3135449",
+        "title": "Episode 29",
+        "season": 2025,
+        "episode": 29,
+        "released": "2025-02-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3141178",
+        "title": "Episode 30",
+        "season": 2025,
+        "episode": 30,
+        "released": "2025-02-11",
+        "overview": "Tonight, U.S. Secretary of State Marco Rubio and U.S. Special Envoy for Hostage Affairs Adam Boehler join The Source with Kaitlan Collins to speak about the release of American teacher Marc Fogel from Russian detainment and revealed that another American will return home tomorrow."
+      },
+      {
+        "id": "tvmaze:3141179",
+        "title": "Episode 31",
+        "season": 2025,
+        "episode": 31,
+        "released": "2025-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3141180",
+        "title": "Episode 32",
+        "season": 2025,
+        "episode": 32,
+        "released": "2025-02-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3141181",
+        "title": "Episode 33",
+        "season": 2025,
+        "episode": 33,
+        "released": "2025-02-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3141182",
+        "title": "Episode 34",
+        "season": 2025,
+        "episode": 34,
+        "released": "2025-02-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3147850",
+        "title": "Episode 35",
+        "season": 2025,
+        "episode": 35,
+        "released": "2025-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3147851",
+        "title": "Episode 36",
+        "season": 2025,
+        "episode": 36,
+        "released": "2025-02-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3147852",
+        "title": "Episode 37",
+        "season": 2025,
+        "episode": 37,
+        "released": "2025-02-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3147853",
+        "title": "Episode 38",
+        "season": 2025,
+        "episode": 38,
+        "released": "2025-02-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3147854",
+        "title": "Episode 39",
+        "season": 2025,
+        "episode": 39,
+        "released": "2025-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3155079",
+        "title": "Episode 40",
+        "season": 2025,
+        "episode": 40,
+        "released": "2025-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3155080",
+        "title": "Episode 41",
+        "season": 2025,
+        "episode": 41,
+        "released": "2025-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3155081",
+        "title": "Episode 42",
+        "season": 2025,
+        "episode": 42,
+        "released": "2025-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3155082",
+        "title": "Episode 43",
+        "season": 2025,
+        "episode": 43,
+        "released": "2025-02-28",
+        "overview": "Tonight, U.S. Secretary of State Marco Rubio joined The Source with Kaitlan Collins for an exclusive interview to discuss today's Oval Office clash between President Donald Trump, Vice President J.D. Vance, and Ukrainian President Volodymyr Zelensky."
+      },
+      {
+        "id": "tvmaze:3155083",
+        "title": "Episode 44",
+        "season": 2025,
+        "episode": 44,
+        "released": "2025-03-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3162160",
+        "title": "Episode 45",
+        "season": 2025,
+        "episode": 45,
+        "released": "2025-03-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3162161",
+        "title": "Episode 46",
+        "season": 2025,
+        "episode": 46,
+        "released": "2025-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3162162",
+        "title": "Episode 47",
+        "season": 2025,
+        "episode": 47,
+        "released": "2025-03-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3162163",
+        "title": "Episode 48",
+        "season": 2025,
+        "episode": 48,
+        "released": "2025-03-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3167336",
+        "title": "Episode 49",
+        "season": 2025,
+        "episode": 49,
+        "released": "2025-03-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3167337",
+        "title": "Episode 50",
+        "season": 2025,
+        "episode": 50,
+        "released": "2025-03-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3167338",
+        "title": "Episode 51",
+        "season": 2025,
+        "episode": 51,
+        "released": "2025-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3167339",
+        "title": "Episode 52",
+        "season": 2025,
+        "episode": 52,
+        "released": "2025-03-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3167340",
+        "title": "Episode 53",
+        "season": 2025,
+        "episode": 53,
+        "released": "2025-03-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3175236",
+        "title": "Episode 54",
+        "season": 2025,
+        "episode": 54,
+        "released": "2025-03-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3175237",
+        "title": "Episode 55",
+        "season": 2025,
+        "episode": 55,
+        "released": "2025-03-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3175238",
+        "title": "Episode 56",
+        "season": 2025,
+        "episode": 56,
+        "released": "2025-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3175239",
+        "title": "Episode 57",
+        "season": 2025,
+        "episode": 57,
+        "released": "2025-03-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3175240",
+        "title": "Episode 58",
+        "season": 2025,
+        "episode": 58,
+        "released": "2025-03-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3183484",
+        "title": "Episode 59",
+        "season": 2025,
+        "episode": 59,
+        "released": "2025-03-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3183485",
+        "title": "Episode 60",
+        "season": 2025,
+        "episode": 60,
+        "released": "2025-03-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3183486",
+        "title": "Episode 61",
+        "season": 2025,
+        "episode": 61,
+        "released": "2025-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3183487",
+        "title": "Episode 62",
+        "season": 2025,
+        "episode": 62,
+        "released": "2025-03-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3183488",
+        "title": "Episode 63",
+        "season": 2025,
+        "episode": 63,
+        "released": "2025-03-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3188259",
+        "title": "CNN Election Night",
+        "season": 2025,
+        "episode": 64,
+        "released": "2025-04-01",
+        "overview": "Live coverage of election results in Florida and Wisconsin."
+      },
+      {
+        "id": "tvmaze:3188260",
+        "title": "Episode 65",
+        "season": 2025,
+        "episode": 65,
+        "released": "2025-04-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3188262",
+        "title": "Episode 66",
+        "season": 2025,
+        "episode": 66,
+        "released": "2025-04-03",
+        "overview": "Tonight, US Treasury Secretary Scott Bessent joined The Source with Kaitlan Collins for an interview after President Donald Trump announced baseline tariffs, where he urged other countries not to issue retaliatory tariffs against the US following Trump's announcement."
+      },
+      {
+        "id": "tvmaze:3188263",
+        "title": "Episode 67",
+        "season": 2025,
+        "episode": 67,
+        "released": "2025-04-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3188265",
+        "title": "Episode 68",
+        "season": 2025,
+        "episode": 68,
+        "released": "2025-04-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197101",
+        "title": "Episode 69",
+        "season": 2025,
+        "episode": 69,
+        "released": "2025-04-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197102",
+        "title": "Episode 70",
+        "season": 2025,
+        "episode": 70,
+        "released": "2025-04-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197103",
+        "title": "Episode 71",
+        "season": 2025,
+        "episode": 71,
+        "released": "2025-04-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197104",
+        "title": "Episode 72",
+        "season": 2025,
+        "episode": 72,
+        "released": "2025-04-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197105",
+        "title": "Episode 73",
+        "season": 2025,
+        "episode": 73,
+        "released": "2025-04-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3207858",
+        "title": "Episode 74",
+        "season": 2025,
+        "episode": 74,
+        "released": "2025-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3207859",
+        "title": "Episode 75",
+        "season": 2025,
+        "episode": 75,
+        "released": "2025-04-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3207860",
+        "title": "Episode 76",
+        "season": 2025,
+        "episode": 76,
+        "released": "2025-04-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3211747",
+        "title": "Episode 77",
+        "season": 2025,
+        "episode": 77,
+        "released": "2025-04-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3211748",
+        "title": "Episode 78",
+        "season": 2025,
+        "episode": 78,
+        "released": "2025-04-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3211749",
+        "title": "Episode 79",
+        "season": 2025,
+        "episode": 79,
+        "released": "2025-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3211750",
+        "title": "Episode 80",
+        "season": 2025,
+        "episode": 80,
+        "released": "2025-04-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3211751",
+        "title": "Episode 81",
+        "season": 2025,
+        "episode": 81,
+        "released": "2025-04-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3216103",
+        "title": "First 100 Days",
+        "season": 2025,
+        "episode": 82,
+        "released": "2025-04-29",
+        "overview": "Kaitlan Collins anchors live coverage of Donald Trump's 100th day in office."
+      },
+      {
+        "id": "tvmaze:3216104",
+        "title": "Episode 83",
+        "season": 2025,
+        "episode": 83,
+        "released": "2025-04-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3216105",
+        "title": "Episode 84",
+        "season": 2025,
+        "episode": 84,
+        "released": "2025-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3216106",
+        "title": "Episode 85",
+        "season": 2025,
+        "episode": 85,
+        "released": "2025-05-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3216107",
+        "title": "Episode 86",
+        "season": 2025,
+        "episode": 86,
+        "released": "2025-05-05",
+        "overview": "Tonight, in a SOURCE exclusive, former Vice President Mike Pence joined The Source with Kaitlan Collins for his first primetime interview since President Donald Trump returned to the White House. During the exclusive interview, on site at the JFK Library in Boston, Pence shared what he thinks the president is getting wrong this time around, and what he believes the current administration has delivered on so far."
+      },
+      {
+        "id": "tvmaze:3225058",
+        "title": "Episode 87",
+        "season": 2025,
+        "episode": 87,
+        "released": "2025-05-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225059",
+        "title": "Episode 88",
+        "season": 2025,
+        "episode": 88,
+        "released": "2025-05-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225060",
+        "title": "Episode 89",
+        "season": 2025,
+        "episode": 89,
+        "released": "2025-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225061",
+        "title": "Episode 90",
+        "season": 2025,
+        "episode": 90,
+        "released": "2025-05-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225062",
+        "title": "Episode 91",
+        "season": 2025,
+        "episode": 91,
+        "released": "2025-05-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3237329",
+        "title": "Episode 92",
+        "season": 2025,
+        "episode": 92,
+        "released": "2025-05-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3237330",
+        "title": "Episode 93",
+        "season": 2025,
+        "episode": 93,
+        "released": "2025-05-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3237331",
+        "title": "Episode 94",
+        "season": 2025,
+        "episode": 94,
+        "released": "2025-05-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3237332",
+        "title": "Episode 95",
+        "season": 2025,
+        "episode": 95,
+        "released": "2025-05-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3237333",
+        "title": "Episode 96",
+        "season": 2025,
+        "episode": 96,
+        "released": "2025-05-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3242127",
+        "title": "Episode 97",
+        "season": 2025,
+        "episode": 97,
+        "released": "2025-05-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3242128",
+        "title": "Episode 98",
+        "season": 2025,
+        "episode": 98,
+        "released": "2025-05-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3242129",
+        "title": "Episode 99",
+        "season": 2025,
+        "episode": 99,
+        "released": "2025-05-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3242130",
+        "title": "Episode 100",
+        "season": 2025,
+        "episode": 100,
+        "released": "2025-05-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3242131",
+        "title": "Episode 101",
+        "season": 2025,
+        "episode": 101,
+        "released": "2025-05-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3250174",
+        "title": "Episode 102",
+        "season": 2025,
+        "episode": 102,
+        "released": "2025-05-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3250175",
+        "title": "Episode 103",
+        "season": 2025,
+        "episode": 103,
+        "released": "2025-05-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3250176",
+        "title": "Episode 104",
+        "season": 2025,
+        "episode": 104,
+        "released": "2025-05-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3250177",
+        "title": "Episode 105",
+        "season": 2025,
+        "episode": 105,
+        "released": "2025-06-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3250178",
+        "title": "Episode 106",
+        "season": 2025,
+        "episode": 106,
+        "released": "2025-06-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3262808",
+        "title": "Episode 107",
+        "season": 2025,
+        "episode": 107,
+        "released": "2025-06-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3262809",
+        "title": "Episode 108",
+        "season": 2025,
+        "episode": 108,
+        "released": "2025-06-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3262810",
+        "title": "Episode 109",
+        "season": 2025,
+        "episode": 109,
+        "released": "2025-06-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3262811",
+        "title": "Episode 110",
+        "season": 2025,
+        "episode": 110,
+        "released": "2025-06-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3270236",
+        "title": "Episode 111",
+        "season": 2025,
+        "episode": 111,
+        "released": "2025-06-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3270237",
+        "title": "Episode 112",
+        "season": 2025,
+        "episode": 112,
+        "released": "2025-06-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3270238",
+        "title": "Episode 113",
+        "season": 2025,
+        "episode": 113,
+        "released": "2025-06-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3270239",
+        "title": "Episode 114",
+        "season": 2025,
+        "episode": 114,
+        "released": "2025-06-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3270240",
+        "title": "Episode 115",
+        "season": 2025,
+        "episode": 115,
+        "released": "2025-06-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3275208",
+        "title": "Episode 116",
+        "season": 2025,
+        "episode": 116,
+        "released": "2025-06-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3275209",
+        "title": "Episode 117",
+        "season": 2025,
+        "episode": 117,
+        "released": "2025-06-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3275210",
+        "title": "Episode 118",
+        "season": 2025,
+        "episode": 118,
+        "released": "2025-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3275211",
+        "title": "Episode 119",
+        "season": 2025,
+        "episode": 119,
+        "released": "2025-06-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3275212",
+        "title": "Episode 120",
+        "season": 2025,
+        "episode": 120,
+        "released": "2025-06-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3287355",
+        "title": "Episode 121",
+        "season": 2025,
+        "episode": 121,
+        "released": "2025-06-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3287356",
+        "title": "Episode 122",
+        "season": 2025,
+        "episode": 122,
+        "released": "2025-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3287357",
+        "title": "Episode 123",
+        "season": 2025,
+        "episode": 123,
+        "released": "2025-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3287358",
+        "title": "Episode 124",
+        "season": 2025,
+        "episode": 124,
+        "released": "2025-06-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3287359",
+        "title": "Episode 125",
+        "season": 2025,
+        "episode": 125,
+        "released": "2025-06-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3289071",
+        "title": "Episode 126",
+        "season": 2025,
+        "episode": 126,
+        "released": "2025-07-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3289072",
+        "title": "Episode 127",
+        "season": 2025,
+        "episode": 127,
+        "released": "2025-07-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3289073",
+        "title": "Episode 128",
+        "season": 2025,
+        "episode": 128,
+        "released": "2025-07-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3289074",
+        "title": "Episode 129",
+        "season": 2025,
+        "episode": 129,
+        "released": "2025-07-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3297218",
+        "title": "Episode 130",
+        "season": 2025,
+        "episode": 130,
+        "released": "2025-07-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3297219",
+        "title": "Episode 131",
+        "season": 2025,
+        "episode": 131,
+        "released": "2025-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3297220",
+        "title": "Episode 132",
+        "season": 2025,
+        "episode": 132,
+        "released": "2025-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3297221",
+        "title": "Episode 133",
+        "season": 2025,
+        "episode": 133,
+        "released": "2025-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3297222",
+        "title": "Episode 134",
+        "season": 2025,
+        "episode": 134,
+        "released": "2025-07-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3303827",
+        "title": "Episode 135",
+        "season": 2025,
+        "episode": 135,
+        "released": "2025-07-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3303828",
+        "title": "Episode 136",
+        "season": 2025,
+        "episode": 136,
+        "released": "2025-07-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3303829",
+        "title": "Episode 137",
+        "season": 2025,
+        "episode": 137,
+        "released": "2025-07-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3303830",
+        "title": "Episode 138",
+        "season": 2025,
+        "episode": 138,
+        "released": "2025-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3303831",
+        "title": "Episode 139",
+        "season": 2025,
+        "episode": 139,
+        "released": "2025-07-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3307323",
+        "title": "Episode 140",
+        "season": 2025,
+        "episode": 140,
+        "released": "2025-07-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3307324",
+        "title": "Episode 141",
+        "season": 2025,
+        "episode": 141,
+        "released": "2025-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3307325",
+        "title": "Episode 142",
+        "season": 2025,
+        "episode": 142,
+        "released": "2025-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3307326",
+        "title": "Episode 143",
+        "season": 2025,
+        "episode": 143,
+        "released": "2025-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3307327",
+        "title": "Episode 144",
+        "season": 2025,
+        "episode": 144,
+        "released": "2025-07-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3316252",
+        "title": "Episode 145",
+        "season": 2025,
+        "episode": 145,
+        "released": "2025-07-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3316253",
+        "title": "Episode 146",
+        "season": 2025,
+        "episode": 146,
+        "released": "2025-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3316254",
+        "title": "Episode 147",
+        "season": 2025,
+        "episode": 147,
+        "released": "2025-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3316255",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-08-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3316256",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-08-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320728",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-08-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320729",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-08-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320730",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-08-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320731",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-08-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320732",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-08-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320733",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-08-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320734",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-08-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320735",
+        "title": "Episode 157",
+        "season": 2025,
+        "episode": 157,
+        "released": "2025-08-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320736",
+        "title": "Trump-Putin Summit",
+        "season": 2025,
+        "episode": 158,
+        "released": "2025-08-15",
+        "overview": "Live coverage of President Donald Trump's historic Alaska summit with Russian President Vladimir Putin."
+      },
+      {
+        "id": "tvmaze:3320737",
+        "title": "Episode 159",
+        "season": 2025,
+        "episode": 159,
+        "released": "2025-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320738",
+        "title": "Episode 160",
+        "season": 2025,
+        "episode": 160,
+        "released": "2025-08-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320739",
+        "title": "Episode 161",
+        "season": 2025,
+        "episode": 161,
+        "released": "2025-08-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320740",
+        "title": "Episode 162",
+        "season": 2025,
+        "episode": 162,
+        "released": "2025-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320741",
+        "title": "Episode 163",
+        "season": 2025,
+        "episode": 163,
+        "released": "2025-08-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320742",
+        "title": "Episode 164",
+        "season": 2025,
+        "episode": 164,
+        "released": "2025-08-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320743",
+        "title": "Episode 165",
+        "season": 2025,
+        "episode": 165,
+        "released": "2025-08-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320744",
+        "title": "Episode 166",
+        "season": 2025,
+        "episode": 166,
+        "released": "2025-08-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320745",
+        "title": "Episode 167",
+        "season": 2025,
+        "episode": 167,
+        "released": "2025-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320746",
+        "title": "Episode 168",
+        "season": 2025,
+        "episode": 168,
+        "released": "2025-08-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320747",
+        "title": "Episode 169",
+        "season": 2025,
+        "episode": 169,
+        "released": "2025-09-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3320748",
+        "title": "Episode 170",
+        "season": 2025,
+        "episode": 170,
+        "released": "2025-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3340461",
+        "title": "Episode 171",
+        "season": 2025,
+        "episode": 171,
+        "released": "2025-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3340462",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3340463",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3343314",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3343315",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3343316",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3343317",
+        "title": "Episode 177",
+        "season": 2025,
+        "episode": 177,
+        "released": "2025-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3343318",
+        "title": "Episode 178",
+        "season": 2025,
+        "episode": 178,
+        "released": "2025-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3366742",
+        "title": "Episode 179",
+        "season": 2025,
+        "episode": 179,
+        "released": "2025-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3366743",
+        "title": "Episode 180",
+        "season": 2025,
+        "episode": 180,
+        "released": "2025-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3366744",
+        "title": "Episode 181",
+        "season": 2025,
+        "episode": 181,
+        "released": "2025-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3366745",
+        "title": "Episode 182",
+        "season": 2025,
+        "episode": 182,
+        "released": "2025-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3366746",
+        "title": "Episode 183",
+        "season": 2025,
+        "episode": 183,
+        "released": "2025-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3370444",
+        "title": "Episode 184",
+        "season": 2025,
+        "episode": 184,
+        "released": "2025-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3370445",
+        "title": "Episode 185",
+        "season": 2025,
+        "episode": 185,
+        "released": "2025-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3370446",
+        "title": "Episode 186",
+        "season": 2025,
+        "episode": 186,
+        "released": "2025-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3370447",
+        "title": "Episode 187",
+        "season": 2025,
+        "episode": 187,
+        "released": "2025-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3370448",
+        "title": "Episode 188",
+        "season": 2025,
+        "episode": 188,
+        "released": "2025-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3382086",
+        "title": "Episode 189",
+        "season": 2025,
+        "episode": 189,
+        "released": "2025-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3382087",
+        "title": "Episode 190",
+        "season": 2025,
+        "episode": 190,
+        "released": "2025-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3382088",
+        "title": "Episode 191",
+        "season": 2025,
+        "episode": 191,
+        "released": "2025-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3382089",
+        "title": "Episode 192",
+        "season": 2025,
+        "episode": 192,
+        "released": "2025-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3382090",
+        "title": "Episode 193",
+        "season": 2025,
+        "episode": 193,
+        "released": "2025-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387800",
+        "title": "Episode 194",
+        "season": 2025,
+        "episode": 194,
+        "released": "2025-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387801",
+        "title": "Episode 195",
+        "season": 2025,
+        "episode": 195,
+        "released": "2025-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387802",
+        "title": "Episode 196",
+        "season": 2025,
+        "episode": 196,
+        "released": "2025-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387803",
+        "title": "Episode 197",
+        "season": 2025,
+        "episode": 197,
+        "released": "2025-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387804",
+        "title": "Episode 198",
+        "season": 2025,
+        "episode": 198,
+        "released": "2025-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3391873",
+        "title": "Episode 199",
+        "season": 2025,
+        "episode": 199,
+        "released": "2025-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3391874",
+        "title": "Episode 200",
+        "season": 2025,
+        "episode": 200,
+        "released": "2025-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3391875",
+        "title": "Episode 201",
+        "season": 2025,
+        "episode": 201,
+        "released": "2025-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3391876",
+        "title": "Episode 202",
+        "season": 2025,
+        "episode": 202,
+        "released": "2025-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3391877",
+        "title": "Episode 203",
+        "season": 2025,
+        "episode": 203,
+        "released": "2025-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3402694",
+        "title": "Episode 204",
+        "season": 2025,
+        "episode": 204,
+        "released": "2025-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3402695",
+        "title": "Episode 205",
+        "season": 2025,
+        "episode": 205,
+        "released": "2025-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3402696",
+        "title": "Episode 206",
+        "season": 2025,
+        "episode": 206,
+        "released": "2025-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3402697",
+        "title": "Episode 207",
+        "season": 2025,
+        "episode": 207,
+        "released": "2025-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424248",
+        "title": "Episode 208",
+        "season": 2025,
+        "episode": 208,
+        "released": "2025-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424249",
+        "title": "Episode 209",
+        "season": 2025,
+        "episode": 209,
+        "released": "2025-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424250",
+        "title": "Episode 210",
+        "season": 2025,
+        "episode": 210,
+        "released": "2025-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424251",
+        "title": "Episode 211",
+        "season": 2025,
+        "episode": 211,
+        "released": "2025-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424252",
+        "title": "Episode 212",
+        "season": 2025,
+        "episode": 212,
+        "released": "2025-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429673",
+        "title": "Episode 213",
+        "season": 2025,
+        "episode": 213,
+        "released": "2025-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429674",
+        "title": "Episode 214",
+        "season": 2025,
+        "episode": 214,
+        "released": "2025-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429675",
+        "title": "Episode 215",
+        "season": 2025,
+        "episode": 215,
+        "released": "2025-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429676",
+        "title": "Episode 216",
+        "season": 2025,
+        "episode": 216,
+        "released": "2025-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438420",
+        "title": "Episode 217",
+        "season": 2025,
+        "episode": 217,
+        "released": "2025-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438421",
+        "title": "Episode 218",
+        "season": 2025,
+        "episode": 218,
+        "released": "2025-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438422",
+        "title": "Episode 219",
+        "season": 2025,
+        "episode": 219,
+        "released": "2025-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438423",
+        "title": "Episode 220",
+        "season": 2025,
+        "episode": 220,
+        "released": "2025-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438424",
+        "title": "Episode 221",
+        "season": 2025,
+        "episode": 221,
+        "released": "2025-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442733",
+        "title": "Episode 222",
+        "season": 2025,
+        "episode": 222,
+        "released": "2025-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442734",
+        "title": "Episode 223",
+        "season": 2025,
+        "episode": 223,
+        "released": "2025-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442735",
+        "title": "Episode 224",
+        "season": 2025,
+        "episode": 224,
+        "released": "2025-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442736",
+        "title": "Episode 225",
+        "season": 2025,
+        "episode": 225,
+        "released": "2025-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442737",
+        "title": "Episode 226",
+        "season": 2025,
+        "episode": 226,
+        "released": "2025-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449477",
+        "title": "Episode 227",
+        "season": 2025,
+        "episode": 227,
+        "released": "2025-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449478",
+        "title": "Episode 228",
+        "season": 2025,
+        "episode": 228,
+        "released": "2025-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449479",
+        "title": "Episode 229",
+        "season": 2025,
+        "episode": 229,
+        "released": "2025-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449480",
+        "title": "Episode 230",
+        "season": 2025,
+        "episode": 230,
+        "released": "2025-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3453506",
+        "title": "Episode 231",
+        "season": 2025,
+        "episode": 231,
+        "released": "2025-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3453507",
+        "title": "Episode 232",
+        "season": 2025,
+        "episode": 232,
+        "released": "2025-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3453508",
+        "title": "Episode 233",
+        "season": 2025,
+        "episode": 233,
+        "released": "2025-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3453509",
+        "title": "Episode 234",
+        "season": 2025,
+        "episode": 234,
+        "released": "2025-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3453510",
+        "title": "Episode 235",
+        "season": 2025,
+        "episode": 235,
+        "released": "2025-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468770",
+        "title": "Episode 236",
+        "season": 2025,
+        "episode": 236,
+        "released": "2025-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468771",
+        "title": "Episode 237",
+        "season": 2025,
+        "episode": 237,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468772",
+        "title": "Episode 238",
+        "season": 2025,
+        "episode": 238,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468773",
+        "title": "Episode 239",
+        "season": 2025,
+        "episode": 239,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468774",
+        "title": "Episode 240",
+        "season": 2025,
+        "episode": 240,
+        "released": "2025-12-15",
+        "overview": ""
+      }
+    ]
+  }
+}

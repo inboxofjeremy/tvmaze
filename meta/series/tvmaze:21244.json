@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "id": "tvmaze:21244",
+    "type": "series",
+    "name": "Stand Up to Cancer",
+    "description": "In 2012, Channel 4 and Cancer Research UK joined forces to launch Stand Up to Cancer in the UK, to accelerate life-saving cancer research. Led by the brightest stars in film, TV and music, it was the most successful charity fundraiser on UK commercial TV in its first year - ever.Following on from that, the campaign has now raised over £23.8 million. The money raised so far has been spent funding clinical trials, which aim to improve survival rates and bring breakthroughs in labs to the patients who need them. Over 9,000 people have, or are about to benefit from these cutting edge trials, and this is still only the beginning.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/74/187197.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/74/187197.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      },
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      },
+      {
+        "id": "tvmaze:3464705",
+        "title": "Matthew's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Matthew's story is one of making the most of the time that he has left following his terminal cancer diagnosis. We follow Matthew and Carrie as they decide to marry and share their plans and hopes for married life together. Despite the limited time and Matthew's increasing debilitation, their wedding provides an inspirational moment of celebration, love and resilience."
+      },
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      },
+      {
+        "id": "tvmaze:3464705",
+        "title": "Matthew's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Matthew's story is one of making the most of the time that he has left following his terminal cancer diagnosis. We follow Matthew and Carrie as they decide to marry and share their plans and hopes for married life together. Despite the limited time and Matthew's increasing debilitation, their wedding provides an inspirational moment of celebration, love and resilience."
+      },
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      },
+      {
+        "id": "tvmaze:3464705",
+        "title": "Matthew's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Matthew's story is one of making the most of the time that he has left following his terminal cancer diagnosis. We follow Matthew and Carrie as they decide to marry and share their plans and hopes for married life together. Despite the limited time and Matthew's increasing debilitation, their wedding provides an inspirational moment of celebration, love and resilience."
+      },
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      },
+      {
+        "id": "tvmaze:3464705",
+        "title": "Matthew's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Matthew's story is one of making the most of the time that he has left following his terminal cancer diagnosis. We follow Matthew and Carrie as they decide to marry and share their plans and hopes for married life together. Despite the limited time and Matthew's increasing debilitation, their wedding provides an inspirational moment of celebration, love and resilience."
+      },
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      },
+      {
+        "id": "tvmaze:3464705",
+        "title": "Matthew's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Matthew's story is one of making the most of the time that he has left following his terminal cancer diagnosis. We follow Matthew and Carrie as they decide to marry and share their plans and hopes for married life together. Despite the limited time and Matthew's increasing debilitation, their wedding provides an inspirational moment of celebration, love and resilience."
+      },
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      },
+      {
+        "id": "tvmaze:3464705",
+        "title": "Matthew's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Matthew's story is one of making the most of the time that he has left following his terminal cancer diagnosis. We follow Matthew and Carrie as they decide to marry and share their plans and hopes for married life together. Despite the limited time and Matthew's increasing debilitation, their wedding provides an inspirational moment of celebration, love and resilience."
+      },
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      },
+      {
+        "id": "tvmaze:3464705",
+        "title": "Matthew's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Matthew's story is one of making the most of the time that he has left following his terminal cancer diagnosis. We follow Matthew and Carrie as they decide to marry and share their plans and hopes for married life together. Despite the limited time and Matthew's increasing debilitation, their wedding provides an inspirational moment of celebration, love and resilience."
+      },
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      },
+      {
+        "id": "tvmaze:3464705",
+        "title": "Matthew's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Matthew's story is one of making the most of the time that he has left following his terminal cancer diagnosis. We follow Matthew and Carrie as they decide to marry and share their plans and hopes for married life together. Despite the limited time and Matthew's increasing debilitation, their wedding provides an inspirational moment of celebration, love and resilience."
+      },
+      {
+        "id": "tvmaze:3464717",
+        "title": "Shona's Story: Stand Up To Cancer",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "People affected by cancer share their personal and moving stories, in a series of short films in aid of Stand Up To Cancer. Mum-of-two Shona was diagnosed with cancer shortly after giving birth. While Shona was undergoing treatment, her partner Will was diagnosed with terminal cancer. This is the deeply moving story of a family who faced unimaginable heartbreak caused by cancer."
+      },
+      {
+        "id": "tvmaze:3464729",
+        "title": "The Launch",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-12-12",
+        "overview": "Adam Hills, Hannah Fry and special guests kick off Channel 4's evening of comedy, entertainment and fundraising in this special 30-minute show. With celebrity guests, moving tributes and a look at the new Screening Checker tool, they showcase a week of celebrity stunts and heartfelt moments, and preview what's still to come."
+      },
+      {
+        "id": "tvmaze:3464730",
+        "title": "Cancer Clinic Live",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Davina McCall presents this groundbreaking documentary, live from inside a one-off cancer clinic at Addenbrooke's Hospital in Cambridge for Stand Up To Cancer, offering unprecedented access to the world of cancer diagnosis and treatment. Cameras follow patients and their families through pivotal moments, from the shock of diagnosis to the challenges of treatment and life-changing test results, revealing both the medical and deeply human experience of facing cancer. The programme also explores the UK's screening services and the crucial role that they play in saving lives. Among the patients featured are those diagnosed with breast and lung cancer, two of the nation's most common and deadliest forms of the disease. The programme shows how spotting the signs early can make all the difference, and how advances in technology and compassionate care are transforming outcomes for patients across the country. It aims to demystify what happens inside a cancer clinic, challenge the fears that stop many from getting checked, and show that taking that first step towards early diagnosis could be the most important decision you ever make."
+      },
+      {
+        "id": "tvmaze:3464732",
+        "title": "Stand Up To Cancer: The Big Bash",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-12-12",
+        "overview": "Stand Up To Cancer 2025 culminates in a powerful and hilarious night of live television on Channel 4, led by Adam Hills, Davina McCall, Hannah Fry and a host of special guests. Expect moving personal stories, unforgettable performances, comedy, and inspiring fundraising moments, as celebrities and viewers across the UK come together to raise money for life-saving cancer research."
+      }
+    ]
+  }
+}

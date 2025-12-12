@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tvmaze:8661",
+    "type": "series",
+    "name": "SEC Now",
+    "description": "The flagship news and information program of the SEC Network -- ESPN's 24/7 multiplatform sports network devoted to the Southeastern Conference -- is SEC Now, broadcast weekdays from the network's studios in Charlotte, N.C. Hosted by Dari Nowkhah, the show includes a mix of sports coverage, in-depth features, insider access, and exclusive interviews with the movers and shakers of the conference's 14 teams.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/30/77094.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/30/77094.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3468356",
+        "title": "Episode 329",
+        "season": 2025,
+        "episode": 329,
+        "released": "2025-12-09",
+        "overview": "The latest Southeastern Conference news live from a studio set in Charlotte, N.C., hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day."
+      },
+      {
+        "id": "tvmaze:3468376",
+        "title": "Episode 330",
+        "season": 2025,
+        "episode": 330,
+        "released": "2025-12-09",
+        "overview": "The latest Southeastern Conference news live from a studio set in Charlotte, N.C., hosted by Peter Burns, Dari Nowkhah or Alyssa Lang, joined by various network analysts, discussing all the SEC news of the day."
+      }
+    ]
+  }
+}

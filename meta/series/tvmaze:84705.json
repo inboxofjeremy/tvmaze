@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:84705",
+    "type": "series",
+    "name": "Bloomberg Brief",
+    "description": "Delivers the market news, data and analysis you need to set your agenda.",
+    "poster": null,
+    "background": null,
+    "videos": [
+      {
+        "id": "tvmaze:3458520",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

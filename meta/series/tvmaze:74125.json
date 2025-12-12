@@ -1,0 +1,476 @@
+{
+  "meta": {
+    "id": "tvmaze:74125",
+    "type": "series",
+    "name": "Tipping Point Australia",
+    "description": "With only the second ever Tipping Point machine in the world, Australia's version of the game will see Todd test and tempt three lucky contestants on their quest to beat the mesmerising device. Just like our UK counterpart, the Aussie game format comprises four rounds starting off with the Bank Builder round – the goal being to acquire a counter to play in the machine. Each counter is worth $100 and means a shot at the Tipping Point machine to bank money away. Round 2 is called Quickfire, where contestants have 30 seconds to answer questions correctly for a counter. The contestant with the least money at the end of Round 2 will be eliminated from the game. Scattered throughout the machine ledge are two mystery prize counters and two doubles counters for an extra chance to win big. Two contestants move on to Round 3 and go head to head with two questions each. A correct answer earns a counter, but an incorrect answer means forfeiting a counter to your opponent. The person with the most money in the bank moves on . One contestant will then make it to the final Jackpot round and get the chance to take home $20,000. All that's standing in the way is five questions and Todd's secret weapon: his Jackpot Temptation. Jackpot Temptation comes into play if the contestant fails to knock the Jackpot counter over the ledge and win the $20,000, and what a temptation it is. Will Todd offer more counters? More money? A holiday or car? You'll have to tune in to find out.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/501/1253137.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/501/1253137.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462075",
+        "title": "Episode 171",
+        "season": 2025,
+        "episode": 171,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462075",
+        "title": "Episode 171",
+        "season": 2025,
+        "episode": 171,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462075",
+        "title": "Episode 171",
+        "season": 2025,
+        "episode": 171,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462075",
+        "title": "Episode 171",
+        "season": 2025,
+        "episode": 171,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462075",
+        "title": "Episode 171",
+        "season": 2025,
+        "episode": 171,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462075",
+        "title": "Episode 171",
+        "season": 2025,
+        "episode": 171,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462075",
+        "title": "Episode 171",
+        "season": 2025,
+        "episode": 171,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462075",
+        "title": "Episode 171",
+        "season": 2025,
+        "episode": 171,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462076",
+        "title": "Episode 172",
+        "season": 2025,
+        "episode": 172,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462077",
+        "title": "Episode 173",
+        "season": 2025,
+        "episode": 173,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462078",
+        "title": "Episode 174",
+        "season": 2025,
+        "episode": 174,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462079",
+        "title": "Episode 175",
+        "season": 2025,
+        "episode": 175,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462080",
+        "title": "Episode 176",
+        "season": 2025,
+        "episode": 176,
+        "released": "2025-12-18",
+        "overview": ""
+      }
+    ]
+  }
+}

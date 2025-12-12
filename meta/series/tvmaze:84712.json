@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:84712",
+    "type": "series",
+    "name": "Bloomberg Open Interest",
+    "description": "Delivers the market-moving news you need to know to get a jump start on the US trading day.",
+    "poster": null,
+    "background": null,
+    "videos": [
+      {
+        "id": "tvmaze:3458576",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

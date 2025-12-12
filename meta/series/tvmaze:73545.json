@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "id": "tvmaze:73545",
+    "type": "series",
+    "name": "Rock Paper Scissors",
+    "description": "In Rock Paper Scissors, titular characters, Rock, Paper and Scissors, are a trio of best friends and roommates who lovingly compete over everything in hilarious but mostly wildly absurd ways. Throughout season one, the trio will go to extremes playing hide-and-seek around the world, running from the birthday police, defending the world from an alien invasion, going head-to-head with the Rat Bros and more.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/494/1236032.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/494/1236032.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441413",
+        "title": "Paper Attends an Elite Institution",
+        "season": 2,
+        "episode": 6,
+        "released": "2025-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441414",
+        "title": "The New Landlord",
+        "season": 2,
+        "episode": 7,
+        "released": "2025-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2781843",
+        "title": "The Fart Joke Debate",
+        "season": 1,
+        "episode": 1,
+        "released": "2024-02-11",
+        "overview": "When Rock, Scissors, and Pencil learn that Paper dislikes fart jokes, they search for one that'll make him laugh."
+      },
+      {
+        "id": "tvmaze:2781844",
+        "title": "The First Lou Episode",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-02-11",
+        "overview": "To get their landlord to lower their rent, the trio tries to help him achieve his impossible dream."
+      },
+      {
+        "id": "tvmaze:2781856",
+        "title": "Scissors Gets a Job",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-02-12",
+        "overview": "When Scissors runs out of money, he tries to become a janitor but discovers that the job involves way more skill than he initially thought. Meanwhile, Rock and Paper try to motivate Scissors in an unusual way."
+      },
+      {
+        "id": "tvmaze:2769766",
+        "title": "The Arctic",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-02-13",
+        "overview": "After the heater breaks, the trio's apartment freezes. Paper tries to save his friends. Lou attends Landlord Con."
+      },
+      {
+        "id": "tvmaze:2781845",
+        "title": "Paper's Big Lie",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-02-14",
+        "overview": "Paper falls in love with his next door neighbor Pencil, and when he becomes desperate to impress her, he lies about being a proper inventor. Things spill over when he ends up being the Earth's only hope against an alien invasion led by hippos."
+      },
+      {
+        "id": "tvmaze:2781846",
+        "title": "Weekend Story",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-02-14",
+        "overview": "Scissors helps Paper have a weekend interesting enough to impress Pencil; Rock buys a hat."
+      },
+      {
+        "id": "tvmaze:2781847",
+        "title": "Scrubs",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-02-15",
+        "overview": "Paper tries to get respect by dressing as a doctor; Scissors tries to get more by dressing as a basketball star."
+      },
+      {
+        "id": "tvmaze:2781848",
+        "title": "Key Limes",
+        "season": 1,
+        "episode": 8,
+        "released": "2024-02-20",
+        "overview": "Our trio go on an unnecessarily action-packed adventure with Paper's sister, Sandpaper, to get seven key limes."
+      },
+      {
+        "id": "tvmaze:2781850",
+        "title": "Prank War",
+        "season": 1,
+        "episode": 9,
+        "released": "2024-02-20",
+        "overview": "Paper joins Rock and Scissors in a prank war against the Rat Bros and Pencil, but Pencil has a secret weapon."
+      },
+      {
+        "id": "tvmaze:2781849",
+        "title": "Pencil Comes Over",
+        "season": 1,
+        "episode": 10,
+        "released": "2024-02-21",
+        "overview": "When Pencil comes over to watch a horror movie, Paper worries he'll be too scared to handle it."
+      },
+      {
+        "id": "tvmaze:2781851",
+        "title": "Hide and Seek",
+        "season": 1,
+        "episode": 11,
+        "released": "2024-02-26",
+        "overview": "The trio plays a game of hide and seek that spans the globe and takes decades to complete."
+      },
+      {
+        "id": "tvmaze:2781852",
+        "title": "Paper's Secret Weapon",
+        "season": 1,
+        "episode": 12,
+        "released": "2024-02-27",
+        "overview": "Rock and Scissors learn that Paper invents better when angry; so, as his friends, they try to enrage him."
+      },
+      {
+        "id": "tvmaze:2718119",
+        "title": "Birthday Police",
+        "season": 1,
+        "episode": 13,
+        "released": "2024-02-28",
+        "overview": "When Scissors lies about Rock's birthday to get free cake, the trio must go on the run from the Birthday Police."
+      },
+      {
+        "id": "tvmaze:2781853",
+        "title": "Putty",
+        "season": 1,
+        "episode": 14,
+        "released": "2024-02-29",
+        "overview": "Rock, Paper, and Scissors try to prove they shouldn't bereplaced by their incredible new friend, Putty."
+      },
+      {
+        "id": "tvmaze:2794596",
+        "title": "The Susan",
+        "season": 1,
+        "episode": 15,
+        "released": "2024-03-04",
+        "overview": "Rock, Paper, and Scissors try to transform their unusual car, The Susan, into a prize-winning vehicle."
+      },
+      {
+        "id": "tvmaze:2794597",
+        "title": "Eyebrows",
+        "season": 1,
+        "episode": 16,
+        "released": "2024-03-04",
+        "overview": "Paper gives Rock mechanical eyebrows to help with an audition; Scissors has an adventure with stand-ins."
+      },
+      {
+        "id": "tvmaze:2794616",
+        "title": "Six Pieces of Turkey",
+        "season": 1,
+        "episode": 17,
+        "released": "2024-03-05",
+        "overview": "When Rock's TV dinner isn't as plentiful as advertised, hefights for justice. Scissors works for the company."
+      },
+      {
+        "id": "tvmaze:2794619",
+        "title": "The Wind",
+        "season": 1,
+        "episode": 18,
+        "released": "2024-03-05",
+        "overview": "There's a light wind, and Paper is far from home. Will Rock and Scissors save him or will Paper blow away forever?"
+      },
+      {
+        "id": "tvmaze:2932176",
+        "title": "National Paper Day",
+        "season": 1,
+        "episode": 19,
+        "released": "2024-07-13",
+        "overview": "Paper learns about a few eccentric holidays like Rock Day."
+      },
+      {
+        "id": "tvmaze:2781860",
+        "title": "Pogo Sticks",
+        "season": 1,
+        "episode": 20,
+        "released": "2024-07-15",
+        "overview": "To attend the Rat Bros' party, the trio tries to get their hands on the latest cool item: pogo sticks."
+      },
+      {
+        "id": "tvmaze:2781861",
+        "title": "Car Wash",
+        "season": 1,
+        "episode": 21,
+        "released": "2024-07-16",
+        "overview": "Rock tries to get a job at Evil Robot Corp. Paper and Scissors see if the company is exactly what it sounds like."
+      },
+      {
+        "id": "tvmaze:2794617",
+        "title": "The Other Rock, Paper, Scissors",
+        "season": 1,
+        "episode": 22,
+        "released": "2024-07-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2794618",
+        "title": "The Astonishing Catalina",
+        "season": 1,
+        "episode": 23,
+        "released": "2024-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2937959",
+        "title": "The Holiday Picture",
+        "season": 1,
+        "episode": 24,
+        "released": "2024-07-22",
+        "overview": "The trio's perfect holiday photo is ruined by a ghost who follows them everywhere."
+      },
+      {
+        "id": "tvmaze:2937962",
+        "title": "Bowling",
+        "season": 1,
+        "episode": 25,
+        "released": "2024-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2941032",
+        "title": "The Character Quiz",
+        "season": 1,
+        "episode": 26,
+        "released": "2024-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2941648",
+        "title": "Potato",
+        "season": 1,
+        "episode": 27,
+        "released": "2024-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2974518",
+        "title": "Key Limes",
+        "season": 1,
+        "episode": 28,
+        "released": "2024-08-19",
+        "overview": "The trio goes on an action-packed adventure with Paper's sister, Sandpaper, to get seven key limes."
+      },
+      {
+        "id": "tvmaze:2974519",
+        "title": "Six Pieces of Turkey",
+        "season": 1,
+        "episode": 29,
+        "released": "2024-08-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2978279",
+        "title": "Pogo Sticks",
+        "season": 1,
+        "episode": 30,
+        "released": "2024-08-22",
+        "overview": "The trio get their hands on pogo sticks."
+      },
+      {
+        "id": "tvmaze:2978280",
+        "title": "Car Wash",
+        "season": 1,
+        "episode": 31,
+        "released": "2024-08-22",
+        "overview": "Rock tries to get a job at Evil Robot Corp."
+      },
+      {
+        "id": "tvmaze:3041350",
+        "title": "Paper's Book Club",
+        "season": 1,
+        "episode": 32,
+        "released": "2024-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3041701",
+        "title": "Scissors' Catapult",
+        "season": 1,
+        "episode": 33,
+        "released": "2024-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3042302",
+        "title": "Pencil and Potato",
+        "season": 1,
+        "episode": 34,
+        "released": "2024-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3043933",
+        "title": "Resolutions",
+        "season": 1,
+        "episode": 35,
+        "released": "2024-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3046275",
+        "title": "Glitter Bomb",
+        "season": 1,
+        "episode": 36,
+        "released": "2024-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3046817",
+        "title": "Helping With the Groceries",
+        "season": 1,
+        "episode": 37,
+        "released": "2024-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3052678",
+        "title": "Diapers",
+        "season": 1,
+        "episode": 38,
+        "released": "2024-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3053874",
+        "title": "R.O.V.E.R.",
+        "season": 1,
+        "episode": 39,
+        "released": "2024-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3053875",
+        "title": "Trash",
+        "season": 1,
+        "episode": 40,
+        "released": "2024-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3425342",
+        "title": "Franz Roll and the Lost Rainbow Hot Pants of Atraxes the Apple Bottomed",
+        "season": 2,
+        "episode": 1,
+        "released": "2025-11-07",
+        "overview": "Rock quests for an ancient artifact in order to prove he is worthy of working with his modeling role model, Franz Roll; Paper and Scissors compete to be more supportive of Rock in the hopes that one of them will head his entourage."
+      },
+      {
+        "id": "tvmaze:3427536",
+        "title": "Paper and Pencil Tell a Joke",
+        "season": 2,
+        "episode": 2,
+        "released": "2025-11-14",
+        "overview": "Paper and Pencil tell a kind of funny joke at a party and chase the feeling of people finding them funny by telling it again and again."
+      },
+      {
+        "id": "tvmaze:3427537",
+        "title": "Scissors' Orchestra",
+        "season": 2,
+        "episode": 3,
+        "released": "2025-11-14",
+        "overview": "Scissors hires an orchestra to follow him around and score his life."
+      },
+      {
+        "id": "tvmaze:3441218",
+        "title": "Shoot",
+        "season": 2,
+        "episode": 4,
+        "released": "2025-11-28",
+        "overview": "Rock, Paper, and Scissors' old friend Shoot comes back to town, ready for more of his favorite activity: exhaustingly annoying competitions."
+      },
+      {
+        "id": "tvmaze:3441219",
+        "title": "Rock's First Day of Work",
+        "season": 2,
+        "episode": 5,
+        "released": "2025-11-28",
+        "overview": "Rock starts his job as Franz Roll's assistant and learns just how demanding his role model is."
+      },
+      {
+        "id": "tvmaze:3441413",
+        "title": "Paper Attends an Elite Institution",
+        "season": 2,
+        "episode": 6,
+        "released": "2025-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441414",
+        "title": "The New Landlord",
+        "season": 2,
+        "episode": 7,
+        "released": "2025-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441416",
+        "title": "The Origami Robot",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441417",
+        "title": "Scissors Sees an Inspirational Sports Movie",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:8779",
+    "type": "series",
+    "name": "American Athletic Conference Football Championship Game",
+    "description": "The American Athletic Conference Football Championship Game is a college football game currently held by the American Athletic Conference (The American) each year to determine the conference's season champion. The inaugural game will be held on December 5, 2015, at 12:00 pm ET. The game will pit the champion of Eastern division (Cincinnati, Connecticut, East Carolina, South Florida, Temple, and UCF) against the champion of the Western division (Houston, Memphis, Navy, SMU, Tulane, and Tulsa). The game will be played at the home stadium of the division winner with the better conference record.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/468/1172375.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/468/1172375.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3259833",
+        "title": "2025 American Athletic Conference Football Championship Game: North Texas Mean Green vs. Tulane Green Wave",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-05",
+        "overview": "Live from Benson Field at Yulman Stadium in New Orleans, LA."
+      }
+    ]
+  }
+}

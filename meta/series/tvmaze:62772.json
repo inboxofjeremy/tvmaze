@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "id": "tvmaze:62772",
+    "type": "series",
+    "name": "Caught in the Act: Unfaithful",
+    "description": "Caught in the Act: Unfaithful tracks host Tami Roman as she sets out on a mission to empower suspicious lovers to catch their cheating partners in the act. Once the investigation is complete, the suspicious lover can choose to team up with their partner's other lover or take them both down in an undercover ambush.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339513.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339513.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3459313",
+        "title": "A Real-Life cowboy",
+        "season": 4,
+        "episode": 8,
+        "released": "2025-12-09",
+        "overview": "Bronson is ready to propose to long-time love, Alisha. But her behavior has him thinking that she might be two-stepping with someone else. Can Tami help this cowboy find the truth, and will it lead to happy trails for all?"
+      },
+      {
+        "id": "tvmaze:2354296",
+        "title": "He Ain't Eating That Much Pie",
+        "season": 1,
+        "episode": 1,
+        "released": "2022-07-18",
+        "overview": "Tracy thought she'd found her soul mate when she met music producer McKinley. But after two years together, she's singing a different tune now that she suspects he might be a cheater."
+      },
+      {
+        "id": "tvmaze:2354297",
+        "title": "He Just Wanna Be Lit…But Not With Me",
+        "season": 1,
+        "episode": 2,
+        "released": "2022-07-18",
+        "overview": "Three weeks after meeting on an internet dating site, Naima and David were an inseparable couple. But now a year later, Naima suspects David's telling a web of lies, and he may be a cheater."
+      },
+      {
+        "id": "tvmaze:2354298",
+        "title": "Did You Cross That Bridge?",
+        "season": 1,
+        "episode": 3,
+        "released": "2022-07-25",
+        "overview": "After seven years together, Marlo is contemplating making a lifetime commitment to dance instructor boyfriend Corey. But now that Marlo suspects Corey might be a cheater, he wants Corey to face the music."
+      },
+      {
+        "id": "tvmaze:2354299",
+        "title": "An Insatiable Appetite For Success",
+        "season": 1,
+        "episode": 4,
+        "released": "2022-07-25",
+        "overview": "After Jessica's work partner Walter became her romantic partner, it seemed like the perfect mix of business with pleasure. But now Jessica suspects cheating may be Walter's new side hustle."
+      },
+      {
+        "id": "tvmaze:2354300",
+        "title": "She Has a Whole Other Apartment?",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-08-01",
+        "overview": "For more than four years, Gierra's dated Shay who works as a club promoter; Gierra longs to start a family with her partner, but suspects Shay's engagements with ladies at local hotspots may have gotten Gierra bounced."
+      },
+      {
+        "id": "tvmaze:2354301",
+        "title": "Not Her Cousin!",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-08-01",
+        "overview": "For more than two years, Nico has been in a committed relationship with his girlfriend Leighann, a full time barber; now Nico suspects she may be cheating, and he's been given the brush-off."
+      },
+      {
+        "id": "tvmaze:2569613",
+        "title": "It's Giving Very Much Fraudulent",
+        "season": 2,
+        "episode": 1,
+        "released": "2023-07-11",
+        "overview": "Monika comes to Tami for help when Ken's infidelity adds to her emotional trauma, but Tami's investigation peels back deeper layers of trouble for both Ken and Monika."
+      },
+      {
+        "id": "tvmaze:2592086",
+        "title": "He Proposed to Both of Us",
+        "season": 2,
+        "episode": 2,
+        "released": "2023-07-18",
+        "overview": "Leila suspects something is up with her longtime fiancé West after he grows distant following her miscarriage, and the team's investigation reveals a brazen deception."
+      },
+      {
+        "id": "tvmaze:2599449",
+        "title": "We Have Dogs at Home",
+        "season": 2,
+        "episode": 3,
+        "released": "2023-07-25",
+        "overview": "After Neko breaks his girlfriend Kara's trust, he starts to suspect her job as a scantily clad barber has led to infidelity, and he turns to Tami and DJ Envy to learn the truth."
+      },
+      {
+        "id": "tvmaze:2604195",
+        "title": "No Way to Treat a Lady",
+        "season": 2,
+        "episode": 4,
+        "released": "2023-08-01",
+        "overview": "After catching her boyfriend Aaron cheating once before, Bella seeks Tami's help to confirm his ongoing infidelity so she can either move forward with him or get a gender-affirming surgery."
+      },
+      {
+        "id": "tvmaze:2612622",
+        "title": "You Gave Up The Cookies!",
+        "season": 2,
+        "episode": 5,
+        "released": "2023-08-08",
+        "overview": "Mariah's relationship with Bobby heated up after she quickly got pregnant with their son, but now she's worried he's giving his attention to other women -- and maybe fathering other kids."
+      },
+      {
+        "id": "tvmaze:2617739",
+        "title": "Any Old D Will Do",
+        "season": 2,
+        "episode": 6,
+        "released": "2023-08-15",
+        "overview": "Andrew's been working about 60 hours a week while hoping to start a family with his older girlfriend Nikki, but he's begun to suspect her acroyoga instructor is more than just a friend."
+      },
+      {
+        "id": "tvmaze:2623796",
+        "title": "He Said That Was His Cousin",
+        "season": 2,
+        "episode": 7,
+        "released": "2023-08-22",
+        "overview": "Mimi calls on Tami to investigate her long-term boyfriend Memphis's shady behavior with a recently divorced friend, but Tami learns the truth may be hiding in plain sight."
+      },
+      {
+        "id": "tvmaze:2630109",
+        "title": "I Just Don't Feel That Bad",
+        "season": 2,
+        "episode": 8,
+        "released": "2023-08-29",
+        "overview": "Ruby notices a drastic change in her boyfriend Johnny's behavior after they launch a photography business together, so she calls on Tami and the crew to help her get some answers."
+      },
+      {
+        "id": "tvmaze:2634278",
+        "title": "Dropping All Kinds Of Eggplants",
+        "season": 2,
+        "episode": 9,
+        "released": "2023-09-05",
+        "overview": "Before moving forward with intensive fertility treatments, Suspicious Lover Star wants to make sure her much younger boyfriend Ricky is committed to her and their future child."
+      },
+      {
+        "id": "tvmaze:2638903",
+        "title": "I Feel Like a Side Chick Almost",
+        "season": 2,
+        "episode": 10,
+        "released": "2023-09-19",
+        "overview": "Jessica thinks her relationship with her music man is in perfect harmony, until she suspects the bond with his best friend might be causing him to change his tune."
+      },
+      {
+        "id": "tvmaze:2653501",
+        "title": "What Is The Gardener Doing Here?",
+        "season": 2,
+        "episode": 11,
+        "released": "2023-09-26",
+        "overview": "Kori calls on the crew when she suspects her photographer boyfriend George is shooting his shot with someone else, but the investigation uncovers deception that sends Tami over the edge."
+      },
+      {
+        "id": "tvmaze:2705023",
+        "title": "We Got a Runner",
+        "season": 2,
+        "episode": 12,
+        "released": "2024-01-09",
+        "overview": "As Nia prepares for her upcoming wedding to William, she calls on Tami to investigate after she suspects her fiancé may be making questionable house calls for his massage service."
+      },
+      {
+        "id": "tvmaze:2728733",
+        "title": "She Has Two Phones!",
+        "season": 2,
+        "episode": 13,
+        "released": "2024-01-09",
+        "overview": "Content creator Richard thinks he's found lasting love with his model girlfriend Elisa, but communication failures and red flags leave him questioning if their relationship is serious."
+      },
+      {
+        "id": "tvmaze:2733606",
+        "title": "That's My Ex-Best Friend",
+        "season": 2,
+        "episode": 14,
+        "released": "2024-01-16",
+        "overview": "Joe, Lexi's boyfriend of five years, has been helping with her modeling career; recently, she's begun to suspect that Joe has eyes for another woman."
+      },
+      {
+        "id": "tvmaze:2737185",
+        "title": "It's An R&B Love Story",
+        "season": 2,
+        "episode": 15,
+        "released": "2024-01-23",
+        "overview": "Cortez transformed himself from a skinny kid with no confidence to a full-fledged stud. But his insecurities have returned now that he suspects the love of his life is being unfaithful with her real estate mentor."
+      },
+      {
+        "id": "tvmaze:2746139",
+        "title": "She Ain't Even That Cute!",
+        "season": 2,
+        "episode": 16,
+        "released": "2024-01-30",
+        "overview": "Dance teacher Sky has been going strong with her former client Ted for 17 years, but she suspects that he's been sneaking around with a younger model."
+      },
+      {
+        "id": "tvmaze:2751791",
+        "title": "Is That Your Auntie?",
+        "season": 2,
+        "episode": 17,
+        "released": "2024-02-06",
+        "overview": "Dani, a hard working single mom, has been dating Rio for three years. Dani's suspicions of his infidelities put her daughter's happiness at risk, forcing her to decide if she should confront Rio."
+      },
+      {
+        "id": "tvmaze:2761675",
+        "title": "You Will Never Touch Me Again",
+        "season": 2,
+        "episode": 18,
+        "released": "2024-02-13",
+        "overview": "Bryant, AKA Big Sexy, has been in a long-distance relationship with Eric for a year. Bryant wants Eric to move in with him, but he's in for a big surprise."
+      },
+      {
+        "id": "tvmaze:2767802",
+        "title": "Unfortunately… She's My Wife",
+        "season": 2,
+        "episode": 19,
+        "released": "2024-02-20",
+        "overview": "After 18 years together—and multiple infidelities in their past—Jennifer suspects her husband Sal is back to his old creeping ways, putting everything they've worked for on the line."
+      },
+      {
+        "id": "tvmaze:2771334",
+        "title": "He Done Knocked Ken Down",
+        "season": 2,
+        "episode": 20,
+        "released": "2024-02-27",
+        "overview": "Jamison's fiancée Juliette has refused to set a wedding date for nine years. Now he has reason to suspect it's because of her longtime friend and hairstylist."
+      },
+      {
+        "id": "tvmaze:2778068",
+        "title": "She Must Not Know About Me",
+        "season": 2,
+        "episode": 21,
+        "released": "2024-03-05",
+        "overview": "Ciara has been fully dedicated to her relationship with her boyfriend, Kwame. But recent changes in his attitude lead her to believe that he might not be as committed as she is."
+      },
+      {
+        "id": "tvmaze:2787262",
+        "title": "Toxic, Dysfunctional Love",
+        "season": 2,
+        "episode": 22,
+        "released": "2024-03-12",
+        "overview": "With a wedding on the horizon, larger-than-life TV personality Redd suspects her fiancée is stepping outside of their nine-year relationship with another woman—who happens to be a mutual friend."
+      },
+      {
+        "id": "tvmaze:2792736",
+        "title": "There's No Future in Frontin'",
+        "season": 2,
+        "episode": 23,
+        "released": "2024-03-19",
+        "overview": "Sicorra thought her rapper boyfriend's playboy persona was just for the stage, but now she suspects that art is imitating life and he may actually be cheating on her."
+      },
+      {
+        "id": "tvmaze:2802194",
+        "title": "That's Called Pandora's Box",
+        "season": 2,
+        "episode": 24,
+        "released": "2024-03-26",
+        "overview": "Emily and Brandon have been in a committed—albeit unconventional—relationship for six years. But Emily has recently grown suspicious that Brandon is breaking the rules to their arrangement."
+      },
+      {
+        "id": "tvmaze:2983665",
+        "title": "Who Was That Woman, Doctor?",
+        "season": 3,
+        "episode": 1,
+        "released": "2024-09-17",
+        "overview": "Jessica fell fast for Deyondrick, AKA DJ Mula. Deyondrick is fully integrated into Jessica's life, her kids' lives, and their home. But now Jessica is suspicious of Deyondrick's best friend, and ex, Katelyn AKA Yogi Bear."
+      },
+      {
+        "id": "tvmaze:3004013",
+        "title": "That's My Twin",
+        "season": 3,
+        "episode": 2,
+        "released": "2024-09-24",
+        "overview": "Alex is ready to lock it down with La'Niece and their blended family; Alex has a hunch La'Niece is creeping around; Alex hits up Tami to find out if La'Niece is the one, or if she's double dipping."
+      },
+      {
+        "id": "tvmaze:3006888",
+        "title": "Where's My Pizza and Wine?",
+        "season": 3,
+        "episode": 3,
+        "released": "2024-10-01",
+        "overview": "Male model Marquis and his boyfriend Arthur were each other's firsts and eight years later, they're still together; but lately, Marquis suspects Arthur is stepping out, so he calls on Tami to find out if his suspicions are real."
+      },
+      {
+        "id": "tvmaze:3013314",
+        "title": "I'm Marrying Both of Them",
+        "season": 3,
+        "episode": 4,
+        "released": "2024-10-08",
+        "overview": "Vanna was drawn to Stone's sweet musical sound during their courtship, but now she needs Tami's help to find out if Stone is no longer interested in a duet."
+      },
+      {
+        "id": "tvmaze:3017464",
+        "title": "Too Beautiful to Be Crying",
+        "season": 3,
+        "episode": 5,
+        "released": "2024-10-15",
+        "overview": "R. Guy and Ja'Van have had a fairytale romance for six years; Ja'Van's been leaving for days at a time and funds have gone missing; worried happily ever after may never come, R. Guy seeks Tami's help."
+      },
+      {
+        "id": "tvmaze:3025766",
+        "title": "Meet My Team",
+        "season": 3,
+        "episode": 6,
+        "released": "2024-10-22",
+        "overview": "Max is ready to retire and live out his golden years with his blonde bombshell girlfriend, Melissa. But he's suspicious about her long workouts and elevated sex drive that seem to be more of a priority."
+      },
+      {
+        "id": "tvmaze:3029632",
+        "title": "She For The Streetz",
+        "season": 3,
+        "episode": 7,
+        "released": "2024-10-29",
+        "overview": "Trey is ready to build a future with his girlfriend, Alicia, but he's worried something is holding her back; after Tami puts her team on the case, it seems Trey's concerns may hit even closer to home than he feared."
+      },
+      {
+        "id": "tvmaze:3032499",
+        "title": "A Big Load of Hogwash",
+        "season": 3,
+        "episode": 8,
+        "released": "2024-11-05",
+        "overview": "RJ needs Tami's help to find out if his fiancé Marisa is committed to getting married or planning to be a runaway bride."
+      },
+      {
+        "id": "tvmaze:3039175",
+        "title": "Coach Ken, You Not Making It Easy",
+        "season": 3,
+        "episode": 9,
+        "released": "2024-11-12",
+        "overview": "Alexis thought she and her boyfriend Ben were on the same timeline, but needs Tami's help to find out if her time with him is really up."
+      },
+      {
+        "id": "tvmaze:3044921",
+        "title": "You Are the Drama!",
+        "season": 3,
+        "episode": 10,
+        "released": "2024-11-19",
+        "overview": "Miniyah manages her girlfriend Jay's bookings as a private dancer; Jay's sudden need for space has her moving out of their home; Miniyah starts to question their future."
+      },
+      {
+        "id": "tvmaze:3044923",
+        "title": "Is This a Hotel or a Motel?",
+        "season": 3,
+        "episode": 11,
+        "released": "2024-11-26",
+        "overview": "Eric thinks he's a part of a power couple but his instincts lead him to seek Tami's help to see if the Bonnie to his Clyde is making power moves with another man."
+      },
+      {
+        "id": "tvmaze:3064487",
+        "title": "He Got a Type",
+        "season": 3,
+        "episode": 12,
+        "released": "2024-12-03",
+        "overview": "When Viva met Michael, he provided a safe place away from family drama, but now her safety bubble seems like it's about to pop; Michael is pulling away and Viva is desperate to find out if he's hiding something or perhaps someone."
+      },
+      {
+        "id": "tvmaze:3068372",
+        "title": "On the Food Truck",
+        "season": 3,
+        "episode": 13,
+        "released": "2024-12-10",
+        "overview": "Loyalties and friendships are tested when betrayal is on the menu; private chef, Shay, suspects her longtime boyfriend, Tony, is serving up more than food at his food truck; Tami and her team helps Shay get to the bottom of Tony."
+      },
+      {
+        "id": "tvmaze:3078317",
+        "title": "I'm an Icon in the Ballroom Scene",
+        "season": 3,
+        "episode": 14,
+        "released": "2024-12-17",
+        "overview": "Alexis and Trenton meet in the ballroom scene; but after seeing how close Trenton has gotten with his new protege, Alexis wonders if Trenton is just being friendly or if there are now three in their tango."
+      },
+      {
+        "id": "tvmaze:3184839",
+        "title": "She Just Greedy, I Guess",
+        "season": 3,
+        "episode": 15,
+        "released": "2025-04-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3203403",
+        "title": "Don't Forget Your Guilt Gift",
+        "season": 3,
+        "episode": 16,
+        "released": "2025-04-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3211025",
+        "title": "Un-Communicated Expectations",
+        "season": 3,
+        "episode": 17,
+        "released": "2025-04-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3229793",
+        "title": "Ménage à trois",
+        "season": 3,
+        "episode": 18,
+        "released": "2025-05-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3229794",
+        "title": "Let's Put It on Pause",
+        "season": 3,
+        "episode": 19,
+        "released": "2025-05-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225309",
+        "title": "Love in the Comedy Club",
+        "season": 3,
+        "episode": 20,
+        "released": "2025-05-13",
+        "overview": "Comedienne Vonda is not amused by her suspicion that her stripper boyfriend, Brian, is playing her for a fool."
+      },
+      {
+        "id": "tvmaze:3225310",
+        "title": "Side Chicks Never Complain",
+        "season": 3,
+        "episode": 21,
+        "released": "2025-05-13",
+        "overview": "Kayla mixes business with pleasure investing into a business venture with her older boyfriend, Daniel. But Daniel's been shady lately, so Kayla turns to Tami to learn if she's being hustled in love and money."
+      },
+      {
+        "id": "tvmaze:3231483",
+        "title": "I'm the Entree, You're the Cole Slaw",
+        "season": 3,
+        "episode": 22,
+        "released": "2025-05-20",
+        "overview": "A year ago, Romeo helped hot-tempered Briana find love again after she suffered a terrible loss. Now, Briana's suspicious that Romeo might be finding love elsewhere."
+      },
+      {
+        "id": "tvmaze:3231484",
+        "title": "She's a Runner, She's a Track Star",
+        "season": 3,
+        "episode": 23,
+        "released": "2025-05-20",
+        "overview": "Born into a family of athletes, Jasmine has always dreamed of taking her talent for track all the way. But when she falls for her trainer, she wonders what's to stop him from crossing the line with his other clients."
+      },
+      {
+        "id": "tvmaze:3231485",
+        "title": "Love Is an Irregular Shape",
+        "season": 3,
+        "episode": 24,
+        "released": "2025-05-27",
+        "overview": "After reconnecting with a high school friend, Jon is looking towards marriage and building a life together with Joseph. But recent changes and mystery phone calls have Jon concerned that she might not be the only one Joseph is connecting with."
+      },
+      {
+        "id": "tvmaze:3241613",
+        "title": "Just Girls Being Girls",
+        "season": 3,
+        "episode": 25,
+        "released": "2025-05-27",
+        "overview": "Gianni always knew he was Alondra's first, but after Tami uncovers the truth, he may soon realize he just might be her last."
+      },
+      {
+        "id": "tvmaze:3267149",
+        "title": "You Gotta Run Faster Than That, Ken",
+        "season": 3,
+        "episode": 26,
+        "released": "2025-06-03",
+        "overview": "Lisa suspects live-in lover and hookah business partner, Joseph, may be cheating on her and their dog Chloe. He claims all the time he spends away from home is for work, but Lisa wonders if he is just blowing smoke."
+      },
+      {
+        "id": "tvmaze:3260951",
+        "title": "He Don't Even Have a Car",
+        "season": 3,
+        "episode": 27,
+        "released": "2025-06-10",
+        "overview": "R&amp;B artist Marvin seeks Tami's help to uncover the truth about his relationship. He suspects his girlfriend, Tashi, a ride-share driver, might be dancing to a new beat."
+      },
+      {
+        "id": "tvmaze:3269861",
+        "title": "Kriss Kross, You Can Have Her",
+        "season": 3,
+        "episode": 28,
+        "released": "2025-06-17",
+        "overview": "While trying to repair his 5 year relationship after stepping out, Bryce wonders if his girlfriend is serving up a dose of \"Katie Karma\" behind his back."
+      },
+      {
+        "id": "tvmaze:3274900",
+        "title": "I'm Royalty, This Is Beyond Me",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-06-24",
+        "overview": "Career-minded Colombian singer Kat suspects her boyfriend - producer/rapper Andre - is doing more than making music with the female artists he produces."
+      },
+      {
+        "id": "tvmaze:3280421",
+        "title": "My Man, My Man, My Man",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-07-01",
+        "overview": "Nunu thought she had found the perfect partner in Caleb for herself and her two sons. But recent changes in their relationship and a non-existent sex-life have Nunu questioning if Caleb is really the man of her dreams."
+      },
+      {
+        "id": "tvmaze:3402028",
+        "title": "My Dream House",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-10-21",
+        "overview": "Quinn believes Deonta is her soulmate but notices him growing distant. He has already met her kids, and Quinn is ready for a ring. Quinn is ready to find out what's making Deonta so cold."
+      },
+      {
+        "id": "tvmaze:3406640",
+        "title": "Crash out or pass out",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-10-28",
+        "overview": "Dashaye seeks Tami's help when she suspects her longtime girlfriend, Danielle, is creeping around. When Dashaye confronts Danielle, another plot twist is revealed: Dashaye has been keeping a secret of her own."
+      },
+      {
+        "id": "tvmaze:3406641",
+        "title": "The belt don't fit",
+        "season": 4,
+        "episode": 3,
+        "released": "2025-11-04",
+        "overview": "Melik is the ultimate supportive boyfriend to Izzy and has been dreaming up an elaborate proposal for her. Suddenly, he's finding strange accessories in his home. Will the truth Tami uncovers derail his marriage plans?"
+      },
+      {
+        "id": "tvmaze:3437461",
+        "title": "Captain Save a Hoe",
+        "season": 4,
+        "episode": 4,
+        "released": "2025-11-11",
+        "overview": "Chris, Tula, and Grace are in a polyamorous relationship, but Chris is having doubts about Grace's affections. Will the throuple be able to survive the results of Tami's investigation?"
+      },
+      {
+        "id": "tvmaze:3439840",
+        "title": "Hard At Work",
+        "season": 4,
+        "episode": 5,
+        "released": "2025-11-18",
+        "overview": "After 10 years and two children, Alexia suspects her fiancé, Israel, may no longer be committed. With their engagement off, she turns to Tami wondering if Israel is still grocery shopping with her, or if he's filling someone else's cart."
+      },
+      {
+        "id": "tvmaze:3450518",
+        "title": "Twins",
+        "season": 4,
+        "episode": 6,
+        "released": "2025-11-25",
+        "overview": "Shay works long hours to support her boyfriend Tommy, but now she fears he's spending that time with someone new. The red flags are piling up, and Shay is beginning to wonder if he is hiding something much bigger."
+      },
+      {
+        "id": "tvmaze:3450519",
+        "title": "You Can Call Me Delulu",
+        "season": 4,
+        "episode": 7,
+        "released": "2025-12-02",
+        "overview": "Mother of five, Grace, is worried that her husband of three years, Jon, spends too much time out of the house. Is he busy running their trucking company? Or is he on the road to someone else's bed?"
+      },
+      {
+        "id": "tvmaze:3459313",
+        "title": "A Real-Life cowboy",
+        "season": 4,
+        "episode": 8,
+        "released": "2025-12-09",
+        "overview": "Bronson is ready to propose to long-time love, Alisha. But her behavior has him thinking that she might be two-stepping with someone else. Can Tami help this cowboy find the truth, and will it lead to happy trails for all?"
+      }
+    ]
+  }
+}

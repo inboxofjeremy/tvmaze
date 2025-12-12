@@ -1,0 +1,916 @@
+{
+  "meta": {
+    "id": "tvmaze:6407",
+    "type": "series",
+    "name": "Holiday Baking Championship",
+    "description": "The search to find the greatest holiday baker begins as eight amateur bakers enter the kitchen, where they show off their family traditions and superb baking skills. To survive the challenges from week to week, they must prove their abilities in front of our tough-love judges: Duff Goldman, Nancy Fuller and Lorraine Pascale. Hosted by Bobby Deen, this baking championship is the sweetest way to celebrate this holiday season.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/595/1489979.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/595/1489979.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436555",
+        "title": "Jingle Mingle",
+        "season": 12,
+        "episode": 6,
+        "released": "2025-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:377894",
+        "title": "Holiday Cookie Madness",
+        "season": 1,
+        "episode": 1,
+        "released": "2014-11-09",
+        "overview": "The eight bakers have to put their best cookie forward in the first two challenges of this competition. First, they'll have to make their best holiday cookie using an assigned baking tool and in the second challenge, they must use holiday ingredients to impress the judges with three different kinds of cookies."
+      },
+      {
+        "id": "tvmaze:377895",
+        "title": "Classic Holiday Flavors",
+        "season": 1,
+        "episode": 2,
+        "released": "2014-11-16",
+        "overview": "The seven remaining bakers take classic holiday flavors into tasty new territory. In the first challenge, they create a swirled treat using eggnog and have to play nice with varieties of sugar and spice for their second dessert."
+      },
+      {
+        "id": "tvmaze:377896",
+        "title": "It's Not the Holidays Without Pie",
+        "season": 1,
+        "episode": 3,
+        "released": "2014-11-23",
+        "overview": "In this episode, the six remaining bakers take on the crusty, sweet goodness of pie. In the first challenge, they have just 30 minutes to make their best dessert using store-bought pie crust. In the second challenge, the bakers create three different pies with three different crusts."
+      },
+      {
+        "id": "tvmaze:377897",
+        "title": "The Great Holiday Cake-Over",
+        "season": 1,
+        "episode": 4,
+        "released": "2014-11-30",
+        "overview": "The five bakers left in the Holiday Baking Championship take the polarizing fruitcake someplace new and reinvent the biggest holiday cake of all, the yule log."
+      },
+      {
+        "id": "tvmaze:377898",
+        "title": "Great Holiday Traditions",
+        "season": 1,
+        "episode": 5,
+        "released": "2014-12-07",
+        "overview": "It's winter nights and holiday breakfasts in this episode, when the four bakers are first tasked to use the classic holiday flavors of peppermint and hot chocolate in a dessert and then create a blown-out holiday breakfast complete with three sweet dishes."
+      },
+      {
+        "id": "tvmaze:377899",
+        "title": "Gingerbread Worlds",
+        "season": 1,
+        "episode": 6,
+        "released": "2014-12-14",
+        "overview": "In the epic finale, the three remaining bakers have just one challenge, but it's a massive one. Each baker taps into a favorite holiday memory and then constructs gingerbread worlds filled with all sorts of treats. The baker who can impress the judges the most will become the Holiday Baking Champion and take home $50,000!"
+      },
+      {
+        "id": "tvmaze:378094",
+        "title": "We're Nuts for the Holidays",
+        "season": 2,
+        "episode": 1,
+        "released": "2015-11-01",
+        "overview": "The Holiday Baking Championship kicks off as 10 competing bakers take on a nutty chocolate dessert in the first challenge and beautifully-decorated holiday pies in the main heat. At the end of each episode, one baker will be eliminated!"
+      },
+      {
+        "id": "tvmaze:378672",
+        "title": "Holiday Craftiness",
+        "season": 2,
+        "episode": 2,
+        "released": "2015-11-08",
+        "overview": "It's time to get crafty! The remaining nine bakers attempt to amp up the visual impact of holiday baked goods as they create festive candy cane and holiday wreath desserts."
+      },
+      {
+        "id": "tvmaze:378673",
+        "title": "Stuffing Is the Best Part",
+        "season": 2,
+        "episode": 3,
+        "released": "2015-11-15",
+        "overview": "The eight remaining bakers begin by making their best holiday whoopie pies that evoke a randomly-assigned theme of turkey, pumpkin, Pilgrims or fall foliage. Then, they must create stuffed holiday cakes that reveal a surprise center when sliced open."
+      },
+      {
+        "id": "tvmaze:378674",
+        "title": "Thanksgiving's Just Around the Corner",
+        "season": 2,
+        "episode": 4,
+        "released": "2015-11-22",
+        "overview": "The seven remaining bakers get creative with Thanksgiving-inspired desserts, and in the first round, their sweets feature canned cranberry sauce. Then, in the main heat, the bakers must invent a dessert highlighting their assigned harvest ingredient: sweet potato, pumpkin, apple, pear, pomegranate, carrot or lemon."
+      },
+      {
+        "id": "tvmaze:378675",
+        "title": "Ginger and Spice and Everything Nice",
+        "season": 2,
+        "episode": 5,
+        "released": "2015-11-29",
+        "overview": "In this week's challenges, the six remaining bakers revel in the warm, taste bud-tingling flavor of ginger. They must make mini desserts highlighting candied ginger, then create three different types of holiday cookies inspired by family traditions."
+      },
+      {
+        "id": "tvmaze:508627",
+        "title": "World Class Classics",
+        "season": 2,
+        "episode": 6,
+        "released": "2015-12-06",
+        "overview": "Every culture has their own holiday traditions, and the five remaining bakers celebrate a couple of favorites by reinventing two Hanukkah classics: rugelach and macaroons. Then, they must create their own unique version of a holiday croquembouche."
+      },
+      {
+        "id": "tvmaze:528513",
+        "title": "Re-Gifting",
+        "season": 2,
+        "episode": 7,
+        "released": "2015-12-13",
+        "overview": "The five remaining bakers must make a candy apple dessert inspired by a candy apple gift, then figure out how turn the contents of a traditional gift basket into a delicious dessert."
+      },
+      {
+        "id": "tvmaze:528514",
+        "title": "Holiday Hoopla",
+        "season": 2,
+        "episode": 8,
+        "released": "2015-12-20",
+        "overview": "The last three bakers must show off their decorating chops by baking and beautifully decorating a sugar cookie tree; in the final heat, the bakers need to transform their assigned holiday tradition into an intricately decorated cake."
+      },
+      {
+        "id": "tvmaze:959178",
+        "title": "Signs of the Season",
+        "season": 3,
+        "episode": 1,
+        "released": "2016-11-06",
+        "overview": "For the pre-heat, host Bobby Deen challenges the nine bakers to take seasonal hot beverages like hot chocolate and apple cider a step further by turning them into desserts. Then, in the main heat, these culinary artisans show off their decorating skills by creating a filled Bundt cake wreath."
+      },
+      {
+        "id": "tvmaze:959179",
+        "title": "Grandma's Thanksgiving Favorites",
+        "season": 3,
+        "episode": 2,
+        "released": "2016-11-13",
+        "overview": "When it comes to Thanksgiving, nobody can compete with grandma's signature recipes, so Clash of the Grandmas star Norma Zager joins Bobby Deen to lend her expertise to the remaining eight bakers. For the pre-heat, they must whip up two types of cookies, with one inspired by dear old grandma. Then, in the main heat, the bakers compete to create the best pie by hand -- no appliances -- just like grandma used to!"
+      },
+      {
+        "id": "tvmaze:959180",
+        "title": "Thanksgiving Joy",
+        "season": 3,
+        "episode": 3,
+        "released": "2016-11-20",
+        "overview": "In the pre-heat, the remaining seven bakers must combine all of their favorite Thanksgiving desserts into one by creating elegant trifles. Then, for the main heat, the bakers have to produce Thanksgiving imposter cupcakes that will make everyone take a second look!"
+      },
+      {
+        "id": "tvmaze:959181",
+        "title": "Hearth and Home",
+        "season": 3,
+        "episode": 4,
+        "released": "2016-11-27",
+        "overview": "Nothing says the holidays like a crisp fire on a snowy day, so in the pre-heat, the remaining six bakers are tested on how well they can make a dessert featuring toasted marshmallows. For the main heat, bakers get the chance to put a fresh spin on an old holiday classic by \"blinging out\" yule logs."
+      },
+      {
+        "id": "tvmaze:982553",
+        "title": "Sweet Surprises",
+        "season": 3,
+        "episode": 5,
+        "released": "2016-12-04",
+        "overview": "Who doesn't love surprises, especially during the holidays? For the pre-heat, the bakers must whip up a dessert inspired by an ugly Christmas sweater. Keeping with the surprise theme, in the main heat the bakers create edible gift boxes filled with a bevy of treats."
+      },
+      {
+        "id": "tvmaze:982555",
+        "title": "Christmas Morning",
+        "season": 3,
+        "episode": 6,
+        "released": "2016-12-11",
+        "overview": "The remaining four bakers recreate their childhood memories of waking up on Christmas morning by making edible dessert stockings for the pre-heat. Then, they take their designs to new heights in the main heat by building colorful cream puff Christmas trees."
+      },
+      {
+        "id": "tvmaze:982556",
+        "title": "Live From the North Pole",
+        "season": 3,
+        "episode": 7,
+        "released": "2016-12-18",
+        "overview": "Instead of milk and cookies for old St. Nick, the final three must make delicious snacks for North Pole characters other than Santa. To top off the whole season, the bakers are tasked with baking and decorating a North Pole-inspired cake. The best creation will earn one baker the crown of Holiday Baking Champion and a $50,000 prize!"
+      },
+      {
+        "id": "tvmaze:982557",
+        "title": "Adults vs. Kids",
+        "season": 3,
+        "episode": 8,
+        "released": "2016-12-25",
+        "overview": "It's time to celebrate the holidays and all that goes along with it: parties, the big game and one last decadent blast before the New Year's resolutions kick in! In a very special episode of Holiday Baking Championship, three Holiday Baking champions and three fan favorites from Kids Baking Championship show off their chops in a holiday showdown to win $10,000. Host Bobby Deen oversees the all-star game along with tough-love judges Duff Goldman, Nancy Fuller and Lorraine Pascale."
+      },
+      {
+        "id": "tvmaze:1329711",
+        "title": "Holiday Party Delights",
+        "season": 4,
+        "episode": 1,
+        "released": "2017-11-06",
+        "overview": "To kick things off, nine bakers must create eye-catching and tantalizing new holiday treats for seasonal parties. In the pre-heat, bakers create a dessert with an unusual candy cane flavor and then, for the main heat, they use a holiday cocktail as sweet inspiration. One unlucky baker goes home."
+      },
+      {
+        "id": "tvmaze:1329717",
+        "title": "Season of Sharing",
+        "season": 4,
+        "episode": 2,
+        "released": "2017-11-13",
+        "overview": "During the holidays, it takes teamwork to pull off special gatherings. So in the pre-heat, eight bakers team up to make a dozen hand pies in a festive holiday shape. Then for the main heat, bakers create a holiday dessert duo inspired by classic holiday flavor combinations."
+      },
+      {
+        "id": "tvmaze:1329723",
+        "title": "Thanksgiving Genius",
+        "season": 4,
+        "episode": 3,
+        "released": "2017-11-20",
+        "overview": "In the pre-heat, seven bakers must create a Thanksgiving dessert using a mystery canned fruit. Then in the main heat, bakers whip up new Turkey Day sensations by combining two traditional desserts."
+      },
+      {
+        "id": "tvmaze:1330018",
+        "title": "A New Holiday Spin",
+        "season": 4,
+        "episode": 4,
+        "released": "2017-11-27",
+        "overview": "The six remaining bakers are creating new takes on traditional holiday baking. Inspired by an internet baking meme, they'll use yellow cake mix to make anything but cake and in the main heat, bakers must \"holiday up!\" a non-holiday dessert."
+      },
+      {
+        "id": "tvmaze:1351154",
+        "title": "Comfort and Joy",
+        "season": 4,
+        "episode": 5,
+        "released": "2017-12-04",
+        "overview": "Winter is here and it's time to cozy up inside. The five remaining bakers 'ignite' the holiday spirit with a fiery, pre-heat dessert. Then in the main heat, they take a traditional holiday cheese board and turn it into an unusual cheesecake."
+      },
+      {
+        "id": "tvmaze:1351155",
+        "title": "Tradition! Tradition!",
+        "season": 4,
+        "episode": 6,
+        "released": "2017-12-11",
+        "overview": "The four remaining bakers celebrate two classic holiday traditions: Hanukkah jelly doughnuts and ye olde fruitcake. Duff Goldman helps introduce the pre-heat challenge in which bakers must create a dozen doughnuts featuring a challenging flavor combination. Then for the main heat, bakers try their best to reinvent fruitcake."
+      },
+      {
+        "id": "tvmaze:1351156",
+        "title": "Twelve Days of Christmas",
+        "season": 4,
+        "episode": 7,
+        "released": "2017-12-18",
+        "overview": "The final three bakers grab two last minute holiday gifts and combine them into one impressive dessert. Then in the main heat, bakers must create a show-stopping 12 Days of Christmas dessert that illustrates a line from the famous song. The winning baker walks away with $50,000 and the title of Holiday Baking Champion!"
+      },
+      {
+        "id": "tvmaze:1541408",
+        "title": "Holiday Essentials",
+        "season": 5,
+        "episode": 1,
+        "released": "2018-11-05",
+        "overview": "Featuring the pumpkin spice phenomenon. For the pre-heat, nine bakers attempt to wow the judges with creative pumpkin spiciness. In the main heat, the bakers must combine a yule log with a classic holiday treat."
+      },
+      {
+        "id": "tvmaze:1561173",
+        "title": "Plenty of Gratitude",
+        "season": 5,
+        "episode": 2,
+        "released": "2018-11-12",
+        "overview": "Everyone has a different favorite pie for Thanksgiving, so for the pre-heat, the eight bakers work in teams to make four different kinds of pies ... on the same sheet pan! In the main heat, the bakers embrace the stuffed feeling after the Thanksgiving meal by making stuffed cakes featuring seasonal ingredients."
+      },
+      {
+        "id": "tvmaze:1561312",
+        "title": "Turkey Day Delights",
+        "season": 5,
+        "episode": 3,
+        "released": "2018-11-19",
+        "overview": "Cranberries are the most popular accompaniment for turkey, so in the pre-heat, the seven bakers must make a dessert combining cranberry with another flavor of the season. To combat the sleepiness that follows Thanksgiving turkey, the main heat challenges the bakers to create a sweet treat that pairs coffee with an unusual flavor of coffee syrup."
+      },
+      {
+        "id": "tvmaze:1563164",
+        "title": "Holiday Artistry",
+        "season": 5,
+        "episode": 4,
+        "released": "2018-11-26",
+        "overview": "The holidays are a time for artistry and decorations, so for the pre-heat, inflatable holiday decorations inspire the six bakers' cute cream puff displays. In the main heat, the bakers dazzle the judges with delicious hand-painted eggnog cakes."
+      },
+      {
+        "id": "tvmaze:1563165",
+        "title": "Light and Inspiring",
+        "season": 5,
+        "episode": 5,
+        "released": "2018-12-03",
+        "overview": "The Festival of Lights ignites creativity in the pre-heat, when the five bakers have to update traditional rugelach with unexpected new flavors like cardamom, grapefruit, guava paste, peanut butter or chai. For the main heat, the judges are craving their favorite ingredients in the form of a light and creamy tiramisu."
+      },
+      {
+        "id": "tvmaze:1563166",
+        "title": "New Family Classics",
+        "season": 5,
+        "episode": 6,
+        "released": "2018-12-10",
+        "overview": "The remaining four bakers are going cocoa-loco for the holiday season in the chocolaty pre-heat, when they have to combine common pantry ingredients like balsamic vinegar, potato chips, oatmeal, red wine, olive oil and more in a new version of a classic holiday dessert. For the main heat, the bakers must use two key fruitcake components in a new dessert."
+      },
+      {
+        "id": "tvmaze:1573840",
+        "title": "Gifts of Greatness",
+        "season": 5,
+        "episode": 7,
+        "released": "2018-12-17",
+        "overview": "Three bakers remain in the competition, and in the pre-heat, they have to create a beautiful edible holiday ornament display. For the final main heat, the bakers channel holiday gift shopping by creating a cake that is decorated like a gift on the outside and reveals a surprise inside when sliced. For one talented baker, the ultimate gift will be $25,000 and the title of Holiday Baking Champion!"
+      },
+      {
+        "id": "tvmaze:1727377",
+        "title": "Gearing Up for the Holidays",
+        "season": 6,
+        "episode": 1,
+        "released": "2019-11-04",
+        "overview": "In the first challenge, host Jesse Palmer asks the 10 bakers to introduce themselves with edible place cards and one-bite signature holiday desserts. The main heat is all about holiday wreath cakes, and the competitors must bake and decorate a Danish Kransekake featuring holiday ingredients like chestnuts, graham crackers or toffee. Judges Nancy Fuller, Duff Goldman and Lorraine Pascale have the final say in which baker goes home."
+      },
+      {
+        "id": "tvmaze:1727378",
+        "title": "Filling Grateful",
+        "season": 6,
+        "episode": 2,
+        "released": "2019-11-11",
+        "overview": "The popularity of holiday spiced nuts inspires Jesse Palmer's challenge to the nine bakers: Use the crowd-pleasing holiday gift to create holiday spiced nut desserts. In the main heat, each baker must make three pies using an assigned harvest ingredient and decorate each pie crust differently. Judges Nancy Fuller, Duff Goldman and Lorraine Pascale send one baker packing."
+      },
+      {
+        "id": "tvmaze:1727379",
+        "title": "Thanksgiving It My All",
+        "season": 6,
+        "episode": 3,
+        "released": "2019-11-18",
+        "overview": "Apple cider doughnuts are a sure sign of fall, so in the first round, Jesse Palmer asks the eight bakers to create a dozen kicked-up apple cider doughnuts decorated with seasonal themes. Then the bakers must transform a classic holiday yule log into a festive Thanksgiving roll cake, and judges Nancy Fuller, Duff Goldman and Lorraine Pascale decide which competitor's cake falls short."
+      },
+      {
+        "id": "tvmaze:1727380",
+        "title": "Trendsetting Turkey Day",
+        "season": 6,
+        "episode": 4,
+        "released": "2019-11-25",
+        "overview": "In the first challenge, Jesse Palmer tasks the seven bakers with taking a beloved holiday appetizer to a whole new level with baked Brie and jam mini pies. The main heat is all about being prepared for greatness as the bakers take a prepared ingredient and use it to make a crowd-pleasing Thanksgiving dessert. In the end, judges Nancy Fuller, Duff Goldman and Lorraine Pascale send one competitor home."
+      },
+      {
+        "id": "tvmaze:1727381",
+        "title": "Gettin' Gifty with It",
+        "season": 6,
+        "episode": 5,
+        "released": "2019-12-02",
+        "overview": "Jesse Palmer teaches the six bakers a lesson in repurposing holiday gifts in the first round, when they must turn panettone, the classic holiday Italian sweet bread, into an entirely new dessert. Then they're challenged to create a beautifully decorated cupcake mosaic inspired by a pair of holiday pajamas. Judges Nancy Fuller, Duff Goldman and Lorraine Pascale send one baker packing."
+      },
+      {
+        "id": "tvmaze:1747113",
+        "title": "North Pole Vaulting",
+        "season": 6,
+        "episode": 6,
+        "released": "2019-12-09",
+        "overview": "Jesse Palmer challenges the five bakers to create assigned desserts that are inspired by and look like Santa Claus. To secure their place in the final four, the bakers are tasked with creating impressive cakes made to look like another icy North Pole staple: an igloo. Judges Nancy Fuller, Duff Goldman and Lorraine Pascale decide which bakers move on to the next round and which one goes home."
+      },
+      {
+        "id": "tvmaze:1747114",
+        "title": "Traditions with a Twist",
+        "season": 6,
+        "episode": 7,
+        "released": "2019-12-16",
+        "overview": "Some of the tastiest treats of Hanukkah are gold-covered chocolate coins, and Jesse Palmer challenges the four remaining bakers to give the classic treat a twist by incorporating candied orange, espresso beans, smoked salt or toasted coconut and create a dessert highlighting their chosen flavor. In the second challenge, the competitors bake up delicious cheesecakes with an assigned crust and decorated with an edible shiny ice rink on top. Judges Nancy Fuller, Duff Goldman and Lorraine Pascale get serious about which three bakers move on to the finale."
+      },
+      {
+        "id": "tvmaze:1747115",
+        "title": "Christmas Day Delights",
+        "season": 6,
+        "episode": 8,
+        "released": "2019-12-23",
+        "overview": "Nothing beats waking up to the smell of a holiday brunch, so Jesse Palmer challenges the three remaining bakers to make a Christmas morning brunch using the classic holiday flavors of gingerbread, cinnamon and eggnog. In the final round, the bakers must create cakes that are plaid both on the inside and the outside. Judges Nancy Fuller, Duff Goldman and Lorraine Pascale crown one baker the Holiday Baking Champion and award the $25,000 prize."
+      },
+      {
+        "id": "tvmaze:1949623",
+        "title": "Holiday Style",
+        "season": 7,
+        "episode": 1,
+        "released": "2020-11-02",
+        "overview": "Host Jesse Palmer kicks off the competition for 12 bakers with the kind of dessert people are embracing at home -- holiday decorated quick bread wreaths. Then, to spice things up, Jesse reveals the rankings of every challenge will appear on the new naughty or nice list. If a baker is naughty, there's no hiding it! In the main heat, the competitors must make a winter hat cake to charm judges Nancy Fuller, Duff Goldman and Carla Hall."
+      },
+      {
+        "id": "tvmaze:1949624",
+        "title": "Holiday Goodie Games",
+        "season": 7,
+        "episode": 2,
+        "released": "2020-11-09",
+        "overview": "Host Jesse Palmer asks the 10 bakers to highlight a nut or seed in a holiday dessert. Then, the competitors spin a wheel to determine which fundamental holiday ingredient -- holiday spice, dried fruit or holiday spirits -- they must add to unseasonable desserts, like icebox cakes or fruit tarts. Judges Nancy Fuller, Duff Goldman and Carla Hall make the call on which bakers pull it off."
+      },
+      {
+        "id": "tvmaze:1949625",
+        "title": "Take Holiday Pies by Surprise",
+        "season": 7,
+        "episode": 3,
+        "released": "2020-11-16",
+        "overview": "Host Jesse Palmer loves both cookies and pies, so he asks the nine bakers to make holiday cookie-topped mini pies. Then, Nancy Fuller, Duff Goldman and Carla Hall judge the pie pandemonium as the competitors celebrate fall with flavor combos such as pumpkin-cider and chestnut-chocolate in double crust, cream pies, slab pies, lattice pies and custard pies."
+      },
+      {
+        "id": "tvmaze:1949626",
+        "title": "Hosting the Holidays",
+        "season": 7,
+        "episode": 4,
+        "released": "2020-11-23",
+        "overview": "Host Jesse Palmer challenges the eight remaining bakers to turn breakfast items, like French toast, into amazing Thanksgiving breakfast desserts. Then, the competitors take common Friendsgiving potluck dishes, such as glazed carrots, and use them in a dessert to impress judges Nancy Fuller, Duff Goldman and Carla Hall. Plus, since Friendsgiving is all about community, they're doing it in teams."
+      },
+      {
+        "id": "tvmaze:1977754",
+        "title": "It's What's on the Inside That Counts",
+        "season": 7,
+        "episode": 5,
+        "released": "2020-11-30",
+        "overview": "Host Jesse Palmer gives the seven bakers advent calendars filled with different types of chocolate to inspire them to make desserts with a surprise inside. Then, for the main heat, the competitors must bake one delicious cheesecake with three different flavors for judges Nancy Fuller, Duff Goldman and Carla Hall."
+      },
+      {
+        "id": "tvmaze:1970023",
+        "title": "Topsy-Turvy Holidays",
+        "season": 7,
+        "episode": 6,
+        "released": "2020-12-07",
+        "overview": "Host Jesse Palmer is turning things on their heads as he challenges the six competitors to work in teams to create jelly doughnut-inspired desserts, a twist on traditional Hanukkah jelly doughnuts. Then, the bakers get creative with the yummiest, gooiest holiday decorated upside-down cakes to satisfy judges Nancy Fuller, Duff Goldman and Carla Hall."
+      },
+      {
+        "id": "tvmaze:1970024",
+        "title": "A Classic Christmas",
+        "season": 7,
+        "episode": 7,
+        "released": "2020-12-14",
+        "overview": "Host Jesse Palmer asks the five bakers to pull out all the stops and create the most-delicious, over-the-top version of a holiday trifle. Then, the classics continue in the main heat when the competitors make the ultimate Charlotte royale for judges Nancy Fuller, Duff Goldman and Carla Hall, as well as the king of Christmas -- Santa Claus!"
+      },
+      {
+        "id": "tvmaze:1970025",
+        "title": "Christmas Windows in Time",
+        "season": 7,
+        "episode": 8,
+        "released": "2020-12-21",
+        "overview": "Dressed as a Christmas tree, host Jesse Palmer kicks things off by asking the final four competitors to honor the holiday tree in the form of a beautifully decorated macaron tower. In the Christmas past, present and future main heat, the bakers must feature an assigned icing style in a stunning cake that evokes their assigned time period -- marzipan from the past, buttercream from the present or mirror glaze from the future. In the end, judges Nancy Fuller, Duff Goldman and Carla Hall will decide the one baker who will be crowned Holiday Baking Champion and walk away $25,000 richer!"
+      },
+      {
+        "id": "tvmaze:2194546",
+        "title": "Falling Into Winter",
+        "season": 8,
+        "episode": 1,
+        "released": "2021-11-01",
+        "overview": "The competition kicks off as host Jesse Palmer asks the twelve bakers to embrace the seasonal transition by making fall and winter doughnuts. For the main heat, the competitors combine holiday cheese board staples in creative apple and cheese desserts. A double elimination looms and judges Nancy Fuller, Duff Goldman and Carla Hall must send two bakers home for the holidays."
+      },
+      {
+        "id": "tvmaze:2194547",
+        "title": "Yule Be Merry",
+        "season": 8,
+        "episode": 2,
+        "released": "2021-11-08",
+        "overview": "It's bottoms up for judges Nancy Fuller, Duff Goldman and Carla Hall as the 10 bakers team up to take on a boozy desserts preheat. In the main heat, host Jesse Palmer challenges the competitors with five different styles of yule log cakes in 10 different flavor combinations. In the end, one baker leaves the competition."
+      },
+      {
+        "id": "tvmaze:2194548",
+        "title": "Attitude of Gratitude",
+        "season": 8,
+        "episode": 3,
+        "released": "2021-11-15",
+        "overview": "In a holiday pantry raid, host Jesse Palmer throws open the cupboards and the Mason jars to ask the nine remaining bakers to create canned fruit desserts. In the main heat, judges Nancy Fuller, Duff Goldman and Carla Hall are in for a treat when the competitors create heartfelt messages on top of everyone's favorite Thanksgiving dessert -- pie! In the end, one baker goes home."
+      },
+      {
+        "id": "tvmaze:2194549",
+        "title": "Best Thanksgiving Ever",
+        "season": 8,
+        "episode": 4,
+        "released": "2021-11-22",
+        "overview": "In a nod to the day after Thanksgiving, host Jesse Palmer asks the bakers to use Black Friday kitchen gadgets like a spiralizer or an espresso machine to make desserts. For the main heat, the competitors work in teams to create cornucopia bread baskets filled with flavored holiday breads and add tasty dips and spreads on the side to impress judges Nancy Fuller, Duff Goldman and Carla Hall. In the end, one baker is eliminated."
+      },
+      {
+        "id": "tvmaze:2204382",
+        "title": "Gifts That Keep on Giving",
+        "season": 8,
+        "episode": 5,
+        "released": "2021-11-29",
+        "overview": "In honor of the Hanukkah oil that kept burning, host Jesse Palmer asks the seven remaining bakers to create festive Hanukkah olive oil cakes. In the main heat, it's all about gift exchange desserts as the competitors randomly choose a dreaded holiday dessert and attempt to spin it into holiday happiness to please judges Nancy Fuller, Duff Goldman and Carla Hall."
+      },
+      {
+        "id": "tvmaze:2204383",
+        "title": "Make New Friends, but Keep the Old",
+        "season": 8,
+        "episode": 6,
+        "released": "2021-12-06",
+        "overview": "For the exclusive holiday desserts preheat, the six remaining bakers try to impress judges Nancy Fuller, Duff Goldman and Carla Hall by making tasty treats for guests with a dietary restriction. In the main heat, host Jesse Palmer challenges the competitors to update an assigned vintage holiday dessert to create a new Christmas delight."
+      },
+      {
+        "id": "tvmaze:2204384",
+        "title": "Holidays in All the Ways",
+        "season": 8,
+        "episode": 7,
+        "released": "2021-12-13",
+        "overview": "Host Jesse Palmer asks the bakers to create sweet potato and spice desserts in honor of Kwanzaa. In the main heat, the competitors make Christmas card cakes that depict a perfect family snapshot for a holiday card to capture the smiles of judges Nancy Fuller, Duff Goldman and Carla Hall. In the end, one baker heads for the exit."
+      },
+      {
+        "id": "tvmaze:2204385",
+        "title": "Ultimate Holiday Party",
+        "season": 8,
+        "episode": 8,
+        "released": "2021-12-20",
+        "overview": "Host Jesse Palmer kicks things off with a swanky Christmas open house for judges Nancy Fuller, Duff Goldman and Carla Hall and asks the bakers to create dessert charcuterie boards. Then, the bottom two bakers face off in a sudden elimination challenge of dueling holiday pinata desserts. In the final main heat, the competitors take on holiday party theme cakes and incorporate lights into their designs. The most successful cake maker becomes the Holiday Baking Champion and walks away with $25,000!"
+      },
+      {
+        "id": "tvmaze:2414508",
+        "title": "First Snow",
+        "season": 9,
+        "episode": 1,
+        "released": "2022-11-07",
+        "overview": "Season's greetings! Host Jesse Palmer gets some welcoming inspiration for the first Preheat as he challenges the 12 bakers to create meringue pavlova wreaths in yummy fall flavors. For the Main Heat, Jesse settles a long-standing debate over the best holiday dessert by dividing the kitchen into the pie team and the cake team. The better bake wins immunity for their whole team, and judges Nancy Fuller, Duff Goldman and Carla Hall send one baker from the losing team home."
+      },
+      {
+        "id": "tvmaze:2414509",
+        "title": "Getting Ready for Thanksgiving",
+        "season": 9,
+        "episode": 2,
+        "released": "2022-11-14",
+        "overview": "After a grocery delivery gone wrong, host Jesse Palmer tasks the bakers with creating tasty desserts featuring ingredients used to make Thanksgiving dinner, including carrots, cornbread stuffing mix and sausage. Then, the jolly gingerbread man knows that he could be more than just a cookie -- and it's up to the bakers to make it happen! In the end, judges Nancy Fuller, Duff Goldman and Carla Hall send one baker heading for the exit."
+      },
+      {
+        "id": "tvmaze:2414510",
+        "title": "Feeling Sweet and Thankful",
+        "season": 9,
+        "episode": 3,
+        "released": "2022-11-21",
+        "overview": "These days, holiday turkeys can be smoked, fried, brined, roasted and bacon-wrapped, so host Jesse Palmer uses the five-way turkey as inspiration for the bakers' Preheat challenge. Then, the competitors divide into teams to create a flight of pies that takes judges Nancy Fuller, Duff Goldman and Carla Hall on a flavor progression journey, just like a flight of bourbon. Bottom crusts up, everyone! In the end, one baker goes home."
+      },
+      {
+        "id": "tvmaze:2420974",
+        "title": "Dining Out for the Holidays",
+        "season": 9,
+        "episode": 4,
+        "released": "2022-11-28",
+        "overview": "The holidays are a season for indulgence, so some families splurge on their festive celebrations at a steakhouse. In the Preheat, host Jesse Palmer asks the bakers to transform classic steakhouse desserts into holiday treats. For the Main Heat, the competitors turn one of the most-iconic steakhouse desserts into a baked Alaska Christmas tree. In the end, judges Nancy Fuller, Duff Goldman and Carla Hall will send one baker home."
+      },
+      {
+        "id": "tvmaze:2426508",
+        "title": "Holiday Movie Magic",
+        "season": 9,
+        "episode": 5,
+        "released": "2022-12-05",
+        "overview": "With the popularity of English period dramas at an all-time high, host Jesse Palmer dons a Regency-era waistcoat and challenges the bakers to create a splendid holiday high tea. In the Main Heat, it's all about the rom-com as bakers use an ingredient inspired by a holiday movie trope to create a dessert that's dripping with festive decorations. After all the desserts are tasted by judges Nancy Fuller, Duff Goldman and Carla Hall, one baker will be sent out the door as the credits roll."
+      },
+      {
+        "id": "tvmaze:2426509",
+        "title": "The World of Holidays",
+        "season": 9,
+        "episode": 6,
+        "released": "2022-12-05",
+        "overview": "Kwanzaa is right around the corner, so host Jesse Palmer tasks the bakers with crafting desserts that feature fresh corn for a traditional Kwanzaa display. For the Main Heat, the competitors get their passports ready and put their personal stamp on international holiday desserts, like Filipino leche flan, Japanese Christmas cake and Puerto Rican guava rolls. In the end, judges Nancy Fuller, Duff Goldman and Carla Hall will send one baker flying home."
+      },
+      {
+        "id": "tvmaze:2427167",
+        "title": "Holiday Rush",
+        "season": 9,
+        "episode": 7,
+        "released": "2022-12-12",
+        "overview": "With the holidays fast approaching, host Jesse Palmer gets into the Hanukkah spirit by asking the bakers to create ugly sweater cakes using halvah as a featured ingredient. Then, the competitors feel the holiday rush as they quickly transform a basic store-bought cake into a tasty centerpiece for a dessert table. Finally, the bakers face the final crunch with a fast holiday decoration: a snowman croquembouche. When the flour settles, one competitor heads for the exit as judges Nancy Fuller, Duff Goldman and Carla Hall send the remaining bakers to the finale!"
+      },
+      {
+        "id": "tvmaze:2427168",
+        "title": "Happy Holiday Getaways",
+        "season": 9,
+        "episode": 8,
+        "released": "2022-12-19",
+        "overview": "Ready for a holiday getaway, host Jesse Palmer escapes the cold weather by challenging the bakers to create desert-inspired succulent tarts. The two least successful bakers ski into a cookie cake showdown that will keep one competitor on track for the final bake. In the Main Heat, the remaining bakers use cake to highlight some of the most popular holiday vacation spots before judges Nancy Fuller, Duff Goldman and Carla Hall award the best cake maker with $25,000 and the championship title!"
+      },
+      {
+        "id": "tvmaze:2648255",
+        "title": "Season's Best",
+        "season": 10,
+        "episode": 1,
+        "released": "2023-11-06",
+        "overview": "Mmm … can you smell it? The sweet aroma of cinnamon rolls baking in the oven, or is it the pumpkin-spiced latte you're sipping? For the preheat, host Jesse Palmer asks the bakers to combine two of the fall season's best treats and make seasonal coffee drink cinnamon rolls. Then, the bakers roll right into the main heat with a fall-themed yule log that Jesse calls Thanksgiving Swiss Rolls. In the end, judges Carla Hall, Duff Goldman and Nancy Fuller decide which baker is rolling home."
+      },
+      {
+        "id": "tvmaze:2659847",
+        "title": "Can't Wait for Turkey Day",
+        "season": 10,
+        "episode": 2,
+        "released": "2023-11-13",
+        "overview": "Every Thanksgiving meal is centered around one vital component: the turkey! So for this preheat, host Jesse Palmer tasks the bakers with creating turkey dome desserts, complete with edible feathers and heads. Then, no Thanksgiving is complete without a beautifully set table, and the bakers show judges Carla Hall, Duff Goldman and Nancy Fuller their tablescaping skills by making mini Thanksgiving table cakes!"
+      },
+      {
+        "id": "tvmaze:2663896",
+        "title": "Hallmarks of Thanksgiving",
+        "season": 10,
+        "episode": 3,
+        "released": "2023-11-20",
+        "overview": "Touchdown! For many families, Thanksgiving day means food and football! When host Jesse Palmer watches football, his must-have dish is 7-layer dip, so he challenges the bakers to create holiday 7-layer desserts inspired by his favorite snack. Then in the main heat, the games continue with the first ever Thanksgiving pie-off, where bakers go head-to-head baking the same flavor pie to win over judges Carla Hall, Duff Goldman and Nancy Fuller. The losing baker in each match automatically lands in the bottom."
+      },
+      {
+        "id": "tvmaze:2667984",
+        "title": "Holiday Whimsy",
+        "season": 10,
+        "episode": 4,
+        "released": "2023-11-27",
+        "overview": "Host Jesse Palmer is climbing the Alps and heading towards the highest peak: the beautiful Mont Blanc! For the preheat, the bakers must make whimsical Mont Blanc desserts with colors, playful flavors and whatever else they can imagine! The whimsy doesn't stop there as unexpected upside-down cakes force the bakers to impress judges Carla Hall, Duff Goldman and Nancy Fuller with their inner Willy Wonka when they make a cake, flip it upside-down and suspend it in midair!"
+      },
+      {
+        "id": "tvmaze:2682478",
+        "title": "Holiday Beauty",
+        "season": 10,
+        "episode": 5,
+        "released": "2023-12-04",
+        "overview": "The Christmas Museum is filled with beautiful holiday designs, and host Jesse Palmer tasks the bakers with turning them into mini-tart mosaics. Since this week is all about holiday beauty, the bakers must make merry and bright double-barrel wrapping paper cakes that feel like the perfect gift for judges Carla Hall, Duff Goldman and Nancy Fuller."
+      },
+      {
+        "id": "tvmaze:2682479",
+        "title": "Holiday Imagination",
+        "season": 10,
+        "episode": 6,
+        "released": "2023-12-04",
+        "overview": "Love you a latke! Hanukkah is almost here, and Nancy Fuller is teaching Jesse Palmer how to make a traditional latke. For the preheat, the bakers must use their imaginations as they take the latke basics and turn them into latke-inspired desserts. Then, the bakers really let their imaginations run wild in the main heat while creating letterboard holiday bars that feature cute sayings to put judges Carla Hall, Duff Goldman and Nancy Fuller in the holiday spirit."
+      },
+      {
+        "id": "tvmaze:2682480",
+        "title": "Reasons for the Season",
+        "season": 10,
+        "episode": 7,
+        "released": "2023-12-11",
+        "overview": "For the semifinals, host Jesse Palmer explores the reasons behind some great holiday traditions. Kwanzaa is around the corner, and one of the most traditional ingredients to cook with is plantains, so the bakers craft Kwanzaa plantain desserts. Then in a team heat, Carla Hall celebrates a centuries-old tradition by crafting ornaments, inspiring baking teams to make large-scale edible ornaments in Holiday Baking's first ever T'Ornament of Tastiness! Another ageless holiday tradition is putting up a Christmas tree, so for the main heat, the bakers create blitz puff pastry Christmas tree pull-aparts for judges Carla Hall, Duff Goldman and Nancy Fuller to tear into!"
+      },
+      {
+        "id": "tvmaze:2682481",
+        "title": "Holiday Gifts Galore",
+        "season": 10,
+        "episode": 8,
+        "released": "2023-12-18",
+        "overview": "It's the season finale, and the last five bakers face three challenges. Christmas Eve is filled with so much excitement and so many gifts, and the sweetest gift of all is a plate of cookies for Santa. For the final preheat, host Jesse Palmer wants the bakers to upgrade those cookies by making macaron wreaths for judges Carla Hall, Duff Goldman and Nancy Fuller! The bottom two bakers battle it out to see who makes it to the final main heat by taking on a stocking-stuffed eclairs challenge. Then, its \"All aboard!\" as the remaining four bakers make showstopping, championship-worthy holiday train cakes with actual trains running through them! In the end, a Holiday Baking Champion is crowned and takes home $25,000!"
+      },
+      {
+        "id": "tvmaze:3016965",
+        "title": "Holiday Open House",
+        "season": 11,
+        "episode": 1,
+        "released": "2024-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3020843",
+        "title": "Thanksgiving Family Feast",
+        "season": 11,
+        "episode": 2,
+        "released": "2024-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3020844",
+        "title": "Friendsgiving",
+        "season": 11,
+        "episode": 3,
+        "released": "2024-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3020845",
+        "title": "Old-Fashioned Christmas Party",
+        "season": 11,
+        "episode": 4,
+        "released": "2024-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3031607",
+        "title": "Cookie Exchange Party",
+        "season": 11,
+        "episode": 5,
+        "released": "2024-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3042297",
+        "title": "Office Christmas Party",
+        "season": 11,
+        "episode": 6,
+        "released": "2024-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3042298",
+        "title": "Holiday Pajama Party",
+        "season": 11,
+        "episode": 7,
+        "released": "2024-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3042299",
+        "title": "Gingerbread House Party",
+        "season": 11,
+        "episode": 8,
+        "released": "2024-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3384765",
+        "title": "Welcome to the Holiday Village",
+        "season": 12,
+        "episode": 1,
+        "released": "2025-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3384766",
+        "title": "Holiday Cheer",
+        "season": 12,
+        "episode": 2,
+        "released": "2025-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3389766",
+        "title": "Crafting Holiday Magic",
+        "season": 12,
+        "episode": 3,
+        "released": "2025-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429853",
+        "title": "Pies and Shine",
+        "season": 12,
+        "episode": 4,
+        "released": "2025-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436554",
+        "title": "Snowed In Sweets",
+        "season": 12,
+        "episode": 5,
+        "released": "2025-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436555",
+        "title": "Jingle Mingle",
+        "season": 12,
+        "episode": 6,
+        "released": "2025-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436556",
+        "title": "Retro Christmas",
+        "season": 12,
+        "episode": 7,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451867",
+        "title": "Naughty & Nice Christmas",
+        "season": 12,
+        "episode": 8,
+        "released": "2025-12-22",
+        "overview": ""
+      }
+    ]
+  }
+}

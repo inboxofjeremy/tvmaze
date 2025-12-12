@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:21738",
+    "type": "series",
+    "name": "Good Morning Football",
+    "description": "Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/78/195574.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/78/195574.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3459456",
+        "title": "Episode 228",
+        "season": 10,
+        "episode": 228,
+        "released": "2025-12-12",
+        "overview": "Hosts Jamie Erdahl, Kyle Brandt and Manti Te'o will be joined each day by news reporter Sherree Burruss."
+      }
+    ]
+  }
+}

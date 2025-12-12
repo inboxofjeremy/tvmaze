@@ -1,0 +1,724 @@
+{
+  "meta": {
+    "id": "tvmaze:22447",
+    "type": "series",
+    "name": "Macy's Thanksgiving Day Parade",
+    "description": "Macy's Thanksgiving Day Parade is an annual parade presented by the U.S.-based department store chain Macy's. Locations: Central Park to Macy's Herald Square, New York City, New York, USA.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/598/1496315.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/598/1496315.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227929",
+        "title": "Macy's Thanksgiving Day Parade 1948",
+        "season": 1948,
+        "episode": 1,
+        "released": "1948-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227931",
+        "title": "Macy's Thanksgiving Day Parade 1949",
+        "season": 1949,
+        "episode": 1,
+        "released": "1949-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227930",
+        "title": "Macy's Thanksgiving Day Parade 1950",
+        "season": 1950,
+        "episode": 1,
+        "released": "1950-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227932",
+        "title": "Macy's Thanksgiving Day Parade 1951",
+        "season": 1951,
+        "episode": 1,
+        "released": "1951-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227933",
+        "title": "Macy's Thanksgiving Day Parade 1952",
+        "season": 1952,
+        "episode": 1,
+        "released": "1952-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227934",
+        "title": "Macy's Thanksgiving Day Parade 1953",
+        "season": 1953,
+        "episode": 1,
+        "released": "1953-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227935",
+        "title": "Macy's Thanksgiving Day Parade 1954",
+        "season": 1954,
+        "episode": 1,
+        "released": "1954-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227936",
+        "title": "Macy's Thanksgiving Day Parade 1955",
+        "season": 1955,
+        "episode": 1,
+        "released": "1955-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227937",
+        "title": "Macy's Thanksgiving Day Parade 1956",
+        "season": 1956,
+        "episode": 1,
+        "released": "1956-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227938",
+        "title": "Macy's Thanksgiving Day Parade 1957",
+        "season": 1957,
+        "episode": 1,
+        "released": "1957-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227940",
+        "title": "Macy's Thanksgiving Day Parade 1958",
+        "season": 1958,
+        "episode": 1,
+        "released": "1958-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227941",
+        "title": "Macy's Thanksgiving Day Parade 1959",
+        "season": 1959,
+        "episode": 1,
+        "released": "1959-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227942",
+        "title": "Macy's Thanksgiving Day Parade 1960",
+        "season": 1960,
+        "episode": 1,
+        "released": "1960-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227943",
+        "title": "Macy's Thanksgiving Day Parade 1961",
+        "season": 1961,
+        "episode": 1,
+        "released": "1961-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227944",
+        "title": "Macy's Thanksgiving Day Parade 1962",
+        "season": 1962,
+        "episode": 1,
+        "released": "1962-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227945",
+        "title": "Macy's Thanksgiving Day Parade 1963",
+        "season": 1963,
+        "episode": 1,
+        "released": "1963-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227946",
+        "title": "Macy's Thanksgiving Day Parade 1964",
+        "season": 1964,
+        "episode": 1,
+        "released": "1964-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227947",
+        "title": "Macy's Thanksgiving Day Parade 1965",
+        "season": 1965,
+        "episode": 1,
+        "released": "1965-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227948",
+        "title": "Macy's Thanksgiving Day Parade 1966",
+        "season": 1966,
+        "episode": 1,
+        "released": "1966-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227949",
+        "title": "Macy's Thanksgiving Day Parade 1967",
+        "season": 1967,
+        "episode": 1,
+        "released": "1967-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227950",
+        "title": "Macy's Thanksgiving Day Parade 1968",
+        "season": 1968,
+        "episode": 1,
+        "released": "1968-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227951",
+        "title": "Macy's Thanksgiving Day Parade 1969",
+        "season": 1969,
+        "episode": 1,
+        "released": "1969-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227952",
+        "title": "Macy's Thanksgiving Day Parade 1970",
+        "season": 1970,
+        "episode": 1,
+        "released": "1970-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227953",
+        "title": "Macy's Thanksgiving Day Parade 1971",
+        "season": 1971,
+        "episode": 1,
+        "released": "1971-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227954",
+        "title": "Macy's Thanksgiving Day Parade 1972",
+        "season": 1972,
+        "episode": 1,
+        "released": "1972-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227955",
+        "title": "Macy's Thanksgiving Day Parade 1973",
+        "season": 1973,
+        "episode": 1,
+        "released": "1973-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227956",
+        "title": "Macy's Thanksgiving Day Parade 1974",
+        "season": 1974,
+        "episode": 1,
+        "released": "1974-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227957",
+        "title": "Macy's Thanksgiving Day Parade 1975",
+        "season": 1975,
+        "episode": 1,
+        "released": "1975-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227958",
+        "title": "Macy's Thanksgiving Day Parade 1976",
+        "season": 1976,
+        "episode": 1,
+        "released": "1976-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227959",
+        "title": "Macy's Thanksgiving Day Parade 1977",
+        "season": 1977,
+        "episode": 1,
+        "released": "1977-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227960",
+        "title": "Macy's Thanksgiving Day Parade 1978",
+        "season": 1978,
+        "episode": 1,
+        "released": "1978-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227961",
+        "title": "Macy's Thanksgiving Day Parade 1979",
+        "season": 1979,
+        "episode": 1,
+        "released": "1979-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227962",
+        "title": "Macy's Thanksgiving Day Parade 1980",
+        "season": 1980,
+        "episode": 1,
+        "released": "1980-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227963",
+        "title": "Macy's Thanksgiving Day Parade 1981",
+        "season": 1981,
+        "episode": 1,
+        "released": "1981-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227964",
+        "title": "Macy's Thanksgiving Day Parade 1982",
+        "season": 1982,
+        "episode": 1,
+        "released": "1982-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227965",
+        "title": "Macy's Thanksgiving Day Parade 1983",
+        "season": 1983,
+        "episode": 1,
+        "released": "1983-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227966",
+        "title": "Macy's Thanksgiving Day Parade 1984",
+        "season": 1984,
+        "episode": 1,
+        "released": "1984-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227967",
+        "title": "Macy's Thanksgiving Day Parade 1985",
+        "season": 1985,
+        "episode": 1,
+        "released": "1985-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227968",
+        "title": "Macy's Thanksgiving Day Parade 1986",
+        "season": 1986,
+        "episode": 1,
+        "released": "1986-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227969",
+        "title": "Macy's Thanksgiving Day Parade 1987",
+        "season": 1987,
+        "episode": 1,
+        "released": "1987-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227970",
+        "title": "Macy's Thanksgiving Day Parade 1988",
+        "season": 1988,
+        "episode": 1,
+        "released": "1988-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227971",
+        "title": "Macy's Thanksgiving Day Parade 1989",
+        "season": 1989,
+        "episode": 1,
+        "released": "1989-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227972",
+        "title": "Macy's Thanksgiving Day Parade 1990",
+        "season": 1990,
+        "episode": 1,
+        "released": "1990-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227973",
+        "title": "Macy's Thanksgiving Day Parade 1991",
+        "season": 1991,
+        "episode": 1,
+        "released": "1991-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227974",
+        "title": "Macy's Thanksgiving Day Parade 1992",
+        "season": 1992,
+        "episode": 1,
+        "released": "1992-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227975",
+        "title": "Macy's Thanksgiving Day Parade 1993",
+        "season": 1993,
+        "episode": 1,
+        "released": "1993-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227976",
+        "title": "Macy's Thanksgiving Day Parade 1994",
+        "season": 1994,
+        "episode": 1,
+        "released": "1994-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227977",
+        "title": "Macy's Thanksgiving Day Parade 1995",
+        "season": 1995,
+        "episode": 1,
+        "released": "1995-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227978",
+        "title": "Macy's Thanksgiving Day Parade 1996",
+        "season": 1996,
+        "episode": 1,
+        "released": "1996-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227979",
+        "title": "Macy's Thanksgiving Day Parade 1997",
+        "season": 1997,
+        "episode": 1,
+        "released": "1997-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227980",
+        "title": "Macy's Thanksgiving Day Parade 1998",
+        "season": 1998,
+        "episode": 1,
+        "released": "1998-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227981",
+        "title": "Macy's Thanksgiving Day Parade 1999",
+        "season": 1999,
+        "episode": 1,
+        "released": "1999-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227982",
+        "title": "Macy's Thanksgiving Day Parade 2000",
+        "season": 2000,
+        "episode": 1,
+        "released": "2000-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227983",
+        "title": "Macy's Thanksgiving Day Parade 2001",
+        "season": 2001,
+        "episode": 1,
+        "released": "2001-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227984",
+        "title": "Macy's Thanksgiving Day Parade 2002",
+        "season": 2002,
+        "episode": 1,
+        "released": "2002-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227985",
+        "title": "Macy's Thanksgiving Day Parade 2003",
+        "season": 2003,
+        "episode": 1,
+        "released": "2003-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227986",
+        "title": "Macy's Thanksgiving Day Parade 2004",
+        "season": 2004,
+        "episode": 1,
+        "released": "2004-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227987",
+        "title": "Macy's Thanksgiving Day Parade 2005",
+        "season": 2005,
+        "episode": 1,
+        "released": "2005-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227988",
+        "title": "Macy's Thanksgiving Day Parade 2006",
+        "season": 2006,
+        "episode": 1,
+        "released": "2006-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227989",
+        "title": "Macy's Thanksgiving Day Parade 2007",
+        "season": 2007,
+        "episode": 1,
+        "released": "2007-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227990",
+        "title": "Macy's Thanksgiving Day Parade 2008",
+        "season": 2008,
+        "episode": 1,
+        "released": "2008-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227991",
+        "title": "Macy's Thanksgiving Day Parade 2009",
+        "season": 2009,
+        "episode": 1,
+        "released": "2009-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:976915",
+        "title": "Macy's Thanksgiving Day Parade 2010",
+        "season": 2010,
+        "episode": 1,
+        "released": "2010-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:976916",
+        "title": "Macy's Thanksgiving Day Parade 2011",
+        "season": 2011,
+        "episode": 1,
+        "released": "2011-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:976917",
+        "title": "Macy's Thanksgiving Day Parade 2012",
+        "season": 2012,
+        "episode": 1,
+        "released": "2012-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:976918",
+        "title": "Macy's Thanksgiving Day Parade 2013",
+        "season": 2013,
+        "episode": 1,
+        "released": "2013-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:976919",
+        "title": "Macy's Thanksgiving Day Parade 2014",
+        "season": 2014,
+        "episode": 1,
+        "released": "2014-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:976920",
+        "title": "Macy's Thanksgiving Day Parade 2015",
+        "season": 2015,
+        "episode": 1,
+        "released": "2015-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:996035",
+        "title": "Macy's Thanksgiving Day Parade 2016",
+        "season": 2016,
+        "episode": 1,
+        "released": "2016-11-24",
+        "overview": "New York's 90th annual event features floats and marching bands; Matt Lauer, Savannah Guthrie and Al Roker host; celebrities joining the celebration include Kelsea Ballerini and Tony Bennett; performers include the Radio City Rockettes."
+      },
+      {
+        "id": "tvmaze:1310661",
+        "title": "Macy's Thanksgiving Day Parade 2017",
+        "season": 2017,
+        "episode": 1,
+        "released": "2017-11-23",
+        "overview": "This Thanksgiving a magical march returns to the streets of New York City and to homes across the U.S. as the 91st Annual Macy's Thanksgiving Day Parade® kicks off the holiday season with its signature spectacle of wonder.The star power on parade will once again feature some of the nation's most riveting performers. Taking to the streets of New York City on board one of Macy's signature floating stages and thrilling the nation with their performances at Herald Square will be 98 Degrees, Lauren Alaina, Cam, Sabrina Carpenter, Andra Day &amp; Common, Sara Evans, Jimmy Fallon &amp; The Roots, Flo Rida, Goo Goo Dolls, Kat Graham, Andy Grammer, Angelica Hale, Olivia Holt, Nicky Jam, Wyclef Jean, Bravo's Top Chef stars Padma Lakshmi &amp; Tom Colicchio, Dustin Lynch, Miss America 2018 Cara Mund, Leslie Odom Jr. and the cast &amp; Muppets of Sesame Street, Bebe Rexha, Smokey Robinson, Jojo Siwa and more."
+      },
+      {
+        "id": "tvmaze:1310662",
+        "title": "Macy's Thanksgiving Day Parade 2018",
+        "season": 2018,
+        "episode": 1,
+        "released": "2018-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1310663",
+        "title": "Macy's Thanksgiving Day Parade 2019",
+        "season": 2019,
+        "episode": 1,
+        "released": "2019-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1653813",
+        "title": "Macy's Thanksgiving Day Parade 2020",
+        "season": 2020,
+        "episode": 1,
+        "released": "2020-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2215742",
+        "title": "Macy's Thanksgiving Day Parade 2021",
+        "season": 2021,
+        "episode": 1,
+        "released": "2021-11-25",
+        "overview": "Live from New York, this annual parade kicks off the holidays with its signature mix of giant helium balloons and floats; during the procession, viewers enjoy appearances by marching bands, musical performers, celebrities and more."
+      },
+      {
+        "id": "tvmaze:2422203",
+        "title": "Macy's Thanksgiving Day Parade 2022",
+        "season": 2022,
+        "episode": 1,
+        "released": "2022-11-24",
+        "overview": "Grammy Award-winning recording artist and New York Times bestselling author Mariah Carey, lovingly known as the Queen of Christmas, is set for an exclusive magical performance."
+      },
+      {
+        "id": "tvmaze:2643329",
+        "title": "Macy's Thanksgiving Day Parade 2023",
+        "season": 2023,
+        "episode": 1,
+        "released": "2023-11-23",
+        "overview": "Ring in the holidays with the 97th annual parade, broadcast live on NBC since 1948."
+      },
+      {
+        "id": "tvmaze:3017461",
+        "title": "Macy's Thanksgiving Day Parade 2024",
+        "season": 2024,
+        "episode": 1,
+        "released": "2024-11-28",
+        "overview": "The world famous Macy's Thanksgiving Day Parade continues to bring the magic of the parade to New York City spectators and a national television audience with its exciting array of balloons, floats, marching bands, celebrities and more."
+      },
+      {
+        "id": "tvmaze:3260970",
+        "title": "Macy's Thanksgiving Day Parade 2025",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-11-27",
+        "overview": "The 99th Macy's Parade lineup will feature more than 5,000 volunteers, 32 balloons, 3 ballonicles, 27 floats, 4 specialty units, 33 clown groups, 11 marching bands, performance groups and music's biggest stars, all welcoming Santa Claus and the holiday season.  This year, four new featured character balloons will debut, including Buzz Lightyear by Pixar Animation Studios; PAC-MAN™ by ©Bandai Namco Entertainment America, Inc.; Shrek's Onion Carriage from Universal Pictures' DreamWorks Animation; and Mario by Nintendo. Additionally, Derpy Tiger and Sussie from Netflix's \"K-Pop Demon Hunters\" will join the line-up as a mid-sized balloon and balloonicle, respectively. Six new floats will also debut including The Land of Ice &amp;amp; Wonder by Holland America Line®; Brick-tastic Winter Mountain by The LEGO Group; Master Chocolatier Ballroom by Lindt; Upside Down Invasion: Stranger Things by Netflix; Friends-giving in POPCITY by Pop Mart; and The Counting Sheep's Dream Generator by Serta®. Additionally, The Elf on the Shelf® Santaverse's™: Frost Pips™ by The Lumistella Company, new balloonicle elements will join this year's line-up. Towed by Ram Trucks, the official truck of the Macy's Thanksgiving Day Parade, the debuting floats will join a lineup of fan favorites including Santa's Sleigh."
+      },
+      {
+        "id": "tvmaze:3440528",
+        "title": "Macy's Thanksgiving Day Parade 2026",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-11-26",
+        "overview": ""
+      }
+    ]
+  }
+}

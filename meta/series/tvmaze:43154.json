@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "id": "tvmaze:43154",
+    "type": "series",
+    "name": "The Last Cowboy",
+    "description": "The Last Cowboy chronicles the lives of riders in the high-stakes sport of horse reining, culminating in a $1 million competition at the first-ever Run for a Million event.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243146.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/497/1243146.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3456098",
+        "title": "Cut & Run",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1688012",
+        "title": "The Cowboy Way",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-07-24",
+        "overview": "The fiercest riders in the competitive sport of Horse Reining gear up for the 2019 season where, for the first time ever, a One Million Dollar invitational is on the line – the largest purse in the history of the sport."
+      },
+      {
+        "id": "tvmaze:1688013",
+        "title": "Ride or Die",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-07-31",
+        "overview": "It's all-out war in the Arizona Desert as the riders face off in the Cactus Classic. Matt struggles when his horse experiences health issues while Abby looks to cement her place as one of the best new riders in the West."
+      },
+      {
+        "id": "tvmaze:1693349",
+        "title": "Back in the Saddle",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-08-07",
+        "overview": "While one rider revels in their latest victory, others prepare for the next face off on the road to the Million Dollars. Craig seeks revenge while Abby enlists the help of a new rider to keep her ranch above water."
+      },
+      {
+        "id": "tvmaze:1693350",
+        "title": "Texas Showdown",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-08-14",
+        "overview": "The riders battle it out in the heart of Texas cowboy country for the NRBC crown and a $75K grand prize. Wildcard Jason may have the horsepower to dethrone Andrea, while Tom's desire to win pushes his body to the limit."
+      },
+      {
+        "id": "tvmaze:1693351",
+        "title": "Vegas or Bust",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-08-21",
+        "overview": "The intensity builds as the riders make their final preparations for the Million Dollar ride in Vegas. Every decision counts as Abby makes a fateful choice, Casey approaches a financial crisis, and Andrea and Craig prepare for one last face off."
+      },
+      {
+        "id": "tvmaze:1707136",
+        "title": "The Run for a Million",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-08-28",
+        "overview": "Everything is on the line in Las Vegas as the riders battle it out for 1 Million Dollars in the biggest event in reigning history."
+      },
+      {
+        "id": "tvmaze:2218282",
+        "title": "Cactus Classic",
+        "season": 2,
+        "episode": 1,
+        "released": "2021-11-12",
+        "overview": "The top trainers in the sport of horse reining dial up the heat in Arizona as they try to qualify for this year's Run For A Million -- giving them a shot at the largest purse in the history of the sport."
+      },
+      {
+        "id": "tvmaze:2218283",
+        "title": "Horse Power",
+        "season": 2,
+        "episode": 2,
+        "released": "2021-11-19",
+        "overview": "With the final qualifiers selected for this year's Run For A Million, it's back to the ranches as the McCutcheon dynasty get back to business. After missing the qualifier, Abby Lengel must begin the process of trying to get back into the competition."
+      },
+      {
+        "id": "tvmaze:2218284",
+        "title": "The Next Generation",
+        "season": 2,
+        "episode": 3,
+        "released": "2021-11-26",
+        "overview": "Andrea, Matt, and Craig share the struggles and joys of the sport they love while training some of the next generation's brightest reining stars -- their children."
+      },
+      {
+        "id": "tvmaze:2218285",
+        "title": "The Right Horse",
+        "season": 2,
+        "episode": 4,
+        "released": "2021-12-03",
+        "overview": "The competitors test their best Run For A Million prospects at the NRBC in Katy, TX. Some riders are sliding away with big checks while others are realizing they might not have the caliber of horse they will need to take the top prize in Vegas."
+      },
+      {
+        "id": "tvmaze:2218286",
+        "title": "The Derby",
+        "season": 2,
+        "episode": 5,
+        "released": "2021-12-10",
+        "overview": "With the Run for a Million just around the corner, the top riders meet at the NHRA Derby for one final test before Vegas. The underdogs are out to prove they are a force to be reckoned with against the top contenders."
+      },
+      {
+        "id": "tvmaze:2218287",
+        "title": "The Run for a Million",
+        "season": 2,
+        "episode": 6,
+        "released": "2021-12-17",
+        "overview": "The moment has finally arrived as the sport's best riders gather in Vegas with their eyes on the top prize. The excitement and tension are high as these riders know that one perfect ride could change their lives forever."
+      },
+      {
+        "id": "tvmaze:2435774",
+        "title": "The Shootout",
+        "season": 3,
+        "episode": 1,
+        "released": "2022-11-18",
+        "overview": "The only thing more difficult than the Run for a Million is qualifying for it. The best reiners in the biz compete at The RFAM ShootOut in Las Vegas. But nothing is certain - the new faces are right on the heels of the highest ranking riders."
+      },
+      {
+        "id": "tvmaze:2438422",
+        "title": "The Cactus Classic",
+        "season": 3,
+        "episode": 2,
+        "released": "2022-11-25",
+        "overview": "Riders from around the world descend upon Arizona for their last chance to qualify for the Run for a Million. Veteran favorites struggle to stay on the leaderboard, getting knocked out by new riders."
+      },
+      {
+        "id": "tvmaze:2436508",
+        "title": "Do You Have the Horse?",
+        "season": 3,
+        "episode": 3,
+        "released": "2022-12-02",
+        "overview": "The 16-qualified riders start their preparations by testing out their horses at the National Reining Breeders Cup event in Texas. Despite a devastating injury, Casey Deary continues to dominate. Cade McCutcheon struggles to find his groove."
+      },
+      {
+        "id": "tvmaze:2446103",
+        "title": "The Derby",
+        "season": 3,
+        "episode": 4,
+        "released": "2022-12-09",
+        "overview": "It's the last chance to test their horses at the NRHA Derby, but some riders are still struggling to find that star horse. Francesco takes a unique approach to preparing his horse, while Matt Palmer gets a phone call that could change everything."
+      },
+      {
+        "id": "tvmaze:2435775",
+        "title": "Anybody's Game",
+        "season": 3,
+        "episode": 5,
+        "released": "2022-12-16",
+        "overview": "With the Run for a Million just around the corner, the 16 qualified riders narrow their focus. Matt Palmer is faced with some unforeseen challenges getting his horse ready for the Million."
+      },
+      {
+        "id": "tvmaze:2454811",
+        "title": "The Run for a Million",
+        "season": 3,
+        "episode": 6,
+        "released": "2022-12-23",
+        "overview": "With nothing to lose and a million dollars to gain, the riders put forth their best to see who will become this year's Run for a Million champion."
+      },
+      {
+        "id": "tvmaze:2694233",
+        "title": "Million Dollar Stakes",
+        "season": 4,
+        "episode": 1,
+        "released": "2023-11-17",
+        "overview": "The top riders in horse reining -- including family dynasties and rising challengers -- come together for Arizona's Cactus Classic for their last chance to qualify for The Run for a Million."
+      },
+      {
+        "id": "tvmaze:2694829",
+        "title": "The Road to the Million",
+        "season": 4,
+        "episode": 2,
+        "released": "2023-11-24",
+        "overview": "The Cactus Classic sees new and unexpected competitors rise to the occasion and qualify for the esteemed Run for a Million."
+      },
+      {
+        "id": "tvmaze:2704052",
+        "title": "Million Dollar Horsepower",
+        "season": 4,
+        "episode": 3,
+        "released": "2023-12-01",
+        "overview": "With The Run for a Million around the corner, qualified riders decide which horses to compete with in Las Vegas after testing out their options at the National Reining Breeders Classic."
+      },
+      {
+        "id": "tvmaze:2704053",
+        "title": "The Great Equalizer",
+        "season": 4,
+        "episode": 4,
+        "released": "2023-12-08",
+        "overview": "The stakes are high as the Run for A Million expands to include cow horse and cutting competitions, and some riders are feeling the pressure as they head to Las Vegas to compete."
+      },
+      {
+        "id": "tvmaze:2711964",
+        "title": "The Shootout",
+        "season": 4,
+        "episode": 5,
+        "released": "2023-12-15",
+        "overview": "The 2023 Run For A Million includes competitions for Cow Horse and Cutting Horse trainers - more riders than ever before arrive to compete to be the next Run For A Million champion."
+      },
+      {
+        "id": "tvmaze:2711965",
+        "title": "The Run for a Million",
+        "season": 4,
+        "episode": 6,
+        "released": "2023-12-15",
+        "overview": "The 2023 Run for a Million reining competition arrives, and riders are on edge to see who will be the champion."
+      },
+      {
+        "id": "tvmaze:3057955",
+        "title": "Million Dollar Rider",
+        "season": 5,
+        "episode": 1,
+        "released": "2024-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3064490",
+        "title": "Last Chance to Run",
+        "season": 5,
+        "episode": 2,
+        "released": "2024-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3069503",
+        "title": "Cutting the Competition",
+        "season": 5,
+        "episode": 3,
+        "released": "2024-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3075468",
+        "title": "Down the Fence",
+        "season": 5,
+        "episode": 4,
+        "released": "2024-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3088528",
+        "title": "Anybody's Game",
+        "season": 5,
+        "episode": 5,
+        "released": "2024-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3088529",
+        "title": "The Run For A Million",
+        "season": 5,
+        "episode": 6,
+        "released": "2024-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3434116",
+        "title": "All Out Shootout",
+        "season": 6,
+        "episode": 1,
+        "released": "2025-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3434118",
+        "title": "Your Last Chance",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442277",
+        "title": "Qualified To Ride",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449215",
+        "title": "Cowboys, Cowgirls, and Cow Horse",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456098",
+        "title": "Cut & Run",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-05",
+        "overview": ""
+      }
+    ]
+  }
+}

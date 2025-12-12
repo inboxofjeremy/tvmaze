@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:69068",
+    "type": "series",
+    "name": "Sun Belt Conference Football Championship",
+    "description": "The Sun Belt Conference Football Championship is an annual college football game that determines the season champion of the Sun Belt Conference (SBC). The game is played between the SBC regular-season divisional champions from the East and West divisions. First contested in 2018, the game is typically played on the first Saturday of December. In 1987, the National Collegiate Athletic Association (NCAA) approved a proposal made by two Division II conferences that allowed any conference with 12 football members to split into divisions and stage a championship game between the divisional winners, with that game not counting against NCAA limits on regular-season contests. However, the rule would not see its first use until 1992, when the Southeastern Conference, which had added Arkansas and South Carolina the previous year, launched its title game. In early 2016, NCAA legislation was passed that largely deregulated FBS conference championship games, allowing a conference with fewer than 12 teams to stage a championship game that featured either (1) the top two teams at the end of a full round-robin conference schedule, or (2) the winners of each of two divisions, with each team playing a full round-robin schedule within its division.[1] Several months later, the Sun Belt Conference announced that they would be introducing a football championship game starting in the 2018 season.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/468/1172372.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/468/1172372.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3259830",
+        "title": "2025 Sun Belt Conference Football Championship: James Madison Dukes vs. Troy Trojans",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-05",
+        "overview": "Live from Bridgeforth Stadium in Harrisonburg, Va."
+      }
+    ]
+  }
+}

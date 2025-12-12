@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:7586",
+    "type": "series",
+    "name": "NFL Live",
+    "description": "NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/324/810590.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/324/810590.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3458536",
+        "title": "Episode 153",
+        "season": 27,
+        "episode": 153,
+        "released": "2025-12-11",
+        "overview": "Host Laura Rutledge takes the helm of this weekday show featuring the likes of Marcus Spears, Dan Orlovsky, Ryan Clark, Mina Kimes, and Adam Schefter, who offer the latest news and analysis from across the NFL."
+      }
+    ]
+  }
+}

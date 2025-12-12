@@ -1,0 +1,2252 @@
+{
+  "meta": {
+    "id": "tvmaze:75194",
+    "type": "series",
+    "name": "Beyond the Gates",
+    "description": "Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have \"made it\" and those who haven't are all trying to navigate life … and some with more grace than others.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/593/1482540.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/593/1482540.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452023",
+        "title": "Episode 186",
+        "season": 1,
+        "episode": 186,
+        "released": "2025-12-09",
+        "overview": "Anita reluctantly shows Bill some grace; Hayley worries her husband's bloodwork could reveal her deadly scheme; Chelsea and Kat discuss their rocky romantic relationships, while Joey and Vanessa clash over theirs."
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452022",
+        "title": "Episode 185",
+        "season": 1,
+        "episode": 185,
+        "released": "2025-12-08",
+        "overview": "Keke Wyatt sings at WinterFest; Nicole's date takes her by surprise; Vanessa's troubled by Joey's lack of support, while Kat thanks him for his unexpected help; Leslie tells Marcel there's a looming scandal that could rock Fairmont Crest."
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448741",
+        "title": "Episode 184",
+        "season": 1,
+        "episode": 184,
+        "released": "2025-12-05",
+        "overview": "WinterFest begins, and special guest Damone Roberts helps the Duprees prepare for the event; Anita makes a shocking announcement; Jacob issues a warning to his brother."
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448740",
+        "title": "Episode 183",
+        "season": 1,
+        "episode": 183,
+        "released": "2025-12-04",
+        "overview": "Anita goes to Elon for police assistance; Leslie needs Nicole's help; an exchange between Samantha and her aunts causes quite a stir."
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3434361",
+        "title": "Episode 182",
+        "season": 1,
+        "episode": 182,
+        "released": "2025-12-03",
+        "overview": "Shanice and Ted find themselves trapped in a potentially dangerous predicament; Vernon and Joey don't mince words during a heated exchange."
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3050376",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-02-24",
+        "overview": "As the gates open on Fairmont Crest, the Dupree family is faced with a scandal like no other — setting the stage for a series of scandals, lies and betrayals."
+      },
+      {
+        "id": "tvmaze:3050508",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-02-25",
+        "overview": "Dani and the family deal with the aftermath of her outburst; Nicole finds it difficult to choose a recipient for her award; Ashley receives praise upon her return to work; Martin looks to Vernon in a time of need."
+      },
+      {
+        "id": "tvmaze:3050509",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-02-26",
+        "overview": "Gossip spreads like wildfire in the community as the Dupree family reels from recent events. Meanwhile, the conflict between Dani and Bill reaches a turning point, Leslie opens up about her grief, Anita and Vernon vow to protect Martin's secret, and a Dupree associate is attacked."
+      },
+      {
+        "id": "tvmaze:3050510",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-02-27",
+        "overview": "Laura's accident sends shockwaves through Fairmont Crest. Meanwhile, Dani gets her groove back with an unexpected beau, Bill surprises Hayley with a wedding celebration, and Mona agrees to give Eva a shot at filling in for Laura."
+      },
+      {
+        "id": "tvmaze:3050511",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2025-02-28",
+        "overview": "Dani finds herself trying to get her revenge on Bill in different ways, Nicole hires Eva as her temporary assistant, while Andre and Ashley are stuck with a woman in labor in an elevator."
+      },
+      {
+        "id": "tvmaze:3160420",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2025-03-03",
+        "overview": "Chelsea goes live, Leslie reveals a secret about Eva; Ashley and Andre team up to help a patient; Bill convinces Haley to persevere."
+      },
+      {
+        "id": "tvmaze:3160422",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2025-03-04",
+        "overview": "Smitty questions Martin; Ashley and Andre bond; Derek feels insecure in his relationship; the Dupree family hold a press conference."
+      },
+      {
+        "id": "tvmaze:3160423",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-03-05",
+        "overview": "Doug gives in to temptation; Vanessa flirts with Diego; Jacob feels guilty; Eva meets Ted and Kat, then questions Leslie about Laura."
+      },
+      {
+        "id": "tvmaze:3160424",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-03-06",
+        "overview": "Chelsea has a moment with her friend's wife; Kat is suspicious of Eva; Martin confronts Smitty; Dani confronts Hayley; Andre stirs the pot on Derek and Ashley's double date night."
+      },
+      {
+        "id": "tvmaze:3160425",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-03-07",
+        "overview": "Jacob alleviates his guilt with a bold move; Joey helps Doug out; Eva solidifies her position with Ted and Nicole; Leslie's bitterness boils."
+      },
+      {
+        "id": "tvmaze:3167314",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-03-10",
+        "overview": "Dani makes a confession; Doug tries to get out of a sticky situation; Leslie comes face to face with Ted; Naomi confronts Jacob."
+      },
+      {
+        "id": "tvmaze:3167316",
+        "title": "Episode 12",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-03-11",
+        "overview": "Dani crashes Nicole's interview; Eva bonds with Ted; Tomas shows interest in Kat; Jacob meets his new partner."
+      },
+      {
+        "id": "tvmaze:3167317",
+        "title": "Episode 13",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-03-12",
+        "overview": "Martin makes a deal with Smitty; Joey ropes Doug into a backroom game; Diego gets territorial over Vanessa; Derek interrupts Andre's moment with Ashley; Leslie questions Eva's loyalty."
+      },
+      {
+        "id": "tvmaze:3167318",
+        "title": "Episode 14",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-03-13",
+        "overview": "Vernon gets wind of Martin's next move; Ted gets in Leslie's way; Naomi pleads with Dani to be civil; the family attends Nicole's award ceremony."
+      },
+      {
+        "id": "tvmaze:3167319",
+        "title": "Episode 15",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-03-14",
+        "overview": "Nicole suspects Dani is up to something; Kat and Tomas heat things up; Andre tries to hide his interest in Ashley."
+      },
+      {
+        "id": "tvmaze:3167320",
+        "title": "Episode 16",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-03-17",
+        "overview": "Pam helps Dani clean up her mess; Hayley confronts Dani; Ashley and Derek get things back on track; Dani and Andre lean on each other."
+      },
+      {
+        "id": "tvmaze:3171457",
+        "title": "Episode 17",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-03-18",
+        "overview": "Naomi gets a case that might be too close to home; Kat gets territorial; Jacob and Marcel go on a stakeout."
+      },
+      {
+        "id": "tvmaze:3171458",
+        "title": "Episode 18",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-03-19",
+        "overview": "Andre finds Dani; Ted and Nicole make anniversary plans; Leslie schemes with Eva; Ashley vents to Jan about her situation with Derek and Andre."
+      },
+      {
+        "id": "tvmaze:3171459",
+        "title": "Episode 19",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-03-24",
+        "overview": "Joey gets into business with Vanessa; Jacob causes trouble for Marcel; Chelsea considers her pivot from model to designer; Kat and Tomas grow closer."
+      },
+      {
+        "id": "tvmaze:3171460",
+        "title": "Episode 20",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-03-25",
+        "overview": "Dani struggles emotionally; Vernon confronts Martin; Chelsea reveals her plans; Naomi makes a big decision."
+      },
+      {
+        "id": "tvmaze:3171461",
+        "title": "Episode 21",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-03-26",
+        "overview": "Dani reacts to Chelsea's confession; Bill challenges Naomi; Tomas confides in Kat; Smitty wonders what else Martin is hiding from him."
+      },
+      {
+        "id": "tvmaze:3174630",
+        "title": "Episode 22",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-03-27",
+        "overview": "Leslie tries to help Eva; Kat hatches a scheme of her own; Martin and the family worry about Tyrell; Smitty confronts Martin; Marcel is nice to Jacob."
+      },
+      {
+        "id": "tvmaze:3174631",
+        "title": "Episode 23",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-03-28",
+        "overview": "Vanessa is suspicious of Doug and Joey; Leslie and Ted go head-to-head; Kat sets a trap for Eva; Tyrell confides in Samantha."
+      },
+      {
+        "id": "tvmaze:3174632",
+        "title": "Episode 24",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-03-31",
+        "overview": "Vanessa and Joey talk more than houses; Kat and Eva face off; Dani gives Chelsea her input; Bill goes behind Naomi's back; Andre avoids Ashley."
+      },
+      {
+        "id": "tvmaze:3180604",
+        "title": "Episode 25",
+        "season": 1,
+        "episode": 25,
+        "released": "2025-04-01",
+        "overview": "Dani gets an unexpected visitor; Naomi takes control of her case; Jacob takes a stand against Detective Malone."
+      },
+      {
+        "id": "tvmaze:3180606",
+        "title": "Episode 26",
+        "season": 1,
+        "episode": 26,
+        "released": "2025-04-02",
+        "overview": "Bill admits why he really came to see Dani; Ashley and Derek invite Andre over for dinner; Jacob and Naomi struggle with moral dilemmas."
+      },
+      {
+        "id": "tvmaze:3180607",
+        "title": "Episode 27",
+        "season": 1,
+        "episode": 27,
+        "released": "2025-04-03",
+        "overview": "Randy has questions for Doug; Nicole crashes Vanessa's business meeting; Bill and Naomi go head-to-head."
+      },
+      {
+        "id": "tvmaze:3180609",
+        "title": "Episode 28",
+        "season": 1,
+        "episode": 28,
+        "released": "2025-04-04",
+        "overview": "Andre begins interviews for his documentary; Chelsea has a change of heart; Nicole drops a bombshell on Vanessa."
+      },
+      {
+        "id": "tvmaze:3180612",
+        "title": "Episode 29",
+        "season": 1,
+        "episode": 29,
+        "released": "2025-04-07",
+        "overview": "Tyrell suffers a humiliating blow; Leslie escalates her vendetta; Ted scrambles to protect his family from the fallout."
+      },
+      {
+        "id": "tvmaze:3188124",
+        "title": "Episode 30",
+        "season": 1,
+        "episode": 30,
+        "released": "2025-04-08",
+        "overview": "Dani preps Chelsea's farewell fashion show; Smitty takes on a new influencer assignment; the family converges at a can't-miss event."
+      },
+      {
+        "id": "tvmaze:3188125",
+        "title": "Episode 31",
+        "season": 1,
+        "episode": 31,
+        "released": "2025-04-09",
+        "overview": "Andre's hospital documentary faces unexpected pushback from wary staff; Samantha sets her sights on modeling with Chelsea's help; Leslie's covert actions raise suspicions about Laura's recovery."
+      },
+      {
+        "id": "tvmaze:3188126",
+        "title": "Episode 32",
+        "season": 1,
+        "episode": 32,
+        "released": "2025-04-10",
+        "overview": "Dani faces fallout from losing her charity board seat; Samantha's push to become a model sparks conflict at home; Bill brazenly flaunts his new union with Hayley at the country club."
+      },
+      {
+        "id": "tvmaze:3188127",
+        "title": "Episode 33",
+        "season": 1,
+        "episode": 33,
+        "released": "2025-04-11",
+        "overview": "Samantha's quest for a modeling manager pits Dani against Chelsea; Doug's gambling habit jeopardizes his surgical duties; Ted wrestles with the affairs of his past."
+      },
+      {
+        "id": "tvmaze:3193874",
+        "title": "Episode 34",
+        "season": 1,
+        "episode": 34,
+        "released": "2025-04-14",
+        "overview": "Kat's birthday celebration stirs hidden tensions; Bill and Hayley confront an unexpected turning point; Dani struggles with heartbreak she can't quite leave behind."
+      },
+      {
+        "id": "tvmaze:3193875",
+        "title": "Episode 35",
+        "season": 1,
+        "episode": 35,
+        "released": "2025-04-15",
+        "overview": "Naomi's unexpected legal maneuver rattles her fragile peace with Bill; Tyrell's crisis pits Martin and Smitty's parenting styles against each other; Dani's escalating struggles pull Andre further into her dangerous orbit."
+      },
+      {
+        "id": "tvmaze:3193876",
+        "title": "Episode 36",
+        "season": 1,
+        "episode": 36,
+        "released": "2025-04-16",
+        "overview": "Dani hopes to rekindle her lost spark with Pamela's help; Martin and Smitty face new hurdles protecting Tyrell; Nicole and Ted confront lingering issues in their marriage as they prepare to celebrate a relationship milestone."
+      },
+      {
+        "id": "tvmaze:3193877",
+        "title": "Episode 37",
+        "season": 1,
+        "episode": 37,
+        "released": "2025-04-17",
+        "overview": "Naomi's renewed push for a game-changing settlement stirs tension with Bill; Tyrell's escalating bullying battle forces Martin to reconsider his parental approach; Samantha's modeling ambitions spark a bold plan with Kat and Chelsea."
+      },
+      {
+        "id": "tvmaze:3193878",
+        "title": "Episode 38",
+        "season": 1,
+        "episode": 38,
+        "released": "2025-04-18",
+        "overview": "Vanessa's bond with Joey challenges her marriage; Naomi arranges a family outing to support Anita; Dani contemplates a grand comeback in fashion with a bold new venture at Pamela's side."
+      },
+      {
+        "id": "tvmaze:3197088",
+        "title": "Episode 39",
+        "season": 1,
+        "episode": 39,
+        "released": "2025-04-21",
+        "overview": "Doug's hidden debt to Joey edges him into dangerous territory; Eva pours herself into orchestrating Ted and Nicole's upcoming celebration; the family gets together for karaoke night."
+      },
+      {
+        "id": "tvmaze:3197089",
+        "title": "Episode 40",
+        "season": 1,
+        "episode": 40,
+        "released": "2025-04-22",
+        "overview": "Anita grapples with an unexpected offer; Bill navigates internal firm pressures; Dani latest decision upends Chelsea's carefully laid plans."
+      },
+      {
+        "id": "tvmaze:3197090",
+        "title": "Episode 41",
+        "season": 1,
+        "episode": 41,
+        "released": "2025-04-23",
+        "overview": "Dani chooses her own path; Ted urges Nicole to abandon their anniversary bash for a private getaway; Doug doubles down on a risky windfall."
+      },
+      {
+        "id": "tvmaze:3197091",
+        "title": "Episode 42",
+        "season": 1,
+        "episode": 42,
+        "released": "2025-04-24",
+        "overview": "Nicole takes charge of Laura's mysterious case; Doug wrestles with his demons; Vanessa and Joey forge a risky pact."
+      },
+      {
+        "id": "tvmaze:3197092",
+        "title": "Episode 43",
+        "season": 1,
+        "episode": 43,
+        "released": "2025-04-25",
+        "overview": "Doug admits his struggles with a growing gambling addiction; Bill fights to maintain power over his firm despite health concerns; Naomi steps in to defend a combative homeless woman under Jacob's watchful eye."
+      },
+      {
+        "id": "tvmaze:3206715",
+        "title": "Episode 44",
+        "season": 1,
+        "episode": 44,
+        "released": "2025-04-28",
+        "overview": "Naomi struggles to gain the trust of her new client; Ashley and Derek adjusts to their new living arrangement; Leslie launches her latest scheme against the Duprees."
+      },
+      {
+        "id": "tvmaze:3211786",
+        "title": "Episode 45",
+        "season": 1,
+        "episode": 45,
+        "released": "2025-05-01",
+        "overview": "The Duprees kick off Ted and Nicole's anniversary party; Eva tries one last time to keep her mother in check; Kat inches closer to unearthing the conspiracy that threatens to shatter the family's big night."
+      },
+      {
+        "id": "tvmaze:3211783",
+        "title": "Episode 46",
+        "season": 1,
+        "episode": 46,
+        "released": "2025-05-02",
+        "overview": "Ted and Nicole's anniversary party is a night the family won't soon forget; Ashley and Derek juggle the messy realities of moving in together; Bill braces for his part in Ted's deception to come to light."
+      },
+      {
+        "id": "tvmaze:3211784",
+        "title": "Episode 47",
+        "season": 1,
+        "episode": 47,
+        "released": "2025-05-05",
+        "overview": "Leslie's explosive revelations push the Duprees and Richardsons to their breaking point, sending the whole family scrambling to pick up the pieces."
+      },
+      {
+        "id": "tvmaze:3211785",
+        "title": "Episode 48",
+        "season": 1,
+        "episode": 48,
+        "released": "2025-05-08",
+        "overview": "Nicole struggles with the fallout of Ted's decades-old betrayal; Bill's covert role in burying Ted's secret resurfaces, forcing each member of the Dupree and Hamilton families to reevaluate loyalties and question old bonds."
+      },
+      {
+        "id": "tvmaze:3217043",
+        "title": "Episode 49",
+        "season": 1,
+        "episode": 49,
+        "released": "2025-05-09",
+        "overview": "The Duprees scramble to steady the ship in the wake of Ted's betrayal; Eva struggles to make amends; Kat witnesses an intimate moment that could change her life."
+      },
+      {
+        "id": "tvmaze:3224940",
+        "title": "Episode 50",
+        "season": 1,
+        "episode": 50,
+        "released": "2025-05-12",
+        "overview": "The Duprees reel from a cascade of betrayals. Eva scrambles to hold on to what little she has left. Kat's growing suspicion sets the stage for a reckoning that threatens to fracture the family beyond repair."
+      },
+      {
+        "id": "tvmaze:3224941",
+        "title": "Episode 51",
+        "season": 1,
+        "episode": 51,
+        "released": "2025-05-13",
+        "overview": "The Duprees reclaim their power with a defiant appearance at the country club. Eva makes a final plea for her mother's love. Martin begins to unravel the truth behind a haunting memory that could destroy the family's legacy."
+      },
+      {
+        "id": "tvmaze:3224942",
+        "title": "Episode 52",
+        "season": 1,
+        "episode": 52,
+        "released": "2025-05-14",
+        "overview": "The Duprees rally around old dreams and new truths. Eva walks into the lion's den hoping for a second chance. Dani reignites a forbidden flame. Kat quietly prepares for war, refusing to let Eva claim a place in the family."
+      },
+      {
+        "id": "tvmaze:3224943",
+        "title": "Episode 53",
+        "season": 1,
+        "episode": 53,
+        "released": "2025-05-15",
+        "overview": "Eva searches for connection on her birthday. Kat turns the tables with a bold move that could finally bring Leslie down. Ashley and Derek tiptoe around a growing divide."
+      },
+      {
+        "id": "tvmaze:3228653",
+        "title": "Episode 54",
+        "season": 1,
+        "episode": 54,
+        "released": "2025-05-16",
+        "overview": "Dani and Pamela chase a risky new dream. Doug finds himself out of options. Kat closes in on Leslie. Nicole contemplates a life-changing move."
+      },
+      {
+        "id": "tvmaze:3228654",
+        "title": "Episode 55",
+        "season": 1,
+        "episode": 55,
+        "released": "2025-05-19",
+        "overview": "Derek and Ashley reach a breaking point; Dani finally defines the line between sex and something more; Doug scrambles to cover his lies before they destroy everything; Leslie proves she's not going down without a fight."
+      },
+      {
+        "id": "tvmaze:3228655",
+        "title": "Episode 56",
+        "season": 1,
+        "episode": 56,
+        "released": "2025-05-20",
+        "overview": "Anita opens the door to her past; Ashley's heartbreak threatens to undo her; Eva leans into the one person who believes her."
+      },
+      {
+        "id": "tvmaze:3228656",
+        "title": "Episode 57",
+        "season": 1,
+        "episode": 57,
+        "released": "2025-05-21",
+        "overview": "The Duprees navigate heartbreak and hard truths as Eva makes a fateful choice about her mother; Ashley and Derek confront what's left of their love; Chelsea opens up about who she is."
+      },
+      {
+        "id": "tvmaze:3234319",
+        "title": "Episode 58",
+        "season": 1,
+        "episode": 58,
+        "released": "2025-05-22",
+        "overview": "Eva pushes back against her mother's delusions; Anita and Tracy unpack old wounds; Nicole, Ted and Kat confront a chilling possibility."
+      },
+      {
+        "id": "tvmaze:3234320",
+        "title": "Episode 59",
+        "season": 1,
+        "episode": 59,
+        "released": "2025-05-23",
+        "overview": "Anita and Tracy finally confront the betrayal that tore them apart; Ted corners Leslie with a devastating accusation; Doug begins to connect the dots about Joey's \"friendship\" with his wife; Martin's lack of communication frustrates Smitty."
+      },
+      {
+        "id": "tvmaze:3234321",
+        "title": "Episode 60",
+        "season": 1,
+        "episode": 60,
+        "released": "2025-05-27",
+        "overview": "Martin dodges Smitty's questions about Bill's insinuations; Hayley's unexpected news throws Chelsea for a loop."
+      },
+      {
+        "id": "tvmaze:3234322",
+        "title": "Episode 61",
+        "season": 1,
+        "episode": 61,
+        "released": "2025-05-28",
+        "overview": "Smitty grows increasingly suspicious; Chelsea's news has Dani doubting reality; Ashley and Derek confront the tension in their relationship."
+      },
+      {
+        "id": "tvmaze:3234323",
+        "title": "Episode 62",
+        "season": 1,
+        "episode": 62,
+        "released": "2025-05-29",
+        "overview": "Dani issues a warning to Bill regarding Hayley; Doug takes a risk with Joey; Kat and Jacob uncover more about Laura's attack."
+      },
+      {
+        "id": "tvmaze:3234324",
+        "title": "Episode 63",
+        "season": 1,
+        "episode": 63,
+        "released": "2025-05-30",
+        "overview": "A crucial piece of evidence comes to light in Kat's investigation of Leslie; Ted struggles with how to repair his relationship with Nicole; Anita fears the past will detail her future."
+      },
+      {
+        "id": "tvmaze:3234325",
+        "title": "Episode 64",
+        "season": 1,
+        "episode": 64,
+        "released": "2025-06-02",
+        "overview": "Ted and and Eva discuss Leslie's manipulations; Sharon confronts Anita with the painful truth of their past."
+      },
+      {
+        "id": "tvmaze:3241873",
+        "title": "Episode 65",
+        "season": 1,
+        "episode": 65,
+        "released": "2025-06-03",
+        "overview": "Leslie turns to an unlikely source for help; Naomi and Hayley find themselves in a lie-changing situation; Dani struggles with her insecurities about Andre."
+      },
+      {
+        "id": "tvmaze:3241874",
+        "title": "Episode 66",
+        "season": 1,
+        "episode": 66,
+        "released": "2025-06-04",
+        "overview": "Jacob catches a break in Leslie's case; Doug has unexpected news for Bill; Chelsea makes a mysterious connection."
+      },
+      {
+        "id": "tvmaze:3241875",
+        "title": "Episode 67",
+        "season": 1,
+        "episode": 67,
+        "released": "2025-06-05",
+        "overview": "Kat receives unexpected news; Laura turns to an unlikely source for help; Sharon's bitterness threatens to derail the reunion with Anita; Ted coaxes a confession out of Eva."
+      },
+      {
+        "id": "tvmaze:3241876",
+        "title": "Episode 68",
+        "season": 1,
+        "episode": 68,
+        "released": "2025-06-06",
+        "overview": "Unaware of hidden dangers, Eva and Tomas share an intimate moment; Vanessa confronts Doug about his gambling debts; Chelsea opens up to Naomi about her feelings for someone special."
+      },
+      {
+        "id": "tvmaze:3241877",
+        "title": "Episode 69",
+        "season": 1,
+        "episode": 69,
+        "released": "2025-06-09",
+        "overview": "Nicole questions Eva's motive's; Kat takes matters into her own hands; the women in Bill's life rally around him."
+      },
+      {
+        "id": "tvmaze:3261138",
+        "title": "Episode 70",
+        "season": 1,
+        "episode": 70,
+        "released": "2025-06-10",
+        "overview": "Chelsea and Madison connect; Vernon calms a nervous Naomi; Dani's feelings for her ex complicate things with her new boo."
+      },
+      {
+        "id": "tvmaze:3261139",
+        "title": "Episode 71",
+        "season": 1,
+        "episode": 71,
+        "released": "2025-06-11",
+        "overview": "Anita updates Vernon on the Articulettes; Madison supports Chelsea through Bill's recovery."
+      },
+      {
+        "id": "tvmaze:3261140",
+        "title": "Episode 72",
+        "season": 1,
+        "episode": 72,
+        "released": "2025-06-12",
+        "overview": "Kat sets a trap for Leslie; Smitty's new assignment could spell trouble for Martin; Ted has a surprising offer for Eva."
+      },
+      {
+        "id": "tvmaze:3261141",
+        "title": "Episode 73",
+        "season": 1,
+        "episode": 73,
+        "released": "2025-06-13",
+        "overview": "Martin's past haunts his present; Ashley fears Derek's intentions; Chelsea's new romance challenges her emotionally."
+      },
+      {
+        "id": "tvmaze:3265779",
+        "title": "Episode 74",
+        "season": 1,
+        "episode": 74,
+        "released": "2025-06-16",
+        "overview": "Vanessa plays a high-stakes game with Joey; Ashley and Derek's relationship status changes; Martin's past comes rushing back; Naomi confides in Andre."
+      },
+      {
+        "id": "tvmaze:3265780",
+        "title": "Episode 75",
+        "season": 1,
+        "episode": 75,
+        "released": "2025-06-17",
+        "overview": "Vanessa comes to terms with what she's willing to sacrifice for Doug; Smitty urges Martin to seek treatment for his hallucinations; Dani and Andre make a stunning confession."
+      },
+      {
+        "id": "tvmaze:3265781",
+        "title": "Episode 76",
+        "season": 1,
+        "episode": 76,
+        "released": "2025-06-18",
+        "overview": "Andre gives Ted relationship advice; Chelsea and Madison take a big step in their relationship; Bill's recovery leaves Hayley with more questions than answers."
+      },
+      {
+        "id": "tvmaze:3265782",
+        "title": "Episode 77",
+        "season": 1,
+        "episode": 77,
+        "released": "2025-06-19",
+        "overview": "Kat has high expectations for Tomas; Naomi vows to help June recover her most cherished possession; Smitty's investigation threatens to expose secrets."
+      },
+      {
+        "id": "tvmaze:3265783",
+        "title": "Episode 78",
+        "season": 1,
+        "episode": 78,
+        "released": "2025-06-20",
+        "overview": "Vernon takes matters into his own hands; Vanessa leans into her new partnership with Joey; Nicole has life-changing news for Ted."
+      },
+      {
+        "id": "tvmaze:3274729",
+        "title": "Episode 79",
+        "season": 1,
+        "episode": 79,
+        "released": "2025-06-23",
+        "overview": "Vernon and Bill have a tense showdown. Leslie has a bold proposition for Jacob and Kat. Eva finds strength from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3274730",
+        "title": "Episode 80",
+        "season": 1,
+        "episode": 80,
+        "released": "2025-06-24",
+        "overview": "Kat has a romantic surprise for Tomas. Jacob worries Smitty's investigation will hurt his father's reputation. Bill and Dani share a heart-to-heart."
+      },
+      {
+        "id": "tvmaze:3274731",
+        "title": "Episode 81",
+        "season": 1,
+        "episode": 81,
+        "released": "2025-06-25",
+        "overview": "Dani is suspicious of Hayley. Nicole confronts Andre. Martin sets a plan in motion to absolve his past."
+      },
+      {
+        "id": "tvmaze:3274732",
+        "title": "Episode 82",
+        "season": 1,
+        "episode": 82,
+        "released": "2025-06-26",
+        "overview": "Eva tackles her first day working for Ted. Ashley and Andre discuss their options. Anita receives surprising news from her family."
+      },
+      {
+        "id": "tvmaze:3274733",
+        "title": "Episode 83",
+        "season": 1,
+        "episode": 83,
+        "released": "2025-06-27",
+        "overview": "Leslie attempts to make amends with her daughter. Date night proves challenging for Chelsea. Madison and Joey's offer amuses Bill."
+      },
+      {
+        "id": "tvmaze:3278130",
+        "title": "Episode 84",
+        "season": 1,
+        "episode": 84,
+        "released": "2025-07-07",
+        "overview": "Smitty puts his nose where it doesn't belong and Elon is displeased; Randy tells Joey he solved one of their problems but may have gained another in the process; Chelsea's past comes back to haunt her and Madison."
+      },
+      {
+        "id": "tvmaze:3278131",
+        "title": "Episode 85",
+        "season": 1,
+        "episode": 85,
+        "released": "2025-07-08",
+        "overview": "A shocked Martin puts Tyrell on lockdown; Ashley and Andre have an awkward encounter with Derek during their night out; Dani refuses to give Bill or Hayley what they want."
+      },
+      {
+        "id": "tvmaze:3278132",
+        "title": "Episode 86",
+        "season": 1,
+        "episode": 86,
+        "released": "2025-07-09",
+        "overview": "Smitty and Jacob compare notes, and it unearths a startling memory for Jacob; Vanessa serves Joey an ultimatum; Dani gets territorial over Andre."
+      },
+      {
+        "id": "tvmaze:3278133",
+        "title": "Episode 87",
+        "season": 1,
+        "episode": 87,
+        "released": "2025-07-10",
+        "overview": "Pamela has an unconventional idea for the modeling agency; Kat sabotages Eva's new position at Ted's office; Nicole hits her boiling point with Leslie."
+      },
+      {
+        "id": "tvmaze:3278134",
+        "title": "Episode 88",
+        "season": 1,
+        "episode": 88,
+        "released": "2025-07-11",
+        "overview": "Martin takes extreme measures to protect his family; Madison has some major doubts when it comes to being with Chelsea; The Articulettes are at odds, which could derail their reunion concert."
+      },
+      {
+        "id": "tvmaze:3286094",
+        "title": "Episode 89",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-07-14",
+        "overview": "Martin has a physical altercation with the stranger; Hayley tries to reconnect with Ashley; Chelsea reassures a wary Madison that her ex is in the past."
+      },
+      {
+        "id": "tvmaze:3286095",
+        "title": "Episode 90",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-07-15",
+        "overview": "Joey sends Marcel on a dangerous assignment; Naomi follows a lead into June's Past; Smitty takes matters into his own hands where his family is concerned."
+      },
+      {
+        "id": "tvmaze:3286096",
+        "title": "Episode 91",
+        "season": 1,
+        "episode": 91,
+        "released": "2025-07-16",
+        "overview": "Martin reveals the truth about what happened two years ago; Anita returns home and is stunned to hear what's gown down while she has been away; Vernon and Bill clash over who's really calling the shots."
+      },
+      {
+        "id": "tvmaze:3286097",
+        "title": "Episode 92",
+        "season": 1,
+        "episode": 92,
+        "released": "2025-07-17",
+        "overview": "Jacob arrives with grave news for Smitty; Vanessa imparts information that sends Nicole on a fact-finding mission; the Duprees open their home to a new houseguest."
+      },
+      {
+        "id": "tvmaze:3286098",
+        "title": "Episode 93",
+        "season": 1,
+        "episode": 93,
+        "released": "2025-07-18",
+        "overview": "Anita has some choice words for her daughter; Samantha makes a plea to her father; Elon puts Jacob in his place and asserts control over the investigation in process."
+      },
+      {
+        "id": "tvmaze:3294554",
+        "title": "Episode 94",
+        "season": 1,
+        "episode": 94,
+        "released": "2025-07-21",
+        "overview": "Nicole confronts Ted about yet another secret he's ben harboring; Anita tries to ease Vernon's guilt; Chelsea is livid with her father."
+      },
+      {
+        "id": "tvmaze:3294555",
+        "title": "Episode 95",
+        "season": 1,
+        "episode": 95,
+        "released": "2025-07-22",
+        "overview": "Eva stands her ground with Kat; Hayley has a life-changing surprise to show Bill; Allison is in need of medical attention."
+      },
+      {
+        "id": "tvmaze:3294556",
+        "title": "Episode 96",
+        "season": 1,
+        "episode": 96,
+        "released": "2025-07-23",
+        "overview": "Leslie uses her injury to further her agenda; Jacob questions a family member about a police matter; Madison thinks Chelsea is getting played."
+      },
+      {
+        "id": "tvmaze:3294557",
+        "title": "Episode 97",
+        "season": 1,
+        "episode": 97,
+        "released": "2025-07-24",
+        "overview": "Vernon comes clean to Naomi; Nicole confronts Bill about how he's hurt Martin; Kat is unnerved by what she walks in on."
+      },
+      {
+        "id": "tvmaze:3294558",
+        "title": "Episode 98",
+        "season": 1,
+        "episode": 98,
+        "released": "2025-07-25",
+        "overview": "Pamela has an intriguing offer for Dani; Hayley wonders if her husband is in deep trouble; Tyrell and Samantha feel lied to by their entire family."
+      },
+      {
+        "id": "tvmaze:3300638",
+        "title": "Episode 99",
+        "season": 1,
+        "episode": 99,
+        "released": "2025-07-28",
+        "overview": "Kat admits to Chelsea that she is hiding something from Tomas; Leslie asks an irate Ted for a favor; Naomi meets up with a woman named Regina who may have the answers she seeks."
+      },
+      {
+        "id": "tvmaze:3300639",
+        "title": "Episode 100",
+        "season": 1,
+        "episode": 100,
+        "released": "2025-07-29",
+        "overview": "Andre takes Ashley on a trip; June confronts someone from her past; Vanessa struggles to keep the peace between Joey and Doug."
+      },
+      {
+        "id": "tvmaze:3300640",
+        "title": "Episode 101",
+        "season": 1,
+        "episode": 101,
+        "released": "2025-07-30",
+        "overview": "Martin needs Nicole's help in order to save his marriage; Vernon does his best to assuage Anita's fears; a shocked Dani gives her daughter some tough advice."
+      },
+      {
+        "id": "tvmaze:3300641",
+        "title": "Episode 102",
+        "season": 1,
+        "episode": 102,
+        "released": "2025-07-31",
+        "overview": "Anita locks horns with Sharon and Tracy before their big day; the Dupree sisters scheme for the greater good; Vernon and Tyrell have a heart-to-heart."
+      },
+      {
+        "id": "tvmaze:3300642",
+        "title": "Episode 103",
+        "season": 1,
+        "episode": 103,
+        "released": "2025-08-01",
+        "overview": "Derek is painfully honest with Ashley; the Duprees get ready for the Articulettes' reunion concert; Hayley tries to convince Bill to let go of his attachment to his former family."
+      },
+      {
+        "id": "tvmaze:3306325",
+        "title": "Episode 104",
+        "season": 1,
+        "episode": 104,
+        "released": "2025-08-04",
+        "overview": "Anita surprises her fans with a major revelation; Samantha tries to broker peace between Martin and Smitty; Nicole lays into Leslie for crashing the concert."
+      },
+      {
+        "id": "tvmaze:3306326",
+        "title": "Episode 105",
+        "season": 1,
+        "episode": 105,
+        "released": "2025-08-05",
+        "overview": "Ted confronts Doug about his latest misstep; Jan gives her daughter some much-needed advice; Vanessa's extra cashflow draws some unwanted attention."
+      },
+      {
+        "id": "tvmaze:3306327",
+        "title": "Episode 106",
+        "season": 1,
+        "episode": 106,
+        "released": "2025-08-06",
+        "overview": "Hayley calls in a mysterious favor; Pamela puts Dani on the spot; Naomi clashes with Bill over his involvement with Joey."
+      },
+      {
+        "id": "tvmaze:3306328",
+        "title": "Episode 107",
+        "season": 1,
+        "episode": 107,
+        "released": "2025-08-07",
+        "overview": "Dani rushes into action during an emergency; Naomi gets some troubling info from Ashley; Elon makes a decisive move in the Stance Park murder investigation."
+      },
+      {
+        "id": "tvmaze:3306329",
+        "title": "Episode 108",
+        "season": 1,
+        "episode": 108,
+        "released": "2025-08-08",
+        "overview": "Hayley shares news with Bill that affects their future; Doug recruits Randy for a scheme of his own; Andre's ready to discuss matters of the heart; Ashley has a tense talk with Derek."
+      },
+      {
+        "id": "tvmaze:3314557",
+        "title": "Episode 109",
+        "season": 1,
+        "episode": 109,
+        "released": "2025-08-11",
+        "overview": "Devon Winters has a mind-blowing proposition for Anita; Dani extends an apology to Hayley; Bill gets emotional about all that he's lost; Andre lays his heart on the line."
+      },
+      {
+        "id": "tvmaze:3314558",
+        "title": "Episode 110",
+        "season": 1,
+        "episode": 110,
+        "released": "2025-08-12",
+        "overview": "Samantha schemes to help Martin and Smitty reconcile; Jacob solves a mystery; Leslie investigates a peculiar correspondence."
+      },
+      {
+        "id": "tvmaze:3314559",
+        "title": "Episode 111",
+        "season": 1,
+        "episode": 111,
+        "released": "2025-08-13",
+        "overview": "Eva's frustrated by her mother's latest antics; Kat and Tomas do their best to find their rhythm during salsa night; Tyrell and Samantha are blindsided; Chelsea bluntly makes her boundaries clear to Allison."
+      },
+      {
+        "id": "tvmaze:3314560",
+        "title": "Episode 112",
+        "season": 1,
+        "episode": 112,
+        "released": "2025-08-14",
+        "overview": "Ted is thrown for a loop by Nicole's latest move; Naomi preps a nervous June for a momentous meeting; Leslie receives a blast from the past at her doorstep; Anita and Vernon comfort their daughter."
+      },
+      {
+        "id": "tvmaze:3314561",
+        "title": "Episode 113",
+        "season": 1,
+        "episode": 113,
+        "released": "2025-08-15",
+        "overview": "Andre and his uncle discuss their relationship woes; Vanessa helps Nicole and Dani prop each other up; Ashley and Madison deal with a major medical crisis; the Articulettes are asked to plan their future now that they've reconciled with the past."
+      },
+      {
+        "id": "tvmaze:3319383",
+        "title": "Episode 114",
+        "season": 1,
+        "episode": 114,
+        "released": "2025-08-18",
+        "overview": "Leslie learns her luck may have just changed; Doug doles out advice for Ted and some critical information to Jacob; Ashley calls on Shanice to help Derek."
+      },
+      {
+        "id": "tvmaze:3319384",
+        "title": "Episode 115",
+        "season": 1,
+        "episode": 115,
+        "released": "2025-08-19",
+        "overview": "Naomi relays some heartbreaking news; Martin and Smitty deal with an intruder; Anita is forced to relive painful memories from her past before grappling with information that will affect her future."
+      },
+      {
+        "id": "tvmaze:3319385",
+        "title": "Episode 116",
+        "season": 1,
+        "episode": 116,
+        "released": "2025-08-20",
+        "overview": "Eva has a stunning revelation to share with Tomas; Anita and Leslie go head to head; Andre rushes to the hospital after hearing about Derek, and is surprised by Ashley's reaction to seeing him."
+      },
+      {
+        "id": "tvmaze:3319386",
+        "title": "Episode 117",
+        "season": 1,
+        "episode": 117,
+        "released": "2025-08-21",
+        "overview": "Nicole has a major relationship update to tell Kat; Vanessa meets with a new client who has lofty demands; Vernon calls Bill for help, but Bill has some demands that need to be met first; Dani dishes out some conditions of her own to Andre."
+      },
+      {
+        "id": "tvmaze:3319387",
+        "title": "Episode 118",
+        "season": 1,
+        "episode": 118,
+        "released": "2025-08-22",
+        "overview": "Dani and Naomi receive terrible news from Anita and Vernon; Ted seeks out Bill's legal expertise; Kat and Chelsea have a heart to heart before their big launch party; an assailant comes out of the shadows to attack their target."
+      },
+      {
+        "id": "tvmaze:3325308",
+        "title": "Episode 119",
+        "season": 1,
+        "episode": 119,
+        "released": "2025-08-25",
+        "overview": "The Duprees are frantic when they discover one of their own has gone missing; Samantha and Martin have some father-daughter bonding time."
+      },
+      {
+        "id": "tvmaze:3325309",
+        "title": "Episode 120",
+        "season": 1,
+        "episode": 120,
+        "released": "2025-08-26",
+        "overview": "The hostage situation intensifies; Anita, Vernon and Kat take matters into their own hands; Andre spies a close moment between Dani and Bill."
+      },
+      {
+        "id": "tvmaze:3325310",
+        "title": "Episode 121",
+        "season": 1,
+        "episode": 121,
+        "released": "2025-08-27",
+        "overview": "Martin makes a deal with the devil; Leslie ruffles some feathers; Naomi leans on her husband; Madison issues an apology."
+      },
+      {
+        "id": "tvmaze:3325311",
+        "title": "Episode 122",
+        "season": 1,
+        "episode": 122,
+        "released": "2025-08-28",
+        "overview": "Vanessa has news to share with the Duprees; Jacob and Kat follow a promising lead; Derek opens up to Ashley; an unlikely duo exchange wedding vows."
+      },
+      {
+        "id": "tvmaze:3325312",
+        "title": "Episode 123",
+        "season": 1,
+        "episode": 123,
+        "released": "2025-08-29",
+        "overview": "The kidnapper has another insane demand for their hostage; Ted surprises Leslie with an intriguing proposal; Tomas offers to help Eva; Nicole has an upsetting update for her son."
+      },
+      {
+        "id": "tvmaze:3332855",
+        "title": "Episode 124",
+        "season": 1,
+        "episode": 124,
+        "released": "2025-09-08",
+        "overview": "The hostage situation takes a violent turn; Leslie gets the rug pulled out from under her; Eva sees a new side of her father."
+      },
+      {
+        "id": "tvmaze:3332860",
+        "title": "Episode 125",
+        "season": 1,
+        "episode": 125,
+        "released": "2025-09-09",
+        "overview": "Anita and Vernon worry that they have pushed the limits for one of their own; Naomi doesn't like what she sees when her parents are concerned; Tomas is asked to battle the Duprees."
+      },
+      {
+        "id": "tvmaze:3332861",
+        "title": "Episode 126",
+        "season": 1,
+        "episode": 126,
+        "released": "2025-09-10",
+        "overview": "The kidnapper makes a bizarre request; Ted confronts Nicole when his efforts aren't rewarded; Smitty and Martin reconnect while another couple inches closer to each other."
+      },
+      {
+        "id": "tvmaze:3332862",
+        "title": "Episode 127",
+        "season": 1,
+        "episode": 127,
+        "released": "2025-09-11",
+        "overview": "Chelsea shocks her cousin with an abrupt decision; Hayley is fed up with Bill pushing her aside; Dani confides in Vanessa about her feelings, which prompts Vanessa to see Joey; Derek is harboring a secret."
+      },
+      {
+        "id": "tvmaze:3332863",
+        "title": "Episode 128",
+        "season": 1,
+        "episode": 128,
+        "released": "2025-09-12",
+        "overview": "Samantha schemes; Kat spies two duos in close moments, and she is upset by both; Ashley makes a very bold move."
+      },
+      {
+        "id": "tvmaze:3338225",
+        "title": "Episode 129",
+        "season": 1,
+        "episode": 129,
+        "released": "2025-09-15",
+        "overview": "Vernon springs into action to thwart an interloper; Derek has a big decision to make concerning his future; Eva is rocked to see her father in such distress; June's new job has her doubting herself."
+      },
+      {
+        "id": "tvmaze:3338226",
+        "title": "Episode 130",
+        "season": 1,
+        "episode": 130,
+        "released": "2025-09-16",
+        "overview": "Nicole debates her treatment of Ted while he deals with an unwelcome reality check; Tyrell and Samantha clash, which leaves Martin and Smitty to deal with the fallout; Leslie one-ups the Duprees; Naomi and Jacob help a friend."
+      },
+      {
+        "id": "tvmaze:3338227",
+        "title": "Episode 131",
+        "season": 1,
+        "episode": 131,
+        "released": "2025-09-17",
+        "overview": "Hayley hatches a seductive plan to spark some jealousy in Bill; Ashley drops an unexpected bombshell on Andre; Anita proposes a game-changing idea to help Kat and Chelsea."
+      },
+      {
+        "id": "tvmaze:3338228",
+        "title": "Episode 132",
+        "season": 1,
+        "episode": 132,
+        "released": "2025-09-18",
+        "overview": "Tomas has big plans for a romantic evening with Kat; Andre has a mysterious challenge for Dani; Vanessa is stunned by Joey's offer; Doug uncovers a way to make the casino kingpin pay for his sins."
+      },
+      {
+        "id": "tvmaze:3338229",
+        "title": "Episode 133",
+        "season": 1,
+        "episode": 133,
+        "released": "2025-09-19",
+        "overview": "Nicole learns something disturbing; Anita and Vernon increasingly worried about the state of affairs in their family; Vanessa spies Bill and Joey with their heads together and demands answers; Leslie seeks out information regarding her mother."
+      },
+      {
+        "id": "tvmaze:3361045",
+        "title": "Episode 134",
+        "season": 1,
+        "episode": 134,
+        "released": "2025-09-22",
+        "overview": "Dani and Andre roll the dice and come to an agreement; Vanessa faces mounting pressure by Doug to make a difficult choice; Nicole exposes Ted's indiscretion to Anita; Kat opens up to Chelsea about her confusing feelings for Tomas."
+      },
+      {
+        "id": "tvmaze:3361046",
+        "title": "Episode 135",
+        "season": 1,
+        "episode": 135,
+        "released": "2025-09-23",
+        "overview": "Jacob unearths a secret that Derek wants to remain buried; in helping Samantha, Martin infuriates Smitty; a couple must face their new reality; Joey and Marcel hatch a mysterious plan."
+      },
+      {
+        "id": "tvmaze:3361047",
+        "title": "Episode 136",
+        "season": 1,
+        "episode": 136,
+        "released": "2025-09-24",
+        "overview": "One pair of lovers solidify their relationship while in Puerto Rico; Doug's night goes from bad to worse; Naomi suffers a heartbreaking loss; June saves the day."
+      },
+      {
+        "id": "tvmaze:3361048",
+        "title": "Episode 137",
+        "season": 1,
+        "episode": 137,
+        "released": "2025-09-25",
+        "overview": "Two major revelations rock Fairmount Crest, which causes Jacob to deliver some earth-shattering news; Anita and Vernon plunge themselves into damage control mode; Bill and Hayley are forced to deal with the emotional fallout."
+      },
+      {
+        "id": "tvmaze:3361049",
+        "title": "Episode 138",
+        "season": 1,
+        "episode": 138,
+        "released": "2025-09-26",
+        "overview": "Nicole gets an update and consoles a friend; Jan and Mona discuss their former friend's sudden windfall; Leslie shocks Eva with a big gift; Joey issues some grave warnings; Shanice continues to conceal some major information."
+      },
+      {
+        "id": "tvmaze:3365002",
+        "title": "Episode 139",
+        "season": 1,
+        "episode": 139,
+        "released": "2025-09-29",
+        "overview": "Chelsea and Joey receive unwelcome blasts from their pasts. Eva puts Tomas' insecurities to bed. Vanessa seeks the truth about Doug from Jacob."
+      },
+      {
+        "id": "tvmaze:3365003",
+        "title": "Episode 140",
+        "season": 1,
+        "episode": 140,
+        "released": "2025-09-30",
+        "overview": "Kat is dealt a devastating blow. Nicole and Carlton share an intimate moment under watchful eyes. Martin resets some boundaries. Ted and his nephew discuss their affairs of the heart. June gets a little help from her friends."
+      },
+      {
+        "id": "tvmaze:3365004",
+        "title": "Episode 141",
+        "season": 1,
+        "episode": 141,
+        "released": "2025-10-01",
+        "overview": "Hayley discovers her husband's been playing detective. Derek feels left out in the cold. Dani confesses her addiction to Anita. Donnell McBride shows up and demands answers. A passionate lip lock leaves emotions hanging in the balance."
+      },
+      {
+        "id": "tvmaze:3365005",
+        "title": "Episode 142",
+        "season": 1,
+        "episode": 142,
+        "released": "2025-10-02",
+        "overview": "Bill's ex plants seeds of doubt while Hayley looks toward the future. Naomi has a tense exchange with her newest family member. Vanessa's son encounters Joey while on an intense fact-finding mission."
+      },
+      {
+        "id": "tvmaze:3365006",
+        "title": "Episode 143",
+        "season": 1,
+        "episode": 143,
+        "released": "2025-10-03",
+        "overview": "The Hawthornes receive news that could change their lives forever. In the romance department, Ashley is faced with her new normal. Dani has an unconventional proposal for Andre."
+      },
+      {
+        "id": "tvmaze:3370428",
+        "title": "Episode 144",
+        "season": 1,
+        "episode": 144,
+        "released": "2025-10-06",
+        "overview": "Chelsea's heated confrontation with Tomas results in a major revelation; Leslie uncovers a truth that has her riding high; Ted offers some hard-won advice to Smitty; Kat leans on her mother; Anita and Vernon deal with an unwelcome gift."
+      },
+      {
+        "id": "tvmaze:3370429",
+        "title": "Episode 145",
+        "season": 1,
+        "episode": 145,
+        "released": "2025-10-07",
+        "overview": "Fairmont Crest mourns one of their own; Kat makes a bold move in the relationship department; Joey alters reality; Eva gets some bad advice; Carlton receives some unwanted attention; Donnell asks Jacob painful questions about his father."
+      },
+      {
+        "id": "tvmaze:3370430",
+        "title": "Episode 146",
+        "season": 1,
+        "episode": 146,
+        "released": "2025-10-08",
+        "overview": "Vanessa's friends have reason to be concerned for her well-being while she is left reeling after spotting some new information; Marcel issues a dire warning; Martin and Smitty struggle to find a path forward."
+      },
+      {
+        "id": "tvmaze:3370431",
+        "title": "Episode 147",
+        "season": 1,
+        "episode": 147,
+        "released": "2025-10-09",
+        "overview": "Tensions erupt when Hayley and Dani go head-to-head; Bill and Andre clash; Anita offers words of engagement to her daughter and her grandson; Vanessa makes a confession to Donnell about her relationship with Joey."
+      },
+      {
+        "id": "tvmaze:3370432",
+        "title": "Episode 148",
+        "season": 1,
+        "episode": 148,
+        "released": "2025-10-10",
+        "overview": "Dani confides in Pamela about her steamy moment with Bill; Hayley puts her husband's feet to the fire; Eva asks for Mona and Jan's help; Naomi and Jacob have a difficult conversation that leaves them with more questions than answers."
+      },
+      {
+        "id": "tvmaze:3376081",
+        "title": "Episode 149",
+        "season": 1,
+        "episode": 149,
+        "released": "2025-10-13",
+        "overview": "Dani suspects Naomi may be carrying a life-changing secret; Nicole and Vanessa are at odds while Leslie issues a warning to June; an intriguing offer is dangled in front of Donnell; Shanice receives two unexpected pieces of information."
+      },
+      {
+        "id": "tvmaze:3376085",
+        "title": "Episode 150",
+        "season": 1,
+        "episode": 150,
+        "released": "2025-10-14",
+        "overview": "Anita and Vernon get creative to escape the current chaos in their lives; Vanessa demands something of Joey; Bill gets an unexpected gift from a surprise visitor; Smitty makes an announcement to Tyrell and Samantha about the future of their family."
+      },
+      {
+        "id": "tvmaze:3388319",
+        "title": "Episode 151",
+        "season": 1,
+        "episode": 151,
+        "released": "2025-10-15",
+        "overview": "Andre has hard-hitting questions for Dani about her ex; Leslie uses the past to make a play for her future; Kat and her mother both have major relationship updates to share; Randy is tasked with a deadly order aimed at a startling target."
+      },
+      {
+        "id": "tvmaze:3388320",
+        "title": "Episode 152",
+        "season": 1,
+        "episode": 152,
+        "released": "2025-10-16",
+        "overview": "Chelsea thinks her mother has been robbed; Hayley's birthday treat for Bill ends up in the wrong hands; Naomi and Jacob are at an impasse over what they see for their future; Martin receives a stunning proposition."
+      },
+      {
+        "id": "tvmaze:3388321",
+        "title": "Episode 153",
+        "season": 1,
+        "episode": 153,
+        "released": "2025-10-17",
+        "overview": "One family attends a joyous event while Nicole and Ted mourn the state of their marriage; Eva and Tomas realize they've been played; Kat plans to make the night unforgettable."
+      },
+      {
+        "id": "tvmaze:3388322",
+        "title": "Episode 154",
+        "season": 1,
+        "episode": 154,
+        "released": "2025-10-20",
+        "overview": "Vernon is keeping secrets from Anita; Dani's parents have a tense sit-down with her and Andre; Nicole is caught off guard by a romantic gesture; Leslie is riding high; Eva realizes her mama is up to no good again."
+      },
+      {
+        "id": "tvmaze:3388323",
+        "title": "Episode 155",
+        "season": 1,
+        "episode": 155,
+        "released": "2025-10-21",
+        "overview": "Bill ends his pursuit of one mystery, but then another one presents itself; Naomi fears she and Jacob may have hit a tipping point in their marriage; Hayley enacts a new plan to get what her heart truly desires."
+      },
+      {
+        "id": "tvmaze:3388324",
+        "title": "Episode 156",
+        "season": 1,
+        "episode": 156,
+        "released": "2025-10-22",
+        "overview": "After an unpleasant encounter with Leslie, Nicole delivers an apology to Anita; Vanessa has a challenge for Joey; sparks fly when Eva meets a strikingly handsome newcomer."
+      },
+      {
+        "id": "tvmaze:3388325",
+        "title": "Episode 157",
+        "season": 1,
+        "episode": 157,
+        "released": "2025-10-23",
+        "overview": "Kat is consumed with guilt after a passionate night with Tomas leaves him in a great deal of pain; Smitty and Martin bask in their new normal; June doles out advice to Tyrell; Hayley embarks on a lucrative fact-finding mission."
+      },
+      {
+        "id": "tvmaze:3388326",
+        "title": "Episode 158",
+        "season": 1,
+        "episode": 158,
+        "released": "2025-10-24",
+        "overview": "Dani has an update for Ridge Forrester; Joey has a twisted yet interesting proposition for one of the Duprees; Donnell and Vanessa clash over his future; Jacob has a startling run-in; Chelsea takes matters into her own hands."
+      },
+      {
+        "id": "tvmaze:3394924",
+        "title": "Episode 159",
+        "season": 1,
+        "episode": 159,
+        "released": "2025-10-27",
+        "overview": "Dani pushes Nicole to make a bold move; Hayley is unsettled by Leslie's offer of an alliance; Samantha and June are at odds; Izaiah gets an earful from Kat."
+      },
+      {
+        "id": "tvmaze:3394926",
+        "title": "Episode 160",
+        "season": 1,
+        "episode": 160,
+        "released": "2025-10-28",
+        "overview": "Anita and Vernon have a long overdue discussion with Martin and Smitty; Ted and Carlton go to war; Chelsea and Kat's candid conversation causes someone close to them to enact an impulsive plan."
+      },
+      {
+        "id": "tvmaze:3394927",
+        "title": "Episode 161",
+        "season": 1,
+        "episode": 161,
+        "released": "2025-10-29",
+        "overview": "Joey reminds Elon who holds the cards in their unholy alliance; Vanessa makes her priorities clear to Dani; Samantha angers both her dads; one Dupree is forced to answer some tough questions; Izaiah ponders making a life-changing decision."
+      },
+      {
+        "id": "tvmaze:3394928",
+        "title": "Episode 162",
+        "season": 1,
+        "episode": 162,
+        "released": "2025-10-30",
+        "overview": "A run-in with Andre pushes Derek to ask Ashley for a wedding update; Ted and Leslie try to forge a new path forward; Tyrell defends his sister's honor, which impresses Jessica; Vernon and Nicole's Halloween plans are interrupted by an interloper."
+      },
+      {
+        "id": "tvmaze:3394929",
+        "title": "Episode 163",
+        "season": 1,
+        "episode": 163,
+        "released": "2025-10-31",
+        "overview": "Anita's twist to an upcoming annual event could help heal old wounds; Bill buys his wife some peace of mind; Hayley is rattled by a run-in with Joey; Madison is upset with Chelsea for butting into family business; Eva gets a touching offer."
+      },
+      {
+        "id": "tvmaze:3394930",
+        "title": "Episode 164",
+        "season": 1,
+        "episode": 164,
+        "released": "2025-11-03",
+        "overview": "Anita is completely overwhelmed; Vernon has a secret rendezvous; Derek asks Shanice for a favor but gets a reality check instead; Eva has a major update for Leslie where Ted is concerned; Naomi takes her frustrations out on those closest to her."
+      },
+      {
+        "id": "tvmaze:3394931",
+        "title": "Episode 165",
+        "season": 1,
+        "episode": 165,
+        "released": "2025-11-04",
+        "overview": "Bill makes it clear to his ex where his allegiance lies; Jacob seeks expert help from Nicole; Hayley and Randy deal with a precarious situation; Vanessa gains control of one of Joey's prized possessions; Pamela presses Andre for answers."
+      },
+      {
+        "id": "tvmaze:3394932",
+        "title": "Episode 166",
+        "season": 1,
+        "episode": 166,
+        "released": "2025-11-05",
+        "overview": "Ashley makes a stunning discovery; Nicole extends an unexpected olive branch to Ted; Dani and Andre discuss his painful past; Leslie thinks it's only a matter of time before she and Eva are a family of three."
+      },
+      {
+        "id": "tvmaze:3394933",
+        "title": "Episode 167",
+        "season": 1,
+        "episode": 167,
+        "released": "2025-11-06",
+        "overview": "Joey has a surprising reunion with an old pal; someone's deceit causes heartbreak for two couples; a duo deepens their relationship; Vanessa's new endeavor causes a stir at the country club."
+      },
+      {
+        "id": "tvmaze:3394934",
+        "title": "Episode 168",
+        "season": 1,
+        "episode": 168,
+        "released": "2025-11-07",
+        "overview": "Samantha pleads with Smitty and Nicole for help; Martin and Kat have a blowout argument; Shanice stirs the pot with Ted; Eva's declaration drives a deeper wedge between her father and sister."
+      },
+      {
+        "id": "tvmaze:3407442",
+        "title": "Episode 169",
+        "season": 1,
+        "episode": 169,
+        "released": "2025-11-11",
+        "overview": "Things turn ugly as Chelsea and Tomas try to referee while Eva and Kat go to war; Hayley sets her sights on an eligible bachelor; Smitty and Martin clash over how best to parent the teens; Izaiah opens up about his difficult relationship with Elon."
+      },
+      {
+        "id": "tvmaze:3407443",
+        "title": "Episode 170",
+        "season": 1,
+        "episode": 170,
+        "released": "2025-11-12",
+        "overview": "Anita and Vernon have a long overdue conversation with Andre; Dani preps for the Forrester Creations shoot; Ted tries his best to get through to his daughter while Leslie gloats over hers; Derek leans on Shanice; Naomi helps Ashley move on."
+      },
+      {
+        "id": "tvmaze:3407444",
+        "title": "Episode 171",
+        "season": 1,
+        "episode": 171,
+        "released": "2025-11-13",
+        "overview": "Dani and Andre make a decision about their future; Vernon worries his secret may be found out; Nicole grants a request from her ex; Kat and Smitty have n awkward run-in; flames ignite between Derek and a co-worker."
+      },
+      {
+        "id": "tvmaze:3407445",
+        "title": "Episode 172",
+        "season": 1,
+        "episode": 172,
+        "released": "2025-11-14",
+        "overview": "Joey catches Randy in a lie and demands answers; Naomi and Jacob discover something startling during their dinner date with Bill and Hayley; Anita is forced to placate Leslie; Vanessa thinks of Doug, which spurs her to help out a friend."
+      },
+      {
+        "id": "tvmaze:3407446",
+        "title": "Episode 173",
+        "season": 1,
+        "episode": 173,
+        "released": "2025-11-17",
+        "overview": "Kat turns to an unexpected source for guidance; Bill issues a warning to Jacob; Dani and Andre decide to make a major investment; Leslie's involvement in WinterFest stirs emotions with some old friends."
+      },
+      {
+        "id": "tvmaze:3428054",
+        "title": "Episode 174",
+        "season": 1,
+        "episode": 174,
+        "released": "2025-11-18",
+        "overview": "Eva and Izaiah's connection deepens; Ted unexpectedly becomes a shoulder to cry on; Smitty and June have an overdue heart-to-heart; Samantha's punishment causes discomfort for her entire family; Vernon and Sharon meet under watchful eyes."
+      },
+      {
+        "id": "tvmaze:3428055",
+        "title": "Episode 175",
+        "season": 1,
+        "episode": 175,
+        "released": "2025-11-19",
+        "overview": "Kat and Martin's feud hits a boiling point; Eva has some tough questions to answer from her dad; Dani and Andre receive an important delivery, then make a declaration that will affect their future; Leslie tries to extort another Dupree."
+      },
+      {
+        "id": "tvmaze:3428056",
+        "title": "Episode 176",
+        "season": 1,
+        "episode": 176,
+        "released": "2025-11-20",
+        "overview": "Martin chooses a side during a sibling rivalry; Shanice puts Leslie on notice; Naomi deflects Bill's question about the state of her marriage while having to extend an apology to Hayley; Ted helps an ailing Peaches out."
+      },
+      {
+        "id": "tvmaze:3428057",
+        "title": "Episode 177",
+        "season": 1,
+        "episode": 177,
+        "released": "2025-11-21",
+        "overview": "Anita doesn't mince words with both Thomas women; Tyrell shocks his dads with his choice for the future; Nicole receives an offer from Carlton; Martin seeks some advice from his grandfather; Vernon makes plans for another clandestine date."
+      },
+      {
+        "id": "tvmaze:3428058",
+        "title": "Episode 178",
+        "season": 1,
+        "episode": 178,
+        "released": "2025-11-24",
+        "overview": "Kat receives some surprising advice from Nicole; Izaiah gets guidance on how he should handle holidays with the Hawthornes; Leslie makes an unlikely connection; Tomas is put on notice regarding his future at the firm."
+      },
+      {
+        "id": "tvmaze:3434358",
+        "title": "Episode 179",
+        "season": 1,
+        "episode": 179,
+        "released": "2025-11-25",
+        "overview": "Joey and Vanessa find a way to privately celebrate the holiday together; Bill finds comfort in a Dupree tradition; Eva finally spends a holiday with both of her parents; the Richardson-Smiths welcome a special guest."
+      },
+      {
+        "id": "tvmaze:3434359",
+        "title": "Episode 180",
+        "season": 1,
+        "episode": 180,
+        "released": "2025-12-01",
+        "overview": "Vanessa fires back when her business decisions are called into question; Smitty confronts Joey to protect Martin."
+      },
+      {
+        "id": "tvmaze:3434360",
+        "title": "Episode 181",
+        "season": 1,
+        "episode": 181,
+        "released": "2025-12-02",
+        "overview": "Dani and Bill recall a fiery moment from their past, leaving Naomi and Chelsea unsettled; Hayley and Randy discuss escalating their murder plot; Jacob bolsters a friend in need."
+      },
+      {
+        "id": "tvmaze:3434361",
+        "title": "Episode 182",
+        "season": 1,
+        "episode": 182,
+        "released": "2025-12-03",
+        "overview": "Shanice and Ted find themselves trapped in a potentially dangerous predicament; Vernon and Joey don't mince words during a heated exchange."
+      },
+      {
+        "id": "tvmaze:3448740",
+        "title": "Episode 183",
+        "season": 1,
+        "episode": 183,
+        "released": "2025-12-04",
+        "overview": "Anita goes to Elon for police assistance; Leslie needs Nicole's help; an exchange between Samantha and her aunts causes quite a stir."
+      },
+      {
+        "id": "tvmaze:3448741",
+        "title": "Episode 184",
+        "season": 1,
+        "episode": 184,
+        "released": "2025-12-05",
+        "overview": "WinterFest begins, and special guest Damone Roberts helps the Duprees prepare for the event; Anita makes a shocking announcement; Jacob issues a warning to his brother."
+      },
+      {
+        "id": "tvmaze:3452022",
+        "title": "Episode 185",
+        "season": 1,
+        "episode": 185,
+        "released": "2025-12-08",
+        "overview": "Keke Wyatt sings at WinterFest; Nicole's date takes her by surprise; Vanessa's troubled by Joey's lack of support, while Kat thanks him for his unexpected help; Leslie tells Marcel there's a looming scandal that could rock Fairmont Crest."
+      },
+      {
+        "id": "tvmaze:3452023",
+        "title": "Episode 186",
+        "season": 1,
+        "episode": 186,
+        "released": "2025-12-09",
+        "overview": "Anita reluctantly shows Bill some grace; Hayley worries her husband's bloodwork could reveal her deadly scheme; Chelsea and Kat discuss their rocky romantic relationships, while Joey and Vanessa clash over theirs."
+      },
+      {
+        "id": "tvmaze:3452024",
+        "title": "Episode 187",
+        "season": 1,
+        "episode": 187,
+        "released": "2025-12-10",
+        "overview": "Bill's sudden collapse grips Hayley with fear; an impromptu massage leaves Nicole more tempted than she expected; Dani serves as a much-needed sounding board for her niece; Ashley and Derek reach an agreement."
+      },
+      {
+        "id": "tvmaze:3452025",
+        "title": "Episode 188",
+        "season": 1,
+        "episode": 188,
+        "released": "2025-12-11",
+        "overview": "Martin tries to make amends with his sister; Leslie receives a warning where Marcel's intentions are concerned; Naomi and Jacob try their best to navigate a new normal; Eva gets an earful from Laura; Tomas gets advice from an unlikely source."
+      },
+      {
+        "id": "tvmaze:3452026",
+        "title": "Episode 189",
+        "season": 1,
+        "episode": 189,
+        "released": "2025-12-12",
+        "overview": "Hayley is shocked by the arrival of a new client at the firm; the Hawthornes struggle to repair a broken connection; Vanessa receives an intriguing business proposition; Shanice offers Ted some food and friendship; Kat has to answer tough questions."
+      },
+      {
+        "id": "tvmaze:3461300",
+        "title": "Episode 190",
+        "season": 1,
+        "episode": 190,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461301",
+        "title": "Episode 191",
+        "season": 1,
+        "episode": 191,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461302",
+        "title": "Episode 192",
+        "season": 1,
+        "episode": 192,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461303",
+        "title": "Episode 193",
+        "season": 1,
+        "episode": 193,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3461304",
+        "title": "Episode 194",
+        "season": 1,
+        "episode": 194,
+        "released": "2025-12-19",
+        "overview": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,2644 @@
+{
+  "meta": {
+    "id": "tvmaze:107",
+    "type": "series",
+    "name": "Bob's Burgers",
+    "description": "The series follows Bob who runs Bob's Burgers, with the help of his wife and their three kids. Bob has big ideas about burgers, but the rest of the clan falls short on service. Despite the greasy counters and lousy location, the Belchers are determined to make every \"Grand Re-Re-Re-opening\" a success. Bob's wife, Linda, stands by her man and often does so by bursting into song. Their eldest daughter, 13-year-old Tina has a slight obsession with boys and zombies. Middle child Gene is an aspiring musician with a thirst for life. Louise is the bunny ears-wearing youngest daughter with an off-kilter sense of humor that makes her somewhat of a liability in the kitchen – and with the public.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/589/1474468.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/589/1474468.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "TBA",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441547",
+        "title": "Les Lizárdables",
+        "season": 16,
+        "episode": 8,
+        "released": "2025-12-07",
+        "overview": "Gene and Courtney become embroiled in a complex custody battle over an injured lizard."
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:7415",
+        "title": "Human Flesh",
+        "season": 1,
+        "episode": 1,
+        "released": "2011-01-09",
+        "overview": "In the series premiere episode, Bob rallies the team to cook up some business, so he sends middle child Gene to push samples in the streets, eldest daughter Tina to work the grill and youngest daughter Louise to staff the counter. The day takes an unexpected turn when the health inspector pays a visit because of a little rumor Louise started during \"show and tell\" at school."
+      },
+      {
+        "id": "tvmaze:7416",
+        "title": "Crawl Space",
+        "season": 1,
+        "episode": 2,
+        "released": "2011-01-16",
+        "overview": "When Bob learns that Linda's mother is coming for a visit, he wants nothing to do with it. Linda has been cracking the whip at home, making sure every shelf has been dusted and every bed has been made. When she discovers a leak in the roof, she sends Bob to fix it, but he gets stuck in a wall, leaving Linda and the kids to entertain their guests and run the restaurant."
+      },
+      {
+        "id": "tvmaze:7417",
+        "title": "Sacred Cow",
+        "season": 1,
+        "episode": 3,
+        "released": "2011-01-23",
+        "overview": "When a controversial documentary filmmaker places a live cow outside of the family restaurant to make a statement, Bob is livid when it starts to scare away customers. However, to everyone's surprise, Bob treats the cow like a member of the family."
+      },
+      {
+        "id": "tvmaze:7418",
+        "title": "Sexy Dance Fighting",
+        "season": 1,
+        "episode": 4,
+        "released": "2011-02-13",
+        "overview": "When Tina develops a crush on the new martial arts instructor in town, she joins the class and ends up shirking her responsibilities at the restaurant. Bob finds out what's going on and decides to take matters into his own hands."
+      },
+      {
+        "id": "tvmaze:7419",
+        "title": "Hamburger Dinner Theater",
+        "season": 1,
+        "episode": 5,
+        "released": "2011-02-20",
+        "overview": "Bob reluctantly lets Linda and the kids stage a musical murder mystery dinner theater in the restaurant, but on opening night, an abrupt interruption changes the play's creative direction."
+      },
+      {
+        "id": "tvmaze:7420",
+        "title": "Sheesh! Cab, Bob?",
+        "season": 1,
+        "episode": 6,
+        "released": "2011-03-06",
+        "overview": "Tina is desperate to get her first kiss at her 13th birthday party. But after Louise breaks the deep fryer, Bob takes a second job as a late-night cab driver to pay for Tina's party. Things keep getting worse for Bob when the parents of Tina's crush refuse to let their son attend the party, and Bob has to do everything in his power to save his daughter's big day."
+      },
+      {
+        "id": "tvmaze:7421",
+        "title": "Bed & Breakfast",
+        "season": 1,
+        "episode": 7,
+        "released": "2011-03-13",
+        "overview": "With a long weekend approaching, Linda sees an opportunity to capitalize on the tourist traffic by starting a bed and breakfast. But when the reservations are filled by some shady character, Louise plants listening devices all over the house to keep an ear on what's happening."
+      },
+      {
+        "id": "tvmaze:7422",
+        "title": "Art Crawl",
+        "season": 1,
+        "episode": 8,
+        "released": "2011-03-20",
+        "overview": "When Linda asks Bob to let her sister hang her paintings in the restaurant for Art Week, Bob finds he's forced to contend with the city's Art Council, a shady troop of intimidating old ladies who control the art exhibited around town. Meanwhile, Louise, Gene and Tina are thrilled by all the attention their own art receives in the restaurant."
+      },
+      {
+        "id": "tvmaze:7423",
+        "title": "Spaghetti Western and Meatballs",
+        "season": 1,
+        "episode": 9,
+        "released": "2011-03-27",
+        "overview": "When Bob and Gene start watching Spaghetti Western films, they wind up alienating Louise. As Gene takes pointers from the films on how to deal with his archrival at school, Tina takes out her aggression and fights her way through a conflict-resolution program."
+      },
+      {
+        "id": "tvmaze:7424",
+        "title": "Burger War",
+        "season": 1,
+        "episode": 10,
+        "released": "2011-04-10",
+        "overview": "When Bob's eccentric landlord, Mr. Fischoeder (guest voice Kline), pays the family a visit, he informs Bob that his rival across the street, Jimmy Pesto of Jimmy Pesto's Pizzeria, wants to take over Bob's lease so that he can expand his gift shop. With little time and not enough money, the Belcher family must cook up some business or luck to save the restaurant."
+      },
+      {
+        "id": "tvmaze:7425",
+        "title": "Weekend at Mort's",
+        "season": 1,
+        "episode": 11,
+        "released": "2011-05-08",
+        "overview": "Bob and his family are forced to spend the weekend at Mort the Mortician's (guest voice Kindler) while the restaurant is being de-molded. Linda and Bob double date with Mort and a female mortician he meets online (guest voice Sedaris) while Tina babysits Gene and Louise in Mort's crematorium."
+      },
+      {
+        "id": "tvmaze:7426",
+        "title": "Lobsterfest",
+        "season": 1,
+        "episode": 12,
+        "released": "2011-05-15",
+        "overview": "After the town's annual Lobsterfest is cancelled by a storm, Bob defiantly opens his doors for a festive celebration. When he wakes the next morning, Bob finds the restaurant in disarray and that the town has spurned him, but Bob won't let that deter him from further involvement in the celebratory weekend."
+      },
+      {
+        "id": "tvmaze:7427",
+        "title": "Torpedo",
+        "season": 1,
+        "episode": 13,
+        "released": "2011-05-22",
+        "overview": "Bob's hero, a washed-up baseball player named Torpedo Jones (guest voice Garant), starts pitching for the local minor league team. Torpedo befriends Bob, but the dark underbelly of minor league baseball threatens to corrupt the Belchers."
+      },
+      {
+        "id": "tvmaze:7428",
+        "title": "The Belchies",
+        "season": 2,
+        "episode": 1,
+        "released": "2012-03-11",
+        "overview": "The kids hunt for treasure in an abandoned taffy factory and Bob and Linda must find them before the factory's scheduled demolition."
+      },
+      {
+        "id": "tvmaze:7429",
+        "title": "Bob Day Afternoon",
+        "season": 2,
+        "episode": 2,
+        "released": "2012-03-18",
+        "overview": "A bank robber (guest star Hader) holds up a bank across the street from Bob's Burgers. When the robbery goes awry, Bob finds himself at the center of a hostage crisis."
+      },
+      {
+        "id": "tvmaze:7430",
+        "title": "Synchronized Swimming",
+        "season": 2,
+        "episode": 3,
+        "released": "2012-03-25",
+        "overview": "The kids con their way out of gym class with a bogus synchronized swimming independent study. Meanwhile, Bob welcomes a new soft serve ice cream machine to the restaurant."
+      },
+      {
+        "id": "tvmaze:7431",
+        "title": "Burgerboss",
+        "season": 2,
+        "episode": 4,
+        "released": "2012-04-01",
+        "overview": "Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes \"BOB SUX\" on the leader board."
+      },
+      {
+        "id": "tvmaze:7432",
+        "title": "Food Truckin'",
+        "season": 2,
+        "episode": 5,
+        "released": "2012-04-15",
+        "overview": "Bob's family persuades him to buy a food truck and compete with the ones stealing his customers right outside the restaurant. When the Belchers bring their food truck to the \"Lolla-Pa-Foods-A-Festival,\" the Belcher kids' mischief causes the foodies and other truck owners to riot against them."
+      },
+      {
+        "id": "tvmaze:7433",
+        "title": "Dr. Yap",
+        "season": 2,
+        "episode": 6,
+        "released": "2012-04-29",
+        "overview": "Linda's sister Gayle joins the family ski trip. But before she does so, she picks up a heavily medicated Bob from Dr. Yap, the family dentist. When Bob mistakes Gayle for Linda and kisses her, Gayle falls for Bob. So Bob turns to Dr. Yap for help."
+      },
+      {
+        "id": "tvmaze:7434",
+        "title": "Moody Foodie",
+        "season": 2,
+        "episode": 7,
+        "released": "2012-05-06",
+        "overview": "When the restaurant receives a bad review from a food critic, the Belchers fear that the negative press will keep customers away. When Bob shows up at the critic's house for a redo, his plan quickly spirals out of control when the kids and his fellow restaurant owners show up to support him."
+      },
+      {
+        "id": "tvmaze:7435",
+        "title": "Bad Tina",
+        "season": 2,
+        "episode": 8,
+        "released": "2012-05-13",
+        "overview": "Tina starts hanging out with bad girl Tammy (guest star Jenny Slate, \"Saturday Night Live\") in an effort to get closer to Jimmy Junior (H. Jon Benjamin)."
+      },
+      {
+        "id": "tvmaze:7436",
+        "title": "Beefsquatch",
+        "season": 2,
+        "episode": 9,
+        "released": "2012-05-20",
+        "overview": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a sasquatch mask."
+      },
+      {
+        "id": "tvmaze:7437",
+        "title": "Ear-sy Rider",
+        "season": 3,
+        "episode": 1,
+        "released": "2012-09-30",
+        "overview": "A biker gang hangs out at Bob's Burgers as they mourn the loss of their beloved leader \"Horny Dave.\" Meanwhile, Louise (Kristen Schaal) has an identity crisis when her bunny ears are stolen and everyone - including the biker gang - rallies around her."
+      },
+      {
+        "id": "tvmaze:7438",
+        "title": "Full Bars",
+        "season": 3,
+        "episode": 2,
+        "released": "2012-10-07",
+        "overview": "In BOB'S BURGERS' first-ever Halloween-themed episode, the Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual \"Black and Orange\" party."
+      },
+      {
+        "id": "tvmaze:7439",
+        "title": "Bob Fires the Kids",
+        "season": 3,
+        "episode": 3,
+        "released": "2012-11-04",
+        "overview": "Bob worries he's depriving his children of their summer vacation by making them work at the restaurant, so he fires them. However, the kids become so bored with their newfound freedom that they secretly get hired by a pair of married hippie farmers (guest voices and real-life spouses Nick Offerman and Megan Mullally), who hire the Belcher kids as \"weed pickers.\" Meanwhile, Bob hires Mickey the bank robber to help out at the restaurant, but soon regrets his decision."
+      },
+      {
+        "id": "tvmaze:7440",
+        "title": "Mutiny on the Windbreaker",
+        "season": 3,
+        "episode": 4,
+        "released": "2012-11-11",
+        "overview": "When Bob is invited to be a private chef on a docked cruise ship, he brings the family along to witness his skills outside of the restaurant. However, Bob's big day goes awry when the ship departs with the Belchers on board, and there is no one tending to the restaurant."
+      },
+      {
+        "id": "tvmaze:7441",
+        "title": "An Indecent Thanksgiving Proposal",
+        "season": 3,
+        "episode": 5,
+        "released": "2012-11-18",
+        "overview": "In the series' first-ever Thanksgiving episode, it's Bob's favorite holiday of all time, and this year he is determined to make it the most memorable Thanksgiving ever. However, the plans change when Mr. Fischoeder (guest star Kevin Kline) needs to hire Bob as his chef, and Linda and the kids as his family to stage the perfect Thanksgiving dinner and make a former flame jealous."
+      },
+      {
+        "id": "tvmaze:7442",
+        "title": "The Deepening",
+        "season": 3,
+        "episode": 6,
+        "released": "2012-11-25",
+        "overview": "In an homage to \"Jaws,\" Bob's landlord and pier proprietor Mr. Fischoeder (guest voice Kevin Kline) buys a mechanical shark as a pier attraction, but when it turns wild and starts terrorizing the town, it's up to Bob and the family to stop it."
+      },
+      {
+        "id": "tvmaze:7443",
+        "title": "Tina-Rannosaurus Wrecks",
+        "season": 3,
+        "episode": 7,
+        "released": "2012-12-02",
+        "overview": "After Tina accidentally wrecks the car, and gets the whole family involved with a slimy insurance agent (guest voice Bob Odenkirk), she worries that she's a \"jinx\"."
+      },
+      {
+        "id": "tvmaze:7444",
+        "title": "The Unbearable Like-Likeness of Gene",
+        "season": 3,
+        "episode": 8,
+        "released": "2012-12-09",
+        "overview": "After Gene gets suckered into dating Courtney (guest voice David Wain), his first girlfriend ever, the entire family wants him to break up with her when they decide she's totally annoying. But when Gene finally musters up the courage to end things, he falters after discovering that Courtney's father (guest voice John Michael Higgins ) writes jingles and could possibly launch his music career."
+      },
+      {
+        "id": "tvmaze:7445",
+        "title": "God Rest Ye Merry Gentle-Mannequins",
+        "season": 3,
+        "episode": 9,
+        "released": "2012-12-16",
+        "overview": "Bob inherits a storage unit, and the whole family imagines it's filled with treasures. Instead, they find a man named Chet (guest star Zach Galifianakis) living inside. Linda, feeling the holiday spirit, persuades Bob to invite Chet to stay at the restaurant. It's discovered that this stranger, who claims he was once a mannequin, has a gift for intricate and living window displays. With the restaurant decked out in holiday cheer, the Christmas spirit is in the air."
+      },
+      {
+        "id": "tvmaze:7446",
+        "title": "Mother Daughter Laser Razor",
+        "season": 3,
+        "episode": 10,
+        "released": "2013-01-06",
+        "overview": "Linda frets that Louise doesn't like her and, to Louise's chagrin, forces her to attend a Mother-Daughter seminar to beef up their relationship. Meanwhile, with Linda gone, Tina asks Bob to indulge in his feminine side and teach her to shave her legs."
+      },
+      {
+        "id": "tvmaze:7447",
+        "title": "Nude Beach",
+        "season": 3,
+        "episode": 11,
+        "released": "2013-01-13",
+        "overview": "Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy (guest voice Fred Armisen), seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares.. well, everything else) to find Hugo and bring him back."
+      },
+      {
+        "id": "tvmaze:7448",
+        "title": "Broadcast Wagstaff School News",
+        "season": 3,
+        "episode": 12,
+        "released": "2013-01-27",
+        "overview": "There is a \"Mad Pooper\" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the \"bottom\" of the situation."
+      },
+      {
+        "id": "tvmaze:7449",
+        "title": "My Fuzzy Valentine",
+        "season": 3,
+        "episode": 13,
+        "released": "2013-02-10",
+        "overview": "When a heart-shaped pancake simply doesn't cut it, the kids convince Bob to let them skip school in order to help him find a Valentine's Day gift that will \"wow\" Linda. Meanwhile, in the spirit of the romantic holiday, Linda sets up a speed-dating event at the restaurant that doesn't go exactly as planned."
+      },
+      {
+        "id": "tvmaze:7450",
+        "title": "Lindapendant Woman",
+        "season": 3,
+        "episode": 14,
+        "released": "2013-02-17",
+        "overview": "Linda thinks Bob doesn't appreciate her and quits the restaurant to work at a grocery store. In her absence, Bob tries - and fails - to run the place on his own and the kids are stuck in the middle of the marital mayhem. Meanwhile, things get romantic for Tina when she meets her potential soul mate while restocking the milk fridge."
+      },
+      {
+        "id": "tvmaze:7451",
+        "title": "O.T. The Outside Toilet",
+        "season": 3,
+        "episode": 15,
+        "released": "2013-03-03",
+        "overview": "In an homage to \"E.T. the Extra-Terrestrial,\" Gene finds an expensive talking toilet and befriends it. Together with Louise and Tina, the Belcher kids help the toilet hide from the evil toilet hunter."
+      },
+      {
+        "id": "tvmaze:7452",
+        "title": "Topsy",
+        "season": 3,
+        "episode": 16,
+        "released": "2013-03-10",
+        "overview": "Sparks fly when Louise is determined to take down her Thomas Edison-obsessed science teacher by recreating a famous experiment where Thomas Edison (played by Gene) electrocutes an elephant named Topsy (played by Tina)."
+      },
+      {
+        "id": "tvmaze:7453",
+        "title": "Two for Tina",
+        "season": 3,
+        "episode": 17,
+        "released": "2013-03-17",
+        "overview": "Jimmy Jr. is threatened when Tina starts dating a ballet dancer named Josh and the two boys get into an epic dance-off for her heart."
+      },
+      {
+        "id": "tvmaze:7454",
+        "title": "It Snakes a Village",
+        "season": 3,
+        "episode": 18,
+        "released": "2013-03-24",
+        "overview": "The Belcher family road-trips down to Florida to visit Linda's parents who live in a senior home that - to Linda's complete horror - is full of senior swingers! Plus, to keep themselves entertained, Tina, Gene and Louise go on a hunt for a mysterious python that allegedly ate one of the residents' dogs."
+      },
+      {
+        "id": "tvmaze:7455",
+        "title": "Family Fracas",
+        "season": 3,
+        "episode": 19,
+        "released": "2013-04-14",
+        "overview": "After the family car breaks down and ruins their plans for a movie night out, the Belchers find themselves competing on the TV game show \"Family Fracas!\" To the dismay of the program's host, they keep winning and coming back each night - that is until their lucky streak comes to a suspicious end."
+      },
+      {
+        "id": "tvmaze:7456",
+        "title": "The Kids Run the Restaurant",
+        "season": 3,
+        "episode": 20,
+        "released": "2013-04-21",
+        "overview": "After Bob cuts his finger and faints at the sight of his own blood, Linda brings him to the hospital and leaves the kids home alone. Not ones to waste a golden opportunity, Tina, Gene and Louise transform the basement of the restaurant into a makeshift casino. But they get more than they gamble for when landlord Mr. Fischoeder (guest voice Kevin Kline) stops by and catches them in action."
+      },
+      {
+        "id": "tvmaze:7457",
+        "title": "Boyz 4 Now",
+        "season": 3,
+        "episode": 21,
+        "released": "2013-04-28",
+        "overview": "While accompanying Tina to a \"Boyz 4 Now\" concert, Louise develops a crush on one of the lead singers, Boo Boo - and is in disbelief that she actually likes a boy! Meanwhile, Gene gets creative - and slightly offensive - in a table-setting competition."
+      },
+      {
+        "id": "tvmaze:7458",
+        "title": "Carpe Museum",
+        "season": 3,
+        "episode": 22,
+        "released": "2013-05-05",
+        "overview": "While acting as a parent chaperone on the school's trip to the museum, Bob has a father-daughter bonding moment with Louise. Meanwhile, Gene and his friends are on a hunt to find exhibits that feature the female anatomy. Also, Tina questions her dorkiness and, on the steps of the museum, Linda lends her unique chanting abilities to striking museum workers."
+      },
+      {
+        "id": "tvmaze:7459",
+        "title": "The Unnatural",
+        "season": 3,
+        "episode": 23,
+        "released": "2013-05-12",
+        "overview": "After Gene loses his confidence at his baseball game, Linda decides to sign him up for baseball camp. The only problem? She needs money to pay for it! Meanwhile, Tina discovers her love for espresso and becomes a caffeine addict."
+      },
+      {
+        "id": "tvmaze:7460",
+        "title": "A River Runs Through Bob",
+        "season": 4,
+        "episode": 1,
+        "released": "2013-09-29",
+        "overview": "Bob, Linda and the kids go on a camping adventure and face the perils of nature...and Bob's intestines. Braving wild river rapids, eager squirrels and parent/child separation, the Belchers prove they are worth their mettle."
+      },
+      {
+        "id": "tvmaze:7461",
+        "title": "Fort Night",
+        "season": 4,
+        "episode": 2,
+        "released": "2013-10-06",
+        "overview": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse, when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie,."
+      },
+      {
+        "id": "tvmaze:7462",
+        "title": "Seaplane!",
+        "season": 4,
+        "episode": 3,
+        "released": "2013-11-03",
+        "overview": "Linda is bored by Bob's tired attempts at Date Night and decides to sign up for flying lessons. When Bob won't join her, she becomes the target of \"Upskirt Kurt\", the most charming pilot in the air."
+      },
+      {
+        "id": "tvmaze:7463",
+        "title": "My Big Fat Greek Bob",
+        "season": 4,
+        "episode": 4,
+        "released": "2013-11-10",
+        "overview": "Bob scores a temporary gig as a cook at an \"underdog\" frat house and discovers that he fits right in! Hijinks ensue as Bob and the rest of the fraternity brothers find themselves in the middle of a collegiate prank war that involves the house's most famous alumnus, Dr. Yap. Meanwhile, the kids are on a mission to invade the frat house and get in on the action."
+      },
+      {
+        "id": "tvmaze:7464",
+        "title": "Turkey in a Can",
+        "season": 4,
+        "episode": 5,
+        "released": "2013-11-24",
+        "overview": "Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage."
+      },
+      {
+        "id": "tvmaze:7465",
+        "title": "Purple Rain-Union",
+        "season": 4,
+        "episode": 6,
+        "released": "2013-12-01",
+        "overview": "In an attempt to redeem a failed talent show performance from her past, Linda reunites with her former band mates from, the Ta-Ta's, to perform at their high school reunion. At the event, a former female classmate attempts to impress Bob, her high school crush, who, in turn, becomes very self-conscious about the unwanted attention."
+      },
+      {
+        "id": "tvmaze:7466",
+        "title": "Bob and Deliver",
+        "season": 4,
+        "episode": 7,
+        "released": "2013-12-08",
+        "overview": "To Tina's delight, Bob becomes the substitute \"Home Ec\" teacher at her school and ends up creating a full-scale restaurant in the classroom. However, her excitement is short-lived as Bob's position causes father/daughter friction. But when Gene and Louise go to work for Bob's \"school\" restaurant, Linda must fend for herself at the family's \"other\" restaurant ."
+      },
+      {
+        "id": "tvmaze:7467",
+        "title": "Christmas in the Car",
+        "season": 4,
+        "episode": 8,
+        "released": "2013-12-15",
+        "overview": "After Linda accidentally kills the family tree, the Belchers must go out on Christmas day to find a new one. But when Bob cuts off a giant candy cane truck, they are forced to outrun the madman driver and spend the entire holiday together in the car. Back at the Belcher home, Bob's friend, Teddy, accidentally gets stuck in the kids' Santa trap."
+      },
+      {
+        "id": "tvmaze:7468",
+        "title": "Slumber Party",
+        "season": 4,
+        "episode": 9,
+        "released": "2014-01-05",
+        "overview": "Linda plans a surprise slumber party much to Tina's dismay and Tina does everything she can to get the girls to go home. Linda becomes infatuated with a family of racoon's that are getting into the restaurants dumpster."
+      },
+      {
+        "id": "tvmaze:7469",
+        "title": "Presto Tina-o",
+        "season": 4,
+        "episode": 10,
+        "released": "2014-01-12",
+        "overview": "Tina becomes a magician's assistant in order to get closer to Jimmy Jr., while Bob becomes the victim of a magician's \"curse\"."
+      },
+      {
+        "id": "tvmaze:7470",
+        "title": "Easy Commercial, Easy Gommercial",
+        "season": 4,
+        "episode": 11,
+        "released": "2014-01-26",
+        "overview": "To compete with fellow \"restaurateur,\" Jimmy Pesto, and his blowout Super Bowl event, Bob is determined to create a Bob's Burgers commercial to air during the \"big game.\" In an effort to outshine Pesto, the Belchers recruit Randy, a documentarian, to assist with the filmmaking and hire on former pro football star Connie Frye to be the celebrity endorser."
+      },
+      {
+        "id": "tvmaze:7471",
+        "title": "The Frond Files",
+        "season": 4,
+        "episode": 12,
+        "released": "2014-03-09",
+        "overview": "Bob and Linda visit school and learn that their kids' essays about their fantasy version of Wagstaff are \"too creative\" and \"offensive.\" Eugene transforms the school into a \"Fart School for the Gifted\" ; Tina, to her delight, depicts a world where she is romanced by countless zombie teenage boys; and Louise creates a school where she takes down a robotic Mr. Frond from the future."
+      },
+      {
+        "id": "tvmaze:7472",
+        "title": "Mazel Tina",
+        "season": 4,
+        "episode": 13,
+        "released": "2014-03-16",
+        "overview": "Tina isn't invited to her classmate Tammy's Bat Mitzvah, but ends up at the party anyway, because Bob and the family were hired to cater. Despite the invite snub, Tina is excited to scope out the Bfos. Things go awry and Louise and Tammy end up missing, so, to her total delight, Tina is left center stage."
+      },
+      {
+        "id": "tvmaze:7473",
+        "title": "Uncle Teddy",
+        "season": 4,
+        "episode": 14,
+        "released": "2014-03-23",
+        "overview": "When Bob and Linda leave town for a romantic getaway, they ask Teddy to babysit Tina, Gene and Louise. While the 'rents are away, Teddy is eager to earn the coveted title of \"Uncle Teddy\" and does so by putting Tina's crush in his rightful place after discovering that he was just using her for - gasp - free burgers! Hijinks ensue."
+      },
+      {
+        "id": "tvmaze:7474",
+        "title": "The Kids Rob a Train",
+        "season": 4,
+        "episode": 15,
+        "released": "2014-03-30",
+        "overview": "The Belchers take a trip on a train and, to their dismay, Louise, Gene and Tina are seated in a separate train car. Never one to follow the rules, Louise ropes the children into helping her on her mission to steal the vast chocolate supply from the restaurant car! Meanwhile, Bob and Linda indulge in some wine tasting and have a \"taste-off\" with a snobby couple."
+      },
+      {
+        "id": "tvmaze:7475",
+        "title": "I Get Psy-chic Out of You",
+        "season": 4,
+        "episode": 16,
+        "released": "2014-04-06",
+        "overview": "After predicting that a telemarketer is calling the restaurant when the phone rings, Linda and the kids believe that she is a psychic. Needless to say her \"predictions\" irk Bob and spell out hilarious happenings."
+      },
+      {
+        "id": "tvmaze:7476",
+        "title": "The Equestranauts",
+        "season": 4,
+        "episode": 17,
+        "released": "2014-04-13",
+        "overview": "In an homage to the \"Bronies\" subculture, Tina attends her first Equestra-con, a convention based on her favorite animated pony show, \"The Equestranauts.\" To her surprise, she finds that the show's fans are middle-aged men. When a powerful super-fan tricks Tina out of her rare toy pony, it's up to Bob to go undercover to get it back."
+      },
+      {
+        "id": "tvmaze:7477",
+        "title": "Ambergris",
+        "season": 4,
+        "episode": 18,
+        "released": "2014-04-20",
+        "overview": "Gene, Louise, and Tina discover a seaweed-covered object at the beach that turns out to be a large hunk of Ambergris - an extremely valuable, but illegal, by-product of whale poop that is used in high-end perfumes. But Louise tries to cheat Gene and Tina out of the profit she hopes to make by selling the treasure on the black market. Meanwhile, Bob and Linda deal with their psychologically unstable landlord who is building them a new bathroom."
+      },
+      {
+        "id": "tvmaze:7478",
+        "title": "The Kids Run Away",
+        "season": 4,
+        "episode": 19,
+        "released": "2014-04-27",
+        "overview": "Upon learning that she has a cavity and needs a filling, Louise runs away from the dentist's office and seeks refuge at Aunt Gail's. When Louise refuses to go home, Linda sends Tina and Gene to join her and bets her that she won't last the weekend with Aunt Gail's \"craziness\"."
+      },
+      {
+        "id": "tvmaze:7479",
+        "title": "Gene It On",
+        "season": 4,
+        "episode": 20,
+        "released": "2014-05-04",
+        "overview": "Tina decides to try out for the cheerleading squad, but it's actually Gene who gets noticed in the crowd for his spirit and cheering ability. Meanwhile, during her cheer audition, Tina falls and bites her tongue, leaving her unable to speak - and a mischievous Louise steps up to be her translator."
+      },
+      {
+        "id": "tvmaze:7480",
+        "title": "Wharf Horse (or How Bob Saves/Destroys the Town - Part I)",
+        "season": 4,
+        "episode": 21,
+        "released": "2014-05-11",
+        "overview": "Motivated by the promise of a new beachside burger joint, Bob conspires with Felix to convince Mr. Fischoeder to sell Wonder Wharf. Meanwhile, Tina protests the destruction of the wharf's carousel by chaining herself to it."
+      },
+      {
+        "id": "tvmaze:7481",
+        "title": "World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town -- Part II)",
+        "season": 4,
+        "episode": 22,
+        "released": "2014-05-18",
+        "overview": "It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger."
+      },
+      {
+        "id": "tvmaze:7482",
+        "title": "Work Hard or Die Trying, Girl",
+        "season": 5,
+        "episode": 1,
+        "released": "2014-10-05",
+        "overview": "When Gene's \"Die Hard\"-inspired musical doesn't get picked for the school's fall performance, he decides to stage an underground show with the help of Louise. But Wagstaff Middle School families begin to feud when they learn that Eugene has planned his show on the very same night as Courtney's school-sanctioned \"Working Girl\"-inspired musical featuring Tina."
+      },
+      {
+        "id": "tvmaze:15842",
+        "title": "Tina and the Real Ghost",
+        "season": 5,
+        "episode": 2,
+        "released": "2014-11-02",
+        "overview": "Tina begins an out-of-this-world romance with a ghost that is believed to be living in the Belcher's basement."
+      },
+      {
+        "id": "tvmaze:45308",
+        "title": "Friends with Burger-fits",
+        "season": 5,
+        "episode": 3,
+        "released": "2014-11-16",
+        "overview": "Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. Meanwhile, the kids make an ice rink in the freezer, with Linda running their underground ice wrestling league."
+      },
+      {
+        "id": "tvmaze:39983",
+        "title": "Dawn of the Peck",
+        "season": 5,
+        "episode": 4,
+        "released": "2014-11-23",
+        "overview": "While Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the First Annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem."
+      },
+      {
+        "id": "tvmaze:45309",
+        "title": "Best Burger",
+        "season": 5,
+        "episode": 5,
+        "released": "2014-11-30",
+        "overview": "Bob enters a burger-tasting contest, only to discover that his distinguishing ingredient is missing! To help out their dad, the kids go on a mission to find the ever-so-important black garlic."
+      },
+      {
+        "id": "tvmaze:45310",
+        "title": "Father of the Bob",
+        "season": 5,
+        "episode": 6,
+        "released": "2014-12-07",
+        "overview": "At Bob's father's Christmas party, Bob and \"Big Bob\" rehash an old argument and try to outdo each other in the kitchen. Meanwhile, the kids compete to find the best gift for their dad."
+      },
+      {
+        "id": "tvmaze:45836",
+        "title": "Tina Tailor Soldier Spy",
+        "season": 5,
+        "episode": 7,
+        "released": "2014-12-14",
+        "overview": "Tina goes undercover in her old Thundergirls troop to find the mole who is giving away their cookie secrets. Meanwhile, Linda dyes her hair blonde."
+      },
+      {
+        "id": "tvmaze:58251",
+        "title": "Midday Run",
+        "season": 5,
+        "episode": 8,
+        "released": "2015-01-04",
+        "overview": "When Tina is up for a big hall monitor promotion, she is determined to do whatever it takes to nab the powerful job. So, she enlists the help of Gene and Louise. Meanwhile, back at the restaurant, Linda gets artsy and begins to decorate the walls with customer artwork...on napkins."
+      },
+      {
+        "id": "tvmaze:92017",
+        "title": "Speakeasy Rider",
+        "season": 5,
+        "episode": 9,
+        "released": "2015-01-11",
+        "overview": "Tina, Gene and Louise are ready to put the pedal to the metal when they join a go-kart league. Meanwhile, back at the restaurant Bob and Teddy partner up to serve Teddy's home-brewed beer on the sly."
+      },
+      {
+        "id": "tvmaze:108511",
+        "title": "Late Afternoon in the Garden of Bob and Louise",
+        "season": 5,
+        "episode": 10,
+        "released": "2015-01-25",
+        "overview": "In order to become an accepted member of the Community Garden, Bob must make a deal that results in giving Louise's enemy a job at the restaurant. Father and daughter are at odds and a choice must be made."
+      },
+      {
+        "id": "tvmaze:117729",
+        "title": "Can't Buy Me Math",
+        "season": 5,
+        "episode": 11,
+        "released": "2015-02-08",
+        "overview": "Tina teams up with Darryl to win the Cupid's Couple contest at the school dance. Meanwhile, Linda plans a full week of ambitious Valentine's Day activities for her and Bob."
+      },
+      {
+        "id": "tvmaze:122952",
+        "title": "The Millie-Churian Candidate",
+        "season": 5,
+        "episode": 12,
+        "released": "2015-02-15",
+        "overview": "Tina and Louise volunteer to run Jimmy Junior's class president campaign in order to keep Millie from winning, and ruining the school. Meanwhile, Bob becomes obsessed with a knife after talking himself into buying it for $300."
+      },
+      {
+        "id": "tvmaze:128995",
+        "title": "The Gayle Tales",
+        "season": 5,
+        "episode": 13,
+        "released": "2015-03-01",
+        "overview": "Linda's sister, Gayle, arrives at Bob's Burgers in tears because her date for the evening was cancelled and she had theater tickets!!! Desperate to get out of the house after being grounded, the kids compete to be Aunt Gayle's \"date\" for the evening via an essay contest."
+      },
+      {
+        "id": "tvmaze:139702",
+        "title": "L'il Hard Dad",
+        "season": 5,
+        "episode": 14,
+        "released": "2015-03-08",
+        "overview": "Bob becomes obsessed with his new automatic helicopter. When it falls apart for no reason, he enters into a battle with the manufacturer in order to receive a refund. Gene assists Bob in his quest, but things quickly get out of hand and end in a crazy helicopter battle. Meanwhile, Louise and Linda help Tina prepare for her oral book report."
+      },
+      {
+        "id": "tvmaze:141539",
+        "title": "Adventures in Chinchilla-sitting",
+        "season": 5,
+        "episode": 15,
+        "released": "2015-03-15",
+        "overview": "Bob and Linda head out on the town for a date - but to Linda's dismay, Bob's idea of romance proves \"trivial.\" Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door."
+      },
+      {
+        "id": "tvmaze:142183",
+        "title": "The Runaway Club",
+        "season": 5,
+        "episode": 16,
+        "released": "2015-03-22",
+        "overview": "The kids are sentenced to Saturday detention and will do anything it takes to leave early, so they can attend the Cotton Candy Festival. Meanwhile, Bob and Linda believe they are being scammed by a young girl at the restaurant."
+      },
+      {
+        "id": "tvmaze:151672",
+        "title": "Itty Bitty Ditty Committee",
+        "season": 5,
+        "episode": 17,
+        "released": "2015-04-26",
+        "overview": "Gene starts a band with Tina, Louise, Rudy, Peter and Daryl, only to be kicked out and left on his own. After declaring that he will never play his Casio again, Tina and Louise join forces to help Gene rediscover his love of music. Meanwhile, Linda deals with a horrible armpit rash that has everyone disgusted!"
+      },
+      {
+        "id": "tvmaze:151673",
+        "title": "Eat, Spray, Linda",
+        "season": 5,
+        "episode": 18,
+        "released": "2015-05-03",
+        "overview": "It's Linda's birthday and Bob needs more time to plan her birthday surprise. But when he sends her out of the house as a distraction, she goes missing! Mayhem ensues as the Belchers must work together to find Linda."
+      },
+      {
+        "id": "tvmaze:151674",
+        "title": "Housetrap",
+        "season": 5,
+        "episode": 19,
+        "released": "2015-05-10",
+        "overview": "In true Belcher fashion, the family gets stuck in a terrible storm while up in Craggy Neck. The storm is the least of their worries, however, when they are forced to take shelter with the mysterious owner of a large beach home."
+      },
+      {
+        "id": "tvmaze:151675",
+        "title": "Hawk & Chick",
+        "season": 5,
+        "episode": 20,
+        "released": "2015-05-17",
+        "overview": "Bob and Louise are thrilled when they meet Hawk, the star of their favorite samurai vs. monster movie series, and decide to engineer a father-daughter reunion."
+      },
+      {
+        "id": "tvmaze:151676",
+        "title": "The Oeder Games",
+        "season": 5,
+        "episode": 21,
+        "released": "2015-05-17",
+        "overview": "With the threat of a rent increase on Ocean Avenue, Bob and the other tenants organize a rent strike only to discover they will have to compete with each other on the grounds of Mr. Fischoeder's estate in order to keep their rents reasonable."
+      },
+      {
+        "id": "tvmaze:182393",
+        "title": "Sliding Bobs",
+        "season": 6,
+        "episode": 1,
+        "released": "2015-09-27",
+        "overview": "Bob notices that he has started to lose his hair. In a wave of nostalgia, Linda reminisces about Bob's mustache and how it made her fall for him years ago. Meanwhile, the kids tell their own versions of the story of how their parents met."
+      },
+      {
+        "id": "tvmaze:236850",
+        "title": "The Land Ship",
+        "season": 6,
+        "episode": 2,
+        "released": "2015-10-11",
+        "overview": "The upcoming Land Ship parade could mean increased business for Bob, until he learns that two port-o-potties will be placed in front the restaurant. Meanwhile, Tina learns from her friends that she's boring, so she joins up with Jordan who has been vandalizing the school with graffiti. But when Jordan wants to spray graffiti on the Land Ship, Tina must decide between ruining the parade or disappointing her new crush."
+      },
+      {
+        "id": "tvmaze:277903",
+        "title": "The Hauntening",
+        "season": 6,
+        "episode": 3,
+        "released": "2015-10-18",
+        "overview": "The Belchers are ready for an amazing Halloween! Louise reveals that she has never been scared before and the family sets out to visit a spooky haunted house. When trouble ensues following their visit, the Belchers find themselves in a zany situation more frightening than they bargained for!"
+      },
+      {
+        "id": "tvmaze:377752",
+        "title": "Gayle Makin' Bob Sled",
+        "season": 6,
+        "episode": 4,
+        "released": "2015-11-08",
+        "overview": "When Gayle is injured, Linda sends Bob off to pick her up, so that she doesn't miss out on Thanksgiving festivities. But an unexpected snowstorm derails his trip home, and his epic plan to prepare the turkey is foiled. Bob then must put the fate of the turkey and the Belcher Thanksgiving in Linda's hands and spend time bonding with his sister-in-law."
+      },
+      {
+        "id": "tvmaze:385064",
+        "title": "Nice-Capades",
+        "season": 6,
+        "episode": 5,
+        "released": "2015-11-15",
+        "overview": "When a grumpy mall Santa threatens the kids with the dreaded Naughty List, Gene, Tina and Louise decide to put on a musical performance spectacular to earn their spot on the Nice List. Can they change Santa's mind in time to save their Christmas? Find out."
+      },
+      {
+        "id": "tvmaze:500642",
+        "title": "The Cook, the Steve, the Gayle, & Her Lover",
+        "season": 6,
+        "episode": 6,
+        "released": "2016-01-17",
+        "overview": "When Bob throws a dinner party to bond with his new friend, Gayle uses the opportunity to introduce the family to her new love interest. Little does she know, Louise has a long-standing feud with Gayle's boyfriend and her niece will stop at nothing to break them apart. Calamity ensues as Bob attempts to impress his new buddy and the kids take action."
+      },
+      {
+        "id": "tvmaze:573773",
+        "title": "The Gene and Courtney Show",
+        "season": 6,
+        "episode": 7,
+        "released": "2016-02-14",
+        "overview": "Gene and Courtney get their big break when they are asked to be the new hosts of the morning announcements, but their romantic history threatens to get in the way. Meanwhile, Tina's attempt to play Cupid goes tragically awry when she volunteers to spear-head the Valentine's Day carnation fundraiser."
+      },
+      {
+        "id": "tvmaze:583079",
+        "title": "Sexy Dance Healing",
+        "season": 6,
+        "episode": 8,
+        "released": "2016-02-21",
+        "overview": "After Bob slips on the sidewalk, he is forced to take legal action in order to pay for surgery. In a turn of events, Bob finds himself under the care of Jairo, who promises to help him heal without a doctor. Meanwhile, the kids create a fake law firm to settle their personal discrepancies."
+      },
+      {
+        "id": "tvmaze:583081",
+        "title": "Sacred Couch",
+        "season": 6,
+        "episode": 9,
+        "released": "2016-03-06",
+        "overview": "After a family vote rules against buying a new couch during TV Night, Louise takes matters into her own hands. The Belchers take sides as they are forced to decide whether memories are enough to keep their family sofa. Will they take the Sofa Queen's advice and learn to love a new couch."
+      },
+      {
+        "id": "tvmaze:583080",
+        "title": "Lice Things Are Lice",
+        "season": 6,
+        "episode": 10,
+        "released": "2016-03-13",
+        "overview": "When Tina volunteers alongside Nurse Liz, she finds herself involved in the biggest scandal to hit Wagstaff: a lice infestation. Meanwhile, Bob makes improvements to the restaurant that end up driving customers away. Can the Belchers juggle both a crisis at the restaurant and lice."
+      },
+      {
+        "id": "tvmaze:638055",
+        "title": "House of 1000 Bounces",
+        "season": 6,
+        "episode": 11,
+        "released": "2016-04-03",
+        "overview": "When there is a bounce house crisis at Regular Sized Rudy's birthday party, the Belcher kids devise a scheme to save the day. Meanwhile, Bob deals with an unexpected guest at the restaurant and is forced to come to terms with a longstanding fear."
+      },
+      {
+        "id": "tvmaze:638056",
+        "title": "Stand by Gene",
+        "season": 6,
+        "episode": 12,
+        "released": "2016-04-03",
+        "overview": "When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant."
+      },
+      {
+        "id": "tvmaze:647340",
+        "title": "Wag the Hog",
+        "season": 6,
+        "episode": 13,
+        "released": "2016-04-10",
+        "overview": "When Bob's longtime friend, Critter, finds himself in jail for unpaid parking tickets, the Belchers decide to do what they can to help him out. Meanwhile, Linda takes on a babysitting job that becomes more work than she signed up for."
+      },
+      {
+        "id": "tvmaze:647341",
+        "title": "The Hormone-iums",
+        "season": 6,
+        "episode": 14,
+        "released": "2016-04-17",
+        "overview": "When Dottie Minerva comes down with a bad case of mono, Tina gets her shot as soloist of the Hormone-iums. But as she rehearses for the big assembly, Tina realizes that her role in the play could ruin her social status. Meanwhile, Linda strikes gold with a business plan that she thinks could make the Belchers rich."
+      },
+      {
+        "id": "tvmaze:647342",
+        "title": "Pro Tiki / Con Tiki",
+        "season": 6,
+        "episode": 15,
+        "released": "2016-04-24",
+        "overview": "When Bob's friend, Warren, comes to town, he makes an offer to invest in the restaurant. Bob is thrilled that it finally could get a much-needed makeover, until he learns that Warren has some strong interior design choices in mind. Meanwhile, Warren's visit means one of the kids must give up their bedroom."
+      },
+      {
+        "id": "tvmaze:647343",
+        "title": "Bye Bye Boo Boo",
+        "season": 6,
+        "episode": 16,
+        "released": "2016-05-08",
+        "overview": "When Louise hears that Boo Boo is leaving Boyz 4 Now, she enters a contest that could give Tina the chance to meet him. Meanwhile, Bob and Linda learn an interesting piece of history regarding the restaurant, which leads to tension between Bob and Jimmy Pesto."
+      },
+      {
+        "id": "tvmaze:647344",
+        "title": "The Horse Rider-er",
+        "season": 6,
+        "episode": 17,
+        "released": "2016-05-15",
+        "overview": "After finally convincing Bob and Linda to send her to horse camp, Tina realizes she has to part ways with Jericho, her imaginary horse. Meanwhile, Linda decides to create a restaurant camp in an attempt to make things fair for Gene and Louise."
+      },
+      {
+        "id": "tvmaze:647345",
+        "title": "Secret Admiral-irer",
+        "season": 6,
+        "episode": 18,
+        "released": "2016-05-22",
+        "overview": "Tina's ideas of love and romance are tested when she volunteers at a nursing home to earn her next Thunder Girls badge. Meanwhile, Bob makes new friends who lead him to make some questionable choices."
+      },
+      {
+        "id": "tvmaze:647346",
+        "title": "Glued: Where's My Bob",
+        "season": 6,
+        "episode": 19,
+        "released": "2016-05-22",
+        "overview": "In the 100th episode of BOB'S BURGERS, the kids' goop war lands Bob in a sticky situation. The prank happens to occur on the same day that Skip Marooch calls to tell Bob that a journalist is coming to the restaurant to write a profile and the whole town gets involved."
+      },
+      {
+        "id": "tvmaze:835551",
+        "title": "Flu-ouise",
+        "season": 7,
+        "episode": 1,
+        "released": "2016-09-25",
+        "overview": "When the youngest Belcher comes down with an epic case of the flu, Linda has a mishap as she tries to deliver Louise's favorite toy to her daughter's bedside. After Louise vows that she will never forgive her family for their mistake, she falls into a wild fever dream filled with familiar faces, zany musical numbers and a crazy adventure."
+      },
+      {
+        "id": "tvmaze:929913",
+        "title": "Sea Me Now",
+        "season": 7,
+        "episode": 2,
+        "released": "2016-10-09",
+        "overview": "Teddy organizes a day trip on his newly refurbished boat in an effort to impress his ex-wife, Denise. Meanwhile, Tina attempts to show that she is responsible enough for a cell phone by taking care of Bob's prized eraser from the restaurant. Can both Teddy and Tina prove themselves?"
+      },
+      {
+        "id": "tvmaze:929914",
+        "title": "Teen-a-Witch",
+        "season": 7,
+        "episode": 3,
+        "released": "2016-10-23",
+        "overview": "With Halloween quickly approaching, Tina reveals her brilliant idea that will finally win her first place in the annual costume contest. When Tammy steals her idea, Tina is forced to seek the help of Mr. Ambrose, who leads her to alternate and other-worldly methods of winning. Meanwhile, Bob is on a mission to figure out who is stealing his perfectly crafted pumpkins."
+      },
+      {
+        "id": "tvmaze:929915",
+        "title": "They Serve Horses, Don't They?",
+        "season": 7,
+        "episode": 4,
+        "released": "2016-11-06",
+        "overview": "After a tip from Jimmy Pesto, Bob secures a new meat provider who claims to save clients money on every order. The Belchers quickly realize that the situation is too good to be true, as they find themselves involved in a full-blown investigation, led by Hugo and Ron. Will Bob crack under the pressure or will he lead the investigators to a huge victory?"
+      },
+      {
+        "id": "tvmaze:974910",
+        "title": "Large Brother, Where Fart Thou?",
+        "season": 7,
+        "episode": 5,
+        "released": "2016-11-20",
+        "overview": "When Tina has a mishap that lands her in detention, Bob and Linda don't have a babysitter for their other kids, forcing them to let Gene and Louise stay at home alone. With the house to themselves, the younger Belchers find themselves in a sticky situation, while Bob and Linda get into surprising trouble with their accountant."
+      },
+      {
+        "id": "tvmaze:974911",
+        "title": "The Quirk-ducers",
+        "season": 7,
+        "episode": 6,
+        "released": "2016-11-20",
+        "overview": "When Mr. Frond's (guest voice David Herman) annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend. Unknowingly, Tina provides her holiday fan fiction as the subject matter and the kids get to work on their own version of the play. Meanwhile, Linda finds a potato with a striking resemblance to her late grandfather."
+      },
+      {
+        "id": "tvmaze:976869",
+        "title": "The Last Gingerbread House on the Left",
+        "season": 7,
+        "episode": 7,
+        "released": "2016-11-27",
+        "overview": "As the Belchers prepare for Christmas, Bob gets an unexpected call from Mr. Fischoeder (guest star Kevin Kline) asking him to bring food to a party at his home. When Bob arrives, he discovers that he has gotten involved in an intense gingerbread house building competition with Mr. Fischoeder's rowdy group of friends. Meanwhile, Linda and Teddy try to inspire some Christmas cheer in the neighbors as they take the kids caroling."
+      },
+      {
+        "id": "tvmaze:1009803",
+        "title": "Ex MachTina",
+        "season": 7,
+        "episode": 8,
+        "released": "2017-01-08",
+        "overview": "When Tina hurts her ankle, she is left with no choice but to telecommute to school. After enrolling in a program that allows her to send a robot version of herself to class, Tina finds herself having an unexpected breakthrough with Jimmy Jr. Will technology be the thing that finally unites Tina with her biggest crush of all time? Find out."
+      },
+      {
+        "id": "tvmaze:1036954",
+        "title": "Bob Actually",
+        "season": 7,
+        "episode": 9,
+        "released": "2017-02-12",
+        "overview": "With Valentine's Day approaching, Tina, Gene and Louise each find themselves wrapped up in love-caused chaos. Meanwhile, Bob decides on a romantic gesture in order to impress Linda."
+      },
+      {
+        "id": "tvmaze:1044450",
+        "title": "There's No Business Like Mr. Business Business",
+        "season": 7,
+        "episode": 10,
+        "released": "2017-02-19",
+        "overview": "When Gayle's cat, Mr. Business, secures pet agent Ian Amberson, Bob finds out that Linda may have been helping to fund the cat's career. Ever the skeptic, Bob is prepared to shut it down, but learns that Mr. Business could be on the verge of his big break."
+      },
+      {
+        "id": "tvmaze:1067418",
+        "title": "A Few 'Gurt Men",
+        "season": 7,
+        "episode": 11,
+        "released": "2017-03-05",
+        "overview": "Louise is put in a sticky situation when she must defend one of her biggest foes at Wagstaff during a mock-trial. Meanwhile, Bob works with Jimmy Pesto to out a regular food-scammer."
+      },
+      {
+        "id": "tvmaze:1075110",
+        "title": "Like Gene for Chocolate",
+        "season": 7,
+        "episode": 12,
+        "released": "2017-03-12",
+        "overview": "When Gene learns that the formula for his favorite chocolate has changed, he works with the head of the company in an attempt to remedy the situation. Meanwhile, Bob gets wrapped up in one of Teddy's less-than-perfect plans."
+      },
+      {
+        "id": "tvmaze:1080729",
+        "title": "The Grand Mama-Pest Hotel",
+        "season": 7,
+        "episode": 13,
+        "released": "2017-03-19",
+        "overview": "Linda jumps at the chance to chaperone Tina's weekend away at a heroine conference, but Tina's new friend could put Linda's perfect weekend in jeopardy. Meanwhile, the younger Belchers have plans for their weekend alone with Bob. What could possibly go wrong? Find out."
+      },
+      {
+        "id": "tvmaze:1087372",
+        "title": "Aquaticism",
+        "season": 7,
+        "episode": 14,
+        "released": "2017-03-26",
+        "overview": "When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn from Linda's customer service skills;"
+      },
+      {
+        "id": "tvmaze:1087373",
+        "title": "Ain't Miss Debatin'",
+        "season": 7,
+        "episode": 15,
+        "released": "2017-03-26",
+        "overview": "Louise talks her parents into helping sponsor her stop-motion photography with hamburger fllm; Then, when Tina is recruited by the debate team, she finds unexpected success and an even more unexpected relationship."
+      },
+      {
+        "id": "tvmaze:1096411",
+        "title": "Eggs for Days",
+        "season": 7,
+        "episode": 16,
+        "released": "2017-04-02",
+        "overview": "The annual Easter egg hunt always brings out the competitive sides of Bob and Linda, but this time, the game goes awry. After the Belcher parents have a little too much fun hiding the eggs, the entire family is enlisted in finding the lone egg that is quickly rotting in its hiding place. Don't miss the calamity that ensues."
+      },
+      {
+        "id": "tvmaze:1116408",
+        "title": "Zero Larp Thirty",
+        "season": 7,
+        "episode": 17,
+        "released": "2017-04-23",
+        "overview": "When Linda wins a contest to spend a dream weekend at the home where her favorite television show is filmed, things don't go quite as planned. Also, Teddy's back problems leave him stuck on the floor, while he babysits the kids."
+      },
+      {
+        "id": "tvmaze:1117449",
+        "title": "The Laser-inth",
+        "season": 7,
+        "episode": 18,
+        "released": "2017-04-23",
+        "overview": "Gene accompanies Bob on the last-ever rock-and-roll laser show at the planetarium and Linda and the girls go out for dinner at a wacky restaurant."
+      },
+      {
+        "id": "tvmaze:1117450",
+        "title": "Thelma & Louise Except Thelma is Linda",
+        "season": 7,
+        "episode": 19,
+        "released": "2017-04-30",
+        "overview": "After Louise gets in trouble at school, Linda is forced to meet with Mr. Frond and potentially could lose her hard-earned position as the Wagstaff bake sale leader. When she finds out that her daughter was actually trying to help another student, Linda is torn between following school policy or her own moral code. Don't miss a dose of mother-daughter drama."
+      },
+      {
+        "id": "tvmaze:1117451",
+        "title": "Mom, Lies and Videotapes",
+        "season": 7,
+        "episode": 20,
+        "released": "2017-05-07",
+        "overview": "Linda comes down with a nasty cold just in time for the Mother's Day show at Wagstaff. When Bob's outdated camcorder malfunctions, the kids perform a reimagined version of the pageant for Linda back at home. Will the kids' creative liberties be enough to make Linda feel the Mother's Day love?"
+      },
+      {
+        "id": "tvmaze:1124554",
+        "title": "Paraders of the Lost Float",
+        "season": 7,
+        "episode": 21,
+        "released": "2017-05-21",
+        "overview": "When the forecast calls for rain on the day of the Bog to Beach parade, Teddy convinces Bob to enter the float contest with the promise of an easy win. As the parade goes awry, Bob realizes he might need an attitude adjustment."
+      },
+      {
+        "id": "tvmaze:1176125",
+        "title": "Into the Mild",
+        "season": 7,
+        "episode": 22,
+        "released": "2017-06-11",
+        "overview": "When Bob finds out that the nearby wilderness equipment store is having a going out of business sale, he decides to finally realize his dream of becoming an outdoorsman. In true Bob fashion, he encounters a snafu that leaves him stuck in the store overnight to fend for himself. Meanwhile, Linda and the kids spend the night watching the rehearsal for Aunt Gayle's one-woman show."
+      },
+      {
+        "id": "tvmaze:1224487",
+        "title": "Brunchsquatch",
+        "season": 8,
+        "episode": 1,
+        "released": "2017-10-01",
+        "overview": "To compete with Jimmy Pesto, Bob's Burgers begins serving brunch, but it quickly turns to chaos. Meanwhile, Tina, Gene and Louise decide to help Mr. Fischoeder's brother hide from him."
+      },
+      {
+        "id": "tvmaze:1312558",
+        "title": "The Silence of the Louise",
+        "season": 8,
+        "episode": 2,
+        "released": "2017-10-15",
+        "overview": "When Mr. Frond's therapy dolls are mysteriously attacked, Louise teams up with Millie to help solve the case. Meanwhile, Teddy decides to get into the inspirational poster business, but ends up with mixed results."
+      },
+      {
+        "id": "tvmaze:1318363",
+        "title": "The Wolf of Wharf Street",
+        "season": 8,
+        "episode": 3,
+        "released": "2017-10-22",
+        "overview": "On Halloween night, Linda tries to impress the kids by taking them to look for a wolf that has been terrorizing the town. Meanwhile, an injured and medicated Bob believes that Teddy has turned into a werewolf. Don't miss the spooks."
+      },
+      {
+        "id": "tvmaze:1330033",
+        "title": "Sit Me Baby One More Time",
+        "season": 8,
+        "episode": 4,
+        "released": "2017-11-05",
+        "overview": "When Tina launches a babysitting enterprise, it is quickly derailed after her business nemesis, Tammy, is hired to work alongside her. Meanwhile, Bob and Linda check out their competition at a restaurant that's known for its burgers."
+      },
+      {
+        "id": "tvmaze:1335906",
+        "title": "Thanks-Hoarding",
+        "season": 8,
+        "episode": 5,
+        "released": "2017-11-19",
+        "overview": "When Teddy's family unexpectedly announces that they're coming for Thanksgiving, the Belchers reluctantly agree to pitch in. The preparation proves to be much more challenging than they had anticipated, especially upon discovering that Teddy is a secret hoarder."
+      },
+      {
+        "id": "tvmaze:1348799",
+        "title": "The Bleakening, Part 1",
+        "season": 8,
+        "episode": 6,
+        "released": "2017-12-10",
+        "overview": "Linda is determined to host a party at the restaurant, in an effort to spread a little extra cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she quickly begins questioning all guests, including Marshmallow's friend – Art the Artist. However, the kids have their own theory, attributing the robbery to the anti-Santa – The Bleaken."
+      },
+      {
+        "id": "tvmaze:1357207",
+        "title": "The Bleakening, Part 2",
+        "season": 8,
+        "episode": 7,
+        "released": "2017-12-10",
+        "overview": "Linda is determined to host a party at the restaurant, in an effort to spread a little extra cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she quickly begins questioning all guests, including Marshmallow's friend Art the Artist."
+      },
+      {
+        "id": "tvmaze:1376264",
+        "title": "V for Valentine-detta",
+        "season": 8,
+        "episode": 8,
+        "released": "2018-01-14",
+        "overview": "After a rough break up on Valentine's Day, the Belcher women have a limo girls' night out to make Tina feel better. Meanwhile, Bob and Gene have a trapeze experience that brings them closer."
+      },
+      {
+        "id": "tvmaze:1400868",
+        "title": "Y Tu Ga-Ga Tambien",
+        "season": 8,
+        "episode": 9,
+        "released": "2018-03-11",
+        "overview": "When a new playground game is introduced, the school's social hierarchy is turned upside-down and Gene disapproves. Meanwhile, Linda fills in for the local library storyteller and pulls out all the stops to perfect her storyteller persona."
+      },
+      {
+        "id": "tvmaze:1415702",
+        "title": "The Secret Ceramics Room of Secrets",
+        "season": 8,
+        "episode": 10,
+        "released": "2018-03-18",
+        "overview": "When the kids are given the task of making homemade gifts for their grandma's birthday, they set out to find a secret room filled with homemade ceramics which, according to urban legend, has been boarded up for years at their school. Meanwhile, Teddy starts a phone repair service and the adults become determined to improve his online rating."
+      },
+      {
+        "id": "tvmaze:1418895",
+        "title": "Sleeping with the Frenemy",
+        "season": 8,
+        "episode": 11,
+        "released": "2018-03-25",
+        "overview": "Tina allows Tammy to spend Spring Break with the Belchers – and even plays Cupid, setting up Tammy with Brett, a boy from out of town. Then, Gene and Bob enlist the help of Dr. Yap in finding a replacement baby tooth to complete Linda's collection, after Gene loses his own."
+      },
+      {
+        "id": "tvmaze:1422459",
+        "title": "The Hurt Soccer",
+        "season": 8,
+        "episode": 12,
+        "released": "2018-04-01",
+        "overview": "After forgetting that they signed up Louise for a soccer league, the Belchers must help her prepare to play in the season's last game. With Bob coaching the soccer game, Linda and Gene seize the opportunity to turn the restaurant into a piano bar."
+      },
+      {
+        "id": "tvmaze:1426535",
+        "title": "Cheer Up Sleepy Gene",
+        "season": 8,
+        "episode": 13,
+        "released": "2018-04-08",
+        "overview": "Gene gets invited to his first sleepover and is nervous about it, and when things don't go as planned, he realizes he had a right to be. Meanwhile, Bob and Linda record themselves while sleeping to prove who snores more"
+      },
+      {
+        "id": "tvmaze:1430386",
+        "title": "The Trouble with Doubles",
+        "season": 8,
+        "episode": 14,
+        "released": "2018-04-15",
+        "overview": "Bob and Linda's double-date plans take a disastrous turn when the couples find themselves trapped inside an Escape Room. Meanwhile, with the parents out of the house, Louise hosts a zombie-movie night, but when the zombies turn out to be too scary, Tina must take charge."
+      },
+      {
+        "id": "tvmaze:1430387",
+        "title": "Go Tina on the Mountain",
+        "season": 8,
+        "episode": 15,
+        "released": "2018-04-22",
+        "overview": "The Belcher kids go to Outdoor Education only to have it rain, but Tina doesn't let the inclement weather get in the way of her having a nature-piphany, with the help of a hermit living in the woods. Meanwhile, Bob and Linda experience what it's like to be empty-nesters."
+      },
+      {
+        "id": "tvmaze:1430388",
+        "title": "Are You There Bob? It's Me, Birthday",
+        "season": 8,
+        "episode": 16,
+        "released": "2018-04-29",
+        "overview": "After forgetting Bob's birthday, Linda and the kids attempt to plan a last-minute surprise party. In order to plan the party though, Linda asks Hugo if Bob can go with him while he's doing restaurant health inspections."
+      },
+      {
+        "id": "tvmaze:1430389",
+        "title": "Boywatch",
+        "season": 8,
+        "episode": 17,
+        "released": "2018-05-06",
+        "overview": "Tina decides to join the Junior Lifeguards, but when she struggles with the training, one of her fellow junior guards, Parker, tries to convince her to quit. Meanwhile, business booms when Bob and Linda offer free wi-fi at the restaurant, but it is soon threatened by a cyber-attack."
+      },
+      {
+        "id": "tvmaze:1432071",
+        "title": "As I Walk Through the Alley of the Shadow of Ramps",
+        "season": 8,
+        "episode": 18,
+        "released": "2018-05-13",
+        "overview": "When a malicious juice truck owner tries to set up shop in the Belcher's alley, Louise devises a plan to win back their turf. Meanwhile, Linda learns that she can't always run to her sister's defense."
+      },
+      {
+        "id": "tvmaze:1432072",
+        "title": "Mo Mommy Mo Problems",
+        "season": 8,
+        "episode": 19,
+        "released": "2018-05-13",
+        "overview": "The Belchers attend open houses for the free food, per Linda's \"momnipotent\" Mother's Day request. When Linda meets a charming real estate agent and agrees to a private showing, the kids stumble upon an unexpected surprise and the family ends up at the helm of a real estate scheme."
+      },
+      {
+        "id": "tvmaze:1432073",
+        "title": "Mission Impos-slug-ble",
+        "season": 8,
+        "episode": 20,
+        "released": "2018-05-20",
+        "overview": "When Louise's extensive Burobu card collection gets confiscated at school, she devises a tricky plan to get them back. Meanwhile, Bob must give a eulogy for an old acquaintance, despite an unfortunate incident that happened years ago."
+      },
+      {
+        "id": "tvmaze:1432074",
+        "title": "Something Old, Something New, Something Bob Caters for You",
+        "season": 8,
+        "episode": 21,
+        "released": "2018-05-20",
+        "overview": "Just as Bob wonders if working in the restaurant business is worth it, a couple who fell in love at the restaurant asks the Belchers to cater their wedding. When things don't go as planned, Linda tries to save the day."
+      },
+      {
+        "id": "tvmaze:1486782",
+        "title": "Just One of the Boyz 4 Now for Now",
+        "season": 9,
+        "episode": 1,
+        "released": "2018-09-30",
+        "overview": "Convinced she's met the love of her life, Tina decides to disguise herself as a boy and sneak into the Boyz 4 Now auditions to find him. Back at the restaurant, Teddy asks the rest of the Belcher gang to nurse his baby rat back to health."
+      },
+      {
+        "id": "tvmaze:1529393",
+        "title": "The Taking of Funtime One Two Three",
+        "season": 9,
+        "episode": 2,
+        "released": "2018-10-07",
+        "overview": "Desperate for the grand prize dune buggy at their local arcade, Louise, Tina and Gene devise a master plan, with the help of Mr. Fischoeder. Meanwhile, Teddy manages to convince Bob and Linda to take in a chicken by promising fresh eggs."
+      },
+      {
+        "id": "tvmaze:1533536",
+        "title": "Tweentrepreneurs",
+        "season": 9,
+        "episode": 3,
+        "released": "2018-10-14",
+        "overview": "Tina, Louise and Gene get a taste of business when they join the school's Tweentrepeneurs club. Back at the restaurant, Bob and Linda find themselves outsmarted by a dine-and-dasher."
+      },
+      {
+        "id": "tvmaze:1536861",
+        "title": "Nightmare on Ocean Avenue Street",
+        "season": 9,
+        "episode": 4,
+        "released": "2018-10-21",
+        "overview": "The kids set out for their regular Halloween shenanigans, but when everyone's candy bags start mysteriously disappearing, it's up to Tina, Louise and Gene to find the culprit. Meanwhile, Teddy decorates the restaurant to compete with another handyman on the street, but gets a little carried away."
+      },
+      {
+        "id": "tvmaze:1544177",
+        "title": "Live and Let Fly",
+        "season": 9,
+        "episode": 5,
+        "released": "2018-11-04",
+        "overview": "The kids learn the dangers of revenge when their plan to get back at the school guidance counselor gets them entangled in a deep rooted sibling rivalry between two pilots. Meanwhile, Linda and Bob put their game faces on when Teddy invites them to a paper airplane contest."
+      },
+      {
+        "id": "tvmaze:1548325",
+        "title": "Bobby Driver",
+        "season": 9,
+        "episode": 6,
+        "released": "2018-11-11",
+        "overview": "Bob agrees to drive professional quilter Edith around town, after she convinces him to join in a plot for revenge. Meanwhile, the kids attend a lavish \"Gatsby\"-themed birthday party, and Linda helps Teddy expand his taste palate."
+      },
+      {
+        "id": "tvmaze:1552639",
+        "title": "I Bob Your Pardon",
+        "season": 9,
+        "episode": 7,
+        "released": "2018-11-18",
+        "overview": "The Belchers set out to save a turkey from a trip to the slaughterhouse, but when a local reporter catches wind of their schemes, the mission becomes more complicated than they had anticipated."
+      },
+      {
+        "id": "tvmaze:1556899",
+        "title": "Roller? I Hardly Knew Her!",
+        "season": 9,
+        "episode": 8,
+        "released": "2018-11-25",
+        "overview": "Gene is livid when his best friend, Alex, ditches him to be Courtney's roller-dancing partner. Meanwhile, Teddy, Linda and Bob let their imaginations get the best of them when they discover someone stalking the restaurant."
+      },
+      {
+        "id": "tvmaze:1561833",
+        "title": "UFO No You Didn't",
+        "season": 9,
+        "episode": 9,
+        "released": "2018-12-02",
+        "overview": "Tina and her new science partner create a device that allows them to communicate with aliens, but their excitement turns to fear when they receive a dangerous warning message. Meanwhile, Bob attempts to sell mini coat racks he bought."
+      },
+      {
+        "id": "tvmaze:1565505",
+        "title": "Better Off Sled",
+        "season": 9,
+        "episode": 10,
+        "released": "2018-12-09",
+        "overview": "The battle is on when some angsty teenagers take over Louise, Gene and Tina's usual sledding territory, inciting an epic turf war. Meanwhile, Bob steps in to help Linda, who's in a time crunch to get three scarves knitted before Christmas."
+      },
+      {
+        "id": "tvmaze:1577671",
+        "title": "Lorenzo's Oil? No, Linda's",
+        "season": 9,
+        "episode": 11,
+        "released": "2019-01-06",
+        "overview": "Linda's new friend introduces her to essential oils and Aunt Gayle is convinced she must be rescued. Meanwhile, Bob and Teddy are bamboozled into performing a series of annoying favors for Mr. Huggins."
+      },
+      {
+        "id": "tvmaze:1577742",
+        "title": "The Helen Hunt",
+        "season": 9,
+        "episode": 12,
+        "released": "2019-01-13",
+        "overview": "The Belchers make it their mission to help Teddy get his dream girl, but Tina is convinced she's found a better match for him."
+      },
+      {
+        "id": "tvmaze:1587856",
+        "title": "Bed, Bob and Beyond",
+        "season": 9,
+        "episode": 13,
+        "released": "2019-02-10",
+        "overview": "A Valentine's Day fight between Bob and Linda has the kids feeling confused. After a failed attempt to see a movie, it's up to Tina, Louise and Gene to tell their own story as a distraction from the awkward tension."
+      },
+      {
+        "id": "tvmaze:1587857",
+        "title": "Every Which Way But Goose",
+        "season": 9,
+        "episode": 14,
+        "released": "2019-02-17",
+        "overview": "Tina, discouraged by not being asked to prom by Jimmy Jr., forms an unhealthy attachment to a goose from the nearby park. Meanwhile, Linda joins a dating app to help Gretchen find a match."
+      },
+      {
+        "id": "tvmaze:1610364",
+        "title": "The Fresh Princ-ipal",
+        "season": 9,
+        "episode": 15,
+        "released": "2019-03-03",
+        "overview": "Things get out of hand when Louise wins a contest to be Principal for a Day. Back at the restaurant, Teddy has a unique suggestion to help Bob when he suddenly finds himself unable to flip burgers."
+      },
+      {
+        "id": "tvmaze:1610371",
+        "title": "Roamin' Bob-iday",
+        "season": 9,
+        "episode": 16,
+        "released": "2019-03-10",
+        "overview": "The family forces workaholic Bob to take a much-needed day off, only for him to wind up working at a local sandwich shop. Meanwhile, Linda and the kids throw a last minute baby shower at the restaurant for a female biker group."
+      },
+      {
+        "id": "tvmaze:1613238",
+        "title": "What About Blob?",
+        "season": 9,
+        "episode": 17,
+        "released": "2019-03-17",
+        "overview": "Gene convinces Tina and Louise to help him save a misunderstood plankton blob from being destroyed by a yacht club."
+      },
+      {
+        "id": "tvmaze:1616524",
+        "title": "If You Love It So Much, Why Don't You Marionette?",
+        "season": 9,
+        "episode": 18,
+        "released": "2019-03-24",
+        "overview": "The kids visit a marionette theater for a school field trip and Louise gets on the theater owner's bad side. Meanwhile, Bob takes pity on a flyer guy who's handing out flyers in front of the restaurant."
+      },
+      {
+        "id": "tvmaze:1623418",
+        "title": "Long Time Listener, First Time Bob",
+        "season": 9,
+        "episode": 19,
+        "released": "2019-04-07",
+        "overview": "Bob meets his personal hero – a renegade radio DJ who refuses to compromise. However, the Belchers get in over their heads when they try to help him stage a comeback."
+      },
+      {
+        "id": "tvmaze:1634957",
+        "title": "The Gene Mile",
+        "season": 9,
+        "episode": 20,
+        "released": "2019-04-28",
+        "overview": "When the kids have to run a mandatory mile for school on free-ice-cream-day, they hatch an elaborate plot to sneak away. Meanwhile, Bob and Linda frantically try to secure discount tickets to a show at the Wharf Arts Center."
+      },
+      {
+        "id": "tvmaze:1638395",
+        "title": "P.T.A. It Ain't So",
+        "season": 9,
+        "episode": 21,
+        "released": "2019-05-05",
+        "overview": "Linda attempts to become more involved with the P.T.A., inspired by its seemingly perfect president, Joanne. Meanwhile, Bob tries to cheer up a hardware store owner after unknowingly making a joke about his pet parrot that recently flew away."
+      },
+      {
+        "id": "tvmaze:1638764",
+        "title": "Yes Without My Zeke",
+        "season": 9,
+        "episode": 22,
+        "released": "2019-05-12",
+        "overview": "When Zeke gets in trouble, the Belcher kids and Jimmy Jr. pitch in to help prevent him being sent to a disciplinary school. However, Tina tries to thwart their mission, so she can have Jimmy Jr. and his butt all to herself. Meanwhile, Randy rents out Bob's Burgers to shoot his independent short feature film."
+      },
+      {
+        "id": "tvmaze:1674644",
+        "title": "The Ring (But Not Scary)",
+        "season": 10,
+        "episode": 1,
+        "released": "2019-09-29",
+        "overview": "Bob's plan to surprise Linda for their anniversary gets tricky when the kids become involved."
+      },
+      {
+        "id": "tvmaze:1715839",
+        "title": "Boys Just Wanna Have Fungus",
+        "season": 10,
+        "episode": 2,
+        "released": "2019-10-06",
+        "overview": "Unable to afford a rare gourmet mushroom for a Burger of the Day, Bob and Gene jump into the cutthroat world of mushroom foraging. Meanwhile, Tina's powerful new prescription glasses lead her to believe she has a superpower."
+      },
+      {
+        "id": "tvmaze:1718837",
+        "title": "Motor, She Boat",
+        "season": 10,
+        "episode": 3,
+        "released": "2019-10-13",
+        "overview": "Tina and Bob participate in the Thundergirls father-daughter cardboard boat race and Tina tries to hide her feelings about Bob's terrible boat-building skills. Meanwhile, Linda drags Louise and Gene to a fire station open house and overstays her welcome."
+      },
+      {
+        "id": "tvmaze:1722416",
+        "title": "Pig Trouble in Little Tina",
+        "season": 10,
+        "episode": 4,
+        "released": "2019-10-20",
+        "overview": "Tina dissects a fetal pig in science class and things get spooky. Also, Bob and Linda do battle with a giant ball of ear wax."
+      },
+      {
+        "id": "tvmaze:1718838",
+        "title": "Legends of the Mall",
+        "season": 10,
+        "episode": 5,
+        "released": "2019-11-03",
+        "overview": "On a Belcher family trip to the mall, Tina is mistaken for a sleeping boy's girlfriend. Meanwhile, Gene and Louise are turned loose on motorized animals, Linda disrupts a book reading and Bob struggles to shop for acceptable pants."
+      },
+      {
+        "id": "tvmaze:1739253",
+        "title": "The Hawkening: Look Who's Hawking Now",
+        "season": 10,
+        "episode": 6,
+        "released": "2019-11-10",
+        "overview": "Bob and Louise are riding high, hosting an exclusive screening of a Hawk &amp; Chick movie at the restaurant, until the actor who plays Hawk throws a wrench into the works, for his own mysterious reasons."
+      },
+      {
+        "id": "tvmaze:1744386",
+        "title": "Land of the Loft",
+        "season": 10,
+        "episode": 7,
+        "released": "2019-11-17",
+        "overview": "Bob and Linda challenge themselves and attend a loft party on a stormy night, while the kids challenge their babysitter, Jen, and face the storm in an ice cream truck."
+      },
+      {
+        "id": "tvmaze:1749353",
+        "title": "Now We're Not Cooking with Gas",
+        "season": 10,
+        "episode": 8,
+        "released": "2019-11-24",
+        "overview": "Bob is determined to do whatever it takes to cook a rare, heritage turkey after the gas goes out on Thanksgiving."
+      },
+      {
+        "id": "tvmaze:1752845",
+        "title": "All That Gene",
+        "season": 10,
+        "episode": 9,
+        "released": "2019-12-01",
+        "overview": "Gene auditions for a small role in a local theater production, but things backfire when he discovers that Linda actually bargained with the director to get Gene the part."
+      },
+      {
+        "id": "tvmaze:1760188",
+        "title": "Have Yourself a Maily Linda Christmas",
+        "season": 10,
+        "episode": 10,
+        "released": "2019-12-15",
+        "overview": "Linda works a temp job at the post office to make extra money for the holidays. But when an important package goes undelivered, Linda breaks protocol and takes it upon herself to save the day. Meanwhile, Bob and Tina are trapped at home with Linda's fussy family and Gene and Louise scramble last-minute to find the perfect gift for Tina."
+      },
+      {
+        "id": "tvmaze:1785171",
+        "title": "Drumforgiven",
+        "season": 10,
+        "episode": 11,
+        "released": "2020-01-12",
+        "overview": "Gene gets kicked out of the Ocean Avenue Hifi Emporium, but Louise takes matters into her own hands to defend Gene's honor."
+      },
+      {
+        "id": "tvmaze:1793712",
+        "title": "A Fish Called Tina",
+        "season": 10,
+        "episode": 12,
+        "released": "2020-02-16",
+        "overview": "Tina goes too far trying to be a perfect mentor. Meanwhile, Bob and Linda test out the gym next door."
+      },
+      {
+        "id": "tvmaze:1796262",
+        "title": "Three Girls and a Little Wharfy",
+        "season": 10,
+        "episode": 13,
+        "released": "2020-02-23",
+        "overview": "Louise skeptically joins Jessica and fifth grader Megan in their search for Wharfy, a mythical sea monster, while Bob takes an online master class by a world-renowned chef."
+      },
+      {
+        "id": "tvmaze:1798767",
+        "title": "Wag the Song",
+        "season": 10,
+        "episode": 14,
+        "released": "2020-03-01",
+        "overview": "Tina competes against Gene and Louise to write a new school song for Wagstaff, but finds herself creatively stalled. Meanwhile, Bob and Linda battle blinding glare from Jimmy Pesto's new shiny steel awning across the street."
+      },
+      {
+        "id": "tvmaze:1805079",
+        "title": "Yurty Rotten Scoundrels",
+        "season": 10,
+        "episode": 15,
+        "released": "2020-03-08",
+        "overview": "When Gayle decides to host an artists' workshop in a yurt with only one attendee, Linda feels compelled to go to support her sister. Meanwhile, Louise and Gene lead a covert operation to find a lost cat for a cash reward."
+      },
+      {
+        "id": "tvmaze:1801278",
+        "title": "Flat-Top O' the Morning to Ya",
+        "season": 10,
+        "episode": 16,
+        "released": "2020-03-15",
+        "overview": "Bob and the kids help a down-on-his-luck restaurant owner, while Linda and Teddy get carried away with St. Patrick's Day festivities."
+      },
+      {
+        "id": "tvmaze:1809362",
+        "title": "Just the Trip",
+        "season": 10,
+        "episode": 17,
+        "released": "2020-03-22",
+        "overview": "The family takes an unexpected road trip with Nat the limo driver."
+      },
+      {
+        "id": "tvmaze:1824337",
+        "title": "Tappy Tappy Tappy Tap Tap Tap",
+        "season": 10,
+        "episode": 18,
+        "released": "2020-04-19",
+        "overview": "Tina goes to see Josh perform in a tap show, and suspects sabotage when he's injured on stage."
+      },
+      {
+        "id": "tvmaze:1829794",
+        "title": "The Handyman Can",
+        "season": 10,
+        "episode": 19,
+        "released": "2020-04-26",
+        "overview": "When Teddy finds himself doubting his abilities as a handyman, the kids build up his confidence. Burger Of The Day: The Chili-Delphia Story Burger."
+      },
+      {
+        "id": "tvmaze:1836548",
+        "title": "Poops!... I Didn't Do It Again",
+        "season": 10,
+        "episode": 20,
+        "released": "2020-05-03",
+        "overview": "Louise must face her fear of public pooping when her class goes on an overnight trip to the aquarium. Meanwhile, Linda enlists the family to make a video for her parents' anniversary."
+      },
+      {
+        "id": "tvmaze:1836549",
+        "title": "Local She-ro",
+        "season": 10,
+        "episode": 21,
+        "released": "2020-05-10",
+        "overview": "While trying to show Tina what's great about their town, Linda ends up on the trail of a legendary local singer. Meanwhile, Teddy turns to Bob for help in arguing with a sports radio host."
+      },
+      {
+        "id": "tvmaze:1836552",
+        "title": "Prank You for Being a Friend",
+        "season": 10,
+        "episode": 22,
+        "released": "2020-05-17",
+        "overview": "A classmate comes to Louise for lessons in how to get in trouble. Meanwhile, Bob reluctantly agrees to bring Jimmy Pesto his hernia medication."
+      },
+      {
+        "id": "tvmaze:1905831",
+        "title": "Dream a Little Bob of Bob",
+        "season": 11,
+        "episode": 1,
+        "released": "2020-09-27",
+        "overview": "Bob goes on an epic quest to find a misplaced lock box key. Tina attempts to learn a hand-slapping song that everyone can do - but her -."
+      },
+      {
+        "id": "tvmaze:1928611",
+        "title": "Worms of In-rear-ment",
+        "season": 11,
+        "episode": 2,
+        "released": "2020-10-04",
+        "overview": "Linda tries to take her family to the symphony on free admission night, but her efforts are thwarted by a pinworm epidemic."
+      },
+      {
+        "id": "tvmaze:1931134",
+        "title": "Copa-bob-bana",
+        "season": 11,
+        "episode": 3,
+        "released": "2020-10-11",
+        "overview": "Bob agrees to be the temporary chef at the Fischoeders' new nightclub. Meanwhile, the kids get a hold of a stock tank and decide to throw a pool party in the restaurant basement."
+      },
+      {
+        "id": "tvmaze:1937532",
+        "title": "Heartbreak Hotel-oween",
+        "season": 11,
+        "episode": 4,
+        "released": "2020-11-01",
+        "overview": "Louise's plan to get revenge on Halloween for a candy transgression hits a snag when the Belcher kids meet a mysterious elderly woman at a hotel. Meanwhile, Linda and a very squeamish Bob donate blood at a vampire-themed blood mobile."
+      },
+      {
+        "id": "tvmaze:1945580",
+        "title": "Fast Time Capsules at Wagstaff School",
+        "season": 11,
+        "episode": 5,
+        "released": "2020-11-08",
+        "overview": "Tina is put in charge of the Wagstaff School time capsule project, but she makes an enemy when she rejects Tammy's submission. Meanwhile, Bob teases Linda over her inability to whistle."
+      },
+      {
+        "id": "tvmaze:1950705",
+        "title": "Bob Belcher and the Terrible, Horrible, No Good, Very Bad Kids",
+        "season": 11,
+        "episode": 6,
+        "released": "2020-11-15",
+        "overview": "The family must figure out how to keep the restaurant open after Bob's flattop breaks on the morning of the Ocean Avenue Business Association's: Ocean Fest on Ocean Avenue."
+      },
+      {
+        "id": "tvmaze:1961059",
+        "title": "Diarrhea of a Poopy Kid",
+        "season": 11,
+        "episode": 7,
+        "released": "2020-11-22",
+        "overview": "When Gene can't eat Thanksgiving dinner because of a stomach flu, the family tries to cheer him up."
+      },
+      {
+        "id": "tvmaze:1964610",
+        "title": "The Terminalator II: Terminals of Endearment",
+        "season": 11,
+        "episode": 8,
+        "released": "2020-11-29",
+        "overview": "When Linda's parents have a layover at an airport nearby, Bob and Linda attempt to turn it into their annual \"visit\"."
+      },
+      {
+        "id": "tvmaze:1968976",
+        "title": "Mommy Boy",
+        "season": 11,
+        "episode": 9,
+        "released": "2020-12-06",
+        "overview": "When Linda joins a women's business group, Gene gets possessive of her time. Meanwhile, Louise and Tina want to learn how to fight."
+      },
+      {
+        "id": "tvmaze:1973110",
+        "title": "Yachty or Nice",
+        "season": 11,
+        "episode": 10,
+        "released": "2020-12-13",
+        "overview": "When the Belchers get an unexpected invitation to cater the Glencrest Yacht Club's holiday boat parade, Bob wonders if there's a catch. Meanwhile, Louise has her eye on the present-loaded Santa Schooner."
+      },
+      {
+        "id": "tvmaze:2014750",
+        "title": "Romancing the Beef",
+        "season": 11,
+        "episode": 11,
+        "released": "2021-02-21",
+        "overview": "Louise convinces her parents to cash in on the lucrative Valentine's Day dinner business, even though it means putting Bob and Linda's own Valentine's Day plans on hold. Meanwhile, Tina attends Tammy's Anti-Valentine's Day party."
+      },
+      {
+        "id": "tvmaze:2017772",
+        "title": "Die Card, or Card Trying",
+        "season": 11,
+        "episode": 12,
+        "released": "2021-02-28",
+        "overview": "Linda drags Bob and the kids out into nature, determined to take the best holiday family portrait ever."
+      },
+      {
+        "id": "tvmaze:2028977",
+        "title": "An Incon-wheelie-ent Truth",
+        "season": 11,
+        "episode": 13,
+        "released": "2021-03-07",
+        "overview": "While on a family trip to the flea market, Bob and Linda are haunted by a lie they told Tina, Gene and Louise about what really happened to their beloved stuffed animal, Wheelie Mammoth."
+      },
+      {
+        "id": "tvmaze:2029704",
+        "title": "Mr. Lonely Farts",
+        "season": 11,
+        "episode": 14,
+        "released": "2021-03-14",
+        "overview": "When Linda and Tina go to the shoe store, Gene accidently is left home by himself. Meanwhile, Bob, Louise and Teddy go to buy restaurant equipment from a creepy guy whom Bob found on the internet."
+      },
+      {
+        "id": "tvmaze:2028978",
+        "title": "Sheshank Redumption",
+        "season": 11,
+        "episode": 15,
+        "released": "2021-03-21",
+        "overview": "Linda's new routine of diet and exercise gives her gastrointestinal trouble on the day of parent-teacher-student conferences."
+      },
+      {
+        "id": "tvmaze:2042650",
+        "title": "Y Tu Tina También",
+        "season": 11,
+        "episode": 16,
+        "released": "2021-03-28",
+        "overview": "When Tina is forced to listen to Spanish audio lessons in the library to improve her grade, she develops an unexpected crush. Meanwhile, Louise and Gene want to dunk Mr. Frond at the Wagstaff Spring Fair."
+      },
+      {
+        "id": "tvmaze:2042651",
+        "title": "Fingers-loose",
+        "season": 11,
+        "episode": 17,
+        "released": "2021-04-11",
+        "overview": "Tina faces a hall-monitor crisis when she falls in love with a new underground trend at Wagstaff that Mr. Frond is trying to squelch. Meanwhile, Bob and Linda try to come up with a way for Teddy to sneak food into a movie theater."
+      },
+      {
+        "id": "tvmaze:2052936",
+        "title": "Some Kind of Fender Benderful",
+        "season": 11,
+        "episode": 18,
+        "released": "2021-04-18",
+        "overview": "When Bob gets into a four-car fender bender right outside the restaurant, he realizes finding out who is at fault will not be as simple as he thought."
+      },
+      {
+        "id": "tvmaze:2067511",
+        "title": "Bridge Over Troubled Rudy",
+        "season": 11,
+        "episode": 19,
+        "released": "2021-05-02",
+        "overview": "When Louise finds out that Rudy has a model bridge that explodes, she decides to set out on a sort-of-kind-of-perilous journey, dragging her siblings along for the ride. Meanwhile, Mort tries to teach Bob, Linda and Teddy how to meditate."
+      },
+      {
+        "id": "tvmaze:2076451",
+        "title": "Steal Magazine-olias",
+        "season": 11,
+        "episode": 20,
+        "released": "2021-05-09",
+        "overview": "The Belcher kids get caught up in a game of cat-and-mouse when Dr. Yap comes to the restaurant in search of something that was taken from the waiting room of his dentistry office. Meanwhile, Bob, Linda and Teddy try to clean a huge bird poop off the restaurant's window."
+      },
+      {
+        "id": "tvmaze:2049594",
+        "title": "Tell Me Dumb Thing Good",
+        "season": 11,
+        "episode": 21,
+        "released": "2021-05-16",
+        "overview": "Linda needs the kids' help in fighting for a fun, dumb, local tradition. Meanwhile, Bob is captivated by an online cucumber."
+      },
+      {
+        "id": "tvmaze:2067512",
+        "title": "Vampire Disco Death Dance",
+        "season": 11,
+        "episode": 22,
+        "released": "2021-05-23",
+        "overview": "After Tina and Bob plan a father-daughter date to see Bob's favorite old campy vampire-sing-along movie, Tina decides to invite her group of friends along, as well. Meanwhile, Linda opens a restaurant for the raccoons in their alley."
+      },
+      {
+        "id": "tvmaze:2136732",
+        "title": "Manic Pixie Crap Show",
+        "season": 12,
+        "episode": 1,
+        "released": "2021-09-26",
+        "overview": "Louise must pay a debt to Millie by attending the Pixie Princess Promenade. Meanwhile, a bouquet in the shape of a dog forces Linda to confront her past."
+      },
+      {
+        "id": "tvmaze:2166444",
+        "title": "Crystal Mess",
+        "season": 12,
+        "episode": 2,
+        "released": "2021-10-03",
+        "overview": "In order to help with anxiety about an upcoming oral report, Mr. Frond lends Tina a crystal that his new girlfriend alleges has special powers. Meanwhile, Bob and Linda buy a box of imperfect produce and try to use it all before it rots."
+      },
+      {
+        "id": "tvmaze:2172945",
+        "title": "The Pumpkinening",
+        "season": 12,
+        "episode": 3,
+        "released": "2021-10-10",
+        "overview": "When a mysterious note is sent to Linda on Halloween, she and Gayle must travel to their hometown to face a wrong they committed 27 years ago."
+      },
+      {
+        "id": "tvmaze:2180117",
+        "title": "Driving Big Dummy",
+        "season": 12,
+        "episode": 4,
+        "released": "2021-10-17",
+        "overview": "Bob gets roped into a road trip with Teddy. Meanwhile, Linda and the kids compete for the title of Employee of the Day."
+      },
+      {
+        "id": "tvmaze:2185210",
+        "title": "Seven-tween Again",
+        "season": 12,
+        "episode": 5,
+        "released": "2021-10-24",
+        "overview": "Gene has a freak-out about growing up and desperately tries to relive his youth. Meanwhile, Linda is tempted to try the fancy new hair salon that opened up next to Bob's Burgers, but she's scared of her hairdresser-slash-friend Gretchen's wrath."
+      },
+      {
+        "id": "tvmaze:2196712",
+        "title": "Beach, Please",
+        "season": 12,
+        "episode": 6,
+        "released": "2021-11-07",
+        "overview": "When the Belcher kids participate in a beach clean-up for Wagstaff Volunteer Day, Louise gets drawn into a battle of wits with Mr. Fischoeder. Meanwhile, Teddy surprises Bob and Linda with a new look."
+      },
+      {
+        "id": "tvmaze:2198363",
+        "title": "Loft in Bedslation",
+        "season": 12,
+        "episode": 7,
+        "released": "2021-11-14",
+        "overview": "Linda and the girls attempt to build a loft bed for Louise in just one day. Meanwhile, Bob and Gene host a group of gamers and their tabletop role-playing game."
+      },
+      {
+        "id": "tvmaze:2205193",
+        "title": "Stuck in the Kitchen with You",
+        "season": 12,
+        "episode": 8,
+        "released": "2021-11-21",
+        "overview": "When Bob volunteers to cook Thanksgiving dinner for a retirement home, Louise gets stuck helping him on his most intense cooking day of the year. Meanwhile, Gene and Tina try to help Zeke entertain the residents."
+      },
+      {
+        "id": "tvmaze:2209754",
+        "title": "FOMO You Didn't",
+        "season": 12,
+        "episode": 9,
+        "released": "2021-11-28",
+        "overview": "Susmita offers to help Tina with a photography class assignment, but Tina can't stop thinking about all the fun Tammy, Jocelyn, Zeke and Jimmy Jr. are having ditching class. Meanwhile, a woman who used to live in the Belchers' apartment comes for a visit."
+      },
+      {
+        "id": "tvmaze:2222032",
+        "title": "Gene's Christmas Break",
+        "season": 12,
+        "episode": 10,
+        "released": "2021-12-19",
+        "overview": "After Gene breaks his favorite, extremely rare '70s era Christmas record, Tina and Louise join him in the search for another copy. Meanwhile, Teddy wants to do a neighborhood Secret Santa with Bob and Linda."
+      },
+      {
+        "id": "tvmaze:2238984",
+        "title": "Touch of Eval(uations)",
+        "season": 12,
+        "episode": 11,
+        "released": "2022-01-09",
+        "overview": "Louise realizes that Mr. Frond's new plan of students evaluating their teachers has shifted the balance of power at school from teacher to kid. Meanwhile, Bob and Linda discover that they don't agree on where they want their final resting place to be."
+      },
+      {
+        "id": "tvmaze:2270935",
+        "title": "Ferry on My Wayward Bob and Linda",
+        "season": 12,
+        "episode": 12,
+        "released": "2022-02-27",
+        "overview": "Bob and Linda accept a Valentine's Day dinner invitation from the chef of a fancy restaurant on Kingshead Island. Meanwhile, the kids have a scheme to get cheap Valentine's Day candy, but first they'll have to make it past an unusually strict Jen the babysitter. Burger of the Day: 'Don''t dream it's Okra Burger'.'"
+      },
+      {
+        "id": "tvmaze:2274805",
+        "title": "Frigate Me Knot",
+        "season": 12,
+        "episode": 13,
+        "released": "2022-03-06",
+        "overview": "Linda encourages Teddy to attend a farewell ceremony for the ship on which he served in the Navy, but it means confronting his Navy pals and his past."
+      },
+      {
+        "id": "tvmaze:2279037",
+        "title": "Video Killed the Gene-io Star",
+        "season": 12,
+        "episode": 14,
+        "released": "2022-03-13",
+        "overview": "Gene begrudgingly agrees to participate in a music video for Courtney. Meanwhile, Teddy and Linda obsess over a mysterious customer at the restaurant."
+      },
+      {
+        "id": "tvmaze:2285304",
+        "title": "Ancient Misbehavin",
+        "season": 12,
+        "episode": 15,
+        "released": "2022-03-20",
+        "overview": "After feeling slighted by a teacher during a special Ancient Greece unit, Louise, Millie and Regular Sized Rudy take matters into their own hands to restore justice. Meanwhile, Bob gets a room of his own."
+      },
+      {
+        "id": "tvmaze:2288690",
+        "title": "Interview with a Pop-pop-pire",
+        "season": 12,
+        "episode": 16,
+        "released": "2022-03-27",
+        "overview": "Big Bob is coming to dinner so that Tina can interview him for a school project. While the family waits for Pop Pop to arrive, they take turns coming up with their own versions of an infamous tree incident that happened to him in his younger years."
+      },
+      {
+        "id": "tvmaze:2296833",
+        "title": "The Spider House Rules",
+        "season": 12,
+        "episode": 17,
+        "released": "2022-04-10",
+        "overview": "Louise befriends a house spider and hides it in her room after Linda and Bob tell her to remove it from the apartment. Meanwhile, Bob tries to make a friend outside of the people that come to the restaurant."
+      },
+      {
+        "id": "tvmaze:2304797",
+        "title": "Clear and Present Ginger",
+        "season": 12,
+        "episode": 18,
+        "released": "2022-04-24",
+        "overview": "Linda has a big day planned when her friend, Ginger, comes to visit. Meanwhile, Bob and the kids help Nat with her Limo competition."
+      },
+      {
+        "id": "tvmaze:2308420",
+        "title": "A-Sprout a Boy",
+        "season": 12,
+        "episode": 19,
+        "released": "2022-05-01",
+        "overview": "When Gene becomes obsessed with an old handheld game, Bob offers to help with a school project, in hopes of steering his son towards more \"interesting\" pursuits. Meanwhile, Louise and Tina take over a grocery store kiddie ride."
+      },
+      {
+        "id": "tvmaze:2308421",
+        "title": "Sauce Side Story",
+        "season": 12,
+        "episode": 20,
+        "released": "2022-05-08",
+        "overview": "When Louise, Gene and Tina try to track down a lost family recipe for a Mother's Day gift for Linda, first they have to navigate an old family feud."
+      },
+      {
+        "id": "tvmaze:2308422",
+        "title": "Some Like It Bot Part 1: Eighth Grade Runner",
+        "season": 12,
+        "episode": 21,
+        "released": "2022-05-15",
+        "overview": "When Tina's new shirt is ridiculed by Tammy and Jocelyn in a Wagstaff News segment called \"Wow or Weird,\" she turns to her erotic friend-fiction and writes about a futuristic world in which she is a robot."
+      },
+      {
+        "id": "tvmaze:2308423",
+        "title": "Some Like It Bot Part 2: Judge-bot Day",
+        "season": 12,
+        "episode": 22,
+        "released": "2022-05-22",
+        "overview": "Tina is on a mission that could get her into a lot of trouble. Then, her family reads her erotic friend fiction, finds out what Tina is up to and tries to stop her."
+      },
+      {
+        "id": "tvmaze:2341174",
+        "title": "To Bob, or Not to Bob",
+        "season": 13,
+        "episode": 1,
+        "released": "2022-09-25",
+        "overview": "Bob, Linda and the kids help Mr. Fischoeder put on a play to get his brother Felix to confess to a theft. Louise is jealous of Tina's hands."
+      },
+      {
+        "id": "tvmaze:2392925",
+        "title": "The Reeky Lake Show",
+        "season": 13,
+        "episode": 2,
+        "released": "2022-10-02",
+        "overview": "The family's Labor Day lake trip takes a turn when the Belchers find themselves trapped in their cabin, hiding from what lurks outside."
+      },
+      {
+        "id": "tvmaze:2394250",
+        "title": "What About Job?",
+        "season": 13,
+        "episode": 3,
+        "released": "2022-10-09",
+        "overview": "A school assignment about careers sends Louise spiraling, trying to imagine what her future might hold."
+      },
+      {
+        "id": "tvmaze:2399541",
+        "title": "Comet-y of Errors",
+        "season": 13,
+        "episode": 4,
+        "released": "2022-10-16",
+        "overview": "At a comet watch party, Bob tries to keep Teddy from going off the deep end, looking for signs from the universe. Meanwhile, the kids try to make their comet wishes come true."
+      },
+      {
+        "id": "tvmaze:2410511",
+        "title": "So You Stink You Can Dance",
+        "season": 13,
+        "episode": 5,
+        "released": "2022-10-23",
+        "overview": "Tina cheers Jimmy Junior on at a semi-prestigious dancing seminar while Bob and Linda compete to see who can catch the most homerun balls outside of Wonder Wharf Stadium."
+      },
+      {
+        "id": "tvmaze:2411930",
+        "title": "Apple Gore-chard! (But Not Gory)",
+        "season": 13,
+        "episode": 6,
+        "released": "2022-10-30",
+        "overview": "Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard. Meanwhile, Tina and Gene hope to win the school costume parade."
+      },
+      {
+        "id": "tvmaze:2418661",
+        "title": "Ready Player Gene",
+        "season": 13,
+        "episode": 7,
+        "released": "2022-11-13",
+        "overview": "A VR arcade opens next door and Gene spends all his money. Meanwhile, Louise and Tina try to build a menu tower taller than they ever have before."
+      },
+      {
+        "id": "tvmaze:2421795",
+        "title": "Putts-giving",
+        "season": 13,
+        "episode": 8,
+        "released": "2022-11-20",
+        "overview": "The Belchers go to a mini golf course on Thanksgiving morning."
+      },
+      {
+        "id": "tvmaze:2432713",
+        "title": "Show Mama from the Grave",
+        "season": 13,
+        "episode": 9,
+        "released": "2022-11-27",
+        "overview": "Bob takes Linda and the kids to visit his mother's grave, but finding the headstone is harder than he expected. Meanwhile, Teddy makes a grave mistake while doing repairs in the Belcher's house."
+      },
+      {
+        "id": "tvmaze:2436429",
+        "title": "The Plight Before Christmas",
+        "season": 13,
+        "episode": 10,
+        "released": "2022-12-11",
+        "overview": "Bob and Linda try to attend all three kids' holiday performances at the same time."
+      },
+      {
+        "id": "tvmaze:2453703",
+        "title": "Cheaty Cheaty Bang Bang",
+        "season": 13,
+        "episode": 11,
+        "released": "2023-01-08",
+        "overview": "After a student accuses her of cheating on a test, Tina needs to get back to school to clear her name, but a snowstorm traps her and her family at home."
+      },
+      {
+        "id": "tvmaze:2466076",
+        "title": "Oh Row You Didn't",
+        "season": 13,
+        "episode": 12,
+        "released": "2023-02-19",
+        "overview": "A man trying to row from New Zealand to Nova Scotia visits the restaurant to have a burger and it changes everything."
+      },
+      {
+        "id": "tvmaze:2488625",
+        "title": "Stop! Or My Mom Will Sleuth!",
+        "season": 13,
+        "episode": 13,
+        "released": "2023-02-26",
+        "overview": "When Louise is accused of a theft at school, Linda uses her position as school office volunteer to try and solve the case from the inside."
+      },
+      {
+        "id": "tvmaze:2493457",
+        "title": "These Boots Are Made for Stalking",
+        "season": 13,
+        "episode": 14,
+        "released": "2023-03-05",
+        "overview": "When the coolest teens she's ever seen start coming into the restaurant, Tina decides she needs to be just like them. Meanwhile, Gene and Louise get into a battle of wills over stinky socks."
+      },
+      {
+        "id": "tvmaze:2495309",
+        "title": "The Show (And Tell) Must Go On",
+        "season": 13,
+        "episode": 15,
+        "released": "2023-03-12",
+        "overview": "Louise brings Tina along on a mission to find the perfect item for her last-ever Show and Tell. Meanwhile, Teddy goes overboard trying to impress a date at the restaurant."
+      },
+      {
+        "id": "tvmaze:2499047",
+        "title": "What a (April) Fool Believes",
+        "season": 13,
+        "episode": 16,
+        "released": "2023-03-19",
+        "overview": "Mr. Fischoeder challenges Bob to successfully prank him on April Fool's Day, or lose his lease."
+      },
+      {
+        "id": "tvmaze:2499049",
+        "title": "Crows Encounters of the Bird Kind",
+        "season": 13,
+        "episode": 17,
+        "released": "2023-03-19",
+        "overview": "Tina drags Bob along on a desperate quest to earn her bird-watching badge for ThunderGirls. Meanwhile, Louise and Gene try to keep their new restaurant game a secret from Linda."
+      },
+      {
+        "id": "tvmaze:2508599",
+        "title": "Gift Card or Buy Trying",
+        "season": 13,
+        "episode": 18,
+        "released": "2023-04-16",
+        "overview": "When a customer leaves a $100 gift card as a tip, Bob, Linda and the kids go on a $20-each shopping spree, and Gene has an awkward run-in with a former friend."
+      },
+      {
+        "id": "tvmaze:2514918",
+        "title": "Crab-solutely Fabulous",
+        "season": 13,
+        "episode": 19,
+        "released": "2023-04-23",
+        "overview": "The kids become a part of a crustacean-themed wrestling show. Meanwhile, Linda tries to form a 21-day habit."
+      },
+      {
+        "id": "tvmaze:2514919",
+        "title": "Radio No You Didn't",
+        "season": 13,
+        "episode": 20,
+        "released": "2023-04-30",
+        "overview": "Bob tells Linda and the kids the story behind an old, broken radio that used to belong to his grandmother Alice and the part it played in her discovery that a German spy lived in her building."
+      },
+      {
+        "id": "tvmaze:2514920",
+        "title": "Mother Author Laser Pointer",
+        "season": 13,
+        "episode": 21,
+        "released": "2023-05-14",
+        "overview": "Linda almost totally accidentally kidnaps a children's book author. Meanwhile, the kids help Mr. Frond try to get his cat out of a tree in front of the school."
+      },
+      {
+        "id": "tvmaze:2514921",
+        "title": "Amelia",
+        "season": 13,
+        "episode": 22,
+        "released": "2023-05-21",
+        "overview": "Louise takes a class assignment - and a few unhelpful comments by Wayne - very personally. And Bob hires a masseur-in-training to give Linda a massage for Mother's Day."
+      },
+      {
+        "id": "tvmaze:2594028",
+        "title": "Fight at the Not Okay Chore-ral",
+        "season": 14,
+        "episode": 1,
+        "released": "2023-10-01",
+        "overview": "When Linda and Bob suggest the kids do chores, the family ends up in a showdown."
+      },
+      {
+        "id": "tvmaze:2652983",
+        "title": "The Amazing Rudy",
+        "season": 14,
+        "episode": 2,
+        "released": "2023-10-08",
+        "overview": "Rudy attends an important dinner. The Belchers make an important casserole."
+      },
+      {
+        "id": "tvmaze:2658789",
+        "title": "The Pickleorette",
+        "season": 14,
+        "episode": 3,
+        "released": "2023-10-22",
+        "overview": "Bob and Linda help Gretchen throw her sister's bachelorette party. Meanwhile, Tina forces Gene and Louise to play a board game they found on the street."
+      },
+      {
+        "id": "tvmaze:2658790",
+        "title": "Running Down a Gene",
+        "season": 14,
+        "episode": 4,
+        "released": "2023-10-29",
+        "overview": "Gene tries to learn how to lucid dream in order to recover the world's most perfect song that he wrote while asleep. Meanwhile, Louise and Tina try to trap a cricket whose chirping is keeping Linda up at night."
+      },
+      {
+        "id": "tvmaze:2667079",
+        "title": "Bully-ieve It or Not",
+        "season": 14,
+        "episode": 5,
+        "released": "2023-11-05",
+        "overview": "The Belcher kids learn a secret about Zeke's past, while Bob rekindles his feud with Jimmy Pesto."
+      },
+      {
+        "id": "tvmaze:2673365",
+        "title": "Escape from Which Island?",
+        "season": 14,
+        "episode": 6,
+        "released": "2023-11-12",
+        "overview": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip on his exclusive club's secret island. Meanwhile, Linda gives the kids a crash-course on cocktail party etiquette."
+      },
+      {
+        "id": "tvmaze:2679647",
+        "title": "The (Raccoon) King and I",
+        "season": 14,
+        "episode": 7,
+        "released": "2023-11-19",
+        "overview": "During a neighborhood block party, Linda makes a mistake that could threaten the life of her favorite alley raccoon."
+      },
+      {
+        "id": "tvmaze:2683171",
+        "title": "Wharf, Me Worry?",
+        "season": 14,
+        "episode": 8,
+        "released": "2023-11-26",
+        "overview": "During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam."
+      },
+      {
+        "id": "tvmaze:2683343",
+        "title": "Fraud of the Dead: Docu-pocalypse",
+        "season": 14,
+        "episode": 9,
+        "released": "2023-12-03",
+        "overview": "A documentary film profiling world class archer Louise Belcher is interrupted by unexpected visitors."
+      },
+      {
+        "id": "tvmaze:2683344",
+        "title": "The Nightmare 2 Days Before Christmas",
+        "season": 14,
+        "episode": 10,
+        "released": "2023-12-17",
+        "overview": "When the power goes out two days before Christmas, The Belchers must spend the holiday at Mr. Fischoeder's family's old hunting lodge."
+      },
+      {
+        "id": "tvmaze:2691983",
+        "title": "Mission Impossi-Bob",
+        "season": 14,
+        "episode": 11,
+        "released": "2024-01-07",
+        "overview": "Teddy gets stuck in an underground survival bunker, and he calls on Bob to find him and get him out."
+      },
+      {
+        "id": "tvmaze:2779439",
+        "title": "Jade in the Shade",
+        "season": 14,
+        "episode": 12,
+        "released": "2024-03-10",
+        "overview": "On a tour of the town's bootlegging history, Linda and Louise stumble into a treasure-hunting adventure. Meanwhile, Bob, Tina and Gene play host to a group of street performers looking to settle a beef."
+      },
+      {
+        "id": "tvmaze:2848391",
+        "title": "Butt Sweat and Fears",
+        "season": 14,
+        "episode": 13,
+        "released": "2024-05-19",
+        "overview": "Tina is determined to get some upper butt action at Chelsea's party, but in her attempts to dry off her nervous butt sweat, her skirt ends up stuck in the dryer. Meanwhile, Teddy tries to get in on the family's competition of building objects from the basement trash."
+      },
+      {
+        "id": "tvmaze:2945022",
+        "title": "The Big Stieblitzki",
+        "season": 14,
+        "episode": 14,
+        "released": "2024-09-08",
+        "overview": "When the family gets invited to Rudy's father's birthday party, they scramble to make him look better than Paul, who's trying to hit on Rudy's mother. Meanwhile, Tina attempts to convince a woman to commit to a relationship with Rudy's father."
+      },
+      {
+        "id": "tvmaze:2945029",
+        "title": "The Right Tough Stuff",
+        "season": 14,
+        "episode": 15,
+        "released": "2024-09-15",
+        "overview": "When Gayle tells the family she's sending in an audition tape to be on Tough Stuff Island, Linda is determined to make her tape boring to save her from being humiliated on a rejection reel. Bob struggles with his new electric grinder while the kids secretly attempt to make Gayle's tape more interesting."
+      },
+      {
+        "id": "tvmaze:2945032",
+        "title": "To Catch a Beef",
+        "season": 14,
+        "episode": 16,
+        "released": "2024-09-22",
+        "overview": "When Bosco goes to Bob needing to learn how to make a burger for an undercover mission to oust criminal and burger joint owner Vincent Balicki, it becomes obvious that the sergeant is severely lacking in cooking knowledge. As Bob's family constantly halts any progress in Bob's lessons, Bosco, still unseasoned, goes to his interview, only to meet with his potential criminal employer again back at Bob's Burgers for a spontaneous burger-making test."
+      },
+      {
+        "id": "tvmaze:2944674",
+        "title": "The Tina Table: The Tables Have Tina-Ed",
+        "season": 15,
+        "episode": 1,
+        "released": "2024-09-29",
+        "overview": "Tina attempts to save her school news segment by interviewing Mr. Frond about his revolutionary new computer game. Meanwhile, Bob and Linda entertain Teddy by making up the plots to popular horror movies they haven't seen."
+      },
+      {
+        "id": "tvmaze:3013007",
+        "title": "Saving Favorite Drive-In",
+        "season": 15,
+        "episode": 2,
+        "released": "2024-10-06",
+        "overview": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing. Meanwhile, Linda accidentally insults another mom while on a group text chain, and Louise and Gene hide from Tina after stealing some of her favorite candy."
+      },
+      {
+        "id": "tvmaze:3013835",
+        "title": "Colon-ly the Dronely",
+        "season": 15,
+        "episode": 3,
+        "released": "2024-10-20",
+        "overview": "Linda agrees to drive Teddy to pick up Kathleen from her colonoscopy after he accidentally injures himself. Meanwhile, the kids concoct a scheme to prank an overhead drone which is set to film the school from above."
+      },
+      {
+        "id": "tvmaze:3027382",
+        "title": "For Whom the Doll Toes",
+        "season": 15,
+        "episode": 4,
+        "released": "2024-10-27",
+        "overview": "It's a mystery within a mystery as Louise stages a murder mystery in a creepy old dollhouse store for reasons that she has trouble explaining."
+      },
+      {
+        "id": "tvmaze:3034364",
+        "title": "Don't Stop Be-Cheesin",
+        "season": 15,
+        "episode": 5,
+        "released": "2024-11-03",
+        "overview": "Louise trains Tina to be the last student standing during an all-out cheese throwing battle against the other eighth graders. Meanwhile, Bob and Teddy teach Linda how to successfully eavesdrop on customers' conversations without getting caught."
+      },
+      {
+        "id": "tvmaze:3038199",
+        "title": "Hope N' Mic Night",
+        "season": 15,
+        "episode": 6,
+        "released": "2024-11-10",
+        "overview": "The kids want to host an open mic night at the restaurant, but the hidden costs keep mounting and Bob worries that this night will ruin them."
+      },
+      {
+        "id": "tvmaze:3047394",
+        "title": "Boogie Days",
+        "season": 15,
+        "episode": 7,
+        "released": "2024-11-24",
+        "overview": "When Louise signs up for a father-daughter boogie board contest, Bob's past comes back to haunt him."
+      },
+      {
+        "id": "tvmaze:3065440",
+        "title": "They Slug Horses, Don't They?",
+        "season": 15,
+        "episode": 8,
+        "released": "2024-12-08",
+        "overview": "Tina and Louise get into an argument that escalates across several graphic \"apology\" cards."
+      },
+      {
+        "id": "tvmaze:3069052",
+        "title": "Dog Christmas Day After Afternoon",
+        "season": 15,
+        "episode": 9,
+        "released": "2024-12-15",
+        "overview": "A family trip to go see Christmas lights turns into a rescue mission, in more ways than one."
+      },
+      {
+        "id": "tvmaze:3083113",
+        "title": "Advice Things Are Ad-nice",
+        "season": 15,
+        "episode": 10,
+        "released": "2024-12-29",
+        "overview": "Tina becomes the new advice columnist for the school newspaper. Teddy takes on more than he can handle when he volunteers to build a float for the Bounty of the Bay Parade."
+      },
+      {
+        "id": "tvmaze:3225908",
+        "title": "Mr. Fischoeder's Opus",
+        "season": 15,
+        "episode": 11,
+        "released": "2025-05-18",
+        "overview": "When the Belchers' landlord, Mr. Fischoeder, offers them two months free rent in exchange for catering an important reception at his house, the family must do everything they can to ensure the event goes perfectly."
+      },
+      {
+        "id": "tvmaze:3219496",
+        "title": "Like a Candle in the Gym",
+        "season": 15,
+        "episode": 12,
+        "released": "2025-05-29",
+        "overview": "Linda forces everyone to go on a family walk and the kids stumble onto a bizarre conspiracy theory."
+      },
+      {
+        "id": "tvmaze:3248828",
+        "title": "Snackface",
+        "season": 15,
+        "episode": 13,
+        "released": "2025-06-05",
+        "overview": "Tina, Gene, and Louise strike it rich in the illegal snack business at school but the addition of a new member to their \"cartel\" threatens to destroy it all."
+      },
+      {
+        "id": "tvmaze:3268506",
+        "title": "The Place Beyond the Pinecones",
+        "season": 15,
+        "episode": 14,
+        "released": "2025-06-12",
+        "overview": "Tina and the Thundergirls spend the night in the woods, and Tina faces something even scarier than her nemesis, Troop 257."
+      },
+      {
+        "id": "tvmaze:3273486",
+        "title": "The Lost City of Atlantic",
+        "season": 15,
+        "episode": 15,
+        "released": "2025-06-19",
+        "overview": "The Belchers have a wild night at a casino and Linda learns more about her late grandfather than she wanted to know."
+      },
+      {
+        "id": "tvmaze:3279438",
+        "title": "The Shell Game",
+        "season": 15,
+        "episode": 16,
+        "released": "2025-07-03",
+        "overview": "Bob competes in a Bachelor-style competition to inherit Mr. Fischoeder's 100-year-old giant tortoise."
+      },
+      {
+        "id": "tvmaze:3287986",
+        "title": "Wild Steal-ions",
+        "season": 15,
+        "episode": 17,
+        "released": "2025-07-10",
+        "overview": "Tina's lost book of semi-erotic Horse-torical Fiction lands in the hands of a mysterious stranger with nefarious intentions."
+      },
+      {
+        "id": "tvmaze:3289201",
+        "title": "Don't Worry, Be Hoopy",
+        "season": 15,
+        "episode": 18,
+        "released": "2025-07-17",
+        "overview": "Tina must confront her fear and her past when she advances to the County Finals of a national free throw competition."
+      },
+      {
+        "id": "tvmaze:3300612",
+        "title": "The Dead Bo-ats Society",
+        "season": 15,
+        "episode": 19,
+        "released": "2025-07-31",
+        "overview": "The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn."
+      },
+      {
+        "id": "tvmaze:3300613",
+        "title": "Dad-urday Kite Fever",
+        "season": 15,
+        "episode": 20,
+        "released": "2025-07-31",
+        "overview": "When Big Bob brings over a kite from Bob's childhood, Bob is determined to fly it with his kids. Meanwhile, Teddy seeks Linda's help in rehearsing for a play."
+      },
+      {
+        "id": "tvmaze:3304889",
+        "title": "Mr. Safebody",
+        "season": 15,
+        "episode": 21,
+        "released": "2025-08-07",
+        "overview": "Louise's schoolmate Arnold enlists her to direct a promotional video for his new bodyguarding business. Meanwhile, a stolen car blasting 90's alternative rock is abandoned outside of the restaurant."
+      },
+      {
+        "id": "tvmaze:3304890",
+        "title": "Insomnibob",
+        "season": 15,
+        "episode": 22,
+        "released": "2025-08-14",
+        "overview": "Insomnia sends Bob on a creative spree in the kitchen, but at what cost?."
+      },
+      {
+        "id": "tvmaze:3316825",
+        "title": "Grand Pre-Pre-Pre-Opening",
+        "season": 16,
+        "episode": 1,
+        "released": "2025-09-28",
+        "overview": "Bob and Linda are on the verge of a big decision which brings up memories of when the restaurant first opened. Meanwhile, the kids embark on a new musical project."
+      },
+      {
+        "id": "tvmaze:3367721",
+        "title": "'Til Death Do Us Art",
+        "season": 16,
+        "episode": 2,
+        "released": "2025-10-05",
+        "overview": "Linda becomes concerned when Gayle turns her love life into a performance art piece."
+      },
+      {
+        "id": "tvmaze:3378085",
+        "title": "The Twinnening",
+        "season": 16,
+        "episode": 3,
+        "released": "2025-10-19",
+        "overview": "Teddy takes a handyman job next door to the restaurant and finds himself trapped inside a store full of spooky antiques."
+      },
+      {
+        "id": "tvmaze:3390062",
+        "title": "The Skids in the Hall",
+        "season": 16,
+        "episode": 4,
+        "released": "2025-10-26",
+        "overview": "Louise and Gene try to help Tina clear her name after she is fired as a Hall Monitor."
+      },
+      {
+        "id": "tvmaze:3394761",
+        "title": "The Secret Guardin'",
+        "season": 16,
+        "episode": 5,
+        "released": "2025-11-02",
+        "overview": "Tina, Gene, and Louise have a secret to keep from Linda, but their plan is jeopardized when Louise gets loopy from dental surgery."
+      },
+      {
+        "id": "tvmaze:3400732",
+        "title": "Get Her to the Zeke",
+        "season": 16,
+        "episode": 6,
+        "released": "2025-11-09",
+        "overview": "Tina tries to set up Zeke on a date while the rest of the Belchers contend with a Super Rat."
+      },
+      {
+        "id": "tvmaze:3427595",
+        "title": "Tube for Tina",
+        "season": 16,
+        "episode": 7,
+        "released": "2025-11-23",
+        "overview": "Linda has a strong reaction when Tina buys a tiny tube top. Meanwhile, Bob, Teddy, Louise and Gene deal with the consequences of a rare bird flying into the window of the restaurant."
+      },
+      {
+        "id": "tvmaze:3441547",
+        "title": "Les Lizárdables",
+        "season": 16,
+        "episode": 8,
+        "released": "2025-12-07",
+        "overview": "Gene and Courtney become embroiled in a complex custody battle over an injured lizard."
+      },
+      {
+        "id": "tvmaze:3448489",
+        "title": "It's a Stunterful Life",
+        "season": 16,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "The kids get caught up in a stunt competition at a Christmas tree farm, while Bob decorates cookies for Santa and Linda tries to find every tree a home."
+      },
+      {
+        "id": "tvmaze:3468864",
+        "title": "Heist Things Are Heist",
+        "season": 16,
+        "episode": 10,
+        "released": "2025-12-28",
+        "overview": ""
+      }
+    ]
+  }
+}

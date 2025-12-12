@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "id": "tvmaze:88863",
+    "type": "series",
+    "name": "Incas: The Rise and Fall",
+    "description": "The rise and fall of the Inca is a story of a civilization marked by gold, power and ingenuity. From monumental cities and vast empires stretching across the Andes to dazzling treasures that inspired legends, the Incas conquered millions and reshaped South America. But their golden age ended suddenly, leaving behind mysteries, monumental ruins, and a legacy that still captivates the world.",
+    "poster": null,
+    "background": null,
+    "videos": [
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      },
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      },
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      },
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      },
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      },
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      },
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      },
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      },
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      },
+      {
+        "id": "tvmaze:3467340",
+        "title": "Birth of an Empire",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-12-14",
+        "overview": "A legend becomes an empire, witness the dawn of the Incas, where myth, power and sacrifice forged a civilization."
+      },
+      {
+        "id": "tvmaze:3467341",
+        "title": "The Great Expansion",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-12-21",
+        "overview": "The Inca Empire expanded at lightning speed, and its monumental works stretched across South America. Under the conqueror Tupac Yupanqui, the empire grew through force and strategy."
+      },
+      {
+        "id": "tvmaze:3467342",
+        "title": "The Golden Age",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-12-28",
+        "overview": "The Inca Empire reaches its golden age, with Cuzco overflowing with gold and the legendary wealth that inspired the legend of El Dorado."
+      },
+      {
+        "id": "tvmaze:3467343",
+        "title": "The Last Emperor",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-04",
+        "overview": "After a century of power, the mighty Inca Empire collapsed in less than a decade following the invasion of Spanish conquistadors. Civil war, betrayal and cunning tactics sealed the fate of the last three Inca rulers."
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:71918",
+    "type": "series",
+    "name": "CBS Saturday Morning",
+    "description": "Hosts Jeff Glor, Dana Jacobson and Michelle Miller provide original reporting, breaking news, and profiles of leading figures in culture and the arts from the Times Square studio on the Saturday edition of the CBS morning news family.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/593/1482533.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/593/1482533.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3451231",
+        "title": "AVTT/PTTN, Chef Ivan Orkin, Neeraj Ghaywan, Karan Johar",
+        "season": 3,
+        "episode": 113,
+        "released": "2025-12-06",
+        "overview": "Saturday Sessions: AVTT/PTTN, band.The Dish: Ivan Orkin, chef and owner of Ivan Ramen.Neeraj Ghaywan, director, and Karan Johar, producer of \"Homebound.\""
+      }
+    ]
+  }
+}

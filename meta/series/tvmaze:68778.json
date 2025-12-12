@@ -1,0 +1,1108 @@
+{
+  "meta": {
+    "id": "tvmaze:68778",
+    "type": "series",
+    "name": "AEW: Collision",
+    "description": "This live, two-hour, in-ring show will air every Saturday night from 8-10 p.m. ET and feature more wrestlers, more stories and more action to super-serve fans. AEW: Collision will feature headliners including Miro, Samoa Joe, Thunder Rosa, Powerhouse Hobbs, and Andrade El Idolo.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/572/1432197.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/572/1432197.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3398714",
+        "title": "#126 - Greater Columbus Convention Center in Columbus, OH",
+        "season": 3,
+        "episode": 54,
+        "released": "2025-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2550431",
+        "title": "#1 - United Center in Chicago, IL",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-06-17",
+        "overview": "Debut of Collision. CM Punk returns to team with FTR in a trios match against Samoa Joe, Jay White, Juice Robinson."
+      },
+      {
+        "id": "tvmaze:2550579",
+        "title": "#2 - Scotiabank Arena in Toronto, ON",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-06-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2550580",
+        "title": "#3 - FirstOntario Centre in Hamilton, ON",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-07-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2550581",
+        "title": "#4 - Brandt Centre in Regina, SK",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-07-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2550582",
+        "title": "#5 - Calgary Stampede Saddledome in Calgary, AB",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-07-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2550583",
+        "title": "#6 - Prudential Center in Newark, NJ",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-07-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2568467",
+        "title": "#7 - XL Center in Hartford, CT",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-07-29",
+        "overview": "AEW World Tag titles: FTR vs MJF, Adam Cole 'BayBay'. Buddy Mathews vs Andrade El ídolo. Del Vikingo, Andretti, Darius Martin vs The Gunns, Juice Robinson."
+      },
+      {
+        "id": "tvmaze:2568468",
+        "title": "#8 - Bon Secours Wellness Arena in Greenville, SC",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-08-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2568469",
+        "title": "#9 - Greensboro Coliseum in Greensboro, NC",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-08-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2578714",
+        "title": "#10 - Fight for the Fallen: Rupp Arena in Lexington, KY",
+        "season": 1,
+        "episode": 10,
+        "released": "2023-08-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2578715",
+        "title": "#11 - Fyter Fest: Gas South Arena in Duluth, GA",
+        "season": 1,
+        "episode": 11,
+        "released": "2023-08-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2578716",
+        "title": "#12 - United Center in Chicago, IL",
+        "season": 1,
+        "episode": 12,
+        "released": "2023-09-02",
+        "overview": "World Trios title: The Acclaimed vs Daddy Magic, Angelo Parker, Daniel Garcia. Dax Harwood vs Jay White. The Outcasts vs Britt Baker, Kris Statlander, Shida. Ricky Starks calls out Steamboat."
+      },
+      {
+        "id": "tvmaze:2596846",
+        "title": "#13 - Rocket Mortgage Fieldhouse in Cleveland, OH",
+        "season": 1,
+        "episode": 13,
+        "released": "2023-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2596847",
+        "title": "#14 - Bryce Jordan Center in State College, PA",
+        "season": 1,
+        "episode": 14,
+        "released": "2023-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2618316",
+        "title": "#15 - Van Andel Arena in Grand Rapids, MI",
+        "season": 1,
+        "episode": 15,
+        "released": "2023-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2618317",
+        "title": "#16 - Climate Pledge Arena in Seattle, WA",
+        "season": 1,
+        "episode": 16,
+        "released": "2023-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2618318",
+        "title": "#17 - Maverik Center in Salt Lake City, UT",
+        "season": 1,
+        "episode": 17,
+        "released": "2023-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2625383",
+        "title": "#18 - Huntington Center in Toledo, OH",
+        "season": 1,
+        "episode": 18,
+        "released": "2023-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635886",
+        "title": "#19 - FedExForum in Memphis, TN",
+        "season": 1,
+        "episode": 19,
+        "released": "2023-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635887",
+        "title": "#20 - Mohegan Sun Arena in Uncasville, CT",
+        "season": 1,
+        "episode": 20,
+        "released": "2023-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635888",
+        "title": "#21 - Intrust Bank Arena in Wichita, KS",
+        "season": 1,
+        "episode": 21,
+        "released": "2023-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635889",
+        "title": "#22 - Oakland Arena in Oakland, CA",
+        "season": 1,
+        "episode": 22,
+        "released": "2023-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635890",
+        "title": "#23 - Kia Forum in Los Angeles, CA",
+        "season": 1,
+        "episode": 23,
+        "released": "2023-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635891",
+        "title": "#24 - Petersen Events Center in Pittsburgh, PA",
+        "season": 1,
+        "episode": 24,
+        "released": "2023-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635892",
+        "title": "#25 - Erie Insurance Arena in Erie, PA",
+        "season": 1,
+        "episode": 25,
+        "released": "2023-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635893",
+        "title": "#26 - Bell Centre in Montreal, QC",
+        "season": 1,
+        "episode": 26,
+        "released": "2023-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635894",
+        "title": "#27 - Winter is Coming: Curtis Culwell Center in Garland, TX",
+        "season": 1,
+        "episode": 27,
+        "released": "2023-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635895",
+        "title": "#28 - Holiday Bash: Frost Bank Center in San Antonio, TX",
+        "season": 1,
+        "episode": 28,
+        "released": "2023-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635896",
+        "title": "#29 - Bojangles Coliseum in Charlotte, NC",
+        "season": 2,
+        "episode": 1,
+        "released": "2024-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2687587",
+        "title": "#30 - Chartway Arena in Norfolk, VA",
+        "season": 2,
+        "episode": 2,
+        "released": "2024-01-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2696335",
+        "title": "#31 - Chaifetz Arena in St. Louis, MO",
+        "season": 2,
+        "episode": 3,
+        "released": "2024-01-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2696336",
+        "title": "#32 - Brookshire Grocery Arena in Bossier City, LA",
+        "season": 2,
+        "episode": 4,
+        "released": "2024-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2705729",
+        "title": "#33 - Bert Ogden Arena in Edinburg, TX",
+        "season": 2,
+        "episode": 5,
+        "released": "2024-02-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2705730",
+        "title": "#34 - The Dollar Loan Center in Henderson, NV",
+        "season": 2,
+        "episode": 6,
+        "released": "2024-02-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720220",
+        "title": "#35 - Great Southern Bank Arena in Springfield, MO",
+        "season": 2,
+        "episode": 8,
+        "released": "2024-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720221",
+        "title": "#36 - Propst Arena at Von Braun Center in Huntsville, AL",
+        "season": 2,
+        "episode": 9,
+        "released": "2024-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720223",
+        "title": "#37 - Gas South Arena in Duluth, GA",
+        "season": 2,
+        "episode": 10,
+        "released": "2024-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720224",
+        "title": "#38 - Canadian Tire Centre in Ottawa, ON",
+        "season": 2,
+        "episode": 11,
+        "released": "2024-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720228",
+        "title": "#39 - Budweiser Gardens in London, ON",
+        "season": 2,
+        "episode": 13,
+        "released": "2024-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726479",
+        "title": "#40 - DCU Center in Worcester, MA",
+        "season": 2,
+        "episode": 14,
+        "released": "2024-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726480",
+        "title": "#41 - Truist Arena in Highland Heights, KY",
+        "season": 2,
+        "episode": 15,
+        "released": "2024-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726481",
+        "title": "#42 - Peoria Civic Center in Peoria, IL",
+        "season": 2,
+        "episode": 16,
+        "released": "2024-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726482",
+        "title": "#43 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 17,
+        "released": "2024-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726484",
+        "title": "#44 - Rogers Arena in Vancouver, BC",
+        "season": 2,
+        "episode": 19,
+        "released": "2024-05-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726485",
+        "title": "#45 - Moda Center in Portland, OR",
+        "season": 2,
+        "episode": 20,
+        "released": "2024-05-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726486",
+        "title": "#46 - MGM Grand Garden Arena in Las Vegas, NV",
+        "season": 2,
+        "episode": 21,
+        "released": "2024-05-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726487",
+        "title": "#47 - Acrisure Arena in Palm Springs, CA",
+        "season": 2,
+        "episode": 22,
+        "released": "2024-06-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726488",
+        "title": "#48 - Mid-America Center in Council Bluffs, IA",
+        "season": 2,
+        "episode": 23,
+        "released": "2024-06-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726489",
+        "title": "#49 - 1 Year Anniversary: Covelli Centre in Youngstown, OH",
+        "season": 2,
+        "episode": 24,
+        "released": "2024-06-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726490",
+        "title": "#50 - PPL Center in Allentown, PA",
+        "season": 2,
+        "episode": 25,
+        "released": "2024-06-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732638",
+        "title": "#51 - KeyBank Center in Buffalo, NY",
+        "season": 2,
+        "episode": 26,
+        "released": "2024-06-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732639",
+        "title": "#52 - Landers Center in Southaven, MS",
+        "season": 2,
+        "episode": 27,
+        "released": "2024-07-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732640",
+        "title": "#53 - Scotiabank Saddledome in Calgary, AB",
+        "season": 2,
+        "episode": 28,
+        "released": "2024-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732641",
+        "title": "#54 - Esports Stadium in Arlington, TX",
+        "season": 2,
+        "episode": 29,
+        "released": "2024-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732642",
+        "title": "#55 - Esports Stadium in Arlington, TX",
+        "season": 2,
+        "episode": 30,
+        "released": "2024-07-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732643",
+        "title": "#56 - Esports Stadium in Arlington, TX",
+        "season": 2,
+        "episode": 31,
+        "released": "2024-08-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732644",
+        "title": "#57 - Esports Stadium in Arlington, TX",
+        "season": 2,
+        "episode": 32,
+        "released": "2024-08-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732645",
+        "title": "#58 - Esports Stadium in Arlington, TX",
+        "season": 2,
+        "episode": 33,
+        "released": "2024-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732646",
+        "title": "#59 - Utilita Arena Cardiff in Cardiff, Wales",
+        "season": 2,
+        "episode": 34,
+        "released": "2024-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732647",
+        "title": "#60 - Denny Sanford Premier Center in Sioux Falls, SD",
+        "season": 2,
+        "episode": 35,
+        "released": "2024-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732648",
+        "title": "#61 - NOW Arena in Hoffman Estates, IL",
+        "season": 2,
+        "episode": 36,
+        "released": "2024-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732649",
+        "title": "#62 - Nutter Center in Dayton, OH",
+        "season": 2,
+        "episode": 37,
+        "released": "2024-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732650",
+        "title": "#63 - MassMutual Center in Springfield, MA",
+        "season": 2,
+        "episode": 38,
+        "released": "2024-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732651",
+        "title": "#64 - Grand Slam: Arthur Ashe Stadium in Queens, NY",
+        "season": 2,
+        "episode": 39,
+        "released": "2024-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732652",
+        "title": "#65 - Huntington Center in Toledo, OH",
+        "season": 2,
+        "episode": 40,
+        "released": "2024-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732654",
+        "title": "#66 - Adventist Health Arena in Stockton, CA",
+        "season": 2,
+        "episode": 42,
+        "released": "2024-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732655",
+        "title": "#67 - Alliant Energy Powerhouse in Cedar Rapids, IA",
+        "season": 2,
+        "episode": 43,
+        "released": "2024-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732656",
+        "title": "#68 - Liacouras Center in Philadelphia, PA",
+        "season": 2,
+        "episode": 44,
+        "released": "2024-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732657",
+        "title": "#69 - Amica Mutual Pavilion in Providence, RI",
+        "season": 2,
+        "episode": 45,
+        "released": "2024-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732658",
+        "title": "#70 - MVP Arena in Albany, NY",
+        "season": 2,
+        "episode": 46,
+        "released": "2024-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732660",
+        "title": "#71 - Wintrust Arena in Chicago, IL",
+        "season": 2,
+        "episode": 48,
+        "released": "2024-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732661",
+        "title": "#72 - Greater Columbus Convention Center in Columbus, OH",
+        "season": 2,
+        "episode": 49,
+        "released": "2024-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732662",
+        "title": "#73 - Winter is Coming: Chaifetz Arena in St. Louis, MO",
+        "season": 2,
+        "episode": 50,
+        "released": "2024-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732663",
+        "title": "#74 - Christmas Collision: Hammerstein Ballroom in New York, NY",
+        "season": 2,
+        "episode": 51,
+        "released": "2024-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3030029",
+        "title": "#75 - Bojangles Coliseum in Charlotte, NC",
+        "season": 3,
+        "episode": 1,
+        "released": "2025-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3030030",
+        "title": "#76 - Akins Ford Arena in Athens, GA",
+        "season": 3,
+        "episode": 2,
+        "released": "2025-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3030028",
+        "title": "#77 - Maximum Carnage: Brady Music Center in Cincinnati, OH",
+        "season": 3,
+        "episode": 3,
+        "released": "2025-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3030031",
+        "title": "#78 - Homecoming: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 4,
+        "released": "2025-01-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065737",
+        "title": "#79 - Probst Arena in Huntsville, AL",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065738",
+        "title": "#80 - Fort Bend County Epicenter in Houston, TX",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-02-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3146711",
+        "title": "#81 - Grand Slam Australia: Brisbane Entertainment Centre in Brisbane, Australia",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-02-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065740",
+        "title": "#82 - Arizona Financial Theater in Phoenix, AZ",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-02-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065741",
+        "title": "#83 - Frontwave Arena in Oceanside, CA",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065742",
+        "title": "#84 - Sacramento Memorial Auditorium in Sacramento, CA",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-03-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065743",
+        "title": "#85 - The Theater At Virgin Hotels in Las Vegas, NV",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-03-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3120066",
+        "title": "#86 - Slam Dunk Saturday: Liberty First Credit Union Arena in Omaha, NE",
+        "season": 3,
+        "episode": 12,
+        "released": "2025-03-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3170945",
+        "title": "#86 - Slam Dunk Sunday: Liberty First Credit Union Arena in Omaha, NE",
+        "season": 3,
+        "episode": 13,
+        "released": "2025-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3120067",
+        "title": "#87 - UW-Milwaukee Panther Arena in Milwaukee, WI",
+        "season": 3,
+        "episode": 14,
+        "released": "2025-03-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3120068",
+        "title": "#88 - Peoria Civic Center in Peoria, IL",
+        "season": 3,
+        "episode": 15,
+        "released": "2025-04-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154303",
+        "title": "#89 - MassMutual Center in Springfield, MA",
+        "season": 3,
+        "episode": 16,
+        "released": "2025-04-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154304",
+        "title": "#90 - Spring Breakthru: MGM Music Hall at Fenway in Boston, MA",
+        "season": 3,
+        "episode": 17,
+        "released": "2025-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154305",
+        "title": "#91 - Playoff Palooza: Lakefront Arena in New Orleans, LA",
+        "season": 3,
+        "episode": 18,
+        "released": "2025-04-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154306",
+        "title": "#92 - Adrian Phillips Theater at Boardwalk Hall in Atlantic City, NJ",
+        "season": 3,
+        "episode": 19,
+        "released": "2025-05-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154307",
+        "title": "#93 - Masonic Temple Theatre in Detroit, MI",
+        "season": 3,
+        "episode": 20,
+        "released": "2025-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3169918",
+        "title": "#94 - Beach Break: NOW Arena in Hoffman Estates, IL",
+        "season": 3,
+        "episode": 21,
+        "released": "2025-05-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3169919",
+        "title": "#95 - Rio Rancho Events Center in Albuquerque, NM",
+        "season": 3,
+        "episode": 22,
+        "released": "2025-05-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3184329",
+        "title": "#96 - El Paso County Coliseum in El Paso, TX",
+        "season": 3,
+        "episode": 23,
+        "released": "2025-05-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3209888",
+        "title": "#97 - Fyter Fest: Mission Ballroom in Denver, CO",
+        "season": 3,
+        "episode": 24,
+        "released": "2025-06-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3209889",
+        "title": "#98 - Summer Blockbuster: Theater of the Clouds at Moda Center in Portland, OR",
+        "season": 3,
+        "episode": 25,
+        "released": "2025-06-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3209890",
+        "title": "#99 - accesso ShoWare Center in Kent, WA",
+        "season": 3,
+        "episode": 26,
+        "released": "2025-06-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3209891",
+        "title": "#100 - accesso ShoWare Center in Kent, WA",
+        "season": 3,
+        "episode": 27,
+        "released": "2025-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3209892",
+        "title": "#101 - 100: Toyota Arena in Ontario, CA",
+        "season": 3,
+        "episode": 28,
+        "released": "2025-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3209893",
+        "title": "#102 - Curtis Culwell Center in Garland, TX",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225828",
+        "title": "#103 - Byline Bank Aragon Ballroom in Chicago, IL",
+        "season": 3,
+        "episode": 31,
+        "released": "2025-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225829",
+        "title": "#104 - Byline Bank Aragon Ballroom in Chicago, IL",
+        "season": 3,
+        "episode": 32,
+        "released": "2025-07-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225830",
+        "title": "#105 - Byline Bank Aragon Ballroom in Chicago, IL",
+        "season": 3,
+        "episode": 33,
+        "released": "2025-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225831",
+        "title": "#106 - Berglund Center in Roanoke, VA",
+        "season": 3,
+        "episode": 34,
+        "released": "2025-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225832",
+        "title": "#107 - Andrew J Brady Music Center in Cincinnati, OH",
+        "season": 3,
+        "episode": 35,
+        "released": "2025-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225833",
+        "title": "#108 - OVO Hydro in Glasgow, Scotland",
+        "season": 3,
+        "episode": 36,
+        "released": "2025-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225834",
+        "title": "#109 - 2300 Arena in Philadelphia, PA",
+        "season": 3,
+        "episode": 37,
+        "released": "2025-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225835",
+        "title": "#110 - 2300 Arena in Philadelphia, PA",
+        "season": 3,
+        "episode": 38,
+        "released": "2025-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225836",
+        "title": "#111 - 2300 Arena in Philadelphia, PA",
+        "season": 3,
+        "episode": 39,
+        "released": "2025-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3364374",
+        "title": "#112 - September to Remember: Canada Life Place in London, ON",
+        "season": 3,
+        "episode": 40,
+        "released": "2025-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3371850",
+        "title": "#113 - AEW Saturday Tailgate Brawl: All Out: Scotiabank Centre in Toronto, ON",
+        "season": 3,
+        "episode": 41,
+        "released": "2025-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3331425",
+        "title": "#114 - Marshall Health Network Arena in Huntington, WV",
+        "season": 3,
+        "episode": 42,
+        "released": "2025-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3335039",
+        "title": "#115 - RP Funding Center in Lakeland, FL",
+        "season": 3,
+        "episode": 43,
+        "released": "2025-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3335040",
+        "title": "#116 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 44,
+        "released": "2025-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350766",
+        "title": "#117 - Cable Dahmer Arena in Kansas City, MO",
+        "season": 3,
+        "episode": 45,
+        "released": "2025-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3391432",
+        "title": "#118 - AEW Saturday Tailgate Brawl: WrestleDream: Chaifetz Arena in St. Louis, MO",
+        "season": 3,
+        "episode": 46,
+        "released": "2025-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350767",
+        "title": "#119 - Boeing Center at TechPort in San Antonio, TX",
+        "season": 3,
+        "episode": 47,
+        "released": "2025-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350768",
+        "title": "#120 - Fright Night: Bert Ogden Arena in Edinburg, TX",
+        "season": 3,
+        "episode": 48,
+        "released": "2025-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350769",
+        "title": "#121 - Bayou Music Center in Houston, TX",
+        "season": 3,
+        "episode": 49,
+        "released": "2025-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350770",
+        "title": "#122 - Erie Insurance Arena in Erie, PA",
+        "season": 3,
+        "episode": 50,
+        "released": "2025-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436399",
+        "title": "#123 - Agganis Arena in Boston, MA",
+        "season": 3,
+        "episode": 51,
+        "released": "2025-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3436400",
+        "title": "#124 - AEW Saturday Tailgate Brawl: Full Gear: Prudential Center in Newark, NJ",
+        "season": 3,
+        "episode": 52,
+        "released": "2025-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3398713",
+        "title": "#125 - Thanksgiving: The Pinnacle in Nashville, TN",
+        "season": 3,
+        "episode": 53,
+        "released": "2025-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3398714",
+        "title": "#126 - Greater Columbus Convention Center in Columbus, OH",
+        "season": 3,
+        "episode": 54,
+        "released": "2025-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3398715",
+        "title": "#127 - Winter is Coming: Utilita Arena in Cardiff, Wales",
+        "season": 3,
+        "episode": 55,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450093",
+        "title": "#128 - Holiday Bash: Co-op Live in Manchester, England",
+        "season": 3,
+        "episode": 56,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446873",
+        "title": "#129 - Holiday Bash: Co-op Live in Manchester, England",
+        "season": 3,
+        "episode": 57,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446874",
+        "title": "#130 - Christmas Collision: Hammerstein Ballroom in New York, NY",
+        "season": 3,
+        "episode": 58,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446881",
+        "title": "#130 - Esports Stadium in Arlington, TX",
+        "season": 4,
+        "episode": 1,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446882",
+        "title": "#131 - Esports Stadium in Arlington, TX",
+        "season": 4,
+        "episode": 2,
+        "released": "2026-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446883",
+        "title": "#132",
+        "season": 4,
+        "episode": 3,
+        "released": "2026-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446884",
+        "title": "#133 - Esports Stadium in Arlington, TX",
+        "season": 4,
+        "episode": 4,
+        "released": "2026-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446885",
+        "title": "#134 - Esports Stadium in Arlington, TX",
+        "season": 4,
+        "episode": 5,
+        "released": "2026-01-31",
+        "overview": ""
+      }
+    ]
+  }
+}

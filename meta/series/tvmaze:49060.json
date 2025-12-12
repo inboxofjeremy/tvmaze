@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "id": "tvmaze:49060",
+    "type": "series",
+    "name": "90 Day Fiancé Pillow Talk: Before the 90 Days",
+    "description": "Your 90 Day favorites invite you into their homes as they watch last night's episode of Before the 90 Days?",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/534/1337276.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/534/1337276.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449231",
+        "title": "Now Boarding",
+        "season": 6,
+        "episode": 1,
+        "released": "2025-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449232",
+        "title": "Fasten Your Seatbelts",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449233",
+        "title": "Prepare For Take-off",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464833",
+        "title": "It's Going To Be A Bumpy Ride",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464834",
+        "title": "TBA",
+        "season": 6,
+        "episode": 5,
+        "released": "2026-01-04",
+        "overview": ""
+      }
+    ]
+  }
+}

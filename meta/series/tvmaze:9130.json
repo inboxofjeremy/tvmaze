@@ -1,0 +1,812 @@
+{
+  "meta": {
+    "id": "tvmaze:9130",
+    "type": "series",
+    "name": "Celebrity Mastermind",
+    "description": "Celebrity Mastermind is a British television quiz show broadcast by BBC television. The show is a spin-off of the long running quiz show Mastermind, with the exception that all the contestants are celebrities. As with the main show, Clive Myrie has been the host and question-master since 2022.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/231/578515.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/231/578515.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      },
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      },
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      },
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      },
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      },
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      },
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      },
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      },
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      },
+      {
+        "id": "tvmaze:3465774",
+        "title": "Maryam Moshiri, Chesney Hawkes, Desiree Burch, Danny Robins",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "Journalist and news presenter Maryam Moshiri, singer-songwriter Chesney Hawkes, comedian Desiree Burch and Uncanny host Danny Robins go under the spotlight, answering questions on the Bridget Jones films, The Beatles' White Album, the actress Viola Davis and the Star Wars television series, The Mandalorian."
+      },
+      {
+        "id": "tvmaze:3465775",
+        "title": "Stuart Pearce, Gemma Cairney, Axel Blake, Phil Dunning",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-12-23",
+        "overview": "Former footballer Stuart Pearce, TV and radio presenter Gemma Cairney, comedian Axel Blake, and writer and actor Phil Dunning are in the famous black chair answering questions on UK punk rock 1976–1979, the British artist Pamela Colman Smith, the history of Marvel Comics and Paul O'Grady."
+      },
+      {
+        "id": "tvmaze:3465776",
+        "title": "Gareth Malone, Gamba Cole, Yewande Biala, Lucy Beaumont",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-12-24",
+        "overview": "Musician and choirmaster Gareth Malone, actor Gamba Cole, Love Island star Yewande Biala and comedian Lucy Beaumont answer questions on the composer Robert Schumann's ‘year of song', the Rush Hour films, the American R&amp;B singer SZA and the comedian Les Dawson."
+      },
+      {
+        "id": "tvmaze:3465778",
+        "title": "Will Best, Laura Smyth, Nikita Kuzmin, Jayne Wisener",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-12-26",
+        "overview": "TV presenter Will Best, comedian Laura Smyth, Strictly professional dancer Nikita Kuzmin and actress Jayne Wisener are in the famous black chair, answering questions on the actor Danny Dyer, the films of Baz Luhrmann, Cristiano Ronaldo and the Belfast punk pioneer Terri Hooley."
+      },
+      {
+        "id": "tvmaze:3465780",
+        "title": "Fire, Matt Edmondson, Sonnaz Nooranvary, Lewis Goodall",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-12-28",
+        "overview": "Fire from the TV series Gladiators, TV and radio presenter Matt Edmondson, The Repair Shop upholstery expert Sonnaz Nooranvary and broadcaster Lewis Goodall are in the spotlight, answering questions on the music of Lauryn Hill, the history of board games, the Robert Langdon novels of Dan Brown and the US president John Adams."
+      },
+      {
+        "id": "tvmaze:3465783",
+        "title": "Dean Franklin, Chloe Petts, Ashley John-Baptiste, Robyn Cowen",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-12-29",
+        "overview": "The Apprentice winner Dean Franklin, comedian Chloe Petts, TV presenter Ashley John-Baptiste and football commentator Robyn Cowen go under the spotlight, answering questions on the Hangover films, The Vicar of Dibley, the American soul singer Donny Hathaway and the original Karate Kid trilogy."
+      },
+      {
+        "id": "tvmaze:3465784",
+        "title": "Iwan Thomas, Sophie Aldred, Mobeen Azhar, Ashley James",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-12-30",
+        "overview": "Former athlete Iwan Thomas, Doctor Who actor Sophie Aldred, journalist Mobeen Azhar and broadcaster Ashley James answer questions on the Oscar-winning film Forrest Gump, the actor Sylvester McCoy, Prince's Sign o' the Times album and the suffragette activist Lady Constance Lytton."
+      },
+      {
+        "id": "tvmaze:3465785",
+        "title": "Tia Kofi, Lauren Patel, Josh Jones, Izzie Balmer",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-12-31",
+        "overview": "Drag performer Tia Kofi, actress Lauren Patel, comedian Josh Jones, and TV presenter and auctioneer Izzie Balmer are in the famous black chair answering questions on the Christopher Eccleston incarnation of Doctor Who, the Oscar-winning film musical La La Land, Lady Jane Grey and guinea pigs."
+      },
+      {
+        "id": "tvmaze:3465786",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2026-01-01",
+        "overview": "More celebrities brave the famous black chair."
+      },
+      {
+        "id": "tvmaze:3465787",
+        "title": "Colson Smith, Nadia Jae, Grace Campbell, Joel M",
+        "season": 24,
+        "episode": 10,
+        "released": "2026-01-02",
+        "overview": "Actor Colson Smith, radio presenter Nadia Jae, comedian Grace Campbell and Blue Peter presenter Joel M are in the famous black chair answering questions on Leeds United under Marcelo Bielsa, Marvel's Avengers films, the actor Robin Williams and the illusionist Darren Brown."
+      }
+    ]
+  }
+}

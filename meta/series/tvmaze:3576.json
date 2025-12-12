@@ -1,0 +1,4516 @@
+{
+  "meta": {
+    "id": "tvmaze:3576",
+    "type": "series",
+    "name": "POV",
+    "description": "POV (a cinema term for \"point of view\" ) is television's longest-running showcase for independent non-fiction films. POV premieres 14-16 of the best, boldest and most innovative programs every year on PBS. Since 1988, POV has presented over 400 films to public television audiences across the country. POV films are known for their intimacy, their unforgettable storytelling and their timeliness, putting a human face on contemporary social issues.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/496/1240293.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/496/1240293.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3286438",
+        "title": "Between Goodbyes",
+        "season": 38,
+        "episode": 15,
+        "released": "2025-12-08",
+        "overview": "When a queer Korean adoptee reunites with her birth mother in Seoul, long-buried cultural misunderstandings and unspoken regrets surface. With tenderness, humor, and determination, both mother and daughter navigate the heart-wrenching legacy of international adoption."
+      },
+      {
+        "id": "tvmaze:233322",
+        "title": "Acting Our Age",
+        "season": 1,
+        "episode": 1,
+        "released": "1988-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233323",
+        "title": "American Tongues",
+        "season": 1,
+        "episode": 2,
+        "released": "1988-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233324",
+        "title": "Fire from the Mountain",
+        "season": 1,
+        "episode": 3,
+        "released": "1988-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233325",
+        "title": "Knocking on Armageddon's Door",
+        "season": 1,
+        "episode": 4,
+        "released": "1988-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233326",
+        "title": "Living with AIDS",
+        "season": 1,
+        "episode": 5,
+        "released": "1988-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233332",
+        "title": "Rate It X",
+        "season": 1,
+        "episode": 6,
+        "released": "1988-07-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233327",
+        "title": "Las Madres: The Mothers of Plaza de Mayo",
+        "season": 1,
+        "episode": 7,
+        "released": "1988-08-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233328",
+        "title": "The Good Fight",
+        "season": 1,
+        "episode": 8,
+        "released": "1988-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233333",
+        "title": "Metropolitan Avenue",
+        "season": 1,
+        "episode": 9,
+        "released": "1988-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233329",
+        "title": "Louie Bluie",
+        "season": 1,
+        "episode": 10,
+        "released": "1988-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233330",
+        "title": "Gates of Heaven",
+        "season": 1,
+        "episode": 11,
+        "released": "1988-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233331",
+        "title": "Best Boy",
+        "season": 1,
+        "episode": 12,
+        "released": "1988-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233335",
+        "title": "Who Killed Vincent Chin?",
+        "season": 2,
+        "episode": 1,
+        "released": "1989-07-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233336",
+        "title": "Coming Out",
+        "season": 2,
+        "episode": 2,
+        "released": "1989-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233337",
+        "title": "Wise Guys!",
+        "season": 2,
+        "episode": 3,
+        "released": "1989-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233338",
+        "title": "The Family Album",
+        "season": 2,
+        "episode": 4,
+        "released": "1989-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233339",
+        "title": "Dark Circle",
+        "season": 2,
+        "episode": 5,
+        "released": "1989-08-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233340",
+        "title": "Jack Levine: Feast of Pure Reason",
+        "season": 2,
+        "episode": 6,
+        "released": "1989-08-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233341",
+        "title": "No Applause, Just Throw Money",
+        "season": 2,
+        "episode": 7,
+        "released": "1989-08-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876670",
+        "title": "Whatever Happened to Zworl Quern?",
+        "season": 2,
+        "episode": 8,
+        "released": "1989-08-20",
+        "overview": "\"Zworl Quern\" was a stage name for Janet Wolfe, whose brief but bizarre acting career including being sawed in half by Orson Welles. Friends and family tell stories about this irrepressible woman who has fearlessly traveled the world in search of love, art and adventure."
+      },
+      {
+        "id": "tvmaze:233342",
+        "title": "Partisans of Vilna",
+        "season": 2,
+        "episode": 9,
+        "released": "1989-08-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233343",
+        "title": "The Fighting Ministers",
+        "season": 2,
+        "episode": 10,
+        "released": "1989-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233344",
+        "title": "Binge",
+        "season": 2,
+        "episode": 11,
+        "released": "1989-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233345",
+        "title": "Cowboy Poets",
+        "season": 2,
+        "episode": 12,
+        "released": "1989-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233346",
+        "title": "Doug and Mike, Mike and Doug",
+        "season": 2,
+        "episode": 13,
+        "released": "1989-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233347",
+        "title": "Lost Angeles",
+        "season": 2,
+        "episode": 14,
+        "released": "1989-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233334",
+        "title": "Girltalk",
+        "season": 2,
+        "episode": 15,
+        "released": "1989-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876671",
+        "title": "Through the Wire",
+        "season": 3,
+        "episode": 1,
+        "released": "1990-06-26",
+        "overview": "In 1986, three women convicted of politically motivated nonviolent offenses were transferred to a secret, subterranean prison where they were kept in constantly lit near isolation, watched 24 hours a day and strip-searched routinely for nearly two years. The women were not imprisoned in Turkey or Iran or Chile, but in Lexington, Ky."
+      },
+      {
+        "id": "tvmaze:1876672",
+        "title": "Police Chiefs",
+        "season": 3,
+        "episode": 2,
+        "released": "1990-06-30",
+        "overview": "How can we curb crime? Three big city police chiefs reveal sharply differing philosophies of law enforcement. From Daryl Gates, who introduced SWAT to Los Angeles, to Anthony Bouza, who ruffled feathers in Minneapolis, to Lee P. Brown, who recently left Houston for New York, these top cop's ideas about the causes and cures of crime are as varied as their personalities."
+      },
+      {
+        "id": "tvmaze:1876673",
+        "title": "Metamorphosis: Man Into Woman",
+        "season": 3,
+        "episode": 3,
+        "released": "1990-07-03",
+        "overview": "Gary, a 39-year-old successful animation artist and devout Christian, is pursuing a lifelong dream — to become a woman. Metamorphosis is a candid, non-sensational and sometimes humorous journey of nearly three years as Gary prepares physically and emotionally for sex reassignment surgery. Along the way, the film raises provocative questions about what really makes us men and women."
+      },
+      {
+        "id": "tvmaze:1876674",
+        "title": "Larry Wright",
+        "season": 3,
+        "episode": 4,
+        "released": "1990-07-10",
+        "overview": "With a subway platform as his stage and a plastic can as his instrument, 14-year-old Larry Wright is a self-taught drummer with astonishing talent. Larry Wright is a rousing tribute to the Harlem youth and the rich culture of the urban streets."
+      },
+      {
+        "id": "tvmaze:1876675",
+        "title": "On Ice",
+        "season": 3,
+        "episode": 5,
+        "released": "1990-07-10",
+        "overview": "Cryonics — the freezing of human beings after death for future revival — is the focus of this off-beat film by two science buffs-turned-film-majors. With commentary from Timothy Leary, a theologian and skeptical scientists, On Ice is alternately deadpan and dead serious."
+      },
+      {
+        "id": "tvmaze:1876676",
+        "title": "Letter To The Next Generation",
+        "season": 3,
+        "episode": 6,
+        "released": "1990-07-17",
+        "overview": "Are college students today apathetic and self-centered? Twenty years after National Guardsmen opened fire on student antiwar demonstrators, Jim Klein, a 60's radical-turned-filmmaker (Union Maids, Seeing Red) visits the campus of Kent State to probe behind the stereotypes. Together with young patrons of the local tanning salon, activists-turned-professors, and an ROTC captain, Klein ponders the social forces that are changing campuses and the country in the 90's."
+      },
+      {
+        "id": "tvmaze:1876677",
+        "title": "Salesman",
+        "season": 3,
+        "episode": 7,
+        "released": "1990-07-24",
+        "overview": "In its national broadcast premiere, this bittersweet classic from pioneering filmmakers follows four door-to-door Bible salesmen as they walk the line between hype and despair."
+      },
+      {
+        "id": "tvmaze:1876678",
+        "title": "Kamala And Raji",
+        "season": 3,
+        "episode": 8,
+        "released": "1990-08-07",
+        "overview": "The textures and complexities of everyday life in India unfold in Michael Camerini's richly observed story of two poor women and their efforts to improve their lives."
+      },
+      {
+        "id": "tvmaze:1876679",
+        "title": "Golub",
+        "season": 3,
+        "episode": 9,
+        "released": "1990-08-14",
+        "overview": "Golub is more than a portrait of the socially committed painter Leon Golub, whose massive canvases are intended to provoke viewers. It is about media and contemporary society, social responsibility and creativity, art and information."
+      },
+      {
+        "id": "tvmaze:1876680",
+        "title": "Days of Waiting",
+        "season": 3,
+        "episode": 10,
+        "released": "1990-08-15",
+        "overview": "Artist Estell Peck Ishigo went with her Japanese American husband into an internment camp during World War II, one of the few Caucasians to do so. Vividly recreated from Ishigo's own memoirs, photos and paintings, Days Of Waiting reveals the shattering relocation experience from an \"outsider's\" perspective."
+      },
+      {
+        "id": "tvmaze:1876681",
+        "title": "Going Up",
+        "season": 3,
+        "episode": 11,
+        "released": "1990-08-21",
+        "overview": "In Going Up, the creation of a skyscraper is transformed by director Gary Pollard into a breathtaking visual experience as time-lapse photography, hard hat banter and construction worker choreography are set to a score by 15 new music composers in an urban ballet forty stories above New York harbor."
+      },
+      {
+        "id": "tvmaze:1876682",
+        "title": "Green Streets",
+        "season": 3,
+        "episode": 12,
+        "released": "1990-08-21",
+        "overview": "If a tree can grow in Brooklyn, can an eggplant flourish in the Bronx? Maria De Luca's Green Streets charts the spontaneous emergence of community gardens in New York City and how they've helped to nourish neighborhood pride, racial tolerance and a budding sense of hope for hundreds of enthusiastic gardeners in the urban jungle."
+      },
+      {
+        "id": "tvmaze:1876683",
+        "title": "Motel",
+        "season": 3,
+        "episode": 13,
+        "released": "1990-08-28",
+        "overview": "Behind the faded signs of three motels in the American Southwest lay entire worlds of passion, loyalty, adventure and fate. Veteran filmmaker Christian Blackwood winds his way into the soul of remarkable people in uniquely American subculture."
+      },
+      {
+        "id": "tvmaze:1876684",
+        "title": "¡Teatro!",
+        "season": 3,
+        "episode": 14,
+        "released": "1990-09-04",
+        "overview": "Founded by a Jesuit priest from St. Louis, a grassroots theatre company takes its shows on the unpaved roads of Honduras to enlighten and inspire villagers in the impoverished countryside."
+      },
+      {
+        "id": "tvmaze:1876685",
+        "title": "Ossian: American Boy, Tibetan Monk",
+        "season": 3,
+        "episode": 15,
+        "released": "1990-09-04",
+        "overview": "Ossian Maclise is not an average American teenager. Born in Massachusetts, he has been living in a Tibetan Buddhist monastery since the age of four. At seven, his monastic order recognized Ossian as a tulku — a reincarnation of a high Tibetan lama."
+      },
+      {
+        "id": "tvmaze:1876686",
+        "title": "'People Power",
+        "season": 3,
+        "episode": 16,
+        "released": "1990-09-11",
+        "overview": "After years of witnessing first hand the horrors of guerrilla wars, Israeli-born producer Ilan Ziv traveled to Chile, the Philippines and the West Bank to explore the development of \"People Power\" and to reexamine his own long-held belief in the necessary evil of violence to overthrow repressive governments."
+      },
+      {
+        "id": "tvmaze:1876687",
+        "title": "Absolutely Positive",
+        "season": 4,
+        "episode": 1,
+        "released": "1991-06-18",
+        "overview": "Filmmaker Peter Adair asks 11 people — women and men, gay and straight, from all walks of life — to share their stories about living with the HIV virus."
+      },
+      {
+        "id": "tvmaze:1876688",
+        "title": "Marc and Ann",
+        "season": 4,
+        "episode": 2,
+        "released": "1991-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876689",
+        "title": "Plena Is Work, Plena Is Song",
+        "season": 4,
+        "episode": 3,
+        "released": "1991-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876690",
+        "title": "Twinsburg, OH: Some Kind of Weird Twin Thing",
+        "season": 4,
+        "episode": 4,
+        "released": "1991-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876691",
+        "title": "Honorable Nations",
+        "season": 4,
+        "episode": 5,
+        "released": "1991-07-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876693",
+        "title": "Sea of Oil",
+        "season": 4,
+        "episode": 6,
+        "released": "1991-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876692",
+        "title": "Turn Here Sweet Corn",
+        "season": 4,
+        "episode": 7,
+        "released": "1991-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1427125",
+        "title": "Chemical Valley",
+        "season": 4,
+        "episode": 8,
+        "released": "1991-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233348",
+        "title": "Tongues Untied",
+        "season": 4,
+        "episode": 9,
+        "released": "1991-07-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876695",
+        "title": "Berkeley in the Sixties",
+        "season": 4,
+        "episode": 10,
+        "released": "1991-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1670965",
+        "title": "A Little Vicious",
+        "season": 4,
+        "episode": 11,
+        "released": "1991-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233349",
+        "title": "Where the Heart Roams",
+        "season": 4,
+        "episode": 12,
+        "released": "1991-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876696",
+        "title": "The Big Bang",
+        "season": 4,
+        "episode": 13,
+        "released": "1991-08-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876697",
+        "title": "Maria's Story",
+        "season": 4,
+        "episode": 14,
+        "released": "1991-08-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876698",
+        "title": "Homes Apart: The Two Koreas",
+        "season": 4,
+        "episode": 15,
+        "released": "1991-08-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876699",
+        "title": "Short Notice: A Series of Short Films",
+        "season": 4,
+        "episode": 16,
+        "released": "1991-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876700",
+        "title": "Casting The First Stone",
+        "season": 4,
+        "episode": 17,
+        "released": "1991-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876701",
+        "title": "Color Adjustment",
+        "season": 5,
+        "episode": 1,
+        "released": "1992-06-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876702",
+        "title": "Intimate Stranger",
+        "season": 5,
+        "episode": 2,
+        "released": "1992-06-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876716",
+        "title": "Finding Christa",
+        "season": 5,
+        "episode": 3,
+        "released": "1992-06-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876717",
+        "title": "Last Images of War",
+        "season": 5,
+        "episode": 4,
+        "released": "1992-07-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876718",
+        "title": "The Longest Shadow",
+        "season": 5,
+        "episode": 5,
+        "released": "1992-07-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876719",
+        "title": "A Season in Hell",
+        "season": 5,
+        "episode": 6,
+        "released": "1992-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876720",
+        "title": "Promise Not to Tell",
+        "season": 5,
+        "episode": 7,
+        "released": "1992-07-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876721",
+        "title": "Dream Deceivers: The Story Behind James Vance Vs. Judas Priest",
+        "season": 5,
+        "episode": 8,
+        "released": "1992-08-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876723",
+        "title": "Fast Food Women",
+        "season": 5,
+        "episode": 9,
+        "released": "1992-08-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876724",
+        "title": "Takeover",
+        "season": 5,
+        "episode": 10,
+        "released": "1992-08-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876725",
+        "title": "Faith Even to the Fire",
+        "season": 5,
+        "episode": 11,
+        "released": "1992-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876726",
+        "title": "Louisiana Boys -- Raised on Politics",
+        "season": 5,
+        "episode": 12,
+        "released": "1992-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876727",
+        "title": "Pets or Meat",
+        "season": 5,
+        "episode": 13,
+        "released": "1992-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876728",
+        "title": "Roger and Me",
+        "season": 5,
+        "episode": 14,
+        "released": "1992-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876729",
+        "title": "Silverlake Life: The View From Here",
+        "season": 6,
+        "episode": 1,
+        "released": "1993-06-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876730",
+        "title": "Who's Going To Pay For These Donuts, Anyway?",
+        "season": 6,
+        "episode": 2,
+        "released": "1993-06-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876731",
+        "title": "When Your Head's Not A Head, It's A Nut",
+        "season": 6,
+        "episode": 3,
+        "released": "1993-06-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876732",
+        "title": "Compassion in Exile: The Life of the 14th Dalai Lama",
+        "season": 6,
+        "episode": 4,
+        "released": "1993-07-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876733",
+        "title": "For Better or For Worse",
+        "season": 6,
+        "episode": 5,
+        "released": "1993-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876734",
+        "title": "Motel",
+        "season": 6,
+        "episode": 6,
+        "released": "1993-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876735",
+        "title": "Money Man",
+        "season": 6,
+        "episode": 7,
+        "released": "1993-08-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876736",
+        "title": "Building Bombs: The Legacy",
+        "season": 6,
+        "episode": 8,
+        "released": "1993-08-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876737",
+        "title": "Miami-Havana",
+        "season": 6,
+        "episode": 9,
+        "released": "1993-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876738",
+        "title": "The Women Next Door",
+        "season": 6,
+        "episode": 10,
+        "released": "1993-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876739",
+        "title": "Cousin Bobby",
+        "season": 6,
+        "episode": 11,
+        "released": "1993-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876740",
+        "title": "Sa-I-Gu",
+        "season": 6,
+        "episode": 12,
+        "released": "1993-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876741",
+        "title": "Time Indefinite",
+        "season": 7,
+        "episode": 1,
+        "released": "1994-06-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876742",
+        "title": "One Nation Under God",
+        "season": 7,
+        "episode": 2,
+        "released": "1994-06-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876743",
+        "title": "Passin' It On",
+        "season": 7,
+        "episode": 3,
+        "released": "1994-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876744",
+        "title": "Memories of Tata",
+        "season": 7,
+        "episode": 4,
+        "released": "1994-06-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1257762",
+        "title": "The End of the Nightstick",
+        "season": 7,
+        "episode": 5,
+        "released": "1994-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876745",
+        "title": "The Heart of the Matter",
+        "season": 7,
+        "episode": 6,
+        "released": "1994-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876746",
+        "title": "Escape From China",
+        "season": 7,
+        "episode": 7,
+        "released": "1994-07-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876747",
+        "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+        "season": 7,
+        "episode": 8,
+        "released": "1994-07-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876748",
+        "title": "Dialogues with Madwomen",
+        "season": 7,
+        "episode": 9,
+        "released": "1994-08-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876749",
+        "title": "The Times of a Sign: A Folk History of the Iran-Contra Scandal",
+        "season": 7,
+        "episode": 10,
+        "released": "1994-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876751",
+        "title": "Leona's Sister Gerri",
+        "season": 8,
+        "episode": 1,
+        "released": "1995-06-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876752",
+        "title": "Complaints of a Dutiful Daughter",
+        "season": 8,
+        "episode": 2,
+        "released": "1995-06-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876753",
+        "title": "No Place Like Home",
+        "season": 8,
+        "episode": 3,
+        "released": "1995-06-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876754",
+        "title": "Satya: A Prayer for the Enemy",
+        "season": 8,
+        "episode": 4,
+        "released": "1995-06-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876755",
+        "title": "Out of Sight",
+        "season": 8,
+        "episode": 5,
+        "released": "1995-06-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876756",
+        "title": "The Uprising of '34",
+        "season": 8,
+        "episode": 6,
+        "released": "1995-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876757",
+        "title": "Lighting the 7th Fire",
+        "season": 8,
+        "episode": 7,
+        "released": "1995-07-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876758",
+        "title": "Twitch and Shout",
+        "season": 8,
+        "episode": 8,
+        "released": "1995-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876759",
+        "title": "Home Economics: A Documentary of Suburbia",
+        "season": 8,
+        "episode": 9,
+        "released": "1995-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876760",
+        "title": "Dealers Among Dealers",
+        "season": 8,
+        "episode": 10,
+        "released": "1995-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876761",
+        "title": "Carmen Miranda: Bananas is My Business",
+        "season": 8,
+        "episode": 11,
+        "released": "1995-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876762",
+        "title": "Taking on the Kennedys",
+        "season": 9,
+        "episode": 1,
+        "released": "1996-05-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876763",
+        "title": "¡Palante Siempre Palante!: The Young Lords",
+        "season": 9,
+        "episode": 2,
+        "released": "1996-06-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876764",
+        "title": "Personal Belongings",
+        "season": 9,
+        "episode": 3,
+        "released": "1996-06-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876765",
+        "title": "A Litany For Survival: The Life and Work of Audre Lorde",
+        "season": 9,
+        "episode": 4,
+        "released": "1996-06-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233350",
+        "title": "a.k.a. Don Bonus",
+        "season": 9,
+        "episode": 5,
+        "released": "1996-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876766",
+        "title": "No Loans Today",
+        "season": 9,
+        "episode": 6,
+        "released": "1996-07-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876767",
+        "title": "The Transformation",
+        "season": 9,
+        "episode": 7,
+        "released": "1996-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876768",
+        "title": "The Women Outside",
+        "season": 9,
+        "episode": 8,
+        "released": "1996-07-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876769",
+        "title": "Just For The Ride",
+        "season": 9,
+        "episode": 9,
+        "released": "1996-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876770",
+        "title": "Remembering Wei Yi-fang, Remembering Myself",
+        "season": 9,
+        "episode": 10,
+        "released": "1996-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876771",
+        "title": "Xich-lo (Cyclo)",
+        "season": 9,
+        "episode": 11,
+        "released": "1996-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233351",
+        "title": "Taken for a Ride",
+        "season": 9,
+        "episode": 12,
+        "released": "1996-08-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876772",
+        "title": "Maya Lin: A Strong Clear Vision",
+        "season": 9,
+        "episode": 13,
+        "released": "1996-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876774",
+        "title": "Nobody's Business",
+        "season": 10,
+        "episode": 1,
+        "released": "1997-06-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876775",
+        "title": "Battle for the Minds",
+        "season": 10,
+        "episode": 2,
+        "released": "1997-06-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1114935",
+        "title": "A Healthy Baby Girl",
+        "season": 10,
+        "episode": 3,
+        "released": "1997-06-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876776",
+        "title": "Jesse's Gone",
+        "season": 10,
+        "episode": 4,
+        "released": "1997-06-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876777",
+        "title": "Fear and Learning at Hoover Elementary",
+        "season": 10,
+        "episode": 5,
+        "released": "1997-07-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876778",
+        "title": "Who is Henry Jaglom?",
+        "season": 10,
+        "episode": 6,
+        "released": "1997-07-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1325399",
+        "title": "In Whose Honor?",
+        "season": 10,
+        "episode": 7,
+        "released": "1997-07-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876779",
+        "title": "Girls Like Us",
+        "season": 10,
+        "episode": 8,
+        "released": "1997-07-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876780",
+        "title": "Blacks and Jews",
+        "season": 10,
+        "episode": 9,
+        "released": "1997-07-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233352",
+        "title": "A Perfect Candidate",
+        "season": 10,
+        "episode": 10,
+        "released": "1997-08-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876781",
+        "title": "Baby It's You",
+        "season": 11,
+        "episode": 1,
+        "released": "1998-06-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876782",
+        "title": "The Band",
+        "season": 11,
+        "episode": 2,
+        "released": "1998-06-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876783",
+        "title": "Tobacco Blues",
+        "season": 11,
+        "episode": 3,
+        "released": "1998-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876784",
+        "title": "Licensed to Kill",
+        "season": 11,
+        "episode": 4,
+        "released": "1998-06-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233353",
+        "title": "Kelly Loves Tony",
+        "season": 11,
+        "episode": 5,
+        "released": "1998-06-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876785",
+        "title": "If I Can't Do It",
+        "season": 11,
+        "episode": 6,
+        "released": "1998-07-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876786",
+        "title": "Barbie Nation: An Unauthorized Tour",
+        "season": 11,
+        "episode": 7,
+        "released": "1998-07-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876787",
+        "title": "The Vanishing Line",
+        "season": 11,
+        "episode": 8,
+        "released": "1998-07-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876788",
+        "title": "Sacrifice",
+        "season": 11,
+        "episode": 9,
+        "released": "1998-07-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876789",
+        "title": "She Shorts",
+        "season": 11,
+        "episode": 10,
+        "released": "1998-08-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876790",
+        "title": "Family Name",
+        "season": 11,
+        "episode": 11,
+        "released": "1998-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876791",
+        "title": "The Legacy: Murder & Media, Politics & Prisons",
+        "season": 12,
+        "episode": 1,
+        "released": "1999-06-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876792",
+        "title": "Golden Threads",
+        "season": 12,
+        "episode": 2,
+        "released": "1999-06-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876793",
+        "title": "In My Corner",
+        "season": 12,
+        "episode": 3,
+        "released": "1999-06-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876794",
+        "title": "The Green Monster",
+        "season": 12,
+        "episode": 4,
+        "released": "1999-06-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1257763",
+        "title": "Rabbit in the Moon",
+        "season": 12,
+        "episode": 5,
+        "released": "1999-07-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876795",
+        "title": "Corpus: A Home Movie About Selena",
+        "season": 12,
+        "episode": 6,
+        "released": "1999-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876796",
+        "title": "School Prayer: A Community at War",
+        "season": 12,
+        "episode": 7,
+        "released": "1999-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876797",
+        "title": "The Double Life of Ernesto Gomez Gomez",
+        "season": 12,
+        "episode": 8,
+        "released": "1999-07-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876798",
+        "title": "Regret To Inform",
+        "season": 12,
+        "episode": 9,
+        "released": "2000-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1660653",
+        "title": "Well-Founded Fear",
+        "season": 12,
+        "episode": 10,
+        "released": "2000-06-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876799",
+        "title": "La Boda",
+        "season": 13,
+        "episode": 1,
+        "released": "2000-06-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876800",
+        "title": "Butterfly",
+        "season": 13,
+        "episode": 2,
+        "released": "2000-06-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1822535",
+        "title": "Stranger with a Camera",
+        "season": 13,
+        "episode": 3,
+        "released": "2000-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876801",
+        "title": "Blink",
+        "season": 13,
+        "episode": 4,
+        "released": "2000-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876802",
+        "title": "Our House in Havana",
+        "season": 13,
+        "episode": 5,
+        "released": "2000-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876803",
+        "title": "Dreamland",
+        "season": 13,
+        "episode": 6,
+        "released": "2000-08-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876804",
+        "title": "American Gypsy: A Stranger in Everybody's Land",
+        "season": 13,
+        "episode": 7,
+        "released": "2000-08-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876805",
+        "title": "KPFA On the Air",
+        "season": 13,
+        "episode": 8,
+        "released": "2000-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876806",
+        "title": "Live Free or Die",
+        "season": 13,
+        "episode": 9,
+        "released": "2000-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233354",
+        "title": "First Person Plural",
+        "season": 13,
+        "episode": 10,
+        "released": "2000-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233355",
+        "title": "Scout's Honor",
+        "season": 14,
+        "episode": 1,
+        "released": "2001-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876807",
+        "title": "The Sweetest Sound",
+        "season": 14,
+        "episode": 2,
+        "released": "2001-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1384238",
+        "title": "My American Girls: A Dominican Story",
+        "season": 14,
+        "episode": 3,
+        "released": "2001-07-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876808",
+        "title": "Of Civil Wrongs and Rights: The Fred Korematsu Story",
+        "season": 14,
+        "episode": 4,
+        "released": "2001-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876809",
+        "title": "True-Hearted Vixens",
+        "season": 14,
+        "episode": 5,
+        "released": "2001-07-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876810",
+        "title": "Take It From Me",
+        "season": 14,
+        "episode": 6,
+        "released": "2001-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233356",
+        "title": "In the Light of Reverence",
+        "season": 14,
+        "episode": 7,
+        "released": "2001-08-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233357",
+        "title": "Life and Debt",
+        "season": 14,
+        "episode": 8,
+        "released": "2001-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876811",
+        "title": "High School",
+        "season": 14,
+        "episode": 9,
+        "released": "2001-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876812",
+        "title": "5 Girls",
+        "season": 14,
+        "episode": 10,
+        "released": "2001-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876813",
+        "title": "Promises",
+        "season": 14,
+        "episode": 11,
+        "released": "2001-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876862",
+        "title": "The Smith Family",
+        "season": 15,
+        "episode": 1,
+        "released": "2002-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876863",
+        "title": "Boomtown",
+        "season": 15,
+        "episode": 2,
+        "released": "2002-07-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876864",
+        "title": "Hybrid",
+        "season": 15,
+        "episode": 3,
+        "released": "2002-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876865",
+        "title": "Refrigerator Mothers",
+        "season": 15,
+        "episode": 4,
+        "released": "2002-07-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876866",
+        "title": "Fenceline: A Company Town Divided",
+        "season": 15,
+        "episode": 5,
+        "released": "2002-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1485888",
+        "title": "Sweet Old Song",
+        "season": 15,
+        "episode": 6,
+        "released": "2002-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876867",
+        "title": "Mai's America",
+        "season": 15,
+        "episode": 7,
+        "released": "2002-08-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876868",
+        "title": "Señorita Extraviada",
+        "season": 15,
+        "episode": 8,
+        "released": "2002-08-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876869",
+        "title": "Escuela",
+        "season": 15,
+        "episode": 9,
+        "released": "2002-08-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876870",
+        "title": "Afghanistan Year 1380",
+        "season": 15,
+        "episode": 10,
+        "released": "2002-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1315176",
+        "title": "Brother Outsider: The Life of Bayard Rustin",
+        "season": 15,
+        "episode": 11,
+        "released": "2003-01-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876871",
+        "title": "Two Towns of Jasper",
+        "season": 15,
+        "episode": 12,
+        "released": "2003-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233358",
+        "title": "Flag Wars",
+        "season": 16,
+        "episode": 1,
+        "released": "2003-06-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233359",
+        "title": "Georgie Girl",
+        "season": 16,
+        "episode": 2,
+        "released": "2003-06-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876872",
+        "title": "Larry v. Lockney",
+        "season": 16,
+        "episode": 3,
+        "released": "2003-07-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876873",
+        "title": "Discovering Dominga",
+        "season": 16,
+        "episode": 4,
+        "released": "2003-07-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876874",
+        "title": "The Flute Player",
+        "season": 16,
+        "episode": 5,
+        "released": "2003-07-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876875",
+        "title": "90 Miles",
+        "season": 16,
+        "episode": 6,
+        "released": "2003-07-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233360",
+        "title": "American Aloha: Hula Beyond Hawai'i",
+        "season": 16,
+        "episode": 7,
+        "released": "2003-08-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876876",
+        "title": "West 47th Street",
+        "season": 16,
+        "episode": 8,
+        "released": "2003-08-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876877",
+        "title": "Family Fundamentals",
+        "season": 16,
+        "episode": 9,
+        "released": "2003-08-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876878",
+        "title": "The Sixth Section",
+        "season": 16,
+        "episode": 10,
+        "released": "2003-09-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876879",
+        "title": "Soldados: Chicanos in Viet Nam",
+        "season": 16,
+        "episode": 11,
+        "released": "2003-09-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876880",
+        "title": "State of Denial",
+        "season": 16,
+        "episode": 12,
+        "released": "2003-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876881",
+        "title": "What I Want My Words To Do To You",
+        "season": 16,
+        "episode": 13,
+        "released": "2003-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1114936",
+        "title": "Love & Diane",
+        "season": 16,
+        "episode": 14,
+        "released": "2004-04-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876882",
+        "title": "Farmingville",
+        "season": 17,
+        "episode": 1,
+        "released": "2004-06-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876883",
+        "title": "Bill's Run: A Political Journey in Rural Kansas",
+        "season": 17,
+        "episode": 2,
+        "released": "2004-06-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876884",
+        "title": "War Feels Like War",
+        "season": 17,
+        "episode": 3,
+        "released": "2004-07-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876885",
+        "title": "Thirst",
+        "season": 17,
+        "episode": 4,
+        "released": "2004-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876886",
+        "title": "Last Man Standing: Politics Texas Style",
+        "season": 17,
+        "episode": 5,
+        "released": "2004-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876887",
+        "title": "A Family Undertaking",
+        "season": 17,
+        "episode": 6,
+        "released": "2004-08-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876888",
+        "title": "Every Mother's Son",
+        "season": 17,
+        "episode": 7,
+        "released": "2004-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876889",
+        "title": "Speedo: A Demolition Derby Love Story",
+        "season": 17,
+        "episode": 8,
+        "released": "2004-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876890",
+        "title": "Wattstax",
+        "season": 17,
+        "episode": 9,
+        "released": "2004-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876891",
+        "title": "Freedom Machines",
+        "season": 17,
+        "episode": 10,
+        "released": "2004-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876892",
+        "title": "A Panther in Africa",
+        "season": 17,
+        "episode": 11,
+        "released": "2004-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1114937",
+        "title": "Lost Boys of Sudan",
+        "season": 17,
+        "episode": 12,
+        "released": "2004-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876893",
+        "title": "Chisholm '72: Unbought & Unbossed",
+        "season": 18,
+        "episode": 1,
+        "released": "2005-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876894",
+        "title": "The Education of Shelby Knox",
+        "season": 18,
+        "episode": 2,
+        "released": "2005-06-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876895",
+        "title": "Big Enough",
+        "season": 18,
+        "episode": 3,
+        "released": "2005-06-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1384239",
+        "title": "Street Fight",
+        "season": 18,
+        "episode": 4,
+        "released": "2005-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876896",
+        "title": "The Fire Next Time",
+        "season": 18,
+        "episode": 5,
+        "released": "2005-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876898",
+        "title": "The Brooklyn Connection",
+        "season": 18,
+        "episode": 6,
+        "released": "2005-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876900",
+        "title": "The Self-Made Man",
+        "season": 18,
+        "episode": 7,
+        "released": "2005-07-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876903",
+        "title": "In the Realms of the Unreal",
+        "season": 18,
+        "episode": 8,
+        "released": "2005-08-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876905",
+        "title": "A Thousand Words",
+        "season": 18,
+        "episode": 9,
+        "released": "2005-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876907",
+        "title": "Hardwood",
+        "season": 18,
+        "episode": 10,
+        "released": "2005-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876908",
+        "title": "I Used to Be a Filmmaker",
+        "season": 18,
+        "episode": 11,
+        "released": "2005-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876910",
+        "title": "A Song for Daniel",
+        "season": 18,
+        "episode": 12,
+        "released": "2005-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876912",
+        "title": "Bright Leaves",
+        "season": 18,
+        "episode": 13,
+        "released": "2005-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876913",
+        "title": "Hiding and Seeking",
+        "season": 18,
+        "episode": 14,
+        "released": "2005-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876914",
+        "title": "The Hobart Shakespeareans",
+        "season": 18,
+        "episode": 15,
+        "released": "2005-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876915",
+        "title": "Omar & Pete",
+        "season": 18,
+        "episode": 16,
+        "released": "2005-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233361",
+        "title": "No More Tears Sister",
+        "season": 19,
+        "episode": 1,
+        "released": "2006-06-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233362",
+        "title": "Kokoyakyu: High School Baseball",
+        "season": 19,
+        "episode": 2,
+        "released": "2006-07-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233363",
+        "title": "Tintin and I",
+        "season": 19,
+        "episode": 3,
+        "released": "2006-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233364",
+        "title": "The Fall of Fujimori",
+        "season": 19,
+        "episode": 4,
+        "released": "2006-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233365",
+        "title": "The Tailenders",
+        "season": 19,
+        "episode": 5,
+        "released": "2006-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233366",
+        "title": "Al Otro Lado",
+        "season": 19,
+        "episode": 6,
+        "released": "2006-08-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233367",
+        "title": "Lomax the Songhunter",
+        "season": 19,
+        "episode": 7,
+        "released": "2006-08-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233368",
+        "title": "Waging a Living",
+        "season": 19,
+        "episode": 8,
+        "released": "2006-08-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233369",
+        "title": "The Boys of Baraka",
+        "season": 19,
+        "episode": 9,
+        "released": "2006-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233370",
+        "title": "Twelve Disciples of Nelson Mandela",
+        "season": 19,
+        "episode": 10,
+        "released": "2006-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233371",
+        "title": "No Bigger Than a Minute",
+        "season": 19,
+        "episode": 11,
+        "released": "2006-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233372",
+        "title": "Maquilapolis: City of Factories",
+        "season": 19,
+        "episode": 12,
+        "released": "2006-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1876916",
+        "title": "My Country, My Country",
+        "season": 19,
+        "episode": 13,
+        "released": "2006-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233373",
+        "title": "Rain in a Dry Land",
+        "season": 20,
+        "episode": 1,
+        "released": "2007-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233374",
+        "title": "Massacre at Murambi",
+        "season": 20,
+        "episode": 2,
+        "released": "2007-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233375",
+        "title": "Sierra Leone's Refugee All Stars",
+        "season": 20,
+        "episode": 3,
+        "released": "2007-06-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233376",
+        "title": "Standing Silent Nation",
+        "season": 20,
+        "episode": 4,
+        "released": "2007-07-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233377",
+        "title": "Revolution '67",
+        "season": 20,
+        "episode": 5,
+        "released": "2007-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233378",
+        "title": "Lawn",
+        "season": 20,
+        "episode": 6,
+        "released": "2007-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233379",
+        "title": "The Chances of the World Changing",
+        "season": 20,
+        "episode": 7,
+        "released": "2007-07-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233380",
+        "title": "Prison Town, USA",
+        "season": 20,
+        "episode": 8,
+        "released": "2007-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233381",
+        "title": "No Angels in the Outfield",
+        "season": 20,
+        "episode": 9,
+        "released": "2007-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233382",
+        "title": "Following Sean",
+        "season": 20,
+        "episode": 10,
+        "released": "2007-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233383",
+        "title": "Alice Sees the Light",
+        "season": 20,
+        "episode": 11,
+        "released": "2007-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233384",
+        "title": "Arctic Son",
+        "season": 20,
+        "episode": 12,
+        "released": "2007-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233385",
+        "title": "Libby, Montana",
+        "season": 20,
+        "episode": 13,
+        "released": "2007-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233386",
+        "title": "Made in L.A.",
+        "season": 20,
+        "episode": 14,
+        "released": "2007-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877442",
+        "title": "Keeping House",
+        "season": 20,
+        "episode": 15,
+        "released": "2007-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877443",
+        "title": "Bullet Proof Vest",
+        "season": 20,
+        "episode": 16,
+        "released": "2007-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877444",
+        "title": "The Camden 28",
+        "season": 20,
+        "episode": 17,
+        "released": "2007-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877445",
+        "title": "Lumo",
+        "season": 20,
+        "episode": 18,
+        "released": "2007-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877446",
+        "title": "49 Up",
+        "season": 20,
+        "episode": 19,
+        "released": "2007-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877447",
+        "title": "Wrestling With Angels: Playwright Tony Kushner",
+        "season": 20,
+        "episode": 20,
+        "released": "2007-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877448",
+        "title": "Scaredycat",
+        "season": 20,
+        "episode": 21,
+        "released": "2007-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233387",
+        "title": "Ars Magna",
+        "season": 21,
+        "episode": 1,
+        "released": "2008-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233388",
+        "title": "Traces of the Trade: A Story from the Deep North",
+        "season": 21,
+        "episode": 2,
+        "released": "2008-06-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233389",
+        "title": "Election Day",
+        "season": 21,
+        "episode": 3,
+        "released": "2008-07-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233390",
+        "title": "The Ballad of Esequiel Hernandez",
+        "season": 21,
+        "episode": 4,
+        "released": "2008-07-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233391",
+        "title": "The Last Conquistador",
+        "season": 21,
+        "episode": 5,
+        "released": "2008-07-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233392",
+        "title": "9 Star Hotel",
+        "season": 21,
+        "episode": 6,
+        "released": "2008-07-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233393",
+        "title": "Campaign",
+        "season": 21,
+        "episode": 7,
+        "released": "2008-07-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233394",
+        "title": "Johnny Cash! The Man, His World, His Music",
+        "season": 21,
+        "episode": 8,
+        "released": "2008-08-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233395",
+        "title": "Belarusian Waltz",
+        "season": 21,
+        "episode": 9,
+        "released": "2008-08-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233396",
+        "title": "The Judge and the General",
+        "season": 21,
+        "episode": 10,
+        "released": "2008-08-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233397",
+        "title": "Calavera Highway",
+        "season": 21,
+        "episode": 11,
+        "released": "2008-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233398",
+        "title": "Critical Condition",
+        "season": 21,
+        "episode": 12,
+        "released": "2008-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233399",
+        "title": "In the Family",
+        "season": 21,
+        "episode": 13,
+        "released": "2008-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233400",
+        "title": "Up the Yangtze",
+        "season": 21,
+        "episode": 14,
+        "released": "2008-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233401",
+        "title": "Soldiers of Conscience",
+        "season": 21,
+        "episode": 15,
+        "released": "2008-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877451",
+        "title": "City of Cranes",
+        "season": 21,
+        "episode": 16,
+        "released": "2008-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877452",
+        "title": "Inheritance",
+        "season": 21,
+        "episode": 17,
+        "released": "2008-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233402",
+        "title": "New Muslim Cool",
+        "season": 22,
+        "episode": 1,
+        "released": "2009-06-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233403",
+        "title": "Beyond Hatred",
+        "season": 22,
+        "episode": 2,
+        "released": "2009-06-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233404",
+        "title": "Life.Support.Music",
+        "season": 22,
+        "episode": 3,
+        "released": "2009-07-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233405",
+        "title": "The Reckoning: The Battle for the International Criminal Court",
+        "season": 22,
+        "episode": 4,
+        "released": "2009-07-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233406",
+        "title": "The Betrayal (Nerakhoon)",
+        "season": 22,
+        "episode": 5,
+        "released": "2009-07-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233407",
+        "title": "Hold Me Tight, Let Me Go",
+        "season": 22,
+        "episode": 6,
+        "released": "2009-07-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233408",
+        "title": "Nutkin's Last Stand",
+        "season": 22,
+        "episode": 7,
+        "released": "2009-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233409",
+        "title": "34x25x36",
+        "season": 22,
+        "episode": 8,
+        "released": "2009-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233410",
+        "title": "Utopia, Part 3: The World's Largest Shopping Mall",
+        "season": 22,
+        "episode": 9,
+        "released": "2009-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233411",
+        "title": "This Way Up",
+        "season": 22,
+        "episode": 10,
+        "released": "2009-08-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233412",
+        "title": "Ella Es el Matador (She Is the Matador)",
+        "season": 22,
+        "episode": 11,
+        "released": "2009-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233413",
+        "title": "The English Surgeon",
+        "season": 22,
+        "episode": 12,
+        "released": "2009-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233414",
+        "title": "The Principal Story",
+        "season": 22,
+        "episode": 13,
+        "released": "2009-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233415",
+        "title": "Jennifer",
+        "season": 22,
+        "episode": 14,
+        "released": "2009-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877453",
+        "title": "So the Wind Won't Blow It All Away",
+        "season": 22,
+        "episode": 15,
+        "released": "2009-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877454",
+        "title": "Bronx Princess",
+        "season": 22,
+        "episode": 16,
+        "released": "2009-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877455",
+        "title": "The Way We Get By",
+        "season": 22,
+        "episode": 17,
+        "released": "2009-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877456",
+        "title": "Patti Smith: Dream of Life",
+        "season": 22,
+        "episode": 18,
+        "released": "2009-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233416",
+        "title": "Food, Inc.",
+        "season": 23,
+        "episode": 1,
+        "released": "2010-04-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233417",
+        "title": "Notes on Milk",
+        "season": 23,
+        "episode": 2,
+        "released": "2010-04-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233418",
+        "title": "William Kunstler: Disturbing the Universe",
+        "season": 23,
+        "episode": 3,
+        "released": "2010-06-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233419",
+        "title": "The Beaches of Agnès",
+        "season": 23,
+        "episode": 4,
+        "released": "2010-06-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233420",
+        "title": "A Different Color Blue",
+        "season": 23,
+        "episode": 5,
+        "released": "2010-06-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233421",
+        "title": "Promised Land",
+        "season": 23,
+        "episode": 6,
+        "released": "2010-07-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233422",
+        "title": "Good Fortune",
+        "season": 23,
+        "episode": 7,
+        "released": "2010-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233423",
+        "title": "Bye",
+        "season": 23,
+        "episode": 8,
+        "released": "2010-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233424",
+        "title": "El General",
+        "season": 23,
+        "episode": 9,
+        "released": "2010-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233425",
+        "title": "Presumed Guilty",
+        "season": 23,
+        "episode": 10,
+        "released": "2010-07-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233426",
+        "title": "A Healing Art",
+        "season": 23,
+        "episode": 11,
+        "released": "2010-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233427",
+        "title": "The Archive",
+        "season": 23,
+        "episode": 12,
+        "released": "2010-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233428",
+        "title": "Salt",
+        "season": 23,
+        "episode": 13,
+        "released": "2010-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233429",
+        "title": "Trash-Out",
+        "season": 23,
+        "episode": 14,
+        "released": "2010-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877458",
+        "title": "Danny and Annie: Parts I & II",
+        "season": 23,
+        "episode": 15,
+        "released": "2010-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877459",
+        "title": "Q&A",
+        "season": 23,
+        "episode": 16,
+        "released": "2010-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877460",
+        "title": "Seltzer Works",
+        "season": 23,
+        "episode": 17,
+        "released": "2010-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877461",
+        "title": "The Edge of Dreaming",
+        "season": 23,
+        "episode": 18,
+        "released": "2010-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877462",
+        "title": "Wo Ai Ni (I Love You) Mommy",
+        "season": 23,
+        "episode": 19,
+        "released": "2010-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877463",
+        "title": "Germans in the Woods",
+        "season": 23,
+        "episode": 20,
+        "released": "2010-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877464",
+        "title": "Off and Running",
+        "season": 23,
+        "episode": 21,
+        "released": "2010-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877465",
+        "title": "The Human Voice",
+        "season": 23,
+        "episode": 22,
+        "released": "2010-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877466",
+        "title": "The Icing on the Cake",
+        "season": 23,
+        "episode": 23,
+        "released": "2010-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877467",
+        "title": "In the Matter of Cha Jung Hee",
+        "season": 23,
+        "episode": 24,
+        "released": "2010-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877468",
+        "title": "The Oath",
+        "season": 23,
+        "episode": 25,
+        "released": "2010-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877469",
+        "title": "The Most Dangerous Man in America: Daniel Ellsberg and the Pentagon Papers",
+        "season": 23,
+        "episode": 26,
+        "released": "2010-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233430",
+        "title": "Kings of Pastry",
+        "season": 24,
+        "episode": 1,
+        "released": "2011-06-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233431",
+        "title": "My Perestroika",
+        "season": 24,
+        "episode": 2,
+        "released": "2011-06-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233432",
+        "title": "Sweetgrass",
+        "season": 24,
+        "episode": 3,
+        "released": "2011-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233433",
+        "title": "Enemies of the People",
+        "season": 24,
+        "episode": 4,
+        "released": "2011-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233434",
+        "title": "Biblioburro: The Donkey Library",
+        "season": 24,
+        "episode": 5,
+        "released": "2011-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233435",
+        "title": "Mugabe and the White African",
+        "season": 24,
+        "episode": 6,
+        "released": "2011-07-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233436",
+        "title": "Steam of Life",
+        "season": 24,
+        "episode": 7,
+        "released": "2011-08-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233437",
+        "title": "Flawed",
+        "season": 24,
+        "episode": 8,
+        "released": "2011-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233438",
+        "title": "Miss Devine",
+        "season": 24,
+        "episode": 9,
+        "released": "2011-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233439",
+        "title": "Big Birding Day",
+        "season": 24,
+        "episode": 10,
+        "released": "2011-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233440",
+        "title": "Tiffany",
+        "season": 24,
+        "episode": 11,
+        "released": "2011-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233441",
+        "title": "No More Questions!",
+        "season": 24,
+        "episode": 12,
+        "released": "2011-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233442",
+        "title": "Six Weeks",
+        "season": 24,
+        "episode": 13,
+        "released": "2011-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233443",
+        "title": "Armadillo",
+        "season": 24,
+        "episode": 14,
+        "released": "2011-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233444",
+        "title": "Better This World",
+        "season": 24,
+        "episode": 15,
+        "released": "2011-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233445",
+        "title": "StoryCorps Shorts: September 11 Stories",
+        "season": 24,
+        "episode": 16,
+        "released": "2011-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233446",
+        "title": "If a Tree Falls: A Story of the Earth Liberation Front",
+        "season": 24,
+        "episode": 17,
+        "released": "2011-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877471",
+        "title": "The Learning",
+        "season": 24,
+        "episode": 18,
+        "released": "2011-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877472",
+        "title": "Last Train Home",
+        "season": 24,
+        "episode": 19,
+        "released": "2011-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877473",
+        "title": "Where Soldiers Come From",
+        "season": 24,
+        "episode": 20,
+        "released": "2011-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877474",
+        "title": "To R.P. Salazar, with Love",
+        "season": 24,
+        "episode": 21,
+        "released": "2012-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877475",
+        "title": "Racing Dreams",
+        "season": 24,
+        "episode": 22,
+        "released": "2012-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233447",
+        "title": "My Reincarnation",
+        "season": 25,
+        "episode": 1,
+        "released": "2012-06-21",
+        "overview": "Witness the epic story of exiled Tibetan Buddhist master Chagyal Namkhai Norbu and his Western-born son, Yeshi."
+      },
+      {
+        "id": "tvmaze:233448",
+        "title": "Granito: How to Nail a Dictator",
+        "season": 25,
+        "episode": 2,
+        "released": "2012-06-28",
+        "overview": "Hear the extraordinary story of a film that provided key evidence for bringing an indictment against a dictator."
+      },
+      {
+        "id": "tvmaze:233449",
+        "title": "The City Dark",
+        "season": 25,
+        "episode": 3,
+        "released": "2012-07-05",
+        "overview": "Get a fascinating introduction to the science of the dark and an exploration of our relationship to the stars."
+      },
+      {
+        "id": "tvmaze:233450",
+        "title": "Guilty Pleasures",
+        "season": 25,
+        "episode": 4,
+        "released": "2012-07-12",
+        "overview": "Take an amusing and touching look at the global phenomenon of romance novels."
+      },
+      {
+        "id": "tvmaze:233451",
+        "title": "The Light in Her Eyes",
+        "season": 25,
+        "episode": 5,
+        "released": "2012-07-19",
+        "overview": "View a portrait of a Syrian leader who challenges women to live according to Islam without giving up their dreams."
+      },
+      {
+        "id": "tvmaze:233452",
+        "title": "Up Heartbreak Hill",
+        "season": 25,
+        "episode": 6,
+        "released": "2012-07-26",
+        "overview": "Take a moving look at a new generation of Americans struggling to be both Native and modern."
+      },
+      {
+        "id": "tvmaze:233453",
+        "title": "The Barber of Birmingham",
+        "season": 25,
+        "episode": 7,
+        "released": "2012-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233454",
+        "title": "Sin País",
+        "season": 25,
+        "episode": 8,
+        "released": "2012-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233455",
+        "title": "Eyes on the Stars",
+        "season": 25,
+        "episode": 9,
+        "released": "2012-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233456",
+        "title": "Facundo the Great",
+        "season": 25,
+        "episode": 10,
+        "released": "2012-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233457",
+        "title": "A Family Man",
+        "season": 25,
+        "episode": 11,
+        "released": "2012-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233458",
+        "title": "I'm Carolyn Parker: The Good, the Mad, and the Beautiful",
+        "season": 25,
+        "episode": 12,
+        "released": "2012-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233459",
+        "title": "El Velador (The Night Watchman)",
+        "season": 25,
+        "episode": 13,
+        "released": "2012-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233460",
+        "title": "Give Up Tomorrow",
+        "season": 25,
+        "episode": 14,
+        "released": "2012-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877476",
+        "title": "Sun Kissed",
+        "season": 25,
+        "episode": 15,
+        "released": "2012-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877477",
+        "title": "Nostalgia for the Light",
+        "season": 25,
+        "episode": 16,
+        "released": "2012-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877478",
+        "title": "Reportero",
+        "season": 25,
+        "episode": 17,
+        "released": "2013-01-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877479",
+        "title": "Girl Model",
+        "season": 25,
+        "episode": 18,
+        "released": "2013-03-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233461",
+        "title": "Homegoings",
+        "season": 26,
+        "episode": 1,
+        "released": "2013-06-24",
+        "overview": "Take an up-close look at the rarely seen world of undertaking in the black community."
+      },
+      {
+        "id": "tvmaze:233462",
+        "title": "Special Flight",
+        "season": 26,
+        "episode": 2,
+        "released": "2013-07-01",
+        "overview": "Witness the plight of undocumented foreigners and the wardens at a detention center in Switzerland."
+      },
+      {
+        "id": "tvmaze:233463",
+        "title": "Herman's House",
+        "season": 26,
+        "episode": 3,
+        "released": "2013-07-08",
+        "overview": "Venture inside the relationship of a solitary confinement prisoner and an artist who befriended him."
+      },
+      {
+        "id": "tvmaze:233464",
+        "title": "Only the Young",
+        "season": 26,
+        "episode": 4,
+        "released": "2013-07-15",
+        "overview": "Follow three unconventional Christian teenagers coming of age in a small Southern California town."
+      },
+      {
+        "id": "tvmaze:233465",
+        "title": "xoxosms",
+        "season": 26,
+        "episode": 5,
+        "released": "2013-07-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233466",
+        "title": "High Tech, Low Life",
+        "season": 26,
+        "episode": 6,
+        "released": "2013-07-22",
+        "overview": "Trail two of China's first citizen-reporters as they document the underside of rapid development."
+      },
+      {
+        "id": "tvmaze:233467",
+        "title": "Neurotypical",
+        "season": 26,
+        "episode": 7,
+        "released": "2013-07-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233468",
+        "title": "The Law in These Parts",
+        "season": 26,
+        "episode": 8,
+        "released": "2013-08-19",
+        "overview": "Examine the system of military administration used by Israel since the Six Day War of 1967."
+      },
+      {
+        "id": "tvmaze:233469",
+        "title": "5 Broken Cameras",
+        "season": 26,
+        "episode": 9,
+        "released": "2013-08-26",
+        "overview": "Watch this Oscar-nominated account of a West Bank village where Israel is building a security fence."
+      },
+      {
+        "id": "tvmaze:233470",
+        "title": "Ping Pong",
+        "season": 26,
+        "episode": 10,
+        "released": "2013-09-09",
+        "overview": "Follow competitors in the Over 80 World Table Tennis Championships in China's Inner Mongolia."
+      },
+      {
+        "id": "tvmaze:233471",
+        "title": "The World Before Her",
+        "season": 26,
+        "episode": 11,
+        "released": "2013-09-16",
+        "overview": "Meet two Indian women: a pageant contestant and the leader of a fundamentalist Hindu camp for girls."
+      },
+      {
+        "id": "tvmaze:233472",
+        "title": "Best Kept Secret",
+        "season": 26,
+        "episode": 12,
+        "released": "2013-09-23",
+        "overview": "Study a public school for severely autistic minority boys and their options for independent living."
+      },
+      {
+        "id": "tvmaze:233473",
+        "title": "Brooklyn Castle",
+        "season": 26,
+        "episode": 13,
+        "released": "2013-10-07",
+        "overview": "Follow five members of a champion chess team from a below-the-poverty-line junior high in Brooklyn."
+      },
+      {
+        "id": "tvmaze:233474",
+        "title": "56 Up",
+        "season": 26,
+        "episode": 14,
+        "released": "2013-10-14",
+        "overview": "Return to England for the eighth film in a series that's followed the same group since age seven."
+      },
+      {
+        "id": "tvmaze:233475",
+        "title": "Listening Is an Act of Love: A StoryCorps Special",
+        "season": 26,
+        "episode": 15,
+        "released": "2013-11-28",
+        "overview": "Celebrate the transformative power of listening with this animated special from StoryCorps."
+      },
+      {
+        "id": "tvmaze:233476",
+        "title": "American Promise",
+        "season": 26,
+        "episode": 16,
+        "released": "2014-02-03",
+        "overview": "Trace the experiences of an African-American boy and his friend at a prestigious private school."
+      },
+      {
+        "id": "tvmaze:233477",
+        "title": "When I Walk",
+        "season": 27,
+        "episode": 1,
+        "released": "2014-06-23",
+        "overview": "Get a surprisingly uplifting look at the new life of a filmmaker diagnosed with multiple sclerosis."
+      },
+      {
+        "id": "tvmaze:233478",
+        "title": "American Revolutionary: The Evolution of Grace Lee Boggs",
+        "season": 27,
+        "episode": 2,
+        "released": "2014-06-30",
+        "overview": "Meet Grace Lee Boggs, a Chinese-American philosopher who has been waging a revolution for 75 years."
+      },
+      {
+        "id": "tvmaze:233479",
+        "title": "My Way to Olympia",
+        "season": 27,
+        "episode": 3,
+        "released": "2014-07-07",
+        "overview": "Accompany a disabled filmmaker, who frankly hates sports, as he covers the London Paralympics."
+      },
+      {
+        "id": "tvmaze:233480",
+        "title": "Getting Back to Abnormal",
+        "season": 27,
+        "episode": 4,
+        "released": "2014-07-14",
+        "overview": "Witness a provocative mix of race, corruption and politics in a New Orleans re-election campaign."
+      },
+      {
+        "id": "tvmaze:233481",
+        "title": "Dance for Me",
+        "season": 27,
+        "episode": 5,
+        "released": "2014-07-21",
+        "overview": "Delight in a poetic coming-of-age story, with a global twist and thrilling dance moves."
+      },
+      {
+        "id": "tvmaze:233482",
+        "title": "A Good Man",
+        "season": 27,
+        "episode": 6,
+        "released": "2014-07-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233483",
+        "title": "Fallen City",
+        "season": 27,
+        "episode": 7,
+        "released": "2014-07-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233484",
+        "title": "15 to Life: Kenneth's Story",
+        "season": 27,
+        "episode": 8,
+        "released": "2014-08-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233485",
+        "title": "A World Not Ours",
+        "season": 27,
+        "episode": 9,
+        "released": "2014-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233486",
+        "title": "Big Men",
+        "season": 27,
+        "episode": 10,
+        "released": "2014-08-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233487",
+        "title": "After Tiller",
+        "season": 27,
+        "episode": 11,
+        "released": "2014-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233488",
+        "title": "The Genius of Marian",
+        "season": 27,
+        "episode": 12,
+        "released": "2014-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233489",
+        "title": "Koch",
+        "season": 27,
+        "episode": 13,
+        "released": "2014-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877481",
+        "title": "The Act of Killing",
+        "season": 27,
+        "episode": 14,
+        "released": "2014-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877482",
+        "title": "Cutie and the Boxer",
+        "season": 27,
+        "episode": 15,
+        "released": "2014-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:233490",
+        "title": "Out in the Night",
+        "season": 28,
+        "episode": 1,
+        "released": "2015-06-22",
+        "overview": "Examine a case that reveals the role of race and gender identity in the criminal justice system."
+      },
+      {
+        "id": "tvmaze:233491",
+        "title": "The Overnighters",
+        "season": 28,
+        "episode": 2,
+        "released": "2015-06-29",
+        "overview": "See what ensues when a pastor opens his church to desperate job-seekers in need of housing."
+      },
+      {
+        "id": "tvmaze:233492",
+        "title": "Tough Love",
+        "season": 28,
+        "episode": 3,
+        "released": "2015-07-06",
+        "overview": "Follow the struggles of two parents to win back the trust of the courts and reunite their families."
+      },
+      {
+        "id": "tvmaze:233493",
+        "title": "Web Junkie",
+        "season": 28,
+        "episode": 4,
+        "released": "2015-07-13",
+        "overview": "Follow the treatment of Chinese teenagers - obsessive gamers who prefer the virtual to the real world."
+      },
+      {
+        "id": "tvmaze:233494",
+        "title": "Return to Homs",
+        "season": 28,
+        "episode": 5,
+        "released": "2015-07-20",
+        "overview": "See how a star goalkeeper for the Syrian national soccer team became an armed insurgent."
+      },
+      {
+        "id": "tvmaze:233495",
+        "title": "Tea Time",
+        "season": 28,
+        "episode": 6,
+        "released": "2015-07-27",
+        "overview": "See how a routine of tea and pastries has sustained five Chilean women through 60 years of change."
+      },
+      {
+        "id": "tvmaze:233496",
+        "title": "Beats of the Antonov",
+        "season": 28,
+        "episode": 7,
+        "released": "2015-08-03",
+        "overview": "Learn how music and dance bind a community in the war-ravaged Sudan region."
+      },
+      {
+        "id": "tvmaze:233497",
+        "title": "Neuland",
+        "season": 28,
+        "episode": 8,
+        "released": "2015-08-17",
+        "overview": "Meet young migrants in a Swiss integration class as they struggle to make new lives for themselves."
+      },
+      {
+        "id": "tvmaze:233498",
+        "title": "Point and Shoot",
+        "season": 28,
+        "episode": 9,
+        "released": "2015-08-24",
+        "overview": "Witness Matt Van Dyke's transformation from timid 26-year-old to motorcycle-driving rebel."
+      },
+      {
+        "id": "tvmaze:233499",
+        "title": "The Storm Makers",
+        "season": 28,
+        "episode": 10,
+        "released": "2015-08-31",
+        "overview": "See an exposé of Cambodia's human traffickers, who transport the poor and illiterate across borders."
+      },
+      {
+        "id": "tvmaze:233500",
+        "title": "Cutie and the Boxer",
+        "season": 28,
+        "episode": 11,
+        "released": "2015-09-18",
+        "overview": "View an Oscar-nominated reflection on love, sacrifice and the creative spirit. This candid New York tale explores the chaotic 40-year marriage of famed \"boxing\" painter Ushio Shinohara and artist Noriko Shinohara."
+      },
+      {
+        "id": "tvmaze:233501",
+        "title": "Don't Tell Anyone",
+        "season": 28,
+        "episode": 12,
+        "released": "2015-09-21",
+        "overview": "Meet immigrant activist Angy Rivera, the country's only advice columnist for undocumented youth. In a community where silence is often seen as necessary for survival, she steps out of the shadows to share her own parallel experiences of being undocumented and sexually abused."
+      },
+      {
+        "id": "tvmaze:233502",
+        "title": "Art and Craft",
+        "season": 28,
+        "episode": 13,
+        "released": "2015-09-25",
+        "overview": "The jig is up for art forger Mark Landis, who has donated his expert copies to museums for 30 years. But stopping isn't simple. This cat-and-mouse caper uncovers the universal in one man's search for connection and respect."
+      },
+      {
+        "id": "tvmaze:233503",
+        "title": "Ai Weiwei: The Fake Case",
+        "season": 28,
+        "episode": 14,
+        "released": "2015-10-02",
+        "overview": "This stunning dissection of the persecution of Chinese artist Ai Weiwei explores how the government's attempts to silence him have backfired and turned him into an irrepressible voice for free speech and human rights around the globe."
+      },
+      {
+        "id": "tvmaze:713962",
+        "title": "The Return",
+        "season": 29,
+        "episode": 1,
+        "released": "2016-05-23",
+        "overview": "In 2012, California amended its \"Three Strikes\" law, suddenly freeing prisoners and turning lives upside down."
+      },
+      {
+        "id": "tvmaze:763236",
+        "title": "Of Men and War",
+        "season": 29,
+        "episode": 2,
+        "released": "2016-05-30",
+        "overview": "At a PTSD treatment center in California, follow veterans and their families on their paths to recovery."
+      },
+      {
+        "id": "tvmaze:763237",
+        "title": "The Look of Silence",
+        "season": 29,
+        "episode": 3,
+        "released": "2016-06-27",
+        "overview": "Watch as an optometrist confronts the men who killed his brother in the 1965 Indonesian genocide."
+      },
+      {
+        "id": "tvmaze:763238",
+        "title": "Pervert Park",
+        "season": 29,
+        "episode": 4,
+        "released": "2016-07-11",
+        "overview": "Consider how the destructive cycle of sexual abuse - and the silence surrounding it - can be broken."
+      },
+      {
+        "id": "tvmaze:804610",
+        "title": "Iris",
+        "season": 29,
+        "episode": 5,
+        "released": "2016-08-01",
+        "overview": "Meet Iris Apfel, a 93-year-old style maven with an outsized presence on the New York fashion scene."
+      },
+      {
+        "id": "tvmaze:804611",
+        "title": "The Birth of Saké",
+        "season": 29,
+        "episode": 6,
+        "released": "2016-09-05",
+        "overview": "Go behind the scenes of Yoshida Brewery to see how artisans create saké, Japan's revered rice wine."
+      },
+      {
+        "id": "tvmaze:804613",
+        "title": "All the Difference",
+        "season": 29,
+        "episode": 7,
+        "released": "2016-09-12",
+        "overview": "Accompany two African-American teens on their journey to achieve a dream of graduating from college."
+      },
+      {
+        "id": "tvmaze:855032",
+        "title": "Kingdom of Shadows",
+        "season": 29,
+        "episode": 8,
+        "released": "2016-09-19",
+        "overview": "Take an unflinching look at the hard choices and destructive consequences of the US-Mexico drug war."
+      },
+      {
+        "id": "tvmaze:855033",
+        "title": "Marathon",
+        "season": 29,
+        "episode": 9,
+        "released": "2016-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:855034",
+        "title": "From This Day Forward",
+        "season": 29,
+        "episode": 10,
+        "released": "2016-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:855035",
+        "title": "Pink Boy",
+        "season": 29,
+        "episode": 11,
+        "released": "2016-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:855036",
+        "title": "Hooligan Sparrow",
+        "season": 29,
+        "episode": 12,
+        "released": "2016-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1010426",
+        "title": "Thank You for Playing",
+        "season": 29,
+        "episode": 13,
+        "released": "2016-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877483",
+        "title": "What Tomorrow Brings",
+        "season": 29,
+        "episode": 14,
+        "released": "2016-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1148923",
+        "title": "Dalya's Other Country",
+        "season": 30,
+        "episode": 1,
+        "released": "2017-06-26",
+        "overview": "Dalya's Other Country tells the nuanced story of members of a family displaced by the Syrian conflict who are remaking themselves after the parents separate. Effervescent teen Dalya goes to Catholic high school and her mother, Rudayna, enrolls in college as they both walk the line between their Muslim values and the new world in which they find themselves."
+      },
+      {
+        "id": "tvmaze:1268175",
+        "title": "4.1 Miles",
+        "season": 30,
+        "episode": 2,
+        "released": "2017-06-26",
+        "overview": "In the Oscar®-nominated short film 4.1 Miles, Daphne Matziaraki follows a day in the life of Kyriakos Papadopoulos, a captain in the Greek coast guard who is caught in the middle of the refugee crisis in which Europe is embroiled. Despite limited resources, the captain and his crew attempt to save thousands of migrants from drowning in the Aegean Sea."
+      },
+      {
+        "id": "tvmaze:1268184",
+        "title": "From Damascus to Chicago",
+        "season": 30,
+        "episode": 3,
+        "released": "2017-06-26",
+        "overview": "In the documentary short From Damascus to Chicago, two young Syrian siblings recently resettled in Chicago enroll in a dance class, while the film follows their family's experiences in navigating a new city and country."
+      },
+      {
+        "id": "tvmaze:1162935",
+        "title": "The War Show",
+        "season": 30,
+        "episode": 4,
+        "released": "2017-07-03",
+        "overview": "Radio host Obaidah Zytoon captures the fate of Syria through the intimate lens of a small circle of friends and journalists. Beginning with peaceful Arab Spring protests in 2011, The War Show offers a four-year, ground-level look at how the country spiraled into bloody civil war."
+      },
+      {
+        "id": "tvmaze:1148924",
+        "title": "Last Men in Aleppo",
+        "season": 30,
+        "episode": 5,
+        "released": "2017-07-10",
+        "overview": "After five years of war in Syria, the remaining citizens of Aleppo are getting ready for a siege. Through the eyes of volunteer rescue workers called the White Helmets, Last Men in Aleppo allows viewers to experience the daily life, death, and struggle in the streets, where they are fighting for sanity in a city where war has become the norm."
+      },
+      {
+        "id": "tvmaze:1148925",
+        "title": "Presenting Princess Shaw",
+        "season": 30,
+        "episode": 6,
+        "released": "2017-07-17",
+        "overview": "Samantha Montgomery placed her dreams on YouTube. Then they became a reality. Presenting Princess Shaw is the extraordinary story of an aspiring musician, down on her luck, who inspired internationally famous musician, composer and video artist Ophir \"Kutiman\" Kutiel to create a magical collaboration that would introduce her talent to a whole new audience."
+      },
+      {
+        "id": "tvmaze:1268197",
+        "title": "StoryCorps Shorts: Driven",
+        "season": 30,
+        "episode": 7,
+        "released": "2017-07-17",
+        "overview": "Wendell Scott was the first African American inducted in the NASCAR Hall of Fame. His son, Frank, remembers what it took for his father to cross the finish line at racetracks throughout the South in the '60s and '70s."
+      },
+      {
+        "id": "tvmaze:1268131",
+        "title": "Joe's Violin",
+        "season": 30,
+        "episode": 8,
+        "released": "2017-07-24",
+        "overview": "In the Oscar-nominated Joe's Violin, a donated musical instrument forges an improbable friendship. 91-year-old Holocaust survivor Joe Feingold and 12-year-old Bronx school girl Brianna Perez show how the power of music can bring light in the darkest of times, and how a small act can have a significant impact."
+      },
+      {
+        "id": "tvmaze:1148926",
+        "title": "Shalom Italia",
+        "season": 30,
+        "episode": 9,
+        "released": "2017-07-24",
+        "overview": "In Shalom Italia, three Italian Jewish brothers set off on a journey through Tuscany, in search of a cave where they hid as children to escape the Nazis. Their quest, full of humor, food and Tuscan landscapes, straddles the boundary between history and myth — a profound, funny, and endearing exploration of individual and communal memory."
+      },
+      {
+        "id": "tvmaze:1148927",
+        "title": "Memories of a Penitent Heart",
+        "season": 30,
+        "episode": 10,
+        "released": "2017-07-31",
+        "overview": "Filmmaker Cecilia Aldarondo suspected that there was something ugly in her family's past. Memories of a Penitent Heart excavates a buried conflict around her uncle Miguel, who died at a time when AIDS was synonymous with sin. As she searches for Miguel's partner decades later, the film — both a love story and a tribute — offers a cautionary tale of how faith can be used and abused in times of crisis."
+      },
+      {
+        "id": "tvmaze:1162933",
+        "title": "Tribal Justice",
+        "season": 30,
+        "episode": 11,
+        "released": "2017-08-21",
+        "overview": "In Tribal Justice, two Native American judges reach back to traditional concepts of justice in order to reduce incarceration rates, foster greater safety for their communities and create a more positive future for youth. By addressing the root causes of crime, they are modeling restorative systems that are working. Mainstream courts across the country begin to take notice."
+      },
+      {
+        "id": "tvmaze:1148928",
+        "title": "Raising Bertie",
+        "season": 30,
+        "episode": 12,
+        "released": "2017-08-28",
+        "overview": "Raising Bertie is an intimate portrait of three African American boys as they face a precarious coming of age in rural Bertie County, North Carolina. Like many rural areas, Bertie County struggles with a dwindling economy, a declining population, and a high school graduation rate below the state average. This powerful vérité film weaves the young men's narratives together as they work to define their identities and grow into adulthood while navigating complex relationships, institutional racism, violence, poverty, and educational inequity."
+      },
+      {
+        "id": "tvmaze:1257764",
+        "title": "The Grown-Ups",
+        "season": 30,
+        "episode": 13,
+        "released": "2017-09-04",
+        "overview": "In a school for individuals with Down Syndrome, four middle-aged friends yearn for a life of greater autonomy in a society that marginalizes them as disabled. The Grown-Ups is a humorous and at times sad and uncomfortable look at the tragic limbo of conscious adults."
+      },
+      {
+        "id": "tvmaze:1268096",
+        "title": "My Love, Don't Cross That River",
+        "season": 30,
+        "episode": 14,
+        "released": "2017-09-11",
+        "overview": "89-year-old Kang Gye-Yeol and 98-year-old Jo Byeong-Man are married and have lived together for 76 years. While Kang and Jo spend every day like a newlywed couple, they now must face the reality of their aging romance. My Love, Don't Cross that River captures the fleeting moments of their twilight days."
+      },
+      {
+        "id": "tvmaze:1268094",
+        "title": "Swim Team",
+        "season": 30,
+        "episode": 15,
+        "released": "2017-10-02",
+        "overview": "Parents of a boy on the autism spectrum form a competitive swim team, recruiting other teens on the spectrum and training them with high expectations and zero pity. Swim Team chronicles the extraordinary rise of three diverse young athletes, capturing a moving quest for inclusion, independence and a life that feels like winning."
+      },
+      {
+        "id": "tvmaze:1268086",
+        "title": "The Islands and the Whales",
+        "season": 30,
+        "episode": 16,
+        "released": "2017-10-09",
+        "overview": "On the isolated North Atlantic archipelago of the Faroe Islands, the longtime hunting practices of the Faroese are threatened by dangerously high mercury levels in the whales, decimated seabird populations, and anti-whaling activists. The Faroe islanders consider themselves a canary in the mine, their tale a warning to the rest of the world."
+      },
+      {
+        "id": "tvmaze:1268078",
+        "title": "Motherland",
+        "season": 30,
+        "episode": 17,
+        "released": "2017-10-16",
+        "overview": "Motherland is an absorbingly intimate, vérité look at the busiest maternity hospital on the planet, in one of the world's most populous countries: the Philippines. Women share their stories with other mothers, their families, doctors and social workers. In a hospital that is literally bursting with life, we witness the miracle and wonder of the human condition."
+      },
+      {
+        "id": "tvmaze:1268071",
+        "title": "Cameraperson",
+        "season": 30,
+        "episode": 18,
+        "released": "2017-10-23",
+        "overview": "A boxing match in Brooklyn; life in postwar Bosnia; the daily routine of a Nigerian midwife; an intimate family moment at home: these scenes and others are woven into a tapestry of footage captured over the twenty-five-year career of cinematographer Kirsten Johnson. A work that combines documentary, autobiography, and ethical inquiry, Cameraperson is a thoughtful examination of what it means to train a camera on the world."
+      },
+      {
+        "id": "tvmaze:1248844",
+        "title": "Almost Sunrise",
+        "season": 30,
+        "episode": 19,
+        "released": "2017-11-13",
+        "overview": "In an attempt to put haunting combat experiences behind them, two friends embark on an epic 2,700-mile trek on foot across America, seeking redemption and healing as a way to close the moral chasm opened by war. Almost Sunrise is an intimate, vérité film that eschews stereotypes and instead captures an unprecedented portrait of veterans — one of hope, potential and untold possibilities."
+      },
+      {
+        "id": "tvmaze:1398937",
+        "title": "Do Not Resist",
+        "season": 30,
+        "episode": 20,
+        "released": "2018-02-12",
+        "overview": "A vital and influential exploration of the rapid militarization of the police in the United States. Do Not Resist puts viewers in the center of the action — from inside a police training seminar that teaches the importance of \"righteous violence\" to the floor of a congressional hearing on the proliferation of military equipment in small-town police departments."
+      },
+      {
+        "id": "tvmaze:1448917",
+        "title": "Bill Nye: Science Guy",
+        "season": 31,
+        "episode": 1,
+        "released": "2018-04-18",
+        "overview": "Bill Nye is a man on a mission: to stop the spread of anti-scientific thinking across the world. The former star of the popular kids' show \"Bill Nye the Science Guy\" is now advocating for the importance of science, research and discovery in public life. With intimate and exclusive access as well as plenty of wonder and whimsy this behind-the-scenes portrait of Nye follows him as he takes off his Science Guy lab coat and takes on those who deny climate change, evolution and a science-based worldview. The film features Bill Nye, Neil deGrasse Tyson, Ann Druyan and many others. The film is a PBS Distribution release."
+      },
+      {
+        "id": "tvmaze:1453436",
+        "title": "Quest",
+        "season": 31,
+        "episode": 2,
+        "released": "2018-06-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877485",
+        "title": "Singing with Angry Bird",
+        "season": 31,
+        "episode": 3,
+        "released": "2018-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1453437",
+        "title": "Brimstone & Glory",
+        "season": 31,
+        "episode": 4,
+        "released": "2018-07-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877487",
+        "title": "The Workers Cup",
+        "season": 31,
+        "episode": 5,
+        "released": "2018-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1453438",
+        "title": "Lindy Lou, Juror Number 2",
+        "season": 31,
+        "episode": 6,
+        "released": "2018-07-16",
+        "overview": "Lindy begins a journey to search for the 11 jurors with whom she sentenced a man to death."
+      },
+      {
+        "id": "tvmaze:1508690",
+        "title": "The War to Be Her",
+        "season": 31,
+        "episode": 7,
+        "released": "2018-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1453439",
+        "title": "Beatrice",
+        "season": 31,
+        "episode": 8,
+        "released": "2018-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1453440",
+        "title": "Whose Streets?",
+        "season": 31,
+        "episode": 9,
+        "released": "2018-07-30",
+        "overview": "Take an unflinching look at the Ferguson uprising, told by the activists leading the movement."
+      },
+      {
+        "id": "tvmaze:1453441",
+        "title": "Still Tomorrow",
+        "season": 31,
+        "episode": 10,
+        "released": "2018-08-06",
+        "overview": "A rural poet whose writings ponder life, love and pain becomes a sudden star in China."
+      },
+      {
+        "id": "tvmaze:1453442",
+        "title": "Nowhere to Hide",
+        "season": 31,
+        "episode": 11,
+        "released": "2018-08-27",
+        "overview": "Follow nurse Nori Sharif through five years of dramatic change in one of the world's most dangerous areas: central Iraq."
+      },
+      {
+        "id": "tvmaze:1508689",
+        "title": "Voices of the Sea",
+        "season": 31,
+        "episode": 12,
+        "released": "2018-09-03",
+        "overview": "Follow a 30-something Cuban mother of four longing for escape and a better life."
+      },
+      {
+        "id": "tvmaze:1508691",
+        "title": "93Queen",
+        "season": 31,
+        "episode": 13,
+        "released": "2018-09-17",
+        "overview": "Meet the tenacious Hasidic women creating an all-female volunteer ambulance corps in New York City."
+      },
+      {
+        "id": "tvmaze:1508692",
+        "title": "Survivors",
+        "season": 31,
+        "episode": 14,
+        "released": "2018-09-24",
+        "overview": "Meet Sierra Leonean healthcare workers as they heroically face the Ebola epidemic in their country."
+      },
+      {
+        "id": "tvmaze:1507488",
+        "title": "Dark Money",
+        "season": 31,
+        "episode": 15,
+        "released": "2018-10-01",
+        "overview": "Dark Money, a political thriller, examines one of the greatest present threats to American democracy: the influence of untraceable corporate money on our elections and elected officials. The film takes viewers to Montana—a frontline in the fight to preserve fair elections nationwide—to follow an intrepid local journalist working to expose the real-life impacts of the U.S. Supreme Court's Citizens United decision. Through this gripping story, Dark Money uncovers the shocking and vital truth of how American elections are bought and sold. Official Selection, 2018 Sundance Film Festival."
+      },
+      {
+        "id": "tvmaze:1539429",
+        "title": "The Apology",
+        "season": 31,
+        "episode": 16,
+        "released": "2018-10-22",
+        "overview": "Meet three former \"comfort women\" forced into military sexual slavery during World War II."
+      },
+      {
+        "id": "tvmaze:1566104",
+        "title": "Minding The Gap",
+        "season": 31,
+        "episode": 17,
+        "released": "2019-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1566105",
+        "title": "306 Hollywood",
+        "season": 31,
+        "episode": 18,
+        "released": "2019-03-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877491",
+        "title": "Wendy's Shabbat",
+        "season": 31,
+        "episode": 19,
+        "released": "2019-03-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1877489",
+        "title": "116 Cameras",
+        "season": 31,
+        "episode": 20,
+        "released": "2019-03-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1649249",
+        "title": "Roll Red Roll",
+        "season": 32,
+        "episode": 1,
+        "released": "2019-06-17",
+        "overview": "Roll Red Roll exposes the culture at the root of high school sexual assault in America."
+      },
+      {
+        "id": "tvmaze:1660659",
+        "title": "The Gospel Of Eureka",
+        "season": 32,
+        "episode": 2,
+        "released": "2019-06-24",
+        "overview": "Arkansas Christians and drag queens step into the spotlight to dismantle stereotypes."
+      },
+      {
+        "id": "tvmaze:1662946",
+        "title": "Call Her Ganda",
+        "season": 32,
+        "episode": 3,
+        "released": "2019-07-01",
+        "overview": "Activists pursue justice for a Filipina transgender woman murdered by a U.S. Marine."
+      },
+      {
+        "id": "tvmaze:1670955",
+        "title": "Bisbee '17",
+        "season": 32,
+        "episode": 4,
+        "released": "2019-07-15",
+        "overview": "A town commemorates the 100th anniversary of the deportation of 1,200 immigrant miners."
+      },
+      {
+        "id": "tvmaze:1672831",
+        "title": "On Her Shoulders",
+        "season": 32,
+        "episode": 5,
+        "released": "2019-07-22",
+        "overview": "A Yazidi survivor of genocide and sexual slavery tells her story to the United Nations."
+      },
+      {
+        "id": "tvmaze:1672832",
+        "title": "Inventing Tomorrow",
+        "season": 32,
+        "episode": 6,
+        "released": "2019-07-29",
+        "overview": "Teen innovators prepare for the largest convening of high school scientists in the world."
+      },
+      {
+        "id": "tvmaze:1672833",
+        "title": "The Distant Barking of Dogs",
+        "season": 32,
+        "episode": 7,
+        "released": "2019-08-05",
+        "overview": "Ten-year-old Oleg's life is turned upside down by the ongoing war in Eastern Ukraine."
+      },
+      {
+        "id": "tvmaze:1683353",
+        "title": "Happy Winter",
+        "season": 32,
+        "episode": 8,
+        "released": "2019-08-12",
+        "overview": "A vanity fair of beachgoers hide behind the memory of their compromised social status."
+      },
+      {
+        "id": "tvmaze:1672834",
+        "title": "Farmsteaders",
+        "season": 32,
+        "episode": 9,
+        "released": "2019-09-02",
+        "overview": "The Nolans return home to save their family's farm from industrial agriculture extinction."
+      },
+      {
+        "id": "tvmaze:1672835",
+        "title": "Grit",
+        "season": 32,
+        "episode": 10,
+        "released": "2019-09-09",
+        "overview": "An East Java village seeks reparations from the corporation that buried the town in mud."
+      },
+      {
+        "id": "tvmaze:1672836",
+        "title": "The Silence of Others",
+        "season": 32,
+        "episode": 11,
+        "released": "2019-09-30",
+        "overview": "Victims of Spain's dictatorship fight a state-imposed amnesia of crimes against humanity."
+      },
+      {
+        "id": "tvmaze:1726675",
+        "title": "América",
+        "season": 32,
+        "episode": 12,
+        "released": "2019-10-07",
+        "overview": "Three brothers confront adult reality when they care for their 93-year-old grandmother."
+      },
+      {
+        "id": "tvmaze:1740981",
+        "title": "The Feeling of Being Watched",
+        "season": 32,
+        "episode": 13,
+        "released": "2019-10-14",
+        "overview": "In the Chicago suburb where journalist Assia Boundaoui grew up, most residents in her Muslim immigrant neighborhood believe they are under surveillance. Assia investigates and uncovers FBI documents about \"Operation Vulgar Betrayal,\" one of the largest pre-9/11 counterterrorism probes conducted on domestic soil, right in Assia's hometown."
+      },
+      {
+        "id": "tvmaze:1740982",
+        "title": "Blowin' Up",
+        "season": 32,
+        "episode": 14,
+        "released": "2019-10-21",
+        "overview": "Working within a broken criminal justice system, a team of rebel heroines work to change the way women arrested for prostitution are prosecuted. With intimate camerawork that lingers on details and brings the Queens criminal courtroom to life, Blowin' Up celebrates acts of steadfast defiance, even as it reveals the hurdles these women must face."
+      },
+      {
+        "id": "tvmaze:1777770",
+        "title": "Midnight Traveler",
+        "season": 32,
+        "episode": 15,
+        "released": "2019-12-30",
+        "overview": "When the Taliban puts a bounty on Afghan director Hassan Fazili's head, he is forced to flee with his wife and two young daughters. Fazili shows firsthand the dangers facing refugees seeking asylum and the love shared between a family on the run."
+      },
+      {
+        "id": "tvmaze:1795610",
+        "title": "The Rescue List",
+        "season": 32,
+        "episode": 16,
+        "released": "2020-03-23",
+        "overview": "In a rehabilitation shelter in Ghana, two children are recovering from enslavement to fishermen. But their story takes an unexpected turn when their rescuer embarks on another mission and asks the children for help. Charting the unfolding drama, The Rescue List tells a moving story of friendship and courage—transcending tropes of victimhood and illustrating what it means to love and survive."
+      },
+      {
+        "id": "tvmaze:1873777",
+        "title": "And She Could Be Next: Building the Movement",
+        "season": 33,
+        "episode": 1,
+        "released": "2020-06-29",
+        "overview": "And She Could Be Next follows a defiant movement led by women of color as they fight for a truly reflective democracy and transform politics from the ground up.  (Part 1 of 2)"
+      },
+      {
+        "id": "tvmaze:1873778",
+        "title": "And She Could Be Next: Claiming Power",
+        "season": 33,
+        "episode": 2,
+        "released": "2020-06-30",
+        "overview": "And She Could Be Next follows a defiant movement led by women of color as they fight for a truly reflective democracy and transform politics from the ground up.  (Part 2 of 2)"
+      },
+      {
+        "id": "tvmaze:1888526",
+        "title": "We are the Radical Monarchs",
+        "season": 33,
+        "episode": 3,
+        "released": "2020-07-20",
+        "overview": "Meet the Radical Monarchs, a group of young girls of color on the frontlines of social justice. Set in Oakland, California, the film documents the journey of the group as they earn badges for completing units on such subjects as LGBTQ allyship, environmental preservation and disability justice."
+      },
+      {
+        "id": "tvmaze:1893330",
+        "title": "Advocate",
+        "season": 33,
+        "episode": 4,
+        "released": "2020-07-27",
+        "overview": "A political firebrand in her home country, Israeli defense attorney Lea Tsemel is known by her opponents as \"the devil's advocate,\" for her decades-long defense of Palestinians who have been accused of resisting the occupation, both violently and non-violently."
+      },
+      {
+        "id": "tvmaze:1896861",
+        "title": "Chez Jolie Coiffure",
+        "season": 33,
+        "episode": 5,
+        "released": "2020-08-03",
+        "overview": "Sabine is a charismatic, larger-than-life personality crammed into a tiny shop in the immigrant Brussels district of Matonge. Here, she and her employees style extensions and glue on lashes while sharing rumors about government programs to legalize migrants and talking about life back home in Cameroon."
+      },
+      {
+        "id": "tvmaze:1899754",
+        "title": "About Love",
+        "season": 33,
+        "episode": 6,
+        "released": "2020-08-10",
+        "overview": "Three generations of the Phadke family live together in their home in Mumbai. When the youngest daughter turns the camera towards her family, the personal becomes political as power structures within the family become visible, and eventually unravel. Cruel and comic in equal measure, the film shows the vagaries of affection across generations."
+      },
+      {
+        "id": "tvmaze:1911978",
+        "title": "Portraits and Dreams",
+        "season": 33,
+        "episode": 7,
+        "released": "2020-09-07",
+        "overview": "Portraits and Dreams revisits photographs created by Kentucky schoolchildren in the 1970s and the place where the photos were made. The film is about the students, their work as visionary photographers and the lives they have led since then, as well as the linkage of personal memory to the passage of time."
+      },
+      {
+        "id": "tvmaze:1914474",
+        "title": "Love Child",
+        "season": 33,
+        "episode": 8,
+        "released": "2020-09-14",
+        "overview": "With adultery being punishable by death in Iran, a young couple make the fateful decision to flee the country with their son Mani. Love Child is an intimate love story about an illicit family on a journey to seek asylum in Turkey and start a new life."
+      },
+      {
+        "id": "tvmaze:1917831",
+        "title": "In My Blood It Runs",
+        "season": 33,
+        "episode": 9,
+        "released": "2020-09-21",
+        "overview": "Peek into the life of Dujuan, a 10-year-old Aboriginal boy growing up in Alice Springs, Australia.  He is a child-healer and a good hunter and speaks three languages. Yet he is failing in school and facing increasing scrutiny from welfare authorities and the police. As he veers perilously close to incarceration, his family fights to give him a strong Arrernte education alongside his western education."
+      },
+      {
+        "id": "tvmaze:1925044",
+        "title": "Our Time Machine",
+        "season": 33,
+        "episode": 10,
+        "released": "2020-09-28",
+        "overview": "When artist Maleonn realizes that his father suffers from Alzheimer's disease, he creates \"Papa's Time Machine,\" a magical, autobiographical stage performance featuring life-size mechanical puppets.Through the production of this play, the two men confront their mortality before time runs out and memories are lost forever."
+      },
+      {
+        "id": "tvmaze:1925045",
+        "title": "The Infiltrators",
+        "season": 33,
+        "episode": 11,
+        "released": "2020-10-05",
+        "overview": "A true story of two young immigrants who get purposefully arrested by Border Patrol, and put in a shadowy for-profit detention center. The film follows Marco and Viri, members of a group of radical Dreamers who are on a mission to stop deportations. And the best place to stop deportations, they believe, is in detention."
+      },
+      {
+        "id": "tvmaze:1928204",
+        "title": "Softie",
+        "season": 33,
+        "episode": 12,
+        "released": "2020-10-12",
+        "overview": "After years of fighting injustice in Kenya, daring and audacious political activist Boniface \"Softie\" Mwangi decides to run for political office. But running a clean campaign against corrupt opponents with idealism as his only weapon proves challenging."
+      },
+      {
+        "id": "tvmaze:1979416",
+        "title": "The Mole Agent",
+        "season": 33,
+        "episode": 13,
+        "released": "2021-01-25",
+        "overview": "When a family grows concerned for their mother's well-being in a retirement home, private investigator Romulo hires Sergio to become a new resident and a mole inside the home. Sergio struggles to balance his assignment with his increasing involvement in the lives of other residents."
+      },
+      {
+        "id": "tvmaze:2065032",
+        "title": "Through The Night",
+        "season": 33,
+        "episode": 14,
+        "released": "2021-05-10",
+        "overview": "Through the Night is a vérité documentary that explores the personal cost of our modern economy through the stories of two working mothers and a child care provider, whose lives intersect at a 24-hour daycare center in New Rochelle, New York."
+      },
+      {
+        "id": "tvmaze:2111605",
+        "title": "The Neutral Ground",
+        "season": 34,
+        "episode": 1,
+        "released": "2021-07-05",
+        "overview": "The Neutral Ground documents New Orleans' fight over monuments and America's troubled romance with the Lost Cause. In 2015, director CJ Hunt was filming the New Orleans City Council's vote to remove four confederate monuments. But when that removal is halted by death threats, CJ sets out to understand why a losing army from 1865 still holds so much power in America."
+      },
+      {
+        "id": "tvmaze:2111606",
+        "title": "Landfall",
+        "season": 34,
+        "episode": 2,
+        "released": "2021-07-12",
+        "overview": "Through shard-like glimpses of everyday life in post-Hurricane María Puerto Rico, Landfall is a cautionary tale for our times. Set against the backdrop of protests that toppled the governor in 2019, the film offers a prismatic portrait of collective trauma and resistance as Puerto Ricans navigate dismantled social services and newcomers eager to profit."
+      },
+      {
+        "id": "tvmaze:2111607",
+        "title": "Stateless",
+        "season": 34,
+        "episode": 3,
+        "released": "2021-07-19",
+        "overview": "Director Michèle Stephenson's new documentary follows families of those affected by the 2013 legislation stripping citizenship from Dominicans of Haitian descent, uncovering the complex history and present-day politics of Haiti and the Dominican Republic through the grassroots electoral campaign of a young attorney named Rosa Iris."
+      },
+      {
+        "id": "tvmaze:2111608",
+        "title": "Mayor",
+        "season": 34,
+        "episode": 4,
+        "released": "2021-07-26",
+        "overview": "Musa Hadid is the Christian mayor of Ramallah, the de facto capital of the Palestinian Authority. As he tries to keep his city running while paving sidewalks, planning holidays and building a new fountain, his job is made increasingly difficult by the Israeli occupation of his home. Mayor asks with humor and outrage: how do you run a city if you don't have a country?"
+      },
+      {
+        "id": "tvmaze:2134349",
+        "title": "Pier Kids",
+        "season": 34,
+        "episode": 5,
+        "released": "2021-08-02",
+        "overview": "On the Christopher Street Pier in New York City, homeless queer and trans youth of color forge friendships and chosen families, withstanding tremendous amounts of abuse while working to carve out autonomy in their lives. With intimate, immersive access to these fearless young people, Pier Kids highlights the precarity and resilience of a community many choose to ignore."
+      },
+      {
+        "id": "tvmaze:2145985",
+        "title": "The Song of the Butterflies",
+        "season": 34,
+        "episode": 6,
+        "released": "2021-08-30",
+        "overview": "Rember Yahuarcani is an Indigenous painter from the White Heron clan of the Uitoto Nation in Peru. He left to pursue a successful career in Lima, but when he finds himself in a creative rut, he returns home to his Amazonian community of Pebas, visiting his father, a painter, and his mother, a sculptor, and discovers why the stories of his ancestors cannot be forgotten. A co-presentation of Latino Public Broadcasting and Vision Maker Media. Official Selection, Hot Docs Film Festival"
+      },
+      {
+        "id": "tvmaze:2145986",
+        "title": "Fruits of Labor",
+        "season": 34,
+        "episode": 7,
+        "released": "2021-10-04",
+        "overview": "Ashley, a Mexican-American teenager living in California, dreams of graduating high school and going to college. But when ICE raids threaten her family, Ashley is forced to become the breadwinner, working days in the strawberry fields and nights at a food processing company."
+      },
+      {
+        "id": "tvmaze:2333775",
+        "title": "La Casa de Mama Icha",
+        "season": 34,
+        "episode": 8,
+        "released": "2021-10-18",
+        "overview": "Decades earlier, Mama Icha moved to the United States to help her daughter with the care of her grandchildren. However, she never lost sight of her hometown of Mompox, spending years sending money to build her dream house there. Now, at the end of her life, Mama Icha boards a plane and flies back to Colombia where she finds joy and heartbreak in her return to the place her heart never left."
+      },
+      {
+        "id": "tvmaze:2145987",
+        "title": "Things We Dare Not Do",
+        "season": 34,
+        "episode": 9,
+        "released": "2021-10-25",
+        "overview": "In the small Mexican coastal village of El Roblito, 16-year-old Ñoño lives what seems to be an idyllic existence with his loving family. But he holds a secret. Defying gender norms, Ñoño works up the courage to tell his family he wants to live his life as a woman, a fraught decision in a country shrouded in machismo and transphobia."
+      },
+      {
+        "id": "tvmaze:2145988",
+        "title": "North By Current",
+        "season": 34,
+        "episode": 10,
+        "released": "2021-11-01",
+        "overview": "Filmmaker and artist Angelo Madsen Minax returns to his rural Michigan hometown after a family tragedy. Weaving vignettes of VHS and Super 8 home movies with the present day, Madsen creates a poetic, nuanced portrait of a family navigating grief, addiction, and transgender identity."
+      },
+      {
+        "id": "tvmaze:2215702",
+        "title": "Unapologetic",
+        "season": 34,
+        "episode": 11,
+        "released": "2021-12-27",
+        "overview": "Meet Janaé and Bella, two fierce abolitionists whose upbringing and experiences shape their activism and views on Black liberation. Through their lens, Unapologetic provides an inside look into the ongoing movement work that transformed Chicago, from the police murder of Rekia Boyd to the election of mayor Lori Lightfoot."
+      },
+      {
+        "id": "tvmaze:2215703",
+        "title": "Not Going Quietly",
+        "season": 35,
+        "episode": 1,
+        "released": "2022-01-24",
+        "overview": "A rising star in progressive politics and new father, Ady Barkan's career and family are upended when he is diagnosed with ALS at age 32. After a chance encounter with a powerful Senator on an airplane catapults him to national fame, Ady and a motley crew of activists storm across the country, igniting a once-in-a-generation movement for healthcare for all Americans."
+      },
+      {
+        "id": "tvmaze:2245471",
+        "title": "On the Divide",
+        "season": 35,
+        "episode": 2,
+        "released": "2022-04-18",
+        "overview": "McAllen, TX is home to the last reproductive health clinic on the Texas/Mexico border. It is the center of the tension between religious protesters who try to stop patients coming inside and the security staff of the clinic who fight to protect it. On The Divide follows three different Latinx members of this community and the unforeseen choices they face for their daily survival."
+      },
+      {
+        "id": "tvmaze:2327952",
+        "title": "Wuhan Wuhan",
+        "season": 35,
+        "episode": 3,
+        "released": "2022-07-11",
+        "overview": "With unprecedented access in a period of pandemic lockdown, Wuhan Wuhan documents February and March 2020 in Wuhan where the coronavirus was first discovered. Going beyond the statistics and salacious headlines, frontline medical workers, patients, and ordinary citizens put a human face on the early days of the mysterious virus as they grapple with an invisible, deadly killer."
+      },
+      {
+        "id": "tvmaze:2327953",
+        "title": "Manzanar, Diverted: When Water Becomes Dust",
+        "season": 35,
+        "episode": 4,
+        "released": "2022-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2327954",
+        "title": "Winter's Yearning",
+        "season": 35,
+        "episode": 5,
+        "released": "2022-07-25",
+        "overview": "In Maniitsoq, Greenland, the US aluminum giant Alcoa Corporation has been planning to build a smelting plant for years. With the promise of economic renewal, Winter's Yearning follows the lives of the area's loyal aging population and its stymied youth. Pictured against immense, isolating landscapes, the people await their plant and with it, the nation's possible first step towards sovereignty."
+      },
+      {
+        "id": "tvmaze:2327955",
+        "title": "He's My Brother",
+        "season": 35,
+        "episode": 6,
+        "released": "2022-08-01",
+        "overview": "Christine's brother Peter experiences his world through touch, smell, and taste. Now 30 years old, Peter's family is having trouble finding the proper care for his multiple disabilities. Told through Christine's eyes, He's My Brother explores how the family works to assure him a dignified life once the parents are gone -- and Christine's uncertainties about one day becoming his primary caregiver."
+      },
+      {
+        "id": "tvmaze:2327956",
+        "title": "President",
+        "season": 35,
+        "episode": 7,
+        "released": "2022-08-08",
+        "overview": "Zimbabwe is at a crossroads. The new leader of the opposition party, MDC, Nelson Chamisa, is challenging the old guard, ZANU-PF, represented by the acting president, Emmerson Mnangagwa. The 2018 Zimbabwean general election serves as the ultimate test for both the ruling party and for the opposition. How will they interpret democracy in a post-Mugabe era – in discourse and in practice?"
+      },
+      {
+        "id": "tvmaze:2327957",
+        "title": "Faya Dayi",
+        "season": 35,
+        "episode": 8,
+        "released": "2022-08-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2327958",
+        "title": "Love & Stuff",
+        "season": 35,
+        "episode": 9,
+        "released": "2022-09-05",
+        "overview": "\"How do you live without your mother?\" Filmmaker Judith Helfand asks this unbearable question twice: as a daughter caring for her terminally ill mother, and as an \"old new mom,\" single parenting her much-longed-for adopted baby girl. With footage from 25 years of first-person filmmaking, shiva babka and 63 boxes of dead parents' \"stuff,\" the film asks: what do we really need to leave our children?"
+      },
+      {
+        "id": "tvmaze:2327959",
+        "title": "Delikado",
+        "season": 35,
+        "episode": 10,
+        "released": "2022-09-26",
+        "overview": "Palawan is a tropical island paradise and one of Asia's tourist hotspots. But for a tiny network of environmental crusaders struggling to protect its spectacular forests and seas, it is a battlefield. Delikado follows three land defenders as they brave violence, death threats and murder while trying to stop politicians and businessmen from destroying the Philippines' last ecological frontier."
+      },
+      {
+        "id": "tvmaze:2327960",
+        "title": "The Last Out",
+        "season": 35,
+        "episode": 11,
+        "released": "2022-10-03",
+        "overview": "Three Cuban baseball players leave their families and risk exile to train in Central America and chase their dreams of playing in the United States. At the shadowy nexus of the migrant trail and pro sports, The Last Out chronicles their difficult journey, from multi-step immigration obstacles and learning English to the broken promises and dubious motives of agents."
+      },
+      {
+        "id": "tvmaze:2327961",
+        "title": "Accepted",
+        "season": 35,
+        "episode": 12,
+        "released": "2022-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2410529",
+        "title": "An Act of Worship",
+        "season": 35,
+        "episode": 13,
+        "released": "2022-10-17",
+        "overview": "In An Act of Worship, Muslim-Americans recount the past 30 years of pivotal moments in U.S. history and policy from their own perspective. Weaving together observational footage of activists who came of age after 9/11, community-sourced home videos and evocative recollections from individuals impacted by incidents of Islamophobia, the film opens a window into their world through collective memory."
+      },
+      {
+        "id": "tvmaze:2327962",
+        "title": "Midwives",
+        "season": 35,
+        "episode": 14,
+        "released": "2022-11-21",
+        "overview": "Midwives chronicles two women who run a makeshift medical clinic in a region torn apart by violent ethnic divisions. Hla, the owner, is a Buddhist in western Myanmar, where the Rohingya, a Muslim minority, are persecuted and denied basic rights. Nyo Nyo is a Muslim and an apprentice. Encouraged and challenged by Hla, Nyo Nyo is determined to become a steady health care provider for her people."
+      },
+      {
+        "id": "tvmaze:2327963",
+        "title": "Let the Little Light Shine",
+        "season": 35,
+        "episode": 15,
+        "released": "2022-12-12",
+        "overview": "An academic beacon for Black children on Chicago's South Side battles gentrification."
+      },
+      {
+        "id": "tvmaze:2327964",
+        "title": "I Didn't See You There",
+        "season": 35,
+        "episode": 16,
+        "released": "2023-01-09",
+        "overview": "A disabled filmmaker ruminates on the corrosive legacy of the Freak Show."
+      },
+      {
+        "id": "tvmaze:2543223",
+        "title": "After Sherman",
+        "season": 36,
+        "episode": 1,
+        "released": "2023-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543224",
+        "title": "A Story of Bones",
+        "season": 36,
+        "episode": 2,
+        "released": "2023-07-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543225",
+        "title": "Liquor Store Dreams",
+        "season": 36,
+        "episode": 3,
+        "released": "2023-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543226",
+        "title": "A House Made of Splinters",
+        "season": 36,
+        "episode": 4,
+        "released": "2023-07-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543227",
+        "title": "Eat Your Catfish",
+        "season": 36,
+        "episode": 5,
+        "released": "2023-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543228",
+        "title": "Children of the Mist",
+        "season": 36,
+        "episode": 6,
+        "released": "2023-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543229",
+        "title": "While We Watched",
+        "season": 36,
+        "episode": 7,
+        "released": "2023-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543230",
+        "title": "Bulls and Saints",
+        "season": 36,
+        "episode": 8,
+        "released": "2023-09-18",
+        "overview": "After 20 years in the United States, an undocumented family decides to return home."
+      },
+      {
+        "id": "tvmaze:2543231",
+        "title": "Uýra - The Rising Forest",
+        "season": 36,
+        "episode": 9,
+        "released": "2023-09-25",
+        "overview": "Uýra shares ancestral knowledge with Indigenous youth in the Amazon to promote the significance of identity and place, threatened by Brazil's oppressive political regime. Through dance, poetry, and stunning characterization, Uýra confronts historical racism, transphobia, and environmental destruction, while emphasizing the interdependence of humans and the environment."
+      },
+      {
+        "id": "tvmaze:2543232",
+        "title": "Murders That Matter",
+        "season": 36,
+        "episode": 10,
+        "released": "2023-10-02",
+        "overview": "How would you handle the trauma of losing a loved one? Murders That Matter documents African American Muslim mother Movita Johnson-Harrell over five years as she transforms from a victim of violent trauma into a fierce advocate against gun violence in Black communities."
+      },
+      {
+        "id": "tvmaze:2543233",
+        "title": "Aurora's Sunrise",
+        "season": 36,
+        "episode": 11,
+        "released": "2023-10-23",
+        "overview": "At 14, Aurora Madriganian survived the Armenian Genocide and escaped to New York, where her story became a media sensation. Her newfound fame led to her starring in Auction of Souls, one of Hollywood's earliest blockbusters. Blending storybook animation, video testimony, and rediscovered footage from her lost silent epic, Aurora's Sunrise revives her forgotten story."
+      },
+      {
+        "id": "tvmaze:2543234",
+        "title": "Fire Through Dry Grass",
+        "season": 36,
+        "episode": 12,
+        "released": "2023-10-30",
+        "overview": "Wearing snapback caps and Air Jordans, the Reality Poets aren't typical nursing home residents. In Fire Through Dry Grass, these young, Black and brown disabled artists document their lives on lockdown during Covid, their rhymes underscoring the danger and imprisonment they feel. In the face of institutional neglect, they refuse to be abused, confined, and erased."
+      },
+      {
+        "id": "tvmaze:2543235",
+        "title": "Wisdom Gone Wild",
+        "season": 36,
+        "episode": 13,
+        "released": "2023-11-20",
+        "overview": "A vibrant tender cine-poem, a filmmaker collaborates with her Nisei mother as they confront the painful curious reality of wisdom ‘gone wild' in the shadows of dementia. Made over 16 years, the film blends humor and sadness in an encounter between mother and daughter that blooms into an affectionate portrait of love, care, and a relationship transformed."
+      },
+      {
+        "id": "tvmaze:2543236",
+        "title": "How to Have an American Baby",
+        "season": 36,
+        "episode": 14,
+        "released": "2023-12-11",
+        "overview": "How to Have an American Baby is a kaleidoscopic voyage into the shadow economy catering to Chinese tourists who travel to the US to give birth for citizenship. Told through a series of intimately observed vignettes, the story of a hidden global economy emerges–depicting the fortunes and tragedies that befall the ordinary people caught in its web."
+      },
+      {
+        "id": "tvmaze:2660792",
+        "title": "Brief Tender Light",
+        "season": 36,
+        "episode": 15,
+        "released": "2024-01-15",
+        "overview": "At the elite MIT, a Ghanaian alum follows four African students striving to become agents of positive change back home. Even as their dreams are anchored in the societies they left, their daily realities are defined by America. Each must refine their ideas about the world and about themselves, and ultimately, how to transform youthful ideals into action as adults."
+      },
+      {
+        "id": "tvmaze:2660793",
+        "title": "Unseen",
+        "season": 36,
+        "episode": 16,
+        "released": "2024-03-18",
+        "overview": "As a blind, undocumented immigrant, Pedro faces uncertainty to obtain his college degree, become a social worker, and support his family. Through experimental cinematography and sound, unseen reimagines the accessibility of cinema, while exploring the intersections of immigration, disability, and mental health."
+      },
+      {
+        "id": "tvmaze:2915219",
+        "title": "King Coal",
+        "season": 37,
+        "episode": 1,
+        "released": "2024-06-24",
+        "overview": "A lyrical tapestry of a place and people, King Coal meditates on the complex history and future of the coal industry, the communities it has shaped, and the myths it has created. The film reshapes the boundaries of documentary filmmaking and transcends time and place, untangling the pain from the beauty, and illuminating the innately human capacity for imagination and change."
+      },
+      {
+        "id": "tvmaze:2915943",
+        "title": "Hummingbirds",
+        "season": 37,
+        "episode": 2,
+        "released": "2024-07-01",
+        "overview": "In Hummingbirds, Silvia and Beba tell their own coming-of-age story, transforming their hometown on the Texas-Mexico border into a wonderland of creative expression and activist hijinks. Filmed collaboratively over the final summer of their fleeting youth, their cinematic self-portrait celebrates the power of friendship and joy as tools of survival and resistance Grand Prize, 2023 Berlinale Generation."
+      },
+      {
+        "id": "tvmaze:2915944",
+        "title": "Is There Anybody Out There?",
+        "season": 37,
+        "episode": 3,
+        "released": "2024-07-08",
+        "overview": "Born with a rare disability, filmmaker Ella Glendining wonders if there is anyone who can share the experience of living in a body like hers. This simple question–one which non disabled people take for granted, leads to a journey to not only others who live like her–but to the realization that meeting them changes how she views herself in the world, as well as many surprises along the way."
+      },
+      {
+        "id": "tvmaze:2915945",
+        "title": "Against the Tide",
+        "season": 37,
+        "episode": 4,
+        "released": "2024-07-29",
+        "overview": "Mumbai fishermen Rakesh and Ganesh are inheritors of the great Koli knowledge system—a way to harvest the sea by following the moon and the tides. Rakesh has kept faith in traditional fishing methods while Ganesh has embraced technology. Against the Tide is the tale of two men's bond fractured by the weight of a changing world and a sea threatened by climate change."
+      },
+      {
+        "id": "tvmaze:2915946",
+        "title": "Fauna",
+        "season": 37,
+        "episode": 5,
+        "released": "2024-08-05",
+        "overview": "An old shepherd and his flock live alongside a high-tech laboratory for animal experimentation. Two worlds that are two sides of the same coin. While the shepherd, afflicted with a bone disease, witnesses his profession disappearing, scientists are busier than ever researching the COVID vaccine. Fauna explores the relationship between humans, animals and science in post-pandemic times."
+      },
+      {
+        "id": "tvmaze:2915947",
+        "title": "Name Me Lawand",
+        "season": 37,
+        "episode": 6,
+        "released": "2024-09-09",
+        "overview": "Lawand, deaf from birth, seeks a fresh start with his family in the UK after a traumatic year in a refugee camp. At Derby's Royal School for the Deaf, he learns sign language and discovers a way to communicate with the world. As he thrives, his family faces deportation, challenging their stability. Name Me Lawand is a love letter to the power of friendship and community."
+      },
+      {
+        "id": "tvmaze:2915948",
+        "title": "Who's Afraid of Nathan Law",
+        "season": 37,
+        "episode": 7,
+        "released": "2024-09-23",
+        "overview": "At 21, he was a leader of Hong Kong's Umbrella Revolution. By 23, he became Hong Kong's youngest elected lawmaker. At 26, he was Most Wanted under the National Security Law. Who's Afraid of Nathan Law? offers a close look at the city's most famous dissident to uncover what happens to freedom when an authoritarian power goes unchecked."
+      },
+      {
+        "id": "tvmaze:2915949",
+        "title": "In the Rearview",
+        "season": 37,
+        "episode": 8,
+        "released": "2024-10-07",
+        "overview": "In a volunteer aid van occupied by multiple generations of civilians, an authentic, intimate observation of the war in Ukraine unfolds. Each passenger is unique in age, origin and circumstance, but alike in where they find themselves — fleeing their homes while huddled together in a cramped back seat. Bound for Poland, the vehicle operates as their shelter, waiting room, hospital and confessional."
+      },
+      {
+        "id": "tvmaze:2915950",
+        "title": "Twice Colonized",
+        "season": 37,
+        "episode": 9,
+        "released": "2024-10-14",
+        "overview": "Aaju Peter is a renowned Inuit lawyer and activist who defends the human rights of Indigenous peoples. She's a fierce protector of her ancestral lands in the Arctic and works to bring her colonizers to justice. As Aaju launches an inspiring effort to establish an Indigenous forum, she also embarks upon a deeply personal journey to mend her own wounds, including the unexpected passing of her son."
+      },
+      {
+        "id": "tvmaze:2915951",
+        "title": "Tokyo Uber Blues",
+        "season": 37,
+        "episode": 10,
+        "released": "2024-10-21",
+        "overview": "Shot with a mix of smartphones and GoPros, filmmaker Taku Aoyagi takes us on his daily bike rides as an Uber Eats worker. But pedaling on Tokyo's deserted streets, delivering boba tea to cloistered condos, he starts to wonder… what was it that Ken Loach said about the Uberization of society? And what does gig-work offer an unemployed young person with student debt?"
+      },
+      {
+        "id": "tvmaze:2915952",
+        "title": "The Body Politic",
+        "season": 37,
+        "episode": 11,
+        "released": "2024-11-25",
+        "overview": "The Body Politic is a harbinger of hope in a country plagued by gun violence. In Baltimore, Brandon Scott, an idealistic young leader with an ambitious plan to stop chronic violence, is elected mayor. Throughout his first year in office, we follow him as he fights powerful political forces to save lives in Baltimore and reveal a pathway toward healing for the nation."
+      },
+      {
+        "id": "tvmaze:2915953",
+        "title": "Who I am Not",
+        "season": 37,
+        "episode": 12,
+        "released": "2024-12-30",
+        "overview": "Sharon-Rose Khumalo, a South African beauty queen, faces an identity crisis after discovering she's intersex. Her path crosses with Dimakatso Sebidi, a masculine-presenting intersex activist, as they both navigate a journey marked by society's stigma and inner struggles. Intertwining raw reality with poetic beauty, Who I am Not captures the heart-wrenching fight for acceptance in a binary world."
+      },
+      {
+        "id": "tvmaze:3025105",
+        "title": "The Taste of Mango",
+        "season": 37,
+        "episode": 13,
+        "released": "2025-04-28",
+        "overview": "The Taste of Mango is an enveloping, hypnotic, urgently personal meditation on family, memory, identity, violence, and love. Spanning three generations of women, their narratives, by turns difficult and jubilant, bear witness to the complex, ever-evolving nature of inheritance and the hurt and protection entangled within familial bonds."
+      },
+      {
+        "id": "tvmaze:2915954",
+        "title": "Break the Game",
+        "season": 37,
+        "episode": 15,
+        "released": "2025-06-30",
+        "overview": "After coming out as a trans woman, world-record-holding gamer, Narcissa Wright loses her massive fanbase. To win them back, she attempts to set a new record in The Legend of Zelda: Breath of the Wild, live-streaming every minute of her quest. Break the Game is a moving exploration of gamer culture, the realities of online harassment, and the mental health implications of living a digital life."
+      },
+      {
+        "id": "tvmaze:3273858",
+        "title": "Union",
+        "season": 38,
+        "episode": 1,
+        "released": "2025-06-23",
+        "overview": "Up against one of the most powerful companies on the planet, a group of Amazon workers embark on an unprecedented campaign to unionize their warehouse in Staten Island, New York. Documenting the struggle in intimate cinéma vérité, UNION presents a gripping human drama about the fight for power and dignity in today's globalized economic landscape."
+      },
+      {
+        "id": "tvmaze:3293333",
+        "title": "Break the Game",
+        "season": 38,
+        "episode": 2,
+        "released": "2025-06-30",
+        "overview": "After coming out as a trans woman, world-record-holding gamer, Narcissa Wright loses her massive fanbase. To win them back, she attempts to set a new record in The Legend of Zelda: Breath of the Wild, live streaming every minute of her quest. \"Break the Game\" is a moving exploration of gamer culture, the realities of online harassment and the mental health implications of living a digital life."
+      },
+      {
+        "id": "tvmaze:3286426",
+        "title": "Igualada: Refusing to Know Your Place",
+        "season": 38,
+        "episode": 3,
+        "released": "2025-07-07",
+        "overview": "Black activist Francia Márquez rises from rural Colombia to launch a historic presidential campaign that defies the political establishment. By espousing a different way of doing politics and championing equality, she inspires a nationwide movement that challenges centuries of exclusion."
+      },
+      {
+        "id": "tvmaze:3286427",
+        "title": "Made in Ethiopia",
+        "season": 38,
+        "episode": 4,
+        "released": "2025-07-14",
+        "overview": "Inside Ethiopia's largest Chinese-run industrial park, three women stand at the crossroads of rapid development. A Chinese director drives ambitious expansion, while a local farmer and factory worker grapple with promises of prosperity and the true cost of progress in their transforming community."
+      },
+      {
+        "id": "tvmaze:3286428",
+        "title": "The Ride Ahead",
+        "season": 38,
+        "episode": 5,
+        "released": "2025-07-21",
+        "overview": "Turning 21, Samuel wants his independence. Yet every rite of passage is fraught with challenges and social barriers. Seizures and uncontrollable movements. Inaccessible housing. Degrading ableist encounters. \"No one tells you how to be an adult,\" he says, \"let alone an adult with a disability.\" Can a community of disability activists help him follow his dreams?"
+      },
+      {
+        "id": "tvmaze:3286429",
+        "title": "Maya Lin: A Strong Clear Vision",
+        "season": 38,
+        "episode": 6,
+        "released": "2025-07-22",
+        "overview": "Revisit the Oscar winning story of Maya Lin, the young architect behind the Vietnam Veterans Memorial whose design was met with widespread controversy and public attacks. At the intersection of art, politics and creativity she remained steadfast in her personal vision."
+      },
+      {
+        "id": "tvmaze:3286430",
+        "title": "Emergent City",
+        "season": 38,
+        "episode": 7,
+        "released": "2025-08-18",
+        "overview": "Residents of Sunset Park, Brooklyn face rising rents, a legacy of environmental racism and the loss of the industrial jobs that once sustained their community. When a global developer purchases a massive industrial complex on the waterfront and lays plans for an \"innovation district,\" a battle erupts over the future of the neighborhood and of New York City itself."
+      },
+      {
+        "id": "tvmaze:3286431",
+        "title": "A New Kind of Wilderness",
+        "season": 38,
+        "episode": 8,
+        "released": "2025-08-25",
+        "overview": "On a small farm in a Norwegian forest, the Paynes live a purposefully isolated life, striving to be wild and free. But when tragedy strikes, their idyllic world is shattered, forcing them to navigate the expectations of modern society. This intimate and soulful documentary explores love, growing up, and how we navigate life after loss."
+      },
+      {
+        "id": "tvmaze:3286432",
+        "title": "DRIVER",
+        "season": 38,
+        "episode": 9,
+        "released": "2025-09-01",
+        "overview": "After losing everything, Desiree Wood takes a second lease on life as a long-haul trucker. Alongside an irreverent group of women drivers, she fights for a life on the road. In a rapidly changing labor landscape, Desiree and her sisterhood of truckers rally against the crushing forces of an industry that is indifferent to their survival."
+      },
+      {
+        "id": "tvmaze:3286433",
+        "title": "The Age of Water",
+        "season": 38,
+        "episode": 10,
+        "released": "2025-09-08",
+        "overview": "When three children die of leukemia in a rural Mexican community, two mothers partner with a scientist to investigate their water supply. Their discovery of dangerous radioactivity leads to community backlash and government denial, revealing how deep aquifers harbor ancient nuclear traces from the last ice age."
+      },
+      {
+        "id": "tvmaze:3286434",
+        "title": "Black Snow",
+        "season": 38,
+        "episode": 11,
+        "released": "2025-09-15",
+        "overview": "In a remote Siberian coal town, homemaker-turned-journalist Natalia Zubkova investigates an abandoned mine fire releasing toxic gas into residential homes. When her reporting goes viral, government officials launch an aggressive cover-up campaign, putting her directly in their crosshairs."
+      },
+      {
+        "id": "tvmaze:3286435",
+        "title": "The Bitter Pill",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-09-22",
+        "overview": "When attorney Paul Farrell Jr. takes on pharmaceutical giants to help his opioid-ravaged West Virginia hometown, his innovative legal strategy catches fire. As his local battle transforms into the largest civil litigation in U.S. history, he must navigate increasingly high stakes to secure justice—not just for his community, but for an entire nation in crisis."
+      },
+      {
+        "id": "tvmaze:3286436",
+        "title": "Porcelain War",
+        "season": 38,
+        "episode": 13,
+        "released": "2025-09-29",
+        "overview": "As war ravages their homeland, three artists choose to stay in their native Ukraine, armed with their art, their cameras, and for the first time in their lives, their guns. A stunning tribute to the resilience of the human spirit, embodying the enduring hope and passion of ordinary people living through extraordinary circumstances."
+      },
+      {
+        "id": "tvmaze:3286437",
+        "title": "A Mother Apart",
+        "season": 38,
+        "episode": 14,
+        "released": "2025-10-13",
+        "overview": "In a powerful story of healing and forgiveness, Jamaican-American poet and LGBTQ+ activist Staceyann Chin re-imagines mothering after being abandoned by her own. In a journey to seek out her elusive mother, Staceyanne travels across Brooklyn, Montreal, Cologne, and Jamaica while building a new sense of home with her own daughter."
+      },
+      {
+        "id": "tvmaze:3286438",
+        "title": "Between Goodbyes",
+        "season": 38,
+        "episode": 15,
+        "released": "2025-12-08",
+        "overview": "When a queer Korean adoptee reunites with her birth mother in Seoul, long-buried cultural misunderstandings and unspoken regrets surface. With tenderness, humor, and determination, both mother and daughter navigate the heart-wrenching legacy of international adoption."
+      }
+    ]
+  }
+}

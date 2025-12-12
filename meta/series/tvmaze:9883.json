@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:9883",
+    "type": "series",
+    "name": "College Football Awards",
+    "description": "The College Football Awards began with the inaugural presentation on 7 December 1991. In this annual event winners of several major NCAA college football awards are announced. There is a total of 11 awards that are present each year during this live telecast: Maxwell Award (most outstanding player), Chuck Bednarik Award (defensive player of the year), Biletnikoff Award (most outstanding wide receiver), Lou Groza Collegiate Place-Kicker Award (most outstanding placekicker), Ray Guy Award (most outstanding punter), Davey O'Brien National Quarterback Award (best quarterback), Outland Trophy (most outstanding interior lineman), Jim Thorpe Award (most outstanding defensive back), and Doak Walker Award (most outstanding running back), the John Mackey Award (most outstanding tight end) and the Rimington Award (most outstanding center).",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/543/1358070.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/543/1358070.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3451375",
+        "title": "2025 College Football Awards",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

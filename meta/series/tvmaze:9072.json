@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:9072",
+    "type": "series",
+    "name": "Erin Burnett OutFront",
+    "description": "Erin Burnett OutFront is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace John King, USA. CNN said in 2011 they hoped Burnett's expected popularity would provide an \"attractive\" opening to an evening of \"talk shows and news analysis\". Erin Burnett, OutFront is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/32/80206.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/32/80206.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3456407",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

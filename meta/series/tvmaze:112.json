@@ -1,0 +1,2716 @@
+{
+  "meta": {
+    "id": "tvmaze:112",
+    "type": "series",
+    "name": "South Park",
+    "description": "South Park is an adult comedy animation show centred around 4 children in the small town of south park. Its humour is often dark involving satirical elements and mocking current real-life events.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485766.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/594/1485766.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      },
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      },
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      },
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      },
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      },
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      },
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      },
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      },
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      },
+      {
+        "id": "tvmaze:7919",
+        "title": "Cartman Gets an Anal Probe",
+        "season": 1,
+        "episode": 1,
+        "released": "1997-08-13",
+        "overview": "Aliens wreak havoc in the Rockies, first by subjecting Cartman to an anal probe, and then by abducting Kyle's baby brother."
+      },
+      {
+        "id": "tvmaze:7920",
+        "title": "Weight Gain 4000",
+        "season": 1,
+        "episode": 2,
+        "released": "1997-08-20",
+        "overview": "Cartman tries to slim down when he learns a TV talk-show host is coming to town to give him an award, but he bulks up instead. Meanwhile, Mr. Garrison hatches a plan to murder the visiting celeb."
+      },
+      {
+        "id": "tvmaze:7921",
+        "title": "Volcano",
+        "season": 1,
+        "episode": 3,
+        "released": "1997-08-27",
+        "overview": "A volcanic eruption interrupts the boys' camping trip."
+      },
+      {
+        "id": "tvmaze:7922",
+        "title": "Big Gay Al's Big Gay Boat Ride",
+        "season": 1,
+        "episode": 4,
+        "released": "1997-09-03",
+        "overview": "When his pup explores his sexuality, Stan gets so upset that he inadvertently threatens to blow the school's homecoming-game victory."
+      },
+      {
+        "id": "tvmaze:7923",
+        "title": "An Elephant Makes Love to a Pig",
+        "season": 1,
+        "episode": 5,
+        "released": "1997-09-10",
+        "overview": "After a botched genetic experiment, Stan's clone is let loose in the town. Voices include Trey Parker and Matt Stone."
+      },
+      {
+        "id": "tvmaze:7924",
+        "title": "Death",
+        "season": 1,
+        "episode": 6,
+        "released": "1997-09-17",
+        "overview": "The boys summon the Grim Reaper."
+      },
+      {
+        "id": "tvmaze:7925",
+        "title": "Pinkeye",
+        "season": 1,
+        "episode": 7,
+        "released": "1997-10-29",
+        "overview": "A pinkeye epidemic interrupts the boys' plans to win a Halloween-costume contest; and Kenny has a run-in with a Russian space station when it falls to Earth."
+      },
+      {
+        "id": "tvmaze:7926",
+        "title": "Starvin' Marvin",
+        "season": 1,
+        "episode": 8,
+        "released": "1997-11-19",
+        "overview": "After the boys contact an agency that helps starving children, Government authorities send Cartman to Ethiopia. Meanwhile, the town holds a drive for canned goods; and turkeys revolt against a genetic engineer."
+      },
+      {
+        "id": "tvmaze:7927",
+        "title": "Mr. Hankey, the Christmas Poo",
+        "season": 1,
+        "episode": 9,
+        "released": "1997-12-17",
+        "overview": "Because he's Jewish, Kyle is denied involvement in the Nativity play and excluded from trips to see Santa. Meanwhile, South Park residents try to plan a politically correct celebration; and Mr. Hankey visits Kyle."
+      },
+      {
+        "id": "tvmaze:7928",
+        "title": "Damien",
+        "season": 1,
+        "episode": 10,
+        "released": "1998-02-04",
+        "overview": "As Cartman celebrates his birthday, Jesus Christ and Satan duke it out on a pay-per-view TV special. Meanwhile, Satan's son Damien tries to fit in with the crowd after making a violent first impression."
+      },
+      {
+        "id": "tvmaze:7929",
+        "title": "Tom's Rhinoplasty",
+        "season": 1,
+        "episode": 11,
+        "released": "1998-02-11",
+        "overview": "Mr. Garrison takes a leave of absence to have a nose job and is replaced by Miss Ellen, a substitute who threatens Stan and Wendy's relationship."
+      },
+      {
+        "id": "tvmaze:7930",
+        "title": "Mecha-Streisand",
+        "season": 1,
+        "episode": 12,
+        "released": "1998-02-18",
+        "overview": "The future of the world is at stake after the boys unearth a prehistoric relic that spawns a monster."
+      },
+      {
+        "id": "tvmaze:7931",
+        "title": "Cartman's Mom is a Dirty Slut",
+        "season": 1,
+        "episode": 13,
+        "released": "1998-02-25",
+        "overview": "When Cartman begins to exhibit odd behavior, a counselor suggests that finding his father may solve his problems."
+      },
+      {
+        "id": "tvmaze:7932",
+        "title": "Terrance & Phillip in \"Not Without My Anus\"",
+        "season": 2,
+        "episode": 1,
+        "released": "1998-04-01",
+        "overview": "An episode featuring Terrance and Phillip, who must save Canada from Saddam Hussein."
+      },
+      {
+        "id": "tvmaze:7933",
+        "title": "Cartman's Mom is Still a Dirty Slut",
+        "season": 2,
+        "episode": 2,
+        "released": "1998-04-22",
+        "overview": "Chef and the boys rush to the hospital to check on Mephesto, who's gunned down just as he's set to reveal the identity of Cartman's father. Meanwhile, the townspeople search for the gunman and battle a snowstorm."
+      },
+      {
+        "id": "tvmaze:7934",
+        "title": "Chickenlover",
+        "season": 2,
+        "episode": 3,
+        "released": "1998-05-20",
+        "overview": "Chaos ensues on the streets of South Park as the town is overcome by a crime wave that leaves scores of chickens assaulted. And Officer Barbrady's no help...because he's resigned."
+      },
+      {
+        "id": "tvmaze:7935",
+        "title": "Ike's Wee Wee",
+        "season": 2,
+        "episode": 4,
+        "released": "1998-05-27",
+        "overview": "The boys try to circumvent a delicate surgical procedure set to be performed on Kyle's brother as part of a tradition begun by their Jewish ancestors. Meanwhile, Mr. Mackey is cut from his job after he botches a lecture on drugs."
+      },
+      {
+        "id": "tvmaze:7936",
+        "title": "Conjoined Fetus Lady",
+        "season": 2,
+        "episode": 5,
+        "released": "1998-06-03",
+        "overview": "Kyle's terrified after an injury sustained during a dodgeball game sends him to the nurse---a conjoined twin with an unusual medical condition. Meanwhile, Pip leads the dodgeball team to the world championships in China."
+      },
+      {
+        "id": "tvmaze:7937",
+        "title": "The Mexican Staring Frog of Southern Sri Lanka",
+        "season": 2,
+        "episode": 6,
+        "released": "1998-06-10",
+        "overview": "Jimbo and Ned launch a TV hunting show, which goes head-to-head with \"Jesus and Pals,\" the popular cable-access series."
+      },
+      {
+        "id": "tvmaze:7938",
+        "title": "City on the Edge of Forever",
+        "season": 2,
+        "episode": 7,
+        "released": "1998-06-17",
+        "overview": "The boys put twists on events such as the attempted assassination of a talk-show host and a fight with Death as their bus hangs off a cliff. Meanwhile, Ms. Crabtree finds fame when she goes to look for help."
+      },
+      {
+        "id": "tvmaze:7939",
+        "title": "Summer Sucks",
+        "season": 2,
+        "episode": 8,
+        "released": "1998-06-24",
+        "overview": "The mayor devises a plan to make the town's Fourth of July celebration memorable, despite a ban on fireworks; and Mr. Hat vanishes, causing Mr. Garrison to visit a therapist."
+      },
+      {
+        "id": "tvmaze:7940",
+        "title": "Chef's Chocolate Salty Balls",
+        "season": 2,
+        "episode": 9,
+        "released": "1998-08-19",
+        "overview": "Hollywood pooh-bahs in town for a film festival try to sign Mr. Hankey to a movie deal after their upscale cuisine disrupts the sewage system and nearly destroys him. Meanwhile, locals are up in arms over the movie-industry event."
+      },
+      {
+        "id": "tvmaze:7941",
+        "title": "Chickenpox",
+        "season": 2,
+        "episode": 10,
+        "released": "1998-08-26",
+        "overview": "The town faces an outbreak of chicken pox."
+      },
+      {
+        "id": "tvmaze:7942",
+        "title": "Roger Ebert Should Lay Off the Fatty Foods",
+        "season": 2,
+        "episode": 11,
+        "released": "1998-09-02",
+        "overview": "Stan, Kyle and Kenny gravitate toward a new planetarium; and Cartman auditions to be the star of \"Les Miserables.\""
+      },
+      {
+        "id": "tvmaze:7943",
+        "title": "Clubhouses",
+        "season": 2,
+        "episode": 12,
+        "released": "1998-09-23",
+        "overview": "The boys each build a clubhouse---and Stan is eager to have Wendy over for a game of \"truth or dare.\" However, his parents' separation interferes with his plans."
+      },
+      {
+        "id": "tvmaze:7944",
+        "title": "Cow Days",
+        "season": 2,
+        "episode": 13,
+        "released": "1998-09-30",
+        "overview": "During South Park's annual rodeo, the boys compete in a bull-riding contest. Meanwhile, the cows find religion."
+      },
+      {
+        "id": "tvmaze:7945",
+        "title": "Chef Aid",
+        "season": 2,
+        "episode": 14,
+        "released": "1998-10-07",
+        "overview": "Chef invites some of his well-known musician friends to participate in a benefit concert after he loses all of his money in a lawsuit. Meanwhile, the boys join the workforce to help him get out of debt."
+      },
+      {
+        "id": "tvmaze:7946",
+        "title": "Spooky Fish",
+        "season": 2,
+        "episode": 15,
+        "released": "1998-10-28",
+        "overview": "Stan fears his pet fish may be involved with a rash of unsolved murders that occur on Halloween. Meanwhile, Cartman starts killing people---with kindness, even going so far as to appreciate Wendy's liberal views."
+      },
+      {
+        "id": "tvmaze:7947",
+        "title": "Merry Christmas Charlie Manson!",
+        "season": 2,
+        "episode": 16,
+        "released": "1998-12-09",
+        "overview": "The boys go to Cartman's grandmother's house for a holiday feast that's also attended by Cartman's uncle (an escaped con) and the police."
+      },
+      {
+        "id": "tvmaze:7948",
+        "title": "Gnomes (a.k.a. Underpants Gnomes)",
+        "season": 2,
+        "episode": 17,
+        "released": "1998-12-16",
+        "overview": "The boys work on a project with a high-strung kid whose parents' coffee shop faces strong competition from a conglomerate that hopes to set up in South Park."
+      },
+      {
+        "id": "tvmaze:7949",
+        "title": "Prehistoric Ice Man",
+        "season": 2,
+        "episode": 18,
+        "released": "1999-01-20",
+        "overview": "The boys unearth a prehistoric man frozen in ice, but the discovery jeopardizes Stan and Kyle's friendship when they argue over what to name him."
+      },
+      {
+        "id": "tvmaze:7950",
+        "title": "Rainforest Schmainforest",
+        "season": 3,
+        "episode": 1,
+        "released": "1999-04-07",
+        "overview": "The boys accompany a teacher and her singing-and-dancing group to Central America to raise awareness of the rain forest. Also: Kenny falls for a choir member; and Kyle has trouble mastering the choreography."
+      },
+      {
+        "id": "tvmaze:7951",
+        "title": "Spontaneous Combustion",
+        "season": 3,
+        "episode": 2,
+        "released": "1999-04-14",
+        "overview": "Residents start to spontaneously combust, prompting Stan's geologist father to investigate."
+      },
+      {
+        "id": "tvmaze:7952",
+        "title": "The Succubus (a.k.a. Chef's Mama)",
+        "season": 3,
+        "episode": 3,
+        "released": "1999-04-21",
+        "overview": "Chef gets a visit from his mother when the boys feel his bride-to-be has taken their place in his heart."
+      },
+      {
+        "id": "tvmaze:7953",
+        "title": "Jakovasaurs",
+        "season": 3,
+        "episode": 4,
+        "released": "1999-06-16",
+        "overview": "The boys discover two nearly extinct animals while camping on the banks of Stark's Pond."
+      },
+      {
+        "id": "tvmaze:7954",
+        "title": "Tweek vs. Craig",
+        "season": 3,
+        "episode": 5,
+        "released": "1999-06-23",
+        "overview": "The boys take a shop class taught by an eccentric, and urge a schoolyard fight between classmates Tweek and Craig."
+      },
+      {
+        "id": "tvmaze:7955",
+        "title": "Sexual Harassment Panda",
+        "season": 3,
+        "episode": 6,
+        "released": "1999-07-07",
+        "overview": "Cartman sues Stan for sexual harassment."
+      },
+      {
+        "id": "tvmaze:7956",
+        "title": "Cat Orgy",
+        "season": 3,
+        "episode": 7,
+        "released": "1999-07-14",
+        "overview": "Shelly baby-sits Cartman."
+      },
+      {
+        "id": "tvmaze:7957",
+        "title": "Two Guys Naked in a Hot Tub",
+        "season": 3,
+        "episode": 8,
+        "released": "1999-07-21",
+        "overview": "A meteor shower hits town, and Stan's sister Shelly babysits Cartman while Mrs. Cartman goes to a \"meteor party.\""
+      },
+      {
+        "id": "tvmaze:7958",
+        "title": "Jewbilee",
+        "season": 3,
+        "episode": 9,
+        "released": "1999-07-28",
+        "overview": "Kyle and Ike go on a camping trip while South Park residents wait for a meteor shower to begin."
+      },
+      {
+        "id": "tvmaze:7959",
+        "title": "Korn's Groovy Pirate Ghost Mystery",
+        "season": 3,
+        "episode": 10,
+        "released": "1999-10-27",
+        "overview": "On Halloween, the boys are plagued by fifth graders and the town is overrun by pirate ghosts. Music group Korn assists, and sings \"Falling Away from Me.\""
+      },
+      {
+        "id": "tvmaze:7960",
+        "title": "Chinpokomon",
+        "season": 3,
+        "episode": 11,
+        "released": "1999-11-03",
+        "overview": "Adults try to counter when the town's children become obsessed with a fad from Japan, whose government reveals their master plan behind the craze."
+      },
+      {
+        "id": "tvmaze:7961",
+        "title": "Hooked on Monkey Fonics",
+        "season": 3,
+        "episode": 12,
+        "released": "1999-11-10",
+        "overview": "Kyle tries to teach his new rival about love; the boys compete against home-schooled kids in the annual spelling bee; and Cartman's mom agrees to teach him at home."
+      },
+      {
+        "id": "tvmaze:7962",
+        "title": "Starvin' Marvin in Space!",
+        "season": 3,
+        "episode": 13,
+        "released": "1999-11-17",
+        "overview": "Starvin Marvin returns in a stolen U.S. spaceship, and enlists the boys to help feed his Ethiopian village. The CIA is among their pursuers."
+      },
+      {
+        "id": "tvmaze:7963",
+        "title": "The Red Badge of Gayness (a.k.a. War)",
+        "season": 3,
+        "episode": 14,
+        "released": "1999-11-24",
+        "overview": "The town holds its annual reenactment of a Civil War battle, and Cartman suits up for the Confederacy with visions of glory."
+      },
+      {
+        "id": "tvmaze:7964",
+        "title": "Mr. Hankey's Christmas Classics",
+        "season": 3,
+        "episode": 15,
+        "released": "1999-12-01",
+        "overview": "Mr. Hankey and South Park citizens celebrate the holidays with musical numbers from his Christmas Classics Album."
+      },
+      {
+        "id": "tvmaze:7965",
+        "title": "Are You There God, It's Me Jesus",
+        "season": 3,
+        "episode": 16,
+        "released": "1999-12-29",
+        "overview": "\"Are You There, God? It's Me, Jesus\" purports to \"answer age-old questions about who we are and what we're all about.\""
+      },
+      {
+        "id": "tvmaze:7966",
+        "title": "Worldwide Recorder Concert (a.k.a. The Brown Noise)",
+        "season": 3,
+        "episode": 17,
+        "released": "2000-01-12",
+        "overview": "The boys and their class travel to the first \"Worldwide Recorder Concert\" in Arkansas, where Mr. Garrison confronts the demons of his childhood while visiting his parents."
+      },
+      {
+        "id": "tvmaze:7967",
+        "title": "The Tooth Fairy's TATS 2000",
+        "season": 4,
+        "episode": 1,
+        "released": "2000-04-05",
+        "overview": "Cartman impersonates the Tooth Fairy when he learns there's money to be made from harvesting the teeth of underprivileged kids. However, the leader of a dentists' organization sets out to stop him."
+      },
+      {
+        "id": "tvmaze:7968",
+        "title": "Cartman's Silly Hate Crime 2000",
+        "season": 4,
+        "episode": 2,
+        "released": "2000-04-12",
+        "overview": "Cartman is sentenced to juvenile hall and his friends plan to get him out. Meanwhile, he begins to adjust to life on the inside."
+      },
+      {
+        "id": "tvmaze:7969",
+        "title": "Timmy! 2000",
+        "season": 4,
+        "episode": 3,
+        "released": "2000-04-19",
+        "overview": "Mr. Mackey excuses Timmy from homework when he mistakenly thinks the boy is suffering from Attention Deficit Disorder; then Cartman and his friends try to develop the same affliction."
+      },
+      {
+        "id": "tvmaze:7970",
+        "title": "Quintuplets 2000",
+        "season": 4,
+        "episode": 4,
+        "released": "2000-04-26",
+        "overview": "The South Park media showers attention on a family with quintuplets that moves into the area, and Cartman befriends one of the new residents. Meanwhile, Kenny's mom tries to cash in on the excitement by planning a multiple birth of her own."
+      },
+      {
+        "id": "tvmaze:7971",
+        "title": "Cartman Joins NAMBLA",
+        "season": 4,
+        "episode": 5,
+        "released": "2000-06-21",
+        "overview": "Cartman seeks online companionship from older users after deciding that Stan, Kenny and Kyle aren't mature enough."
+      },
+      {
+        "id": "tvmaze:7972",
+        "title": "Cherokee Hair Tampons",
+        "season": 4,
+        "episode": 6,
+        "released": "2000-06-28",
+        "overview": "Kyle suffers from a rare kidney disease and Cartman may be the only one who can save him, but at a high price."
+      },
+      {
+        "id": "tvmaze:7973",
+        "title": "Chef Goes Nanners",
+        "season": 4,
+        "episode": 7,
+        "released": "2000-07-05",
+        "overview": "Chef protests against the South Park flag and ignites a town debate that even divides the kids. Meanwhile, Wendy becomes attracted to Cartman."
+      },
+      {
+        "id": "tvmaze:7974",
+        "title": "Something You Can Do with Your Finger (a.k.a. Fingerbang)",
+        "season": 4,
+        "episode": 8,
+        "released": "2000-07-12",
+        "overview": "Stan, Kyle, Kenny and Cartman form their own band and hold tryouts for a fifth member."
+      },
+      {
+        "id": "tvmaze:7975",
+        "title": "Do the Handicapped Go to Hell? (1)",
+        "season": 4,
+        "episode": 9,
+        "released": "2000-07-19",
+        "overview": "The boys, scared by Priest Maxi's threats of eternal damnation, scramble to take part in Holy Communion and their first Confession in order to \"save\" themselves."
+      },
+      {
+        "id": "tvmaze:7976",
+        "title": "Probably (2)",
+        "season": 4,
+        "episode": 10,
+        "released": "2000-07-26",
+        "overview": "Satan can't decide between his new boyfriend and his former beau, Saddam Hussein. Meanwhile, Cartman has discovered his evangelical side and tries to ensure the gang a passage to heaven."
+      },
+      {
+        "id": "tvmaze:7977",
+        "title": "Fourth Grade",
+        "season": 4,
+        "episode": 11,
+        "released": "2000-11-08",
+        "overview": "The fearful boys speculate on the identity of their teacher as they begin the fourth grade, leading them to build a time machine to take them back to the safety of third grade."
+      },
+      {
+        "id": "tvmaze:7978",
+        "title": "Trapper Keeper",
+        "season": 4,
+        "episode": 12,
+        "released": "2000-11-15",
+        "overview": "Mr. Garrison orders a recount when the race for kindergarten president is too close to call. Meanwhile, a life form from the future appears in the school yard at South Park Elementary."
+      },
+      {
+        "id": "tvmaze:7979",
+        "title": "Helen Keller! The Musical",
+        "season": 4,
+        "episode": 13,
+        "released": "2000-11-22",
+        "overview": "The boys work on a Thanksgiving pageant about Helen Keller and decide to use a turkey instead of a dog."
+      },
+      {
+        "id": "tvmaze:7980",
+        "title": "Pip (a.k.a. Great Expectations)",
+        "season": 4,
+        "episode": 14,
+        "released": "2000-11-29",
+        "overview": "The boys' British classmate, Pip, stars in this spoof of Dickens' classic \"Great Expectations,\" set in London."
+      },
+      {
+        "id": "tvmaze:7981",
+        "title": "Fat Camp",
+        "season": 4,
+        "episode": 15,
+        "released": "2000-12-06",
+        "overview": "Cartman is sent to a camp for obese youngsters by concerned family and friends. Meanwhile, Kenny has his own hit TV show, \"Krazy Kenny.\" Also, Chef talks to the boys about prostitution."
+      },
+      {
+        "id": "tvmaze:7982",
+        "title": "The Wacky Molestation Adventure",
+        "season": 4,
+        "episode": 16,
+        "released": "2000-12-13",
+        "overview": "Cartman becomes South Park's mayor when the kids take over the town."
+      },
+      {
+        "id": "tvmaze:7983",
+        "title": "A Very Crappy Christmas",
+        "season": 4,
+        "episode": 17,
+        "released": "2000-12-20",
+        "overview": "The boys make a video Christmas card when Mr. Hankey's visit is delayed."
+      },
+      {
+        "id": "tvmaze:7984",
+        "title": "It Hits the Fan",
+        "season": 5,
+        "episode": 1,
+        "released": "2001-06-20",
+        "overview": "The boys realize they may have made history of some sort when Cartman utters an expletive."
+      },
+      {
+        "id": "tvmaze:7985",
+        "title": "Cripple Fight",
+        "season": 5,
+        "episode": 2,
+        "released": "2001-06-27",
+        "overview": "The boys join the Mountain Scouts with Timmy, who winds up in a fight with Jimmy in a supermarket parking lot."
+      },
+      {
+        "id": "tvmaze:7986",
+        "title": "Super Best Friends",
+        "season": 5,
+        "episode": 3,
+        "released": "2001-07-04",
+        "overview": "A magician persuades Kenny, Cartman and Kyle to join his cult, and their journey lands them in Washington, D.C."
+      },
+      {
+        "id": "tvmaze:7987",
+        "title": "Scott Tenorman Must Die",
+        "season": 5,
+        "episode": 4,
+        "released": "2001-07-11",
+        "overview": "Radiohead plays a role in Cartman's plan for revenge against an eighth-grader who wronged him."
+      },
+      {
+        "id": "tvmaze:7988",
+        "title": "Terrance and Phillip: Behind the Blow",
+        "season": 5,
+        "episode": 5,
+        "released": "2001-07-18",
+        "overview": "The boys are devastated to learn that their heroes Terrence and Phillip have broken up."
+      },
+      {
+        "id": "tvmaze:7989",
+        "title": "Cartmanland",
+        "season": 5,
+        "episode": 6,
+        "released": "2001-07-25",
+        "overview": "Cartman uses his $1 million inheritance to open his own amusement park."
+      },
+      {
+        "id": "tvmaze:7990",
+        "title": "Proper Condom Use",
+        "season": 5,
+        "episode": 7,
+        "released": "2001-08-01",
+        "overview": "The impulsive implementation of sex-education classes at school leads to an all-out battle between the boys and the girls."
+      },
+      {
+        "id": "tvmaze:7991",
+        "title": "Towelie",
+        "season": 5,
+        "episode": 8,
+        "released": "2001-08-08",
+        "overview": "The gang tries to protect a new resident in South Park from the government."
+      },
+      {
+        "id": "tvmaze:7992",
+        "title": "Osama Bin Laden Has Farty Pants",
+        "season": 5,
+        "episode": 9,
+        "released": "2001-11-07",
+        "overview": "The boys decide to get into the patriotic spirit by heeding the President's advice to send money to the children of Afghanistan. But their spirits sour when they receive a package back and their mail becomes the focus of Government investigators."
+      },
+      {
+        "id": "tvmaze:7993",
+        "title": "How to Eat with Your Butt",
+        "season": 5,
+        "episode": 10,
+        "released": "2001-11-14",
+        "overview": "As a prank, Cartman somehow gets Kenny's picture pasted on milk cartons as a missing child, which soon backfires on him."
+      },
+      {
+        "id": "tvmaze:7994",
+        "title": "The Entity (a.k.a. The Ginger Device)",
+        "season": 5,
+        "episode": 11,
+        "released": "2001-11-21",
+        "overview": "Kyle is embarrassed by his cousin, Kyle, and tries to think of ways to avoid him in front of his friends."
+      },
+      {
+        "id": "tvmaze:7995",
+        "title": "Here Comes the Neighborhood",
+        "season": 5,
+        "episode": 12,
+        "released": "2001-11-28",
+        "overview": "Kyle, Stan, Kenny and Cartman have a run-in with Token, the town's only rich kid. In retaliation, Token encourages other wealthy people to move into the neighborhood."
+      },
+      {
+        "id": "tvmaze:7996",
+        "title": "Kenny Dies",
+        "season": 5,
+        "episode": 13,
+        "released": "2001-12-05",
+        "overview": "Cartman discovers the benefits of stem-cell research."
+      },
+      {
+        "id": "tvmaze:7997",
+        "title": "Butters' Very Own Episode",
+        "season": 5,
+        "episode": 14,
+        "released": "2001-12-12",
+        "overview": "Butters looks forward to his parents' anniversary dinner despite his mother's reaction to his father's secret extracurricular activities."
+      },
+      {
+        "id": "tvmaze:7998",
+        "title": "Jared Has Aides",
+        "season": 6,
+        "episode": 1,
+        "released": "2002-03-06",
+        "overview": "The gang seizes upon an opportunity to make money with a weight-loss program that's sweeping the country."
+      },
+      {
+        "id": "tvmaze:7999",
+        "title": "Asspen",
+        "season": 6,
+        "episode": 2,
+        "released": "2002-03-13",
+        "overview": "The boys head to Aspen, where the slopes are superb and Stan gets into a showdown with the lodge's expert skier."
+      },
+      {
+        "id": "tvmaze:8000",
+        "title": "Freak Strike",
+        "season": 6,
+        "episode": 3,
+        "released": "2002-03-20",
+        "overview": "The gang decides to put Butters up as a guest on a talk show thinking that they will get special favors."
+      },
+      {
+        "id": "tvmaze:8001",
+        "title": "Fun with Veal",
+        "season": 6,
+        "episode": 4,
+        "released": "2002-03-27",
+        "overview": "After learning how veal is made, the boys try to save some calves from the slaughterhouse."
+      },
+      {
+        "id": "tvmaze:8002",
+        "title": "The New Terrance and Phillip Movie Trailer",
+        "season": 6,
+        "episode": 5,
+        "released": "2002-04-03",
+        "overview": "The boys look forward to the newest Terrance and Phillip movie."
+      },
+      {
+        "id": "tvmaze:8003",
+        "title": "Professor Chaos",
+        "season": 6,
+        "episode": 6,
+        "released": "2002-04-10",
+        "overview": "When Butters is rejected by the kids, his alter ego Professor Chaos is unleashed."
+      },
+      {
+        "id": "tvmaze:8004",
+        "title": "The Simpsons Already Did It",
+        "season": 6,
+        "episode": 7,
+        "released": "2002-06-26",
+        "overview": "Cartman and the gang fear that they may have accidentally caused a death."
+      },
+      {
+        "id": "tvmaze:8005",
+        "title": "Red Hot Catholic Love",
+        "season": 6,
+        "episode": 8,
+        "released": "2002-07-03",
+        "overview": "A priest visits South Park to find out why church attendance is down; the boys protest the tinkering of their favorite movies."
+      },
+      {
+        "id": "tvmaze:8006",
+        "title": "Free Hat",
+        "season": 6,
+        "episode": 9,
+        "released": "2002-07-10",
+        "overview": "The boys try to prevent filmmakers from remaking their movies, but their efforts are mistaken for a campaign for the release of an infamous criminal."
+      },
+      {
+        "id": "tvmaze:8007",
+        "title": "Bebe's Boobs Destroy Society",
+        "season": 6,
+        "episode": 10,
+        "released": "2002-07-17",
+        "overview": "When Bebe starts to mature physically, the boys behave so boorishly that their friendships are almost ruined."
+      },
+      {
+        "id": "tvmaze:8008",
+        "title": "Child Abduction is Not Funny",
+        "season": 6,
+        "episode": 11,
+        "released": "2002-07-24",
+        "overview": "Media stories about kidnappings drive South Park parents to extreme measures, such as building a wall around the town to keep out predators."
+      },
+      {
+        "id": "tvmaze:8009",
+        "title": "A Ladder to Heaven",
+        "season": 6,
+        "episode": 12,
+        "released": "2002-11-06",
+        "overview": "Trying to find Kenny in Heaven, the boys discover that Saddam Hussein may have hidden weapons there."
+      },
+      {
+        "id": "tvmaze:8010",
+        "title": "The Return of the Fellowship of the Ring to the Two Towers",
+        "season": 6,
+        "episode": 13,
+        "released": "2002-11-13",
+        "overview": "While returning \"The Lord of the Rings\" to the video store, the boys accidentally get a hold of a steamy porno tape."
+      },
+      {
+        "id": "tvmaze:8011",
+        "title": "Death Camp of Tolerance",
+        "season": 6,
+        "episode": 14,
+        "released": "2002-11-20",
+        "overview": "The boys are sent to a camp where cultural sensitivity is taught."
+      },
+      {
+        "id": "tvmaze:8012",
+        "title": "The Biggest Douche in the Universe",
+        "season": 6,
+        "episode": 15,
+        "released": "2002-11-27",
+        "overview": "Cartman takes desperate measures to try to rid himself of Kenny's spirit, including traveling to Scotland."
+      },
+      {
+        "id": "tvmaze:8013",
+        "title": "My Future Self 'n' Me",
+        "season": 6,
+        "episode": 16,
+        "released": "2002-12-04",
+        "overview": "Stan is forced to look at his life 30 years in the future; Cartman tries to launch a new business."
+      },
+      {
+        "id": "tvmaze:8014",
+        "title": "Red Sleigh Down",
+        "season": 6,
+        "episode": 17,
+        "released": "2002-12-11",
+        "overview": "Cartman tries to score some points with Santa Claus by asking him to deliver presents to the needy children in Iraq."
+      },
+      {
+        "id": "tvmaze:8015",
+        "title": "Cancelled",
+        "season": 7,
+        "episode": 1,
+        "released": "2003-03-19",
+        "overview": "The boys are abducted by aliens, who inform them that Earth is actually a reality show that is about to be canceled by intergalactic media moguls."
+      },
+      {
+        "id": "tvmaze:8016",
+        "title": "Krazy Kripples",
+        "season": 7,
+        "episode": 2,
+        "released": "2003-03-26",
+        "overview": "The kids become embroiled in the life of a disabled celebrity who breezes through town and gets all the attention."
+      },
+      {
+        "id": "tvmaze:8017",
+        "title": "Toilet Paper",
+        "season": 7,
+        "episode": 3,
+        "released": "2003-04-02",
+        "overview": "The boys are under investigation for covering their teacher's house with toilet paper."
+      },
+      {
+        "id": "tvmaze:8018",
+        "title": "I'm a Little Bit Country",
+        "season": 7,
+        "episode": 4,
+        "released": "2003-04-09",
+        "overview": "The foul-mouthed youngsters return for a seventh season."
+      },
+      {
+        "id": "tvmaze:8019",
+        "title": "Fat Butt and Pancake Head",
+        "season": 7,
+        "episode": 5,
+        "released": "2003-04-16",
+        "overview": "Jennifer Lopez and Ben Affleck come to town."
+      },
+      {
+        "id": "tvmaze:8020",
+        "title": "Lil' Crime Stoppers",
+        "season": 7,
+        "episode": 6,
+        "released": "2003-04-23",
+        "overview": "The guys start their own detective agency."
+      },
+      {
+        "id": "tvmaze:8021",
+        "title": "Red Man's Greed",
+        "season": 7,
+        "episode": 7,
+        "released": "2003-04-30",
+        "overview": "The boys try to save the town from developers."
+      },
+      {
+        "id": "tvmaze:8022",
+        "title": "South Park is Gay!",
+        "season": 7,
+        "episode": 8,
+        "released": "2003-10-22",
+        "overview": "The whole town suddenly discovers it's all the rage to be gay."
+      },
+      {
+        "id": "tvmaze:8023",
+        "title": "Christian Rock Hard",
+        "season": 7,
+        "episode": 9,
+        "released": "2003-10-29",
+        "overview": "Cartman puts together a band; Stan, Kyle and Kenny get into trouble for downloading music from the Internet."
+      },
+      {
+        "id": "tvmaze:8024",
+        "title": "Grey Dawn",
+        "season": 7,
+        "episode": 10,
+        "released": "2003-11-05",
+        "overview": "The boys try to have South Park's senior citizens stripped of their driver's licenses after they go on a dangerous rampage."
+      },
+      {
+        "id": "tvmaze:8025",
+        "title": "Casa Bonita",
+        "season": 7,
+        "episode": 11,
+        "released": "2003-11-12",
+        "overview": "Cartman seeks revenge for not being invited to Kyle's birthday outing."
+      },
+      {
+        "id": "tvmaze:8026",
+        "title": "All About the Mormons?",
+        "season": 7,
+        "episode": 12,
+        "released": "2003-11-19",
+        "overview": "Mormon neighbors move into town, causing the citizens of South Park to become Mormons themselves."
+      },
+      {
+        "id": "tvmaze:8027",
+        "title": "Butt Out",
+        "season": 7,
+        "episode": 13,
+        "released": "2003-12-03",
+        "overview": "The guys rebel after an anti-smoking campaign begins at their school."
+      },
+      {
+        "id": "tvmaze:8028",
+        "title": "Raisins",
+        "season": 7,
+        "episode": 14,
+        "released": "2003-12-10",
+        "overview": "When Stan's girlfriend breaks up with him, his friends try to cheer him up by bringing him to a local restaurant where lovely ladies hang out."
+      },
+      {
+        "id": "tvmaze:8029",
+        "title": "It's Christmas in Canada",
+        "season": 7,
+        "episode": 15,
+        "released": "2003-12-17",
+        "overview": "Ike's Canadian birth parents come back to claim him, prompting the residents of South Park to collect money to get him back."
+      },
+      {
+        "id": "tvmaze:8030",
+        "title": "Good Times with Weapons",
+        "season": 8,
+        "episode": 1,
+        "released": "2004-03-17",
+        "overview": "After buying some martial arts objects at a market, the boys turn into Japanese warriors to take on their enemy, Prof. Chaos."
+      },
+      {
+        "id": "tvmaze:8031",
+        "title": "Up the Down Steroid",
+        "season": 8,
+        "episode": 2,
+        "released": "2004-03-24",
+        "overview": "Steroids become an issue as Timmy, Jimmy and Cartman train for a sporting event."
+      },
+      {
+        "id": "tvmaze:8032",
+        "title": "The Passion of the Jew",
+        "season": 8,
+        "episode": 3,
+        "released": "2004-03-31",
+        "overview": "\"The Passion of the Christ\" has an unusual effect on Stan, Cartman, Kyle and Kenny."
+      },
+      {
+        "id": "tvmaze:8033",
+        "title": "You Got F**ked in the Ass",
+        "season": 8,
+        "episode": 4,
+        "released": "2004-04-07",
+        "overview": "Stan tries to put together a group of competitive dancers to challenge some rivals from Orange County."
+      },
+      {
+        "id": "tvmaze:8034",
+        "title": "AWESOM-O",
+        "season": 8,
+        "episode": 5,
+        "released": "2004-04-14",
+        "overview": "Cartman disguises himself as a robot so he can learn secrets about Butters to use against him."
+      },
+      {
+        "id": "tvmaze:8035",
+        "title": "The Jeffersons",
+        "season": 8,
+        "episode": 6,
+        "released": "2004-04-21",
+        "overview": "A mysterious gentleman and his son create controversy in South Park."
+      },
+      {
+        "id": "tvmaze:8036",
+        "title": "Goobacks",
+        "season": 8,
+        "episode": 7,
+        "released": "2004-04-28",
+        "overview": "South Park becomes flooded with time travelers from the future."
+      },
+      {
+        "id": "tvmaze:8037",
+        "title": "Douche and Turd",
+        "season": 8,
+        "episode": 8,
+        "released": "2004-10-27",
+        "overview": "The kids have to choose a new mascot after an animal-rights group protests."
+      },
+      {
+        "id": "tvmaze:8038",
+        "title": "Something Wall-Mart This Way Comes",
+        "season": 8,
+        "episode": 9,
+        "released": "2004-11-03",
+        "overview": "South Park is invaded by a giant shopping center that threatens the quiet little town."
+      },
+      {
+        "id": "tvmaze:8039",
+        "title": "Pre-School",
+        "season": 8,
+        "episode": 10,
+        "released": "2004-11-10",
+        "overview": "Cartman, Butters, Kenny, Stan and Kyle fear that a secret may get out when an old adversary turns up in town."
+      },
+      {
+        "id": "tvmaze:8040",
+        "title": "Quest for Ratings",
+        "season": 8,
+        "episode": 11,
+        "released": "2004-11-17",
+        "overview": "Cartman becomes a network honcho when he and the boys launch a morning news show on the school's closed-circuit TV station."
+      },
+      {
+        "id": "tvmaze:8041",
+        "title": "Stupid Spoiled Whore Video Playset",
+        "season": 8,
+        "episode": 12,
+        "released": "2004-12-01",
+        "overview": "South Park is abuzz over a visit from a famous socialite."
+      },
+      {
+        "id": "tvmaze:8042",
+        "title": "Cartman's Incredible Gift",
+        "season": 8,
+        "episode": 13,
+        "released": "2004-12-08",
+        "overview": "Cartman is imbued with the power to see into the future after he's hit on the head."
+      },
+      {
+        "id": "tvmaze:8043",
+        "title": "Woodland Critter Christmas",
+        "season": 8,
+        "episode": 14,
+        "released": "2004-12-15",
+        "overview": "Woodland creatures ask Stan to help them build a manger."
+      },
+      {
+        "id": "tvmaze:8044",
+        "title": "Mr. Garrison's Fancy New Vagina",
+        "season": 9,
+        "episode": 1,
+        "released": "2005-03-09",
+        "overview": "In the season 9 premiere, Mr. Garrison looks to become a woman, and Kyle works in improving his basketball skills."
+      },
+      {
+        "id": "tvmaze:8045",
+        "title": "Die Hippie, Die",
+        "season": 9,
+        "episode": 2,
+        "released": "2005-03-16",
+        "overview": "Hippies, the bane of Cartman's existence, threaten to overrun South Park when they plan a weeklong music festival in town."
+      },
+      {
+        "id": "tvmaze:8046",
+        "title": "Wing",
+        "season": 9,
+        "episode": 3,
+        "released": "2005-03-23",
+        "overview": "Cartman, Kenny, Stan and Kyle become talent agents with one client."
+      },
+      {
+        "id": "tvmaze:8047",
+        "title": "Best Friends Forever",
+        "season": 9,
+        "episode": 4,
+        "released": "2005-03-30",
+        "overview": "Kenny is able to purchase a gaming device that's been sold out, straining his friendship with Cartman."
+      },
+      {
+        "id": "tvmaze:8048",
+        "title": "The Losing Edge",
+        "season": 9,
+        "episode": 5,
+        "released": "2005-04-06",
+        "overview": "The boys become bored with baseball after a long winning streak."
+      },
+      {
+        "id": "tvmaze:8049",
+        "title": "The Death of Eric Cartman",
+        "season": 9,
+        "episode": 6,
+        "released": "2005-04-13",
+        "overview": "Butters believes he can talk to the dead."
+      },
+      {
+        "id": "tvmaze:8050",
+        "title": "Erection Day",
+        "season": 9,
+        "episode": 7,
+        "released": "2005-04-20",
+        "overview": "Jimmy has trouble controlling his hormones right before the big talent show."
+      },
+      {
+        "id": "tvmaze:8051",
+        "title": "Two Days Before the Day After Tomorrow",
+        "season": 9,
+        "episode": 8,
+        "released": "2005-10-19",
+        "overview": "The town of Beaverton is flooded when a mammoth beaver dam breaks. Is global warming to blame? Only Stan and Cartman know for sure."
+      },
+      {
+        "id": "tvmaze:8052",
+        "title": "Marjorine",
+        "season": 9,
+        "episode": 9,
+        "released": "2005-10-26",
+        "overview": "The boys decide to fake Butters' death and resurrect him as a girl."
+      },
+      {
+        "id": "tvmaze:8053",
+        "title": "Follow That Egg",
+        "season": 9,
+        "episode": 10,
+        "released": "2005-11-02",
+        "overview": "Townsfolk rally against gay marriage, especially Mr. Garrison, whose ex Mr. Slave plans to wed Big Gay Al."
+      },
+      {
+        "id": "tvmaze:8054",
+        "title": "Ginger Kids",
+        "season": 9,
+        "episode": 11,
+        "released": "2005-11-09",
+        "overview": "Ostracized for his appearance because of a case of \"gingervitus,\" Cartman goes on a campaign against discrimination."
+      },
+      {
+        "id": "tvmaze:8055",
+        "title": "Trapped in the Closet",
+        "season": 9,
+        "episode": 12,
+        "released": "2005-11-16",
+        "overview": "Religious leaders think Stan is the \"Golden Child,\" prompting believers to camp in front of his house."
+      },
+      {
+        "id": "tvmaze:8056",
+        "title": "Free Willzyx",
+        "season": 9,
+        "episode": 13,
+        "released": "2005-11-30",
+        "overview": "Kyle bonds with a marine-park whale and gets the boys to help try to return the creature to its family."
+      },
+      {
+        "id": "tvmaze:8057",
+        "title": "Bloody Mary",
+        "season": 9,
+        "episode": 14,
+        "released": "2005-12-07",
+        "overview": "After his drunken-driving arrest, Stan's dad believes a visit to a bleeding statue of the Virgin Mary will cure his drinking problem."
+      },
+      {
+        "id": "tvmaze:8058",
+        "title": "The Return of Chef",
+        "season": 10,
+        "episode": 1,
+        "released": "2006-03-22",
+        "overview": "Chef Jerome McElroy returns, though the kids notice he's not quite the same."
+      },
+      {
+        "id": "tvmaze:8059",
+        "title": "Smug Alert!",
+        "season": 10,
+        "episode": 2,
+        "released": "2006-03-29",
+        "overview": "Stan leads a campaign to purchase hybrid cars, but it stalls when an environmental disaster threatens the town."
+      },
+      {
+        "id": "tvmaze:8060",
+        "title": "Cartoon Wars, Part 1",
+        "season": 10,
+        "episode": 3,
+        "released": "2006-04-05",
+        "overview": "Kyle and Cartman race to Hollywood, with the fate of Kyle's favorite cartoon, \"Family Guy,\" at stake."
+      },
+      {
+        "id": "tvmaze:8061",
+        "title": "Cartoon Wars, Part 2",
+        "season": 10,
+        "episode": 4,
+        "released": "2006-04-12",
+        "overview": "Kyle is injured and Cartman must forge on alone, determined to stop the makers of \"Family Guy.\""
+      },
+      {
+        "id": "tvmaze:8062",
+        "title": "A Million Little Fibers",
+        "season": 10,
+        "episode": 5,
+        "released": "2006-04-19",
+        "overview": "Oprah picks Towelie's memoir for her book club, but his account is found to be less than truthful. Soon, the public derision lures Towelie off the wagon."
+      },
+      {
+        "id": "tvmaze:8063",
+        "title": "ManBearPig",
+        "season": 10,
+        "episode": 6,
+        "released": "2006-04-26",
+        "overview": "Cartman finds treasure when the boys get stuck in a cave."
+      },
+      {
+        "id": "tvmaze:8064",
+        "title": "Tsst",
+        "season": 10,
+        "episode": 7,
+        "released": "2006-05-03",
+        "overview": "Cartman's mom employs the Dog Whisperer to help curb her son's behavioral problems."
+      },
+      {
+        "id": "tvmaze:8065",
+        "title": "Make Love, Not Warcraft",
+        "season": 10,
+        "episode": 8,
+        "released": "2006-10-04",
+        "overview": "The gang attempts to save the online game World of Warcraft after it is taken over by a renegade gamer."
+      },
+      {
+        "id": "tvmaze:8066",
+        "title": "Mystery of the Urinal Deuce",
+        "season": 10,
+        "episode": 9,
+        "released": "2006-10-11",
+        "overview": "The gang discovers who's responsible for the 9/11 attacks and realizes South Park may be in danger."
+      },
+      {
+        "id": "tvmaze:8067",
+        "title": "Miss Teacher Bangs a Boy",
+        "season": 10,
+        "episode": 10,
+        "released": "2006-10-18",
+        "overview": "Cartman is tapped to be the new hallway monitor and takes offense when Kyle discovers a teacher is having an affair with a student in his jurisdiction."
+      },
+      {
+        "id": "tvmaze:8068",
+        "title": "Hell on Earth 2006",
+        "season": 10,
+        "episode": 11,
+        "released": "2006-10-25",
+        "overview": "Satan tries to plan a Halloween party while dealing with a religious group, an ex-lover and mischievous serial killers."
+      },
+      {
+        "id": "tvmaze:8069",
+        "title": "Go, God. Go! Part II",
+        "season": 10,
+        "episode": 12,
+        "released": "2006-11-01",
+        "overview": "South Park residents clash over the teaching of evolution. Meanwhile, Cartman attempts time travel so he can play a soon-to-be-released video-game system."
+      },
+      {
+        "id": "tvmaze:8070",
+        "title": "Go God Go XII",
+        "season": 10,
+        "episode": 13,
+        "released": "2006-11-08",
+        "overview": "Cartman tries to escape a dystopian future plagued by militant otters and a lack of video games."
+      },
+      {
+        "id": "tvmaze:8071",
+        "title": "Stanley's Cup",
+        "season": 10,
+        "episode": 14,
+        "released": "2006-11-15",
+        "overview": "Stan Marsh has hit rock bottom. He's got no job, no bicycle and his only way out of a bad situation is to coach the local pee wee hockey team. Once a hotshot pee wee hockey player himself, Marsh has tried to put those days behind him. But he's still living with the memory of how he let his team down when he missed the winning shot in the big game. Now, he's about to find out that being a coach means facing your past. He's determined to show his kids what it's like to be winners!"
+      },
+      {
+        "id": "tvmaze:8072",
+        "title": "With Apologies to Jesse Jackson",
+        "season": 11,
+        "episode": 1,
+        "released": "2007-03-07",
+        "overview": "Randy Marsh is publicly chastised for using the N-word on national television. Meanwhile, Cartman clashes with a little person."
+      },
+      {
+        "id": "tvmaze:8073",
+        "title": "Cartman Sucks",
+        "season": 11,
+        "episode": 2,
+        "released": "2007-03-14",
+        "overview": "Butters is sent to a religious camp that promotes a heterosexual lifestyle."
+      },
+      {
+        "id": "tvmaze:8074",
+        "title": "Lice Capades",
+        "season": 11,
+        "episode": 3,
+        "released": "2007-03-21",
+        "overview": "th Park Elementary deals with a head-lice scare, and Cartman looks to expose the kids with infected scalps."
+      },
+      {
+        "id": "tvmaze:8075",
+        "title": "The Snuke",
+        "season": 11,
+        "episode": 4,
+        "released": "2007-03-28",
+        "overview": "lary Clinton makes a campaign stop in South Park. Meanwhile, Cartman believes he's uncovered a terrorist plot."
+      },
+      {
+        "id": "tvmaze:8076",
+        "title": "Fantastic Easter Special",
+        "season": 11,
+        "episode": 5,
+        "released": "2007-04-04",
+        "overview": "Stan searches for the origins of egg decorating, and falls in with a strange society guarding an infamous secret."
+      },
+      {
+        "id": "tvmaze:8077",
+        "title": "D-Yikes",
+        "season": 11,
+        "episode": 6,
+        "released": "2007-04-11",
+        "overview": "Ms. Garrison gets dumped again, so the boys decide to hire someone to remedy the situation."
+      },
+      {
+        "id": "tvmaze:8078",
+        "title": "Night of the Living Homeless",
+        "season": 11,
+        "episode": 7,
+        "released": "2007-04-18",
+        "overview": "The homeless population is on the rise in South Park. Both the adults and children go to work looking for solutions to the problem."
+      },
+      {
+        "id": "tvmaze:8079",
+        "title": "Le Petit Tourette",
+        "season": 11,
+        "episode": 8,
+        "released": "2007-10-03",
+        "overview": "Cartman pretends to have Tourette's syndrome in order to say whatever he wants."
+      },
+      {
+        "id": "tvmaze:8080",
+        "title": "More Crap",
+        "season": 11,
+        "episode": 9,
+        "released": "2007-10-10",
+        "overview": "Randy Marsh becomes a local hero after passing a sizable bowel movement. Later, he contacts a record-keeping society to find out if he has surpassed the world record."
+      },
+      {
+        "id": "tvmaze:8081",
+        "title": "Imaginationland: Episode I",
+        "season": 11,
+        "episode": 10,
+        "released": "2007-10-17",
+        "overview": "The boys enter a dimension containing the world's imagination. Before long, the government taps them for intelligence."
+      },
+      {
+        "id": "tvmaze:8082",
+        "title": "Imaginationland: Episode II",
+        "season": 11,
+        "episode": 11,
+        "released": "2007-10-24",
+        "overview": "Pentagon officials pressure Kyle and Stan to reveal how they gained access to Imaginationland. Meanwhile, Cartman searches for Kyle in order to make him fulfill his side of the leprechaun bet."
+      },
+      {
+        "id": "tvmaze:8083",
+        "title": "Imaginationland: Episode III",
+        "season": 11,
+        "episode": 12,
+        "released": "2007-10-31",
+        "overview": "Stan and Butters attempt to escape Imaginationland before the government detonates a nuclear device in the alternate dimension. Meanwhile, Cartman takes his bet with Kyle to the Supreme Court."
+      },
+      {
+        "id": "tvmaze:8084",
+        "title": "Guitar Queer-o",
+        "season": 11,
+        "episode": 13,
+        "released": "2007-11-07",
+        "overview": "Stan and Kyle become a successful Guitar Hero duo. After they part ways, Stan succumbs to the pitfalls of rock stardom."
+      },
+      {
+        "id": "tvmaze:8085",
+        "title": "The List",
+        "season": 11,
+        "episode": 14,
+        "released": "2007-11-14",
+        "overview": "The boys discover a secret list compiled by their female classmates that rates them according to looks."
+      },
+      {
+        "id": "tvmaze:8086",
+        "title": "Tonsil Trouble",
+        "season": 12,
+        "episode": 1,
+        "released": "2008-03-12",
+        "overview": "In the 12th-season premiere, Cartman faces an uncertain future after a routine tonsillectomy reveals a more serious condition."
+      },
+      {
+        "id": "tvmaze:8087",
+        "title": "Britney's New Look",
+        "season": 12,
+        "episode": 2,
+        "released": "2008-03-19",
+        "overview": "The boys meet Britney Spears while she's on a search for seclusion in the Colorado mountains, and Stan and Kyle eventually take on the responsibility of getting her to the North Pole."
+      },
+      {
+        "id": "tvmaze:8088",
+        "title": "Major Boobage",
+        "season": 12,
+        "episode": 3,
+        "released": "2008-03-26",
+        "overview": "Suspicions by friends and family of Kenny's drug use play out in an homage to the 1981 animated fantasy \"Heavy Metal.\""
+      },
+      {
+        "id": "tvmaze:8089",
+        "title": "Canada on Strike",
+        "season": 12,
+        "episode": 4,
+        "released": "2008-04-02",
+        "overview": "When Canada goes on strike, the boys find themselves in the thick of negotiations for a settlement, and the void in U.S. jobs is filled by replacements from Denmark. Meanwhile, Terrance and Phillip are on the fence about joining the strike, but are shocked by its fiscal consequences."
+      },
+      {
+        "id": "tvmaze:8090",
+        "title": "Eek, a Penis!",
+        "season": 12,
+        "episode": 5,
+        "released": "2008-04-09",
+        "overview": "Cartman takes over Ms. Garrison's class when the teacher's personal crisis causes her to be removed from the classroom."
+      },
+      {
+        "id": "tvmaze:8091",
+        "title": "Over Logging",
+        "season": 12,
+        "episode": 6,
+        "released": "2008-04-16",
+        "overview": "When a lack of Internet access in South Park sparks panic in the community, Randy takes his family to California in search of a signal."
+      },
+      {
+        "id": "tvmaze:8092",
+        "title": "Super Fun Time",
+        "season": 12,
+        "episode": 7,
+        "released": "2008-04-23",
+        "overview": "A class trip to a living museum that recreates 1800s Colorado leads to a hostage situation for some of the boys."
+      },
+      {
+        "id": "tvmaze:8093",
+        "title": "The China Problem",
+        "season": 12,
+        "episode": 8,
+        "released": "2008-10-08",
+        "overview": "Butters stands with Cartman as he confronts the Chinese after a tragic event."
+      },
+      {
+        "id": "tvmaze:8094",
+        "title": "Breast Cancer Show Ever",
+        "season": 12,
+        "episode": 9,
+        "released": "2008-10-15",
+        "overview": "Wendy courts trouble when she vows to beat up Cartman after school."
+      },
+      {
+        "id": "tvmaze:8095",
+        "title": "Pandemic",
+        "season": 12,
+        "episode": 10,
+        "released": "2008-10-22",
+        "overview": "Cartman enlists the help of rival Craig when the boys spot an easy opportunity for financial gain from a global crisis."
+      },
+      {
+        "id": "tvmaze:8096",
+        "title": "Pandemic 2 - The Startling",
+        "season": 12,
+        "episode": 11,
+        "released": "2008-10-29",
+        "overview": "The boys discover the reason for the global attacks by oversize guinea pigs, but first they have to find their way out of the Andes."
+      },
+      {
+        "id": "tvmaze:8097",
+        "title": "About Last Night...",
+        "season": 12,
+        "episode": 12,
+        "released": "2008-11-05",
+        "overview": "South Park residents join the rest of the country in celebrating the election of a U.S. president, who moves a new administration into the White House ahead of schedule."
+      },
+      {
+        "id": "tvmaze:8098",
+        "title": "Elementary School Musical",
+        "season": 12,
+        "episode": 13,
+        "released": "2008-11-12",
+        "overview": "The boys are startled to learn that their popularity at school is waning when they fail to submit to the latest fad, which actually makes Butters cooler than they are."
+      },
+      {
+        "id": "tvmaze:8099",
+        "title": "The Ungroundable",
+        "season": 12,
+        "episode": 14,
+        "released": "2008-11-19",
+        "overview": "In the 12th-season finale, vampire sightings at school anger the Goth kids, who are upset when they become indistinguishable from the bloodsucking interlopers in the eyes of their peers."
+      },
+      {
+        "id": "tvmaze:8100",
+        "title": "The Ring",
+        "season": 13,
+        "episode": 1,
+        "released": "2009-03-11",
+        "overview": "In the 13th-season premiere, Kenny gets less than he bargained for when he takes his new girlfriend to a Jonas Brothers concert."
+      },
+      {
+        "id": "tvmaze:8101",
+        "title": "The Coon",
+        "season": 13,
+        "episode": 2,
+        "released": "2009-03-18",
+        "overview": "Rival vigilantes battle for supremacy as crime-fighting icons of the town."
+      },
+      {
+        "id": "tvmaze:8102",
+        "title": "Margaritaville",
+        "season": 13,
+        "episode": 3,
+        "released": "2009-03-25",
+        "overview": "Randy's solution to fix the economy finds enthusiastic support in the community and revolutionizes the way people live their lives."
+      },
+      {
+        "id": "tvmaze:8103",
+        "title": "Eat, Pray, Queef",
+        "season": 13,
+        "episode": 4,
+        "released": "2009-04-01",
+        "overview": "An April Fools' joke goes bad, inspiring fear and fury among the boys."
+      },
+      {
+        "id": "tvmaze:8104",
+        "title": "Fishsticks",
+        "season": 13,
+        "episode": 5,
+        "released": "2009-04-08",
+        "overview": "Cartman helps Jimmy with a comedy routine that becomes the sensation of the year until it's time to take credit for the joke."
+      },
+      {
+        "id": "tvmaze:8105",
+        "title": "Pinewood Derby",
+        "season": 13,
+        "episode": 6,
+        "released": "2009-04-15",
+        "overview": "Randy pulls out all the stops to make sure that Stan wins first place in the annual Pinewood Derby"
+      },
+      {
+        "id": "tvmaze:8106",
+        "title": "Fatbeard",
+        "season": 13,
+        "episode": 7,
+        "released": "2009-04-22",
+        "overview": "Buoyed by news of pirates in Somalia, Cartman hatches a plan to run away to live the life of a buccaneer."
+      },
+      {
+        "id": "tvmaze:8107",
+        "title": "Dead Celebrities",
+        "season": 13,
+        "episode": 8,
+        "released": "2009-10-07",
+        "overview": "Kyle seeks help from paranormal experts when his little brother is haunted by ghosts."
+      },
+      {
+        "id": "tvmaze:8108",
+        "title": "Butters' Bottom Bitch",
+        "season": 13,
+        "episode": 9,
+        "released": "2009-10-14",
+        "overview": "Butters hopes his first kiss will put an end to his friends' ridicule."
+      },
+      {
+        "id": "tvmaze:8109",
+        "title": "W.T.F.",
+        "season": 13,
+        "episode": 10,
+        "released": "2009-10-21",
+        "overview": "The boys aspire to be professional wrestlers after seeing their first match live."
+      },
+      {
+        "id": "tvmaze:8110",
+        "title": "Whale Whores",
+        "season": 13,
+        "episode": 11,
+        "released": "2009-10-28",
+        "overview": "Stan vows to save the dolphins after a family visit to an aquarium in Denver on his birthday is marred by a mass slaughter of aquatic mammals."
+      },
+      {
+        "id": "tvmaze:8111",
+        "title": "The F Word",
+        "season": 13,
+        "episode": 12,
+        "released": "2009-11-04",
+        "overview": "The boys take action when a motorcycle festival takes over the town."
+      },
+      {
+        "id": "tvmaze:8112",
+        "title": "Dances with Smurfs",
+        "season": 13,
+        "episode": 13,
+        "released": "2009-11-11",
+        "overview": "Cartman is selected to read the morning announcements at school, but he turns the forum into a bully pulpit to unleash criticism of the student-body president."
+      },
+      {
+        "id": "tvmaze:8113",
+        "title": "Pee",
+        "season": 13,
+        "episode": 14,
+        "released": "2009-11-18",
+        "overview": "In the 13th-season finale, the boys' trip to a local water park comes with apocalyptic overtones."
+      },
+      {
+        "id": "tvmaze:8114",
+        "title": "Sexual Healing",
+        "season": 14,
+        "episode": 1,
+        "released": "2010-03-17",
+        "overview": "In the 14th-season premiere, scientific testing reveals that some of the fourth-grade boys are sex addicts."
+      },
+      {
+        "id": "tvmaze:8115",
+        "title": "The Tale of Scrotie McBoogerballs",
+        "season": 14,
+        "episode": 2,
+        "released": "2010-03-24",
+        "overview": "After being assigned to read a book that was once banned, the boys are inspired to collaborate on one of their own."
+      },
+      {
+        "id": "tvmaze:8116",
+        "title": "Medicinal Fried Chicken",
+        "season": 14,
+        "episode": 3,
+        "released": "2010-03-31",
+        "overview": "When a store selling medical marijuana opens on the site of Cartman's favorite fried-chicken joint, Randy is first in line to buy some weed. But he can't because he's completely healthy. Meanwhile, Cartman will stop at nothing to get the restaurant back."
+      },
+      {
+        "id": "tvmaze:8117",
+        "title": "You Have 0 Friends",
+        "season": 14,
+        "episode": 4,
+        "released": "2010-04-07",
+        "overview": "Kyle turns to Stan for help with a Facebook crisis."
+      },
+      {
+        "id": "tvmaze:8118",
+        "title": "200",
+        "season": 14,
+        "episode": 5,
+        "released": "2010-04-14",
+        "overview": "South Park is the target of a class-action lawsuit on behalf of all the vengeful celebrities who have been mocked by the town."
+      },
+      {
+        "id": "tvmaze:8119",
+        "title": "201",
+        "season": 14,
+        "episode": 6,
+        "released": "2010-04-21",
+        "overview": "The identity of Cartman's dad is on everyone's mind despite threats from the ginger kids about Muhammad and enraged celebrities who have harnessed the power of Mecha Streisand."
+      },
+      {
+        "id": "tvmaze:8120",
+        "title": "Crippled Summer",
+        "season": 14,
+        "episode": 7,
+        "released": "2010-04-28",
+        "overview": "Jimmy and Timmy go to summer camp with a winner-take-all attitude in a variety of contests, including Jimmy's participation in a surfing competition. Towelie faces an intervention for his addictions."
+      },
+      {
+        "id": "tvmaze:8121",
+        "title": "Poor and Stupid",
+        "season": 14,
+        "episode": 8,
+        "released": "2010-10-06",
+        "overview": "Cartman's dream to become a NASCAR driver comes true, with Butters as his pit boss."
+      },
+      {
+        "id": "tvmaze:8122",
+        "title": "It's a Jersey Thing",
+        "season": 14,
+        "episode": 9,
+        "released": "2010-10-13",
+        "overview": "Randy spearheads the town's defense when \"Jersey Shore\"-inspired Garden State residents are threatening to take over the entire country."
+      },
+      {
+        "id": "tvmaze:8123",
+        "title": "Insheeption",
+        "season": 14,
+        "episode": 10,
+        "released": "2010-10-20",
+        "overview": "Stan talks to Mr. Mackey about his hoarding disorder, but learns the guidance counselor has problems with the same compulsion."
+      },
+      {
+        "id": "tvmaze:8124",
+        "title": "Coon 2: Hindsight",
+        "season": 14,
+        "episode": 11,
+        "released": "2010-10-27",
+        "overview": "The Coon leads a group of crimefighters who spring into action to help victims of another drilling catastrophe in the Gulf."
+      },
+      {
+        "id": "tvmaze:8125",
+        "title": "Mysterion Rises",
+        "season": 14,
+        "episode": 12,
+        "released": "2010-11-03",
+        "overview": "The identity of Mysterion is revealed when the Coon, abandoned by his crime-fighting cohorts, seeks revenge in the Gulf."
+      },
+      {
+        "id": "tvmaze:8126",
+        "title": "Coon vs. Coon & Friends",
+        "season": 14,
+        "episode": 13,
+        "released": "2010-11-10",
+        "overview": "Cthulhu does Cartman's bidding, leaving Coon &amp; Friends at his mercy; Kenny's curse presents a dilemma."
+      },
+      {
+        "id": "tvmaze:8127",
+        "title": "Crème Fraiche",
+        "season": 14,
+        "episode": 14,
+        "released": "2010-11-17",
+        "overview": "In the 14th-season finale, Randy's addiction to the Food Network has a detrimental effect on his family."
+      },
+      {
+        "id": "tvmaze:8128",
+        "title": "HUMANCENTiPAD",
+        "season": 15,
+        "episode": 1,
+        "released": "2011-04-27",
+        "overview": "The 15th season begins with the launch of a revolutionary tablet computer, though Cartman is feeling left out of the technology craze."
+      },
+      {
+        "id": "tvmaze:8129",
+        "title": "Funnybot",
+        "season": 15,
+        "episode": 2,
+        "released": "2011-05-04",
+        "overview": "Jimmy hosts the Special Ed department's inaugural Comedy Awards, but a comment about the Germans' sense of humor gets the school in hot water."
+      },
+      {
+        "id": "tvmaze:8130",
+        "title": "Royal Pudding",
+        "season": 15,
+        "episode": 3,
+        "released": "2011-05-11",
+        "overview": "Canadian-born Ike shares his country's obsession with a royal wedding and offers his services when the princess-to-be is abducted."
+      },
+      {
+        "id": "tvmaze:8131",
+        "title": "T.M.I.",
+        "season": 15,
+        "episode": 4,
+        "released": "2011-05-18",
+        "overview": "Cartman is sent to anger-management therapy when he's upset after personal information about the boys is posted on the school bulletin board."
+      },
+      {
+        "id": "tvmaze:8132",
+        "title": "Crack Baby Athletic Association",
+        "season": 15,
+        "episode": 5,
+        "released": "2011-05-25",
+        "overview": "Cartman hatches a plan to help babies who are born addicted to drugs"
+      },
+      {
+        "id": "tvmaze:8133",
+        "title": "City Sushi",
+        "season": 15,
+        "episode": 6,
+        "released": "2011-06-01",
+        "overview": "Butters gets diagnosed with multiple personality disorder, and he's prescribed medication."
+      },
+      {
+        "id": "tvmaze:8134",
+        "title": "You're Getting Old",
+        "season": 15,
+        "episode": 7,
+        "released": "2011-06-08",
+        "overview": "Stan's outlook on life begins to change after his 10th birthday, but it also affects his friendships with the other kids, who find they have little in common with him anymore."
+      },
+      {
+        "id": "tvmaze:8135",
+        "title": "Ass Burgers",
+        "season": 15,
+        "episode": 8,
+        "released": "2011-10-05",
+        "overview": "Stan's stuck in an abnormal rut; Cartman suspects he has Asperger's syndrome."
+      },
+      {
+        "id": "tvmaze:8136",
+        "title": "The Last of the Meheecans",
+        "season": 15,
+        "episode": 9,
+        "released": "2011-10-12",
+        "overview": "Cartman fancies himself an agent of the U.S. Border Patrol when the boys play Texans vs. Mexicans."
+      },
+      {
+        "id": "tvmaze:8137",
+        "title": "Bass to Mouth",
+        "season": 15,
+        "episode": 10,
+        "released": "2011-10-19",
+        "overview": "A hacker wreaks havoc with gossipy Web posts on a site called \"The South Park Elementary Eavesdropper.\""
+      },
+      {
+        "id": "tvmaze:8138",
+        "title": "Broadway Bro Down",
+        "season": 15,
+        "episode": 11,
+        "released": "2011-10-26",
+        "overview": "Randy turns into a huge fan of Broadway shows after he takes Sharon to see a hit musical in Denver."
+      },
+      {
+        "id": "tvmaze:8139",
+        "title": "1%",
+        "season": 15,
+        "episode": 12,
+        "released": "2011-11-02",
+        "overview": "Cartman's lack of physical fitness makes him a target for the other kids' scorn."
+      },
+      {
+        "id": "tvmaze:8140",
+        "title": "A History Channel Thanksgiving",
+        "season": 15,
+        "episode": 13,
+        "released": "2011-11-09",
+        "overview": "The boys learn what really happened at the first Thanksgiving—including an extraterrestrial presence—from a TV documentary."
+      },
+      {
+        "id": "tvmaze:8141",
+        "title": "The Poor Kid",
+        "season": 15,
+        "episode": 14,
+        "released": "2011-11-16",
+        "overview": "In the 15th-season finale, the arrest of Kenny's parents sends him and his two siblings into the foster-care system, but the situation creates a dilemma for Cartman, who is left without a target to mock for being the poorest kid in school."
+      },
+      {
+        "id": "tvmaze:8142",
+        "title": "Reverse Cowgirl",
+        "season": 16,
+        "episode": 1,
+        "released": "2012-03-14",
+        "overview": "Tragedy strikes when one of the boys repeatedly ignores reminders about leaving the toilet seat up in the Season 16 premiere."
+      },
+      {
+        "id": "tvmaze:8143",
+        "title": "Cash for Gold",
+        "season": 16,
+        "episode": 2,
+        "released": "2012-03-21",
+        "overview": "Cartman targets a specific—and vulnerable—clientele when he starts his own shopping channel for gems, while Stan researches the value of a piece of jewelry that was a gift from his grandfather."
+      },
+      {
+        "id": "tvmaze:8144",
+        "title": "Faith Hilling",
+        "season": 16,
+        "episode": 3,
+        "released": "2012-03-28",
+        "overview": "An evolutionary development poses a grave threat to humanity."
+      },
+      {
+        "id": "tvmaze:8145",
+        "title": "Jewpacabra",
+        "season": 16,
+        "episode": 4,
+        "released": "2012-04-04",
+        "overview": "The town's Easter-egg hunt may be canceled due to rumors of a vicious beast that Cartman claims to have caught on film."
+      },
+      {
+        "id": "tvmaze:8146",
+        "title": "Butterballs",
+        "season": 16,
+        "episode": 5,
+        "released": "2012-04-11",
+        "overview": "Stan organizes an antibullying video when Butters is tormented by an unlikely predator."
+      },
+      {
+        "id": "tvmaze:8147",
+        "title": "I Should Have Never Gone Ziplining",
+        "season": 16,
+        "episode": 6,
+        "released": "2012-04-18",
+        "overview": "The boys try zip-lining in the Colorado mountains on the last day of spring break, but their adventure takes a dangerous, life-threatening turn."
+      },
+      {
+        "id": "tvmaze:8148",
+        "title": "Cartman Finds Love",
+        "season": 16,
+        "episode": 7,
+        "released": "2012-04-25",
+        "overview": "A romance for Cartman may finally become a reality when there's a new girl at school."
+      },
+      {
+        "id": "tvmaze:8149",
+        "title": "Sarcastaball",
+        "season": 16,
+        "episode": 8,
+        "released": "2012-09-26",
+        "overview": "Randy's campaign to prevent head injuries in football radically changes the way the game is played, but the new rules become a national sensation and even make a South Park student a star athlete."
+      },
+      {
+        "id": "tvmaze:8150",
+        "title": "Raising the Bar",
+        "season": 16,
+        "episode": 9,
+        "released": "2012-10-03",
+        "overview": "Cartman finally comes to the realization that he's overweight, but declares that the solution is to ride around on a mobility scooter. Also: Cartman learns he has a rival in a young reality-TV star."
+      },
+      {
+        "id": "tvmaze:8151",
+        "title": "Insecurity",
+        "season": 16,
+        "episode": 10,
+        "released": "2012-10-10",
+        "overview": "Kyle suspects that his mother is having an affair with a deliveryman; Cartman installs a home-security system."
+      },
+      {
+        "id": "tvmaze:8152",
+        "title": "Going Native",
+        "season": 16,
+        "episode": 11,
+        "released": "2012-10-17",
+        "overview": "When Butters starts acting out at school, his parents realize it's time to tell him why he's not like all of the other kids. He must travel to a foreign place to learn the ways of his people. It will be a difficult trip for a young boy to make alone, so Butters chooses Kenny to travel with him to the distant and secluded island of Hawaii."
+      },
+      {
+        "id": "tvmaze:8153",
+        "title": "A Nightmare on Face Time",
+        "season": 16,
+        "episode": 12,
+        "released": "2012-10-24",
+        "overview": "The boys' plans to go trick-or-treating as their comic-book heroes, the Avengers, hit a snag when Stan's dad needs his son's help with a new business venture."
+      },
+      {
+        "id": "tvmaze:8154",
+        "title": "A Scause for Applause",
+        "season": 16,
+        "episode": 13,
+        "released": "2012-10-31",
+        "overview": "An icon is implicated in a doping scandal, so supporters start cutting off their symbolic wristbands."
+      },
+      {
+        "id": "tvmaze:8155",
+        "title": "Obama Wins!",
+        "season": 16,
+        "episode": 14,
+        "released": "2012-11-07",
+        "overview": "In the series 16 finale, Cartman believes he can affect the outcome of the 2012 presidential election."
+      },
+      {
+        "id": "tvmaze:8156",
+        "title": "Let Go, Let Gov",
+        "season": 17,
+        "episode": 1,
+        "released": "2013-09-25",
+        "overview": "In the Season 17 premiere, Cartman infiltrates the National Security Agency and is upset by what he finds in his personal file. Meanwhile, Butters finds a new audience for his prayers."
+      },
+      {
+        "id": "tvmaze:8157",
+        "title": "Informative Murder Porn",
+        "season": 17,
+        "episode": 2,
+        "released": "2013-10-02",
+        "overview": "The boys try to keep their parents from hurting one another by using a distraction in the form of the game \"Minecraft.\""
+      },
+      {
+        "id": "tvmaze:8158",
+        "title": "World War Zimmerman",
+        "season": 17,
+        "episode": 3,
+        "released": "2013-10-09",
+        "overview": "Token is deemed a threat to all humanity by Cartman."
+      },
+      {
+        "id": "tvmaze:8159",
+        "title": "Goth Kids 3: Dawn of the Posers",
+        "season": 17,
+        "episode": 4,
+        "released": "2013-10-23",
+        "overview": "A goth kid is sent to a camp for troubled youth, but upon her return her friends find her changed in disturbing ways, so they turn to an unlikely group for help."
+      },
+      {
+        "id": "tvmaze:8160",
+        "title": "Taming Strange",
+        "season": 17,
+        "episode": 5,
+        "released": "2013-10-30",
+        "overview": "Ike just isn't himself lately and he and Kyle are growing apart. Kyle goes to the guidance counselor for advice, but Mr. Mackey is too busy dealing with the bugs in the school's new integrated technology system to help. Kyle decides to take Ike to a live performance of his favorite show, \"Yo Gabba Gabba!\" He hopes it'll make his little brother like him again."
+      },
+      {
+        "id": "tvmaze:8161",
+        "title": "Ginger Cow",
+        "season": 17,
+        "episode": 6,
+        "released": "2013-11-06",
+        "overview": "Cartman facilitates world peace with his latest prank, which brings religious leaders to South Park to witness the fulfillment of a Biblical prophecy."
+      },
+      {
+        "id": "tvmaze:8162",
+        "title": "The Black Friday Trilogy",
+        "season": 17,
+        "episode": 7,
+        "released": "2013-11-13",
+        "overview": "It's the biggest Black Friday sale in history. The boys are divided over which gaming device to buy and a bloody battle will determine whether Xbox or Sony will be the winner."
+      },
+      {
+        "id": "tvmaze:8163",
+        "title": "A Song of Ass and Fire",
+        "season": 17,
+        "episode": 8,
+        "released": "2013-11-20",
+        "overview": "Console wars escalate as throngs of shoppers push toward the mall in anticipation of Black Friday. Meanwhile, Cartman seeks revenge against Princess Kenny."
+      },
+      {
+        "id": "tvmaze:8164",
+        "title": "Titties and Dragons",
+        "season": 17,
+        "episode": 9,
+        "released": "2013-12-04",
+        "overview": "The war over gaming devices begins as the malls open for the holiday-shopping craze."
+      },
+      {
+        "id": "tvmaze:8165",
+        "title": "The Hobbit",
+        "season": 17,
+        "episode": 10,
+        "released": "2013-12-11",
+        "overview": "Wendy plays matchmaker by trying to pair one of her gal pals with Butters, only to end up in the counselor's office."
+      },
+      {
+        "id": "tvmaze:8166",
+        "title": "Go Fund Yourself",
+        "season": 18,
+        "episode": 1,
+        "released": "2014-09-24",
+        "overview": "The group attempt to make a kickstarter company to raise money instead of going to school. The episode focuses on kickstarter and how people can make money before producing a product."
+      },
+      {
+        "id": "tvmaze:8167",
+        "title": "Gluten Free Ebola",
+        "season": 18,
+        "episode": 2,
+        "released": "2014-10-01",
+        "overview": "After the group attempted a kickstarter company in a previous episode they are hated by everyone else at school so attempt to throw a party whilst the town is thrown into chaos over the threat of gluten."
+      },
+      {
+        "id": "tvmaze:8168",
+        "title": "The Cissy",
+        "season": 18,
+        "episode": 3,
+        "released": "2014-10-08",
+        "overview": "Stan is searching for answers about how a person who he's always known to be one thing could suddenly identify with another. In the meantime, the pressure of holding on to a giant secret is starting to get to Randy."
+      },
+      {
+        "id": "tvmaze:13094",
+        "title": "Handicar",
+        "season": 18,
+        "episode": 4,
+        "released": "2014-10-15",
+        "overview": "Handicapped driven vehicles compete with taxi's and other vehicles. The company entitled \"Handicar\" with the lead driver being Timmy."
+      },
+      {
+        "id": "tvmaze:14874",
+        "title": "The Magic Bush",
+        "season": 18,
+        "episode": 5,
+        "released": "2014-10-29",
+        "overview": "A scandalous invasion of privacy makes the South Park denizens edgy as Cartman and Butters get in possession of a drone."
+      },
+      {
+        "id": "tvmaze:38926",
+        "title": "Freemium Isn't Free",
+        "season": 18,
+        "episode": 6,
+        "released": "2014-11-05",
+        "overview": "Stan's addicted to a new app marketed by Terrance and Phillip, but the duo find that all the money they're making can't buy happiness."
+      },
+      {
+        "id": "tvmaze:38927",
+        "title": "Grounded Vindaloop",
+        "season": 18,
+        "episode": 7,
+        "released": "2014-11-12",
+        "overview": "Butters is convinced that he's living in a virtual reality. When he suddenly goes rogue and wreaks havoc at home and all over South Park, everyone struggles to figure out what's real."
+      },
+      {
+        "id": "tvmaze:40628",
+        "title": "Cock Magic",
+        "season": 18,
+        "episode": 8,
+        "released": "2014-11-19",
+        "overview": "Kenny excels at playing the game, Magic: The Gathering. He has the boys' full attention until a new, hard-core activity gets in the way. When Wendy tries to get Stan to pay attention to what she's doing, she realizes that what he does with his guy friends always comes first."
+      },
+      {
+        "id": "tvmaze:46977",
+        "title": "#rehash",
+        "season": 18,
+        "episode": 9,
+        "released": "2014-12-03",
+        "overview": "Randy's forced to perform again after Stan spends all the Marsh's money on freemium games; Kyle gets upset when Ike doesn't want to play with him anymore."
+      },
+      {
+        "id": "tvmaze:46978",
+        "title": "#HappyHolograms",
+        "season": 18,
+        "episode": 10,
+        "released": "2014-12-10",
+        "overview": "Kyle plans a holiday special for TV in hopes of bringing families together again with help from some of the biggest names in entertainment. Meanwhile, Cartmaaan Bra is still trending as holograms continue to run rampant in South Park."
+      },
+      {
+        "id": "tvmaze:201455",
+        "title": "Stunning and Brave",
+        "season": 19,
+        "episode": 1,
+        "released": "2015-09-16",
+        "overview": "There is a new principal at the helm of South Park Elementary. He forces the boys to confront the damage they've done through their history of racism and unconscious bias."
+      },
+      {
+        "id": "tvmaze:252182",
+        "title": "Where My Country Gone?",
+        "season": 19,
+        "episode": 2,
+        "released": "2015-09-23",
+        "overview": "Tired of illegal immigrants continuously crossing over the border into the United States without any repercussions, Mr. Garrison wants a wall to be built to keep them out of the country."
+      },
+      {
+        "id": "tvmaze:236712",
+        "title": "The City Part of Town",
+        "season": 19,
+        "episode": 3,
+        "released": "2015-09-30",
+        "overview": "Kenny tries to land a job when the town of South Park begins gentrifying."
+      },
+      {
+        "id": "tvmaze:330855",
+        "title": "You're Not Yelping",
+        "season": 19,
+        "episode": 4,
+        "released": "2015-10-14",
+        "overview": "Cartman considers himself the top on-line restaurant reviewer in South Park."
+      },
+      {
+        "id": "tvmaze:8177",
+        "title": "Safe Space",
+        "season": 19,
+        "episode": 5,
+        "released": "2015-10-21",
+        "overview": "Cartman is the latest victim of Body Shaming."
+      },
+      {
+        "id": "tvmaze:186412",
+        "title": "Tweek x Craig",
+        "season": 19,
+        "episode": 6,
+        "released": "2015-10-28",
+        "overview": "The news of a romantic relationship between Tweek and Craig hits South Park Elementary."
+      },
+      {
+        "id": "tvmaze:153319",
+        "title": "Naughty Ninjas",
+        "season": 19,
+        "episode": 7,
+        "released": "2015-11-11",
+        "overview": "A game of Ninja Warriors is led by Kenny and attracts attention from foreign terrorists. Meanwhile, the citizens of South Park decide they don't need a police department anymore."
+      },
+      {
+        "id": "tvmaze:153070",
+        "title": "Sponsored Content",
+        "season": 19,
+        "episode": 8,
+        "released": "2015-11-18",
+        "overview": "Jimmy challenges PC Principal when the budding newsman is flagged for inappropriate language in the school paper."
+      },
+      {
+        "id": "tvmaze:153069",
+        "title": "Truth and Advertising",
+        "season": 19,
+        "episode": 9,
+        "released": "2015-12-02",
+        "overview": "PC Principal disappears along with 2 fourth grade students. The latest news in the school paper sets the boys on a search to find their two missing classmates. Being the crack reporter that he is, Jimmy sets out to learn everything he can about what makes Leslie tick. Meanwhile, Principal Victoria and Mr. Garrison return to a South Park that has become unrecognizable"
+      },
+      {
+        "id": "tvmaze:391098",
+        "title": "PC Principal Final Justice",
+        "season": 19,
+        "episode": 10,
+        "released": "2015-12-09",
+        "overview": "Kyle has chosen a dangerous alliance over his friendship with Stan."
+      },
+      {
+        "id": "tvmaze:772755",
+        "title": "Member Berries",
+        "season": 20,
+        "episode": 1,
+        "released": "2016-09-14",
+        "overview": "An American icon gives the National Anthem a reboot."
+      },
+      {
+        "id": "tvmaze:924464",
+        "title": "Skank Hunt",
+        "season": 20,
+        "episode": 2,
+        "released": "2016-09-21",
+        "overview": "An online troll threatens to have global implications as Cartman professes his innocence."
+      },
+      {
+        "id": "tvmaze:924465",
+        "title": "The Damned",
+        "season": 20,
+        "episode": 3,
+        "released": "2016-09-28",
+        "overview": "Gerald basks in the thrill of media attention as he continues to troll everyone."
+      },
+      {
+        "id": "tvmaze:924466",
+        "title": "Wieners Out",
+        "season": 20,
+        "episode": 4,
+        "released": "2016-10-12",
+        "overview": "Kyle feels guilty for the tension between the boys and the girls, but Butters brings his gender together to stand up for their rights. Meanwhile, Gerald is worried that his cover may be blown."
+      },
+      {
+        "id": "tvmaze:924467",
+        "title": "Douche and a Danish",
+        "season": 20,
+        "episode": 5,
+        "released": "2016-10-19",
+        "overview": "Garrison finally goes too far at a rally and reconsiders his future in politics. Meanwhile, the kids begin searching for an infamous Internet troll; and Gerald joins the opposition to a Danish campaign tracking nefarious characters on the Web."
+      },
+      {
+        "id": "tvmaze:924468",
+        "title": "Fort Collins",
+        "season": 20,
+        "episode": 6,
+        "released": "2016-10-26",
+        "overview": "An entire city in Colorado gets hacked. Gerald and Cartman may lose everything when their complete history of internet activity becomes public."
+      },
+      {
+        "id": "tvmaze:924469",
+        "title": "Oh Jeez",
+        "season": 20,
+        "episode": 7,
+        "released": "2016-11-09",
+        "overview": "PC Principal plays peacemaker between the girls and the boys one more time. Meanwhile, the election results are in, and Gerald is confronted by the Troll Hunter."
+      },
+      {
+        "id": "tvmaze:924470",
+        "title": "Members Only",
+        "season": 20,
+        "episode": 8,
+        "released": "2016-11-16",
+        "overview": "The new President-elect visits his hometown."
+      },
+      {
+        "id": "tvmaze:924471",
+        "title": "Not Funny",
+        "season": 20,
+        "episode": 9,
+        "released": "2016-11-30",
+        "overview": "Cartman becomes convinced that Butters wants to steal his girlfriend."
+      },
+      {
+        "id": "tvmaze:924472",
+        "title": "The End of Serialization as We Know It",
+        "season": 20,
+        "episode": 10,
+        "released": "2016-12-07",
+        "overview": "Cartman finally understands why Heidi wants him to get to Mars."
+      },
+      {
+        "id": "tvmaze:1174751",
+        "title": "White People Renovating Houses",
+        "season": 21,
+        "episode": 1,
+        "released": "2017-09-13",
+        "overview": "Protestors armed with tiki torches and confederate flags take to the streets of South Park; Randy comes to grips with what it means to be white in today's society."
+      },
+      {
+        "id": "tvmaze:1299703",
+        "title": "Put It Down",
+        "season": 21,
+        "episode": 2,
+        "released": "2017-09-20",
+        "overview": "North Korea takes aim at South Park. While Craig and Tweek have problems trying to find a place to hide."
+      },
+      {
+        "id": "tvmaze:1299704",
+        "title": "Holiday Special",
+        "season": 21,
+        "episode": 3,
+        "released": "2017-09-27",
+        "overview": "Everyone is going crazy as Columbus Day gets canceled and the kids try to bring it back as they would have a free day."
+      },
+      {
+        "id": "tvmaze:1299705",
+        "title": "Franchise Prequel",
+        "season": 21,
+        "episode": 4,
+        "released": "2017-10-11",
+        "overview": "Facebook is the ultimate weapon for Professor Chaos."
+      },
+      {
+        "id": "tvmaze:1175033",
+        "title": "Hummels & Heroin",
+        "season": 21,
+        "episode": 5,
+        "released": "2017-10-18",
+        "overview": "Beloved entertainers are being cut down in their prime due to massive overdoses of opiates. Stan is about to be exposed as the source of the illegal drugs."
+      },
+      {
+        "id": "tvmaze:1175034",
+        "title": "Sons a Witches",
+        "season": 21,
+        "episode": 6,
+        "released": "2017-10-25",
+        "overview": "This year at the traditional Halloween get together, a witch casts a spell that terrorizes the town and ruins Halloween for the boys. Cartman sees a way to use the witch's power to his advantage."
+      },
+      {
+        "id": "tvmaze:1175035",
+        "title": "Doubling Down",
+        "season": 21,
+        "episode": 7,
+        "released": "2017-11-08",
+        "overview": "Kyle is playing with fire when he gets in the middle of Cartman and Heidi's relationship."
+      },
+      {
+        "id": "tvmaze:1175036",
+        "title": "Moss Piglets",
+        "season": 21,
+        "episode": 8,
+        "released": "2017-11-15",
+        "overview": "Timmy and Jimmy's science project has caught the attention of some very important people who think it can save the world."
+      },
+      {
+        "id": "tvmaze:1175037",
+        "title": "Super Hard PCness",
+        "season": 21,
+        "episode": 9,
+        "released": "2017-11-29",
+        "overview": "It's never been more challenging to be a PC Principal.Witness the return of Terrance and Philip via the power of Netflix! Kyle isn't impressed. Meanwhile, PC Principal falls in love with the new Vice-Principal..."
+      },
+      {
+        "id": "tvmaze:1175038",
+        "title": "Splatty Tomato",
+        "season": 21,
+        "episode": 10,
+        "released": "2017-12-06",
+        "overview": "The children of South Park claim to have seen Mr. Garrison lurking around town, and the townspeople are angry that the president is scaring their kids."
+      },
+      {
+        "id": "tvmaze:1494862",
+        "title": "Dead Kids",
+        "season": 22,
+        "episode": 1,
+        "released": "2018-09-26",
+        "overview": "With several shooting occurring at South Park Elementary School, Randy attempts to get Sharon to get her emotions in check. Meanwhile, Cartman is mad after realizing he flunked his math quiz, despite copying his answers off Token's quiz."
+      },
+      {
+        "id": "tvmaze:1536450",
+        "title": "A Boy and a Priest",
+        "season": 22,
+        "episode": 2,
+        "released": "2018-10-03",
+        "overview": "A very special relationship has developed between Butters and the Parish Priest. When the town finds the church doors locked and no sign of the pair, they call in the Catholic Church."
+      },
+      {
+        "id": "tvmaze:1536451",
+        "title": "The Problem with a Poo",
+        "season": 22,
+        "episode": 3,
+        "released": "2018-10-10",
+        "overview": "Mr. Hankey's offensive behavior puts him in jeopardy of being fired as the Director of the Annual Christmas Pageant."
+      },
+      {
+        "id": "tvmaze:1536452",
+        "title": "Tegridy Farms",
+        "season": 22,
+        "episode": 4,
+        "released": "2018-10-17",
+        "overview": "The Vaping epidemic hits South Park Elementary"
+      },
+      {
+        "id": "tvmaze:1536453",
+        "title": "The Scoots",
+        "season": 22,
+        "episode": 5,
+        "released": "2018-10-31",
+        "overview": "The kids plan to use the latest revolution in mobility to get more candy on Halloween than they have ever gotten before."
+      },
+      {
+        "id": "tvmaze:1536454",
+        "title": "Time to Get Cereal",
+        "season": 22,
+        "episode": 6,
+        "released": "2018-11-07",
+        "overview": "The boys realize they need Al Gore's help when dead citizens start popping up all over town."
+      },
+      {
+        "id": "tvmaze:1536455",
+        "title": "Nobody Got Cereal?",
+        "season": 22,
+        "episode": 7,
+        "released": "2018-11-14",
+        "overview": "The boys break out of jail and are on the run from the police and ManBearPig."
+      },
+      {
+        "id": "tvmaze:1536456",
+        "title": "Buddha Box",
+        "season": 22,
+        "episode": 8,
+        "released": "2018-11-28",
+        "overview": "In \"Buddha Box,\" Cartman discovered a foolproof way to tune out the rest of the world and enjoy some quality time on his phone."
+      },
+      {
+        "id": "tvmaze:1536457",
+        "title": "Unfulfilled",
+        "season": 22,
+        "episode": 9,
+        "released": "2018-12-05",
+        "overview": "The citizens of South Park are enjoying all the perks of being a company town when the Amazon Fulfillment Center moves in. Everything is just swell until the contradictions inherent in capitalism threaten to bring the entire system down."
+      },
+      {
+        "id": "tvmaze:1536458",
+        "title": "Bike Parade",
+        "season": 22,
+        "episode": 10,
+        "released": "2018-12-12",
+        "overview": "The Bike Parade is still on, but the boys' chance of winning is in jeopardy when Kenny resists commercialism in solidarity with the Amazon Fulfillment Center's striking workers."
+      },
+      {
+        "id": "tvmaze:1684517",
+        "title": "Mexican Joker",
+        "season": 23,
+        "episode": 1,
+        "released": "2019-09-25",
+        "overview": "Randy fights against home-grown. Meanwhile, Kyle goes to camp."
+      },
+      {
+        "id": "tvmaze:1707981",
+        "title": "Band in China",
+        "season": 23,
+        "episode": 2,
+        "released": "2019-10-02",
+        "overview": "Randy sees an opportunity for Tegridy in China."
+      },
+      {
+        "id": "tvmaze:1707982",
+        "title": "Shots!!!",
+        "season": 23,
+        "episode": 3,
+        "released": "2019-10-09",
+        "overview": "Randy celebrates the success of Tegridy Farms; Cartman refuses to get a shot."
+      },
+      {
+        "id": "tvmaze:1707983",
+        "title": "Let Them Eat Goo",
+        "season": 23,
+        "episode": 4,
+        "released": "2019-10-16",
+        "overview": "The citizens of South Park are moving toward a completely plant-based diet. Cartman is pretty sure the new food in the cafeteria gave him a heart attack."
+      },
+      {
+        "id": "tvmaze:1707984",
+        "title": "Tegridy Farms Halloween Special",
+        "season": 23,
+        "episode": 5,
+        "released": "2019-10-30",
+        "overview": "It's Halloween and Randy is dealing with his daughter's marijuana problem. Butters gets an unexpected surprise when he visits the Egyptian Artifact exhibit at the Denver Museum."
+      },
+      {
+        "id": "tvmaze:1707985",
+        "title": "Season Finale",
+        "season": 23,
+        "episode": 6,
+        "released": "2019-11-06",
+        "overview": "The Mayor has evidence that Randy blew up his neighbor's yards in protest over homegrown weed and then blamed it on a Mexican Joker. Now the citizens of South Park have had enough of Randy and Tegridy Farms and they just want to lock him up."
+      },
+      {
+        "id": "tvmaze:1750707",
+        "title": "Board Girls",
+        "season": 23,
+        "episode": 7,
+        "released": "2019-11-13",
+        "overview": "The annual Strong Woman competition pushes everyone to their limits."
+      },
+      {
+        "id": "tvmaze:1750708",
+        "title": "Turd Burglars",
+        "season": 23,
+        "episode": 8,
+        "released": "2019-11-27",
+        "overview": "Kyle's mom has a fecal transplant and the boys are on a quest for the best microbiome."
+      },
+      {
+        "id": "tvmaze:1750709",
+        "title": "Basic Cable",
+        "season": 23,
+        "episode": 9,
+        "released": "2019-12-04",
+        "overview": "Scott Malkinson's future with the new girl in his class depends on him getting the latest and greatest streaming platform. Scott's dad works for the local cable company and refuses to move beyond basic cable."
+      },
+      {
+        "id": "tvmaze:1750710",
+        "title": "Christmas Snow",
+        "season": 23,
+        "episode": 10,
+        "released": "2019-12-11",
+        "overview": "It's a bleak Christmas Season in South Park this year and it's all Santa's fault. He is single handedly stealing the joy from the holiday. The town just wants their Christmas Spirit back but that will take a Christmas miracle."
+      },
+      {
+        "id": "tvmaze:2257696",
+        "title": "Pajama Day",
+        "season": 25,
+        "episode": 1,
+        "released": "2022-02-02",
+        "overview": "After failing to show respect for their teacher, PC Principal revokes Pajama Day privileges for the entire 4th grade class. Cartman is distraught. The kids aren't going to stand for it but PC Principal refuses to back down."
+      },
+      {
+        "id": "tvmaze:2266148",
+        "title": "The Big Fix",
+        "season": 25,
+        "episode": 2,
+        "released": "2022-02-09",
+        "overview": "Stan's horrified to realize he's misinterpreted some of the greatest writing of all time."
+      },
+      {
+        "id": "tvmaze:2270239",
+        "title": "City People",
+        "season": 25,
+        "episode": 3,
+        "released": "2022-02-16",
+        "overview": "Cartman is furious with his mom when she tells him about her new job."
+      },
+      {
+        "id": "tvmaze:2278925",
+        "title": "Back to the Cold War",
+        "season": 25,
+        "episode": 4,
+        "released": "2022-03-02",
+        "overview": "A lot is riding on Butter's ability to crush the competition in the all-important dressage championship."
+      },
+      {
+        "id": "tvmaze:2278926",
+        "title": "Help, My Teenager Hates Me!",
+        "season": 25,
+        "episode": 5,
+        "released": "2022-03-09",
+        "overview": "The boys find out that the joys of playing Airsoft come with the challenges of dealing with teenagers."
+      },
+      {
+        "id": "tvmaze:2278927",
+        "title": "Credigree Weed St. Patrick's Day Special",
+        "season": 25,
+        "episode": 6,
+        "released": "2022-03-16",
+        "overview": "Butters is shocked to learn that people in South Park don't understand what St. Patrick's Day is really about."
+      },
+      {
+        "id": "tvmaze:2475932",
+        "title": "Cupid Ye",
+        "season": 26,
+        "episode": 1,
+        "released": "2023-02-08",
+        "overview": "Cartman is jealous of the friendship that's developed between Kyle and Tolkien and decides to do something about it."
+      },
+      {
+        "id": "tvmaze:2485282",
+        "title": "The World-Wide Privacy Tour",
+        "season": 26,
+        "episode": 2,
+        "released": "2023-02-15",
+        "overview": "The prince of Canada and his wife try to find privacy and seclusion in a small mountain town."
+      },
+      {
+        "id": "tvmaze:2490958",
+        "title": "Japanese Toilet",
+        "season": 26,
+        "episode": 3,
+        "released": "2023-03-01",
+        "overview": "South Park learns about the wonders of Japanese toilets."
+      },
+      {
+        "id": "tvmaze:2498102",
+        "title": "Deep Learning",
+        "season": 26,
+        "episode": 4,
+        "released": "2023-03-08",
+        "overview": "Stan is reeling when a cheating scandal hits the school."
+      },
+      {
+        "id": "tvmaze:2501581",
+        "title": "DiKimble's Hot Dogs",
+        "season": 26,
+        "episode": 5,
+        "released": "2023-03-22",
+        "overview": "The South Park boys renovate and open an historic restaurant in Colorado."
+      },
+      {
+        "id": "tvmaze:2509776",
+        "title": "Spring Break",
+        "season": 26,
+        "episode": 6,
+        "released": "2023-03-29",
+        "overview": "Spring Break is an excuse for Garrison to jump back into his former depraved lifestyle."
+      },
+      {
+        "id": "tvmaze:3194688",
+        "title": "Sermon on the 'Mount",
+        "season": 27,
+        "episode": 1,
+        "released": "2025-07-23",
+        "overview": "When the residents of South Park face their possible demise, Jesus returns to give them an important message."
+      },
+      {
+        "id": "tvmaze:3309709",
+        "title": "Got a Nut",
+        "season": 27,
+        "episode": 2,
+        "released": "2025-08-06",
+        "overview": "When Mr. Mackey loses his job, he desperately tries to find a new way to make a living."
+      },
+      {
+        "id": "tvmaze:3314513",
+        "title": "Sickofancy",
+        "season": 27,
+        "episode": 3,
+        "released": "2025-08-20",
+        "overview": "Towelie goes to Washington, D.C."
+      },
+      {
+        "id": "tvmaze:3314514",
+        "title": "Wok is Dead",
+        "season": 27,
+        "episode": 4,
+        "released": "2025-09-03",
+        "overview": "Butters experiences the reality of tariffs when he has to buy a Labubu doll for his girlfriend's birthday."
+      },
+      {
+        "id": "tvmaze:3314515",
+        "title": "Conflict of Interest",
+        "season": 27,
+        "episode": 5,
+        "released": "2025-09-24",
+        "overview": "Kyle and Cartman are at odds when a prediction markets app gets popular with their fellow students."
+      },
+      {
+        "id": "tvmaze:3314516",
+        "title": "Twisted Christian",
+        "season": 28,
+        "episode": 1,
+        "released": "2025-10-15",
+        "overview": "Cartman is possessed and may be the key to stopping the Antichrist."
+      },
+      {
+        "id": "tvmaze:3314517",
+        "title": "The Woman in the Hat",
+        "season": 28,
+        "episode": 2,
+        "released": "2025-10-31",
+        "overview": "The White House deals with a disruptive spirit from the east wing; Stan worries that South Park has become too political."
+      },
+      {
+        "id": "tvmaze:3314518",
+        "title": "Sora Not Sorry",
+        "season": 28,
+        "episode": 3,
+        "released": "2025-11-12",
+        "overview": "Butters' AI revenge plan backfires, igniting an epidemic of fake videos at school that leaves Detective Harris struggling to tell fantasy from reality."
+      },
+      {
+        "id": "tvmaze:3314519",
+        "title": "Turkey Trot",
+        "season": 28,
+        "episode": 4,
+        "released": "2025-11-26",
+        "overview": "The town's annual Turkey Trot turns chaotic when Cartman uses questionable cutting-edge science to win the race."
+      },
+      {
+        "id": "tvmaze:3314520",
+        "title": "The Crap Out",
+        "season": 28,
+        "episode": 5,
+        "released": "2025-12-10",
+        "overview": "Satan's due, Stan's praying, and only a Christmas miracle can deliver the Antichrist on time."
+      }
+    ]
+  }
+}

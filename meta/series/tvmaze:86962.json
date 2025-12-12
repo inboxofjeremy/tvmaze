@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:86962",
+    "type": "series",
+    "name": "Bloomberg: The China Show",
+    "description": "Your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.",
+    "poster": null,
+    "background": null,
+    "videos": [
+      {
+        "id": "tvmaze:3459817",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-11",
+        "overview": ""
+      }
+    ]
+  }
+}

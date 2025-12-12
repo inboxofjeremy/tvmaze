@@ -1,0 +1,4444 @@
+{
+  "meta": {
+    "id": "tvmaze:8835",
+    "type": "series",
+    "name": "Meet the Press",
+    "description": "For almost as long as there has been television, there's been Meet the Press. The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/534/1335995.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/534/1335995.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3451237",
+        "title": "Rep. James Clyburn, Sen. Tom Cotton, Sen. Adam Schiff",
+        "season": 2025,
+        "episode": 48,
+        "released": "2025-12-07",
+        "overview": "Sens. Tom Cotton (R-Ark.) and Adam Schiff (D-Calif.) join as questions grow over the military's lethal strikes on alleged drug boats. Rep. Jim Clyburn (D-S.C.) reacts to the Supreme Court allowing Texas to use a new congressional district map drawn to boost Republicans. Adrienne Elrod, Sam Jacobs, Peggy Noonan and Susan Page join the roundtable."
+      },
+      {
+        "id": "tvmaze:484259",
+        "title": "Pilot",
+        "season": 1947,
+        "episode": 1,
+        "released": "1947-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484260",
+        "title": "Meet the Press",
+        "season": 1947,
+        "episode": 2,
+        "released": "1947-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484261",
+        "title": "Look back at the Boston Marathon bombings",
+        "season": 2014,
+        "episode": 16,
+        "released": "2014-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484262",
+        "title": "The Robin Hood Foundation, superior autobiographical memory, congo's Kimbanguist Symphony Orchestra",
+        "season": 2014,
+        "episode": 17,
+        "released": "2014-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484263",
+        "title": "Islamic extremism; Crisis in Ukraine",
+        "season": 2014,
+        "episode": 18,
+        "released": "2014-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484264",
+        "title": "August 10, 2014",
+        "season": 2014,
+        "episode": 20,
+        "released": "2014-08-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484265",
+        "title": "August 17, 2014",
+        "season": 2014,
+        "episode": 21,
+        "released": "2014-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484266",
+        "title": "November 16, 2014",
+        "season": 2014,
+        "episode": 23,
+        "released": "2014-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736914",
+        "title": "January 4, 2015",
+        "season": 2015,
+        "episode": 1,
+        "released": "2015-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736916",
+        "title": "January 11, 2015",
+        "season": 2015,
+        "episode": 2,
+        "released": "2015-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736918",
+        "title": "January 18, 2015",
+        "season": 2015,
+        "episode": 3,
+        "released": "2015-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736920",
+        "title": "January 25, 2015",
+        "season": 2015,
+        "episode": 4,
+        "released": "2015-01-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736922",
+        "title": "February 1, 2015",
+        "season": 2015,
+        "episode": 5,
+        "released": "2015-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736923",
+        "title": "February 8, 2015",
+        "season": 2015,
+        "episode": 6,
+        "released": "2015-02-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736924",
+        "title": "February 15, 2015",
+        "season": 2015,
+        "episode": 7,
+        "released": "2015-02-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736925",
+        "title": "February 22, 2015",
+        "season": 2015,
+        "episode": 8,
+        "released": "2015-02-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736926",
+        "title": "March 1, 2015",
+        "season": 2015,
+        "episode": 9,
+        "released": "2015-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736927",
+        "title": "March 8, 2015",
+        "season": 2015,
+        "episode": 10,
+        "released": "2015-03-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736928",
+        "title": "March 15, 2015",
+        "season": 2015,
+        "episode": 11,
+        "released": "2015-03-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736929",
+        "title": "March 22, 2015",
+        "season": 2015,
+        "episode": 12,
+        "released": "2015-03-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736930",
+        "title": "March 29, 2015",
+        "season": 2015,
+        "episode": 13,
+        "released": "2015-03-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736931",
+        "title": "April 5, 2015",
+        "season": 2015,
+        "episode": 14,
+        "released": "2015-04-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736932",
+        "title": "April 12, 2015",
+        "season": 2015,
+        "episode": 15,
+        "released": "2015-04-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736933",
+        "title": "April 19, 2015",
+        "season": 2015,
+        "episode": 16,
+        "released": "2015-04-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736935",
+        "title": "April 26, 2015",
+        "season": 2015,
+        "episode": 17,
+        "released": "2015-04-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736938",
+        "title": "May 3, 2015",
+        "season": 2015,
+        "episode": 18,
+        "released": "2015-05-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736940",
+        "title": "May 10, 2015",
+        "season": 2015,
+        "episode": 19,
+        "released": "2015-05-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736942",
+        "title": "May 17, 2015",
+        "season": 2015,
+        "episode": 20,
+        "released": "2015-05-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736944",
+        "title": "May 24, 2015",
+        "season": 2015,
+        "episode": 21,
+        "released": "2015-05-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736946",
+        "title": "May 31, 2015",
+        "season": 2015,
+        "episode": 22,
+        "released": "2015-05-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736949",
+        "title": "June 7, 2015",
+        "season": 2015,
+        "episode": 23,
+        "released": "2015-06-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736951",
+        "title": "June 14, 2015",
+        "season": 2015,
+        "episode": 24,
+        "released": "2015-06-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736952",
+        "title": "June 21, 2015",
+        "season": 2015,
+        "episode": 25,
+        "released": "2015-06-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736953",
+        "title": "June 28, 2015",
+        "season": 2015,
+        "episode": 26,
+        "released": "2015-06-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736954",
+        "title": "July 5, 2015",
+        "season": 2015,
+        "episode": 27,
+        "released": "2015-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736955",
+        "title": "July 12, 2015",
+        "season": 2015,
+        "episode": 28,
+        "released": "2015-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736956",
+        "title": "July 19, 2015",
+        "season": 2015,
+        "episode": 29,
+        "released": "2015-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736957",
+        "title": "July 26, 2015",
+        "season": 2015,
+        "episode": 30,
+        "released": "2015-07-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736958",
+        "title": "August 2, 2015",
+        "season": 2015,
+        "episode": 31,
+        "released": "2015-08-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736959",
+        "title": "August 9, 2015",
+        "season": 2015,
+        "episode": 32,
+        "released": "2015-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736960",
+        "title": "August 16, 2015",
+        "season": 2015,
+        "episode": 33,
+        "released": "2015-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736961",
+        "title": "August 23, 2015",
+        "season": 2015,
+        "episode": 34,
+        "released": "2015-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:736962",
+        "title": "August 30, 2015",
+        "season": 2015,
+        "episode": 35,
+        "released": "2015-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484270",
+        "title": "September 6, 2015",
+        "season": 2015,
+        "episode": 36,
+        "released": "2015-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484271",
+        "title": "September 13, 2015",
+        "season": 2015,
+        "episode": 37,
+        "released": "2015-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484272",
+        "title": "September 20, 2015",
+        "season": 2015,
+        "episode": 38,
+        "released": "2015-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484273",
+        "title": "September 27, 2015",
+        "season": 2015,
+        "episode": 39,
+        "released": "2015-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484274",
+        "title": "October 4, 2015",
+        "season": 2015,
+        "episode": 40,
+        "released": "2015-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484275",
+        "title": "October 11, 2015",
+        "season": 2015,
+        "episode": 41,
+        "released": "2015-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484276",
+        "title": "October 18, 2015",
+        "season": 2015,
+        "episode": 42,
+        "released": "2015-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484277",
+        "title": "October 25, 2015",
+        "season": 2015,
+        "episode": 43,
+        "released": "2015-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484278",
+        "title": "November 1, 2015",
+        "season": 2015,
+        "episode": 44,
+        "released": "2015-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484279",
+        "title": "November 8, 2015",
+        "season": 2015,
+        "episode": 45,
+        "released": "2015-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484280",
+        "title": "November 15, 2015",
+        "season": 2015,
+        "episode": 46,
+        "released": "2015-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484281",
+        "title": "November 22, 2015",
+        "season": 2015,
+        "episode": 47,
+        "released": "2015-11-22",
+        "overview": "Former CIA Director Leon Panetta; candidate for GOP nomination John Kasich; journalists Tom Brokaw, Helene Cooper and Ron Fournier; columnist Kathleen Parker."
+      },
+      {
+        "id": "tvmaze:484282",
+        "title": "November 29, 2015",
+        "season": 2015,
+        "episode": 48,
+        "released": "2015-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484283",
+        "title": "December 6, 2015",
+        "season": 2015,
+        "episode": 49,
+        "released": "2015-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484284",
+        "title": "December 13, 2015",
+        "season": 2015,
+        "episode": 50,
+        "released": "2015-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484285",
+        "title": "December 20, 2015",
+        "season": 2015,
+        "episode": 51,
+        "released": "2015-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484286",
+        "title": "December 27, 2015",
+        "season": 2015,
+        "episode": 52,
+        "released": "2015-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484287",
+        "title": "January 3, 2016",
+        "season": 2016,
+        "episode": 1,
+        "released": "2016-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484288",
+        "title": "January 10, 2016",
+        "season": 2016,
+        "episode": 2,
+        "released": "2016-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484289",
+        "title": "January 17, 2016",
+        "season": 2016,
+        "episode": 3,
+        "released": "2016-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484290",
+        "title": "January 24, 2016",
+        "season": 2016,
+        "episode": 4,
+        "released": "2016-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484291",
+        "title": "January 31, 2016",
+        "season": 2016,
+        "episode": 5,
+        "released": "2016-01-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:484292",
+        "title": "February 7, 2016",
+        "season": 2016,
+        "episode": 6,
+        "released": "2016-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558303",
+        "title": "February 14, 2016",
+        "season": 2016,
+        "episode": 7,
+        "released": "2016-02-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558304",
+        "title": "February 21, 2016",
+        "season": 2016,
+        "episode": 8,
+        "released": "2016-02-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558305",
+        "title": "February 28, 2016",
+        "season": 2016,
+        "episode": 9,
+        "released": "2016-02-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558306",
+        "title": "March 6, 2016",
+        "season": 2016,
+        "episode": 10,
+        "released": "2016-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558307",
+        "title": "March 13, 2016",
+        "season": 2016,
+        "episode": 11,
+        "released": "2016-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558308",
+        "title": "March 20, 2016",
+        "season": 2016,
+        "episode": 12,
+        "released": "2016-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558309",
+        "title": "March 27, 2016",
+        "season": 2016,
+        "episode": 13,
+        "released": "2016-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558310",
+        "title": "April 3, 2016",
+        "season": 2016,
+        "episode": 14,
+        "released": "2016-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558311",
+        "title": "April 10, 2016",
+        "season": 2016,
+        "episode": 15,
+        "released": "2016-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558312",
+        "title": "April 17, 2016",
+        "season": 2016,
+        "episode": 16,
+        "released": "2016-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558313",
+        "title": "April 24, 2016",
+        "season": 2016,
+        "episode": 17,
+        "released": "2016-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558314",
+        "title": "May 1, 2016",
+        "season": 2016,
+        "episode": 18,
+        "released": "2016-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558315",
+        "title": "May 8, 2016",
+        "season": 2016,
+        "episode": 19,
+        "released": "2016-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558316",
+        "title": "May 15, 2016",
+        "season": 2016,
+        "episode": 20,
+        "released": "2016-05-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558317",
+        "title": "May 22, 2016",
+        "season": 2016,
+        "episode": 21,
+        "released": "2016-05-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558318",
+        "title": "May 29, 2016",
+        "season": 2016,
+        "episode": 22,
+        "released": "2016-05-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558319",
+        "title": "June 5, 2016",
+        "season": 2016,
+        "episode": 23,
+        "released": "2016-06-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558320",
+        "title": "June 12, 2016",
+        "season": 2016,
+        "episode": 24,
+        "released": "2016-06-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558321",
+        "title": "June 19, 2016",
+        "season": 2016,
+        "episode": 25,
+        "released": "2016-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558322",
+        "title": "June 26, 2016",
+        "season": 2016,
+        "episode": 26,
+        "released": "2016-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558323",
+        "title": "July 3, 2016",
+        "season": 2016,
+        "episode": 27,
+        "released": "2016-07-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558324",
+        "title": "July 10, 2016",
+        "season": 2016,
+        "episode": 28,
+        "released": "2016-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558325",
+        "title": "July 17, 2016",
+        "season": 2016,
+        "episode": 29,
+        "released": "2016-07-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558326",
+        "title": "July 24, 2016",
+        "season": 2016,
+        "episode": 30,
+        "released": "2016-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558327",
+        "title": "July 31, 2016",
+        "season": 2016,
+        "episode": 31,
+        "released": "2016-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558328",
+        "title": "August 7, 2016",
+        "season": 2016,
+        "episode": 32,
+        "released": "2016-08-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558329",
+        "title": "August 14, 2016",
+        "season": 2016,
+        "episode": 33,
+        "released": "2016-08-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558330",
+        "title": "August 21, 2016",
+        "season": 2016,
+        "episode": 34,
+        "released": "2016-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558331",
+        "title": "August 28, 2016",
+        "season": 2016,
+        "episode": 35,
+        "released": "2016-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558332",
+        "title": "September 4, 2016",
+        "season": 2016,
+        "episode": 36,
+        "released": "2016-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558333",
+        "title": "September 11, 2016",
+        "season": 2016,
+        "episode": 37,
+        "released": "2016-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558334",
+        "title": "September 18, 2016",
+        "season": 2016,
+        "episode": 38,
+        "released": "2016-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558335",
+        "title": "September 25, 2016",
+        "season": 2016,
+        "episode": 39,
+        "released": "2016-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558336",
+        "title": "October 2, 2016",
+        "season": 2016,
+        "episode": 40,
+        "released": "2016-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558337",
+        "title": "October 9, 2016",
+        "season": 2016,
+        "episode": 41,
+        "released": "2016-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558338",
+        "title": "October 16, 2016",
+        "season": 2016,
+        "episode": 42,
+        "released": "2016-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558339",
+        "title": "October 23, 2016",
+        "season": 2016,
+        "episode": 43,
+        "released": "2016-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558340",
+        "title": "October 30, 2016",
+        "season": 2016,
+        "episode": 44,
+        "released": "2016-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558341",
+        "title": "November 6, 2016",
+        "season": 2016,
+        "episode": 45,
+        "released": "2016-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558342",
+        "title": "November 13, 2016",
+        "season": 2016,
+        "episode": 46,
+        "released": "2016-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558343",
+        "title": "November 20, 2016",
+        "season": 2016,
+        "episode": 47,
+        "released": "2016-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558344",
+        "title": "November 27, 2016",
+        "season": 2016,
+        "episode": 48,
+        "released": "2016-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558345",
+        "title": "December 4, 2016",
+        "season": 2016,
+        "episode": 49,
+        "released": "2016-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558346",
+        "title": "December 11, 2016",
+        "season": 2016,
+        "episode": 50,
+        "released": "2016-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558347",
+        "title": "December 18, 2016",
+        "season": 2016,
+        "episode": 51,
+        "released": "2016-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558348",
+        "title": "December 25, 2016",
+        "season": 2016,
+        "episode": 52,
+        "released": "2016-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1037538",
+        "title": "January 1, 2017",
+        "season": 2017,
+        "episode": 1,
+        "released": "2017-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1043451",
+        "title": "January 8, 2017",
+        "season": 2017,
+        "episode": 2,
+        "released": "2017-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1043452",
+        "title": "January 15, 2017",
+        "season": 2017,
+        "episode": 3,
+        "released": "2017-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1047044",
+        "title": "January 22, 2017",
+        "season": 2017,
+        "episode": 4,
+        "released": "2017-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1052449",
+        "title": "January 29, 2017",
+        "season": 2017,
+        "episode": 5,
+        "released": "2017-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1058831",
+        "title": "February 5, 2017",
+        "season": 2017,
+        "episode": 6,
+        "released": "2017-02-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1058832",
+        "title": "February 12, 2017",
+        "season": 2017,
+        "episode": 7,
+        "released": "2017-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1058833",
+        "title": "February 19, 2017",
+        "season": 2017,
+        "episode": 8,
+        "released": "2017-02-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1058834",
+        "title": "February 26, 2017",
+        "season": 2017,
+        "episode": 9,
+        "released": "2017-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1091413",
+        "title": "March 5, 2017",
+        "season": 2017,
+        "episode": 10,
+        "released": "2017-03-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1091414",
+        "title": "March 12, 2017",
+        "season": 2017,
+        "episode": 11,
+        "released": "2017-03-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1091415",
+        "title": "March 19, 2017",
+        "season": 2017,
+        "episode": 12,
+        "released": "2017-03-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1091416",
+        "title": "March 26, 2017",
+        "season": 2017,
+        "episode": 13,
+        "released": "2017-03-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1120754",
+        "title": "April 2, 2017",
+        "season": 2017,
+        "episode": 14,
+        "released": "2017-04-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1120755",
+        "title": "April 9, 2017",
+        "season": 2017,
+        "episode": 15,
+        "released": "2017-04-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1120756",
+        "title": "April 16, 2017",
+        "season": 2017,
+        "episode": 16,
+        "released": "2017-04-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1120757",
+        "title": "April 23, 2017",
+        "season": 2017,
+        "episode": 17,
+        "released": "2017-04-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1120758",
+        "title": "April 30, 2017",
+        "season": 2017,
+        "episode": 18,
+        "released": "2017-04-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1166414",
+        "title": "May 7, 2017",
+        "season": 2017,
+        "episode": 19,
+        "released": "2017-05-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1166415",
+        "title": "May 14, 2017",
+        "season": 2017,
+        "episode": 20,
+        "released": "2017-05-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1166416",
+        "title": "May 21, 2017",
+        "season": 2017,
+        "episode": 21,
+        "released": "2017-05-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1166417",
+        "title": "May 28, 2017",
+        "season": 2017,
+        "episode": 22,
+        "released": "2017-05-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1202644",
+        "title": "June 4, 2017",
+        "season": 2017,
+        "episode": 23,
+        "released": "2017-06-04",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1202645",
+        "title": "June 11, 2017",
+        "season": 2017,
+        "episode": 24,
+        "released": "2017-06-11",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1202646",
+        "title": "June 18, 2017",
+        "season": 2017,
+        "episode": 25,
+        "released": "2017-06-18",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1202647",
+        "title": "June 25, 2017",
+        "season": 2017,
+        "episode": 26,
+        "released": "2017-06-25",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226705",
+        "title": "July 2, 2017",
+        "season": 2017,
+        "episode": 27,
+        "released": "2017-07-02",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226706",
+        "title": "July 9, 2017",
+        "season": 2017,
+        "episode": 28,
+        "released": "2017-07-09",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226707",
+        "title": "July 16, 2017",
+        "season": 2017,
+        "episode": 29,
+        "released": "2017-07-16",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226708",
+        "title": "July 23, 2017",
+        "season": 2017,
+        "episode": 30,
+        "released": "2017-07-23",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226709",
+        "title": "July 30, 2017",
+        "season": 2017,
+        "episode": 31,
+        "released": "2017-07-30",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226710",
+        "title": "August 6, 2017",
+        "season": 2017,
+        "episode": 32,
+        "released": "2017-08-06",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226711",
+        "title": "August 13, 2017",
+        "season": 2017,
+        "episode": 33,
+        "released": "2017-08-13",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226712",
+        "title": "August 20, 2017",
+        "season": 2017,
+        "episode": 34,
+        "released": "2017-08-20",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226713",
+        "title": "August 27, 2017",
+        "season": 2017,
+        "episode": 35,
+        "released": "2017-08-27",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1226714",
+        "title": "September 3, 2017",
+        "season": 2017,
+        "episode": 36,
+        "released": "2017-09-03",
+        "overview": "For almost as long as there has been television, there's been \"Meet the Press.'' The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead."
+      },
+      {
+        "id": "tvmaze:1287181",
+        "title": "September 10, 2017",
+        "season": 2017,
+        "episode": 37,
+        "released": "2017-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1287182",
+        "title": "September 17, 2017",
+        "season": 2017,
+        "episode": 38,
+        "released": "2017-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1287183",
+        "title": "September 24, 2017",
+        "season": 2017,
+        "episode": 39,
+        "released": "2017-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1321504",
+        "title": "October 1, 2017",
+        "season": 2017,
+        "episode": 40,
+        "released": "2017-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1321505",
+        "title": "October 8, 2017",
+        "season": 2017,
+        "episode": 41,
+        "released": "2017-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1321506",
+        "title": "October 15, 2017",
+        "season": 2017,
+        "episode": 42,
+        "released": "2017-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1321507",
+        "title": "October 22, 2017",
+        "season": 2017,
+        "episode": 43,
+        "released": "2017-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1321508",
+        "title": "October 29, 2017",
+        "season": 2017,
+        "episode": 44,
+        "released": "2017-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1349126",
+        "title": "November 5, 2017",
+        "season": 2017,
+        "episode": 45,
+        "released": "2017-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1349127",
+        "title": "November 12, 2017",
+        "season": 2017,
+        "episode": 46,
+        "released": "2017-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1349128",
+        "title": "November 19, 2017",
+        "season": 2017,
+        "episode": 47,
+        "released": "2017-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1349129",
+        "title": "November 26, 2017",
+        "season": 2017,
+        "episode": 48,
+        "released": "2017-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1365774",
+        "title": "December 3, 2017",
+        "season": 2017,
+        "episode": 49,
+        "released": "2017-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1365775",
+        "title": "December 10, 2017",
+        "season": 2017,
+        "episode": 50,
+        "released": "2017-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1365776",
+        "title": "December 17, 2017",
+        "season": 2017,
+        "episode": 51,
+        "released": "2017-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1365777",
+        "title": "December 24, 2017",
+        "season": 2017,
+        "episode": 52,
+        "released": "2017-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1365778",
+        "title": "December 31, 2017",
+        "season": 2017,
+        "episode": 53,
+        "released": "2017-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1385765",
+        "title": "January 7, 2018",
+        "season": 2018,
+        "episode": 1,
+        "released": "2018-01-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1385766",
+        "title": "January 14, 2017",
+        "season": 2018,
+        "episode": 2,
+        "released": "2018-01-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1385767",
+        "title": "January 21, 2017",
+        "season": 2018,
+        "episode": 3,
+        "released": "2018-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1385768",
+        "title": "January 28, 2017",
+        "season": 2018,
+        "episode": 4,
+        "released": "2018-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1404174",
+        "title": "February 4, 2018",
+        "season": 2018,
+        "episode": 5,
+        "released": "2018-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1404175",
+        "title": "February 11, 2018",
+        "season": 2018,
+        "episode": 6,
+        "released": "2018-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1404176",
+        "title": "February 18, 2018",
+        "season": 2018,
+        "episode": 7,
+        "released": "2018-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1404177",
+        "title": "February 25, 2018",
+        "season": 2018,
+        "episode": 8,
+        "released": "2018-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1438603",
+        "title": "March 4, 2018",
+        "season": 2018,
+        "episode": 9,
+        "released": "2018-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1438604",
+        "title": "March 11, 2018",
+        "season": 2018,
+        "episode": 10,
+        "released": "2018-03-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1438605",
+        "title": "March 18, 2018",
+        "season": 2018,
+        "episode": 11,
+        "released": "2018-03-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1438606",
+        "title": "March 25, 2018",
+        "season": 2018,
+        "episode": 12,
+        "released": "2018-03-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1438607",
+        "title": "April 1, 2018",
+        "season": 2018,
+        "episode": 13,
+        "released": "2018-04-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1438608",
+        "title": "April 8, 2018",
+        "season": 2018,
+        "episode": 14,
+        "released": "2018-04-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1438609",
+        "title": "April 15, 2018",
+        "season": 2018,
+        "episode": 15,
+        "released": "2018-04-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1438610",
+        "title": "April 22, 2018",
+        "season": 2018,
+        "episode": 16,
+        "released": "2018-04-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1438611",
+        "title": "April 29, 2018",
+        "season": 2018,
+        "episode": 17,
+        "released": "2018-04-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1476135",
+        "title": "May 6, 2018",
+        "season": 2018,
+        "episode": 18,
+        "released": "2018-05-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1476136",
+        "title": "May 20, 2018",
+        "season": 2018,
+        "episode": 19,
+        "released": "2018-05-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1476137",
+        "title": "May 27, 2018",
+        "season": 2018,
+        "episode": 20,
+        "released": "2018-05-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1476138",
+        "title": "Jun 3, 2018",
+        "season": 2018,
+        "episode": 21,
+        "released": "2018-06-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1476140",
+        "title": "Jun 17, 2018",
+        "season": 2018,
+        "episode": 22,
+        "released": "2018-06-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1476141",
+        "title": "Jun 24, 2018",
+        "season": 2018,
+        "episode": 23,
+        "released": "2018-06-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1478566",
+        "title": "July 1, 2018",
+        "season": 2018,
+        "episode": 24,
+        "released": "2018-07-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1488594",
+        "title": "July 8, 2018",
+        "season": 2018,
+        "episode": 25,
+        "released": "2018-07-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1488595",
+        "title": "July 15, 2018",
+        "season": 2018,
+        "episode": 26,
+        "released": "2018-07-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1488597",
+        "title": "July 29, 2018",
+        "season": 2018,
+        "episode": 27,
+        "released": "2018-07-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1509330",
+        "title": "August 5, 2018",
+        "season": 2018,
+        "episode": 28,
+        "released": "2018-08-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1509327",
+        "title": "August 12, 2018",
+        "season": 2018,
+        "episode": 29,
+        "released": "2018-08-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1509328",
+        "title": "August 19, 2018",
+        "season": 2018,
+        "episode": 30,
+        "released": "2018-08-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1509329",
+        "title": "August 26, 2018",
+        "season": 2018,
+        "episode": 31,
+        "released": "2018-08-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1524043",
+        "title": "September 2, 2018",
+        "season": 2018,
+        "episode": 32,
+        "released": "2018-09-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1524044",
+        "title": "September 9, 2018",
+        "season": 2018,
+        "episode": 33,
+        "released": "2018-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1524045",
+        "title": "September 16, 2018",
+        "season": 2018,
+        "episode": 34,
+        "released": "2018-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1524046",
+        "title": "September 23, 2018",
+        "season": 2018,
+        "episode": 35,
+        "released": "2018-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1538817",
+        "title": "October 7, 2018",
+        "season": 2018,
+        "episode": 36,
+        "released": "2018-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1542404",
+        "title": "October 14, 2018",
+        "season": 2018,
+        "episode": 37,
+        "released": "2018-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1542405",
+        "title": "October 21, 2018",
+        "season": 2018,
+        "episode": 38,
+        "released": "2018-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1542406",
+        "title": "October 28, 2018",
+        "season": 2018,
+        "episode": 39,
+        "released": "2018-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1567174",
+        "title": "November 4, 2018",
+        "season": 2018,
+        "episode": 40,
+        "released": "2018-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1567175",
+        "title": "November 11, 2018",
+        "season": 2018,
+        "episode": 41,
+        "released": "2018-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1567176",
+        "title": "November 18, 2018",
+        "season": 2018,
+        "episode": 42,
+        "released": "2018-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1567177",
+        "title": "November 25, 2018",
+        "season": 2018,
+        "episode": 43,
+        "released": "2018-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1574257",
+        "title": "December 2, 2018",
+        "season": 2018,
+        "episode": 44,
+        "released": "2018-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1574258",
+        "title": "December 9, 2018",
+        "season": 2018,
+        "episode": 45,
+        "released": "2018-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1579146",
+        "title": "December 16, 2018",
+        "season": 2018,
+        "episode": 46,
+        "released": "2018-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1583183",
+        "title": "December 23, 2018",
+        "season": 2018,
+        "episode": 47,
+        "released": "2018-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1584893",
+        "title": "December 30, 2018",
+        "season": 2018,
+        "episode": 48,
+        "released": "2018-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1584894",
+        "title": "January 6, 2019",
+        "season": 2019,
+        "episode": 1,
+        "released": "2019-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1591049",
+        "title": "January 13, 2019",
+        "season": 2019,
+        "episode": 2,
+        "released": "2019-01-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1591050",
+        "title": "January 20, 2019",
+        "season": 2019,
+        "episode": 3,
+        "released": "2019-01-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1594696",
+        "title": "January 27, 2019",
+        "season": 2019,
+        "episode": 4,
+        "released": "2019-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1598893",
+        "title": "February 3, 2019",
+        "season": 2019,
+        "episode": 5,
+        "released": "2019-02-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1603784",
+        "title": "February 10, 2019",
+        "season": 2019,
+        "episode": 6,
+        "released": "2019-02-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1607798",
+        "title": "February 17, 2019",
+        "season": 2019,
+        "episode": 7,
+        "released": "2019-02-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1612412",
+        "title": "February 24, 2019",
+        "season": 2019,
+        "episode": 8,
+        "released": "2019-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1615086",
+        "title": "March 3, 2019",
+        "season": 2019,
+        "episode": 9,
+        "released": "2019-03-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1618003",
+        "title": "March 10, 2019",
+        "season": 2019,
+        "episode": 10,
+        "released": "2019-03-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1621072",
+        "title": "March 17, 2019",
+        "season": 2019,
+        "episode": 11,
+        "released": "2019-03-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1625540",
+        "title": "March 24, 2019",
+        "season": 2019,
+        "episode": 12,
+        "released": "2019-03-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1637178",
+        "title": "March 31, 2019",
+        "season": 2019,
+        "episode": 13,
+        "released": "2019-03-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1637179",
+        "title": "April 7, 2019",
+        "season": 2019,
+        "episode": 14,
+        "released": "2019-04-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1641333",
+        "title": "April 14, 2019",
+        "season": 2019,
+        "episode": 15,
+        "released": "2019-04-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1641334",
+        "title": "April 21, 2019",
+        "season": 2019,
+        "episode": 16,
+        "released": "2019-04-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1647050",
+        "title": "April 28, 2019",
+        "season": 2019,
+        "episode": 17,
+        "released": "2019-04-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1647420",
+        "title": "May 5, 2019",
+        "season": 2019,
+        "episode": 18,
+        "released": "2019-05-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1655665",
+        "title": "May 19, 2019",
+        "season": 2019,
+        "episode": 19,
+        "released": "2019-05-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1658830",
+        "title": "May 26, 2019",
+        "season": 2019,
+        "episode": 20,
+        "released": "2019-05-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1664490",
+        "title": "June 2, 2019",
+        "season": 2019,
+        "episode": 21,
+        "released": "2019-06-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1670923",
+        "title": "June 16, 2019",
+        "season": 2019,
+        "episode": 22,
+        "released": "2019-06-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1674365",
+        "title": "June 23, 2019",
+        "season": 2019,
+        "episode": 23,
+        "released": "2019-06-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1674366",
+        "title": "June 30, 2019",
+        "season": 2019,
+        "episode": 24,
+        "released": "2019-06-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1678559",
+        "title": "July 7, 2019",
+        "season": 2019,
+        "episode": 25,
+        "released": "2019-07-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1679364",
+        "title": "July 14, 2019",
+        "season": 2019,
+        "episode": 26,
+        "released": "2019-07-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1689468",
+        "title": "July 28, 2019",
+        "season": 2019,
+        "episode": 27,
+        "released": "2019-07-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1692073",
+        "title": "August 4, 2019",
+        "season": 2019,
+        "episode": 28,
+        "released": "2019-08-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1692074",
+        "title": "August 11, 2019",
+        "season": 2019,
+        "episode": 29,
+        "released": "2019-08-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1700523",
+        "title": "August 18, 2019",
+        "season": 2019,
+        "episode": 30,
+        "released": "2019-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1700524",
+        "title": "August 25, 2019",
+        "season": 2019,
+        "episode": 31,
+        "released": "2019-08-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1704708",
+        "title": "September 1, 2019",
+        "season": 2019,
+        "episode": 32,
+        "released": "2019-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1708846",
+        "title": "September 8, 2019",
+        "season": 2019,
+        "episode": 33,
+        "released": "2019-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1716795",
+        "title": "September 15, 2019",
+        "season": 2019,
+        "episode": 34,
+        "released": "2019-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1716796",
+        "title": "September 22, 2019",
+        "season": 2019,
+        "episode": 35,
+        "released": "2019-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1723504",
+        "title": "September 29, 2019",
+        "season": 2019,
+        "episode": 36,
+        "released": "2019-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1723505",
+        "title": "October 6, 2019",
+        "season": 2019,
+        "episode": 37,
+        "released": "2019-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1729670",
+        "title": "October 13, 2019",
+        "season": 2019,
+        "episode": 38,
+        "released": "2019-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1736357",
+        "title": "October 20, 2019",
+        "season": 2019,
+        "episode": 39,
+        "released": "2019-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1742953",
+        "title": "October 27, 2019",
+        "season": 2019,
+        "episode": 40,
+        "released": "2019-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748122",
+        "title": "November 3, 2019",
+        "season": 2019,
+        "episode": 41,
+        "released": "2019-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1751598",
+        "title": "November 10, 2019",
+        "season": 2019,
+        "episode": 42,
+        "released": "2019-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1755180",
+        "title": "November 17, 2019",
+        "season": 2019,
+        "episode": 43,
+        "released": "2019-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1777082",
+        "title": "November 24, 2019",
+        "season": 2019,
+        "episode": 44,
+        "released": "2019-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1777083",
+        "title": "December 1, 2019",
+        "season": 2019,
+        "episode": 45,
+        "released": "2019-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1777084",
+        "title": "December 8, 2019",
+        "season": 2019,
+        "episode": 46,
+        "released": "2019-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1777085",
+        "title": "December 15, 2019",
+        "season": 2019,
+        "episode": 47,
+        "released": "2019-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1779460",
+        "title": "December 22, 2019",
+        "season": 2019,
+        "episode": 48,
+        "released": "2019-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1785345",
+        "title": "December 29, 2019",
+        "season": 2019,
+        "episode": 49,
+        "released": "2019-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1792833",
+        "title": "January 5, 2020",
+        "season": 2020,
+        "episode": 1,
+        "released": "2020-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1792834",
+        "title": "January 12, 2020",
+        "season": 2020,
+        "episode": 2,
+        "released": "2020-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1792835",
+        "title": "January 19, 2020",
+        "season": 2020,
+        "episode": 3,
+        "released": "2020-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1792836",
+        "title": "January 26, 2020",
+        "season": 2020,
+        "episode": 4,
+        "released": "2020-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1795626",
+        "title": "February 2, 2020",
+        "season": 2020,
+        "episode": 5,
+        "released": "2020-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1800765",
+        "title": "February 9, 2020",
+        "season": 2020,
+        "episode": 6,
+        "released": "2020-02-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1801060",
+        "title": "February 16, 2020",
+        "season": 2020,
+        "episode": 7,
+        "released": "2020-02-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1807701",
+        "title": "February 23, 2020",
+        "season": 2020,
+        "episode": 8,
+        "released": "2020-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1814878",
+        "title": "March 1, 2020",
+        "season": 2020,
+        "episode": 9,
+        "released": "2020-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1814879",
+        "title": "March 8, 2020",
+        "season": 2020,
+        "episode": 10,
+        "released": "2020-03-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1818130",
+        "title": "March 15, 2020",
+        "season": 2020,
+        "episode": 11,
+        "released": "2020-03-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1818131",
+        "title": "March 22, 2020",
+        "season": 2020,
+        "episode": 12,
+        "released": "2020-03-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1822521",
+        "title": "March 29, 2020",
+        "season": 2020,
+        "episode": 13,
+        "released": "2020-03-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1827159",
+        "title": "April 5, 2020",
+        "season": 2020,
+        "episode": 14,
+        "released": "2020-04-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1833914",
+        "title": "April 12, 2020",
+        "season": 2020,
+        "episode": 15,
+        "released": "2020-04-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1844602",
+        "title": "April 19, 2020",
+        "season": 2020,
+        "episode": 16,
+        "released": "2020-04-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1844603",
+        "title": "April 26, 2020",
+        "season": 2020,
+        "episode": 17,
+        "released": "2020-04-26",
+        "overview": "Dr. Deborah Birx, Gov. Phil Murphy (D-NJ), Dr. Michael Osterholm, Director, Center for Infectious Disease Research &amp; Policy and Former Georgia House Minority Leader Stacey Abrams."
+      },
+      {
+        "id": "tvmaze:1863220",
+        "title": "May 3, 2020",
+        "season": 2020,
+        "episode": 18,
+        "released": "2020-05-03",
+        "overview": "Dr. Tom Inglesby, Johns Hopkins Bloomberg School of Public Health; Michigan Chief Deputy Dir. for Health Dr. Joneigh Khaldun; Alabama State Health Officer Dr. Scott Harris and Sir John Bell, Regius Chair of Medicine at the University of Oxford, UK"
+      },
+      {
+        "id": "tvmaze:1863221",
+        "title": "May 10, 2020",
+        "season": 2020,
+        "episode": 19,
+        "released": "2020-05-10",
+        "overview": "Sen. Lamar Alexander (R-TN), Dr. Michael Osterholm University of Minnesota, Dr. Jeffrey Shaman Columbia University, Robert F. Smith Founder &amp; CEO, Vista Equity Partners."
+      },
+      {
+        "id": "tvmaze:1863669",
+        "title": "May 17, 2020",
+        "season": 2020,
+        "episode": 20,
+        "released": "2020-05-17",
+        "overview": "Peter Navarro, Director, Office of Trade and Manufacturing Policy; Dr. Tom Inglesby, Clint Watts, Peter Alexander, Yamiche Alcindor and Anna Palmer."
+      },
+      {
+        "id": "tvmaze:1869995",
+        "title": "May 24, 2020",
+        "season": 2020,
+        "episode": 21,
+        "released": "2020-05-24",
+        "overview": "National Security Adviser Robert O'Brien, Gov. Mike DeWine (R-Ohio), Dr. Peter Hotez, Dr. Dan Barouch, Andrea Mitchell, Jeh Johnson and O. Kay Henderson"
+      },
+      {
+        "id": "tvmaze:1875688",
+        "title": "May 31, 2020",
+        "season": 2020,
+        "episode": 22,
+        "released": "2020-05-31",
+        "overview": "Rep. Val Demings (D-FL), Mayor Keisha Lance Bottoms (D) Atlanta, Mayor Muriel Bowser (D) Washington, DC, Shaquille Brewster, Blayne Alexander, Garrett Haake and Priscilla Thompson."
+      },
+      {
+        "id": "tvmaze:1890060",
+        "title": "June 7, 2020",
+        "season": 2020,
+        "episode": 23,
+        "released": "2020-06-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1890061",
+        "title": "June 14, 2020",
+        "season": 2020,
+        "episode": 24,
+        "released": "2020-06-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1890062",
+        "title": "June 21, 2020",
+        "season": 2020,
+        "episode": 25,
+        "released": "2020-06-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1895492",
+        "title": "June 28, 2020",
+        "season": 2020,
+        "episode": 26,
+        "released": "2020-06-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1896472",
+        "title": "July 5, 2020",
+        "season": 2020,
+        "episode": 27,
+        "released": "2020-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1898494",
+        "title": "July 12, 2020",
+        "season": 2020,
+        "episode": 28,
+        "released": "2020-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1902444",
+        "title": "July 19, 2020",
+        "season": 2020,
+        "episode": 29,
+        "released": "2020-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1908327",
+        "title": "August 2, 2020",
+        "season": 2020,
+        "episode": 30,
+        "released": "2020-08-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1912672",
+        "title": "August 9, 2020",
+        "season": 2020,
+        "episode": 31,
+        "released": "2020-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1916448",
+        "title": "August 16, 2020",
+        "season": 2020,
+        "episode": 32,
+        "released": "2020-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1916449",
+        "title": "August 23, 2020",
+        "season": 2020,
+        "episode": 33,
+        "released": "2020-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1920772",
+        "title": "August 30, 2020",
+        "season": 2020,
+        "episode": 34,
+        "released": "2020-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1926918",
+        "title": "September 6, 2020",
+        "season": 2020,
+        "episode": 35,
+        "released": "2020-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1926919",
+        "title": "September 13, 2020",
+        "season": 2020,
+        "episode": 36,
+        "released": "2020-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1934540",
+        "title": "September 20, 2020",
+        "season": 2020,
+        "episode": 37,
+        "released": "2020-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1934541",
+        "title": "September 27, 2020",
+        "season": 2020,
+        "episode": 38,
+        "released": "2020-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1940840",
+        "title": "October 4, 2020",
+        "season": 2020,
+        "episode": 39,
+        "released": "2020-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1948481",
+        "title": "October 11, 2020",
+        "season": 2020,
+        "episode": 40,
+        "released": "2020-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1957761",
+        "title": "October 18, 2020",
+        "season": 2020,
+        "episode": 41,
+        "released": "2020-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1957762",
+        "title": "October 25, 2020",
+        "season": 2020,
+        "episode": 42,
+        "released": "2020-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1963697",
+        "title": "November 1, 2020",
+        "season": 2020,
+        "episode": 43,
+        "released": "2020-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1963698",
+        "title": "November 8, 2020",
+        "season": 2020,
+        "episode": 44,
+        "released": "2020-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1974548",
+        "title": "November 15, 2020",
+        "season": 2020,
+        "episode": 45,
+        "released": "2020-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1974549",
+        "title": "November 22, 2020",
+        "season": 2020,
+        "episode": 46,
+        "released": "2020-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1974844",
+        "title": "November 29, 2020",
+        "season": 2020,
+        "episode": 47,
+        "released": "2020-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1987092",
+        "title": "December 6, 2020",
+        "season": 2020,
+        "episode": 48,
+        "released": "2020-12-06",
+        "overview": "Exclusive interviews with Dr. Deborah Birx, White House Coronavirus Response Coordinator and Sen. Joe Manchin (D-W.Va.). Plus, Gabriel Sterling, Voting System Implementation Manager for the State of Georgia, explains why he went public with his concerns over intimidation. Steve Kornacki, Kimberly Atkins, Jeff Mason and Danielle Pletka join the Meet the Press roundtable to discuss President Trump's campaign rally in Georgia."
+      },
+      {
+        "id": "tvmaze:1987093",
+        "title": "December 13, 2020",
+        "season": 2020,
+        "episode": 49,
+        "released": "2020-12-13",
+        "overview": "In an exclusive interview with Meet the Press, Dr. Francis Collins, Director, National Institutes of Health, talks to Chuck Todd about the vaccine rollout. Sen. Chris Coons (D-Del.) talks about negotiations in Congress over a Covid relief bill, during an exclusive interview with Meet the Press. In an exclusive interview with Meet the Press, retiring Sen. Lamar Alexander (R-Tenn.) talks to Chuck Todd about President Trump's efforts to overturn the election and the upcoming electoral college vote. Matt Bai, Lanhee Chen and Kristen Welker join the Meet the Press roundtable to discuss the president's court loses as he continues to attempt to overturn the election."
+      },
+      {
+        "id": "tvmaze:1987094",
+        "title": "December 20, 2020",
+        "season": 2020,
+        "episode": 50,
+        "released": "2020-12-20",
+        "overview": "Dr. Vivek Murthy, U.S. Surgeon General nominee, joins Meet the Press for an exclusive interview to talk about vaccine distribution. Sen. Mitt Romney (R-Utah) reacts to the widespread hack of government institutions and businesses. In an exclusive joint interview, CDC Whistleblowers Kyle McGowan and Amanda Campbell describe how the Trump administration became involved in public health guidance. Hallie Jackson, Yamiche Alcindor and Rich Lowry join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:1990413",
+        "title": "December 27, 2020",
+        "season": 2020,
+        "episode": 51,
+        "released": "2020-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1997423",
+        "title": "January 3, 2021",
+        "season": 2021,
+        "episode": 1,
+        "released": "2021-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2013412",
+        "title": "January 10, 2021",
+        "season": 2021,
+        "episode": 2,
+        "released": "2021-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2013413",
+        "title": "January 17, 2021",
+        "season": 2021,
+        "episode": 3,
+        "released": "2021-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2013414",
+        "title": "January 24, 2021",
+        "season": 2021,
+        "episode": 4,
+        "released": "2021-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2022304",
+        "title": "January 31, 2021",
+        "season": 2021,
+        "episode": 5,
+        "released": "2021-01-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2029900",
+        "title": "February 7, 2021",
+        "season": 2021,
+        "episode": 6,
+        "released": "2021-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2029901",
+        "title": "February 14, 2021",
+        "season": 2021,
+        "episode": 7,
+        "released": "2021-02-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2038970",
+        "title": "February 21, 2021",
+        "season": 2021,
+        "episode": 8,
+        "released": "2021-02-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2038971",
+        "title": "February 28, 2021",
+        "season": 2021,
+        "episode": 9,
+        "released": "2021-02-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2041009",
+        "title": "March 7, 2021",
+        "season": 2021,
+        "episode": 10,
+        "released": "2021-03-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2041010",
+        "title": "March 14, 2021",
+        "season": 2021,
+        "episode": 11,
+        "released": "2021-03-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2041011",
+        "title": "March 21, 2021",
+        "season": 2021,
+        "episode": 12,
+        "released": "2021-03-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2041012",
+        "title": "March 28, 2021",
+        "season": 2021,
+        "episode": 13,
+        "released": "2021-03-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2055898",
+        "title": "April 4, 2021",
+        "season": 2021,
+        "episode": 14,
+        "released": "2021-04-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2063917",
+        "title": "April 11, 2021",
+        "season": 2021,
+        "episode": 15,
+        "released": "2021-04-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2118000",
+        "title": "April 18, 2021",
+        "season": 2021,
+        "episode": 16,
+        "released": "2021-04-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2118001",
+        "title": "April 25, 2021",
+        "season": 2021,
+        "episode": 17,
+        "released": "2021-04-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2118002",
+        "title": "May 2, 2021",
+        "season": 2021,
+        "episode": 18,
+        "released": "2021-05-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2118003",
+        "title": "May 9, 2021",
+        "season": 2021,
+        "episode": 19,
+        "released": "2021-05-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2118004",
+        "title": "May 16, 2021",
+        "season": 2021,
+        "episode": 20,
+        "released": "2021-05-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2118005",
+        "title": "May 30, 2021",
+        "season": 2021,
+        "episode": 21,
+        "released": "2021-05-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2118006",
+        "title": "June 6, 2021",
+        "season": 2021,
+        "episode": 22,
+        "released": "2021-06-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2118007",
+        "title": "June 20, 2021",
+        "season": 2021,
+        "episode": 23,
+        "released": "2021-06-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2118953",
+        "title": "June 27, 2021",
+        "season": 2021,
+        "episode": 24,
+        "released": "2021-06-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2126243",
+        "title": "July 4, 2021",
+        "season": 2021,
+        "episode": 25,
+        "released": "2021-07-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2126244",
+        "title": "July 11, 2021",
+        "season": 2021,
+        "episode": 26,
+        "released": "2021-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2134364",
+        "title": "August 8, 2021",
+        "season": 2021,
+        "episode": 27,
+        "released": "2021-08-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2150266",
+        "title": "August 15, 2021",
+        "season": 2021,
+        "episode": 28,
+        "released": "2021-08-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2150267",
+        "title": "Aug. 22 — Jake Sullivan, Rep. Liz Cheney & Sec. Miguel Cardona",
+        "season": 2021,
+        "episode": 29,
+        "released": "2021-08-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2156753",
+        "title": "Aug. 29 — Sec. Antony Blinken, H.R. McMaster & Dr. Anthony Fauci",
+        "season": 2021,
+        "episode": 30,
+        "released": "2021-08-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2164268",
+        "title": "Sept. 5 — Gov. Larry Hogan, Gov. Andy Beshear, Claire McCaskill and Barbara Comstock",
+        "season": 2021,
+        "episode": 31,
+        "released": "2021-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2164269",
+        "title": "Sept. 12 — Dr. Vivek Murthy, Gov. Asa Hutchinson & Sen. Joe Manchin",
+        "season": 2021,
+        "episode": 32,
+        "released": "2021-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2171704",
+        "title": "Sept. 19 — Dr. Anthony Fauci & Sen. Bill Cassidy",
+        "season": 2021,
+        "episode": 33,
+        "released": "2021-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2177290",
+        "title": "Sept. 26 — Sen. Cory Booker, DHS Sec. Alejandro Mayorkas",
+        "season": 2021,
+        "episode": 34,
+        "released": "2021-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2185244",
+        "title": "Oct. 3 — Sen. Bernie Sanders & Cedric Richmond",
+        "season": 2021,
+        "episode": 35,
+        "released": "2021-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2192849",
+        "title": "Oct. 10 – Sen. Sheldon Whitehouse, Stephanie Grisham & Nick Clegg",
+        "season": 2021,
+        "episode": 36,
+        "released": "2021-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2201283",
+        "title": "Oct. 17 – Sec. of Transportation Pete Buttigieg & Gov. Asa Hutchinson",
+        "season": 2021,
+        "episode": 37,
+        "released": "2021-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2201284",
+        "title": "Oct. 24 — CDC Director Rochelle Walensky, Sen. King & Sen. Blunt",
+        "season": 2021,
+        "episode": 38,
+        "released": "2021-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2203890",
+        "title": "Oct. 31 — Sec. Granholm, fmr. Gov. McAuliffe, Georgia Sec. State Raffensperger",
+        "season": 2021,
+        "episode": 39,
+        "released": "2021-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2217447",
+        "title": "Nov. 7 — Ron Klain, Gov. Phil Murphy & Sen. Rick Scott",
+        "season": 2021,
+        "episode": 40,
+        "released": "2021-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2217448",
+        "title": "Nov. 14 — Gov. Chris Sununu, Brian Deese & Rep. Adam Schiff",
+        "season": 2021,
+        "episode": 41,
+        "released": "2021-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2217449",
+        "title": "Nov. 21 – Sec. Pete Buttigieg, Sen. Jon Tester and Sen. Kevin Cramer",
+        "season": 2021,
+        "episode": 42,
+        "released": "2021-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2227805",
+        "title": "Nov. 28 – Dr. Anthony Fauci, Gov. Tate Reeves and Michael Cohen",
+        "season": 2021,
+        "episode": 43,
+        "released": "2021-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2229558",
+        "title": "Dec. 5 — Sen. Amy Klobuchar, Sen. Mike Braun and NIH Director Francis Collins",
+        "season": 2021,
+        "episode": 44,
+        "released": "2021-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2240556",
+        "title": "Dec. 12 — Sec. Blinken, Gov. Beshear & Sen. Marshall",
+        "season": 2021,
+        "episode": 45,
+        "released": "2021-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2240557",
+        "title": "Dec. 19 — Dr. Fauci, Gov. Polis",
+        "season": 2021,
+        "episode": 46,
+        "released": "2021-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2240558",
+        "title": "Dec. 26 — Nikole Hannah-Jones, Rep. Byron Donalds (R-Fla.), Jelani Cobb, Brenda Sheridan, Joshua Johnson, Keith Mayes",
+        "season": 2021,
+        "episode": 47,
+        "released": "2021-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2244263",
+        "title": "Jan. 2 — Rep. Bennie Thompson (D-Miss.), Rep. Peter Meijer (R-Mich.), Fiona Hill, Barton Gellman",
+        "season": 2022,
+        "episode": 1,
+        "released": "2022-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2253808",
+        "title": "Jan. 9 — Mayor Lightfoot, Rep. Kinzinger, Dr. Emanuel & Dr. Gounder",
+        "season": 2022,
+        "episode": 2,
+        "released": "2022-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2253809",
+        "title": "Jan 16 — Sen. Romney, Rep. Clyburn, James Carville",
+        "season": 2022,
+        "episode": 3,
+        "released": "2022-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2265233",
+        "title": "Jan. 23 — Sec. Blinken, Sen. Sanders, Rep. Slotkin",
+        "season": 2022,
+        "episode": 4,
+        "released": "2022-01-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2265234",
+        "title": "Jan. 30 — Sen. Durbin, Sen. Portman, Gov. Hutchinson & Gov. Murphy",
+        "season": 2022,
+        "episode": 5,
+        "released": "2022-01-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2272589",
+        "title": "Feb. 6 — Jake Sullivan & Marc Short",
+        "season": 2022,
+        "episode": 6,
+        "released": "2022-02-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2272590",
+        "title": "Feb. 20 — Sec. Blinken, Fmr Amb. Taylor, Mayor Breed",
+        "season": 2022,
+        "episode": 7,
+        "released": "2022-02-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2286536",
+        "title": "Feb. 27 — U.N. Amb. Thomas-Greenfield, Sen. Warner & Sen. Portman",
+        "season": 2022,
+        "episode": 8,
+        "released": "2022-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2286537",
+        "title": "March 6 — Sec. Blinken, Sen. Joe Manchin, Nikki Haley, James Stavridis & Fiona Hill",
+        "season": 2022,
+        "episode": 9,
+        "released": "2022-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2295484",
+        "title": "March 13 — Jake Sullivan, William Barr, Marie Yovanovitch",
+        "season": 2022,
+        "episode": 10,
+        "released": "2022-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2302173",
+        "title": "March 20 — NATO Sec. Gen. Stoltenberg, Sen. Murphy, Rep. Cheney",
+        "season": 2022,
+        "episode": 11,
+        "released": "2022-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2302174",
+        "title": "March 27 — Ukrainian Amb. Oksana Markarova, Sen. Portman and Sen. Booker",
+        "season": 2022,
+        "episode": 12,
+        "released": "2022-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2308542",
+        "title": "April 3 — Sec. Blinken, Hillary Clinton, Masha Gessen",
+        "season": 2022,
+        "episode": 13,
+        "released": "2022-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2308543",
+        "title": "April 10 — Dmytro Kuleba, Jake Sullivan & Larry Summers",
+        "season": 2022,
+        "episode": 14,
+        "released": "2022-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2311464",
+        "title": "April 17 — Austrian Chancellor Nehammer, Dr. Jha & Rep. Upton",
+        "season": 2022,
+        "episode": 15,
+        "released": "2022-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2320426",
+        "title": "April 24 — President Zelenskyy's Top Adviser Igor Zhovkva, Deputy National Security Adviser Jon Finer, Sens. Roy Blunt (R-Mo.) & Elizabeth Warren (D-Mass.)",
+        "season": 2022,
+        "episode": 16,
+        "released": "2022-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2320427",
+        "title": "May 1 — Sen. Menendez, Sec. Mayorkas, Jonathan Martin & Alex Burns",
+        "season": 2022,
+        "episode": 17,
+        "released": "2022-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2326225",
+        "title": "May 8 — Gov. Tate Reeves, Dana Nessel, Jennifer Mascott & Neal Katyal",
+        "season": 2022,
+        "episode": 18,
+        "released": "2022-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2326226",
+        "title": "May 15 — Buffalo Mayor Byron Brown, Gov. Kathy Hochul, Sen. Bernie Sanders",
+        "season": 2022,
+        "episode": 19,
+        "released": "2022-05-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2337271",
+        "title": "May 29 — Sen. Cory Booker, Texas State Sen. Roland Gutierrez, PatMcCrory, Cedric Alexander, Stephanie Rawlings-Blake and Tony Montalto",
+        "season": 2022,
+        "episode": 20,
+        "released": "2022-05-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2340259",
+        "title": "June 12 — Rep. Elaine Luria, Nick Quested and Rep. Don Bacon",
+        "season": 2022,
+        "episode": 21,
+        "released": "2022-06-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2350797",
+        "title": "June 19 — Jan. 6th Committee Member Rep. Jamie Raskin, fmr. Treasury Sec. Larry Summers",
+        "season": 2022,
+        "episode": 22,
+        "released": "2022-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2356507",
+        "title": "June 26 — Rep. Ocasio-Cortez, Gov. Hutchinson, Rep. Schiff",
+        "season": 2022,
+        "episode": 23,
+        "released": "2022-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2356508",
+        "title": "July 3 — Rep. Zoe Lofgren, Sec. Xavier Becerra, Danny Cevallos",
+        "season": 2022,
+        "episode": 24,
+        "released": "2022-07-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2359418",
+        "title": "July 10 — Sec. Raimondo, Gov. Hogan, Rep. Murphy, Kara Swisher",
+        "season": 2022,
+        "episode": 25,
+        "released": "2022-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2363001",
+        "title": "July 24 – Former Vice Pres. Al Gore, Rep. Elaine Luria, Treasury Sec. Janet Yellen",
+        "season": 2022,
+        "episode": 26,
+        "released": "2022-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2370302",
+        "title": "July 31 — Sen. Joe Manchin, Gov. Andy Beshear and Jon Stewart",
+        "season": 2022,
+        "episode": 27,
+        "released": "2022-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2370303",
+        "title": "August 7 – Rep. Nancy Mace, Stacey Abrams, Sen. Chris Van Hollen",
+        "season": 2022,
+        "episode": 28,
+        "released": "2022-08-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2373538",
+        "title": "August 14 — Sen. Amy Klobuchar, Sen. Mike Rounds, Chuck Rosenberg and Andrew Weissmann",
+        "season": 2022,
+        "episode": 29,
+        "released": "2022-08-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2378108",
+        "title": "August 21 — Rep. Sean Patrick Maloney, Rep. Andy Barr, Sec. Cardona",
+        "season": 2022,
+        "episode": 30,
+        "released": "2022-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2378109",
+        "title": "August 28 — Rep. Kinzinger, NASA Administrator Bill Nelson, Adm. Stavridis & Amb. Michael McFaul",
+        "season": 2022,
+        "episode": 31,
+        "released": "2022-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397499",
+        "title": "September 4 — Policing in America, special edition",
+        "season": 2022,
+        "episode": 32,
+        "released": "2022-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397500",
+        "title": "Sept. 11 — Vice President Kamala Harris",
+        "season": 2022,
+        "episode": 33,
+        "released": "2022-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397501",
+        "title": "Sept. 18 — Sen. Dick Durbin, Joe O'Dea, Geoffrey Berman",
+        "season": 2022,
+        "episode": 34,
+        "released": "2022-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397502",
+        "title": "Sept. 25 — Jake Sullivan, Rep. Jamie Raskin, Rep. Nancy Mace",
+        "season": 2022,
+        "episode": 35,
+        "released": "2022-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2413155",
+        "title": "Oct. 2 — Sen. Rick Scott, Gov. Roy Cooper and NATO Sec. Gen. Jens Stoltenberg",
+        "season": 2022,
+        "episode": 36,
+        "released": "2022-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2413156",
+        "title": "Oct. 9 — Rep. Elissa Slotkin and Rep. Don Bacon",
+        "season": 2022,
+        "episode": 37,
+        "released": "2022-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2413157",
+        "title": "October 16 –– Sen. Bernie Sanders, Evan McMullin, Rep. Stephanie Murphy",
+        "season": 2022,
+        "episode": 38,
+        "released": "2022-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2416555",
+        "title": "Oct. 23 — Rep. Liz Cheney (R-Wyo.)",
+        "season": 2022,
+        "episode": 39,
+        "released": "2022-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2423501",
+        "title": "October 30 — Sen. Amy Klobuchar and Gov. Chris Sununu",
+        "season": 2022,
+        "episode": 40,
+        "released": "2022-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2423502",
+        "title": "November 6 – Rep. Maloney; Sen. Scott; 75th anniversary",
+        "season": 2022,
+        "episode": 41,
+        "released": "2022-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2436144",
+        "title": "November 13 — Sen. Bill Cassidy, Sen. Elizabeth Warren and Anita Dunn",
+        "season": 2022,
+        "episode": 42,
+        "released": "2022-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2436145",
+        "title": "November 20 – Former Vice Pres. Mike Pence",
+        "season": 2022,
+        "episode": 43,
+        "released": "2022-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2436146",
+        "title": "November 27 — Gov. Jared Polis, Rep. James Comer, Dr. Anthony Fauci",
+        "season": 2022,
+        "episode": 44,
+        "released": "2022-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2450529",
+        "title": "December 4 — Benjamin Netanyahu, Rep. Katherine Clark",
+        "season": 2022,
+        "episode": 45,
+        "released": "2022-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2450530",
+        "title": "December 11 — Sen. Jon Tester and Preet Bharara",
+        "season": 2022,
+        "episode": 46,
+        "released": "2022-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2450531",
+        "title": "December 18 — Sen. Sherrod Brown, Gov. Asa Hutchinson, LA Mayor Karen Bass",
+        "season": 2022,
+        "episode": 47,
+        "released": "2022-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2452359",
+        "title": "Dec. 25 — Looking back at 75 years of ‘Meet the Press'",
+        "season": 2022,
+        "episode": 48,
+        "released": "2022-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2460694",
+        "title": "Jan. 1 — Frances Haugen, Sen. Amy Klobuchar, Rep. Mike Gallagher",
+        "season": 2023,
+        "episode": 1,
+        "released": "2023-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2460695",
+        "title": "Jan. 8 — Reps. James Comer, Dan Bishop and Hakeem Jeffries",
+        "season": 2023,
+        "episode": 2,
+        "released": "2023-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2473474",
+        "title": "Jan. 15 — Biden admin. prepares for political consequences of classified docs",
+        "season": 2023,
+        "episode": 3,
+        "released": "2023-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2473475",
+        "title": "Jan. 22 — Sen. Joe Manchin and Rep. Nancy Mace",
+        "season": 2023,
+        "episode": 4,
+        "released": "2023-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2487771",
+        "title": "Jan. 29 — Rep. Jim Jordan and fmr. Defense Sec. Robert Gates",
+        "season": 2023,
+        "episode": 5,
+        "released": "2023-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2487772",
+        "title": "Feb. 5 — Rep. Mike Turner, Sen. Cory Booker, and Transportation Sec. Pete Buttigieg",
+        "season": 2023,
+        "episode": 6,
+        "released": "2023-02-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2487773",
+        "title": "Feb. 12 — Rep. Jim Himes, Govs. Phil Murphy and Spencer Cox",
+        "season": 2023,
+        "episode": 7,
+        "released": "2023-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2489512",
+        "title": "Feb. 19 — Sec. Antony Blinken and fmr. Gov. Larry Hogan",
+        "season": 2023,
+        "episode": 8,
+        "released": "2023-02-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2496818",
+        "title": "Feb. 26 — National Security Adviser Jake Sullivan and Sen. Dan Sullivan",
+        "season": 2023,
+        "episode": 9,
+        "released": "2023-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2500510",
+        "title": "Mar. 5 — Reps. Mike Turner and Jim Himes, Gov. Chris Sununu",
+        "season": 2023,
+        "episode": 10,
+        "released": "2023-03-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2500511",
+        "title": "Mar. 12 — Sens. Bob Menendez and Kevin Cramer; Sheila Bair",
+        "season": 2023,
+        "episode": 11,
+        "released": "2023-03-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2505019",
+        "title": "Mar. 19 — Sens. Elizabeth Warren and Mike Rounds",
+        "season": 2023,
+        "episode": 12,
+        "released": "2023-03-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2524477",
+        "title": "Mar. 26 — Joe Tacopina, Preet Bharara and Gov. Spencer Cox",
+        "season": 2023,
+        "episode": 13,
+        "released": "2023-03-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2524478",
+        "title": "Apr. 2 — Cyrus Vance; Sen. Joe Manchin; NCAA Pres. Charlie Baker",
+        "season": 2023,
+        "episode": 14,
+        "released": "2023-04-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2524479",
+        "title": "Apr. 9 – Former state Reps. Justin Jones and Justin Pearson; James Trusty; Rep. Mike McCaul",
+        "season": 2023,
+        "episode": 15,
+        "released": "2023-04-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2524480",
+        "title": "Apr. 16 – Sens. Baldwin, Cassidy and Israeli PM Benjamin Netanyahu",
+        "season": 2023,
+        "episode": 16,
+        "released": "2023-04-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543680",
+        "title": "Apr. 23 — Gov. Chris Sununu and Sen. Dick Durbin",
+        "season": 2023,
+        "episode": 17,
+        "released": "2023-04-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543681",
+        "title": "Apr. 30 — Sec. Mayorkas, Vivek Ramaswamy and Luke Russert",
+        "season": 2023,
+        "episode": 18,
+        "released": "2023-04-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543682",
+        "title": "May 7 — Minority Leader Hakeem Jeffries and fmr. Gov. Asa Hutchinson",
+        "season": 2023,
+        "episode": 19,
+        "released": "2023-05-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543683",
+        "title": "May 14 — Sen. Chris Murphy, fmr. Rep. Will Hurd and Russell Moore",
+        "season": 2023,
+        "episode": 20,
+        "released": "2023-05-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2559892",
+        "title": "May 21 — Gov. Roy Cooper, Rep. Byron Donalds and Treasury Sec. Janet Yellen",
+        "season": 2023,
+        "episode": 21,
+        "released": "2023-05-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2569190",
+        "title": "May 28 — Crisis in the Court",
+        "season": 2023,
+        "episode": 22,
+        "released": "2023-05-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2569191",
+        "title": "June 4 — Sen. Joe Manchin, Sen. Mike Rounds and Timothy Parlatore",
+        "season": 2023,
+        "episode": 23,
+        "released": "2023-06-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2569192",
+        "title": "June 18 — Former Vice President Mike Pence",
+        "season": 2023,
+        "episode": 24,
+        "released": "2023-06-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2579336",
+        "title": "June 25 — Sec. of State Antony Blinken, Sen. Amy Klobuchar, and Rep. Don Bacon",
+        "season": 2023,
+        "episode": 25,
+        "released": "2023-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2579337",
+        "title": "July 2 — America's fentanyl crisis",
+        "season": 2023,
+        "episode": 26,
+        "released": "2023-07-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2609562",
+        "title": "July 9 — Govs. Doug Burgum and Phil Murphy",
+        "season": 2023,
+        "episode": 27,
+        "released": "2023-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2609563",
+        "title": "July 16 — Sens. Dan Sullivan and Tammy Duckworth; Jake Sullivan",
+        "season": 2023,
+        "episode": 28,
+        "released": "2023-07-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2609564",
+        "title": "July 30 — Rosenberg and Hurd",
+        "season": 2023,
+        "episode": 29,
+        "released": "2023-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2609565",
+        "title": "August 6 — John Lauro and Rep. Jamie Raskin",
+        "season": 2023,
+        "episode": 30,
+        "released": "2023-08-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2609566",
+        "title": "August 13 --",
+        "season": 2023,
+        "episode": 31,
+        "released": "2023-08-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2618748",
+        "title": "August 20 --",
+        "season": 2023,
+        "episode": 32,
+        "released": "2023-08-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2643971",
+        "title": "August 27 — Vivek Ramaswamy and Sen. Bernie Sanders",
+        "season": 2023,
+        "episode": 33,
+        "released": "2023-08-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2643972",
+        "title": "Sept. 3 — Gov. Chris Sununu and Sec. Gina Raimondo",
+        "season": 2023,
+        "episode": 34,
+        "released": "2023-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2643973",
+        "title": "Sept. 10 — Chuck Todd's final show with Sen. Bill Cassidy and Gov. Gavin Newsom",
+        "season": 2023,
+        "episode": 35,
+        "released": "2023-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2643974",
+        "title": "Sept. 17 – Trump joins Kristen Welker in her first show as moderator of Meet the Press",
+        "season": 2023,
+        "episode": 36,
+        "released": "2023-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2649485",
+        "title": "Oct. 8 -- Sec. Antony Blinken, Nikki Haley, Rep. Matt Gaetz",
+        "season": 2023,
+        "episode": 37,
+        "released": "2023-10-08",
+        "overview": "Voter Roundtable – Bucks County, Pa.Meet the Press MinuteROUNDTABLE: Garrett Haake NBC News Senior Capitol Hill Correspondent, Andrea Mitchell NBC News Chief Foreign Affairs Correspondent &amp; Chief Washington Correspondent Peggy Noonan Opinion Columnist, The Wall Street Journal, Kimberly Atkins Stohr Senior Opinion Writer, The Boston Globe; NBC News Contributor."
+      },
+      {
+        "id": "tvmaze:2666966",
+        "title": "Oct. 15 - Jake Sullivan, Sen. Lindsey Graham, Rep. Hakeem Jeffries",
+        "season": 2023,
+        "episode": 38,
+        "released": "2023-10-15",
+        "overview": "National Security Advisor Jake Sullivan.Sen. Lindsey Graham (R-S.C.), Rep. Hakeem Jeffries (D-N.Y.) House Minority Leader.NBC News Chief Foreign Correspondent Richard Engel from Israel. ROUNDTABLEHallie Jackson NBC News Senior Washington Correspondent, Andrea Mitchell NBC News Chief Washington Correspondent &amp; Chief Foreign Affairs Correspondent, Toluse Olorunnipa White House Bureau Chief, The Washington Post, Amb. Dennis Ross Counselor, The Washington Institute for Near East Policy; Former Special Envoy to the Middle East; NBC News Foreign Affairs Analyst."
+      },
+      {
+        "id": "tvmaze:2666972",
+        "title": "Oct. 22 - Sec. Antony Blinken, Rep. Kevin McCarthy, Mike Pence",
+        "season": 2023,
+        "episode": 39,
+        "released": "2023-10-22",
+        "overview": "Secretary of State Antony BlinkenRep. Kevin McCarthy (R-Calif.) Former Speaker of the House, Former Vice President Mike Pence 2024 GOP Presidential Candidate. ROUNDTABLE Peter Baker Chief White House Correspondent, The New York Times; NBC News Contributor, David Ignatius Foreign Affairs Columnist, The Washington Post, Amna Nawaz Co-Anchor, PBS NewsHour; NBC News Contributor, Danielle Pletka Distinguished Senior Fellow, Foreign and Defense Policy Studies, American Enterprise Institute; NBC News Contributor."
+      },
+      {
+        "id": "tvmaze:2668589",
+        "title": "Oct. 29 - Gov. Ron DeSantis, Rep. Pramila Jayapal, Arnold Schwarzenegger",
+        "season": 2023,
+        "episode": 40,
+        "released": "2023-10-29",
+        "overview": "Gov. Ron DeSantis (R-Fla.)2024 GOP Presidential CandidateRep. Pramila Jayapal (D-Wash.)Chair, Congressional Progressive Caucus Former Gov. Arnold Schwarzenegger (R-Calif.)Author, Be Useful: Seven Tools for Life ROUNDTABLE: Stephen Hayes CEO and Editor, The Dispatch; NBC News Political Analyst, Kelly O'Donnell NBC News Senior White House Correspondent, Toluse Olorunnipa White House Bureau Chief, The Washington Post, Jen Psaki Host, Inside with Jen Psaki."
+      },
+      {
+        "id": "tvmaze:2674216",
+        "title": "Nov. 5 - President Volodymyr Zelenskyy",
+        "season": 2023,
+        "episode": 41,
+        "released": "2023-11-05",
+        "overview": "A Special Edition of \"Meet the Press\" from Miami, Fla. ahead of Wednesday night's NBC News Republican Presidential Debate.Ukrainian President Volodymyr Zelenskyy.NBC News National Political Correspondent Steve Kornacki On the Latest NBC News / Des Moines Register / Mediacom Iowa Poll.ROUNDTABLE: Cornell Belcher Democratic Pollster; NBC News Contributor, Sara Fagen Republican Strategist; NBC News Contributor, Julio Vaqueiro Anchor, Noticias Telemundo, Amy Walter Publisher and Editor-in-Chief, The Cook Political Report with Amy Walter."
+      },
+      {
+        "id": "tvmaze:2680253",
+        "title": "Nov. 12 - Benjamin Netanyahu, Ronna McDaniel, Sen. Chris Murphy,",
+        "season": 2023,
+        "episode": 42,
+        "released": "2023-11-12",
+        "overview": "Benjamin Netanyahu Prime Minister of Israel.Sen. Chris Murphy (D-Conn.) Senate Foreign Relations Committee, Ronna McDaniel Chair, Republican National Committee.ROUNDTABLE: Jeh Johnson Former Secretary of Homeland Security, Carol Lee NBC News Managing Washington Editor, Marc Short Former Chief of Staff to Vice President Mike Pence."
+      },
+      {
+        "id": "tvmaze:2684438",
+        "title": "Nov. 19 - Chris Christie, Sen. Richard Blumenthal",
+        "season": 2023,
+        "episode": 43,
+        "released": "2023-11-19",
+        "overview": "Former Gov. Chris Christie (R-N.J.) 2024 Republican Presidential Candidate, Sen. Richard Blumenthal (D-Conn.).NBC News National Political Correspondent Steve Kornacki Debuts a New NBC News Poll.ROUNDTABLE: Helene Cooper Pentagon Correspondent, The New York Times; NBC News Contributor, Former Rep. Carlos Curbelo (R-Fla.) NBC News Political AnalystFormer Rep. Stephanie Murphy (D-Fla.), Ryan Nobles NBC News Capitol Hill Correspondent."
+      },
+      {
+        "id": "tvmaze:2688572",
+        "title": "Nov. 26 - NSA Jake Sullivan, Rep. Mike Turner, Selma Blair",
+        "season": 2023,
+        "episode": 44,
+        "released": "2023-11-26",
+        "overview": "Jake Sullivan National Security Advisor, Rep. Mike Turner (R-Ohio), Chair, House Permanent Select Committee on Intelligence, Selma Blair Actor &amp; Disability Rights Advocate. ROUNDTABLE: Brendan Buck Former Advisor to House Speakers Paul Ryan and John Boehner; NBC News Political Analyst, Leigh Ann Caldwell Co-author, The Washington Post's \"The Early 202\"; Anchor, Washington Post Live, Symone Sanders-Townsend Host, Symone on MSNBC; Former Chief Spokesperson for Vice President Kamala Harris."
+      },
+      {
+        "id": "tvmaze:2694357",
+        "title": "Dec. 3 - John Kirby, Gov. Ron DeSantis, Allyson Felix",
+        "season": 2023,
+        "episode": 45,
+        "released": "2023-12-03",
+        "overview": "National Security Council Coordinator for Strategic Communications John Kirby provides the latest updates on the Israel-Hamas war. Gov. Ron DeSantis (R-Fla.), a 2024 presidential candidate, exclusively discusses his campaign as the Iowa caucuses approach. Seven-time Olympic gold medalist Allyson Felix talks about the Black maternal health crisis in the U.S. Tim Alberta, Stephen Hayes and Kimberly Atkins Stohr join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:2699466",
+        "title": "Dec. 10 - Sen. Mitt Romney, Sen. Chris Murphy",
+        "season": 2023,
+        "episode": 46,
+        "released": "2023-12-10",
+        "overview": "In an exclusive interview, Sen. Mitt Romney (R-Utah) joins Meet the Press to discuss his stance on abortion following the Texas Supreme Court's decision to block a woman from getting an emergency abortion and his thoughts on the 2024 race. Sen. Chris Murphy (D-Conn.) exclusively shares the status of congressional aid to Israel and Ukraine and weighs in on Hunter Biden's latest indictment. Cornell Belcher, Lanhee Chen, Jonathan Martin and Kelly O'Donnell join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:2706489",
+        "title": "Dec. 17 - Sen. Lindsey Graham, Rep. Debbie Dingell",
+        "season": 2023,
+        "episode": 47,
+        "released": "2023-12-17",
+        "overview": "With negotiations on border security underway on Capitol Hill, Sen. Lindsey Graham (R-S.C.) explains his push to prioritize changes to immigration policy over funding for Ukraine in a live, on set interview. From the other side of the aisle, Rep. Debbie Dingell (D-Mich.) discusses Democrats' struggles to build enthusiasm in her state. Dingell also reacts to Republicans in the House formalizing an impeachment inquiry into President Biden and the Senate GOP's proposals on border security. Steve Kornacki introduces a new, county-level initiative called \"The Deciders\" and Meet the Press moderator Kristen Welker speaks directly to Democratic voters in Michigan. Geoff Bennett, Matt Gorman, Courtney Kube and Jen Psaki unpack it all at the roundtable."
+      },
+      {
+        "id": "tvmaze:2714991",
+        "title": "Dec. 24 - Selma Blair, Tim Alberta, Allyson Felix, Masih Alinejad",
+        "season": 2023,
+        "episode": 48,
+        "released": "2023-12-24",
+        "overview": "On a special edition of Meet the Press, Kristen Welker introduces a new series, Meet the Moment, where she speaks to the figures outside the political sphere who are shaping the conversations that matter. Actor and advocate Selma Blair talks about her work on disability rights, following her 2018 diagnosis with multiple sclerosis. Journalist and author Tim Alberta shares his experience growing up in the evangelical church and his thoughts on the politicization of the American evangelical movement. Olympic gold medalist Allyson Felix explains how her own struggles informed her advocacy around Black maternal health in the U.S. and professional sports. In a powerful interview, Iranian journalist Masih Alinejad discusses her journey to activism, her unyielding hope for the Iranian people and her message to U.S. officials."
+      },
+      {
+        "id": "tvmaze:2719428",
+        "title": "Dec. 31 - Sen. John Fetterman, Gov. Spencer Cox, Gov. Jared Polis",
+        "season": 2023,
+        "episode": 49,
+        "released": "2023-12-31",
+        "overview": "On this New Year's Eve edition of Meet the Press, moderator Kristen Welker speaks to key figures about the mental health crisis in America. Sen. John Fetterman (D-Pa.) exclusively speaks about his struggles with depression, what ultimately led him to seek treatment and how he is doing now. In an exclusive conversation, Govs. Spencer Cox (R-Utah) and Jared Polis (D-Colo.) discuss the role social media plays in the mental health crisis and their states' respective legislative responses. Former Rep. Patrick J. Kennedy (D-R.I.), Crisis Text Line Chief Medical Officer Dr. Shairi Turner and mental health advocate Victoria Browne continue the conversation at the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:2725762",
+        "title": "Jan. 7 - Rep. Elise Stefanik, Isaac Herzog, Quentin Fulks",
+        "season": 2024,
+        "episode": 1,
+        "released": "2024-01-07",
+        "overview": "In an exclusive interview, Rep. Elise Stefanik (R-N.Y.) reflects on the third anniversary of the Jan. 6 attack on the Capitol on the Capitol and discusses antisemitism on college campuses. Biden 2024 Principal Deputy Campaign Manager Quentin Fulks exclusively shares the latest on President Joe Biden's re-election campaign. Israeli President Isaac Herzog addresses concerns that the Israel-Hamas war will escalate into a wider conflict abroad in an exclusive interview. Mike Memoli, Peggy Noonan and Kimberly Atkins Stohr join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:2733343",
+        "title": "Jan. 14 - Sen. Joni Ernst",
+        "season": 2024,
+        "episode": 2,
+        "released": "2024-01-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2739302",
+        "title": "Jan. 21 - Gov. Chris Sununu, Sen. Maggie Hassan",
+        "season": 2024,
+        "episode": 3,
+        "released": "2024-01-21",
+        "overview": "New Hampshire Gov. Chris Sununu (R) joins a special edition of Meet the Press in Manchester, just two days before his state's primary. Sen. Maggie Hassan (D-N.H.) exclusively joins to discuss the Democratic attempts to write in President Biden's name on the ballot, after the DNC attempted to strip the Granite State of its first-in-the-nation status. NBC News Chief Political Analyst Chuck Todd and Senior National Political Correspondent Steve Kornacki give a preview into primary night. Dasha Burns, Lanhee Chen, Jonathan Martin and Jen Psaki join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:2745726",
+        "title": "Jan. 28 - Nikki Haley, Rep. Alexandria Ocasio-Cortez",
+        "season": 2024,
+        "episode": 4,
+        "released": "2024-01-28",
+        "overview": "NBC News exclusively reports that the Biden administration is discussing using weapons and ammunition sales to Israel as leverage to persuade the Israeli government to scale back its military assault on Gaza. Fmr. U.N. Ambassador Nikki Haley explains why she's staying in the Republican presidential race. Rep. Alexandria Ocasio-Cortez (D-N.Y.) discusses the president's relationship with Israel. NBC News Washington Managing Editor Carol Lee reports on a \"first-of-its-kind\" fundraiser for the Biden campaign."
+      },
+      {
+        "id": "tvmaze:2751315",
+        "title": "Feb. 4 - Jake Sullivan, Rep. Mike Johnson",
+        "season": 2024,
+        "episode": 5,
+        "released": "2024-02-04",
+        "overview": "NBC News National Political Correspondent Steve Kornacki joins Meet the Press with the latest numbers from a new NBC News national poll. National Security Adviser Jake Sullivan discusses the two rounds of retaliatory strikes from the U.S. in Iraq and Syria. House Speaker Mike Johnson (R-La.) exclusively joins to talk about a potential border deal. Hallie Jackson, Sam Jacobs, Ramesh Ponnuru and Symone Sanders-Townsend join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:2760935",
+        "title": "Feb. 11 - Sec. Alejandro Mayorkas, Mitch Landrieu, Chris Christie",
+        "season": 2024,
+        "episode": 6,
+        "released": "2024-02-11",
+        "overview": "Department of Homeland Security Sec. Alejandro Mayorkas exclusively joins Meet the Press to discuss special counsel Robert Hur's report on President Biden's handling of classified documents, the border and the House Republicans' desire to impeach him. Former Gov. Chris Christie (R-N.J.) joins Meet the Press for an exclusive interview to discuss the state of the Republican Party and the 2024 race. Mitch Landrieu, national co-chair of the Biden campaign, exclusively joins Meet the Press and reacts to special counsel Robert's Hurt report on President Biden's handling of classified documents."
+      },
+      {
+        "id": "tvmaze:2766166",
+        "title": "Feb. 18 - Rep. Mike Turner, Sen. Amy Klobuchar, Patti Davis",
+        "season": 2024,
+        "episode": 7,
+        "released": "2024-02-18",
+        "overview": "Rep. Mike Turner (R-Ohio), chair of the House Intelligence Committee, exclusively joins Meet the Press from Munich after warning that Russia may be developing a space-based weapon that could target U.S. satellites. Sen. Amy Klobuchar (D-Minn.) talks about President Biden's path to re-election in an exclusive interview. Patti Davis, the daughter of Ronald and Nancy Reagan, joins to talk about her father's legacy and her own."
+      },
+      {
+        "id": "tvmaze:2770309",
+        "title": "Feb. 25 - Jake Sullivan, Gov. Gavin Newsom, Rep. Byron Donalds",
+        "season": 2024,
+        "episode": 8,
+        "released": "2024-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2777766",
+        "title": "Mar. 3 - Nikki Haley, Rep. Debbie Dingell",
+        "season": 2024,
+        "episode": 9,
+        "released": "2024-03-03",
+        "overview": "Republican presidential candidate Nikki Haley; Rep. Debbie Dingell, D-Mich."
+      },
+      {
+        "id": "tvmaze:2786547",
+        "title": "Mar. 10 - Sen. Raphael Warnock, Sen. Lindsey Graham, Rep. Adam Schiff",
+        "season": 2024,
+        "episode": 10,
+        "released": "2024-03-10",
+        "overview": "Sens. Raphael Warnock, D-Ga., and Lindsey Graham, R-S.C.; Rep. Adam Schiff, D-Calif."
+      },
+      {
+        "id": "tvmaze:2792433",
+        "title": "Mar. 17 - Sen. Bill Cassidy, Sen. Ben Cardin, Chef José Andrés",
+        "season": 2024,
+        "episode": 11,
+        "released": "2024-03-17",
+        "overview": "Sens. Bill Cassidy, R-La., and Ben Cardin, D-Md.; José Andrés, founder of World Central Kitchen."
+      },
+      {
+        "id": "tvmaze:2796914",
+        "title": "Mar. 24 - Stephen Breyer, Ruby Bridges",
+        "season": 2024,
+        "episode": 12,
+        "released": "2024-03-24",
+        "overview": "Retired Supreme Court Justice Stephen Breyer, civil rights activist Ruby Bridges."
+      },
+      {
+        "id": "tvmaze:2802337",
+        "title": "Mar. 31 - Rep. James Clyburn, Rep. Don Bacon",
+        "season": 2024,
+        "episode": 13,
+        "released": "2024-03-31",
+        "overview": "Reps. James Clyburn, D-S.C., and Don Bacon, R-Neb."
+      },
+      {
+        "id": "tvmaze:2807637",
+        "title": "Apr. 14 - Gov. Gretchen Whitmer, Gov. Wes Moore, Rep. Mike Turner",
+        "season": 2024,
+        "episode": 14,
+        "released": "2024-04-14",
+        "overview": "Govs. Gretchen Whitmer, D-Mich., and Wes Moore, D-Md.; Rep. Mike Turner, R-Ohio."
+      },
+      {
+        "id": "tvmaze:2815494",
+        "title": "Apr. 21 - President Volodymyr Zelenskyy",
+        "season": 2024,
+        "episode": 15,
+        "released": "2024-04-21",
+        "overview": "Ukrainian President Volodymyr Zelenskyy."
+      },
+      {
+        "id": "tvmaze:2832759",
+        "title": "Apr. 28 - Sen. Mitch McConnell, Sen. Tim Kaine, Ruby Bridges",
+        "season": 2024,
+        "episode": 16,
+        "released": "2024-04-28",
+        "overview": "Sens. Mitch McConnell, R-Ky., and Tim Kaine, D-Va., Ruby Bridges."
+      },
+      {
+        "id": "tvmaze:2839725",
+        "title": "May 5 - Sen. Tim Scott, Sen. Mark Kelly, Cindy McCain",
+        "season": 2024,
+        "episode": 17,
+        "released": "2024-05-05",
+        "overview": "Sens. Tim Scott, R-S.C., and Mark Kelly, D-Ariz.; Cindy McCain, executive director of the U.N. World Food Program."
+      },
+      {
+        "id": "tvmaze:2846856",
+        "title": "May 12 - Sec. Antony Blinken, Sen. Bernie Sanders, Sen. Lindsey Graham",
+        "season": 2024,
+        "episode": 18,
+        "released": "2024-05-12",
+        "overview": "Secretary of State Antony Blinken; Sens. Bernie Sanders, I-Vt., and Lindsey Graham, R-S.C."
+      },
+      {
+        "id": "tvmaze:2856903",
+        "title": "May 19 - Sen. Marco Rubio, Gov. Wes Moore",
+        "season": 2024,
+        "episode": 19,
+        "released": "2024-05-19",
+        "overview": "Sen. Marco Rubio, R-Fla.; Gov. Wes Moore, D-Md."
+      },
+      {
+        "id": "tvmaze:2870460",
+        "title": "May 26 - Jocelyn Benson, Brad Raffensperger, Adrian Fontes, Al Schmidt",
+        "season": 2024,
+        "episode": 20,
+        "released": "2024-05-26",
+        "overview": "A panel of secretaries of state with Jocelyn Benson, D-Mich., Brad Raffensperger, R-Ga., Adrian Fontes, D-Ariz., and Al Schmidt, R-Pa."
+      },
+      {
+        "id": "tvmaze:2877771",
+        "title": "June 2 - Sen. Tom Cotton, Rep. Hakeem Jeffries, Cyrus Vance Jr.",
+        "season": 2024,
+        "episode": 21,
+        "released": "2024-06-02",
+        "overview": "Sen. Tom Cotton, R-Ark.; Rep. Hakeem Jeffries, D-N.Y.; former Manhattan District Attorney Cyrus Vance Jr."
+      },
+      {
+        "id": "tvmaze:2877772",
+        "title": "June 16 -Rep. Byron Donalds, Rep. Ro Khanna",
+        "season": 2024,
+        "episode": 22,
+        "released": "2024-06-16",
+        "overview": "Reps. Byron Donalds, R-Fla., and Ro Khanna, D-Calif."
+      },
+      {
+        "id": "tvmaze:2877773",
+        "title": "June 23 - Mitch Landrieu, Gov. Kristi Noem",
+        "season": 2024,
+        "episode": 23,
+        "released": "2024-06-23",
+        "overview": "Mitch Landrieu, national co-chair of President Joe Biden's reelection campaign; Gov. Kristi Noem, R-S.D."
+      },
+      {
+        "id": "tvmaze:2877774",
+        "title": "June 30 - Gov. Doug Burgum, Sen. Raphael Warnock",
+        "season": 2024,
+        "episode": 24,
+        "released": "2024-06-30",
+        "overview": "Gov. Doug Burgum, R-N.D.; Sen. Raphael Warnock, D-Ga."
+      },
+      {
+        "id": "tvmaze:2877776",
+        "title": "July 7 - Sen. JD Vance, Rep. Adam Schiff",
+        "season": 2024,
+        "episode": 25,
+        "released": "2024-07-07",
+        "overview": "Sen. JD Vance, R-Ohio; Rep. Adam Schiff, D-Calif."
+      },
+      {
+        "id": "tvmaze:2877777",
+        "title": "July 14 - Sen. Chris Coons, Sen. Bernie Sanders, Sen. Lindsey Graham",
+        "season": 2024,
+        "episode": 26,
+        "released": "2024-07-14",
+        "overview": "Sens. Chris Coons, D-Del., Bernie Sanders, I-Vt., and Lindsey Graham, R-S.C."
+      },
+      {
+        "id": "tvmaze:2973700",
+        "title": "Aug 18 - Sen. Chuck Schumer, Sen. Lindsey Graham, Gov. Gretchen Whitmer",
+        "season": 2024,
+        "episode": 27,
+        "released": "2024-08-18",
+        "overview": "Sens. Chuck Schumer, D-N. Y, and Lindsey Graham, R-S.C.; Gov. Gretchen Whitmer, D-Mich."
+      },
+      {
+        "id": "tvmaze:2980039",
+        "title": "Aug 25 - Sen. Elizabeth Warren, Sen. J.D. Vance",
+        "season": 2024,
+        "episode": 28,
+        "released": "2024-08-25",
+        "overview": "Ohio Sen. JD Vance, the Republican vice-presidential nominee; Sen. Elizabeth Warren, D-Mass."
+      },
+      {
+        "id": "tvmaze:2983953",
+        "title": "Sept 1 - Sen. Tom Cotton, Rep. Ro Khanna",
+        "season": 2024,
+        "episode": 29,
+        "released": "2024-09-01",
+        "overview": "Sen. Tom Cotton, R-Ark.; Rep. Ro Khanna, D-Calif."
+      },
+      {
+        "id": "tvmaze:2990620",
+        "title": "Sept 8 - Sen. Bernie Sanders, Gov. Doug Burgum",
+        "season": 2024,
+        "episode": 30,
+        "released": "2024-09-08",
+        "overview": "Sen. Bernie Sanders, I-Vt.; Gov. Doug Burgum, R-N.D."
+      },
+      {
+        "id": "tvmaze:2994529",
+        "title": "Sept 15 - Sec. Pete Buttigieg, Sen. JD Vance",
+        "season": 2024,
+        "episode": 31,
+        "released": "2024-09-15",
+        "overview": "Ohio Sen. JD Vance, the Republican vice-presidential nominee; Transportation Secretary Pete Buttigieg."
+      },
+      {
+        "id": "tvmaze:3002598",
+        "title": "Sept 22 - Sen. John Fetterman; Sen. Lindsey Graham",
+        "season": 2024,
+        "episode": 32,
+        "released": "2024-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3007352",
+        "title": "Sept 29 - Sen. Mark Kelly; Sen. Marco Rubio",
+        "season": 2024,
+        "episode": 33,
+        "released": "2024-09-29",
+        "overview": "Sens. Marco Rubio, R-Fla., and Mark Kelly, D-Ariz."
+      },
+      {
+        "id": "tvmaze:3013519",
+        "title": "Oct 6 - Sen. Tom Cotton; Rep. Adam Schiff",
+        "season": 2024,
+        "episode": 34,
+        "released": "2024-10-06",
+        "overview": "Sen. Tom Cotton, R-Ark.; Rep. Adam Schiff, D-Calif."
+      },
+      {
+        "id": "tvmaze:3017655",
+        "title": "Oct 13 - Speaker Mike Johnson; Fmr. Rep. Liz Cheney",
+        "season": 2024,
+        "episode": 35,
+        "released": "2024-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3025153",
+        "title": "Oct 20 — Gov. Josh Shapiro; Sen. Lindsey Graham; Megan Rapinoe and Sue Bird",
+        "season": 2024,
+        "episode": 36,
+        "released": "2024-10-20",
+        "overview": "Gov. Josh Shapiro, D-Pa., Sen. Lindsey Graham, R-S.C."
+      },
+      {
+        "id": "tvmaze:3029807",
+        "title": "Oct 27 — Sen. Bernie Sanders; Sen. J.D. Vance",
+        "season": 2024,
+        "episode": 37,
+        "released": "2024-10-27",
+        "overview": "Ohio Sen. JD Vance, the Republican vice presidential nominee; Sen. Bernie Sanders, I-Vt."
+      },
+      {
+        "id": "tvmaze:3034502",
+        "title": "Nov 3 — Sen. Raphael Warnock; Gov. Doug Burgum",
+        "season": 2024,
+        "episode": 38,
+        "released": "2024-11-03",
+        "overview": "NBC News National Political Correspondent Steve Kornacki joins Meet the Press with a brand-new NBC News national poll ahead of Election Day. NBC News Correspondents Yamiche Alcindor and Dasha Burns break down Kamala Harris and Donald Trump's closing messages in the final days of the race. Georgia Sen. Raphael Warnock (D) discusses Harris' case to Black voters in an exclusive interview. Gov. Doug Burgum (R-N.D.) exclusively talks about Trump's recent rhetoric. Chuck Todd, Cristina Londono Rooney, Jen Psaki and Marc Short join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3040264",
+        "title": "Nov 10 — Sen. John Barrasso; Sen. Bernie Sanders",
+        "season": 2024,
+        "episode": 39,
+        "released": "2024-11-10",
+        "overview": "NBC News National Political Correspondent Steve Kornacki breaks down the numbers behind President-elect Donald Trump's projected win. Sen. John Barrasso (R-Wyo.) exclusively joins the broadcast to discuss President-elect Donald Trump's priorities for a second term. Sen. Bernie Sanders (I-Vt.) talks about his recent criticism of the Democratic Party. Garrett Haake, María Teresa Kumar, Ramesh Ponnuru and Amy Walter join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3046095",
+        "title": "Nov 17 — Rep. Hakeem Jeffries, Sen. Markwayne Mullin",
+        "season": 2024,
+        "episode": 40,
+        "released": "2024-11-17",
+        "overview": "Sen. Markwayne Mullin (R-Okla.) exclusively joins Meet the Press to discuss President-elect Donald Trump's pick for attorney general, Matt Gaetz. House Minority Leader Hakeem Jeffries (D-N.Y.) reacts to Democrats' losses in the 2024 election. Amna Nawaz, Eugene Daniels, Jen Psaki and Lanhee Chen join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3050961",
+        "title": "Nov 24 — Sen. Elect Adam Schiff; Sen. Eric Schmitt",
+        "season": 2024,
+        "episode": 41,
+        "released": "2024-11-24",
+        "overview": "President-elect Donald Trump announces a flurry of pre-holiday Cabinet picks. Republican Sen. Eric Schmitt (Mo.) exclusively joins Meet the Press to discuss Trump's picks — and the scrutiny they've faced. Sen.-elect Adam Schiff (D-Calif.) exclusively shares his concerns about a second Trump administration. Kelly O'Donnell, Jeh Johnson, Anna Palmer and Stephen Hayes join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3062432",
+        "title": "Dec 1 -Sen. Bill Hagerty, Sen. Chris Murphy",
+        "season": 2024,
+        "episode": 42,
+        "released": "2024-12-01",
+        "overview": "National security adviser Jake Sullivan joins Meet the Press following the ceasefire deal between Israel and Hezbollah. Republican Sen. Bill Hagerty (Tenn.) exclusively joins Meet the Press to discuss President-elect Donald Trump's proposed tariffs on Canada, China and Mexico. Democratic Sen. Chris Murphy (Conn.) reacts to the bomb threats targeting Connecticut's congressional delegation. Jonathan Allen, Matt Gorman, Sahil Kapur and Kimberly Atkins Stohr join the Meet the Press roundtable. Jacob Soboroff and Errol Morris talk about their film, \"SEPARATED.\""
+      },
+      {
+        "id": "tvmaze:3067365",
+        "title": "Dec 8 - President-Elect Donald Trump",
+        "season": 2024,
+        "episode": 43,
+        "released": "2024-12-08",
+        "overview": "President-elect Donald Trump sits down with Kristen Welker for his first broadcast interview since winning the election."
+      },
+      {
+        "id": "tvmaze:3076317",
+        "title": "Dec 15 - Sen. Sen. Lindsey Graham, Sen. Bernie Sanders, Debra Tice",
+        "season": 2024,
+        "episode": 44,
+        "released": "2024-12-15",
+        "overview": "Sen. Lindsey Graham (R-S.C.) joins Meet the Press to discuss President-elect Donald Trump's Cabinet picks and their likelihood of getting confirmed. Vermont Sen. Bernie Sanders talks to Kristen Welker about President Joe Biden's pardon of his son and potential preemptive pardons for members of the Jan. 6 committee. Debra Tice discusses her son and American journalist Austin Tice, who disappeared in Syria more than a decade ago. Amna Nawaz, Ryan Nobles, Ashley Etienne and Peggy Noonan join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3081414",
+        "title": "Dec 22 - Sen. Raphael Warnock, Sen. James Lankford",
+        "season": 2024,
+        "episode": 45,
+        "released": "2024-12-22",
+        "overview": "In a special edition of Meet the Press, Kristen Welker sits down with bipartisan duo Sen. Raphael Warncok (D-Ga.) and Sen. James Lankford (R-Okla.) to explore how Americans can find common ground in a deeply divided nation. Doris Kearns Goodwin, Russell Moore and Antonia Hylton join the roundtable."
+      },
+      {
+        "id": "tvmaze:3084947",
+        "title": "Dec 29 — Meet the Moment 2024 with Ruby Bridges; Michael Phelps; Sue Bird; Megan Rapinoe",
+        "season": 2024,
+        "episode": 46,
+        "released": "2024-12-29",
+        "overview": "In a special edition of Meet the Press, Kristen Welker looks back at her Meet the Moment interviews with Olympic swimmer Michael Phelps, civil rights icon Ruby Bridges, athletes Sue Bird and Megan Rapinoe, JJ Velazquez and journalist Dan Slepian, and NBC's Savannah Guthrie."
+      },
+      {
+        "id": "tvmaze:3090691",
+        "title": "Jan 5 — Sen. Chuck Schumer; Sen. John Thune; Sen. Adam Schiff",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-01-05",
+        "overview": "Senate Majority Leader John Thune (R-S.D.) joins Meet the Press to discuss his relationship with President-elect Trump and how it may impact the incoming Trump administration's plans on immigration and tax cuts. Senate Minority Leader Chuck Schumer (D-N.Y.) tells Kristen Welker that he is open to working with Republicans on a deal for Dreamers after Trump opened the door for change. Sen. Adam Schiff (D-Calif.) says that the Democrats lost the 2024 election because there was a lack of focus on the economy. Carol Lee, Jonathan Martin, Symone Sanders Townsend and Marc Short join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3096168",
+        "title": "Jan 12 — Sen. Alex Padilla; Sen. James Lankford; Amanda Gorman",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-01-12",
+        "overview": "As wildfires continue to blaze through the Los Angeles area, NBC News Correspondent Jacob Soboroff speaks exclusively with California Gov. Gavin Newsom (D) about his recovery plans. Sen. Alex Padilla (D-Calif.) tells Kristen Welker how Congress can support his state. Sen. James Lankford (R-Okla.) discusses President-elect Donald Trump's agenda, including a mass deportation plan. Eugene Daniels, Stephen Hayes, Jennifer Palmieri and Keir Simmons join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3106342",
+        "title": "Jan 19 - Rep. Mike Johnson, Rep. Hakeem Jeffries, Martin Luther King III",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-01-19",
+        "overview": "Ahead of his inauguration, Kristen Welker speaks with President-elect Donald Trump over the phone. Republican Speaker Mike Johnson exclusively joins Meet the Press to discuss how he'll work to implement Trump's agenda. House Minority Leader Hakeem Jeffries talks about how he'll work across the aisle with Republicans. Martin Luther King III joins Kristen Welker for a special Meet the Movement interview. Peter Alexander, Mike Dubke, Amna Nawaz and Jen Psaki join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3113463",
+        "title": "Jan 26 - Sen. Lindsey Graham, Sen. Adam Schiff",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-01-26",
+        "overview": "As President Donald Trump issues a flurry of executive orders during his first week in office, Sen. Lindsey Graham (R-S.C.) reacts to his blanket pardons for Jan. 6, 2021, rioters. Sen. Adam Schiff (D-Calif.) shares his thoughts on the preemptive pardons granted to members of the Jan. 6 committee by former President Joe Biden. Leigh Ann Caldwell, Carlos Curbelo, Ashley Etienne and Garrett Haake join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3118151",
+        "title": "Feb 2 - Sec. Kristi Noem, Sen. Eric Schmitt, Sen. Mark Kelly",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-02-02",
+        "overview": "Homeland Security Secretary Kristi Noem joins Meet the Press in an exclusive interview from the southern border. Sen. Eric Schmitt (R-Mo.) weighs in on President Trump's Cabinet nominations. Sen. Mark Kelly (D-Ariz.) talks about bipartisan immigration legislation. Former Rep. Stephanie Murphy (D-Fla.), Ryan Nobles, Kelly O'Donnell and Marc Short join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3127784",
+        "title": "Feb. 9 – NSA Mike Waltz, Sen. Andy Kim and Amanda Gorman",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-02-09",
+        "overview": "National Security Adviser Mike Waltz defends President Trump's plan for a Gaza takeover. Sen. Andy Kim (D-N.J.) talks about Trump's dismantling of USAID. Poet Amanda Gorman discusses book banning in a Meet the Moment conversation."
+      },
+      {
+        "id": "tvmaze:3136384",
+        "title": "Feb. 16 — Ukrainian President Volodymyr Zelenskyy",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-02-16",
+        "overview": "Ukrainian President Volodymyr Zelenskyy sits down with Kristen Welker to share his perspective on peace talks between Ukraine and Russia. Plus, Darrell Hammond on how political comedy has shaped 50 years of Saturday Night Live."
+      },
+      {
+        "id": "tvmaze:3145156",
+        "title": "Feb 23 - Sen. Markwayne Mullin, Sen. Cory Booker",
+        "season": 2025,
+        "episode": 8,
+        "released": "2025-02-23",
+        "overview": "NBC News National Political Correspondent Steve Kornacki examines how Americans are reacting to the first month of the Trump administration. Republican Sen. Markwayne Mullin (Okla.) discusses the war in Ukraine as it enters its third year. Sen. Cory Booker (D-N.J.) talks about the Democratic Party's response to Trump. Melanie Zanona, Jonathan Martin, Jeh Johnson and Lanhee Chen join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3152332",
+        "title": "Mar. 2 - Rep. Mike Johnson, Sen. Bernard Sanders, Sen. James Lankford",
+        "season": 2025,
+        "episode": 9,
+        "released": "2025-03-02",
+        "overview": "After the public clash between President Donald Trump and Ukrainian President Volodymyr Zelenskyy, U.S. officials say the path to a peace deal to end the war in Ukraine is deeply uncertain, Kristen Welker reports. Republican House Speaker Mike Johnson and Sen. James Lankford (R-Okla.) discuss the clash and how it will impact U.S. aid to Ukraine. Sen. Bernie Sanders (I-Vt.) talks about Trump and Elon Musk's cuts to the federal government and the looming government shutdown. Carol Lee, Julio Vaqueiro, Stephanie Murphy and Brendan Buck join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3160084",
+        "title": "Mar. 9 - Sen. Elissa Slotkin, Sec. Howard Lutnick",
+        "season": 2025,
+        "episode": 10,
+        "released": "2025-03-09",
+        "overview": "NBC News National Political Correspondent Steve Kornacki joins Meet the Press to examine how the U.S. economy is responding to President Donald Trump's trade policies. Commerce Sec. Howard Lutnick defends the president as he delays steep tariffs on America's largest partners. Sen. Elissa Slotkin (D-Mich.), who delivered the Democratic response to Trump's joint address, weighs in on the division in her party over its role in the opposition. Courtney Kube, Jonathan Martin, Symone Sanders Townsend and Marc Short join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3166075",
+        "title": "Mar. 16 - Sen. Chris Murphy, Sec. Scott Bessent",
+        "season": 2025,
+        "episode": 11,
+        "released": "2025-03-16",
+        "overview": "NBC News National Political Correspondent Steve Kornacki shares numbers from the latest NBC News poll. Treasury Sec. Scott Bessent discusses Americans' recession fears as President Donald Trump escalates trade wars. Sen. Chris Murphy (D-Conn.) weighs in on the Democratic Party's divide over Senate Minority Leader Chuck Schumer's handling of the funding fight. Cornell Belcher, Eugene Daniels, Sara Fagen and Anna Palmer join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3170846",
+        "title": "Mar. 23 - Sen. Chuck Schumer, Sen. John Curtis",
+        "season": 2025,
+        "episode": 12,
+        "released": "2025-03-23",
+        "overview": "In an exclusive interview, Senate Democratic Leader Chuck Schumer (N.Y.) says America is in a constitutional crisis and rejects calls to step down as his party's Senate leader. Sen. John Curtis (R-Utah) weighs in on President Trump's defiance of the courts. Yamiche Alcindor, Adrienne Elrod, Stephen Hayes and Hallie Jackson join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3179187",
+        "title": "Mar. 30 - Sen. Markwayne Mullin, Sen. Michael Bennet, Jeffrey Goldberg",
+        "season": 2025,
+        "episode": 13,
+        "released": "2025-03-30",
+        "overview": "President Donald Trump tells Kristen Welker in a phone interview that he's \"angry\" and \"pissed off\" at Russian President Vladimir Putin. Jeffrey Goldberg, editor-in-chief of The Atlantic, exclusively joins Meet the Press to discuss the fallout from the Signal leak. Sen. Markwayne Mullin (R-Okla.) talks about the material shared in the Signal messages. Sen. Michael Bennet (D-Colo.) discusses how Congress should respond. Jonathan Allen, Michael Dubke, Andrea, Mitchell and Symone Sanders Townend join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3184940",
+        "title": "Apr. 6 - Sec. Scott Bessent, Sen. Adam Schiff, Sen. James Lankford",
+        "season": 2025,
+        "episode": 14,
+        "released": "2025-04-06",
+        "overview": "Days after President Trump announced sweeping tariffs, Treasury Sec. Scott Bessent joins Meet the Press to discuss the effects on the markets and global trade. Sen. James Lankford (R-Okla.) reacts to the tariffs and talks about how Congress could intervene. Sen. Adam Schiff (D-Calif.) discusses Democrats' strategy to fight back. Leigh Ann Caldwell, Lanhee Chen, Garrett Haake and Neera Tanden join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3194142",
+        "title": "Apr. 13 - Peter Navarro, Sen. Cory Booker, Ray Dalio",
+        "season": 2025,
+        "episode": 15,
+        "released": "2025-04-13",
+        "overview": "President Trump reverses course tariffs — pausing most hikes but raising them on China, while exempting key tech imports. Trump's top trade adviser Peter Navarro, Sen. Cory Booker (D-N.J.) and billionaire investor Ray Dalio join Kristen Welker with exclusive reactions. Kelly O'Donnell, Jonathan Martin, Kimberly Atkins Stohr and Matt Gorman join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3201765",
+        "title": "Apr. 20 - Sen. Chris Van Hollen, Sen. John Kennedy",
+        "season": 2025,
+        "episode": 16,
+        "released": "2025-04-20",
+        "overview": "Sen. Chris Van Hollen (D-Md.) details his meeting with Kilmar Abrego Garcia, the man wrongly deported to El Salvador by the Trump administration. Sen. John Kennedy (R-La.) weighs in on the Trump administration's clash with the courts. Peter Baker, María Teresa Kumar, Marc Short and Melanie Zanona join the roundtable."
+      },
+      {
+        "id": "tvmaze:3208794",
+        "title": "Apr. 27 - Sec. Marco Rubio, Sen. Bernie Sanders",
+        "season": 2025,
+        "episode": 17,
+        "released": "2025-04-27",
+        "overview": "Secretary of State Marco Rubio joins exclusively after President Trump's meeting with President Zelenskyy to broker a Russia-Ukraine peace deal. Sen. Bernie Sanders (I-Vt.) weighs in on Trump's tariff strategy amid growing fears of empty store shelves for U.S. consumers. Steve Kornacki breaks down new polling showing warning signs for Trump on the economy. Lanhee Chen, Amna Nawaz, Ryan Nobles, Amna Nawaz and Jen Psaki join the roundtable."
+      },
+      {
+        "id": "tvmaze:3214430",
+        "title": "May 4 - President Donald Trump",
+        "season": 2025,
+        "episode": 18,
+        "released": "2025-05-04",
+        "overview": "President Donald Trump joins Meet the Press for an exclusive and wide-ranging interview reflecting on the first 100 days of his second term and laying out his vision for the rest of his presidency – and the future of his political movement."
+      },
+      {
+        "id": "tvmaze:3223902",
+        "title": "May 11 - Sec. Sean Duffy, Sen. Amy Klobuchar, Sen. John Barrasso",
+        "season": 2025,
+        "episode": 19,
+        "released": "2025-05-11",
+        "overview": "Sen. John Barrasso (R-Wyo.) talks about President Trump's evolving tariff strategy amid U.S.-China talks. Sen. Amy Klobuchar (D-Minn.) reacts to former President Biden's remarks on the 2024 race. Transportation Secretary Sean Duffy addresses flight safety concerns after a brief communication lapse in Newark. Matt Gorman, Sahil Kapur, Carol Lee and Neera Tanden join the roundtable."
+      },
+      {
+        "id": "tvmaze:3230717",
+        "title": "May 18 - Mike Pence, Sen. Chris Murphy, Sec. Scott Bessent",
+        "season": 2025,
+        "episode": 20,
+        "released": "2025-05-18",
+        "overview": "Former Vice President Mike Pence shares his views on the second Trump administration. Treasury Secretary Scott Bessent responds to warnings from the world's largest retailer about rising prices tied to President Trump's tariffs. Sen. Chris Murphy (D-Conn.) weighs in on new revelations about former President Joe Biden's health during the 2024 campaign."
+      },
+      {
+        "id": "tvmaze:3240205",
+        "title": "May 25 - Dr. Vivek Murthy, Patrick Kennedy",
+        "season": 2025,
+        "episode": 21,
+        "released": "2025-05-25",
+        "overview": "Former U.S. Surgeon General Vivek Murthy, former Rep. Patrick J. Kennedy (D-R.I.) and Arthur Brooks join a special edition of Meet the Press on America's mental health crisis. Lori Gottlieb, Nedra Glover Tawwab and Jean Twenge join the Meet the Press roundtable."
+      },
+      {
+        "id": "tvmaze:3246010",
+        "title": "Jun 1 - Rep. Mike Johnson, Sen. Raphael Warnock",
+        "season": 2025,
+        "episode": 22,
+        "released": "2025-06-01",
+        "overview": "Speaker of the House Mike Johnson (R-La.) and Sen. Raphael Warnock (D-Ga.) join exclusively as President Trump's legislative agenda narrowly passes in the House and heads to the Senate where it faces significant challenges. Lanhee Chen, Jeh Johnson, Jonathan Martin and Kelly O'Donnell join the roundtable."
+      },
+      {
+        "id": "tvmaze:3258806",
+        "title": "Jun 8 - Sen. James Lankford, Sen. Cory Booker",
+        "season": 2025,
+        "episode": 23,
+        "released": "2025-06-08",
+        "overview": "Sens. James Lankford (R-Okla.) and Cory Booker (D-N.J.) join exclusively to discuss Kilmar Abrego Garcia's return to the U.S. and the latest on President Trump's tax and spending bill. Actor Olivia Munn opens up about her battle with cancer and her path to motherhood through surrogacy."
+      },
+      {
+        "id": "tvmaze:3268834",
+        "title": "June 15 - Sen. Adam Schiff, Sen. Rand Paul",
+        "season": 2025,
+        "episode": 24,
+        "released": "2025-06-15",
+        "overview": "Sen. Amy Klobuchar (D-Minn.) joins Meet the Press after two Minnesota lawmakers and their spouses were shot by someone impersonating a police officer. Sen. Rand Paul (R-Ky.) reacts to Israel's airstrikes on Iran and Iran's swift retaliation, raising fears of a wider regional war. Sen. Adam Schiff (D-Calif.) responds to President Trump's immigration crackdown, which has triggered nationwide protests and a standoff with Democrats after the deployment of federal troops in California. Steve Kornacki breaks down a new NBC News Decision Desk poll. Stephen Hayes, Ryan Nobles, Kimberly Atkins Stohr and Amy Walter join the roundtable."
+      },
+      {
+        "id": "tvmaze:3273515",
+        "title": "June 22 - Sen. Lindsey Graham, Sen. Mark Kelly, Bob Costas",
+        "season": 2025,
+        "episode": 25,
+        "released": "2025-06-22",
+        "overview": "Vice President JD Vance, Sen. Lindsey Graham (R-S.C.) and Sen. Mark Kelly (D-Ariz.) react to President Trump's decision to strike three nuclear facilities in Iran. NBC News Chief Foreign Correspondent Richard Engel reports from Tel Aviv. Lanhee Chen, Ashley Etienne, Jonathan Martin and Andrea Mitchell join the roundtable."
+      },
+      {
+        "id": "tvmaze:3278765",
+        "title": "June 29 - Sen. Markwayne Mullin, Sen. Chris Murphy, Zohran Mamdani",
+        "season": 2025,
+        "episode": 26,
+        "released": "2025-06-29",
+        "overview": "Sen. Markwayne Mullin (R-Okla.) and Sen. Chris Murphy (D-Conn.) discuss the Senate's passage of President Trump's tax bill. New York City mayoral candidate Zohran Mamdani talks about his victory in the Democratic primary."
+      },
+      {
+        "id": "tvmaze:3287650",
+        "title": "July 6 - Meet the Moment",
+        "season": 2025,
+        "episode": 27,
+        "released": "2025-07-06",
+        "overview": "This Sunday: Meet the Moment. Conversations with people who are having an impact in Washington and beyond. Olivia Munn, Bob Costas, Sal Khan and Amanda Gorman."
+      },
+      {
+        "id": "tvmaze:3292598",
+        "title": "July 13 - Sec. Kristi Noem, Gov. Andy Beshear, Sen. John Barrasso",
+        "season": 2025,
+        "episode": 28,
+        "released": "2025-07-13",
+        "overview": "Homeland Security Secretary Kristi Noem joins Meet the Press following deadly flooding in Texas. Senate Majority Whip John Barrasso (R-Wyo.) reacts to President Trump's tax and spending bill becoming law. Kentucky Gov. Andy Beshear (D) discusses how Democrats may campaign on the law's impact in the midterms. Adrienne Elrod, Sahil Kapur, Tyler Pager and Marc Short join the roundtable."
+      },
+      {
+        "id": "tvmaze:3304838",
+        "title": "Rep. Mike Johnson, Rep. Ro Khanna, Sen. Lindsey Graham, Rep. Thomas Massie",
+        "season": 2025,
+        "episode": 29,
+        "released": "2025-07-27",
+        "overview": "Rep. Ro Khanna (D-Calif.) and Rep. Thomas Massie (R-Ky.) talk about their bipartisan push to release the Epstein files. House Speaker Mike Johnson (R-La.) defends the administration's handling of the Epstein issue. Sen. Lindsey Graham (R-S.C.) discusses his calls to investigate former President Obama. Amna Nawaz, Peter Baker, Jeh Johnson and Carlos Curbelo join the roundtable."
+      },
+      {
+        "id": "tvmaze:3310977",
+        "title": "Kevin Hassett, Sen. Alex Padilla",
+        "season": 2025,
+        "episode": 30,
+        "released": "2025-08-03",
+        "overview": "White House National Economic Adviser Kevin Hassett discusses President Trump's decision to fire the official who oversees jobs data after a weak report, as the administration's trade war escalates. Sen. Alex Padilla (D-Calif.) weighs in on California's response to Texas' redistricting fight. Yamiche Alcindor, Susan Glasser, Stephen Hayes and Symone Sanders Townsend join the roundtable."
+      },
+      {
+        "id": "tvmaze:3317806",
+        "title": "Gov. J.B. Pritzker, Sen. Lindsey Graham, Eric Holder",
+        "season": 2025,
+        "episode": 31,
+        "released": "2025-08-10",
+        "overview": "Gov. JB Pritzker (D-Ill.), Sen. Lindsey Graham (R-S.C.) and former Attorney General Eric Holder discuss the Texas Republicans' push to draw a new congressional map that could add up to five GOP seats — and the Democrats' plans to fight back. Lanhee Chen, Carol Lee, Tony Plohetski and Neera Tanden join the roundtable."
+      },
+      {
+        "id": "tvmaze:3324006",
+        "title": "Sen. Chris Murphy, Sec. Marco Rubio",
+        "season": 2025,
+        "episode": 32,
+        "released": "2025-08-17",
+        "overview": "Secretary of State Marco Rubio tells Meet the Press that \"life in America will not be fundamentally altered\" if the war in Ukraine continues. Sen. Chris Murphy (D-Conn.) joins Meet the Press in an exclusive interview after President Trump summons federal troops to the nation's capital as part of what he calls a crackdown on crime. Sara Fagen, Jonathan Martin, Andrea Mitchell and Ned Price join the roundtable."
+      },
+      {
+        "id": "tvmaze:3328738",
+        "title": "V.P. JD Vance, Sen. Adam Schiff, Sergey Lavrov",
+        "season": 2025,
+        "episode": 33,
+        "released": "2025-08-24",
+        "overview": "In an exclusive interview with Meet the Press, Vice President JD Vance defends Republicans' push to redraw congressional maps after Texas approved a plan that could add up to five GOP seats. Vice President JD Vance joins Meet the Press in an exclusive interview after FBI agents search the home of John Bolton, a former national security adviser to Donald Trump and now a staunch critic of the president. In an exclusive interview with Meet the Press, Sen. Adam Schiff (D-Calif.) calls President Trump's summit with Russian President Putin \"a failure,\" arguing that the region is no closer to peace. In an exclusive interview with Meet the Press, Russian Foreign Minister Sergey Lavrov says the Russians \"want peace in Ukraine,\" even as Russia launches one of its heaviest bombardments in weeks. In an exclusive interview with Meet the Press, Russian Foreign Minister Sergey Lavrov dismisses reports that a Russian strike in western Ukraine hit a U.S.-owned factory, injuring at least 15 workers. In an exclusive interview with Meet the Press, Russian Foreign Minister Sergey Lavrov says, \"Putin is ready to meet with Zelenskyy when the agenda would be ready for a summit,\" but adds that Moscow does not believe those conditions have been met — contradicting the White House, which has said such plans are underway."
+      },
+      {
+        "id": "tvmaze:3335488",
+        "title": "Sen. James Lankford, Rep. Ro Khanna, Hoda Kotb, Dr. Demetre Daskalakis",
+        "season": 2025,
+        "episode": 34,
+        "released": "2025-08-31",
+        "overview": "In an exclusive interview with Meet the Press, Sen. James Lankford (R-Okla.) says \"the Federal Reserve is at its best when it's independent\" but \"they're not independent of the entire American people,\" adding that President Trump has a role to play in engaging with the economy. Rep. Ro Khanna, D-Calif., said that Federal Reserve governor Lisa Cook should release her mortgage documents but accused President Donald Trump of \"following Richard Nixon's playbook to interfere with\" the Federal Reserve. Dr. Demetre Daskalakis, the former director of the CDC's National Center for Immunization and Respiratory Diseases, joins Meet the Press NOW to discuss why he resigned from the agency and the future health policies under the Trump administration. Former \"Today\" co-anchor Hoda Kotb joins Kristen Welker for a Meet the Moment conversation about landing her dream job later in life and adopting children in her fifties."
+      },
+      {
+        "id": "tvmaze:3341486",
+        "title": "Gov. Wes Moore, Sec. Scott Bessent, Sen. Cory Booker",
+        "season": 2025,
+        "episode": 35,
+        "released": "2025-09-07",
+        "overview": "In an exclusive interview with Meet the Press, Treasury Secretary Scott Bessent addresses concerns of a troubled economy after a disappointing jobs report raises doubts about President Trump's economic agenda. In an exclusive interview with Meet the Press, Gov. Wes Moore (D-Md.) calls out President Trump's \"big, beautiful bill\" for cutting violence prevention programs in Maryland amid the president's offer to send troops into Baltimore to curb crime. In an exclusive interview with Meet the Press, Sen. Cory Booker (D-N.J.) says he believes HHS Secretary Robert F. Kennedy Jr., as well as President Trump's entire Cabinet, should step down for not \"protecting Americans' health.\" NBC News Chief Data Analyst Steve Kornacki joins Meet the Press to break down a new NBC News Decision Desk poll, powered by SurveyMonkey."
+      },
+      {
+        "id": "tvmaze:3352184",
+        "title": "Sen. Mark Kelly, Sen. Lindsey Graham, Gov. Spencer Cox, Pete Buttigieg",
+        "season": 2025,
+        "episode": 36,
+        "released": "2025-09-14",
+        "overview": "Utah Gov. Spencer Cox (R) joins Meet the Press after the assassination of conservative activist Charlie Kirk at Utah Valley University, saying the suspect came from a conservative family \"but his ideology was very different than his family.\" Cox also shares new details about the suspect's roommate. Sen. Mark Kelly (D-Ariz.) joins Meet the Press in an exclusive interview after the assassination of conservative activist Charlie Kirk, and talks about his family's personal experience with political violence. Former Transportation Secretary Pete Buttigieg joins Meet the Press in an exclusive interview after the assassination of conservative activist Charlie Kirk, and discusses how leaders should respond to this moment. Sen. Lindsey Graham (R-S.C.) joins Meet the Press in an exclusive interview after the assassination of conservative activist Charlie Kirk."
+      },
+      {
+        "id": "tvmaze:3361748",
+        "title": "Gov. Josh Shapiro, Sen. Rand Paul, Mel Robbins",
+        "season": 2025,
+        "episode": 37,
+        "released": "2025-09-21",
+        "overview": "In an exclusive interview with Meet the Press, Gov. Josh Shapiro (D-Pa.) reflects on political violence in America as thousands gather for the funeral of conservative activist Charlie Kirk — and recalls when his own home was firebombed earlier this year. In an exclusive interview with Meet the Press, Sen. Rand Paul (R-Ky.) pushes for all partisan politics to be \"out of the judicial system\" as President Trump asks Attorney General Pam Bondi to prosecute his political opponents. Author and podcast host Mel Robbins joins Kristen Welker for a Meet the Moment conversation about her book \"The Let Them Theory,\" which explores how letting go of control can help people live with greater clarity and purpose."
+      },
+      {
+        "id": "tvmaze:3368544",
+        "title": "Sen. John Thune, Andrew Cuomo, Sen. Chuck Schumer",
+        "season": 2025,
+        "episode": 38,
+        "released": "2025-09-28",
+        "overview": "In an exclusive interview with Meet the Press, Senate Majority Leader John Thune (R-S.D.) weighs in on the battle over federal funding, just days away from a potential government shutdown. In an exclusive interview with Meet the Press, Senate Minority Leader Chuck Schumer (D-N.Y.) weighs in on the upcoming White House meeting between President Trump and congressional leaders as a potential government shutdown looms."
+      },
+      {
+        "id": "tvmaze:3376398",
+        "title": "Rep. Hakeem Jeffries, Sen. Adam Schiff, Rep. Mike Johnson",
+        "season": 2025,
+        "episode": 39,
+        "released": "2025-10-05",
+        "overview": "Secretary of State Marco Rubio reacts to Hamas agreeing to release all Israeli hostages from Gaza. House Speaker Mike Johnson (R-La.), House Minority Leader Hakeem Jeffries (D-N.Y.) and Sen. Adam Schiff (D-Calif.) weigh in on the government shutdown. Andrea Mitchell, Ryan Nobles, Marc Short and Neera Tanden join the roundtable."
+      },
+      {
+        "id": "tvmaze:3384084",
+        "title": "V.P. JD Vance, Sen. Mark Kelly, Sen. Lindsey Graham",
+        "season": 2025,
+        "episode": 40,
+        "released": "2025-10-12",
+        "overview": "Vice President JD Vance joins Meet the Press as President Trump travels to the Middle East to sign a deal aimed at ending the Gaza war, while tensions mount in Washington as the government shutdown drags on with no end in sight. In an interview with Meet the Press, Sen. Mark Kelly (D-Ariz.) warns that Americans' \"health care is running toward a cliff\" if Republicans and Democrats cannot negotiate a solution to end the government shutdown. In an exclusive interview with Meet the Press, Sen. Lindsey Graham (R-S.C.) weighs in on the government shutdown and the peace deal between Israel and Hamas, which he hopes leads to the end to the war in Gaza."
+      },
+      {
+        "id": "tvmaze:3390638",
+        "title": "Pre. Volodymyr Zelenskyy, Sen. Rand Paul, Sen. Tim Kaine",
+        "season": 2025,
+        "episode": 41,
+        "released": "2025-10-19",
+        "overview": "In an exclusive interview with Meet the Press, Ukrainian President Volodymyr Zelenskyy says that after President Trump's breakthrough deal in the Middle East, he should take a similar approach with Russian President Vladimir Putin — but with even greater pressure to end the war in Ukraine. In an exclusive interview with Meet the Press, Sen. Rand Paul (R-Ky.) – the lone GOP holdout on the government funding bills – says he would support standalone legislation to pay federal employees and troops missing paychecks but won't vote to reopen the government without addressing U.S. spending levels. In an exclusive interview with Meet the Press, Sen. Tim Kaine (D-Va.) defends the Democrats' decision to oppose GOP spending bills and criticizes Senate Republican Leader John Thune's offer to hold a vote on extending Obama subsidies – but only if Democrats first vote to reopen the government. Sara Fagen, Carol Lee, Susan Page and Neera Tanden join the roundtable."
+      },
+      {
+        "id": "tvmaze:3397753",
+        "title": "Sec. Scott Bessent, Sen. Ruben Gallego, Chef Marcus Samelsson",
+        "season": 2025,
+        "episode": 42,
+        "released": "2025-10-26",
+        "overview": "Treasury Secretary Scott Bessent weighs in on rising trade tensions as President Trump prepares for high-stakes talks with China. Sen. Ruben Gallego (D-Ariz.) reacts to the tearing down of the White House's East Wing to make room for President Trump's new ballroom. Ashley Etienne, Susan Glasser, Marc Short and Andrew Ross Sorkin join the roundtable. Chef Marcus Samuelsson sits down with Kristen Welker for a \"Meet the Moment\" conversation."
+      },
+      {
+        "id": "tvmaze:3404735",
+        "title": "Gov. Gavin Newsom",
+        "season": 2025,
+        "episode": 43,
+        "released": "2025-11-02",
+        "overview": "Gov. Gavin Newsom (D-Calif.) joins for a wide-ranging interview on his fight with President Trump, his defense of former President Biden and his own political future. Steve Kornacki breaks down a new NBC News poll two days out from critical elections. Adrienne Elrod, Matt Gorman, Jonathan Martin and Melanie Zanona join the roundtable."
+      },
+      {
+        "id": "tvmaze:3425253",
+        "title": "Sen. James Lankford, Rep. Hakeem Jeffries, Jon M. Chu",
+        "season": 2025,
+        "episode": 44,
+        "released": "2025-11-09",
+        "overview": "In an exclusive interview with Meet the Press, Sen. James Lankford (R-Okla.) pushed back against Democrats' claims that Republicans are ‘weaponizing hunger' by withholding SNAP funding, and called on the party to ‘just fix the problem' by voting to reopen the government. In an exclusive interview with Meet the Press, House Minority Leader Hakeem Jeffries (D-N.Y.) says Republicans are \"not acting in good faith\" after they dismissed Senate Minority Leader Chuck Schumer's (D-N.Y.) proposal to end the government shutdown by passing a one-year extension of the Affordable Care Act tax credits. Ashley Etienne, Ryan Nobles, Marc Short and Amy Walter join the roundtable. \"Wicked: For Good\" director Jon M. Chu joins Kristen Welker for a Meet the Moment conversation."
+      },
+      {
+        "id": "tvmaze:3432641",
+        "title": "Sen. Tim Kaine, Rep. Ro Khanna, Sen. John Barrasso",
+        "season": 2025,
+        "episode": 45,
+        "released": "2025-11-16",
+        "overview": "Sen. Tim Kaine (D-Va.), Rep. Ro Khanna (D-Calif.) and Senate Majority Whip John Barrasso (R-Wyo.) weigh in on the government reopening, the Democratic divide over Senate Majority Leader Chuck Schumer's leadership and the Republican split over the release of the Epstein files. Peter Alexander, Jamelle Bouie, Leigh Ann Caldwell and Lanhee Chen join the roundtable."
+      },
+      {
+        "id": "tvmaze:3438909",
+        "title": "Zohran Mamdani, Sen. Amy Klobuchar, Sec. Scott Bessent",
+        "season": 2025,
+        "episode": 46,
+        "released": "2025-11-23",
+        "overview": "New York City Mayor-elect Zohran Mamdani joins exclusively to break down his Oval Office meeting with President Trump. Treasury Secretary Scott Bessent explains why the Trump administration is rolling back tariffs on certain food products. Sen. Amy Klobuchar (D-Minn.) responds to Trump calling for some Democrats to be arrested after they urged service members to refuse illegal orders. Sara Fagen, Hallie Jackson, former Sec. Jeh Johnson and Jonathan Martin join the roundtable."
+      },
+      {
+        "id": "tvmaze:3445666",
+        "title": "Sen. Mark Kelly, Sec. Kristi Noem, Gov. Tim Walz",
+        "season": 2025,
+        "episode": 47,
+        "released": "2025-11-30",
+        "overview": "Secretary of Homeland Security Kristi Noem and Sen. Mark Kelly (D-Ariz.) join Meet the Press as President Trump unveils a new immigration crackdown following an attack on National Guard members. Gov. Tim Walz (D-Minn.) responds to Trump's slur-filled tirade about him and his state. Former Rep. Val Demings (D-Fla.), Mike Dubke and Susan Glasser join the roundtable."
+      },
+      {
+        "id": "tvmaze:3451237",
+        "title": "Rep. James Clyburn, Sen. Tom Cotton, Sen. Adam Schiff",
+        "season": 2025,
+        "episode": 48,
+        "released": "2025-12-07",
+        "overview": "Sens. Tom Cotton (R-Ark.) and Adam Schiff (D-Calif.) join as questions grow over the military's lethal strikes on alleged drug boats. Rep. Jim Clyburn (D-S.C.) reacts to the Supreme Court allowing Texas to use a new congressional district map drawn to boost Republicans. Adrienne Elrod, Sam Jacobs, Peggy Noonan and Susan Page join the roundtable."
+      },
+      {
+        "id": "tvmaze:3457593",
+        "title": "Dec 14, 2025",
+        "season": 2025,
+        "episode": 49,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3467659",
+        "title": "Dec 21, 2025",
+        "season": 2025,
+        "episode": 50,
+        "released": "2025-12-21",
+        "overview": ""
+      }
+    ]
+  }
+}

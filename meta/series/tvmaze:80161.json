@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:80161",
+    "type": "series",
+    "name": "Finnerty",
+    "description": "Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/539/1348455.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/539/1348455.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3459969",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

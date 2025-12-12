@@ -1,0 +1,3572 @@
+{
+  "meta": {
+    "id": "tvmaze:36478",
+    "type": "series",
+    "name": "Two Guys Garage",
+    "description": "From pistons to painting, welding to wheel balancing, dyno and track testing, Two Guys Garage covers virtually every aspect of vehicle repairing, customizing and restoring. Hosts Kevin Byrd and Willie B perform product demonstrations and installations on a wide variety of import and domestic cars and light trucks, and they show viewers the right way to execute modifications with hands-on projects throughout the season.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/486/1216070.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/486/1216070.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449208",
+        "title": "Cars for Christmas",
+        "season": 24,
+        "episode": 10,
+        "released": "2025-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459061",
+        "title": "High Performance Distributors",
+        "season": 1,
+        "episode": 1,
+        "released": "2002-05-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459142",
+        "title": "Cast Iron Welding",
+        "season": 1,
+        "episode": 2,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459143",
+        "title": "Troubleshooting On-Board Computers",
+        "season": 1,
+        "episode": 3,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459144",
+        "title": "Tow Vehicle Suspension Upgrade",
+        "season": 1,
+        "episode": 4,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459145",
+        "title": "CV Joint & Clutch Replacement",
+        "season": 1,
+        "episode": 5,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459146",
+        "title": "Performance Front End",
+        "season": 1,
+        "episode": 6,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459147",
+        "title": "Stainless Pick-Up",
+        "season": 1,
+        "episode": 7,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459148",
+        "title": "Diesel Power Upgrade",
+        "season": 1,
+        "episode": 8,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459149",
+        "title": "Sam and Dave Build Shop Tools",
+        "season": 1,
+        "episode": 9,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459150",
+        "title": "Got Sludge?",
+        "season": 1,
+        "episode": 10,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459151",
+        "title": "Late Model Engine Performance Service",
+        "season": 1,
+        "episode": 11,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459152",
+        "title": "Ins and Outs of Nuts and Bolts",
+        "season": 1,
+        "episode": 12,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459153",
+        "title": "Steering You Right",
+        "season": 1,
+        "episode": 13,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459154",
+        "title": "Hitches & Headaches",
+        "season": 1,
+        "episode": 14,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459155",
+        "title": "Staying Cool",
+        "season": 1,
+        "episode": 15,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459156",
+        "title": "Charging System",
+        "season": 1,
+        "episode": 16,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459157",
+        "title": "Engine Building Contest",
+        "season": 1,
+        "episode": 17,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459158",
+        "title": "Handling the Weather",
+        "season": 1,
+        "episode": 18,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459159",
+        "title": "Inside Your Rack",
+        "season": 1,
+        "episode": 19,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459160",
+        "title": "Perfect Timing",
+        "season": 1,
+        "episode": 20,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459161",
+        "title": "High Pressure Diesel",
+        "season": 1,
+        "episode": 21,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459162",
+        "title": "Detecting Head Gasket Failures",
+        "season": 1,
+        "episode": 22,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459163",
+        "title": "First Run Checklist",
+        "season": 1,
+        "episode": 23,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459164",
+        "title": "A/C Contamination",
+        "season": 1,
+        "episode": 24,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459165",
+        "title": "Project El Camino: Quarter Panel Replacement",
+        "season": 1,
+        "episode": 25,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459166",
+        "title": "Used Car Appeal",
+        "season": 1,
+        "episode": 26,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459167",
+        "title": "A/C Conversion",
+        "season": 2,
+        "episode": 1,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459168",
+        "title": "Welding Aluminum",
+        "season": 2,
+        "episode": 2,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459169",
+        "title": "Heavy Duty Brake Job",
+        "season": 2,
+        "episode": 3,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459170",
+        "title": "Inside the Tranny",
+        "season": 2,
+        "episode": 4,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459171",
+        "title": "Street Rod Wiring",
+        "season": 2,
+        "episode": 5,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459172",
+        "title": "Cooling Leak Detection",
+        "season": 2,
+        "episode": 6,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459173",
+        "title": "Salvage Yard Treasures",
+        "season": 2,
+        "episode": 7,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459174",
+        "title": "Ring and Pinion Install Tips",
+        "season": 2,
+        "episode": 8,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459175",
+        "title": "Go for Launch",
+        "season": 2,
+        "episode": 9,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459176",
+        "title": "An Exhausting Day",
+        "season": 2,
+        "episode": 10,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459177",
+        "title": "Over-Bearing Problems",
+        "season": 2,
+        "episode": 11,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459178",
+        "title": "Diesel on ICE",
+        "season": 2,
+        "episode": 12,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459179",
+        "title": "Bending the Lines",
+        "season": 2,
+        "episode": 13,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459180",
+        "title": "Getting Started",
+        "season": 2,
+        "episode": 14,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459181",
+        "title": "Balancing Act",
+        "season": 2,
+        "episode": 15,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459182",
+        "title": "5th Wheel Hitch Install",
+        "season": 2,
+        "episode": 16,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459183",
+        "title": "Project Mustang: Suspension",
+        "season": 2,
+        "episode": 17,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459184",
+        "title": "Project Mustang: Carburetion",
+        "season": 2,
+        "episode": 18,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459185",
+        "title": "Project Mustang Dyno Tuning",
+        "season": 2,
+        "episode": 19,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459186",
+        "title": "Project El Camino: The Doors",
+        "season": 2,
+        "episode": 20,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459187",
+        "title": "Go Kartin'",
+        "season": 2,
+        "episode": 21,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459188",
+        "title": "LS1 Engine Build",
+        "season": 2,
+        "episode": 22,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459189",
+        "title": "Performance Exhaust",
+        "season": 2,
+        "episode": 23,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459190",
+        "title": "2003 AAIW Special (SEMA and AAPEX)",
+        "season": 2,
+        "episode": 24,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459191",
+        "title": "Interior Facelift",
+        "season": 2,
+        "episode": 25,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459192",
+        "title": "Shop Tips",
+        "season": 2,
+        "episode": 26,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459193",
+        "title": "Fuel System Diagnostics",
+        "season": 3,
+        "episode": 1,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459194",
+        "title": "Muscle Car Rehab",
+        "season": 3,
+        "episode": 2,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459195",
+        "title": "Diesel Performance Upgrade",
+        "season": 3,
+        "episode": 3,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459196",
+        "title": "Welding Failures",
+        "season": 3,
+        "episode": 4,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459197",
+        "title": "CV Joint Replacement",
+        "season": 3,
+        "episode": 5,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459198",
+        "title": "Engine Cooling",
+        "season": 3,
+        "episode": 6,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459199",
+        "title": "Transmission Reseal",
+        "season": 3,
+        "episode": 7,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459200",
+        "title": "Twin Turbo Diesel Power",
+        "season": 3,
+        "episode": 8,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459201",
+        "title": "Cummins Power",
+        "season": 3,
+        "episode": 9,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459202",
+        "title": "Camaro Engine Swap Part 1",
+        "season": 3,
+        "episode": 10,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459203",
+        "title": "Camaro Engine Swap Part 2",
+        "season": 3,
+        "episode": 11,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459204",
+        "title": "Transmission Power",
+        "season": 3,
+        "episode": 12,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459205",
+        "title": "Project Camaro: Weatherproofing",
+        "season": 3,
+        "episode": 13,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459206",
+        "title": "Superchips: More Power for Tow and Go",
+        "season": 3,
+        "episode": 14,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459207",
+        "title": "Project Camaro Interior Part 1",
+        "season": 3,
+        "episode": 15,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459208",
+        "title": "Project Camaro Interior Part 2",
+        "season": 3,
+        "episode": 16,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459209",
+        "title": "Getting Ready for Winter",
+        "season": 3,
+        "episode": 17,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459210",
+        "title": "Project '68 Camaro: Rear End",
+        "season": 3,
+        "episode": 18,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459211",
+        "title": "Project '68 Camaro: Front End",
+        "season": 3,
+        "episode": 19,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459212",
+        "title": "Serpentine Belt Conversion",
+        "season": 3,
+        "episode": 20,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459213",
+        "title": "2004 AAIW Special (SEMA and AAPEX)",
+        "season": 3,
+        "episode": 21,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459214",
+        "title": "Turbo Camaro",
+        "season": 3,
+        "episode": 22,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459215",
+        "title": "4-Cylinder Power Upgrade",
+        "season": 3,
+        "episode": 23,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459216",
+        "title": "Race Car / Spare Motor Buildup",
+        "season": 3,
+        "episode": 24,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459217",
+        "title": "All You Need is a Welder",
+        "season": 3,
+        "episode": 25,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459218",
+        "title": "Race Car Clutch Tech",
+        "season": 3,
+        "episode": 26,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459221",
+        "title": "Performance Pads",
+        "season": 4,
+        "episode": 1,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459222",
+        "title": "PERFECT Engine Management",
+        "season": 4,
+        "episode": 2,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459223",
+        "title": "Diesel Exhaust",
+        "season": 4,
+        "episode": 3,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459224",
+        "title": "Give 'em Da Boot",
+        "season": 4,
+        "episode": 4,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459225",
+        "title": "Over the Edge",
+        "season": 4,
+        "episode": 5,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459226",
+        "title": "Lund Focus",
+        "season": 4,
+        "episode": 6,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459227",
+        "title": "Road Dyno Performance",
+        "season": 4,
+        "episode": 7,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459228",
+        "title": "Diagnostics",
+        "season": 4,
+        "episode": 8,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459229",
+        "title": "Diesel Transmission Upgrade",
+        "season": 4,
+        "episode": 9,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459230",
+        "title": "More Power",
+        "season": 4,
+        "episode": 10,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459231",
+        "title": "Engine Accessorizing",
+        "season": 4,
+        "episode": 11,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459232",
+        "title": "SUV Supercharged",
+        "season": 4,
+        "episode": 12,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459233",
+        "title": "Propane Injection",
+        "season": 4,
+        "episode": 13,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459234",
+        "title": "El Camino Re-Intro",
+        "season": 4,
+        "episode": 14,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459062",
+        "title": "Tuning & Performance",
+        "season": 4,
+        "episode": 15,
+        "released": "2005-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459235",
+        "title": "Advanced Curve",
+        "season": 4,
+        "episode": 16,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459236",
+        "title": "Maximize Your Fuel Economy",
+        "season": 4,
+        "episode": 17,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459237",
+        "title": "El Camino Part 1: Assembly",
+        "season": 4,
+        "episode": 18,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459238",
+        "title": "El Camino Part 2: Assembly",
+        "season": 4,
+        "episode": 19,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459239",
+        "title": "Beyond Service",
+        "season": 4,
+        "episode": 20,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459240",
+        "title": "2005 AAPEX/SEMA Shows",
+        "season": 4,
+        "episode": 21,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459241",
+        "title": "Precision TIG",
+        "season": 4,
+        "episode": 22,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459242",
+        "title": "Diesel Power Upgrade",
+        "season": 4,
+        "episode": 23,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459243",
+        "title": "Auto Graduates",
+        "season": 4,
+        "episode": 24,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459244",
+        "title": "69 Camaro Part 1",
+        "season": 4,
+        "episode": 25,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459245",
+        "title": "69 Camaro Part 2",
+        "season": 4,
+        "episode": 26,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459322",
+        "title": "Turbo Corvette",
+        "season": 5,
+        "episode": 1,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459323",
+        "title": "Summer Auto Maintentance",
+        "season": 5,
+        "episode": 2,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459324",
+        "title": "Diesel Performance",
+        "season": 5,
+        "episode": 3,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459325",
+        "title": "Hot Compact",
+        "season": 5,
+        "episode": 4,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459326",
+        "title": "Heavy Duty Towing Safely",
+        "season": 5,
+        "episode": 5,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459327",
+        "title": "Pony Up",
+        "season": 5,
+        "episode": 6,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459328",
+        "title": "F150 Performance Show",
+        "season": 5,
+        "episode": 7,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459329",
+        "title": "Behind the Scenes of Indy",
+        "season": 5,
+        "episode": 8,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459330",
+        "title": "Extra Charge",
+        "season": 5,
+        "episode": 9,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459331",
+        "title": "Twin 300s",
+        "season": 5,
+        "episode": 10,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459332",
+        "title": "More Maintenance",
+        "season": 5,
+        "episode": 11,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459333",
+        "title": "Rear End",
+        "season": 5,
+        "episode": 12,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459334",
+        "title": "Brake Job",
+        "season": 5,
+        "episode": 13,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459335",
+        "title": "ATS Diesel",
+        "season": 5,
+        "episode": 14,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459336",
+        "title": "Vision Show/Fall",
+        "season": 5,
+        "episode": 15,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459337",
+        "title": "El Camino is Back",
+        "season": 5,
+        "episode": 16,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459338",
+        "title": "Hot Rod Evaluation",
+        "season": 5,
+        "episode": 17,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459339",
+        "title": "Classy Chassis & Engine Upgrade",
+        "season": 5,
+        "episode": 18,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459340",
+        "title": "2006 SEMA/AAPEX Show",
+        "season": 5,
+        "episode": 19,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459341",
+        "title": "Hot Rod Dress Up Part 1",
+        "season": 5,
+        "episode": 20,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459342",
+        "title": "Hot Rod Dress Up Part 2",
+        "season": 5,
+        "episode": 21,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459343",
+        "title": "Hot Rod Event",
+        "season": 5,
+        "episode": 22,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459344",
+        "title": "Light Maintenance",
+        "season": 5,
+        "episode": 23,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459345",
+        "title": "Visit from Rusty",
+        "season": 5,
+        "episode": 24,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459346",
+        "title": "Used Car Makeover",
+        "season": 5,
+        "episode": 25,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459347",
+        "title": "Fix the Falcon",
+        "season": 5,
+        "episode": 26,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459293",
+        "title": "F150 Towing Upgrade",
+        "season": 6,
+        "episode": 1,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459294",
+        "title": "Charity Begins in the Garage",
+        "season": 6,
+        "episode": 2,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459295",
+        "title": "Total Control",
+        "season": 6,
+        "episode": 3,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459296",
+        "title": "Something Old...Something New",
+        "season": 6,
+        "episode": 4,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459297",
+        "title": "Strength Test",
+        "season": 6,
+        "episode": 5,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459298",
+        "title": "Maintenance for Charity",
+        "season": 6,
+        "episode": 6,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459299",
+        "title": "Leaky Fluids",
+        "season": 6,
+        "episode": 7,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459300",
+        "title": "Sam Visits Rusty",
+        "season": 6,
+        "episode": 8,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459301",
+        "title": "Dyno Diagnostics",
+        "season": 6,
+        "episode": 9,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459302",
+        "title": "Muscle Car",
+        "season": 6,
+        "episode": 10,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459303",
+        "title": "Hot Rod Engine Stand",
+        "season": 6,
+        "episode": 11,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459304",
+        "title": "Power Steering Fix",
+        "season": 6,
+        "episode": 12,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459305",
+        "title": "Classic Car Rust Busters",
+        "season": 6,
+        "episode": 13,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459306",
+        "title": "ATS Diesel",
+        "season": 6,
+        "episode": 14,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459307",
+        "title": "1929 Model \"A\" Pick Up",
+        "season": 6,
+        "episode": 15,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459308",
+        "title": "linder Head Evaluation",
+        "season": 6,
+        "episode": 16,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459309",
+        "title": "Body Work",
+        "season": 6,
+        "episode": 17,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459310",
+        "title": "Rolling Chassis",
+        "season": 6,
+        "episode": 18,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459311",
+        "title": "Window Conversion",
+        "season": 6,
+        "episode": 19,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459312",
+        "title": "Mustang Suspension",
+        "season": 6,
+        "episode": 20,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459315",
+        "title": "Steering Columns",
+        "season": 6,
+        "episode": 21,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459316",
+        "title": "Turkey Run",
+        "season": 6,
+        "episode": 22,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459317",
+        "title": "Face-Lift",
+        "season": 6,
+        "episode": 23,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459318",
+        "title": "Project Evaluation",
+        "season": 6,
+        "episode": 24,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459319",
+        "title": "Fairlane Update",
+        "season": 6,
+        "episode": 25,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459320",
+        "title": "Vintage Tractor",
+        "season": 6,
+        "episode": 26,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459267",
+        "title": "Clean, Green and Mean",
+        "season": 7,
+        "episode": 1,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459268",
+        "title": "Big Hoss Bundle",
+        "season": 7,
+        "episode": 2,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459269",
+        "title": "Exhausted",
+        "season": 7,
+        "episode": 3,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459270",
+        "title": "Toyota FJ Supercharger",
+        "season": 7,
+        "episode": 4,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459271",
+        "title": "Project Impala",
+        "season": 7,
+        "episode": 5,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459272",
+        "title": "Big Truck Stuff",
+        "season": 7,
+        "episode": 6,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459273",
+        "title": "ATV Accessories",
+        "season": 7,
+        "episode": 7,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459274",
+        "title": "K&N",
+        "season": 7,
+        "episode": 8,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459275",
+        "title": "Engine Build Off",
+        "season": 7,
+        "episode": 9,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459276",
+        "title": "Impala Build",
+        "season": 7,
+        "episode": 10,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459277",
+        "title": "Rat Rod Show #1",
+        "season": 7,
+        "episode": 11,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459278",
+        "title": "Rat Rod Show #2",
+        "season": 7,
+        "episode": 12,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459279",
+        "title": "Trailer Build-Up",
+        "season": 7,
+        "episode": 13,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459280",
+        "title": "We've Been Framed",
+        "season": 7,
+        "episode": 14,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459281",
+        "title": "Monster Rat",
+        "season": 7,
+        "episode": 15,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459282",
+        "title": "The Impala Project Gets Wired",
+        "season": 7,
+        "episode": 16,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459283",
+        "title": "Custom Rat Rod",
+        "season": 7,
+        "episode": 17,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459284",
+        "title": "The Rat Rod Returns - Steer Clear",
+        "season": 7,
+        "episode": 18,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459285",
+        "title": "Brake Time for Sam",
+        "season": 7,
+        "episode": 19,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459286",
+        "title": "Twin Camaros",
+        "season": 7,
+        "episode": 20,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459287",
+        "title": "Zmax",
+        "season": 7,
+        "episode": 21,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459288",
+        "title": "Rat Rod",
+        "season": 7,
+        "episode": 22,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459289",
+        "title": "Old Camaro #2",
+        "season": 7,
+        "episode": 23,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459290",
+        "title": "Small-Block Magic",
+        "season": 7,
+        "episode": 24,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459291",
+        "title": "Camaro Diagnostic",
+        "season": 7,
+        "episode": 25,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459292",
+        "title": "Rat Rod Ride",
+        "season": 7,
+        "episode": 26,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459251",
+        "title": "Surf City Garage",
+        "season": 8,
+        "episode": 1,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459252",
+        "title": "Paint Shop Lab",
+        "season": 8,
+        "episode": 2,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459063",
+        "title": "Super Wiring",
+        "season": 8,
+        "episode": 3,
+        "released": "2009-05-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459253",
+        "title": "Monster Muscle",
+        "season": 8,
+        "episode": 4,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459254",
+        "title": "Café Racer",
+        "season": 8,
+        "episode": 5,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459255",
+        "title": "Roadster Frame",
+        "season": 8,
+        "episode": 6,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459256",
+        "title": "Carb Re-Build",
+        "season": 8,
+        "episode": 7,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459257",
+        "title": "Nova Project",
+        "season": 8,
+        "episode": 8,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459258",
+        "title": "No Smoking",
+        "season": 8,
+        "episode": 9,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459259",
+        "title": "Maintenance Show",
+        "season": 8,
+        "episode": 10,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459260",
+        "title": "Transmission Components",
+        "season": 8,
+        "episode": 11,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459261",
+        "title": "Factory Five Tour",
+        "season": 8,
+        "episode": 12,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459262",
+        "title": "Wiring Demons",
+        "season": 8,
+        "episode": 13,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459263",
+        "title": "Killer Fuel Injection",
+        "season": 8,
+        "episode": 14,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459264",
+        "title": "The Fueller",
+        "season": 8,
+        "episode": 15,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459064",
+        "title": "Sam's New Cummins",
+        "season": 8,
+        "episode": 16,
+        "released": "2010-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459265",
+        "title": "Challenging Exhaust",
+        "season": 8,
+        "episode": 17,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459266",
+        "title": "Under the Knife",
+        "season": 8,
+        "episode": 18,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459065",
+        "title": "Factory Five Build Part 1: The Engine",
+        "season": 9,
+        "episode": 1,
+        "released": "2010-04-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459066",
+        "title": "Factory Five Build Part 2: The Body",
+        "season": 9,
+        "episode": 2,
+        "released": "2010-04-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459067",
+        "title": "Factory Five Build Part 3: The Test",
+        "season": 9,
+        "episode": 3,
+        "released": "2010-04-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459068",
+        "title": "Welding Tips",
+        "season": 9,
+        "episode": 4,
+        "released": "2010-06-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459069",
+        "title": "Custom Camaro",
+        "season": 9,
+        "episode": 5,
+        "released": "2010-06-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459070",
+        "title": "SuperNova",
+        "season": 9,
+        "episode": 6,
+        "released": "2010-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459071",
+        "title": "Magnaflow",
+        "season": 9,
+        "episode": 7,
+        "released": "2010-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459072",
+        "title": "FEAD System",
+        "season": 9,
+        "episode": 8,
+        "released": "2010-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459073",
+        "title": "2011 Mustang",
+        "season": 9,
+        "episode": 9,
+        "released": "2010-08-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459074",
+        "title": "Café Racer Gets Jets",
+        "season": 9,
+        "episode": 10,
+        "released": "2010-08-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459075",
+        "title": "Turbo Technology",
+        "season": 9,
+        "episode": 11,
+        "released": "2010-08-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459076",
+        "title": "Operation Comfort",
+        "season": 9,
+        "episode": 12,
+        "released": "2010-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459077",
+        "title": "Cold Air, Hot Rod",
+        "season": 9,
+        "episode": 13,
+        "released": "2010-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459078",
+        "title": "LSM3",
+        "season": 9,
+        "episode": 14,
+        "released": "2010-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459079",
+        "title": "Inside the Cat",
+        "season": 9,
+        "episode": 15,
+        "released": "2010-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459080",
+        "title": "Cool Tools",
+        "season": 9,
+        "episode": 16,
+        "released": "2010-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459081",
+        "title": "Boating Maintenance",
+        "season": 9,
+        "episode": 17,
+        "released": "2010-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459082",
+        "title": "Monster Transmission Auto Show",
+        "season": 9,
+        "episode": 18,
+        "released": "2010-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459083",
+        "title": "Power Steering Upgrade",
+        "season": 10,
+        "episode": 1,
+        "released": "2011-04-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459084",
+        "title": "Open House at Surf City Garage",
+        "season": 10,
+        "episode": 2,
+        "released": "2011-04-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459085",
+        "title": "F Sport Performance Upgrades",
+        "season": 10,
+        "episode": 3,
+        "released": "2011-04-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459086",
+        "title": "2004 Corvette Project",
+        "season": 10,
+        "episode": 4,
+        "released": "2011-05-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459087",
+        "title": "G-Oil",
+        "season": 10,
+        "episode": 5,
+        "released": "2011-05-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459088",
+        "title": "Pace Setter",
+        "season": 10,
+        "episode": 6,
+        "released": "2011-05-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459089",
+        "title": "2004 Federated Corvette Gets Shocked",
+        "season": 10,
+        "episode": 7,
+        "released": "2011-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459090",
+        "title": "Hot Hybrid",
+        "season": 10,
+        "episode": 8,
+        "released": "2011-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459091",
+        "title": "Car Collector Appreciation Day",
+        "season": 10,
+        "episode": 9,
+        "released": "2011-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459092",
+        "title": "2004 Corvette Upgrades",
+        "season": 10,
+        "episode": 10,
+        "released": "2011-08-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459093",
+        "title": "Air Flow System Diagnostics",
+        "season": 10,
+        "episode": 11,
+        "released": "2011-08-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459094",
+        "title": "Engine Cooling",
+        "season": 10,
+        "episode": 12,
+        "released": "2011-08-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459095",
+        "title": "2004 Corvette Completion",
+        "season": 10,
+        "episode": 13,
+        "released": "2011-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459096",
+        "title": "1967 Mustang Road Racer",
+        "season": 10,
+        "episode": 14,
+        "released": "2011-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459097",
+        "title": "Silence the Squeal",
+        "season": 10,
+        "episode": 15,
+        "released": "2011-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459098",
+        "title": "Magnaflow Performance",
+        "season": 10,
+        "episode": 16,
+        "released": "2011-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459099",
+        "title": "Fuel System",
+        "season": 10,
+        "episode": 17,
+        "released": "2011-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459100",
+        "title": "2012 Roush",
+        "season": 10,
+        "episode": 18,
+        "released": "2011-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459101",
+        "title": "KOI Cavalcade of Customs",
+        "season": 11,
+        "episode": 1,
+        "released": "2012-04-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459102",
+        "title": "Engine Stand Fabrication",
+        "season": 11,
+        "episode": 2,
+        "released": "2012-05-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459103",
+        "title": "Evolution of the LS Engine",
+        "season": 11,
+        "episode": 3,
+        "released": "2012-05-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459104",
+        "title": "Cool Tools",
+        "season": 11,
+        "episode": 4,
+        "released": "2012-05-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459105",
+        "title": "Rear Ends",
+        "season": 11,
+        "episode": 5,
+        "released": "2012-05-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459106",
+        "title": "G-OIL Racing",
+        "season": 11,
+        "episode": 6,
+        "released": "2012-06-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459107",
+        "title": "Crank It Over",
+        "season": 11,
+        "episode": 7,
+        "released": "2012-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459108",
+        "title": "A Turn for the Better",
+        "season": 11,
+        "episode": 8,
+        "released": "2012-08-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459109",
+        "title": "Body Fab",
+        "season": 11,
+        "episode": 9,
+        "released": "2011-08-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459110",
+        "title": "Impressive Subaru Power",
+        "season": 11,
+        "episode": 10,
+        "released": "2011-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459111",
+        "title": "Marine Corp Vette Part 1",
+        "season": 11,
+        "episode": 11,
+        "released": "2012-08-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459112",
+        "title": "Marine Corp Vette Part 2",
+        "season": 11,
+        "episode": 12,
+        "released": "2012-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459113",
+        "title": "Grudge Runs",
+        "season": 11,
+        "episode": 13,
+        "released": "2012-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459114",
+        "title": "I Don't Drive What I Can't Hear",
+        "season": 11,
+        "episode": 14,
+        "released": "2012-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459115",
+        "title": "Time for a Change",
+        "season": 11,
+        "episode": 15,
+        "released": "2012-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459116",
+        "title": "Twin Turbo Tuning",
+        "season": 11,
+        "episode": 16,
+        "released": "2012-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459117",
+        "title": "Willie's Road Runner",
+        "season": 11,
+        "episode": 17,
+        "released": "2012-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459118",
+        "title": "Artic Cat",
+        "season": 11,
+        "episode": 18,
+        "released": "2012-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459119",
+        "title": "69 Camaro Suspension Upgrade",
+        "season": 12,
+        "episode": 1,
+        "released": "2013-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459120",
+        "title": "Mopar Love",
+        "season": 12,
+        "episode": 2,
+        "released": "2013-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459121",
+        "title": "Custom Repair",
+        "season": 12,
+        "episode": 3,
+        "released": "2013-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459122",
+        "title": "Pony Parts",
+        "season": 12,
+        "episode": 4,
+        "released": "2013-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459123",
+        "title": "WeatherTech",
+        "season": 12,
+        "episode": 5,
+        "released": "2013-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459124",
+        "title": "Straighten Up",
+        "season": 12,
+        "episode": 6,
+        "released": "2013-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459125",
+        "title": "Evolution",
+        "season": 12,
+        "episode": 7,
+        "released": "2013-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459126",
+        "title": "ABS Tech",
+        "season": 12,
+        "episode": 8,
+        "released": "2013-05-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459127",
+        "title": "It's the Plasma",
+        "season": 12,
+        "episode": 9,
+        "released": "2013-05-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459128",
+        "title": "V6 Camaro Performance",
+        "season": 12,
+        "episode": 10,
+        "released": "2013-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459129",
+        "title": "Got Spark?",
+        "season": 12,
+        "episode": 11,
+        "released": "2013-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459249",
+        "title": "High Mileage Reboot",
+        "season": 12,
+        "episode": 12,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459248",
+        "title": "Get Dirty with Kenny",
+        "season": 12,
+        "episode": 13,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459250",
+        "title": "Geared Up",
+        "season": 12,
+        "episode": 14,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459130",
+        "title": "Stylin' Stang",
+        "season": 12,
+        "episode": 15,
+        "released": "2013-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459247",
+        "title": "Probing Situation",
+        "season": 12,
+        "episode": 16,
+        "released": null,
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459131",
+        "title": "Go with the Flow",
+        "season": 12,
+        "episode": 17,
+        "released": "2013-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459132",
+        "title": "Factory Five Build School",
+        "season": 12,
+        "episode": 18,
+        "released": "2013-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1459133",
+        "title": "Swapping out Performance Headers on a Z51 Corvette",
+        "season": 13,
+        "episode": 1,
+        "released": null,
+        "overview": "Kevin and Willie swap out performance headers on a Z51 Corvette, showing how not all headers are alike."
+      },
+      {
+        "id": "tvmaze:2686275",
+        "title": "'67 Cuda Engine Upgrade",
+        "season": 13,
+        "episode": 2,
+        "released": null,
+        "overview": "Willie shows off the new engine in his ‘67 Barracuda and gets Kevin to help upgrade his wiring and brakes."
+      },
+      {
+        "id": "tvmaze:2686276",
+        "title": "Examining the '49 Chevy Pick-up",
+        "season": 13,
+        "episode": 3,
+        "released": null,
+        "overview": "When a 1949 Chevy pick-up shows up at the shop, Kevin and Willie take a look at how far technology has come."
+      },
+      {
+        "id": "tvmaze:2686277",
+        "title": "Rotor Runout",
+        "season": 13,
+        "episode": 4,
+        "released": null,
+        "overview": "The guys tackle an issue with runout on a good set of rotors with the use of an on-car lathe."
+      },
+      {
+        "id": "tvmaze:2686278",
+        "title": "Scorpion Diesel Engine Deconstruction",
+        "season": 13,
+        "episode": 5,
+        "released": null,
+        "overview": "The guys do a complete deconstruction of the new Scorpion diesel engine, showing how the new technology and block design completely revolutionized the 6.7L engine."
+      },
+      {
+        "id": "tvmaze:2686279",
+        "title": "Project C5: Part 1",
+        "season": 13,
+        "episode": 6,
+        "released": null,
+        "overview": "Kevin and Willie take the engine out of a C5 Corvette, tear it down, and get it ready for a performance rebuild."
+      },
+      {
+        "id": "tvmaze:2686280",
+        "title": "2012 Mustang Clutch Repair",
+        "season": 13,
+        "episode": 7,
+        "released": null,
+        "overview": "The guys swap out a damaged clutch on a 2012 Mustang and go for performance with a lightweight twin plate clutch."
+      },
+      {
+        "id": "tvmaze:2686281",
+        "title": "Project C5: Part 2",
+        "season": 13,
+        "episode": 8,
+        "released": null,
+        "overview": "Our C5 project continues with a build up of the lower end of the LS1 engine."
+      },
+      {
+        "id": "tvmaze:2686282",
+        "title": "Project C5: Part 3",
+        "season": 13,
+        "episode": 9,
+        "released": null,
+        "overview": "The suspension gets completely reworked on the C5 Corvette. Then the guys finish up the engine, getting it ready for re-install."
+      },
+      {
+        "id": "tvmaze:2686283",
+        "title": "Supercharged Jeep",
+        "season": 13,
+        "episode": 10,
+        "released": null,
+        "overview": "Jeeps are notoriously underpowered, but it's nothing a supercharger can't fix."
+      },
+      {
+        "id": "tvmaze:2686284",
+        "title": "Body Panel Replacement",
+        "season": 13,
+        "episode": 11,
+        "released": null,
+        "overview": "The guys do their best to help a friend out with some body damage on a 1950 5-window pickup truck. Will it become too much to handle?"
+      },
+      {
+        "id": "tvmaze:2686285",
+        "title": "2000 Silverado Cooling Maintenance",
+        "season": 13,
+        "episode": 12,
+        "released": null,
+        "overview": "A 2000 Silverado comes in to the shop with a recurring cooling problem. The guys put their detective hats on and find the root of the problem."
+      },
+      {
+        "id": "tvmaze:2686286",
+        "title": "The Finishing Touches",
+        "season": 13,
+        "episode": 13,
+        "released": null,
+        "overview": "The guys learn what it takes to finish King of the Hammers with the ESAB sponsored Ultra Four race truck in the shop."
+      },
+      {
+        "id": "tvmaze:2686256",
+        "title": "Race Ya!",
+        "season": 14,
+        "episode": 1,
+        "released": null,
+        "overview": "When Kevin brings a punch-packing Dodge Charger into the garage, Willie gets an idea for a fast project of his own."
+      },
+      {
+        "id": "tvmaze:2686257",
+        "title": "Adventure Mobile",
+        "season": 14,
+        "episode": 2,
+        "released": null,
+        "overview": "The team at TheBlock.com asks for help from Kevin and Willie B. to outfit the ultimate road trip truck and raise awareness for a worthy cause."
+      },
+      {
+        "id": "tvmaze:2686258",
+        "title": "120,000 Mile Maintenance",
+        "season": 14,
+        "episode": 3,
+        "released": null,
+        "overview": "Have you ever wondered if you could fix your ride? Willie and Kevin will go over the most popular DIY repairs, you can do in your driveway/garage with some simple tools. This is a great way to save some serious money…"
+      },
+      {
+        "id": "tvmaze:2686262",
+        "title": "Duramax Diesel",
+        "season": 14,
+        "episode": 4,
+        "released": null,
+        "overview": "Wille B. and Kevin bring in a big truck with a big number on the odometer, in hopes they can keep it running for many more miles."
+      },
+      {
+        "id": "tvmaze:2686265",
+        "title": "G-Body Engine Swap",
+        "season": 14,
+        "episode": 5,
+        "released": null,
+        "overview": "Willie B and Kevin bring an old 442 into the shop in hopes of bringing it back to life, starting with a new engine and transmission."
+      },
+      {
+        "id": "tvmaze:2686267",
+        "title": "Ecoboost Unleashed",
+        "season": 14,
+        "episode": 6,
+        "released": null,
+        "overview": "Kevin and Willie B. tap into the pent-up power of a Ford F-150 EcoBoost by adding a new water-methanol injection system, intake, and exhaust before strapping it to the dyno."
+      },
+      {
+        "id": "tvmaze:2686268",
+        "title": "Wrap This Up",
+        "season": 14,
+        "episode": 7,
+        "released": null,
+        "overview": "Kevin and Willie are on a mission to finally finish two ongoing projects that have been taking up space in the garage."
+      },
+      {
+        "id": "tvmaze:2686269",
+        "title": "Mustang Power",
+        "season": 14,
+        "episode": 8,
+        "released": null,
+        "overview": "Kevin and Willie take a factory-supercharged Ford Mustang Shelby GT500 to the dyno and put its full horsepower potential to the test by adding a water-methanol injection system."
+      },
+      {
+        "id": "tvmaze:2686270",
+        "title": "Pratt & Miller",
+        "season": 14,
+        "episode": 9,
+        "released": null,
+        "overview": "Kevin heads to the world-renowned Pratt &amp; Miller Engineering Headquarters for a closer look at the company's upcoming projects and legendary past."
+      },
+      {
+        "id": "tvmaze:2686271",
+        "title": "Upgrade a Classic",
+        "season": 14,
+        "episode": 10,
+        "released": null,
+        "overview": "Kevin and Willie give a classic C-10 pickup a few improvements. Meanwhile, work continues on an ongoing 2015 truck project."
+      },
+      {
+        "id": "tvmaze:2686272",
+        "title": "Moab Jeep",
+        "season": 14,
+        "episode": 11,
+        "released": null,
+        "overview": "Willie and Kevin like going off-road as much as road racing… so they are helping out a local owner make his Jeep more off-road worthy."
+      },
+      {
+        "id": "tvmaze:2686273",
+        "title": "How to Buy a Classic Car",
+        "season": 14,
+        "episode": 12,
+        "released": null,
+        "overview": "Willie B. and Kevin use their years of expertise to decide if a 1955 Nomad will be the next addition to Willie's Collection. Along the way, they'll reveal what to look for when you're in the market for a classic car."
+      },
+      {
+        "id": "tvmaze:2686234",
+        "title": "Chevelle: Transmission Conversion - Part 1",
+        "season": 15,
+        "episode": 1,
+        "released": "2016-04-08",
+        "overview": "Kevin and Willie B take a 1970 Chevelle from an automatic to a manual transmission, outfitting the new engine along the way."
+      },
+      {
+        "id": "tvmaze:2686236",
+        "title": "Chevelle: New Interior - Part 2",
+        "season": 15,
+        "episode": 2,
+        "released": "2016-04-15",
+        "overview": "Willie B and Kevin finish up a 1970 Chevelle project with some much-needed attention to the interior."
+      },
+      {
+        "id": "tvmaze:2686237",
+        "title": "On-and-Offroad Jeep",
+        "season": 15,
+        "episode": 3,
+        "released": "2016-04-22",
+        "overview": "Kevin and Willie beef up the suspension on a 2014 Jeep JK to transform it from a daily driver into a weekend off-roading vehicle."
+      },
+      {
+        "id": "tvmaze:2686238",
+        "title": "Meaner Mustang",
+        "season": 15,
+        "episode": 4,
+        "released": "2016-05-06",
+        "overview": "Willie B and Kevin turn a mellow 2002 Mustang GT into a mean, lean, power machine with a few performance upgrades."
+      },
+      {
+        "id": "tvmaze:2686239",
+        "title": "A Tale of Two Trucks",
+        "season": 15,
+        "episode": 5,
+        "released": "2016-06-24",
+        "overview": "Kevin and Willie diagnose a noise issue on a high-mileage F-150; a battered old pickup shows up in the garage in need of serious repairs."
+      },
+      {
+        "id": "tvmaze:2686240",
+        "title": "EcoBoost Mustang",
+        "season": 15,
+        "episode": 6,
+        "released": "2016-07-01",
+        "overview": "Willie B. and Kevin go under the hood of the new Mustang EcoBoost 4-cylinder to add some performance upgrades; progress on an old pickup project continues with rust repair and new body panels."
+      },
+      {
+        "id": "tvmaze:2686241",
+        "title": "Tipsy Track Car",
+        "season": 15,
+        "episode": 7,
+        "released": "2016-07-08",
+        "overview": "When a 1969 Camaro with bad body roll is delivered to the shop, Kevin and Willie tackle the suspension to help it perform better on the track."
+      },
+      {
+        "id": "tvmaze:2686242",
+        "title": "A Pair of Pickups",
+        "season": 15,
+        "episode": 8,
+        "released": "2016-10-07",
+        "overview": "Kevin and Willie build a new bed for an ongoing 1973 truck project before solving some issues with the hub assembly on a hefty F-350."
+      },
+      {
+        "id": "tvmaze:2686243",
+        "title": "Sweepstakes Jeep",
+        "season": 15,
+        "episode": 9,
+        "released": "2016-10-14",
+        "overview": "Federated Auto Parts send Willie B. and Kevin a Jeep Wrangler to outfit with a new Dana 44 and a few other upgrades for a lucky winner."
+      },
+      {
+        "id": "tvmaze:2686244",
+        "title": "Make Some Noise",
+        "season": 15,
+        "episode": 10,
+        "released": "2016-10-21",
+        "overview": "With a powerful Dodge Challenger in the shop for maintenance and performance upgrades, Kevin and Willie can't resist adding on a new exhaust for the owner as well."
+      },
+      {
+        "id": "tvmaze:2686245",
+        "title": "Vintage M37 Engine Swap",
+        "season": 15,
+        "episode": 11,
+        "released": "2016-10-28",
+        "overview": "When Willie and Kevin find a 1953 M37 sitting in a friend's garage next to a Cummins 4BT and all the parts needed for an engine swap, they volunteer to provide the labor."
+      },
+      {
+        "id": "tvmaze:2686219",
+        "title": "Chevelle Re-Awakening",
+        "season": 16,
+        "episode": 1,
+        "released": "2017-04-09",
+        "overview": "The guys have a sweet 1970 Chevelle in the shop with a worn-out interior and a problematic cowl induction system seal. Plus, Kevin tackles the daunting task of rebuilding an infamous Rochester Quadrajet Carburetor."
+      },
+      {
+        "id": "tvmaze:2686222",
+        "title": "Impala Imposter",
+        "season": 16,
+        "episode": 2,
+        "released": "2017-04-16",
+        "overview": "Willie stumbles across a beautiful 1966 Impala, but its beauty is only skin-deep. Under the hood are rusty headers, a grimy engine block, and a host of other needed repairs. It's up to Willie and Kevin to restore this classic to its former glory."
+      },
+      {
+        "id": "tvmaze:2686223",
+        "title": "Dropping That C-10",
+        "season": 16,
+        "episode": 3,
+        "released": "2017-04-23",
+        "overview": "When the guys get their hands on a clean1986 square–body C–10, they give it a facelift…and a suspension drop. With its brand new look and stance, Willie and Kevin can't wait to reveal the truck to its owner."
+      },
+      {
+        "id": "tvmaze:2686224",
+        "title": "Pretty Fly for a GTI",
+        "season": 16,
+        "episode": 4,
+        "released": "2017-04-30",
+        "overview": "Kevin and Willie have an Autobahn edition 2013 MK6 VW GTI in the shop for performance upgrades. With a new turbo kit, exhaust, and a few other improvements, the guys plan to boost this car's status from \"daily driver\" to \"head-turner.\""
+      },
+      {
+        "id": "tvmaze:2686225",
+        "title": "Double Truck Trouble",
+        "season": 16,
+        "episode": 5,
+        "released": "2017-05-07",
+        "overview": "A friend of Kevin and Willie has not one, but two work trucks that need improvements for hauling heavy loads. Can the guys handle this double-order and finish both trucks in time for the owner to get them back on the job?"
+      },
+      {
+        "id": "tvmaze:2686226",
+        "title": "Moab Ready",
+        "season": 16,
+        "episode": 6,
+        "released": "2017-05-14",
+        "overview": "If you're headed for the formidable Moab Desert, your Jeep had better be ready for anything. Willie and Kevin are outfitting a Wrangler TJ and a Cherokee XJ to handle the harsh environment of the desert."
+      },
+      {
+        "id": "tvmaze:2686227",
+        "title": "WeatherTech Bound",
+        "season": 16,
+        "episode": 7,
+        "released": "2017-07-02",
+        "overview": "Kevin goes deep inside the WeatherTech manufacturing plant in Bolingbrook, Illinois for an inside look at how their products are proudly made in America."
+      },
+      {
+        "id": "tvmaze:2686228",
+        "title": "Can't Stop This Mini",
+        "season": 16,
+        "episode": 8,
+        "released": "2017-07-09",
+        "overview": "The guys take a 2004 Mini Cooper S and add some horsepower, some stopping power and fix a worn-out suspension to improve handling. But can they both fit inside it for a test drive?"
+      },
+      {
+        "id": "tvmaze:2686229",
+        "title": "Get it Runnin'",
+        "season": 16,
+        "episode": 9,
+        "released": "2017-07-16",
+        "overview": "Kevin and Willie have a problematic Trailblazer in the shop today. They tackle multiple issues and get it up and runnin' again. The guys also kick start a performance build project on a Gen5 Camaro!"
+      },
+      {
+        "id": "tvmaze:2686230",
+        "title": "Tuned up Stang'",
+        "season": 16,
+        "episode": 10,
+        "released": "2017-10-08",
+        "overview": "The guys have a 6-speed 2015 Mustang GT in the shop and they're adding some power by installing a cold air intake, an exhaust package, a tune and… a thermostat?!"
+      },
+      {
+        "id": "tvmaze:2686231",
+        "title": "Cobra Replica Kit Car Build",
+        "season": 16,
+        "episode": 11,
+        "released": "2017-10-15",
+        "overview": "Kevin and Willie are working on a build again, but this time it's no work truck! They're diving in head first on a 550 Horsepower Cobra Replica Kit Car!"
+      },
+      {
+        "id": "tvmaze:2686232",
+        "title": "Fun with a Gen 1 – Part 1",
+        "season": 16,
+        "episode": 12,
+        "released": "2017-10-22",
+        "overview": "Kevin and Willie have a Gen 1 Camaro in the shop and their work is cut out for them! They're installing a new sub frame, rack and pinion, brakes, gauges … and that's just half of the work!"
+      },
+      {
+        "id": "tvmaze:2686233",
+        "title": "More Fun with a Gen 1 – Part 2",
+        "season": 16,
+        "episode": 13,
+        "released": "2017-10-29",
+        "overview": "The Gen 1 Camaro is back in the shop and the guys still have a lot to do if they want to finish this build!"
+      },
+      {
+        "id": "tvmaze:2686203",
+        "title": "WeatherTech Racing - N.C. Facility",
+        "season": 17,
+        "episode": 1,
+        "released": "2017-12-10",
+        "overview": "Drivers start your engines! This week, Kevin takes a trip to racing country. We're giving you a backstage look at WeatherTech's Race Team and their North Carolina racing facility"
+      },
+      {
+        "id": "tvmaze:2686204",
+        "title": "Dang' Mustang",
+        "season": 17,
+        "episode": 2,
+        "released": "2018-04-08",
+        "overview": "The guys install a stiffer suspension on this Mustang to help get it ready for power adders and they toss on a new exhaust to sweeten its sound."
+      },
+      {
+        "id": "tvmaze:2686205",
+        "title": "Beat up Blazer",
+        "season": 17,
+        "episode": 3,
+        "released": "2018-04-15",
+        "overview": "Willie and Kevin freshen up a rough looking Chevy Blazer with paint and a new front fascia. They also fix a starting issue and get it running right again."
+      },
+      {
+        "id": "tvmaze:2686206",
+        "title": "Wrangler Ready",
+        "season": 17,
+        "episode": 4,
+        "released": "2018-04-22",
+        "overview": "The guys take a Jeep from meh, to mean - when they install a new long arm suspension kit to get this Jeep Wrangler Unlimited ready for the trails."
+      },
+      {
+        "id": "tvmaze:2686207",
+        "title": "Righteous Rear End",
+        "season": 17,
+        "episode": 5,
+        "released": "2018-04-29",
+        "overview": "This 2010 Camaro will soon be churning out close to 1000 Horsepower, so Kevin and Willie get it ready to handle that power by installing a new Ford 9 inch, new rear axle shafts, and a new drive shaft."
+      },
+      {
+        "id": "tvmaze:2686208",
+        "title": "WeatherTech Racing - 24 Hours of Daytona",
+        "season": 17,
+        "episode": 6,
+        "released": "2018-05-06",
+        "overview": "It's race time! Kevin and Willie venture to Daytona Beach, Florida where they give you an inside look at the WeatherTech Ferrari Race Team as they tackle the 24 Hours of Daytona."
+      },
+      {
+        "id": "tvmaze:2686209",
+        "title": "Two BMWs",
+        "season": 17,
+        "episode": 7,
+        "released": "2018-06-24",
+        "overview": "Kevin and Willie have two BMWs in the shop today, an M3 and a 528i. One is the weekend driver in need of a little more power, and the other is the family car that needs some maintenance after throwing a few codes."
+      },
+      {
+        "id": "tvmaze:2686210",
+        "title": "Super Duty Hauler",
+        "season": 17,
+        "episode": 8,
+        "released": "2018-07-01",
+        "overview": "The guys help this 2017 Ford Super Duty with a 5th wheel, see its loads better by adding a second rear camera. They also give it a little more get up and go with a performance tune."
+      },
+      {
+        "id": "tvmaze:2686211",
+        "title": "Federated Project Truck",
+        "season": 17,
+        "episode": 9,
+        "released": "2018-07-08",
+        "overview": "The guys have Federated's 1990 454SS Project Truck in house and they're doing a ton of work to it. From brakes and shocks to chassis work, this truck needs some love."
+      },
+      {
+        "id": "tvmaze:2686212",
+        "title": "2013 Jeep Wrangler Jk Steering",
+        "season": 17,
+        "episode": 10,
+        "released": "2018-10-07",
+        "overview": "The guys tackle a steering issue in this supped up Jeep by replacing the worn-out power steering gear and installing a new power steering cooler. They toss in a few extras for the owner as well."
+      },
+      {
+        "id": "tvmaze:2686213",
+        "title": "2007 Chevy Impala Maintenance",
+        "season": 17,
+        "episode": 11,
+        "released": "2018-10-14",
+        "overview": "With a toddler on the way, Kevin and Willie help get their friend's police edition Chevy Impala family ready by tackling various maintenance issues and doing an upgrade or two."
+      },
+      {
+        "id": "tvmaze:2686214",
+        "title": "Mopar Day",
+        "season": 17,
+        "episode": 12,
+        "released": "2018-10-21",
+        "overview": "The guys help a 2009 Challenger owner add a little more get up and go to her car. Willie also sets up a trade deal with a '70 Cuda owner to help get his car a little closer to restoration time."
+      },
+      {
+        "id": "tvmaze:2686215",
+        "title": "2014 C7 Corvette Power",
+        "season": 17,
+        "episode": 13,
+        "released": "2018-10-28",
+        "overview": "We've got a bright yellow C7 in the shop today and Kevin and Willie are installing new specialized long tube headers, exhaust and other extras to make this already robust platform even more powerful."
+      },
+      {
+        "id": "tvmaze:2686190",
+        "title": "Pontiac G8",
+        "season": 18,
+        "episode": 1,
+        "released": "2019-04-07",
+        "overview": "The guys have a Pontiac G8 in the shop with a leaking exhaust and rusted out headers. After a little fabrication work on the exhaust and replacing the headers, they finish off the day by adding a paddle shifter this LS driven classic sedan."
+      },
+      {
+        "id": "tvmaze:2686191",
+        "title": "Lifted F-150",
+        "season": 18,
+        "episode": 2,
+        "released": "2019-04-14",
+        "overview": "Willie and Kevin take a stock F-150 from boring to bold. After doing a 6-inch lift kit, they replace a problematic AC compressor, add new brakes &amp; rotors, and finish it off with new wheels, tires, and a tonneau cover before taking it out for a spin."
+      },
+      {
+        "id": "tvmaze:2686192",
+        "title": "67 Paint and Body Work",
+        "season": 18,
+        "episode": 3,
+        "released": "2019-04-21",
+        "overview": "The guys have a '67 Mustang resto' project in the shop that has come to a standstill. The owner needs help moving it along, so they wet blast it and show how to properly replace a metal rear quarter panel while getting it ready to continue its restoration"
+      },
+      {
+        "id": "tvmaze:2686193",
+        "title": "1994 Gen 1 Viper",
+        "season": 18,
+        "episode": 4,
+        "released": "2019-04-28",
+        "overview": "Willie and Kevin get a Dodge Viper in the shop! Even with its low miles, the clutch is slipping and needs to be replaced. They get to work and dive into replacing the clutch and flywheel to get this one of a kind American V10, ripping back down the road."
+      },
+      {
+        "id": "tvmaze:2686194",
+        "title": "Ecoboost Mustang",
+        "season": 18,
+        "episode": 5,
+        "released": "2019-06-23",
+        "overview": "The guys have a 2016 Mustang with an Ecoboost engine in the shop that is in need of more power. So Kevin and Willie add a new turbo and intercooler to boost this 4-cylinder engine from mild to wild!"
+      },
+      {
+        "id": "tvmaze:2686195",
+        "title": "GMC Tow Rig Upgrades",
+        "season": 18,
+        "episode": 6,
+        "released": "2019-06-30",
+        "overview": "Kevin and Willie have a 2016 GMC Sierra 1500 in the shop today. The owner bought a new boat and needs a few accessories added to complete the package. So, the guys add automatic power side steps, tow mirrors, and a new performance programmer."
+      },
+      {
+        "id": "tvmaze:2686196",
+        "title": "1974 Nova",
+        "season": 18,
+        "episode": 7,
+        "released": "2019-07-07",
+        "overview": "The guys have a '74 Nova in the shop that desperately needs some help. The project has stalled, and the guys jump in to help the owner get it moving again. So, Kevin and Willie get the interior finished up and toss in a few needed extras."
+      },
+      {
+        "id": "tvmaze:2686197",
+        "title": "Lifted Jeep",
+        "season": 18,
+        "episode": 8,
+        "released": "2019-10-06",
+        "overview": "The guys get their hands on a 2019 Jeep JL. They'll be lifting it, adding new wheels and tires and installing a new exhaust to give this stock Jeep the look and sound that it deserves."
+      },
+      {
+        "id": "tvmaze:2686198",
+        "title": "BMW Manual Labor",
+        "season": 18,
+        "episode": 9,
+        "released": "2019-10-13",
+        "overview": "A 2004 BMW M3 is in the shop with a faulty SMG transmission. The owner wants to put the fun back in driving by making it a true manual, and since conversion is cheaper than replacement, the guys set out to make this swap happen."
+      },
+      {
+        "id": "tvmaze:2686199",
+        "title": "Ranger Maintenance",
+        "season": 18,
+        "episode": 10,
+        "released": "2019-10-20",
+        "overview": "The years have not been kind to a daily-driver '99 Ford Ranger. The guys will replace the front and rear suspension and the power-steering pump, then tackle some other maintenance issues to get this truck driving safely again."
+      },
+      {
+        "id": "tvmaze:2686200",
+        "title": "Trackhawk!",
+        "season": 18,
+        "episode": 11,
+        "released": "2019-10-27",
+        "overview": "Kevin and Willie are stoked when one of the quickest SUVs in the world rolls into the shop, the Jeep Trackhawk. They'll take the supercharged Hellcat V8, with its factory 707 horsepower, and give it an extra boost."
+      },
+      {
+        "id": "tvmaze:2686201",
+        "title": "Saab Story",
+        "season": 18,
+        "episode": 12,
+        "released": "2019-11-03",
+        "overview": "Kevin and Willie tackle a DOD/AFM delete on a 2008 Saab 9-7X. They swap out the camshaft, lifters, valley plate and other parts to give this engine its power back. Then it's off to Detroit for Dyno Willie's ARP Hemi engine build."
+      },
+      {
+        "id": "tvmaze:2686202",
+        "title": "Veteran Paint Job",
+        "season": 18,
+        "episode": 13,
+        "released": "2019-11-10",
+        "overview": "Kevin helps a veteran buddy get his bike ready for Biketoberfest. They'll wet blast some of the bike and properly lay paint on it. Then it's back to Detroit one more time to dyno Kevin's completed ARP Coyote engine build."
+      },
+      {
+        "id": "tvmaze:2686146",
+        "title": "Strip to Street",
+        "season": 19,
+        "episode": 1,
+        "released": "2020-04-05",
+        "overview": "A classic '69 Camaro was once a street and strip beast, but now it's ready to be fitted for a new life as a pro touring car. Kevin and Willie will do a drum-to-disc conversion, replace some worn-out parts, and give the owner a few gifts to top it off."
+      },
+      {
+        "id": "tvmaze:2686147",
+        "title": "See It Made With Dustless Blasting",
+        "season": 19,
+        "episode": 2,
+        "released": "2020-04-12",
+        "overview": "Kevin travels to Texas to see how Dustless Blasting does American made. This revolutionary paint stripping and cleaning system is manufactured with hard work and ingenuity based on years of experience in the market."
+      },
+      {
+        "id": "tvmaze:2686148",
+        "title": "Strip to Street Returns",
+        "season": 19,
+        "episode": 3,
+        "released": "2020-04-19",
+        "overview": "The strip-to-street 1969 Camaro is back in the shop. This time, they're installing a brand-new EFI system in it, and replacing the old two-speed transmission with a four-speed. All that's left is a new shifter, and the guys will be back out on the road."
+      },
+      {
+        "id": "tvmaze:2686149",
+        "title": "Mustang Resurrection",
+        "season": 19,
+        "episode": 4,
+        "released": "2020-04-26",
+        "overview": "A Mustang was once a father-son project, but the project stalled and now the old pony hasn't run in 20 years. Kevin and Willie systematically go through everything that needs to be addressed, and hopefully, they'll get this vehicle running again."
+      },
+      {
+        "id": "tvmaze:2686150",
+        "title": "Two for One",
+        "season": 19,
+        "episode": 5,
+        "released": "2020-06-21",
+        "overview": "Today the guys are working on not one, but two vehicles. First, they tackle leveling out a nose-heavy GMC 1500 and add some get-up-and-go to it as well. Then they take on a groaning wheel bearing on a Mazda 3 with the help of some time-saving tools that every mechanic will want in their shop!"
+      },
+      {
+        "id": "tvmaze:2686151",
+        "title": "A Sublime Challenge",
+        "season": 19,
+        "episode": 6,
+        "released": "2020-06-28",
+        "overview": "Kevin and Willie take a power-hungry V6 Challenger and feed it what it wants, HPs! They'll add a supercharger that boosts it up to V8 levels and give it new brakes to help handle all that additional power. When they're done, this Challenger will live up to its name!"
+      },
+      {
+        "id": "tvmaze:2686152",
+        "title": "From the Ashes",
+        "season": 19,
+        "episode": 7,
+        "released": "2020-07-05",
+        "overview": "This beautiful LS-converted 1968 Firebird has risen from the ashes, but the owner needs a little help getting the project going again. So the guys jump in and lend a hand by adding some key components to help get it flying down the road again!"
+      },
+      {
+        "id": "tvmaze:2686153",
+        "title": "Doppelganger",
+        "season": 19,
+        "episode": 8,
+        "released": "2020-10-04",
+        "overview": "The guys take a Mustang GT and make some subtle changes to make it look more like its big brother, the GT350. They'll tackle a suspension upgrade and add some body styling while testing a new kind of consumer paint."
+      },
+      {
+        "id": "tvmaze:2686154",
+        "title": "A Jeep Truck",
+        "season": 19,
+        "episode": 9,
+        "released": "2020-10-11",
+        "overview": "Kevin and Willie take a brand new 2020 Jeep Gladiator and outfit it with all the bells and whistles it needs to make it one awesome street machine!"
+      },
+      {
+        "id": "tvmaze:2686155",
+        "title": "Dusted-Off Duster",
+        "season": 19,
+        "episode": 10,
+        "released": "2020-10-18",
+        "overview": "The guys work on an old 1972 Plymouth Duster that needs love. They'll add some much-needed sound deadener and heat barrier, along with some other items. Then they'll sift through the pile of parts that the owner sent along to see what's still of use to this classic."
+      },
+      {
+        "id": "tvmaze:2686156",
+        "title": "Step-Side Square Body",
+        "season": 19,
+        "episode": 11,
+        "released": "2020-10-25",
+        "overview": "The guys have a beautiful 1978 GMC stepside square body in the shop, and they're making some much-needed improvements to it. From bezels to bed wood, once they're done, this truck is going to look awesome!"
+      },
+      {
+        "id": "tvmaze:2686157",
+        "title": "Sleeper Family Hauler",
+        "season": 19,
+        "episode": 12,
+        "released": "2020-11-01",
+        "overview": "The owner of a 2003 GMC Yukon wants to add a lot of horses to this grocery getter. The guys take over the project and install a turbo and fuel lines, then add rear-end components to help keep that newly-added power on the pavement!"
+      },
+      {
+        "id": "tvmaze:2686158",
+        "title": "That Front End Swap",
+        "season": 19,
+        "episode": 13,
+        "released": "2020-11-08",
+        "overview": "Kevin and Willie take on this often-seen front-end swap for a 1991 Chevy 1500 stepside. When they're done, this truck will have a whole new look!"
+      },
+      {
+        "id": "tvmaze:2686159",
+        "title": "Eighth Generation",
+        "season": 20,
+        "episode": 1,
+        "released": "2021-04-04",
+        "overview": "Chevy's new C8 Corvette is among the most anticipated releases of recent years, and the guys are sold on the hype. Willie and Kevin get hold of a new 2020 C8 and set about making modifications with the help of old friend and prior host, Dave Bowman."
+      },
+      {
+        "id": "tvmaze:2686160",
+        "title": "Classic Modernization",
+        "season": 20,
+        "episode": 2,
+        "released": "2021-04-11",
+        "overview": "Original Two Guys Garage host Dave Bowman helps Kevin update a 1972 Chevelle 454 Big Block. They will tackle the installation of a new electronic fuel injection system, and add a few more touches to help modernize this classic."
+      },
+      {
+        "id": "tvmaze:2686161",
+        "title": "Street King Gladiator",
+        "season": 20,
+        "episode": 3,
+        "released": "2021-04-18",
+        "overview": "Willie and Kevin take a 2021 Diesel Gladiator and rev it up with some smart personalization. The owner wants a certain look and they're going to make it happen for him. They show how to prep and paint-match bumpers to get the desired look, then top it off with a few helpful additions."
+      },
+      {
+        "id": "tvmaze:2686162",
+        "title": "Ride Share Maintenance",
+        "season": 20,
+        "episode": 4,
+        "released": "2021-04-25",
+        "overview": "Kevin and Willie are called upon to breathe life into a 2015 Jeep Patriot that has fallen into disrepair, but has a new job to do. They address some mechanical issues and a badly abused exterior. They'll replace a damaged fender and other parts, while showing some painting and preparation for metal and plastic."
+      },
+      {
+        "id": "tvmaze:2686163",
+        "title": "Duster Day Part II",
+        "season": 20,
+        "episode": 5,
+        "released": "2021-06-20",
+        "overview": "Kevin and Willie have the '71 Duster back in the shop and are reinserting the power plant. They run the engine harness and wiring, then mate the engine and transmission. Then, they'll slip the engine in and be closer to getting it back on the road."
+      },
+      {
+        "id": "tvmaze:2686164",
+        "title": "Ugly Duckling",
+        "season": 20,
+        "episode": 6,
+        "released": "2021-06-27",
+        "overview": "The owner of an old C10 asks the guys to help him get it back in working order so he can restore it. They breathe new life in the engine by addressing the fuel system and button up some of the exterior so the owner will enjoy working on his truck."
+      },
+      {
+        "id": "tvmaze:2686165",
+        "title": "C5 Top End Performance",
+        "season": 20,
+        "episode": 7,
+        "released": "2021-07-04",
+        "overview": "An owner of a 1995 C5 is adding a top end kit to get good clean power. Kevin and Willie outfit it with new heads and a cam that give it a nice wakeup call! They also install new brakes, tires and other items to get this 'Vette ripping down the road!"
+      },
+      {
+        "id": "tvmaze:2686166",
+        "title": "14th Generation",
+        "season": 20,
+        "episode": 8,
+        "released": "2021-10-03",
+        "overview": "The most popular version of the Ford F-Series is the F-150, now in its 14th generation. Today, the guys have one in the shop for some upgrades and general maintenance before getting it back out on the road."
+      },
+      {
+        "id": "tvmaze:2686167",
+        "title": "Rugged New Pickup",
+        "season": 20,
+        "episode": 9,
+        "released": "2021-10-10",
+        "overview": "The newly redesigned Chevy Silverado 1500 looks great and rides nice, but Willie and Kevin waste little time installing all the fixings needed to set up this truck for outdoor fun. Whether it's a trip to the woods, the pond, the soccer field or the boat ramp, when they're done with it, this truck will be ready for anything!"
+      },
+      {
+        "id": "tvmaze:2686168",
+        "title": "Boosted Import",
+        "season": 20,
+        "episode": 10,
+        "released": "2021-10-17",
+        "overview": "The WRX STI platform comes nicely packed in its stock form, but Kevin and Willie want to squeeze even more out of this little car. They install a quick shift kit and then ensure the drivetrain is up to the task by performing a few upgrades. By the end of the day, they'll be banging gears in this tight little boosted import."
+      },
+      {
+        "id": "tvmaze:2686169",
+        "title": "Modern Track Day",
+        "season": 20,
+        "episode": 11,
+        "released": "2021-10-24",
+        "overview": "The owner of this 2012 Challenger loves racing and wants to start the first steps of getting his vehicle track ready. So the guys outfit it with some suspension upgrades, as well as a few extras that are virtually guaranteed to help the owner shave some precious time on the track."
+      },
+      {
+        "id": "tvmaze:2686170",
+        "title": "Classic New Muscle",
+        "season": 20,
+        "episode": 12,
+        "released": "2021-10-31",
+        "overview": "The owner of this 1979 Z28 hit a wall when it came to getting his vehicle up and running after doing an at-home engine swap. Kevin and Willie step in with a slew of upgrades to get it running again."
+      },
+      {
+        "id": "tvmaze:2686171",
+        "title": "20th Anniversary Jeep Build",
+        "season": 20,
+        "episode": 13,
+        "released": "2021-11-07",
+        "overview": "The 20th Anniversary Season Finale brings Kevin and Willie together with past hosts Dave Bowman, Sam Memmolo and Bryan Fuller to tackle a 20-year-old Jeep Wrangler TJ that was popular when the show first began. Once the Jeep is ready to hit the trails, the guys relax and reminisce."
+      },
+      {
+        "id": "tvmaze:2686174",
+        "title": "Classic Camaro",
+        "season": 21,
+        "episode": 1,
+        "released": "2022-04-03",
+        "overview": "The owner of a beautiful classic Camaro has been upgrading and modifying it to his liking for years, but like many such projects, this one has stalled. Enter Kevin and Willie to help the owner get the horsepower, modern technology and style he's looking to add."
+      },
+      {
+        "id": "tvmaze:2686175",
+        "title": "Warrior Rig",
+        "season": 21,
+        "episode": 2,
+        "released": "2022-04-10",
+        "overview": "From mall crawling to trail riding, a Jeep Gladiator is the perfect playground for enthusiasts to match their hobbies. The guys take a stock Jeep Gladiator and get it ready for the great outdoors. They'll add a lift, new wheels and tires, and other overlanding upgrades to transform this Gladiator into the warrior it was always meant to be."
+      },
+      {
+        "id": "tvmaze:2686176",
+        "title": "426 Killer Bee",
+        "season": 21,
+        "episode": 3,
+        "released": "2022-04-17",
+        "overview": "Kevin and Willie are rebuilding a 392 Charger that seems to have lost compression in one cylinder, so they need to diagnose the problem and solve it. While they're at it, they'll stroke the motor, transforming this Dodge from a stock 392 Super Bee to a 426 Killer Bee!"
+      },
+      {
+        "id": "tvmaze:2686177",
+        "title": "Dual Broncos",
+        "season": 21,
+        "episode": 4,
+        "released": "2022-04-24",
+        "overview": "It's been more than 16 years since the last Ford Bronco was sold at dealerships. Now, continuing a legacy that spans generations, the wildly anticipated new Broncos are finally rolling off lots, and the guys have two in the shop today! Their goal: to modify and upgrade these two beauties for a Bronco-loving family."
+      },
+      {
+        "id": "tvmaze:2686178",
+        "title": "Adventure Time",
+        "season": 21,
+        "episode": 5,
+        "released": "2022-06-19",
+        "overview": "The right truck can fill a void like no other vehicle for helping, hauling or hanging out. The guys get one in the shop that's in need of some upgrades to make it ready for work and play! While they're at it, they take the owner's side-by-side and give it an upgrade so it's even more prepared for outdoor adventures as well!"
+      },
+      {
+        "id": "tvmaze:2686179",
+        "title": "Mustang Metal Work",
+        "season": 21,
+        "episode": 6,
+        "released": "2022-06-26",
+        "overview": "This 1968 Mustang has been on the show before. The project has once again stalled, and today the guys are helping get the restoration moving again. They rip out some old metal and install some new, providing tips and tricks along the way."
+      },
+      {
+        "id": "tvmaze:2686181",
+        "title": "All About Fluids and Maintenance",
+        "season": 21,
+        "episode": 7,
+        "released": "2022-07-03",
+        "overview": "Fluids and maintenance products are some of the most overlooked, yet most important, aspects of vehicle ownership. So today, Willie and Kevin take a 2016 Jeep JK and guide viewers through a step-by-step understanding of fluids and other products that are needed to keep your vehicle running safely down the road for longer."
+      },
+      {
+        "id": "tvmaze:2686182",
+        "title": "Saab Story Returns",
+        "season": 21,
+        "episode": 8,
+        "released": "2022-10-02",
+        "overview": "This Saab has been in the shop before. Today it's back, and the guys help get it ready for a serious power boost. The owner was able to pick up a 5.3 iron block for cheap, and that's what they're going to get ready to put in the vehicle. The engine has been bored out to a 5.7 and has a 4\" stroker kit, so he can put more forced induction into it when he's ready to turn it into a Sleeper Saab."
+      },
+      {
+        "id": "tvmaze:2686183",
+        "title": "2014 Nissan Altima",
+        "season": 21,
+        "episode": 9,
+        "released": "2022-10-09",
+        "overview": "This commuter Nissan is having some suspension troubles, and the guys will upgrade and replace several key parts to get this vehicle running smoothly again."
+      },
+      {
+        "id": "tvmaze:2686184",
+        "title": "1971 Camaro SS 396",
+        "season": 21,
+        "episode": 10,
+        "released": "2022-10-16",
+        "overview": "This '71 Camaro SS has been lying dormant for years, and the guys quickly discover it has a laundry list of issues, like faulty fuel injection, blown head gasket, disc brake problems, a rear end that's making angry noises and more. It's a lot to tackle, but by the time they're finished, this 396 beast will be roaring down the road once again!"
+      },
+      {
+        "id": "tvmaze:2686185",
+        "title": "Grounding That Power",
+        "season": 21,
+        "episode": 11,
+        "released": "2022-10-23",
+        "overview": "Mustangs, with their fully independent suspension and power potential, are great vehicles to take to the road course for a track day, and this one is already better than stock. Today, the guys add stronger axles and better gearing, along with a few other additions that will help get all that power to the ground!"
+      },
+      {
+        "id": "tvmaze:2686186",
+        "title": "Cadillac CTS",
+        "season": 21,
+        "episode": 12,
+        "released": "2022-10-30",
+        "overview": "Today, the guys have a 2007 Cadillac CTS in the shop that isn't running, but looks to be in decent shape...until they check under the hood. It turns out the engine's blown to pieces, so they'll need to replace it, along with its failing suspension. Can they get this American luxury vehicle running once again?"
+      },
+      {
+        "id": "tvmaze:2686187",
+        "title": "Jeep Mods",
+        "season": 21,
+        "episode": 13,
+        "released": "2022-11-06",
+        "overview": "Jeep finally did it -- they threw a V8 in the Wrangler, and the guys have a brand-new one in the shop for a little upgrading. This much-anticipated release was very exciting for the Jeep community. Now the question is what kind of mods can the guys do to make it even better?"
+      },
+      {
+        "id": "tvmaze:2662365",
+        "title": "Chevy OBS",
+        "season": 22,
+        "episode": 1,
+        "released": "2023-04-02",
+        "overview": "Old body style trucks are becoming more and more popular, and today the guys are fortunate to have one in the shop. They swap in an LS engine, pick a system to control timing and fuel, and fix up a few accessories to make it look and run great again."
+      },
+      {
+        "id": "tvmaze:2662369",
+        "title": "Two Rigs",
+        "season": 22,
+        "episode": 2,
+        "released": "2023-04-09",
+        "overview": "The Jeep Gladiator has a new competitor in town, the Ford Bronco. Both have their pros and cons, and the guys will discuss one of the major differences, their suspensions. With the Gladiator, they install an important upgrade for the bed, before moving on to the Bronco and tackling some modifications that will get it ready for just about anything."
+      },
+      {
+        "id": "tvmaze:2662374",
+        "title": "Almost Classic",
+        "season": 22,
+        "episode": 3,
+        "released": "2023-04-16",
+        "overview": "Since 1953, the Chevy Corvette has been a true American icon, and the one the guys have in the shop has been lying dormant for years. They'll show how to DIY a fresh new look to its brake calipers and add new exhaust to get it sounding like a real 'Vette again. They'll finish up fixing broken plastic pieces and doing some paint correction to bring the original paint screaming back to life."
+      },
+      {
+        "id": "tvmaze:2662375",
+        "title": "Modern Suspension",
+        "season": 22,
+        "episode": 4,
+        "released": "2023-04-23",
+        "overview": "The owners of a 2017 Camaro love to drive it hard on weekend road trips, leaving it in need of some upgrades to help it corner and grip the back roads they love so much. The guys set about transforming the car's suspension to fully unleash its cornering power."
+      },
+      {
+        "id": "tvmaze:2662377",
+        "title": "Broke Down Commuter",
+        "season": 22,
+        "episode": 5,
+        "released": "2023-06-18",
+        "overview": "A Kia Spectra broke down a couple of years ago, and the owner simply hasn't had the time or money to try to fix it until today. Kevin and Willie diagnose what's wrong with the car and set about tackling those problems so they can get this great little commuter back out on the road."
+      },
+      {
+        "id": "tvmaze:2662378",
+        "title": "Old Trusty Duramax",
+        "season": 22,
+        "episode": 6,
+        "released": "2023-06-25",
+        "overview": "Old Duramax diesels get a bad rap for being hard to work on and expensive to repair, and many folks don't like the flimsy steering on the IFS truck. However, with the right replacement parts, improved steering, turbo and a little TLC, these babies can go the distance. And that's exactly what Willie and Kevin provide to get this truck back in shape and running better than it has in years."
+      },
+      {
+        "id": "tvmaze:2662379",
+        "title": "Monte Chassis",
+        "season": 22,
+        "episode": 7,
+        "released": "2023-07-02",
+        "overview": "A Monte Carlo SS is literally rolled into the shop, with an incomplete rolling chassis and a body that needs work. The owner wants the guys to focus on the underside first, so they mock up the engine and transmission, along with new EFI, and complete the suspension. Then they tackle the brake setup to get the chassis closer to complete."
+      },
+      {
+        "id": "tvmaze:2662380",
+        "title": "Overlanding 4Runner",
+        "season": 22,
+        "episode": 8,
+        "released": "2023-10-01",
+        "overview": "If you're game to go overlanding, you may as well do it in high style, driving a comfortable SUV with tons of interior space. The guys work over a new 4Runner just so, instilling in its owners the confidence they seek to explore the wilderness along with their pets. They build a rear storage area from scratch and show you some tips and tricks along the way."
+      },
+      {
+        "id": "tvmaze:2662381",
+        "title": "Ram 1500 Re-Style",
+        "season": 22,
+        "episode": 9,
+        "released": "2023-10-08",
+        "overview": "Willie and Kevin undertake a mission to take a Dodge Ram and make it run better, sound louder and look cooler than ever. They fix an engine tick by replacing the manifold, install a new exhaust, and give the front end a brand-new look. With a host of goodies, this Ram is guaranteed to turn heads and be the envy of friends and neighbors!"
+      },
+      {
+        "id": "tvmaze:2677672",
+        "title": "Kevin's 1970 Mustang",
+        "season": 22,
+        "episode": 10,
+        "released": "2023-10-13",
+        "overview": "Kevin and Willie conspire to transform Kevin's personal 1970 Pro Street Mustang fastback into a modern Pro Touring street and track machine. It's time to mock everything up, but where to begin? With a full Coyote engine swap, of course, including all-new drivetrain, transmission, clutch and more."
+      },
+      {
+        "id": "tvmaze:2677674",
+        "title": "Willie's 1978 Trans Am",
+        "season": 22,
+        "episode": 11,
+        "released": "2023-10-20",
+        "overview": "Willie B is known for having a few too many projects in the works at any given time, and some inevitably get pushed to the back. But now it's time to get his '78 Trans Am running. The guys install a new suspension and put the finishing touches on an already-somewhat-completed LS swap that hopefully will crank over!"
+      },
+      {
+        "id": "tvmaze:2677676",
+        "title": "Seeing Green",
+        "season": 22,
+        "episode": 12,
+        "released": "2023-10-27",
+        "overview": "An eye-popping green Dodge Charger serves double duty as a daily driver and weekend toy. The owner puts a lot of miles on it every day, so he wants the gas mileage of a 6-cylinder for work, and some throaty performance for play. Kevin and Willie install a cold air intake and other goodies for performance, replace some worn parts, and give it stopping power like it's never had before."
+      },
+      {
+        "id": "tvmaze:2717130",
+        "title": "JK Steering Rebuild",
+        "season": 22,
+        "episode": 13,
+        "released": "2023-10-29",
+        "overview": "Kevin and Willie upgrade the steering on a heavily modified Jeep."
+      },
+      {
+        "id": "tvmaze:2836852",
+        "title": "Fuel Injected El Camino",
+        "season": 23,
+        "episode": 1,
+        "released": "2024-05-05",
+        "overview": "An El Camino gets a new ultra port fuel injection setup."
+      },
+      {
+        "id": "tvmaze:2836853",
+        "title": "Fix My C3!",
+        "season": 23,
+        "episode": 2,
+        "released": "2024-05-12",
+        "overview": "A C3 Corvette has issues with the AC, the rear end and a headlight."
+      },
+      {
+        "id": "tvmaze:2836854",
+        "title": "Topless Mini",
+        "season": 23,
+        "episode": 3,
+        "released": "2024-05-19",
+        "overview": "The guys fix a Mini with noises coming from the steering and suspension."
+      },
+      {
+        "id": "tvmaze:2836855",
+        "title": "Show Car Mustang",
+        "season": 23,
+        "episode": 4,
+        "released": "2024-05-26",
+        "overview": "The guys fix up a supercharged Mustang to stand out at weekend car shows."
+      },
+      {
+        "id": "tvmaze:2842683",
+        "title": "GTO Frame-Off Part 1",
+        "season": 23,
+        "episode": 5,
+        "released": "2024-06-23",
+        "overview": "A numbers-matching '69 GTO Judge comes in for a frame-off restoration."
+      },
+      {
+        "id": "tvmaze:2842684",
+        "title": "440 Engine Rebuild",
+        "season": 23,
+        "episode": 6,
+        "released": "2024-06-30",
+        "overview": "The owner of a '66 Charger wants to replace its boring 318 engine."
+      },
+      {
+        "id": "tvmaze:2928144",
+        "title": "Overlanding Death Wobble",
+        "season": 23,
+        "episode": 7,
+        "released": "2024-07-07",
+        "overview": "Willie and Kevin fix a dangerous ball joint problem on a Jeep Gladiator."
+      },
+      {
+        "id": "tvmaze:3011340",
+        "title": "SEMA Telluride",
+        "season": 23,
+        "episode": 8,
+        "released": "2024-10-06",
+        "overview": "Kevin and Willie customize a new 2024 Kia Telluride for the 2024 SEMA Show."
+      },
+      {
+        "id": "tvmaze:3024119",
+        "title": "GTO Frame-Off Part 2",
+        "season": 23,
+        "episode": 9,
+        "released": "2024-10-13",
+        "overview": "The '69 GTO is back for the next stage of its frame-off restoration."
+      },
+      {
+        "id": "tvmaze:3024120",
+        "title": "Camaro Facelift",
+        "season": 23,
+        "episode": 10,
+        "released": "2024-10-20",
+        "overview": "After a friend's accident, we help fix the Camaro's front end."
+      },
+      {
+        "id": "tvmaze:3038194",
+        "title": "Charity Vibe",
+        "season": 23,
+        "episode": 11,
+        "released": "2024-10-27",
+        "overview": "The guys fix a Pontiac Vibe for Willie's charity \"Cars for Christmas.\""
+      },
+      {
+        "id": "tvmaze:3043923",
+        "title": "Inline Stealth",
+        "season": 23,
+        "episode": 12,
+        "released": "2024-11-03",
+        "overview": "Kevin and Willie convert a front-wheel Dodge Stealth into a roaring beast."
+      },
+      {
+        "id": "tvmaze:3083955",
+        "title": "Still Under Warranty!",
+        "season": 23,
+        "episode": 13,
+        "released": "2024-12-15",
+        "overview": "The guys upgrade a Dodge Challenger RT in ways that keep it under warranty."
+      },
+      {
+        "id": "tvmaze:3300485",
+        "title": "Stingray Rebuild",
+        "season": 24,
+        "episode": 1,
+        "released": "2025-05-04",
+        "overview": "Kevin and Willie help an owner get a 1971 T-top Corvette on the market."
+      },
+      {
+        "id": "tvmaze:3300486",
+        "title": "Fab Fun",
+        "season": 24,
+        "episode": 2,
+        "released": "2025-05-11",
+        "overview": "The guys use their new fab room to create roof pieces for a Dodge truck."
+      },
+      {
+        "id": "tvmaze:3300487",
+        "title": "Electrifying Upgrades",
+        "season": 24,
+        "episode": 3,
+        "released": "2025-07-06",
+        "overview": "The guys dive into the future of performance, with a Tesla as their canvas."
+      },
+      {
+        "id": "tvmaze:3300488",
+        "title": "Willie's CJ-7",
+        "season": 24,
+        "episode": 4,
+        "released": "2025-07-13",
+        "overview": "The guys upgrade Willie's legendary 1983 CJ-7 for an off-road adventure."
+      },
+      {
+        "id": "tvmaze:3366878",
+        "title": "EV Mustang",
+        "season": 24,
+        "episode": 5,
+        "released": "2025-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3372415",
+        "title": "JDM's Are Fun",
+        "season": 24,
+        "episode": 6,
+        "released": "2025-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3382131",
+        "title": "Gen 1 Hemi Swap",
+        "season": 24,
+        "episode": 7,
+        "released": "2025-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3423866",
+        "title": "GTO Interior",
+        "season": 24,
+        "episode": 8,
+        "released": "2025-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449207",
+        "title": "Trailhawk Upgrades",
+        "season": 24,
+        "episode": 9,
+        "released": "2025-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449208",
+        "title": "Cars for Christmas",
+        "season": 24,
+        "episode": 10,
+        "released": "2025-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456065",
+        "title": "Two Guys Garage Trip to SEMA",
+        "season": 24,
+        "episode": 11,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3465026",
+        "title": "Stealth Cat Part 1",
+        "season": 24,
+        "episode": 12,
+        "released": "2025-12-21",
+        "overview": ""
+      }
+    ]
+  }
+}

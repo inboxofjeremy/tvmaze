@@ -1,0 +1,732 @@
+{
+  "meta": {
+    "id": "tvmaze:27122",
+    "type": "series",
+    "name": "Telly Bingo",
+    "description": "Telly Bingo is an Irish National Lottery draw that works like a traditional game of bingo, with a full house prize of €10,000 and the opportunity to win much more if you complete your card on or before the Snowball number is drawn. Telly Bingo was launched in 1999 and ticket holders watch the game take place every Tuesday, Thursday and Friday on television channel RTÉ One.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/549/1373702.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/549/1373702.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450017",
+        "title": "Episode 148",
+        "season": 2025,
+        "episode": 148,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450018",
+        "title": "Episode 149",
+        "season": 2025,
+        "episode": 149,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450019",
+        "title": "Episode 150",
+        "season": 2025,
+        "episode": 150,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450020",
+        "title": "Episode 151",
+        "season": 2025,
+        "episode": 151,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450021",
+        "title": "Episode 152",
+        "season": 2025,
+        "episode": 152,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450022",
+        "title": "Episode 153",
+        "season": 2025,
+        "episode": 153,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450023",
+        "title": "Episode 154",
+        "season": 2025,
+        "episode": 154,
+        "released": "2025-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450024",
+        "title": "Episode 155",
+        "season": 2025,
+        "episode": 155,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450025",
+        "title": "Episode 156",
+        "season": 2025,
+        "episode": 156,
+        "released": "2025-12-30",
+        "overview": ""
+      }
+    ]
+  }
+}

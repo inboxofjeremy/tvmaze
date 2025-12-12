@@ -1,0 +1,532 @@
+{
+  "meta": {
+    "id": "tvmaze:23817",
+    "type": "series",
+    "name": "Ghost Stories for Christmas",
+    "description": "Horror legend Christopher Lee hosts and narrates a series of four half hour ghost stories all based on stories by M.R. James. 'The Stalls of Barchester', 'The Ash Tree', 'Number 13' and 'A Warning to the Curious' are the tales told.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/89/224723.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/89/224723.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      },
+      {
+        "id": "tvmaze:3437295",
+        "title": "The Room in the Tower",
+        "season": 2025,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Roger Winstanley (Menzies), who for 15 years has been haunted by a recurring nightly nightmare: he is invited to spend the night in an friend's house, and is assigned a room in the tower – a space that fills him with dread though he isn't sure why. In his waking life, Roger is invited to his friend's country house, which bares a striking resemblance to the house of his dreams. Nightmare and reality collide when Roger is invited to stay the night in the room in the tower."
+      },
+      {
+        "id": "tvmaze:1019545",
+        "title": "The Stalls of Barchester",
+        "season": 1971,
+        "episode": 1,
+        "released": "1971-12-24",
+        "overview": "Adaptation of MR James's ghost story about an ambitious cleric who decides to advance his career by murdering his archdeacon. Soon he is stalked by creatures that seem to spring from the very fabric of his church.."
+      },
+      {
+        "id": "tvmaze:1019546",
+        "title": "A Warning to the Curious",
+        "season": 1972,
+        "episode": 1,
+        "released": "1972-12-24",
+        "overview": "Adaptation of a short story by MR James. An amateur archaeologist travels to a remote seaside town in Norfolk to search for the lost crown of Anglia, but after unearthing it he is haunted by a mysterious figure."
+      },
+      {
+        "id": "tvmaze:1019547",
+        "title": "Lost Hearts",
+        "season": 1973,
+        "episode": 1,
+        "released": "1973-12-25",
+        "overview": "Adaptation of a short story by MR James. An orphan moves into the house of his older cousin, but is disturbed by visions of a pair of ghostly children. Is their message a warning to be fearful of his cousin's obsession with immortality?"
+      },
+      {
+        "id": "tvmaze:1019548",
+        "title": "The Treasure of Abbot Thomas",
+        "season": 1974,
+        "episode": 1,
+        "released": "1974-12-23",
+        "overview": "Adaptation of a short story by MR James. A respected theologian and his protégé unearth clues to find the hidden treasure of a disgraced monk in an abbey library. Should he have heeded his own advice not to go treasure-hunting?"
+      },
+      {
+        "id": "tvmaze:1019549",
+        "title": "The Ash Tree",
+        "season": 1975,
+        "episode": 1,
+        "released": "1975-12-23",
+        "overview": "Adaptation of a short story by MR James. An aristocrat inherits his family estate and is haunted by visions of his ancestor's role in a witchcraft trial."
+      },
+      {
+        "id": "tvmaze:1019550",
+        "title": "The Signalman",
+        "season": 1976,
+        "episode": 1,
+        "released": "1976-12-22",
+        "overview": "Adaptation of a short story by Charles Dickens. A railway signalman tells a curious traveller how he is being troubled by a spectre that seems to predict calamity."
+      },
+      {
+        "id": "tvmaze:1019551",
+        "title": "Stigma",
+        "season": 1977,
+        "episode": 1,
+        "released": "1977-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1019553",
+        "title": "The Ice House",
+        "season": 1978,
+        "episode": 1,
+        "released": "1978-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3064432",
+        "title": "The Stalls of Barchester",
+        "season": 2000,
+        "episode": 1,
+        "released": "2000-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3064433",
+        "title": "The Ash Tree",
+        "season": 2000,
+        "episode": 2,
+        "released": "2000-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3064434",
+        "title": "Number 13",
+        "season": 2000,
+        "episode": 3,
+        "released": "2000-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3064435",
+        "title": "A Warning to the Curious",
+        "season": 2000,
+        "episode": 4,
+        "released": "2000-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1019554",
+        "title": "A View from a Hill",
+        "season": 2005,
+        "episode": 1,
+        "released": "2005-12-23",
+        "overview": "Adaptation of the classic ghost story by MR James in which a man visits his friend and has an unsettling experience after borrowing some binoculars and venturing up Gallows Hill."
+      },
+      {
+        "id": "tvmaze:1019555",
+        "title": "Number 13",
+        "season": 2006,
+        "episode": 1,
+        "released": "2006-12-22",
+        "overview": "Dr Anderson's obsessive interest in why his hotel doesn't include a number 13 puts him in terrible danger."
+      },
+      {
+        "id": "tvmaze:1019556",
+        "title": "Whistle and I'll Come to You",
+        "season": 2010,
+        "episode": 1,
+        "released": "2010-12-24",
+        "overview": "James Parkin has just left his wife in the care of a nursing home. Pensive and emotional, he travels to their old favourite destination for rambling, an off-season British seaside town. There he encounters an apparition on a desolate beach, which begins to haunt him - with terrifying consequences."
+      },
+      {
+        "id": "tvmaze:1019557",
+        "title": "The Tractate Middoth",
+        "season": 2013,
+        "episode": 1,
+        "released": "2013-12-25",
+        "overview": "The chilling story of Dr Rant, whose wicked streak continues from beyond the grave. Based on the festive ghost story by MR James.When a relative comes to find a particular book at the university library, young student Garrett is drawn into a family feud over a will and its legacy - with terrifying consequences."
+      },
+      {
+        "id": "tvmaze:2242759",
+        "title": "The Dead Room",
+        "season": 2018,
+        "episode": 1,
+        "released": "2018-12-24",
+        "overview": "Aubrey Judd, veteran radio presenter of The Dead Room, soon realises that elements of his own past are not as dead and buried as he perhaps hoped."
+      },
+      {
+        "id": "tvmaze:2242760",
+        "title": "Martin's Close",
+        "season": 2019,
+        "episode": 1,
+        "released": "2019-12-24",
+        "overview": "A young squire, John Martin, is on trial for murder in a court presided over by hanging judge George Jeffreys, but the girl he is accused of murdering has been seen after her death."
+      },
+      {
+        "id": "tvmaze:2242761",
+        "title": "The Mezzotint",
+        "season": 2021,
+        "episode": 1,
+        "released": "2021-12-24",
+        "overview": "Mr. Williams, the curator of a university art museum, is offered a mezzotint on approval from an art dealer. The engraving shows an English manor house. Curious about the piece, he receives it and shows it to his colleagues. In turn, they each see a piece of fine art but with something grotesque in the subject matter. The mysterious mezzotint slowly reveals a disturbing story"
+      },
+      {
+        "id": "tvmaze:2442301",
+        "title": "Count Magnus",
+        "season": 2022,
+        "episode": 1,
+        "released": "2022-12-23",
+        "overview": "Sweden, 1863. A country not much visited by Englishmen. An exception is the inquisitive Mr. Wraxhall, whose innocent rummaging through the archives of the noble de la Gardie family takes a sinister turn.Wraxhall becomes fascinated by the long-dead founder of the dynasty, the fearsome Count Magnus, a tyrannical ruler who dabbled in alchemy and who once made a strange journey to the Holy Land on most unholy business. Despite the warnings of his hosts, Wraxhall is drawn ever deeper into the Count's dark world and discovers that the dreaded aristocrat may not lie easy in his tomb..."
+      },
+      {
+        "id": "tvmaze:2717246",
+        "title": "Lot No 249",
+        "season": 2023,
+        "episode": 1,
+        "released": "2023-12-24",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3082564",
+        "title": "Woman of Stone",
+        "season": 2024,
+        "episode": 1,
+        "released": "2024-12-24",
+        "overview": "Edith Nesbit recounts the chilling tale of newlywed Victorians Jack and Laura and the legend of two marble tomb effigies, who are said to rise each year and walk."
+      },
+      {
+        "id": "tvmaze:3459116",
+        "title": "Lot No 249",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-22",
+        "overview": "It's 1881, and Old College, Oxford plays host to three very different academics. But can Bellingham's experiments bring the breath of life to the horrifying bag of bones, Lot No 249?"
+      },
+      {
+        "id": "tvmaze:3459117",
+        "title": "Count Magnus",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-12-22",
+        "overview": "The inquisitive Mr Wraxhall discovers that a long-dead Swedish nobleman does not lie easy in his tomb."
+      },
+      {
+        "id": "tvmaze:3459118",
+        "title": "The Mezzotint",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-12-22",
+        "overview": "1923. In the heart of an old English college, Edward Williams receives an engraving of an unknown country house with an imposing facade, a sweeping lawn - and, just perhaps, something else."
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:75854",
+    "type": "series",
+    "name": "America Reports",
+    "description": "A look at the latest news and headlines with Sandra Smith and John Roberts",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298303.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/519/1298303.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3458223",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

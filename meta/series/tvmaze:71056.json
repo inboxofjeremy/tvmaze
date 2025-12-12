@@ -1,0 +1,3404 @@
+{
+  "meta": {
+    "id": "tvmaze:71056",
+    "type": "series",
+    "name": "The Good Stuff with Mary Berg",
+    "description": "A daily hour of fun, food, and laughs, featuring lifestyle trends, home hacks, audience games, and inspiring stories – all from top experts. Mary Berg dives right in – from sharing daily, delicious and approachable recipes for the home cook, to cook-a-long sessions with guest chefs, and getting her hands dirty with gardening, DIYs, home renovations and more. As well, Berg welcomes notable guests, including authors, celebrities, influencers, and everyday heroes.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/475/1189655.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/475/1189655.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462260",
+        "title": "Episode 68",
+        "season": 3,
+        "episode": 68,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462260",
+        "title": "Episode 68",
+        "season": 3,
+        "episode": 68,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462260",
+        "title": "Episode 68",
+        "season": 3,
+        "episode": 68,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462260",
+        "title": "Episode 68",
+        "season": 3,
+        "episode": 68,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462260",
+        "title": "Episode 68",
+        "season": 3,
+        "episode": 68,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462260",
+        "title": "Episode 68",
+        "season": 3,
+        "episode": 68,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462260",
+        "title": "Episode 68",
+        "season": 3,
+        "episode": 68,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462260",
+        "title": "Episode 68",
+        "season": 3,
+        "episode": 68,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2639417",
+        "title": "Mattea Roach, Preston Mutanga",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-09-05",
+        "overview": "Season 1 premiere! Mary cooks for her mom Myra &amp; her husband Aaron; Jeopardy champ Mattea Roach; Spider-verse CGI whiz kid Preston Mutanga."
+      },
+      {
+        "id": "tvmaze:2639418",
+        "title": "Megan Arthurs, Sarah Habibi",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-09-06",
+        "overview": "Mary raids a family's pantry &amp; shakes up mealtime; Mary makes French Toast Muffins 2-ways; family organization zones with Megan Arthurs."
+      },
+      {
+        "id": "tvmaze:2639419",
+        "title": "Alexis Honce, Antonia Fifi, Seth Falk",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-09-07",
+        "overview": "Alexis Honce &amp; Antonia Fifi help 4 viewers style their summer pieces for fall; Sharon, Bram &amp; Randi chat about their new picture book."
+      },
+      {
+        "id": "tvmaze:2639420",
+        "title": "Andrea Buckett, Shawn Desman",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-09-08",
+        "overview": "Mary cooks a celebratory meal with her food hero Andrea Buckett; Shawn Desman chats about his new single and shows Mary some dance moves."
+      },
+      {
+        "id": "tvmaze:2639421",
+        "title": "Gail & Leslie Thompson, Jessica Alba & Lizzy Mathis",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-09-11",
+        "overview": "Gail &amp; Leslie Thompson give 3 viewers denim makeovers; Jessica Alba &amp; Lizzy Mathis dish on their new home reno show."
+      },
+      {
+        "id": "tvmaze:2639441",
+        "title": "Myra Berg, Corey Ng",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-09-12",
+        "overview": "Mary &amp; her mom Myra try salmon fishing for the first time; Corey Ng shows how to choose the best eyewear for your face."
+      },
+      {
+        "id": "tvmaze:2639422",
+        "title": "Alex Page, Odeen Eccleston",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-09-13",
+        "overview": "Alex Page shows how to save big with economic cuts of meat &amp; poultry; Odeen Eccleston's tips for getting onto the real estate ladder."
+      },
+      {
+        "id": "tvmaze:2639423",
+        "title": "Aaron O'Bryan",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-09-14",
+        "overview": "Aaron O'Bryan gives 3 viewers bangs for their face shape; Mary makes chicken 2-ways for easy weeknights; Mary tries wrestling."
+      },
+      {
+        "id": "tvmaze:2639424",
+        "title": "Sebastian Clovis, Al Val",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-09-15",
+        "overview": "Sebastian Clovis makes over a viewer's small den; Mary makes Swiss mushroom burgers; Good Laughs with stand-up comedian Al Val."
+      },
+      {
+        "id": "tvmaze:2639425",
+        "title": "Owen Reeves, Billy Porter & Matthew Laughlin",
+        "season": 1,
+        "episode": 10,
+        "released": "2023-09-18",
+        "overview": "Owen Reeves' tips for growing produce at home; Billy Porter &amp; Matthew Laughlin on their new streaming service."
+      },
+      {
+        "id": "tvmaze:2639426",
+        "title": "Alexis Honce, Megan Arthurs",
+        "season": 1,
+        "episode": 11,
+        "released": "2023-09-19",
+        "overview": "Alexis Honce shows how to edit your closet &amp; plan weekly outfits; Megan Arthurs' fridge organizing hacks; Mary makes tuna nicoise melts."
+      },
+      {
+        "id": "tvmaze:2639427",
+        "title": "Andy Hay, Science Sam",
+        "season": 1,
+        "episode": 12,
+        "released": "2023-09-20",
+        "overview": "Andy Hay makes 3 grab 'n go breakfasts; Science Sam shows Mary how to make giant rainbow bubbles; Mary makes chicken &amp; veggie pot pies."
+      },
+      {
+        "id": "tvmaze:2639428",
+        "title": "Vijaya Selvaraju, Jason Lupo",
+        "season": 1,
+        "episode": 13,
+        "released": "2023-09-21",
+        "overview": "Vijaya Selvaraju shares her top kitchen gadgets to impress your guests; contractor Jason Lupo shows Mary 2 weekend home improvement DIYs."
+      },
+      {
+        "id": "tvmaze:2639429",
+        "title": "Tim McGraw, Matt Edwards.",
+        "season": 1,
+        "episode": 14,
+        "released": "2023-09-22",
+        "overview": "Mary chats with country superstar Tim McGraw; wearable trends from New York Fashion Week with Matt Edwards."
+      },
+      {
+        "id": "tvmaze:2639430",
+        "title": "Jillian Harris & Tori Wesszer, Paul Rabliauskas.",
+        "season": 1,
+        "episode": 15,
+        "released": "2023-09-25",
+        "overview": "Jillian Harris &amp; Tori Wesszer cook with Mary; Mary surprises a superfan with a gals' night out cookalong; Good Laughs with Paul Rabliauskas."
+      },
+      {
+        "id": "tvmaze:2639431",
+        "title": "Ed Robertson & Tyler Stewart, Hamza Haq",
+        "season": 1,
+        "episode": 16,
+        "released": "2023-09-26",
+        "overview": "Barenaked Ladies' Ed Robertson &amp; Tyler Stewart cook with Mary; Transplant's Hamza Haq plays Operation with Mary; good night's sleep products"
+      },
+      {
+        "id": "tvmaze:2639432",
+        "title": "Lidia Bastianich, Michael Strahan, The Reklaws",
+        "season": 1,
+        "episode": 17,
+        "released": "2023-09-27",
+        "overview": "Mary cooks with Lidia Bastianich; The $100,000 Pyramid's Michael Strahan; The Reklaws chat CCMAs &amp; play a fun sibling rivalry game."
+      },
+      {
+        "id": "tvmaze:2639433",
+        "title": "Mary Berg",
+        "season": 1,
+        "episode": 18,
+        "released": "2023-09-28",
+        "overview": "Superfans celebrating their anniversary get a surprise makeover; date night cocktails; Mary makes an Italian-inspired date-night dinner."
+      },
+      {
+        "id": "tvmaze:2639434",
+        "title": "Tawnya Brant, Laurie Rousseau-Nepton, Caleb Musgrave, Santee Siouxx",
+        "season": 1,
+        "episode": 19,
+        "released": "2023-09-29",
+        "overview": "Tawnya Brant cooks with Indigenous spice blends; Innu astrophysicist Laurie Rousseau-Nepton; foraging with Caleb Musgrave; Santee Siouxx."
+      },
+      {
+        "id": "tvmaze:2639435",
+        "title": "Kasia, Chef Laurent Dagenais",
+        "season": 1,
+        "episode": 20,
+        "released": "2023-10-03",
+        "overview": "Jamaican Thanksgiving dishes; Kasia's outdoor fall décor; social media star Chef Laurent Dagenais; Thanksgiving hostess gifts."
+      },
+      {
+        "id": "tvmaze:2639436",
+        "title": "Chef Michael Smith, Corey Ng, Jay Ingram",
+        "season": 1,
+        "episode": 21,
+        "released": "2023-10-04",
+        "overview": "Chef Michael Smith makes root veg chicken stew; Corey Ng outfits viewers with fall coats; Jay Ingram on how we'll live in the future."
+      },
+      {
+        "id": "tvmaze:2639437",
+        "title": "Tawyna Brant, Tasya Teles & Jordan Nolan",
+        "season": 1,
+        "episode": 22,
+        "released": "2023-10-05",
+        "overview": "Tawyna Brant makes a harvest veggie dish; Thanksgiving tablescapes under $50; Shoresy's Tasya Teles &amp; Jordan Nolan; new Paw Patrol movie."
+      },
+      {
+        "id": "tvmaze:2639438",
+        "title": "Andrea Buckett, Vijaya Selvaraju, Andy Hay & Ryan Hinkson",
+        "season": 1,
+        "episode": 23,
+        "released": "2023-10-06",
+        "overview": "Food stars Andrea Buckett, Vijaya Selvaraju, Andy Hay &amp; Ryan Hinkson help Mary make The Good Feast complete with a pumpkin pie tasting!"
+      },
+      {
+        "id": "tvmaze:2639439",
+        "title": "Alexis Honce, Owen Reeves, Crystal Ferrier",
+        "season": 1,
+        "episode": 24,
+        "released": "2023-10-09",
+        "overview": "Mary makes Thanksgiving Leftover Pie; Alexis Honce shows clever fashion DIYs; Owen Reeves salvages summer plants; comedian Crystal Ferrier."
+      },
+      {
+        "id": "tvmaze:2639440",
+        "title": "Karine Vanasse",
+        "season": 1,
+        "episode": 25,
+        "released": "2023-10-10",
+        "overview": "Mary launches her cookbook with a cross-country cookalong; celebration tablescape &amp; cocktails; The Traitors Canada host, Karine Vanasse."
+      },
+      {
+        "id": "tvmaze:2665172",
+        "title": "Tika The Iggy, Sebastian Clovis",
+        "season": 1,
+        "episode": 26,
+        "released": "2023-10-11",
+        "overview": "Tika The Iggy; Sebastian Clovis shows how to do easy home repairs; styling a reading nook for under $100; honey hoisin chicken bowls."
+      },
+      {
+        "id": "tvmaze:2665173",
+        "title": "Alexandra Gater, Karl Conrad, Avery Haines, Antonia Fifi",
+        "season": 1,
+        "episode": 27,
+        "released": "2023-10-12",
+        "overview": "Home décor saves with Alexandra Gater; Karl Conrad shows the latest cool tech; W5's Avery Haines; BIPOC-owned style brands with Antonia Fifi"
+      },
+      {
+        "id": "tvmaze:2665174",
+        "title": "Shahir Massoud, TK Prentice-Cupid, Arthur Simeon.",
+        "season": 1,
+        "episode": 28,
+        "released": "2023-10-13",
+        "overview": "The grocery store rut with Shahir Massoud; curl care with TK Prentice-Cupid; new Crave series I Have Nothing; comedian Arthur Simeon."
+      },
+      {
+        "id": "tvmaze:2667820",
+        "title": "Andrea Buckett, Kallie Milleman, Mena Massoud, Jasmine Lee",
+        "season": 1,
+        "episode": 29,
+        "released": "2023-10-17",
+        "overview": "Andrea Buckett's sheet pan dinners; Kallie Milleman best new pet tech; Mena Massoud cooks with Mary; Jasmine Lee seller's real estate tips."
+      },
+      {
+        "id": "tvmaze:2669283",
+        "title": "Andy Hay, Ann Pornel, Andre De Grasse",
+        "season": 1,
+        "episode": 30,
+        "released": "2023-10-18",
+        "overview": "Andy Hay cooks up Oktoberfest faves; The Great Canadian Baking Show's Ann Pornel; Andre De Grasse; beauty products that give back to cancer."
+      },
+      {
+        "id": "tvmaze:2670005",
+        "title": "Antonia Fifi, Jing Gao, Madison Tevlin",
+        "season": 1,
+        "episode": 31,
+        "released": "2023-10-20",
+        "overview": "Mary &amp; Myra do the CN Tower Edgewalk; Antonia Fifi fall fashion trends; Jing Gao chilled sesame noodles; actress &amp; host Madison Tevlin."
+      },
+      {
+        "id": "tvmaze:2672450",
+        "title": "Owen Reeves, Kathy Reichs",
+        "season": 1,
+        "episode": 32,
+        "released": "2023-10-23",
+        "overview": "Mary &amp; Owen visit a pumpkin patch; pumpkin carving hacks &amp; florals; trending pumpkin desserts; Temperance Brennan novelist Kathy Reichs."
+      },
+      {
+        "id": "tvmaze:2673298",
+        "title": "Rufikat Oyawoye-Salami; Alexis Honce",
+        "season": 1,
+        "episode": 33,
+        "released": "2023-10-24",
+        "overview": "Halloween baking competition with judge Rufikat Oyawoye-Salami; Alexis Honce Halloween PJs for the whole family; creepy Halloween animals."
+      },
+      {
+        "id": "tvmaze:2673597",
+        "title": "Chef Ricardo, Carolyn Taylor, Mae Martin, Gerry Dee.",
+        "season": 1,
+        "episode": 34,
+        "released": "2023-10-25",
+        "overview": "Chef Ricardo cooks risotto with Mary; I Have Nothing comedians Carolyn Taylor &amp; Mae Martin; fall home maintenance checklist; Gerry Dee."
+      },
+      {
+        "id": "tvmaze:2674762",
+        "title": "Shawnee Kish",
+        "season": 1,
+        "episode": 35,
+        "released": "2023-10-26",
+        "overview": "Spooky Halloween eats; products &amp; DIYs to creep out your home; Halloween pet costumes; singer Shawnee Kish; fun ideas for trick-or-treating."
+      },
+      {
+        "id": "tvmaze:2675642",
+        "title": "Matt Edwards, Ted Gibson, Lauren Chan, Niki Strachan",
+        "season": 1,
+        "episode": 36,
+        "released": "2023-10-27",
+        "overview": "Matt Edwards formal &amp; casual jackets; Ted Gibson hair makeovers; Sports Illustrated rookie Lauren Chan; Niki Strachan Halloween makeup."
+      },
+      {
+        "id": "tvmaze:2678346",
+        "title": "Andrea Buckett, Steven Sabados, Chef Eric Ripert",
+        "season": 1,
+        "episode": 37,
+        "released": "2023-10-30",
+        "overview": "Andrea Buckett orange &amp; black themed Halloween party food; Steven Sabados spooky Halloween DIYs; Chef Eric Ripert, Mary goes to Fan Expo."
+      },
+      {
+        "id": "tvmaze:2678979",
+        "title": "Halloween Bash!",
+        "season": 1,
+        "episode": 38,
+        "released": "2023-10-31",
+        "overview": "The Good Stuff's Halloween Bash! Iconic costumes, cocktails &amp; spooky eats; mesmerizing experiments; trivia contest; audience costume contest that takes the crown for a heck of a lot of fun."
+      },
+      {
+        "id": "tvmaze:2681282",
+        "title": "Steve Hodge, Donovan Bailey",
+        "season": 1,
+        "episode": 39,
+        "released": "2023-11-01",
+        "overview": "Mary's spinach spanakopita; how to let go &amp; declutter; Steve Hodge makes chocolate brownies; Donovan Bailey on his memoir; grade 6 novelist."
+      },
+      {
+        "id": "tvmaze:2681288",
+        "title": "Jeremy Hansen, Amanda Jewson, Roya Shariat, Gita Sadeh",
+        "season": 1,
+        "episode": 40,
+        "released": "2023-11-03",
+        "overview": "Myra's Mac ‘n Cheese; Astronaut Jeremy Hansen on going to the moon; time change sleep tips; mother-daughter \"Maman &amp; Me\" cookbook authors."
+      },
+      {
+        "id": "tvmaze:2683599",
+        "title": "Lilly Singh, Fefe Dobson",
+        "season": 1,
+        "episode": 41,
+        "released": "2023-11-06",
+        "overview": "Day 1 of Mary's Meal Plan Week; Battle of The Generations' Host Lilly Singh; singer-songwriter Fefe Dobson; DIY décor projects."
+      },
+      {
+        "id": "tvmaze:2683898",
+        "title": "Dan Riskin, Amber Marshall",
+        "season": 1,
+        "episode": 42,
+        "released": "2023-11-07",
+        "overview": "Day 2 of Mary's Meal Plan Week; 2024 décor trends; cool baking science with Dan Riskin; Heartland's Amber Marshall; Good Kids profile."
+      },
+      {
+        "id": "tvmaze:2684739",
+        "title": "Malaika Hennie Hamadi, Hannan Younis",
+        "season": 1,
+        "episode": 43,
+        "released": "2023-11-08",
+        "overview": "Day 3 of Mary's Meal Plan Week; budgeting for inflation; immunity-supporting drinks for the family; the stars of Bria Mack Gets A Life."
+      },
+      {
+        "id": "tvmaze:2684740",
+        "title": "Antonia Fifi, Rêve",
+        "season": 1,
+        "episode": 44,
+        "released": "2023-11-09",
+        "overview": "Day 4 of Mary's Meal Plan Week; Antonia Fifi shows how to wear the trends; Montreal singer Rêve; Mary answers cooking questions."
+      },
+      {
+        "id": "tvmaze:2685808",
+        "title": "Rick Mercer, Adeena Sussman, Vijaya Selvaraju",
+        "season": 1,
+        "episode": 45,
+        "released": "2023-11-10",
+        "overview": "Day 5 of Mary's Meal Plan Week; Rick Mercer's memoir sequel; cookbook author Adeena Sussman; Diwali eats with Vijaya Selvaraju."
+      },
+      {
+        "id": "tvmaze:2687764",
+        "title": "Laurence Leboeuf, Sonia Wong, Owen Reeves",
+        "season": 1,
+        "episode": 46,
+        "released": "2023-11-13",
+        "overview": "Mac ‘N Cheese Week! Mary makes classic mac ‘n cheese; how to blend design styles; carry-on travel hacks; Transplant's Laurence Leboeuf."
+      },
+      {
+        "id": "tvmaze:2688951",
+        "title": "Owen Reeves, Alexis Honce, Jazmin Headley",
+        "season": 1,
+        "episode": 47,
+        "released": "2023-11-14",
+        "overview": "Mac ‘N Cheese twist of the day; Owen Reeves preps Mary's garden for winter; Alexis Honce holiday fashion for less; Good Kids Jazmin Headley."
+      },
+      {
+        "id": "tvmaze:2689676",
+        "title": "Aaron O'Bryan, Traci Melchor",
+        "season": 1,
+        "episode": 48,
+        "released": "2023-11-15",
+        "overview": "Mac ‘N Cheese twist of the day; Mary makes game day eats; Aaron O'Bryan gives two viewers new hairstyles; Traci Melchor's must-watch list."
+      },
+      {
+        "id": "tvmaze:2689679",
+        "title": "Odeen Eccleston, Lamont Wiltshire",
+        "season": 1,
+        "episode": 49,
+        "released": "2023-11-16",
+        "overview": "Mac ‘N Cheese twist of the day; styling your entryway; hair mistakes to avoid; Odeen Eccleston &amp; Lamont Wiltshire real estate mistakes."
+      },
+      {
+        "id": "tvmaze:2690037",
+        "title": "Mary & Alex Page",
+        "season": 1,
+        "episode": 50,
+        "released": "2023-11-17",
+        "overview": "Mac ‘N Cheese twist of the day; Mary &amp; Alex Page show to store &amp; cook with different spices; how to spice up your closet; spices in skincare"
+      },
+      {
+        "id": "tvmaze:2693640",
+        "title": "Alexis Honce, Sebastian Clovis, Alexandra Gater, Megan Arthurs",
+        "season": 1,
+        "episode": 51,
+        "released": "2023-11-21",
+        "overview": "Expert Dream Team! Mary teams up with Alexis Honce, Sebastian Clovis, Alexandra Gater &amp; Megan Arthurs to troubleshoot viewers' dilemmas."
+      },
+      {
+        "id": "tvmaze:2693642",
+        "title": "Jennifer Valentyne, Mr. Dressup, Jamie Fine",
+        "season": 1,
+        "episode": 52,
+        "released": "2023-11-22",
+        "overview": "Jennifer Valentyne's fav viral food hacks; Mr. Dressup documentary; TK's winter haircare tips; Good People profile; Jamie Fine performs."
+      },
+      {
+        "id": "tvmaze:2693643",
+        "title": "Antonia Fifi, Dan Riskin, Christine Cho, Science Sam",
+        "season": 1,
+        "episode": 53,
+        "released": "2023-11-23",
+        "overview": "Mary's reverse-seared steak; Antonia Fifi capsule wardrobe; Dan Riskin science of flying animals; Christine Cho's beauty lab; Science Sam."
+      },
+      {
+        "id": "tvmaze:2694972",
+        "title": "Property Brothers",
+        "season": 1,
+        "episode": 54,
+        "released": "2023-11-24",
+        "overview": "Property Brothers' new kids' show; wine &amp; food pairings; cleaning hacks; party theme ideas; Taylor Swift Eras Tour contest."
+      },
+      {
+        "id": "tvmaze:2705783",
+        "title": "Matt Edwards, Samantha Fung",
+        "season": 1,
+        "episode": 55,
+        "released": "2023-12-04",
+        "overview": "Mary &amp; Myra cut down their first Christmas tree &amp; make big batch hot chocolate; Matt Edwards holiday fashion trends; Good Kids Samantha Fung"
+      },
+      {
+        "id": "tvmaze:2705784",
+        "title": "Andrea Buckett, Andrea Bain, Crystal Ferrier",
+        "season": 1,
+        "episode": 56,
+        "released": "2023-12-05",
+        "overview": "Andrea Buckett helps a viewer throw a stress-free holiday party; Andrea Bain stops by with A Very Mary Giveaway; comedian Crystal Ferrier"
+      },
+      {
+        "id": "tvmaze:2705785",
+        "title": "Corey Ng, Aaron O'Bryan, Pattie Lovett Reid",
+        "season": 1,
+        "episode": 57,
+        "released": "2023-12-06",
+        "overview": "Corey Ng drops by with A Very Mary Giveaway; black dress amp-ups; Aaron O'Bryan holiday hair makeovers; Pattie Lovett Reid holiday budget"
+      },
+      {
+        "id": "tvmaze:2707285",
+        "title": "Peter Mansbridge, Six The Musical",
+        "season": 1,
+        "episode": 58,
+        "released": "2023-12-07",
+        "overview": "Hottest holiday toys; Peter Mansbridge on his new book; the cast of Six The Musical drops by with A Very Mary Giveaway &amp; performs."
+      },
+      {
+        "id": "tvmaze:2711558",
+        "title": "Andy Hay, Patrick Stewart, Traci Melchor",
+        "season": 1,
+        "episode": 59,
+        "released": "2023-12-08",
+        "overview": "Andy Hay judges Ugly Xmas Sweater Cake Off; Sir Patrick Stewart; last-minute gifts; Traci Melchor gifts A Very Mary Giveaway"
+      },
+      {
+        "id": "tvmaze:2712632",
+        "title": "Holidays On A Budget!",
+        "season": 1,
+        "episode": 60,
+        "released": "2023-12-11",
+        "overview": "Holidays On A Budget! Budget-friendly holiday dishes, festive fashions, gift ideas, tabletop décor and more!"
+      },
+      {
+        "id": "tvmaze:2712633",
+        "title": "Alex Wood",
+        "season": 1,
+        "episode": 61,
+        "released": "2023-12-12",
+        "overview": "Mary teaches a viewer how to cook for her holiday party; freezer-friendly meals; fashion looks using what you have; comedian Alex Wood"
+      },
+      {
+        "id": "tvmaze:2714428",
+        "title": "Andrea Buckett, Jamie Oliver, Christopher Siu",
+        "season": 1,
+        "episode": 62,
+        "released": "2023-12-13",
+        "overview": "Mary's birthday! Andrea Buckett makes Mary's fav meal; Jamie Oliver; birthday giveaways; Mary's hubby &amp; baker Christopher Siu surprise Mary"
+      },
+      {
+        "id": "tvmaze:2714429",
+        "title": "Chelsea Handler, Tori Wesszer, Farah Altoumah",
+        "season": 1,
+        "episode": 63,
+        "released": "2023-12-14",
+        "overview": "Mary's holiday cookies; Chelsea Handler; Tori Wesszer bakes holiday treats; Farah Altoumah sustainable holiday décor; pawliday gift guide"
+      },
+      {
+        "id": "tvmaze:2716470",
+        "title": "Vijaya Selvaraju, Spencer Watts, Taneisha Morris, Alexandra Gater",
+        "season": 1,
+        "episode": 64,
+        "released": "2023-12-15",
+        "overview": "Vijaya Selvaraju &amp; Spencer Watts Xmas market eats; Owen Reeves Xmas tree guide; Taneisha Morris holiday drinks; Alexandra Gater holiday DIY"
+      },
+      {
+        "id": "tvmaze:2718664",
+        "title": "Anna Olson, Karl Conrad, Tyler Shaw",
+        "season": 1,
+        "episode": 65,
+        "released": "2023-12-18",
+        "overview": "Mary's holiday breakfast spread; Anna Olson holiday desserts; Karl Conrad best party tech; holiday-movie inspired eats; Tyler Shaw performs."
+      },
+      {
+        "id": "tvmaze:2718665",
+        "title": "Ashley Greco",
+        "season": 1,
+        "episode": 66,
+        "released": "2023-12-19",
+        "overview": "Mary makes a sausage roll wreath; two community heroes get a glam makeover; Ashley Greco makes a breakfast casserole as a hostess gift."
+      },
+      {
+        "id": "tvmaze:2720102",
+        "title": "Owen Reeves, Sebastian Clovis, Sarah Habibi",
+        "season": 1,
+        "episode": 67,
+        "released": "2023-12-20",
+        "overview": "Mary's Holiday Cross-Country Cook Along; Owen Reeves &amp; Sebastian Clovis outdoor holiday transformation; Sarah Habibi kids' snow globe DIY."
+      },
+      {
+        "id": "tvmaze:2720103",
+        "title": "Alexis Honce, Lori Williamson, Jennifer Valentyne",
+        "season": 1,
+        "episode": 68,
+        "released": "2023-12-21",
+        "overview": "Mary makes shrimp cocktail; Alexis Honce last-minute gifts; Lori Williamson holiday cleaning hacks; Jennifer Valentyne holiday DIYs."
+      },
+      {
+        "id": "tvmaze:2722072",
+        "title": "Andrea Buckett, Evelyn Chick, Vijaya Selvaraju, Taneisha Morris",
+        "season": 1,
+        "episode": 69,
+        "released": "2023-12-22",
+        "overview": "The Good Feast! Andrea Buckett, Evelyn Chick, Vijaya Selvaraju, &amp; Taneisha Morris cook up a holiday feast!"
+      },
+      {
+        "id": "tvmaze:2748375",
+        "title": "Antonia Fifi, Andrea Buckett, Charlotte Singmin",
+        "season": 1,
+        "episode": 70,
+        "released": "2024-01-15",
+        "overview": "Antonia Fifi 2024 winter fashion trends; Andrea Buckett what's new in food; Charlotte Singmin wellness trends; TikTok creator Bizzy Boom."
+      },
+      {
+        "id": "tvmaze:2748376",
+        "title": "Owen Reeves, Science Sam, Andrew Phung",
+        "season": 1,
+        "episode": 71,
+        "released": "2024-01-16",
+        "overview": "Owen Reeves fun &amp; practical winter gear; Science Sam fun winter experiments; Run The Burbs star Andrew Phung; Mary's fridge essentials."
+      },
+      {
+        "id": "tvmaze:2748377",
+        "title": "Vanessa Morgan, Giacomo Gianniotti",
+        "season": 1,
+        "episode": 72,
+        "released": "2024-01-17",
+        "overview": "Mary shares her small kitchen essentials; double duty small space décor; Wild Card stars Vanessa Morgan &amp; Giacomo Gianniotti."
+      },
+      {
+        "id": "tvmaze:2748378",
+        "title": "Myra, Pattie Lovett Reid, Jim Watson",
+        "season": 1,
+        "episode": 73,
+        "released": "2024-01-18",
+        "overview": "Mary &amp; Myra try making pottery; biggest bang for your buck renos; Pattie Lovett Reid's financial forecast; Transplant star Jim Watson."
+      },
+      {
+        "id": "tvmaze:2748379",
+        "title": "Andrea Buckett, Taneisha Morris, Andy Hay",
+        "season": 1,
+        "episode": 74,
+        "released": "2024-01-19",
+        "overview": "Mary, Andrea Buckett, Taneisha Morris and Andy Hay make their favourite cozy cravings, and dish on the latest food trends."
+      },
+      {
+        "id": "tvmaze:2751090",
+        "title": "Matt Edwards, Vijaya Selvaraju",
+        "season": 1,
+        "episode": 75,
+        "released": "2024-01-22",
+        "overview": "Day 1 Mary's Meal Plan Week; Matt Edwards 333 style challenge; Vijaya Selvaraju makes a French-inspired dish; fridge organizing tips."
+      },
+      {
+        "id": "tvmaze:2751101",
+        "title": "Alexandra Gater, Chef Shahir Massoud, Dan Riskin",
+        "season": 1,
+        "episode": 76,
+        "released": "2024-01-23",
+        "overview": "Day 2 Mary's Meal Plan Week; Alexandra Gater's sleep tips; Chef Shahir Massoud; Dan Riskin the science of sound; Mary's food storage tips."
+      },
+      {
+        "id": "tvmaze:2751468",
+        "title": "Christopher Siu, Lori Williamson",
+        "season": 1,
+        "episode": 77,
+        "released": "2024-01-24",
+        "overview": "Day 3 Mary's Meal Plan Week; Christopher Siu makes Elvis Presley's fave French toast; Lori Williamson's nighttime cleaning routine."
+      },
+      {
+        "id": "tvmaze:2752155",
+        "title": "Abbey Sharp, Sebastian Clovis, D.J. Demers",
+        "season": 1,
+        "episode": 78,
+        "released": "2024-01-25",
+        "overview": "Day 4 Mary's Meal Plan Week; Abbey Sharp mood-boosting foods; Sebastian Clovis tiling tips; comedian D.J. Demers; salt lesson."
+      },
+      {
+        "id": "tvmaze:2752811",
+        "title": "Aaron O'Bryan, Ryan Hinkson, Jus Reign",
+        "season": 1,
+        "episode": 79,
+        "released": "2024-01-26",
+        "overview": "Day 5 Mary's Meal Plan Week; Aaron O'Bryan social media hair trends; Ryan Hinkson best lasagna search; comedian Jus Reign; sugar lesson."
+      },
+      {
+        "id": "tvmaze:2756350",
+        "title": "Antonia Fifi, Ryan Hinkson, Vijaya Selvaraju",
+        "season": 1,
+        "episode": 80,
+        "released": "2024-01-30",
+        "overview": "Antonia Fifi the hot girl walk trend; Ryan Hinkson spicy cocktails; Mary &amp; Vijaya Selvaraju taste test hot sauces; the Swicy food trend."
+      },
+      {
+        "id": "tvmaze:2756351",
+        "title": "Taneisha Morris, Ryan Hinkson, Daneille Mattis, Kingsley Madu",
+        "season": 1,
+        "episode": 81,
+        "released": "2024-02-01",
+        "overview": "Taneisha Morris; Ryan Hinkson Canadian landmarks tied to Black history; Daneille Mattis Black beauty brands; Kingsley Madu digital money app"
+      },
+      {
+        "id": "tvmaze:2756352",
+        "title": "Nikki Strachan, Alexis Honce, Natalie Borch",
+        "season": 1,
+        "episode": 82,
+        "released": "2024-02-02",
+        "overview": "Nikki Strachan shows simple hair switchups; Alexis Honce new cuts of jeans; body confidence expert Natalie Borch; simple daily exercises."
+      },
+      {
+        "id": "tvmaze:2756353",
+        "title": "Helen Li",
+        "season": 1,
+        "episode": 83,
+        "released": "2024-02-05",
+        "overview": "The day's experts share their favourite Lunar New Year traditions, recipes and products; Helen Li explains the Chinese Zodiac; lion dancers."
+      },
+      {
+        "id": "tvmaze:2767432",
+        "title": "Aaron O'Bryan, Corey Ng, Taneisha Morris, Owen Reeves",
+        "season": 1,
+        "episode": 84,
+        "released": "2024-02-06",
+        "overview": "Expert Dream Team! Aaron O'Bryan, Corey Ng, Taneisha Morris &amp; Owen Reeves help Mary answer viewers' questions &amp; dilemmas."
+      },
+      {
+        "id": "tvmaze:2767433",
+        "title": "Sarah & April, Ryan Hinkson, Anna Lambe",
+        "season": 1,
+        "episode": 85,
+        "released": "2024-02-08",
+        "overview": "The June Motel's Sarah &amp; April on how to create a mood board; Ryan Hinkson's fav Black-Owned restaurants; True Detective star Anna Lambe."
+      },
+      {
+        "id": "tvmaze:2767434",
+        "title": "Ren Navarro, Dan Clapson",
+        "season": 1,
+        "episode": 86,
+        "released": "2024-02-09",
+        "overview": "Two pro chefs compete in the Super BBQ Bowl; Ren Navarro Super Bowl beer pairings; Dan Clapson's Super Bowl eats; Mary's pulled pork rolls."
+      },
+      {
+        "id": "tvmaze:2769506",
+        "title": "Alexis Honce, Alex Page, Sam Roberts",
+        "season": 1,
+        "episode": 87,
+        "released": "2024-02-12",
+        "overview": "Mary kicks off French Onion Week with classic French onion soup; Alexis Honce loungewear sets; Alex Page slow cooker recipes; Sam Roberts."
+      },
+      {
+        "id": "tvmaze:2769763",
+        "title": "Andrea Buckett, Pablo Schreiber, Ryan Hinkson",
+        "season": 1,
+        "episode": 88,
+        "released": "2024-02-13",
+        "overview": "Andrea Buckett helps a viewer cook a Valentine's dinner; Day 2 French Onion Week; Halo star Pablo Schreiber; Ryan Hinkson Black-Owned brands"
+      },
+      {
+        "id": "tvmaze:2772127",
+        "title": "Corey Ng, Ashley Greco",
+        "season": 1,
+        "episode": 89,
+        "released": "2024-02-14",
+        "overview": "Mary makes Aaron a French-inspired Valentine's Day meal; Corey Ng date night looks; Ashley Greco hosts fun couples' games."
+      },
+      {
+        "id": "tvmaze:2772128",
+        "title": "Aaron O'Bryan, Antonia Fifi, Ted Gibson",
+        "season": 1,
+        "episode": 90,
+        "released": "2024-02-15",
+        "overview": "Mary makes French onion party dip; Aaron O'Bryan Spinning Wheel of Haircuts; Antonia Fifi how to wear the trends; Ted Gibson hair makeovers."
+      },
+      {
+        "id": "tvmaze:2772129",
+        "title": "Sangita Pate, Jennifer Robertson, Alan Doyle",
+        "season": 1,
+        "episode": 91,
+        "released": "2024-02-16",
+        "overview": "Mary makes French onion roast; Love &amp; Translation host Sangita Patel; The Great Pottery Throwdown host Jennifer Robertson; Alan Doyle."
+      },
+      {
+        "id": "tvmaze:2772131",
+        "title": "Myra, Aaron, Chef Chuck Hughes",
+        "season": 1,
+        "episode": 92,
+        "released": "2024-02-19",
+        "overview": "Mary, Myra &amp; Aaron try indoor skydiving; easy one-pot cooking with kids; cutting kids' hair at home; Chef Chuck Hughes; homemade playdough."
+      },
+      {
+        "id": "tvmaze:2772132",
+        "title": "Olympian Phylicia George",
+        "season": 1,
+        "episode": 93,
+        "released": "2024-02-20",
+        "overview": "3-Ingredient recipes; upgrading a small kitchen's décor; pairing jeans with shoes; Mary's soy chicken meatballs; Olympian Phylicia George."
+      },
+      {
+        "id": "tvmaze:2772135",
+        "title": "Kasia Waloszczyk, Sebastian Clovis, Ayanna Augustine",
+        "season": 1,
+        "episode": 94,
+        "released": "2024-02-22",
+        "overview": "Kasia Waloszczyk basement bathroom tour; stylish bathroom organizers; Sebastian Clovis &amp; Ayanna Augustine living-dining makeover."
+      },
+      {
+        "id": "tvmaze:2790515",
+        "title": "Farah Altoumah, Megan Arthurs",
+        "season": 1,
+        "episode": 95,
+        "released": "2024-03-01",
+        "overview": "Mary's cold water pasta method; how to create a timeless personal space; stylish organization ideas; Mary's kitchen knives lesson."
+      },
+      {
+        "id": "tvmaze:2790516",
+        "title": "Alexis Honce, Jason Lupo, Luke Hutchie & Matthew Finlan",
+        "season": 1,
+        "episode": 96,
+        "released": "2024-03-04",
+        "overview": "Mary makes Spatchcock chicken; clever belt styling &amp; fashion hacks; nursery décor &amp; reno ideas; Ghosting's Luke Hutchie &amp; Matthew Finlan."
+      },
+      {
+        "id": "tvmaze:2792455",
+        "title": "Tuesday, March 5, 2024",
+        "season": 1,
+        "episode": 97,
+        "released": "2024-03-05",
+        "overview": "Myra teaches Mary her laundry tips &amp; tricks; Mary makes a skillet supper; essential wardrobe gadgets; viral folding hacks."
+      },
+      {
+        "id": "tvmaze:2792456",
+        "title": "Wednesday, March 6, 2024",
+        "season": 1,
+        "episode": 98,
+        "released": "2024-03-06",
+        "overview": "Mary makes a Tuscan-inspired cannelloni; comfy &amp; stylish airport looks; travel essentials under $60; top free travel apps."
+      },
+      {
+        "id": "tvmaze:2793494",
+        "title": "Thursday, March 7, 2024",
+        "season": 1,
+        "episode": 99,
+        "released": "2024-03-07",
+        "overview": "Mary makes crispy garlic parmesan potatoe; how to decorate with the colour of the year; top wedding trends; women's financial literacy tips."
+      },
+      {
+        "id": "tvmaze:2793495",
+        "title": "Tyrone Edwards",
+        "season": 1,
+        "episode": 100,
+        "released": "2024-03-08",
+        "overview": "How to throw an Oscar party Old Hollywood Style; Tyrone Edwards' Oscar predictions; The Good Stuff's office Oscar pool sketch."
+      },
+      {
+        "id": "tvmaze:2797676",
+        "title": "Sonia Mangat, Alexis Honce, Myra Berg",
+        "season": 1,
+        "episode": 101,
+        "released": "2024-03-11",
+        "overview": "Live Oscars recap with Etalk's Sonia Mangat, Alexis Honce &amp; Myra Berg; breakfast pizza &amp; mimosa bar; recreating red carpet makeup looks."
+      },
+      {
+        "id": "tvmaze:2797677",
+        "title": "Tuesday, March 12, 2024",
+        "season": 1,
+        "episode": 102,
+        "released": "2024-03-12",
+        "overview": "Twin sisters get head-to-toe makeovers; two delicious recipes one grocery list; DIY light sconces, gallery wall &amp; statement art."
+      },
+      {
+        "id": "tvmaze:2797678",
+        "title": "Brock McGillis",
+        "season": 1,
+        "episode": 103,
+        "released": "2024-03-13",
+        "overview": "Kids' spring break cookalong; tips for adopting a new pet; fun spring break science experiments; former pro hockey player Brock McGillis."
+      },
+      {
+        "id": "tvmaze:2797679",
+        "title": "Thursday, March 14, 2024",
+        "season": 1,
+        "episode": 104,
+        "released": "2024-03-14",
+        "overview": "Entryway makeover; common organizing mistakes; viewer's closet overhaul; capsule wardrobe staples guide; Mary makes Italian dumplings."
+      },
+      {
+        "id": "tvmaze:2797680",
+        "title": "Evelyne Brochu.",
+        "season": 1,
+        "episode": 105,
+        "released": "2024-03-15",
+        "overview": "Mary makes St. Paddy's Day dinner &amp; dessert; must-have spring accessories; real vs faux hairstyles; French Girl star Evelyne Brochu."
+      },
+      {
+        "id": "tvmaze:2804114",
+        "title": "Monday, March 18, 2024",
+        "season": 1,
+        "episode": 106,
+        "released": "2024-03-18",
+        "overview": "Getting the best grocery deals; low-cost recipes; classic fashion for less; hi-low décor trends; getting more out of reward points."
+      },
+      {
+        "id": "tvmaze:2804115",
+        "title": "Tuesday, March 19, 2024",
+        "season": 1,
+        "episode": 107,
+        "released": "2024-03-19",
+        "overview": "Transitioning winter wardrobe to spring; spring gardening dos &amp; don'ts; spring real estate forecast; running for beginners; Persian New Year"
+      },
+      {
+        "id": "tvmaze:2804116",
+        "title": "Wednesday, March 20, 2024",
+        "season": 1,
+        "episode": 108,
+        "released": "2024-03-20",
+        "overview": "Breakfast for dinner pantry clearing recipe; clever spring cleaning hacks; DIY minor driveway repairs; the stars of Crave's Nesting."
+      },
+      {
+        "id": "tvmaze:2804117",
+        "title": "Thursday, March 21, 2024",
+        "season": 1,
+        "episode": 109,
+        "released": "2024-03-21",
+        "overview": "Mary makes spring brunch; décor &amp; DIY ideas for a kid's bedroom; maple as medicine; maple pancakes; match your pillow to your sleep style."
+      },
+      {
+        "id": "tvmaze:2804118",
+        "title": "Friday, March 22, 2024",
+        "season": 1,
+        "episode": 110,
+        "released": "2024-03-22",
+        "overview": "Create outfits in a flash; 15-minute meal; 3 ways to get heatless curls fast; quick air fryer recipes; quick makeup tips; speedy experiments"
+      },
+      {
+        "id": "tvmaze:2810160",
+        "title": "Monday, March 25, 2024",
+        "season": 1,
+        "episode": 111,
+        "released": "2024-03-25",
+        "overview": "Mary makes strawberry rhubarb galette; spring planters; Easter crafts table &amp; entertaining DIYs; Good Food, Good Mood authors."
+      },
+      {
+        "id": "tvmaze:2810161",
+        "title": "Kat Ashmore, Trish Stratus, Kardinal Offishall",
+        "season": 1,
+        "episode": 112,
+        "released": "2024-03-26",
+        "overview": "Showstopping makeovers; dinner party showstopper recipe; former Martha Stewart producer Kat Ashmore; Trish Stratus &amp; Kardinal Offishall."
+      },
+      {
+        "id": "tvmaze:2810162",
+        "title": "Matt Dusk",
+        "season": 1,
+        "episode": 113,
+        "released": "2024-03-27",
+        "overview": "Mary makes a rainbow cake; spring cocktails; how to determine which colours suit you best; spring colour decor; Matt Dusk performs."
+      },
+      {
+        "id": "tvmaze:2810163",
+        "title": "Andrea Buckett, Christopher Siu, Taneisha Morris",
+        "season": 1,
+        "episode": 114,
+        "released": "2024-03-28",
+        "overview": "The Good Feast: Andrea Buckett, Christopher Siu &amp; Taneisha Morris help Mary make elevated Easter Brunch dishes."
+      },
+      {
+        "id": "tvmaze:2810164",
+        "title": "Anna Olson, Julie Kim",
+        "season": 1,
+        "episode": 115,
+        "released": "2024-03-29",
+        "overview": "Mary's easiest Easter ever recipes; Anna Olson bakes Easter desserts; how to wear pastels; comedian Julie Kim."
+      },
+      {
+        "id": "tvmaze:2813291",
+        "title": "James Mullinger",
+        "season": 1,
+        "episode": 116,
+        "released": "2024-04-01",
+        "overview": "Leftover Easter candy brownies; recipes to break the Ramadan fast; spring jackets; DIY spring pots; comic James Mullinger."
+      },
+      {
+        "id": "tvmaze:2815960",
+        "title": "Tuesday, April 2, 2024",
+        "season": 1,
+        "episode": 117,
+        "released": "2024-04-02",
+        "overview": "Five-ingredient recipe challenge; five classic fashion accessories; five trending beauty gadgets; five space-saving décor solutions."
+      },
+      {
+        "id": "tvmaze:2818102",
+        "title": "Taneisha Morris",
+        "season": 1,
+        "episode": 118,
+        "released": "2024-04-08",
+        "overview": "Taneisha Morris takes Mary shopping to a West Indian market; products that make life easier on-the-go for you &amp; your pet; patio refresh."
+      },
+      {
+        "id": "tvmaze:2818103",
+        "title": "Tuesday, April 9, 2024",
+        "season": 1,
+        "episode": 119,
+        "released": "2024-04-09",
+        "overview": "Two pro bakers compete in Mary's Spring Sweets Showdown; Mary makes almond croissant buns; spring entertaining dessert boards."
+      },
+      {
+        "id": "tvmaze:2818104",
+        "title": "Dr. Isaac Bogoch",
+        "season": 1,
+        "episode": 120,
+        "released": "2024-04-10",
+        "overview": "Sneaking in healthy ingredients for picky eaters; Dr. Isaac Bogoch on Measles prevention; authors of The Wisdom of Nurses."
+      },
+      {
+        "id": "tvmaze:2818105",
+        "title": "Andrea Buckett, Colin Mochrie, Asad Mecci.",
+        "season": 1,
+        "episode": 121,
+        "released": "2024-04-11",
+        "overview": "Game Night! Team Mary faces off against Team Andrea Buckett; game night eats; fun high tech games; Hyprov's Colin Mochrie &amp; Asad Mecci."
+      },
+      {
+        "id": "tvmaze:2818106",
+        "title": "Friday, April 12, 2024",
+        "season": 1,
+        "episode": 122,
+        "released": "2024-04-12",
+        "overview": "Spring fashion trends for less; spring hair colour trends; beauty influencer must-haves; spreading awareness for World Down Syndrome Day."
+      },
+      {
+        "id": "tvmaze:2832192",
+        "title": "Robb Wells, Anastasia Phillips",
+        "season": 1,
+        "episode": 123,
+        "released": "2024-04-15",
+        "overview": "Tips for organizing outdoor gear; spring lawn care; spring fashion for the whole family; actors Robb Wells and Anastasia Phillips."
+      },
+      {
+        "id": "tvmaze:2832193",
+        "title": "Mary Elizabeth Winstead",
+        "season": 1,
+        "episode": 124,
+        "released": "2024-04-16",
+        "overview": "Mary's shrimp smash dumplings; fashion trends making a comeback; tech trends; 2024's new superfoods; actress Mary Elizabeth Winstead."
+      },
+      {
+        "id": "tvmaze:2833824",
+        "title": "Patti Stanger",
+        "season": 1,
+        "episode": 125,
+        "released": "2024-04-18",
+        "overview": "Caesar salad roast chicken mashup; how to wear unique colour combos; reality TV personality Patti Stanger; fusion cuisine; mashup workout."
+      },
+      {
+        "id": "tvmaze:2840830",
+        "title": "Chad Michael Murray, Morgan Kohan, Taviss Edwards, Dasha",
+        "season": 1,
+        "episode": 126,
+        "released": "2024-04-22",
+        "overview": "Baked feta pasta; actors Chad Michael Murray and Morgan Kohan (\"Sullivan's Crossing\"); 10-year-old TV host Taviss Edwards; Dasha performs."
+      },
+      {
+        "id": "tvmaze:2845603",
+        "title": "Monday, April 29, 2024",
+        "season": 1,
+        "episode": 127,
+        "released": "2024-04-29",
+        "overview": "Mary makes a classic French omelette; how to style wide leg pants; correct skincare routine order; Passover recipe."
+      },
+      {
+        "id": "tvmaze:2849378",
+        "title": "Mena Massoud",
+        "season": 1,
+        "episode": 128,
+        "released": "2024-04-30",
+        "overview": "Mary makes a warm potato salad; how to fix and maintain a downspout; spring real estate market tips; 'Evolving Vegan' host Mena Massoud."
+      },
+      {
+        "id": "tvmaze:2850314",
+        "title": "Jann Arden, Jimbo the Drag Clown",
+        "season": 1,
+        "episode": 129,
+        "released": "2024-05-01",
+        "overview": "Jann Arden stops by and bakes with Mary; spring clean and declutter ones digital devices; Chinese noodle traditions; Jimbo the Drag Clown."
+      },
+      {
+        "id": "tvmaze:2850315",
+        "title": "Jay Baruchel, Tom Hearn",
+        "season": 1,
+        "episode": 130,
+        "released": "2024-05-02",
+        "overview": "Mary makes a spanakopita inspired pot pie; \"We're All Gonna Die\" host Jay Baruchel; comic Tom Hearn."
+      },
+      {
+        "id": "tvmaze:2850316",
+        "title": "Sash Simpson",
+        "season": 1,
+        "episode": 131,
+        "released": "2024-05-03",
+        "overview": "Five-minute declutter challenges; spring dress trends; springtime baby animals; celebrity chef Sash Simpson; Cinco De Mayo."
+      },
+      {
+        "id": "tvmaze:2850317",
+        "title": "Monday, May 6, 2024",
+        "season": 1,
+        "episode": 132,
+        "released": "2024-05-06",
+        "overview": "The day's experts compete to make budget-friendly family meals and find the best deals for the home and garden."
+      },
+      {
+        "id": "tvmaze:2850318",
+        "title": "Ramon Rodriguez, Jennifer Reid",
+        "season": 1,
+        "episode": 133,
+        "released": "2024-05-07",
+        "overview": "Chopped cold roll salad; actor Ramon Rodriguez (\"Will Trent\"); spring flower arrangements; \"A Woman Like You\" podcast host Jennifer Reid."
+      },
+      {
+        "id": "tvmaze:2850319",
+        "title": "Wednesday, May 8, 2024",
+        "season": 1,
+        "episode": 134,
+        "released": "2024-05-08",
+        "overview": "Mary's viewers choose the meal of the day; makeovers; travel tips."
+      },
+      {
+        "id": "tvmaze:2850320",
+        "title": "Sophie Grégoire-Trudeau, Pattie Lovett-Reid",
+        "season": 1,
+        "episode": 135,
+        "released": "2024-05-09",
+        "overview": "Mary makes sweet potato enchiladas; Sophie Grégoire-Trudeau; Mother's Day makeover; Pattie Lovett-Reid shares money lessons from mom."
+      },
+      {
+        "id": "tvmaze:2850321",
+        "title": "Ashley Greco",
+        "season": 1,
+        "episode": 136,
+        "released": "2024-05-10",
+        "overview": "Mary makes Myra's fav Mother's Day treat; Mary and Myra's Mother's Day giveaways; Ashley Greco surprises a mom on location at her home."
+      },
+      {
+        "id": "tvmaze:2874114",
+        "title": "Annie Särnblad, Brett Kissel",
+        "season": 1,
+        "episode": 137,
+        "released": "2024-05-13",
+        "overview": "Mary makes leek and sausage Stromboli; how to plan a garden; viral kitchen gadgets; author Annie Särnblad; Brett Kissel performs."
+      },
+      {
+        "id": "tvmaze:2874115",
+        "title": "Devan Rajkumar, Max Amini, Mark Clearview",
+        "season": 1,
+        "episode": 138,
+        "released": "2024-05-14",
+        "overview": "Green-ginger-garlic noodles; planting annuals, perennials and shrubs; chef Devan Rajkumar; comic Max Amini; magician Mark Clearview."
+      },
+      {
+        "id": "tvmaze:2874116",
+        "title": "Wednesday, May 15, 2024",
+        "season": 1,
+        "episode": 139,
+        "released": "2024-05-15",
+        "overview": "Summer shorts guide; common gardening challenges; first aid for dogs; airport safety falcons Petey and Bullet; \"By Blacks\" restaurant week."
+      },
+      {
+        "id": "tvmaze:2874117",
+        "title": "Elaine Lui",
+        "season": 1,
+        "episode": 140,
+        "released": "2024-05-16",
+        "overview": "Mary makes a long-weekend Victoria sponge cake; veggie garden 101; a stylish balcony makeover; Elaine Lui's summer movie preview."
+      },
+      {
+        "id": "tvmaze:2874118",
+        "title": "Jess Allen, Terry Ryan",
+        "season": 1,
+        "episode": 141,
+        "released": "2024-05-17",
+        "overview": "Mary and Jess Allen make croque madames; the benefits of companion planting; long weekend beer tasting; \"Shoresy\" star Terry Ryan."
+      },
+      {
+        "id": "tvmaze:2887896",
+        "title": "Marilyn Denis",
+        "season": 1,
+        "episode": 142,
+        "released": "2024-05-21",
+        "overview": "Marilyn Denis on her Lifetime Achievement Award; Mary makes shrimp linguine; the science behind a perfect BLT."
+      },
+      {
+        "id": "tvmaze:2887897",
+        "title": "Andrea Buckett, Anna Olson, Evelyn Chick, Ruth Reichl",
+        "season": 1,
+        "episode": 143,
+        "released": "2024-05-22",
+        "overview": "Andrea Buckett, Anna Olson and Evelyn Chick help Mary make Parisian-inspired eats and drinks; author Ruth Reichl."
+      },
+      {
+        "id": "tvmaze:2887898",
+        "title": "Priyanka",
+        "season": 1,
+        "episode": 144,
+        "released": "2024-05-23",
+        "overview": "Mary's takeout style fried fish sandwich; Canadian condiments; linen fashion trends; Priyanka cooks and performs."
+      },
+      {
+        "id": "tvmaze:2887899",
+        "title": "Friday, May 24, 2024",
+        "season": 1,
+        "episode": 145,
+        "released": "2024-05-24",
+        "overview": "Summer comfort dinner; comfort footwear; comfy supportive bras; products to get a cool summer sleep; Indigenous Fashion Arts Festival."
+      },
+      {
+        "id": "tvmaze:2894072",
+        "title": "Monday, May 27, 2024",
+        "season": 1,
+        "episode": 146,
+        "released": "2024-05-27",
+        "overview": "A couple gets a wedding makeover; Mary makes a pasta and meatball dish for her husband; wedding guest outfits; wedding décor trends."
+      },
+      {
+        "id": "tvmaze:2894080",
+        "title": "Tuesday, May 28, 2024",
+        "season": 1,
+        "episode": 147,
+        "released": "2024-05-28",
+        "overview": "Mary's strawberry rhubarb pavlova; two twists on tacos; chic looks for Pride; how to make hair colour and curl last; Asian spirits tasting."
+      },
+      {
+        "id": "tvmaze:2899578",
+        "title": "Wednesday, May 29, 2024",
+        "season": 1,
+        "episode": 148,
+        "released": "2024-05-29",
+        "overview": "Mary makes white wine coq au vin; stylish décor finds under $50; luxury beauty dupes; outdoor spring planter DIY; demystifying dumplings."
+      },
+      {
+        "id": "tvmaze:2899579",
+        "title": "Thursday, May 30, 2024",
+        "season": 1,
+        "episode": 149,
+        "released": "2024-05-30",
+        "overview": "Mary and her staff learn how to make fresh pasta; homemade pasta and sauce secrets; pasta alternatives; wine and pasta pairings."
+      },
+      {
+        "id": "tvmaze:2899582",
+        "title": "Friday, May 31, 2024",
+        "season": 1,
+        "episode": 150,
+        "released": "2024-05-31",
+        "overview": "Mary's summery Steak Bourguignon; style a fav piece for different occasions; small hair changes big new look; classic cocktail makeovers."
+      },
+      {
+        "id": "tvmaze:2912808",
+        "title": "Carley Fortune",
+        "season": 1,
+        "episode": 151,
+        "released": "2024-06-03",
+        "overview": "Takeout style coconut butter chicken; creating five looks out of five pieces; health hacks for packaged foods; author Carley Fortune."
+      },
+      {
+        "id": "tvmaze:2912892",
+        "title": "Tuesday, June 4, 2024",
+        "season": 1,
+        "episode": 152,
+        "released": "2024-06-04",
+        "overview": "Takeout style chicken shawarma; blender drinks for summer; tech products for summer entertaining; Kiesza performs; surprise proposal."
+      },
+      {
+        "id": "tvmaze:2912944",
+        "title": "Steve Toussaint, Harry Collett",
+        "season": 1,
+        "episode": 153,
+        "released": "2024-06-05",
+        "overview": "Takeout style bowl; mini, midi and maxi skirts; sunscreen infused products; \"House of the Dragon\" stars Steve Toussaint and Harry Collett."
+      },
+      {
+        "id": "tvmaze:2912979",
+        "title": "Thursday, June 6, 2024",
+        "season": 1,
+        "episode": 154,
+        "released": "2024-06-06",
+        "overview": "Mary makes takeout style mac 'n cheese pizza; cooling, bug-free summer essentials; Pride party hot dog station."
+      },
+      {
+        "id": "tvmaze:2913001",
+        "title": "Friday, June 7, 2024",
+        "season": 1,
+        "episode": 155,
+        "released": "2024-06-07",
+        "overview": "Mary makes a Greek takeout style dish; stepping up BBQ sides; how to take summer photos; how to refinish patio furniture."
+      },
+      {
+        "id": "tvmaze:2923155",
+        "title": "Tuesday, June 18, 2024",
+        "season": 1,
+        "episode": 156,
+        "released": "2024-06-18",
+        "overview": "Mary and Myra's Niagara Falls road trip; road trip snacks; car organizing hacks for road trips; scenic road trip destinations."
+      },
+      {
+        "id": "tvmaze:2923156",
+        "title": "Thursday, June 20, 2024",
+        "season": 1,
+        "episode": 157,
+        "released": "2024-06-20",
+        "overview": "Mary and Myra's Niagara Falls road trip; Canada's first COPA America soccer match; timeless patio décor; Indigenous activist Tia Kennedy."
+      },
+      {
+        "id": "tvmaze:2923157",
+        "title": "Friday, June 21, 2024",
+        "season": 1,
+        "episode": 158,
+        "released": "2024-06-21",
+        "overview": "Mary makes harissa shrimp with lemon couscous; National Indigenous People's Day movie and TV watch list; Tia Wood performs."
+      },
+      {
+        "id": "tvmaze:2927832",
+        "title": "Monday, June 24, 2024",
+        "season": 1,
+        "episode": 159,
+        "released": "2024-06-24",
+        "overview": "From delicious blender drinks, to burgers, potato salad and cinnamon sugar flatbread, Mary and her team level up a Canada Day weekend menu."
+      },
+      {
+        "id": "tvmaze:2931522",
+        "title": "Friday, June 28, 2024",
+        "season": 1,
+        "episode": 160,
+        "released": "2024-06-28",
+        "overview": "Mary makes breakfast poutine and watermelon frosé; pride ball themed party décor; a soulful performance by The Rainbow Collective."
+      },
+      {
+        "id": "tvmaze:2937840",
+        "title": "Tuesday, July 2, 2024",
+        "season": 1,
+        "episode": 161,
+        "released": "2024-07-02",
+        "overview": "Mary's beachy feta melon salad; swimwear and coverup trends; clever beach hacks and tech; summer toys for the beach and pool."
+      },
+      {
+        "id": "tvmaze:2937841",
+        "title": "Wednesday, July 3, 2024",
+        "season": 1,
+        "episode": 162,
+        "released": "2024-07-03",
+        "overview": "Summer market madness: Mary and her guests cook up farmers market eats; antique market bargain hunting; Kirkland from \"Farming for Love.\""
+      },
+      {
+        "id": "tvmaze:2937842",
+        "title": "Thursday, July 4, 2024",
+        "season": 1,
+        "episode": 163,
+        "released": "2024-07-04",
+        "overview": "Mary makes Nicoise salad with rosé salmon; rosé cocktails; pink perfection fashions; rosé-themed tablescape; DIY rosé bottle flower topper."
+      },
+      {
+        "id": "tvmaze:2937843",
+        "title": "Friday, July 5, 2024",
+        "season": 1,
+        "episode": 164,
+        "released": "2024-07-05",
+        "overview": "Jon Montgomery cooks with Mary and dishes on Season 10; grilled veggie dishes; birds as pets; best butter-tarts champion."
+      },
+      {
+        "id": "tvmaze:2941578",
+        "title": "Monday, July 8, 2024",
+        "season": 1,
+        "episode": 165,
+        "released": "2024-07-08",
+        "overview": "Mondays with Myra; citrus chicken with fennel orange salad; trending summer accessories; stick makeup for summer; science of sunscreen."
+      },
+      {
+        "id": "tvmaze:2941579",
+        "title": "Tuesday, July 9, 2024",
+        "season": 1,
+        "episode": 166,
+        "released": "2024-07-09",
+        "overview": "The Good Stuff's Camping Cookout! Campfire gnocchi; queso &amp; nachos; blueberry cornbread upside down cake; fireside beers; camping gear."
+      },
+      {
+        "id": "tvmaze:2941580",
+        "title": "Wednesday, July 10, 2024",
+        "season": 1,
+        "episode": 167,
+        "released": "2024-07-10",
+        "overview": "Mary's cucumber salad with whipped feta; chic outfits that keep you cool; short hair transformations; melt-free makeup; cooling summer hacks"
+      },
+      {
+        "id": "tvmaze:2941581",
+        "title": "Thursday, July 11, 2024",
+        "season": 1,
+        "episode": 168,
+        "released": "2024-07-11",
+        "overview": "Summery recipes for roadtripping, picnicking, entertaining, and quick oven-free weeknight meals."
+      },
+      {
+        "id": "tvmaze:2941582",
+        "title": "Friday, July 12, 2024",
+        "season": 1,
+        "episode": 169,
+        "released": "2024-07-12",
+        "overview": "Mary's tiramisu cake; fruit-themed fashions &amp; cocktails; Desi style cheeseburgers; patio &amp; outdoor furniture cleaning hacks."
+      },
+      {
+        "id": "tvmaze:2945310",
+        "title": "Monday, July 15, 2024",
+        "season": 1,
+        "episode": 170,
+        "released": "2024-07-15",
+        "overview": "Mondays with Myra; summery charred savoy cabbage; Talent Show Week kicks off with award-winning acapella; gender-neutral summer looks."
+      },
+      {
+        "id": "tvmaze:2945311",
+        "title": "Tuesday, July 16, 2024",
+        "season": 1,
+        "episode": 171,
+        "released": "2024-07-16",
+        "overview": "Mary's summer entertaining main; easy East Coast bbq menu; outdoor entertaining décor; Talent Show Week's Ultimutts perform; best deals."
+      },
+      {
+        "id": "tvmaze:2954359",
+        "title": "Wednesday, July 17, 2024",
+        "season": 1,
+        "episode": 172,
+        "released": "2024-07-17",
+        "overview": "Summer vacay looks; easy elevated summer hairstyles; Talent Show Week continues with mentalist tricks; Gender: Your Guide author Lee Airton."
+      },
+      {
+        "id": "tvmaze:2954360",
+        "title": "Thursday, July 18, 2024",
+        "season": 1,
+        "episode": 173,
+        "released": "2024-07-18",
+        "overview": "Deck maintenance; Made For TV's Boman Martinez-Reid; Talent Show Week continues with Dhol Tasha Pathak; Calgary Stampede."
+      },
+      {
+        "id": "tvmaze:2954362",
+        "title": "Friday, July 19, 2024",
+        "season": 1,
+        "episode": 174,
+        "released": "2024-07-19",
+        "overview": "Outdoor Movie Night; Talent Show Week continues with a young flag &amp; maps whiz; Good Kids' Talina Papazian; national food festivals."
+      },
+      {
+        "id": "tvmaze:2954947",
+        "title": "Monday, July 22, 2024",
+        "season": 1,
+        "episode": 175,
+        "released": "2024-07-22",
+        "overview": "Mondays with Myra; Mary's Confit Tomatoes with Garlic Flatbread; Outdoor lighting for entertaining; Summer pet care; Zero-waste recipes."
+      },
+      {
+        "id": "tvmaze:2964703",
+        "title": "Tuesday, July 23, 2024",
+        "season": 1,
+        "episode": 176,
+        "released": "2024-07-23",
+        "overview": "Mary's Almond Blueberry Muffins; easy stencil DIYs; A classic French summer dessert; Good Laughs with Julie Kim; Jamieson Essentials."
+      },
+      {
+        "id": "tvmaze:2964734",
+        "title": "Wednesday, July 24, 2024",
+        "season": 1,
+        "episode": 177,
+        "released": "2024-07-24",
+        "overview": "Hot Dog Nation show; two pro-chefs compete for the top-dog title; Twists on the classic dog including Mary's Pretzel Dog."
+      },
+      {
+        "id": "tvmaze:2964806",
+        "title": "Thursday, July 25, 2024",
+        "season": 1,
+        "episode": 178,
+        "released": "2024-07-25",
+        "overview": "The Honey show; Mary's Honey Miso Cod; best practices for a pollinator garden; honey-infused skincare; Good People Carole Rankin."
+      },
+      {
+        "id": "tvmaze:2964839",
+        "title": "Friday, July 26, 2024",
+        "season": 1,
+        "episode": 179,
+        "released": "2024-07-26",
+        "overview": "It's our top-rated, fan favourite recipes of the year! Myra's Mac and Cheese; Caesar salad roast chicken; Chocolate swirl banana bread."
+      },
+      {
+        "id": "tvmaze:2998404",
+        "title": "Monday, September 9, 2024",
+        "season": 2,
+        "episode": 1,
+        "released": "2024-09-09",
+        "overview": "Season 2 Premiere Party! Mary's experts help a viewer throw an unforgettable bachelor party for their friend; ultimate party appetizers."
+      },
+      {
+        "id": "tvmaze:2998405",
+        "title": "Tuesday, September 10, 2024",
+        "season": 2,
+        "episode": 2,
+        "released": "2024-09-10",
+        "overview": "Mary's lemon roast chicken two ways; how to create a capsule wardrobe for the week; top habits of organized people; pre-sleep routine."
+      },
+      {
+        "id": "tvmaze:2998406",
+        "title": "Wednesday, September 11, 2024",
+        "season": 2,
+        "episode": 3,
+        "released": "2024-09-11",
+        "overview": "Mary's meatloaf two ways; how to style one piece three ways; style tips for the main bedroom; kitchen cupboard organizers."
+      },
+      {
+        "id": "tvmaze:2998407",
+        "title": "Thursday, September 12, 2024",
+        "season": 2,
+        "episode": 4,
+        "released": "2024-09-12",
+        "overview": "Mary's beans on toast two ways; family room makeover; stylish fall DIYs; budget fall fashions; transforming food scraps."
+      },
+      {
+        "id": "tvmaze:2998408",
+        "title": "Friday, September 13, 2024",
+        "season": 2,
+        "episode": 5,
+        "released": "2024-09-13",
+        "overview": "Mary sits down with Paula Abdul; Mary's teriyaki bowls two ways; a viewer gets a hair &amp; makeup makeover for fall; adorable pocket-sized pets"
+      },
+      {
+        "id": "tvmaze:2998409",
+        "title": "Monday, September 16, 2024",
+        "season": 2,
+        "episode": 6,
+        "released": "2024-09-16",
+        "overview": "Mary's twice-baked potato casserole; quick &amp; easy fall desserts; fall fashion trends; creating a cozy fall space; actress Alison Pill."
+      },
+      {
+        "id": "tvmaze:2998410",
+        "title": "Tuesday, September 17, 2024",
+        "season": 2,
+        "episode": 7,
+        "released": "2024-09-17",
+        "overview": "Mary's Thai curry salmon; Mary &amp; mom Myra visit the Toronto Zoo; luxury for less travel; stars Henry Golding &amp; Beatrice Grannò drop by."
+      },
+      {
+        "id": "tvmaze:2998411",
+        "title": "Wednesday, September 18, 2024",
+        "season": 2,
+        "episode": 8,
+        "released": "2024-09-18",
+        "overview": "Summer Sendoff! Say goodbye to summer and hello to fall with delicious end of summer recipes; how to wear your fave summer piece into fall."
+      },
+      {
+        "id": "tvmaze:2998412",
+        "title": "Thursday, September 19, 2024",
+        "season": 2,
+        "episode": 9,
+        "released": "2024-09-19",
+        "overview": "Hack Your Day! Mary's apple streusel with quick crème anglaise hack; space-saving folding hacks; clothing repair hacks; parenting hacks."
+      },
+      {
+        "id": "tvmaze:2998413",
+        "title": "Friday, September 20, 2024",
+        "season": 2,
+        "episode": 10,
+        "released": "2024-09-20",
+        "overview": "Taste of The Good Stuff! The day's culinary experts recreate their favourite street festival style foods from around the world."
+      },
+      {
+        "id": "tvmaze:2998414",
+        "title": "Monday, September 23, 2024",
+        "season": 2,
+        "episode": 11,
+        "released": "2024-09-23",
+        "overview": "Mary's butternut squash &amp; apple soup; fall gardening guide; smart tech to make cleaning a breeze; Jennifer Reid's family fav baked ziti."
+      },
+      {
+        "id": "tvmaze:2998415",
+        "title": "Tuesday, September 24, 2024",
+        "season": 2,
+        "episode": 12,
+        "released": "2024-09-24",
+        "overview": "Home cooks compete in Mary's Mystery Box Challenge; tomato panzanella salad; viral leftovers recipes; styling tricky statement pieces."
+      },
+      {
+        "id": "tvmaze:2998416",
+        "title": "Wednesday, September 25, 2024",
+        "season": 2,
+        "episode": 13,
+        "released": "2024-09-25",
+        "overview": "Mary &amp; her experts share their morning routines; quick &amp; nutritious breakfasts; flawless face in minutes; the Your Morning hosts drop by."
+      },
+      {
+        "id": "tvmaze:2998417",
+        "title": "Thursday, September 26, 2024",
+        "season": 2,
+        "episode": 14,
+        "released": "2024-09-26",
+        "overview": "Kelsey Grammer on Frasier reboot season 2; Mary's burrito bowl bake; tips &amp; tricks to the best pizza; stand-up comic Crystal Ferrier."
+      },
+      {
+        "id": "tvmaze:2998418",
+        "title": " Monday, September 30, 2024",
+        "season": 2,
+        "episode": 15,
+        "released": "2024-09-30",
+        "overview": "National Day for Truth and Reconciliation and Orange Shirt Day; the day's guests share their personal stories &amp; reflect on the way forward."
+      },
+      {
+        "id": "tvmaze:2998419",
+        "title": "Tuesday, October 1, 2024",
+        "season": 2,
+        "episode": 16,
+        "released": "2024-10-01",
+        "overview": "The Big Shakeup! Mary's pulled mushroom sammies; long to short hair transformation; two viewers get bra makeovers; tech for the home."
+      },
+      {
+        "id": "tvmaze:2998420",
+        "title": "Wednesday, October 2, 2024",
+        "season": 2,
+        "episode": 17,
+        "released": "2024-10-02",
+        "overview": "Mary &amp; her guests share the best advice they ever got; Mary's cheddar bacon biscuits; Rosh Hashana sweet kugel recipe."
+      },
+      {
+        "id": "tvmaze:2998421",
+        "title": "Thursday, October 3, 2024",
+        "season": 2,
+        "episode": 18,
+        "released": "2024-10-03",
+        "overview": "Mary's gnocchi alla vodka; must-have jeans; Amalfi Coast-inspired seafood pasta; parenting products for baby."
+      },
+      {
+        "id": "tvmaze:2998422",
+        "title": "Friday, October 4, 2024",
+        "season": 2,
+        "episode": 19,
+        "released": "2024-10-04",
+        "overview": "Quick spaghetti &amp; meatballs; elevate your outfit in minutes; easy hairstyles; quick DIYs to upgrade your space; magician Shawn Farquhar."
+      },
+      {
+        "id": "tvmaze:2998423",
+        "title": "Monday, October 7, 2024",
+        "season": 2,
+        "episode": 20,
+        "released": "2024-10-07",
+        "overview": "Mary &amp; her guests cook up delicious make-ahead Thanksgiving sides; 7-day Thanksgiving prep timeline; kids' fall leaves science experiments."
+      },
+      {
+        "id": "tvmaze:3028807",
+        "title": "Tuesday, October 8, 2024",
+        "season": 2,
+        "episode": 21,
+        "released": "2024-10-08",
+        "overview": "Mary's French onion scalloped potatoes; Thanksgiving cocktails; rad of fad kitchen gadgets; Andrew Garfield &amp; John Crowley."
+      },
+      {
+        "id": "tvmaze:3028808",
+        "title": "Wednesday, October 9, 2024",
+        "season": 2,
+        "episode": 22,
+        "released": "2024-10-09",
+        "overview": "Mary makes bourbon-spiked sweet potato casserole; iconic 90's band Hanson; legendary actor Victor Garber on his lifetime achievement award."
+      },
+      {
+        "id": "tvmaze:3028809",
+        "title": "Thursday, October 10, 2024",
+        "season": 2,
+        "episode": 23,
+        "released": "2024-10-10",
+        "overview": "Mary's pumpkin loaf; stress-free Thanksgiving hacks; 'The Traitors Canada' host Karine Vanasse; 'Tracker' star Justin Hartley."
+      },
+      {
+        "id": "tvmaze:3028810",
+        "title": "Friday, October 11, 2024",
+        "season": 2,
+        "episode": 24,
+        "released": "2024-10-11",
+        "overview": "Mary &amp; her guests make a Thanksgiving turkey &amp; sides and help viewers troubleshoot their Thanksgiving cooking dilemmas."
+      },
+      {
+        "id": "tvmaze:3029663",
+        "title": "Tuesday, October 15, 2024",
+        "season": 2,
+        "episode": 25,
+        "released": "2024-10-15",
+        "overview": "Mary makes a classic apple pie; cozy fall fashion trends; set stylist's secrets to adding fall touches at home; Chef Yotam Ottolenghi."
+      },
+      {
+        "id": "tvmaze:3035604",
+        "title": "Wednesday, October 16, 2024",
+        "season": 2,
+        "episode": 26,
+        "released": "2024-10-16",
+        "overview": "Mary's apple fritters; Scott McGillivray's real estate tips; styling a home office; business wear chic; Rescue: Hi-Surf star Arielle Kebbel."
+      },
+      {
+        "id": "tvmaze:3035605",
+        "title": "Thursday, October 17, 2024",
+        "season": 2,
+        "episode": 27,
+        "released": "2024-10-17",
+        "overview": "Mary's apple pork stew and golden potatoes; bewitching front yard decor; fall skincare tips; The Office Movers stars Jae &amp; Trey Richards."
+      },
+      {
+        "id": "tvmaze:3035607",
+        "title": "Friday, October 18, 2024",
+        "season": 2,
+        "episode": 28,
+        "released": "2024-10-18",
+        "overview": "Apple Dutch baby; how to style long &amp; short fall coats; how to adopt a rescue pet; foods that help with sleep &amp; stress; Dr. Chika Oriuwa."
+      },
+      {
+        "id": "tvmaze:3035608",
+        "title": "Monday, October 21, 2024",
+        "season": 2,
+        "episode": 29,
+        "released": "2024-10-21",
+        "overview": "Chocolate pecan butter bread; finding the proper bra for your body; mistakes that could damage hair; 'Acting Good' star Paul Rabliauskas."
+      },
+      {
+        "id": "tvmaze:3035609",
+        "title": "Tuesday, October 22, 2024",
+        "season": 2,
+        "episode": 30,
+        "released": "2024-10-22",
+        "overview": "Veggie chili pot pie; country chic fashions; 'Heartland' star Amber Marshall invites Mary to the fair; line dancing lesson; Keith Urban."
+      },
+      {
+        "id": "tvmaze:3035610",
+        "title": "Wednesday, October 23, 2024",
+        "season": 2,
+        "episode": 31,
+        "released": "2024-10-23",
+        "overview": "Open Late! Mary and her guests make their favourite late night eats; the best late night eats from across the country."
+      },
+      {
+        "id": "tvmaze:3035611",
+        "title": "Thursday, October 24, 2024",
+        "season": 2,
+        "episode": 32,
+        "released": "2024-10-24",
+        "overview": "Pumpkin Palooza! Pumpkin carving competition; Mary's pumpkin mac &amp; cheese; Anna Olson's maple glazed pumpkin scones; faux pumpkin DIYs."
+      },
+      {
+        "id": "tvmaze:3035612",
+        "title": "Friday, October 25, 2024",
+        "season": 2,
+        "episode": 33,
+        "released": "2024-10-25",
+        "overview": "Mary's glam squad makes over a couple for Halloween; Potato leek soup; emerging Canadian designers; recipes from haunted hotels &amp; towns."
+      },
+      {
+        "id": "tvmaze:3041027",
+        "title": "Monday, October 28, 2024",
+        "season": 2,
+        "episode": 34,
+        "released": "2024-10-28",
+        "overview": "Mary's pumpkin &amp; spinach skillet lasagna; Eden Grinshpan cooks; trending family Halloween costumes; comedy legend Mark McKinney."
+      },
+      {
+        "id": "tvmaze:3041028",
+        "title": "Tuesday, October 29, 2024",
+        "season": 2,
+        "episode": 35,
+        "released": "2024-10-29",
+        "overview": "Mary makes a seasonal sheet pan dinner; fall fashion essentials; sweet and savoury Diwali recipes; a terrifyingly fun haunted forest tour."
+      },
+      {
+        "id": "tvmaze:3041029",
+        "title": "Wednesday, October 30, 2024",
+        "season": 2,
+        "episode": 36,
+        "released": "2024-10-30",
+        "overview": "Mary &amp; Anna Olson judge two pro bakers in The Good Stuff's Creepy Cakeoff; fascinating nocturnal animals; top horror movies."
+      },
+      {
+        "id": "tvmaze:3043754",
+        "title": "Thursday, October 31, 2024",
+        "season": 2,
+        "episode": 37,
+        "released": "2024-10-31",
+        "overview": "The Good Stuff's Halloween special Murder At The Manor dinner party! Mary and her experts have to guess which one of them is the murderer."
+      },
+      {
+        "id": "tvmaze:3043755",
+        "title": "Friday, November 1, 2024",
+        "season": 2,
+        "episode": 38,
+        "released": "2024-11-01",
+        "overview": "Mary's pumpkin spiced sticky toffee pudding; Debbie Travis cooks from her new book \"Laugh More\"; unconventional storage solutions."
+      },
+      {
+        "id": "tvmaze:3047527",
+        "title": "Monday, November 4, 2024",
+        "season": 2,
+        "episode": 39,
+        "released": "2024-11-04",
+        "overview": "Day 1 Meal Plan Week sheet pan pierogis; Mary announces her new product line; beans 3 ways; 'The Bear' star Matty Matheson's new cookbook."
+      },
+      {
+        "id": "tvmaze:3047528",
+        "title": "Tuesday, November 5, 2024",
+        "season": 2,
+        "episode": 40,
+        "released": "2024-11-05",
+        "overview": "Day 2 Meal Plan Week cheddar jalapeno soda bread; dresser makeover; home bar basics; toxic household items for pets; comedian Katherine Ryan"
+      },
+      {
+        "id": "tvmaze:3047529",
+        "title": "Wednesday, November 6, 2024",
+        "season": 2,
+        "episode": 41,
+        "released": "2024-11-06",
+        "overview": "Day 3 Meal Plan Week baked eggplant parm; transition clothes from season to season; viral wellness drinks tested; must-have home reno tools."
+      },
+      {
+        "id": "tvmaze:3047530",
+        "title": "Thursday, November 7, 2024",
+        "season": 2,
+        "episode": 42,
+        "released": "2024-11-07",
+        "overview": "Day 4 Meal Plan Week parm corn chowder; bag trends &amp; purse makeover; basement update tour; freezer-friendly meals; glowing skincare routine."
+      },
+      {
+        "id": "tvmaze:3047531",
+        "title": "Friday, November 8, 2024",
+        "season": 2,
+        "episode": 43,
+        "released": "2024-11-08",
+        "overview": "Day 5 Meal Plan Week PB&amp;J Tart; how to style your own outfits; capsule beauty collection; Taylor Swift themed party; Wendy McLendon-Covey."
+      },
+      {
+        "id": "tvmaze:3053848",
+        "title": "Wednesday, November 13, 2024",
+        "season": 2,
+        "episode": 44,
+        "released": "2024-11-13",
+        "overview": "Mary's crispy salmon fillets; chocolate molten lava cake; cozy loungewear; nighttime skincare routine; evening stretches."
+      },
+      {
+        "id": "tvmaze:3053849",
+        "title": "Thursday, November 14, 2024",
+        "season": 2,
+        "episode": 45,
+        "released": "2024-11-14",
+        "overview": "Tori Wesszer's eggnog French toast &amp; new holiday décor line; Grey Cup snack stadium; outdoor winter planters; Come From Away performance."
+      },
+      {
+        "id": "tvmaze:3062518",
+        "title": "Friday, November 15, 2024",
+        "season": 2,
+        "episode": 46,
+        "released": "2024-11-15",
+        "overview": "Mary's homemade biscotti; the Holmes family on their new reno series; Michael &amp; Sherry teach Mary how to drywall; air fryer recipes."
+      },
+      {
+        "id": "tvmaze:3271841",
+        "title": "Monday, November 25, 2024",
+        "season": 2,
+        "episode": 47,
+        "released": "2024-11-25",
+        "overview": "Mary's stuffed pork loin; budget-friendly holiday living room transformation; fashion finds under $50; Black Friday deals; Tyler Shaw."
+      },
+      {
+        "id": "tvmaze:3271842",
+        "title": "Tuesday, November 26, 2024",
+        "season": 2,
+        "episode": 48,
+        "released": "2024-11-26",
+        "overview": "The Good Stuff Cookie Tin! Mary, Anna Olson, Shahir Massoud &amp; Christopher Siu bake their fave cookies and bars perfect for swaps &amp; gifting."
+      },
+      {
+        "id": "tvmaze:3271843",
+        "title": "Wednesday, November 27, 2024",
+        "season": 2,
+        "episode": 49,
+        "released": "2024-11-27",
+        "overview": "Mary's sausage roll wreath; holiday travel capsule wardrobe; pet holiday travel safety tips; holiday travel sleep kit; festive bubble braids."
+      },
+      {
+        "id": "tvmaze:3271844",
+        "title": "Thursday, November 28, 2024",
+        "season": 2,
+        "episode": 50,
+        "released": "2024-11-28",
+        "overview": "Mary's spaghetti carbonara; hottest holiday toys; declutter hacks for the holidays; Shawnee Kish performs."
+      },
+      {
+        "id": "tvmaze:3271845",
+        "title": "Friday, November 29, 2024",
+        "season": 2,
+        "episode": 51,
+        "released": "2024-11-29",
+        "overview": "Mary's glam squad gets a couple holiday party-ready; holiday hair looks; holiday fashion trends; what to shop for on Black Friday."
+      },
+      {
+        "id": "tvmaze:3271846",
+        "title": "Monday, December 2, 2024",
+        "season": 2,
+        "episode": 52,
+        "released": "2024-12-02",
+        "overview": "Mary's fireside snacks; holiday pyjamas &amp; loungewear looks; fireplace mantel décor 2 ways; holiday beers &amp; ciders."
+      },
+      {
+        "id": "tvmaze:3271847",
+        "title": "Tuesday, December 3, 2024",
+        "season": 2,
+        "episode": 53,
+        "released": "2024-12-03",
+        "overview": "Two pro bakers compete to make the best cake in Santa's Workshop Bake off; top kitchen gadgets for hosting; STEM inspired gingerbread house."
+      },
+      {
+        "id": "tvmaze:3271848",
+        "title": "Wednesday, December 4, 2024",
+        "season": 2,
+        "episode": 54,
+        "released": "2024-12-04",
+        "overview": "Mary's kale chicken Caesar salad; amp up your workwear for a holiday party; Jess Allen surprises the audience with A Very Mary Giveaway."
+      },
+      {
+        "id": "tvmaze:3271849",
+        "title": "Thursday, December 5, 2024",
+        "season": 2,
+        "episode": 55,
+        "released": "2024-12-05",
+        "overview": "Mary's peppercorn roast beef with onion gravy; holiday décor DIY projects; holiday party hairstyles; DIY holiday gifts from the kitchen."
+      },
+      {
+        "id": "tvmaze:3271850",
+        "title": "Friday, December 6, 2024",
+        "season": 2,
+        "episode": 56,
+        "released": "2024-12-06",
+        "overview": "Mary's breakfast sandwich casserole; statement holiday party accessories; sparkly holiday party makeup; Shawnee Kish performs."
+      },
+      {
+        "id": "tvmaze:3271851",
+        "title": "Monday, December 9, 2024",
+        "season": 2,
+        "episode": 57,
+        "released": "2024-12-09",
+        "overview": "Mary's holiday mac &amp; cheese; how to style one piece two ways for parties; holiday toy ideas; Marilyn Denis stops by; A Very Mary Giveaway."
+      },
+      {
+        "id": "tvmaze:3271852",
+        "title": "Tuesday, December 10, 2024",
+        "season": 2,
+        "episode": 58,
+        "released": "2024-12-10",
+        "overview": "Viewers from across the country cook along with Mary &amp; make holiday treats; Whistler Food Tour; Erica Wark stops by for A Very Mary Giveaway."
+      },
+      {
+        "id": "tvmaze:3271853",
+        "title": "Wednesday, December 11, 2024",
+        "season": 2,
+        "episode": 59,
+        "released": "2024-12-11",
+        "overview": "Mary &amp; her guests make eats &amp; cocktails inspired by their favourite holiday movies; Traci Melchor stops by with A Very Mary Giveaway."
+      },
+      {
+        "id": "tvmaze:3271854",
+        "title": "Thursday, December 12, 2024",
+        "season": 2,
+        "episode": 60,
+        "released": "2024-12-12",
+        "overview": "Mary makes sweet potato pancakes with all the fixings; Owen Reeves stops by with A Very Mary Giveaway; holiday markets across Canada."
+      },
+      {
+        "id": "tvmaze:3271855",
+        "title": "Friday, December 13, 2024",
+        "season": 2,
+        "episode": 61,
+        "released": "2024-12-13",
+        "overview": "Mary's Birthday! Taneisha makes Mary's fav pasta; two December babies makeovers; birthday giveaways; local hero Coco Cohen."
+      },
+      {
+        "id": "tvmaze:3271856",
+        "title": "Monday, December 16, 2024",
+        "season": 2,
+        "episode": 62,
+        "released": "2024-12-16",
+        "overview": "Holiday Helpline! Andrea Buckett, Myra Berg, Shahir Massoud &amp; Abbey Sharp help Mary answer holiday cooking dilemmas; A Very Mary Giveaway."
+      },
+      {
+        "id": "tvmaze:3271857",
+        "title": "Tuesday, December 17, 2024",
+        "season": 2,
+        "episode": 63,
+        "released": "2024-12-17",
+        "overview": "Mary's emergency holiday guest breakfast; holiday party makeovers; DIY holiday wreath; Your Morning hosts drop by with A Very Mary Giveaway."
+      },
+      {
+        "id": "tvmaze:3271858",
+        "title": "Wednesday, December 18, 2024",
+        "season": 2,
+        "episode": 64,
+        "released": "2024-12-18",
+        "overview": "Holiday leftover pie; quick &amp; fancy cocktails; holiday DIYs; Chrismukkah décor ideas; Slaycation stars drop by with A Very Mary Giveaway."
+      },
+      {
+        "id": "tvmaze:3271859",
+        "title": "Thursday, December 19, 2024",
+        "season": 2,
+        "episode": 65,
+        "released": "2024-12-19",
+        "overview": "Flourless chocolate cake with mulled wine fruit; last-minute hostess gifts; NYE fashion; Andrea Bain stops by with A Very Mary Giveaway."
+      },
+      {
+        "id": "tvmaze:3271860",
+        "title": "Friday, December 20, 2024",
+        "season": 2,
+        "episode": 66,
+        "released": "2024-12-20",
+        "overview": "Mary's Christmas Eve dinner; tea biscuit cinnamon buns; last-minute gift wrap battle; pet gifts; Cirque's Twas The Night Before performs."
+      },
+      {
+        "id": "tvmaze:3271861",
+        "title": "Tuesday, January 7, 2025",
+        "season": 2,
+        "episode": 68,
+        "released": "2025-01-07",
+        "overview": "Mary shows how to make eggs Benedict; a family gets a tech makeover; two viewers try new fashion trends; oversized art trend; workout trend."
+      },
+      {
+        "id": "tvmaze:3271863",
+        "title": "Wednesday, January 8, 2025",
+        "season": 2,
+        "episode": 69,
+        "released": "2025-01-08",
+        "overview": "Andrea Buckett, Vijaya Selvaraju, Taneisha Morris and Mary make their favourite winter warmup soups."
+      },
+      {
+        "id": "tvmaze:3271864",
+        "title": "Thursday, January 9, 2025",
+        "season": 2,
+        "episode": 70,
+        "released": "2025-01-09",
+        "overview": "Mary's Seared Chicken with Greek Salad Couscous; seasonal storage hacks; quick ways to budget &amp; save money; lunches for the week."
+      },
+      {
+        "id": "tvmaze:3271865",
+        "title": "Friday, January 10, 2025",
+        "season": 2,
+        "episode": 71,
+        "released": "2025-01-10",
+        "overview": "An hour with Jamie Oliver! Jamie &amp; Mary cook together from his new book Simply Jamie: Fast &amp; Simple Food; Jamie answers viewer questions."
+      },
+      {
+        "id": "tvmaze:3271866",
+        "title": "Monday, January 13, 2025",
+        "season": 2,
+        "episode": 72,
+        "released": "2025-01-13",
+        "overview": "Day 1 Sandwich Week Mary's go-to breakfast sandwich; winter home lighting ideas; how to read your pet's cues; fresh balmy skin."
+      },
+      {
+        "id": "tvmaze:3271867",
+        "title": "Tuesday, January 14, 2025",
+        "season": 2,
+        "episode": 73,
+        "released": "2025-01-14",
+        "overview": "Day 2 Sandwich Week; trending travel destinations; Andrea Buckett's first cookbook; feel good meal plans; year of the snake predictions."
+      },
+      {
+        "id": "tvmaze:3271868",
+        "title": "Wednesday, January 15, 2025",
+        "season": 2,
+        "episode": 74,
+        "released": "2025-01-15",
+        "overview": "Day 3 Sandwich Week; 5-step pantry reset; glowing skincare tips; achieving financial freedom; Giacomo Gianotti &amp; Vanessa Morgan."
+      },
+      {
+        "id": "tvmaze:3271869",
+        "title": "Thursday, January 16, 2025",
+        "season": 2,
+        "episode": 75,
+        "released": "2025-01-16",
+        "overview": "Mary makes the viral pizza dough sandwich; decorating with the colour of the year; 2025 fashion trends; viewers get trending hair makeovers."
+      },
+      {
+        "id": "tvmaze:3271870",
+        "title": "Friday, January 17, 2025",
+        "season": 2,
+        "episode": 76,
+        "released": "2025-01-17",
+        "overview": "Day 5 Sandwich Week; Scott McGillivray's real estate dos &amp; don'ts; styling long &amp; short coats; Sight Unseen stars Dolly Lewis &amp; Agam Darshi."
+      },
+      {
+        "id": "tvmaze:3271873",
+        "title": "Monday, February 3, 2025",
+        "season": 2,
+        "episode": 77,
+        "released": "2025-02-03",
+        "overview": "Mary makes lemony crab pasta; pro tips on where to save &amp; splurge on fashion, beauty products and kitchen gadgets; Obsidian Theatre tour."
+      },
+      {
+        "id": "tvmaze:3271874",
+        "title": "Tuesday, February 4, 2025",
+        "season": 2,
+        "episode": 78,
+        "released": "2025-02-04",
+        "overview": "Mary, Andrea Buckett, Vijaya Selvaraju, and Alex Page make quick and easy weeknight meals to get dinner on the table fast."
+      },
+      {
+        "id": "tvmaze:3271875",
+        "title": "Wednesday, February 5, 2025",
+        "season": 2,
+        "episode": 79,
+        "released": "2025-02-05",
+        "overview": "Snow Day! Mary makes sticky soy shortribs; warm cocktails; best boot &amp; coat combos; latest snow removal products."
+      },
+      {
+        "id": "tvmaze:3271876",
+        "title": "Thursday, February 6, 2025",
+        "season": 2,
+        "episode": 80,
+        "released": "2025-02-06",
+        "overview": "Mary makes poutine; how to style sweaters &amp; knits; top essential vitamins; Canadian winter festivals; Antonia Fifi shares her journey."
+      },
+      {
+        "id": "tvmaze:3271877",
+        "title": "Friday, February 7, 2025",
+        "season": 2,
+        "episode": 81,
+        "released": "2025-02-07",
+        "overview": "Mary's game day pull apart pulled pork sandwiches &amp; twice baked potato casserole; Mary &amp; Vijaya's hot sauce challenge; snack-stadium DIY."
+      },
+      {
+        "id": "tvmaze:3271878",
+        "title": "Monday, February 10, 2025",
+        "season": 2,
+        "episode": 82,
+        "released": "2025-02-10",
+        "overview": "Two home cooks face off in Mary's Frozen Food Frenzy! Mary's Freezer Cleanout Risotto; Mary &amp; her mom go curling; cooling skincare products."
+      },
+      {
+        "id": "tvmaze:3271879",
+        "title": "Tuesday, February 11, 2025",
+        "season": 2,
+        "episode": 83,
+        "released": "2025-02-11",
+        "overview": "Mary's Favourite Comfort Foods! Tomato soup &amp; pesto grilled cheese; shepherd's pie with a twist; spicy rigatoni alla vodka; baked meatballs."
+      },
+      {
+        "id": "tvmaze:3271880",
+        "title": "Wednesday, February 12, 2025",
+        "season": 2,
+        "episode": 84,
+        "released": "2025-02-12",
+        "overview": "Mary, Andrea Buckett, Vijaya Selvaraju &amp; Evelyn Chick make Palentine's Day cocktails, apples, a main, and dessert."
+      },
+      {
+        "id": "tvmaze:3271881",
+        "title": "Thursday, February 13, 2025",
+        "season": 2,
+        "episode": 85,
+        "released": "2025-02-13",
+        "overview": "Mary makes lava cakes; latest jewelry trends; high protein snacks; houseplants that match your personality; comedian Sugar Sammy."
+      },
+      {
+        "id": "tvmaze:3271882",
+        "title": "Friday, February 14, 2025",
+        "season": 2,
+        "episode": 86,
+        "released": "2025-02-14",
+        "overview": "Valentine's Day date-night makeover; Mary &amp; her husband make a romantic dinner; last minute date-night décor &amp; games; vanilla crème brulée."
+      },
+      {
+        "id": "tvmaze:3271883",
+        "title": "Monday, February 17, 2025",
+        "season": 2,
+        "episode": 87,
+        "released": "2025-02-17",
+        "overview": "Mary, Myra and Aaron's family day fajitas; Andrea Buckett and Sonia Wong cook with their kids; Dan Riskin helps kids do science experiments."
+      },
+      {
+        "id": "tvmaze:3271884",
+        "title": "Tuesday, February 18, 2025",
+        "season": 2,
+        "episode": 88,
+        "released": "2025-02-18",
+        "overview": "Mary's pantry-clearing puttanesca; products to keep cables and tech organized; myth-busting cleaning hacks; online organizing trends tested."
+      },
+      {
+        "id": "tvmaze:3271885",
+        "title": "Wednesday, February 19, 2025",
+        "season": 2,
+        "episode": 89,
+        "released": "2025-02-19",
+        "overview": "Mary, Aaron O'Bryan, Alexis Honce, Leigh-Anne Allaire Perrault &amp; Shobana Lakkavally answer viewers questions and dilemmas."
+      },
+      {
+        "id": "tvmaze:3271886",
+        "title": "Thursday, February 20, 2025",
+        "season": 2,
+        "episode": 90,
+        "released": "2025-02-20",
+        "overview": "Mary's staffers share their favourite recipes, adventures and interviews from the show."
+      },
+      {
+        "id": "tvmaze:3271887",
+        "title": "Friday, February 21, 2025",
+        "season": 2,
+        "episode": 91,
+        "released": "2025-02-21",
+        "overview": "Mary's classic pot roast; spotlight on local Black restaurants; vitamins for longevity; actors Kacey Rohl and Humberly González."
+      },
+      {
+        "id": "tvmaze:3271888",
+        "title": "Monday, February 24, 2025",
+        "season": 2,
+        "episode": 92,
+        "released": "2025-02-24",
+        "overview": "Hack your kitchen; grill pan waffles; drink recipes for leftover bottles; hacks to make produce last longer; anti-inflammatory food hacks."
+      },
+      {
+        "id": "tvmaze:3271889",
+        "title": "Tuesday, February 25, 2025",
+        "season": 2,
+        "episode": 93,
+        "released": "2025-02-25",
+        "overview": "Mary's ultimate '80s pasta; fashion emergency makeover; Canadian fashion brands; hair colour makeovers; clever styling hacks."
+      },
+      {
+        "id": "tvmaze:3271890",
+        "title": "Wednesday, February 26, 2025",
+        "season": 2,
+        "episode": 94,
+        "released": "2025-02-26",
+        "overview": "Mary's lemon olive oil cake; beach vacation wear looks; top beach travel destinations; Ahi performs \"Where I'm Coming From.\""
+      },
+      {
+        "id": "tvmaze:3271891",
+        "title": "Thursday, February 27, 2025",
+        "season": 2,
+        "episode": 95,
+        "released": "2025-02-27",
+        "overview": "Mary's 5-ingredient Tex Mex Soup; five fashion staples; $5 kitchen finds; top 5 beer brews; finance expert and speaker Delecia Graham."
+      },
+      {
+        "id": "tvmaze:3271892",
+        "title": "Friday, February 28, 2025",
+        "season": 2,
+        "episode": 96,
+        "released": "2025-02-28",
+        "overview": "Mary, Shahir Massoud, Taneisha Morris and Alex Page make dishes inspired by their favourite past Oscar-winning movies."
+      },
+      {
+        "id": "tvmaze:3271893",
+        "title": "Tuesday, March 4, 2025",
+        "season": 2,
+        "episode": 98,
+        "released": "2025-03-04",
+        "overview": "Chocolate &amp; Espresso cake; design stars Colin McAllister &amp; Justin Ryan; Chefs Lynn Crawford &amp; Lora Kirk; fashion duo Gail &amp; Leslie Thompson."
+      },
+      {
+        "id": "tvmaze:3271894",
+        "title": "Wednesday, March 5, 2025",
+        "season": 2,
+        "episode": 99,
+        "released": "2025-03-05",
+        "overview": "Mary &amp; the day's guests give viewers a sneak peek into their home fridges and cook flavourful dishes with their favourite condiments."
+      },
+      {
+        "id": "tvmaze:3271895",
+        "title": "Thursday, March 6, 2025",
+        "season": 2,
+        "episode": 100,
+        "released": "2025-03-06",
+        "overview": "Mary's Lime Orange Shrimp; citrusy cocktails; stylish DIYs to upcycle glassware; salon-worthy hair blowout tricks; Mary's bobby bin hacks."
+      },
+      {
+        "id": "tvmaze:3271896",
+        "title": "Friday, March 7, 2025",
+        "season": 2,
+        "episode": 101,
+        "released": "2025-03-07",
+        "overview": "Mary &amp; the day's guests share the women who inspired them, in honour of International Women's Day."
+      },
+      {
+        "id": "tvmaze:3271897",
+        "title": "Monday, March 10, 2025",
+        "season": 2,
+        "episode": 102,
+        "released": "2025-03-10",
+        "overview": "Mary makes chicken with feta and herbs; relaxing sanctuary bedroom makeover; chef Craig Wong teaches Mary how to use a wok."
+      },
+      {
+        "id": "tvmaze:3271898",
+        "title": "Wednesday, March 12, 2025",
+        "season": 2,
+        "episode": 103,
+        "released": "2025-03-12",
+        "overview": "Scottish pub style fish and chips; carry-on packing hacks; Andrea's Thailand food diary; travel dos and don'ts; Winnipeg's food scene."
+      },
+      {
+        "id": "tvmaze:3271899",
+        "title": "Thursday, March 13, 2025",
+        "season": 2,
+        "episode": 104,
+        "released": "2025-03-13",
+        "overview": "Mary meets an 11-year old superfan; two friends get makeovers and surprise each other with their new looks; Karen Robinson &amp; K.C. Collins."
+      },
+      {
+        "id": "tvmaze:3271901",
+        "title": "Friday, March 14, 2025",
+        "season": 2,
+        "episode": 105,
+        "released": "2025-03-14",
+        "overview": "Two cooks compete to fancy up store-bought foods; Alexis Honce takes a viewer's look from desk to drinks; fast and fancy bedroom makeover."
+      },
+      {
+        "id": "tvmaze:3271902",
+        "title": "Monday, March 17, 2025",
+        "season": 2,
+        "episode": 106,
+        "released": "2025-03-17",
+        "overview": "St. Patrick's Day kitchen party; Mary and her guests make festive recipes with beer pairings; Blazing Fiddles perform throughout the show."
+      },
+      {
+        "id": "tvmaze:3271903",
+        "title": "Wednesday, March 19, 2025",
+        "season": 2,
+        "episode": 107,
+        "released": "2025-03-19",
+        "overview": "From breakfast through lunch, dinner and dessert - Mary shares viewers' fan-favourite recipes of Season 2 so far."
+      },
+      {
+        "id": "tvmaze:3271904",
+        "title": "Thursday, March 20, 2025",
+        "season": 2,
+        "episode": 108,
+        "released": "2025-03-20",
+        "overview": "Mary's spring chicken pot pie; spring fashion preview; planning for spring landscaping projects; spring cleaning hacks; outdoor workouts."
+      },
+      {
+        "id": "tvmaze:3271905",
+        "title": "Friday, March 21, 2025",
+        "season": 2,
+        "episode": 109,
+        "released": "2025-03-21",
+        "overview": "One skirt four ways for different ages; Canadian beauty finds; spring fashion colour trends; 'Top Chef' judge Gail Simmons."
+      },
+      {
+        "id": "tvmaze:3271906",
+        "title": "Monday, March 24, 2025",
+        "season": 2,
+        "episode": 110,
+        "released": "2025-03-24",
+        "overview": "Ravioli lasagna; fashion finds that instantly transform an outfit; magic-hour makeup glow; magical cocktails; Champions of Magic perform."
+      },
+      {
+        "id": "tvmaze:3271907",
+        "title": "Tuesday, March 25, 2025",
+        "season": 2,
+        "episode": 111,
+        "released": "2025-03-25",
+        "overview": "Mary and her crew make light and bright spring dishes from breakfast through dinner inspired by one secret ingredient."
+      },
+      {
+        "id": "tvmaze:3271908",
+        "title": "Wednesday, March 26, 2025",
+        "season": 2,
+        "episode": 112,
+        "released": "2025-03-26",
+        "overview": "Make-ahead chicken tenders; springtime baby animals; TikTok sleep trends; 'Queen of the Castle' star Ann Kaplan Mulholland; Jann Arden."
+      },
+      {
+        "id": "tvmaze:3271909",
+        "title": "Friday, March 28, 2025",
+        "season": 2,
+        "episode": 113,
+        "released": "2025-03-28",
+        "overview": "Andrea's dinner rescue; viral beauty products; 'White Lotus' themed party ideas; 'Happy Face' stars Annaleigh Ashford and Khiyla Aynne."
+      },
+      {
+        "id": "tvmaze:3271910",
+        "title": "Monday, March 31, 2025",
+        "season": 2,
+        "episode": 114,
+        "released": "2025-03-31",
+        "overview": "Mary's party dip recipe; dynamic small home office makeover; luxurious décor for less; show dog grooming tips for pets."
+      },
+      {
+        "id": "tvmaze:3271911",
+        "title": "Wednesday, April 2, 2025",
+        "season": 2,
+        "episode": 115,
+        "released": "2025-04-02",
+        "overview": "Two viewers get fresh spring makeovers; clever easy spring cleaning hacks; 'Girl Meets Farm' host Molly Yeh bakes with Mary."
+      },
+      {
+        "id": "tvmaze:3271912",
+        "title": "Wednesday, April 9, 2025",
+        "season": 2,
+        "episode": 116,
+        "released": "2025-04-09",
+        "overview": "Quick pasta; tiny cocktails; organizing bathroom and junk drawers; decorating small spaces; small money habits for big wins; Gabriel Luna."
+      },
+      {
+        "id": "tvmaze:3271913",
+        "title": "Friday, April 11, 2025",
+        "season": 2,
+        "episode": 117,
+        "released": "2025-04-11",
+        "overview": "From fashion and hair makeovers to recipes and DIY projects, viewers vote on how they want each segment to turn out."
+      },
+      {
+        "id": "tvmaze:3271914",
+        "title": "Monday, April 14, 2025",
+        "season": 2,
+        "episode": 118,
+        "released": "2025-04-14",
+        "overview": "Mary's easy Easter porchetta; tips for buying and selling a home this spring; discover your organizing style; Vogue's Christian Allaire."
+      },
+      {
+        "id": "tvmaze:3271915",
+        "title": "Tuesday, April 15, 2025",
+        "season": 2,
+        "episode": 119,
+        "released": "2025-04-15",
+        "overview": "Mary's spring fettuccine Alfredo; stylish rain gear for you and your pup; what to watch on a rainy day; Shawn Desman and Jamie Fine."
+      },
+      {
+        "id": "tvmaze:3271916",
+        "title": "Wednesday, April 16, 2025",
+        "season": 2,
+        "episode": 120,
+        "released": "2025-04-16",
+        "overview": "Mary challenges Scott McGillivray and Bryan Baeumler to \"PictionMary\"; luxe hair and beauty products for less; stylish fitness wear."
+      },
+      {
+        "id": "tvmaze:3271917",
+        "title": "Thursday, April 17, 2025",
+        "season": 2,
+        "episode": 121,
+        "released": "2025-04-17",
+        "overview": "Anna Olson, Andrea Buckett and Shahir Massoud help Mary whip up extra special sweet and savoury dishes for Easter brunch."
+      },
+      {
+        "id": "tvmaze:3271918",
+        "title": "Monday, April 21, 2025",
+        "season": 2,
+        "episode": 122,
+        "released": "2025-04-21",
+        "overview": "Mary's leftover Easter candy brownies; colourful condo refresh; clever wardrobe hacks; purse trends; car organizing hacks for road trips."
+      },
+      {
+        "id": "tvmaze:3271919",
+        "title": "Tuesday, April 22, 2025",
+        "season": 2,
+        "episode": 123,
+        "released": "2025-04-22",
+        "overview": "Mary's coconut dahl; stylish sustainable fashion; must-have sustainable beauty brands; innovative new tech trends; nutrition myth busting."
+      },
+      {
+        "id": "tvmaze:3271920",
+        "title": "Wednesday, April 23, 2025",
+        "season": 2,
+        "episode": 124,
+        "released": "2025-04-23",
+        "overview": "Mary challenges two bakers to create stunning spring cakes; Mary's classic carrot cake; miso - the magic baking ingredient."
+      },
+      {
+        "id": "tvmaze:3271921",
+        "title": "Thursday, April 24, 2025",
+        "season": 2,
+        "episode": 125,
+        "released": "2025-04-24",
+        "overview": "Long hair transformations; modern ways to decorate with vintage finds; Mary's chicken cordon bleu update; styling old clothes to feel new."
+      },
+      {
+        "id": "tvmaze:3271922",
+        "title": "Monday, April 28, 2025",
+        "season": 2,
+        "episode": 126,
+        "released": "2025-04-28",
+        "overview": "Chicken gyro dupe; repurposing household items as organizers; Japandi décor trend with Colin and Justin; Arkells' frontman Max Kerman."
+      },
+      {
+        "id": "tvmaze:3271923",
+        "title": "Tuesday, April 29, 2025",
+        "season": 2,
+        "episode": 127,
+        "released": "2025-04-29",
+        "overview": "Bacon and pea gnocchi; food and drink crowd-pleasers; must-have gardening gadgets; outdoor pet safety; \"North of North\" star Anna Lambe."
+      },
+      {
+        "id": "tvmaze:3271924",
+        "title": "Wednesday, April 30, 2025",
+        "season": 2,
+        "episode": 128,
+        "released": "2025-04-30",
+        "overview": "Mary and her guests make homemade dupes of store-bought classics, like chocolate freezer cake and mac 'n cheese."
+      },
+      {
+        "id": "tvmaze:3271925",
+        "title": "Thursday, May 1, 2025",
+        "season": 2,
+        "episode": 129,
+        "released": "2025-05-01",
+        "overview": "Sheet-pan salmon; cluttered closet transformation and organizing products; 'Sullivan's Crossing's' Morgan Kohan and Chad Michael Murray."
+      },
+      {
+        "id": "tvmaze:3271926",
+        "title": "Friday, May 2, 2025",
+        "season": 2,
+        "episode": 130,
+        "released": "2025-05-02",
+        "overview": "Viewers who've overcome challenges get makeovers; 2nd day hair hacks; adding pops of colour to your look; learning how to make a hand roll."
+      },
+      {
+        "id": "tvmaze:3271927",
+        "title": "Monday, May 5, 2025",
+        "season": 2,
+        "episode": 131,
+        "released": "2025-05-05",
+        "overview": "Saucy pork noodle bowl; patio furniture trends; YouTube fitness sensation Maddie Lymburner; Vijaya Selvaraju celebrates her first cookbook."
+      },
+      {
+        "id": "tvmaze:3271928",
+        "title": "Tuesday, May 6, 2025",
+        "season": 2,
+        "episode": 132,
+        "released": "2025-05-06",
+        "overview": "10-minute fashion makeovers; quick entertaining recipes; 10-minute cleaning projects; money-saving apps; 'Drag Brunch Saved My Life' stars."
+      },
+      {
+        "id": "tvmaze:3271929",
+        "title": "Wednesday, May 7, 2025",
+        "season": 2,
+        "episode": 133,
+        "released": "2025-05-07",
+        "overview": "Shahir Massoud, Anna Olson, Taneisha Morris and Alex Page put their spin on viewers' recipes passed down from their moms and grandmas."
+      },
+      {
+        "id": "tvmaze:3271930",
+        "title": "Thursday, May 8, 2025",
+        "season": 2,
+        "episode": 134,
+        "released": "2025-05-08",
+        "overview": "Mary's \"spring is here\" pizza; Mother's Day living room makeover; parenting products for different ages; non-alcoholic mood drinks."
+      },
+      {
+        "id": "tvmaze:3271931",
+        "title": "Friday, May 9, 2025",
+        "season": 2,
+        "episode": 135,
+        "released": "2025-05-09",
+        "overview": "Erica Wark gives two mother-daughter duos Mother's Day makeovers; last-minute Mother's Day gifts; Mary makes her mom spanakopita quiche."
+      },
+      {
+        "id": "tvmaze:3271932",
+        "title": "Monday, May 12, 2025",
+        "season": 2,
+        "episode": 136,
+        "released": "2025-05-12",
+        "overview": "Mary's 10-minute Sesame Hoisin Salmon; mudroom styling tips; when to replace kitchen items; store bought dinner faves; comedian Leslie Liao."
+      },
+      {
+        "id": "tvmaze:3271933",
+        "title": "Tuesday, May 13, 2025",
+        "season": 2,
+        "episode": 137,
+        "released": "2025-05-13",
+        "overview": "The Good Stuff Lab! Mary &amp; her experts put viral food, hair, beauty, kitchen and tech gadgets to the test!"
+      },
+      {
+        "id": "tvmaze:3271935",
+        "title": "Wednesday, May 14, 2025",
+        "season": 2,
+        "episode": 138,
+        "released": "2025-05-14",
+        "overview": "Mary, Andrea Buckett, Vijaya Selvaraju and Craig Wong make craveworthy long weekend dishes and dessert perfect for a crowd."
+      },
+      {
+        "id": "tvmaze:3271936",
+        "title": "Thursday, May 15, 2025",
+        "season": 2,
+        "episode": 139,
+        "released": "2025-05-15",
+        "overview": "Mary's Greek Chicken Burgers; spring planters for sun and shade; long weekend travel ideas across Canada; Canadian wines spotlight."
+      },
+      {
+        "id": "tvmaze:3271937",
+        "title": "Friday, May 16, 2025",
+        "season": 2,
+        "episode": 140,
+        "released": "2025-05-16",
+        "overview": "Chef Lynn Crawford's easy green sides; styling an outfit with your own pieces; 2 viewers go from long hair to bobs; youthful makeup tricks."
+      },
+      {
+        "id": "tvmaze:3271938",
+        "title": "Tuesday, May 20, 2025",
+        "season": 2,
+        "episode": 141,
+        "released": "2025-05-20",
+        "overview": "Two high school besties get a glam makeover for prom; Mary makes dinner for her BFFs; travel apps for traveling with friends; fun cocktails."
+      },
+      {
+        "id": "tvmaze:3271939",
+        "title": "Wednesday, May 21, 2025",
+        "season": 2,
+        "episode": 142,
+        "released": "2025-05-21",
+        "overview": "Diner Delights! Mary and her crew take you to their favourite diners and cook up classic diner eats!"
+      },
+      {
+        "id": "tvmaze:3271940",
+        "title": "Thursday, May 22, 2025",
+        "season": 2,
+        "episode": 143,
+        "released": "2025-05-22",
+        "overview": "Mary's sweet potato enchiladas; stylish balcony transformation; organizing solutions for outdoor gear; Mary learns how to make a hand roll."
+      },
+      {
+        "id": "tvmaze:3271941",
+        "title": "Friday, May 23, 2025",
+        "season": 2,
+        "episode": 144,
+        "released": "2025-05-23",
+        "overview": "Scott McGillivray, Erica Wark, Shahir Massoud &amp; Owen Reeves join Mary in answering real estate, fashion, food &amp; gardening questions."
+      },
+      {
+        "id": "tvmaze:3271942",
+        "title": "Monday, May 26, 2025",
+        "season": 2,
+        "episode": 145,
+        "released": "2025-05-26",
+        "overview": "Mary's Caprese Pasta Salad; stylish spring looks for work; coastal décor with Colin &amp; Justin; 'One Golden Summer' author Carley Fortune."
+      },
+      {
+        "id": "tvmaze:3271943",
+        "title": "Wednesday, May 28, 2025",
+        "season": 2,
+        "episode": 146,
+        "released": "2025-05-28",
+        "overview": "Two avid campers and home cooks compete in the Great Canadian Camping Cookoff with chef Michael Smith; glamping must-haves; RV travel."
+      },
+      {
+        "id": "tvmaze:3271944",
+        "title": "Thursday, May 29, 2025",
+        "season": 2,
+        "episode": 147,
+        "released": "2025-05-29",
+        "overview": "Mary's wardrobe confessionals; garage sale tips to get top dollar; dim sum lesson; Academy Award winner Julianne Moore."
+      },
+      {
+        "id": "tvmaze:3271945",
+        "title": "Monday, June 2, 2025",
+        "season": 2,
+        "episode": 148,
+        "released": "2025-06-02",
+        "overview": "Mary's coastal-inspired pasta; coastal fashion &amp; beachwear; Canadian coastal trip ideas; Murderbot stars Tamara Podemski &amp; Tattiawna Jones."
+      },
+      {
+        "id": "tvmaze:3271946",
+        "title": "Thursday, June 5, 2025",
+        "season": 2,
+        "episode": 149,
+        "released": "2025-06-05",
+        "overview": "Mary reveals a big announcement! Summer wardrobe essentials; low effort big impact recipes for entertaining; TV host &amp; comedian Lilly Singh"
+      },
+      {
+        "id": "tvmaze:3421583",
+        "title": "Episode 1",
+        "season": 3,
+        "episode": 1,
+        "released": "2025-09-02",
+        "overview": "Season 3 Premiere! One deserving viewer gets a transformational makeover; home reno star Kortney Wilson; special Season 3 giveaways."
+      },
+      {
+        "id": "tvmaze:3421584",
+        "title": "Episode 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2025-09-03",
+        "overview": "Dinnertime Helpline! Andrea Buckett, Alex Page, Taneisha Morris and Myra Berg help viewers tackle their dinner dilemmas; season 3 giveaways."
+      },
+      {
+        "id": "tvmaze:3421585",
+        "title": "Episode 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2025-09-04",
+        "overview": "Mary's honey garlic chicken; top organizing solutions for the home; pet separation anxiety; NFL game day treats; Season 3 giveaways."
+      },
+      {
+        "id": "tvmaze:3421586",
+        "title": "Episode 4",
+        "season": 3,
+        "episode": 4,
+        "released": "2025-09-05",
+        "overview": "Power of 3! Fall fashion trends, three ways; fall hair trends; The Magic Matt performs; Season 3 giveaways."
+      },
+      {
+        "id": "tvmaze:3421587",
+        "title": "Episode 5",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-09-08",
+        "overview": "Mary's PEI adventures; Scott McGillivray shares prime real estate listings and trends across Canada; fall décor trends; chef Vikram Vij."
+      },
+      {
+        "id": "tvmaze:3421588",
+        "title": "Episode 6",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-09-09",
+        "overview": "Three viewers get fall colour matches and makeovers; chef Ricardo Larrivée's kids' cookbook; actor Carson MacCormac."
+      },
+      {
+        "id": "tvmaze:3421589",
+        "title": "Episode 7",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-09-10",
+        "overview": "Andrea Buckett, Anna Olson and Vijaya Selvaraju join Mary in the kitchen to make delicious recipes with summer's seasonal produce."
+      },
+      {
+        "id": "tvmaze:3421590",
+        "title": "Episode 8",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-09-11",
+        "overview": "From décor to cooking and camping, the day's experts help each other tackle their wish lists."
+      },
+      {
+        "id": "tvmaze:3421591",
+        "title": "Episode 9",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-09-12",
+        "overview": "Viewers get fresh-start makeovers; wardrobe flip from summer to fall; pampering products; adorable animals; Mary's morning beauty routine."
+      },
+      {
+        "id": "tvmaze:3421592",
+        "title": "Episode 10",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3421593",
+        "title": "Episode 11",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-09-16",
+        "overview": "Mary's PEI adventures with chef Michael Smith; crispy gnocchi; taste of Portugal; culinary travels to Kelowna BC and New Brunswick."
+      },
+      {
+        "id": "tvmaze:3421594",
+        "title": "Episode 12",
+        "season": 3,
+        "episode": 12,
+        "released": "2025-09-17",
+        "overview": "Chefs Andrea Buckett, Craig Wong and Taneisha Morris join Mary in making impressive dinner party dishes on a budget."
+      },
+      {
+        "id": "tvmaze:3421595",
+        "title": "Episode 13",
+        "season": 3,
+        "episode": 13,
+        "released": "2025-09-18",
+        "overview": "Mary and her experts take viewers inside their homes to show their favourite spaces and routines."
+      },
+      {
+        "id": "tvmaze:3421596",
+        "title": "Episode 14",
+        "season": 3,
+        "episode": 14,
+        "released": "2025-09-19",
+        "overview": "From fashion to beauty to décor &amp; restaurant quality eats, Mary &amp; her experts on their favourite dupes; 'Degrassi: Whatever It Takes' cast."
+      },
+      {
+        "id": "tvmaze:3421597",
+        "title": "Episode 15",
+        "season": 3,
+        "episode": 15,
+        "released": "2025-09-22",
+        "overview": "Mary's apple pecan coffee cake; fall wardrobe edit; decorating with fall colours; fall home buying tips."
+      },
+      {
+        "id": "tvmaze:3421598",
+        "title": "Episode 16",
+        "season": 3,
+        "episode": 16,
+        "released": "2025-09-23",
+        "overview": "Chef Chuck Hughes spotlights new restaurants in Canada; time-saving tech; viral kitchen hacks tested; actress Lauren Ash."
+      },
+      {
+        "id": "tvmaze:3421599",
+        "title": "Episode 17",
+        "season": 3,
+        "episode": 17,
+        "released": "2025-09-24",
+        "overview": "Winner, winner, chicken dinner! Mary, Anna Olson, Alex Page and Vijaya Selvaraju make their favourite chicken recipes to switch-up mealtime."
+      },
+      {
+        "id": "tvmaze:3421600",
+        "title": "Episode 18",
+        "season": 3,
+        "episode": 18,
+        "released": "2025-09-25",
+        "overview": "Fall gardening checklist; Canadian fall fashions; Mary's PEI adventures continue; 'Locals Welcome' host Suresh Doss."
+      },
+      {
+        "id": "tvmaze:3421601",
+        "title": "Episode 19",
+        "season": 3,
+        "episode": 19,
+        "released": "2025-09-26",
+        "overview": "How to wear the top fashion trends; Bryan and Sarah Baeumler; buzzworthy tech; beauty trends; Myra meets 'MasterChef Canada's' home cooks."
+      },
+      {
+        "id": "tvmaze:3421602",
+        "title": "Episode 20",
+        "season": 3,
+        "episode": 20,
+        "released": "2025-09-29",
+        "overview": "Big batch dinner; front yard makeover; setting up a family command center; Myra Berg chats with 'MasterChef Canada's' season 8 home cooks."
+      },
+      {
+        "id": "tvmaze:3421603",
+        "title": "Episode 21",
+        "season": 3,
+        "episode": 21,
+        "released": "2025-09-30",
+        "overview": "Orange Shirt Day and National Day for Truth and Reconciliation; delicious recipes; personal stories and reflections on the way forward."
+      },
+      {
+        "id": "tvmaze:3421604",
+        "title": "Episode 22",
+        "season": 3,
+        "episode": 22,
+        "released": "2025-10-01",
+        "overview": "Andrea Buckett, Alex Page, Shahir Massoud and Ren Navarro join Mary in the kitchen with Oktoberfest recipes and beer pairings."
+      },
+      {
+        "id": "tvmaze:3421605",
+        "title": "Episode 23",
+        "season": 3,
+        "episode": 23,
+        "released": "2025-10-02",
+        "overview": "Mary's cheesy baked gnocchi; finding your personal décor style; must-have home tools; Craig Wong's 'MasterChef' worthy dinner."
+      },
+      {
+        "id": "tvmaze:3421606",
+        "title": "Episode 24",
+        "season": 3,
+        "episode": 24,
+        "released": "2025-10-03",
+        "overview": "Apple cider mimosas and apple brown sugar pancakes; surprise closet makeover; transform basic outfits from drab to fab; smart travel tips."
+      },
+      {
+        "id": "tvmaze:3421607",
+        "title": "Episode 25",
+        "season": 3,
+        "episode": 25,
+        "released": "2025-10-06",
+        "overview": "Mary's pumpkin bacon cornbread muffins; signature Thanksgiving cocktails; Sebastian Clovis makes over a viewer's backyard."
+      },
+      {
+        "id": "tvmaze:3421609",
+        "title": "Episode 26",
+        "season": 3,
+        "episode": 26,
+        "released": "2025-10-07",
+        "overview": "Mary's butternut squash and bacon pasta; how to style barrel jeans; Amazon Prime Day kitchen products; Anna Olson's new cookbook."
+      },
+      {
+        "id": "tvmaze:3421610",
+        "title": "Episode 27",
+        "season": 3,
+        "episode": 27,
+        "released": "2025-10-08",
+        "overview": "Mary teams up with Andrea Buckett, Vijaya Selvaraju and Taneisha Morris to make Thanksgiving dishes with a twist."
+      },
+      {
+        "id": "tvmaze:3421611",
+        "title": "Episode 28",
+        "season": 3,
+        "episode": 28,
+        "released": "2025-10-09",
+        "overview": "Mary's bacon and Gruyère scalloped potatoes; guest room hacks; how to hang art; best sweater for your shape; Mary and Myra go apple picking."
+      },
+      {
+        "id": "tvmaze:3421612",
+        "title": "Episode 29",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-10-10",
+        "overview": "From what to eat and drink, to how to set the table, Mary teams up with Myra and the day's guests to tackle viewers' Thanksgiving dilemmas."
+      },
+      {
+        "id": "tvmaze:3421613",
+        "title": "Episode 30",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-10-14",
+        "overview": "Mary's leftover turkey pot pie; stylish DIY projects using leftover scraps; zero waste cocktails; making leftovers last longer."
+      },
+      {
+        "id": "tvmaze:3421614",
+        "title": "Episode 31",
+        "season": 3,
+        "episode": 31,
+        "released": "2025-10-15",
+        "overview": "Butternut squash and bacon pasta; wearing vs. styling outfits; easy hair changes; 'Boston Blue's' Donnie Wahlberg and Sonequa Martin Green."
+      },
+      {
+        "id": "tvmaze:3421616",
+        "title": "Episode 32",
+        "season": 3,
+        "episode": 32,
+        "released": "2025-10-16",
+        "overview": "Mary's chicken Florentine; letting go of clutter; finding the right wallpaper; Vijaya's cookbook launch; trick-or-treating accessibly."
+      },
+      {
+        "id": "tvmaze:3421617",
+        "title": "Episode 33",
+        "season": 3,
+        "episode": 33,
+        "released": "2025-10-17",
+        "overview": "Pasta party! Andrea Buckett, Shahir Massoud and Alex Page join Mary in making different pasta dishes to celebrate National Pasta Day."
+      },
+      {
+        "id": "tvmaze:3421618",
+        "title": "Episode 34",
+        "season": 3,
+        "episode": 34,
+        "released": "2025-10-20",
+        "overview": "Two viewers compete in Mary's \"Furniture Flip Faceoff\"; Mary's fennel and sausage pasta Bolognese; how to wear the latest denim trends."
+      },
+      {
+        "id": "tvmaze:3421619",
+        "title": "Episode 35",
+        "season": 3,
+        "episode": 35,
+        "released": "2025-10-21",
+        "overview": "Mary's experts of the day face-off and deliver their top tips for quick dinners, budget fashion finds, and home upgrades."
+      },
+      {
+        "id": "tvmaze:3421620",
+        "title": "Episode 36",
+        "season": 3,
+        "episode": 36,
+        "released": "2025-10-22",
+        "overview": "Andrea Buckett, Craig Wong and Taneisha Morris join Mary with flavourful recipes."
+      },
+      {
+        "id": "tvmaze:3421621",
+        "title": "Episode 37",
+        "season": 3,
+        "episode": 37,
+        "released": "2025-10-23",
+        "overview": "Mary's homemade burger buddy; sleep-friendly bedroom; bedtime hair and skin routines; what to eat for a good sleep."
+      },
+      {
+        "id": "tvmaze:3421622",
+        "title": "Episode 38",
+        "season": 3,
+        "episode": 38,
+        "released": "2025-10-24",
+        "overview": "How to style pieces you love but shy away from; celebrity makeup hacks; hair colour transformations; the stars of \"NCIS: Tony &amp; Ziva.\""
+      },
+      {
+        "id": "tvmaze:3421623",
+        "title": "Episode 39",
+        "season": 3,
+        "episode": 39,
+        "released": "2025-10-27",
+        "overview": "Mary's pork chops with caramelized apples; Halloween front yard makeover; trending costumes; \"The Traitors Canada\" host Karine Vanasse"
+      },
+      {
+        "id": "tvmaze:3421624",
+        "title": "Episode 40",
+        "season": 3,
+        "episode": 40,
+        "released": "2025-10-28",
+        "overview": "Mary's pumpkin bacon cornbread muffins; fall coat trends; fall decorating tips; how to plan the ultimate Halloween dinner party menu."
+      },
+      {
+        "id": "tvmaze:3421625",
+        "title": "Episode 41",
+        "season": 3,
+        "episode": 41,
+        "released": "2025-10-29",
+        "overview": "Pumpkin Palooza!: Mary and her guests share their tips on how to cook, bake, and carve the season's iconic pumpkin."
+      },
+      {
+        "id": "tvmaze:3421626",
+        "title": "Episode 42",
+        "season": 3,
+        "episode": 42,
+        "released": "2025-10-30",
+        "overview": "Creepy Cake-off: Transforming store-bought treats for Halloween; Halloween tech and gadgets; actress Cassandra Peterson."
+      },
+      {
+        "id": "tvmaze:3421627",
+        "title": "Episode 43",
+        "season": 3,
+        "episode": 43,
+        "released": "2025-10-31",
+        "overview": "The Good Stuff in Oz!: Mary and her guests throw the ultimate Oz-themed Halloween bash!"
+      },
+      {
+        "id": "tvmaze:3430302",
+        "title": "Episode 44",
+        "season": 3,
+        "episode": 44,
+        "released": "2025-11-03",
+        "overview": "Mary's falafel waffles; animal print trends; paint colour lesson; apps worth downloading; glowing skin hacks; Rosie the miniature donkey."
+      },
+      {
+        "id": "tvmaze:3430303",
+        "title": "Episode 45",
+        "season": 3,
+        "episode": 45,
+        "released": "2025-11-04",
+        "overview": "Lidia Bastianich cooks with Mary; how to breathe new life into your space; \"Mistletoe Murders\" stars Sarah Drew and Peter Mooney."
+      },
+      {
+        "id": "tvmaze:3430304",
+        "title": "Episode 46",
+        "season": 3,
+        "episode": 46,
+        "released": "2025-11-05",
+        "overview": "Casserole craze: From breakfast to lunch and dinner, Mary and her guests cook up their favourite casseroles."
+      },
+      {
+        "id": "tvmaze:3430305",
+        "title": "Episode 47",
+        "season": 3,
+        "episode": 47,
+        "released": "2025-11-06",
+        "overview": "Jamie Oliver cooks with Mary; cold weather looks and accessories for your pet; 15-minute dinners; Alan Doyle stops by."
+      },
+      {
+        "id": "tvmaze:3430306",
+        "title": "Episode 48",
+        "season": 3,
+        "episode": 48,
+        "released": "2025-11-07",
+        "overview": "French fries three ways; organizing tips for couples; beauty trend roundup; hair colour makeovers; Jillian Harris and Justin Pasutto."
+      },
+      {
+        "id": "tvmaze:3434685",
+        "title": "Episode 49",
+        "season": 3,
+        "episode": 49,
+        "released": "2025-11-10",
+        "overview": "Mary's creamed spinach and mushroom casserole; chef Michael Smith cooks with Mary; stylish ways to layer outfits; cozy décor accessories."
+      },
+      {
+        "id": "tvmaze:3434686",
+        "title": "Episode 50",
+        "season": 3,
+        "episode": 50,
+        "released": "2025-11-12",
+        "overview": "Mary and her guests create the ultimate dinner party menu with cocktails and wine pairings, appetizers, first course, main dish and dessert."
+      },
+      {
+        "id": "tvmaze:3434687",
+        "title": "Episode 51",
+        "season": 3,
+        "episode": 51,
+        "released": "2025-11-13",
+        "overview": "Mary's creamy tomato soup with crispy cheesy gnocchi; game day chicken wings; easy swaps to transform your space; must-have baby products."
+      },
+      {
+        "id": "tvmaze:3434688",
+        "title": "Episode 52",
+        "season": 3,
+        "episode": 52,
+        "released": "2025-11-14",
+        "overview": "Protein-packed energizing meals; adventurous travel; fitness fashions; stamina-building workout; 'The Office Movers' Jae and Trey Richards."
+      },
+      {
+        "id": "tvmaze:3434689",
+        "title": "Episode 53",
+        "season": 3,
+        "episode": 53,
+        "released": "2025-11-17",
+        "overview": "Mary makes Italian wedding soup; home reno dos and don'ts; freezer meals; \"How My Dog Saved My Life\" author Cate Cochran."
+      },
+      {
+        "id": "tvmaze:3441213",
+        "title": "Episode 54",
+        "season": 3,
+        "episode": 54,
+        "released": "2025-11-18",
+        "overview": "Meatball Madness Day 2; elevate your sweater from couch to cocktails; cold weather beauty; comic Gerry Dee."
+      },
+      {
+        "id": "tvmaze:3441214",
+        "title": "Episode 55",
+        "season": 3,
+        "episode": 55,
+        "released": "2025-11-19",
+        "overview": "Mary and her guests make appetizers for holiday entertaining; Meatball Madness Day 3."
+      },
+      {
+        "id": "tvmaze:3441215",
+        "title": "Episode 56",
+        "season": 3,
+        "episode": 56,
+        "released": "2025-11-20",
+        "overview": "Meatball Madness Day 4; bundle up without the bulk; the viral Ralph Lauren Christmas décor trend; Tori Wesszer; Kareem \"Mr. Bake\" Queeman."
+      },
+      {
+        "id": "tvmaze:3441216",
+        "title": "Episode 57",
+        "season": 3,
+        "episode": 57,
+        "released": "2025-11-21",
+        "overview": "Meatball Madness Day 5; holiday decluttering hacks; holiday partywear preview; holiday décor ideas; \"Project Runway Canada's\" Coco Rocha."
+      },
+      {
+        "id": "tvmaze:3449251",
+        "title": "Episode 58",
+        "season": 3,
+        "episode": 58,
+        "released": "2025-11-24",
+        "overview": "Mary makes easy lasagna; get the look for less with beauty and décor dupes; making homemade pizza; Champions of Magic perform."
+      },
+      {
+        "id": "tvmaze:3449252",
+        "title": "Episode 59",
+        "season": 3,
+        "episode": 59,
+        "released": "2025-11-26",
+        "overview": "Mary and her guests cook up big flavour from fully loaded butter chicken nachos to super saucy chicken wings and more."
+      },
+      {
+        "id": "tvmaze:3449253",
+        "title": "Episode 60",
+        "season": 3,
+        "episode": 60,
+        "released": "2025-11-28",
+        "overview": "How to use the weekend to get ahead with freezer-friendly meals and outfits for the week; organizing and speed cleaning your home."
+      },
+      {
+        "id": "tvmaze:3449254",
+        "title": "Episode 61",
+        "season": 3,
+        "episode": 61,
+        "released": "2025-12-01",
+        "overview": "Christmas at The Cabin! Mary's Pulled Pork Mac &amp; Cheese; chalet chic fashion; Cyber Monday deals; cabin core décor; Tyler Shaw performs."
+      },
+      {
+        "id": "tvmaze:3449255",
+        "title": "Episode 62",
+        "season": 3,
+        "episode": 62,
+        "released": "2025-12-02",
+        "overview": "Mary's Ginger Molasses Cookies and holiday baking staples; 5 holiday party wear must-haves; make-ahead appies; gift wrap station tips."
+      },
+      {
+        "id": "tvmaze:3453008",
+        "title": "Episode 63",
+        "season": 3,
+        "episode": 63,
+        "released": "2025-12-03",
+        "overview": "Christmas Crowd-Pleasers! Mary and her guests share their favourite crowd-pleasing recipes for your holiday table."
+      },
+      {
+        "id": "tvmaze:3453009",
+        "title": "Episode 64",
+        "season": 3,
+        "episode": 64,
+        "released": "2025-12-04",
+        "overview": "Mary's Cinnamon Bun Sugar Cookies; Scott McGillivray's 1-hour holiday DIYs; outdoor holiday décor; Canadian gift ideas; Brooke Lynn Hytes."
+      },
+      {
+        "id": "tvmaze:3462257",
+        "title": "Episode 65",
+        "season": 3,
+        "episode": 65,
+        "released": "2025-12-05",
+        "overview": "15-minute meals; amping up store-bought apps; work-to-holiday party transformations; Spartacus: House of Ashur star Tenika Davis."
+      },
+      {
+        "id": "tvmaze:3462258",
+        "title": "Episode 66",
+        "season": 3,
+        "episode": 66,
+        "released": "2025-12-08",
+        "overview": "Unique gift wrapping ideas; pet gift guide; holiday charcuterie board; Heated Rivalry stars Connor Storrie &amp; Hudson Williams."
+      },
+      {
+        "id": "tvmaze:3462259",
+        "title": "Episode 67",
+        "season": 3,
+        "episode": 67,
+        "released": "2025-12-09",
+        "overview": "Hostess gift guide; one outfit for 3 holiday parties; devilled eggs 3 ways; best wine to gift; Unauthorized Hallmark(ish) Parody Musical."
+      },
+      {
+        "id": "tvmaze:3462260",
+        "title": "Episode 68",
+        "season": 3,
+        "episode": 68,
+        "released": "2025-12-10",
+        "overview": "The Good Stuff's Christmas Market! Mary &amp; her guests make Christmas market-inspired eats and sample foods from markets around the world."
+      },
+      {
+        "id": "tvmaze:3462261",
+        "title": "Episode 69",
+        "season": 3,
+        "episode": 69,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3466690",
+        "title": "Episode 70",
+        "season": 3,
+        "episode": 70,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

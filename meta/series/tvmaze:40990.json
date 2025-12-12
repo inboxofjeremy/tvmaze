@@ -1,0 +1,1340 @@
+{
+  "meta": {
+    "id": "tvmaze:40990",
+    "type": "series",
+    "name": "Paranormal Caught on Camera",
+    "description": "Some of the most amazing, eye-opening and downright scary paranormal videos from around the world are featured as a panel of experts break down the footage and analyze what exactly the eyewitnesses captured.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/474/1186626.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/474/1186626.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3454460",
+        "title": "A Phantom Hand in Brazil and More",
+        "season": 10,
+        "episode": 8,
+        "released": "2025-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1609821",
+        "title": "The Seedy Texas Motel Poltergeist and More",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-02-13",
+        "overview": "A traveling businessman encounters poltergeist activity in his Texas motel room, a UFO is spotted over one of the holiest sites on Earth and a Sasquatch is spotted by two hikers in British Columbia."
+      },
+      {
+        "id": "tvmaze:1609822",
+        "title": "The World's Most Haunted School and More",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-02-20",
+        "overview": "Poltergeist activity is caught on an Irish school's security camera, two Russians encounter what may be a Sasquatch while driving in Siberia and a UFO is spotted flying over Australia in broad daylight."
+      },
+      {
+        "id": "tvmaze:1609823",
+        "title": "The Montauk Monster and More",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-02-27",
+        "overview": "An internet-famous monster washes up again on a New York beach, parents catch ghosts haunting nurseries on baby monitors and a UFO saves a Russian town."
+      },
+      {
+        "id": "tvmaze:1609887",
+        "title": "Gettysburg Ghosts and More",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-03-06",
+        "overview": "A ghost appears on the Gettysburg battlefield, a sea monster surfaces in Ireland and fleets of UFOs are spotted over the skies of Philadelphia and The Hague."
+      },
+      {
+        "id": "tvmaze:1609888",
+        "title": "Haunted Antique Store and More",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-03-13",
+        "overview": "A poltergeist haunts an English antique store, a father and son encounter Bigfoot in Washington and a strange UFO is spotted over Inner Mongolia."
+      },
+      {
+        "id": "tvmaze:1609889",
+        "title": "Infamous Oregon Bigfoot Footage and More",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-03-20",
+        "overview": "An Oregon man captures some of the best Bigfoot footage ever, crazy UFOs cluster over a Texas town and a Wales resident deals with a poltergeist roommate."
+      },
+      {
+        "id": "tvmaze:1626275",
+        "title": "A UFO Spotted Over the Pentagon and More",
+        "season": 1,
+        "episode": 7,
+        "released": "2019-03-27",
+        "overview": "A pyramid-shaped UFO is spotted over the Pentagon, a father and his children are spooked by a ghost on a playground in Rhode Island and a security camera captures strange creatures stalking a California neighborhood."
+      },
+      {
+        "id": "tvmaze:1626277",
+        "title": "Ghostly Regulars at Haunted Pubs and More",
+        "season": 1,
+        "episode": 8,
+        "released": "2019-04-03",
+        "overview": "Ghostly patrons haunt pubs throughout the United Kingdom, a shadow creature stalks a police officer on an empty plane in Mexico City and a sea monster is spotted by multiple witnesses on the Thames."
+      },
+      {
+        "id": "tvmaze:1626278",
+        "title": "Encounter at an Abandoned Asylum and More",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-04-10",
+        "overview": "A paranormal investigator is attacked by an entity in an abandoned asylum in Connecticut, a driver witnesses a strange UFO over a hotel in North Carolina and an Oregon marijuana dispensary is haunted by ghosts of the past."
+      },
+      {
+        "id": "tvmaze:1634807",
+        "title": "A Highly Haunted Hotel in Arkansas and More",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-04-17",
+        "overview": "A couple learns they're sharing their hotel room with a ghostly guest in Arkansas, a strange formation floats over a Philadelphia neighborhood and a monstrous creature washes up on the beach in the Philippines."
+      },
+      {
+        "id": "tvmaze:1645710",
+        "title": "Florida Sea Monster Attack and More",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-05-01",
+        "overview": "A couple encounters a vicious sea monster while boating off the Florida coast, a man's house is haunted after he opens a supposedly cursed box and a strange figure appears in the sky during a thunderstorm in Alabama."
+      },
+      {
+        "id": "tvmaze:1645711",
+        "title": "Utah Bigfoot Hunt and More",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-05-08",
+        "overview": "Friends in Utah track down a Bigfoot spotted in the mountains, a total skeptic is attacked by a spirit at a haunted fort in England and ghostly passengers appear in a Hong Kong airport."
+      },
+      {
+        "id": "tvmaze:1645712",
+        "title": "Dire Wolf Attack, Dog vs. Ghost, Gollum-Like Cryptid and More",
+        "season": 1,
+        "episode": 13,
+        "released": "2019-05-15",
+        "overview": "A home security camera captures a dog's scary encounter with a ghost, a strange creature is spotted deep within a cave in the Alps and UFOs are witnessed during the daytime by people all over the globe."
+      },
+      {
+        "id": "tvmaze:1653994",
+        "title": "Pennsylvania Shadow Person and More",
+        "season": 1,
+        "episode": 14,
+        "released": "2019-05-22",
+        "overview": "A Pennsylvania family is terrorized by a shadowy entity in their own home, a brazen Bigfoot appears in front of a large group of shocked witnesses in Oregon and two UFOs put on a show in the skies above Bath, England."
+      },
+      {
+        "id": "tvmaze:1662130",
+        "title": "Delaware Ghost Bridge and More",
+        "season": 1,
+        "episode": 15,
+        "released": "2019-05-29",
+        "overview": "A group of friends test a local legend of a haunted bridge, a UFO is spotted from a plane window over California and a horrifying creature from the darkest corners of the internet is found in Oregon."
+      },
+      {
+        "id": "tvmaze:1662131",
+        "title": "Demonic Doll and More",
+        "season": 1,
+        "episode": 16,
+        "released": "2019-06-09",
+        "overview": "A Pennsylvania family is terrorized by a haunted doll, two friends witness a fleet of UFOs in the night sky and a man encounters the infamous Yowie in the Australian outback."
+      },
+      {
+        "id": "tvmaze:1766956",
+        "title": "Modern-day Cyclops and More",
+        "season": 2,
+        "episode": 1,
+        "released": "2019-12-18",
+        "overview": "Experts are baffled by recent sightings of one-eyed creatures, a team of graveyard investigators confront the undead and demonic dolls run amok in a museum of haunted artifacts."
+      },
+      {
+        "id": "tvmaze:1776966",
+        "title": "A Basket Full of Ghosts and More",
+        "season": 2,
+        "episode": 2,
+        "released": "2020-01-01",
+        "overview": "A haunted basket mystifies a mother and daughter, a mythical creature is spotted in Wales and two intrepid investigators come face-to-face with Slenderman."
+      },
+      {
+        "id": "tvmaze:1776967",
+        "title": "Pushy Poltergeists and More",
+        "season": 2,
+        "episode": 3,
+        "released": "2020-01-01",
+        "overview": "A hike turns terrifying when a father and son are stalked by a mysterious creature, bone-chilling shrieks strike fear into residents of a Colombian town and US Navy pilots are stumped when their radar locks in on unidentified aircraft."
+      },
+      {
+        "id": "tvmaze:1776968",
+        "title": "Arkansas Bigfoot Stalks a Father and Son and More",
+        "season": 2,
+        "episode": 4,
+        "released": "2020-01-08",
+        "overview": "A hike turns terrifying when a father and son are stalked by a mysterious creature, bone-chilling shrieks strike fear into residents of a Colombian town and US Navy pilots are stumped when their radar locks in on unidentified aircraft."
+      },
+      {
+        "id": "tvmaze:1791912",
+        "title": "A Texas Ghost Attack Draws Blood and More",
+        "season": 2,
+        "episode": 5,
+        "released": "2020-01-15",
+        "overview": "Blood is drawn when a paranormal investigator explores an abandoned hospital in Texas, a baby's innocent play beckons a powerful entity and a snake hunter gets more than he bargained for when he spots a snake-like object in the sky."
+      },
+      {
+        "id": "tvmaze:1794555",
+        "title": "Insanely Haunted Hospital in Michigan and More",
+        "season": 2,
+        "episode": 6,
+        "released": "2020-01-22",
+        "overview": "Paranormal investigators capture some truly terrifying footage in a haunted asylum, a father and son spot the mother of all UFOs, a poltergeist wreaks havoc in a vape shop and a legendary cryptid stalks a group of children."
+      },
+      {
+        "id": "tvmaze:1794556",
+        "title": "A Colossal Lake Creature in Chile and More",
+        "season": 2,
+        "episode": 7,
+        "released": "2020-01-29",
+        "overview": "A lake monster stalks a group of swimmers, a security guard confronts a terrifying shadow person in an empty stadium, a college student is tormented by a ghostly roommate and a Russian man goes on the hunt for a Yeti."
+      },
+      {
+        "id": "tvmaze:1793719",
+        "title": "Uninvited English House Ghoul and More",
+        "season": 2,
+        "episode": 8,
+        "released": "2020-02-05",
+        "overview": "A paranormal presence follows an investigator home, a UFO plays chicken with a freighter, a fearless family captures compelling evidence of Bigfoot and the ghost of a small child runs through a Savannah cemetery."
+      },
+      {
+        "id": "tvmaze:1793720",
+        "title": "A Shadow Creature in Maine and More",
+        "season": 2,
+        "episode": 9,
+        "released": "2020-02-12",
+        "overview": "A man encounters a terrifying shadow creature in his bedroom, an unidentified light is spotted above Fairbanks, Alaska, and a Detroit brewery is visited by an angelic entity."
+      },
+      {
+        "id": "tvmaze:1798521",
+        "title": "Jinn on the Prowl and More",
+        "season": 2,
+        "episode": 10,
+        "released": "2020-02-19",
+        "overview": "A ghost hunter is pushed to the brink by a demonic jinn, a shadow person invades a home in the UK and a creepy doll haunts a suburban basement."
+      },
+      {
+        "id": "tvmaze:1800558",
+        "title": "Beware the Doll at the Haunted Inn and More",
+        "season": 2,
+        "episode": 11,
+        "released": "2020-02-26",
+        "overview": "A doll comes to life at a notoriously haunted hotel, a UFO is spotted flying suspiciously close to a volcano, a man gains a ghostly bedmate and locals are stumped by strange lights in the Ozarks."
+      },
+      {
+        "id": "tvmaze:1802102",
+        "title": "The Ghost of Al Capone and More",
+        "season": 2,
+        "episode": 12,
+        "released": "2020-03-04",
+        "overview": "Ghost hunters make contact with an infamous gangster, a flying witch terrifies onlookers, a poltergeist torments a college student and something is alive in the sewers."
+      },
+      {
+        "id": "tvmaze:1802103",
+        "title": "A Sasquatch Spotted in Siberia and More",
+        "season": 2,
+        "episode": 13,
+        "released": "2020-03-11",
+        "overview": "Three boys spot a Sasquatch-like creature in Siberia, a couple captures ghostly soldiers on camera in Gettysburg and a teenager is terrified by a freakish formation in the sky."
+      },
+      {
+        "id": "tvmaze:1802104",
+        "title": "Roadside Ghost Bride and More",
+        "season": 2,
+        "episode": 14,
+        "released": "2020-03-18",
+        "overview": "A ghostly woman in white strolls along a dark highway, an underwater entity stalks a boat in a canal and a gas station employee makes contact with a mysterious humanoid."
+      },
+      {
+        "id": "tvmaze:1802105",
+        "title": "Ghost Dogs and More",
+        "season": 2,
+        "episode": 15,
+        "released": "2020-03-25",
+        "overview": "Beloved pets visit their owners from beyond the grave, a poltergeist moves chairs in a sports bar and a couple is interrupted by an uninvited dinner ghost."
+      },
+      {
+        "id": "tvmaze:1827648",
+        "title": "A Haunted Bar and More",
+        "season": 2,
+        "episode": 16,
+        "released": "2020-04-05",
+        "overview": "A destructive spirit wreaks havoc on a bar, three boys encounter a Sasquatch-like creature in the woods and dozes of worm-shaped UFOs appear over South America."
+      },
+      {
+        "id": "tvmaze:1827649",
+        "title": "A Frightening Ghost Attack and More",
+        "season": 2,
+        "episode": 17,
+        "released": "2020-04-12",
+        "overview": "A shadowy entity attacks a ghost hunter, a mechanic is visited by an angel and a family hears the bloodcurdling howls of a Bigfoot."
+      },
+      {
+        "id": "tvmaze:1827650",
+        "title": "An Arsonist Ghost and More",
+        "season": 2,
+        "episode": 18,
+        "released": "2020-04-19",
+        "overview": "Two brothers tangle with a ghost that likes to set fires, a mother ship unleashes an army of UFOs and a man faces terrifying consequences when he teases an interdimensional being."
+      },
+      {
+        "id": "tvmaze:1827651",
+        "title": "A Ventriloquist Dummy Comes to Life and More",
+        "season": 2,
+        "episode": 19,
+        "released": "2020-04-26",
+        "overview": "A antique ventriloquist dummy is taken over by an otherworldly entity, a haunted hotel gives a ghost hunter the fright of his life, a woman's apartment is invaded by a ferocious shadow creature and more."
+      },
+      {
+        "id": "tvmaze:1836565",
+        "title": "Ghostly Abandoned Prisons and More",
+        "season": 2,
+        "episode": 20,
+        "released": "2020-05-03",
+        "overview": "A man explores a haunted prison with terrifying results, a jellyfish-like object levitates in the bright daylight of a Las Vegas summer day and a biker's backwoods jaunt is interrupted by a mysterious creature."
+      },
+      {
+        "id": "tvmaze:1839127",
+        "title": "A Fire Smokes Out a Cryptid in Oklahoma and More",
+        "season": 2,
+        "episode": 21,
+        "released": "2020-05-10",
+        "overview": "A brush fire spooks a Sasquatch in Oklahoma, spirits torment a security guard at Savannah cemetery, a fleet of UFOs stun onlookers in Poland and more."
+      },
+      {
+        "id": "tvmaze:1839128",
+        "title": "Chased by a Bigfoot and More",
+        "season": 2,
+        "episode": 22,
+        "released": "2020-05-22",
+        "overview": "A Sasquatch chases a group of young Russians to their car, a mother's worst fears are confirmed when security cameras capture two entities in her new home, mysterious sounds trumpet from the skies and more."
+      },
+      {
+        "id": "tvmaze:1853791",
+        "title": "A Haunted Farmhouse in Maine and More",
+        "season": 2,
+        "episode": 23,
+        "released": "2020-05-24",
+        "overview": "A ghost hunter communicates with trapped spirits inside a 19th-century farmhouse, hundreds of UFOs are spotted off the coast of Florida, a motorcyclist in India has a close call with creepy entity and more."
+      },
+      {
+        "id": "tvmaze:1853792",
+        "title": "Mysterious Mesa Lights and More",
+        "season": 2,
+        "episode": 24,
+        "released": "2020-05-31",
+        "overview": "A couple spies multiple UFOs in the skies above Arizona, a poltergeist stalks a Florida family, a cryptid hunter gets up close and personal with a Bigfoot in North Carolina and more."
+      },
+      {
+        "id": "tvmaze:1864462",
+        "title": "Ghost Hunt in a Haunted Prison and More",
+        "season": 2,
+        "episode": 25,
+        "released": "2020-06-07",
+        "overview": "A paranormal team gets the shock of their lives while investigating an abandoned Illinois prison, a UFO gets dangerously close to two commercial jets and a ghostly local legend shows itself in England."
+      },
+      {
+        "id": "tvmaze:1864463",
+        "title": "Reptilian Creature in Thailand and More",
+        "season": 2,
+        "episode": 26,
+        "released": "2020-06-14",
+        "overview": "A man searches for answers after he spots a reptilian creature in Thailand, a baby has a terrifying encounter with a ghost and a war-torn ship yields a haunting message."
+      },
+      {
+        "id": "tvmaze:1891926",
+        "title": "Flying Cryptid Over Chicago and More",
+        "season": 3,
+        "episode": 1,
+        "released": "2020-07-12",
+        "overview": "A man stands in awe as he watches mysterious creatures fly over Chicago. A group of teens pay the price when they travel down a notoriously haunted road in New Jersey. Ghost hunters explore an abandoned church infected with a powerful demonic presence."
+      },
+      {
+        "id": "tvmaze:1891927",
+        "title": "Hawaiian UFOs and More",
+        "season": 3,
+        "episode": 2,
+        "released": "2020-07-19",
+        "overview": "A man captures three glowing UFOs hovering over government property in Hawaii. Paranormal investigators contact the spirit of a little boy in a haunted cave. Faithful followers watch a crucifix shake on its own in India."
+      },
+      {
+        "id": "tvmaze:1891928",
+        "title": "A Haunted Gift and More",
+        "season": 3,
+        "episode": 3,
+        "released": "2020-07-26",
+        "overview": "A Delaware family's home is terrorized by an evil spirit, playgrounds around the world open up their gates to more than just the living and a colossal creature is spotted near the shore of an Irish lake."
+      },
+      {
+        "id": "tvmaze:1901437",
+        "title": "Alaskan Sea Serpent and More",
+        "season": 3,
+        "episode": 4,
+        "released": "2020-08-02",
+        "overview": "A tourist captures startling footage of a giant sea serpent in Alaska, an unsuspecting ghost hunter is assaulted by a vengeful spirit and a bipedal beast roams the hills alongside a California highway."
+      },
+      {
+        "id": "tvmaze:1874196",
+        "title": "Haunted by a Rock Legend and More",
+        "season": 3,
+        "episode": 5,
+        "released": "2020-08-09",
+        "overview": "Paranormal investigators communicate with a dearly departed rock legend. A ghostly canine joins its former owner for a nighttime stroll. A government camera captures high-quality evidence of Bigfoot."
+      },
+      {
+        "id": "tvmaze:1874197",
+        "title": "Las Vegas UFOs and More",
+        "season": 3,
+        "episode": 6,
+        "released": "2020-08-16",
+        "overview": "A Florida man encounters an elusive -- and stinky -- Sasquatch. Ghost hunters attempt to contact the spirit of a murder victim in Tennessee. A Las Vegas resident captures of incredible footage of UFOs soaring in the skies."
+      },
+      {
+        "id": "tvmaze:1876995",
+        "title": "Pennhurst Asylum and More",
+        "season": 3,
+        "episode": 7,
+        "released": "2020-08-23",
+        "overview": "Ghost hunters encounter a shadow person in an abandoned Pennsylvania asylum. An Iowa couple accidentally brings home a haunted statue. A mom in Kentucky discovers a real-life boogeyman hiding n her daughter's closet."
+      },
+      {
+        "id": "tvmaze:1910675",
+        "title": "An Ogopogo Sighting and More",
+        "season": 3,
+        "episode": 8,
+        "released": "2020-08-30",
+        "overview": "A father and son record unprecedented evidence of a Canadian lake monster. A doorbell security camera captures fiery orbs falling from the skies above California. An investigative team is accosted by the spirits of a murdered family in Nevada."
+      },
+      {
+        "id": "tvmaze:1913070",
+        "title": "Haunted Dam and More",
+        "season": 3,
+        "episode": 9,
+        "released": "2020-09-07",
+        "overview": "Two men stumble upon the apparition of a ghostly bride in a haunted church. Shocking drone footage captures the elusive Ohio Grassman. A ferry sits in the cross hairs of battling UFOs along the banks of North Carolina."
+      },
+      {
+        "id": "tvmaze:1913071",
+        "title": "Seance Possession and More",
+        "season": 3,
+        "episode": 10,
+        "released": "2020-09-13",
+        "overview": "A man is possessed by an evil entity during a seance in York, England. An Oregon woman is stunned by a glowing UFO hovering above her new home. A ghost hunter is violently attacked by a poltergeist in an abandoned nursing home with a horrific past."
+      },
+      {
+        "id": "tvmaze:1923656",
+        "title": "Stonehenge UFOs and More",
+        "season": 3,
+        "episode": 11,
+        "released": "2020-09-20",
+        "overview": "Mysterious lights hover in the skies above Stonehenge on the eve of the summer solstice. A woman witnesses a soul leaving a dead deer's body. A Florida man finds grisly proof of a violent extraterrestrial attack."
+      },
+      {
+        "id": "tvmaze:1950286",
+        "title": "New York UFO and More",
+        "season": 3,
+        "episode": 12,
+        "released": "2020-11-01",
+        "overview": "A military veteran spies an otherworldly aircraft flying in the skies above New York. Screaming ghosts haunt the halls of an abandoned home in Belgium. A New Jersey couple discovers their dog has a paranormal playmate."
+      },
+      {
+        "id": "tvmaze:1950287",
+        "title": "Ghost Kitty and More",
+        "season": 3,
+        "episode": 13,
+        "released": "2020-11-08",
+        "overview": "A Florida man records a werewolf speeding across his backyard. A feline friend returns from the grave to visit its owner -- and take a nap? Two Chinese explorers get a horrifying glimpse into a haunted mirror."
+      },
+      {
+        "id": "tvmaze:1950288",
+        "title": "Haunted Teddy Bear and More",
+        "season": 3,
+        "episode": 14,
+        "released": "2020-11-15",
+        "overview": "A tenacious teddy bear terrorizes twins in Texas. A man is tormented by a vengeful spirit in an abandoned garage. A woman fears an alien invasion outside her window in California."
+      },
+      {
+        "id": "tvmaze:1958157",
+        "title": "Teen Vampire and More",
+        "season": 3,
+        "episode": 15,
+        "released": "2020-11-22",
+        "overview": "A young man stuns his friends with a vampiric transformation. A man witnesses a possible alien invasion in California. A popular app leads a Canadian college student to a haunted location."
+      },
+      {
+        "id": "tvmaze:1963652",
+        "title": "A Wave From the Grave and More",
+        "season": 3,
+        "episode": 16,
+        "released": "2020-11-27",
+        "overview": "A murderous spirit toys with a paranormal investigator trapped in a closet. A shadow figure makes itself at home in Chile. A dead man waves at his family members through his coffin window."
+      },
+      {
+        "id": "tvmaze:1968990",
+        "title": "High School Shadow Figure and More",
+        "season": 3,
+        "episode": 17,
+        "released": "2020-12-04",
+        "overview": "A shadowy entity roams the halls of an abandoned South Dakota high school. An evening stroll with the family pooch turns into an extraterrestrial encounter. Blood-curdling screams rain from the skies during a Texas thunderstorm."
+      },
+      {
+        "id": "tvmaze:1974900",
+        "title": "Supermarket Ghost and More",
+        "season": 3,
+        "episode": 18,
+        "released": "2020-12-11",
+        "overview": "A ghostly prankster torments the staff at a Scottish grocery store. A UFO flies across an airport runway in Puerto Rico. A legendary child-snatching cryptid is spotted in Bolivia."
+      },
+      {
+        "id": "tvmaze:1974901",
+        "title": "A Jellyfish in the Sky and More",
+        "season": 3,
+        "episode": 19,
+        "released": "2020-12-18",
+        "overview": "A Texas man spots a dazzling light anomaly among the stars while camping. A glowing blob of energy emerges from a streetlight in Arkansas. Paranormal investigators communicate with the dead in a notoriously haunted villa in Kansas."
+      },
+      {
+        "id": "tvmaze:1992622",
+        "title": "OMG Caught On Camera",
+        "season": 3,
+        "episode": 20,
+        "released": "2020-12-25",
+        "overview": "Two friends emerge unharmed after a car plows into a restaurant. Skydivers miraculously survive after their planes collide. A Utah man stares death in the face as he's stalked by an angry cougar. All that and more will have you screaming \"OMG!\""
+      },
+      {
+        "id": "tvmaze:1982768",
+        "title": "Banff Bigfoot and More",
+        "season": 3,
+        "episode": 21,
+        "released": "2021-01-08",
+        "overview": "An elk hunter witnesses two Bigfoots stalking their prey in Canada. A Maine man crosses paths with a terrifying shadow figure while driving down a dark road late at night. An explosive argument fuels powerful poltergeist activity in Malaysia."
+      },
+      {
+        "id": "tvmaze:1982769",
+        "title": "Cajun Skunk Ape and More",
+        "season": 3,
+        "episode": 22,
+        "released": "2021-01-15",
+        "overview": "A stinky Sasquatch stops for a visit in Louisiana. A haunted statue terrorizes guests at the infamous Clown Motel in Tonopah, Nevada. A Kentucky man and his brother witness a UFO flying near Fort Knox."
+      },
+      {
+        "id": "tvmaze:1983951",
+        "title": "Arizona Dorm Room Ghost and More",
+        "season": 3,
+        "episode": 23,
+        "released": "2021-01-22",
+        "overview": "A college student gets a ghostly roommate in Arizona. A paranormal investigator is antagonized by an ancient entity in Saudi Arabia. A Florida mother and her daughter are profoundly moved by a UFO sighting."
+      },
+      {
+        "id": "tvmaze:1993831",
+        "title": "Brazilian Werewolf and More",
+        "season": 3,
+        "episode": 24,
+        "released": "2021-01-29",
+        "overview": "A shadow figure makes itself at home in a North Carolina couple's bathroom. A werewolf stalks a man in his own backyard in Brazil. A ghostly customer trashes an adult store in Taiwan."
+      },
+      {
+        "id": "tvmaze:2024804",
+        "title": "Mermaid in Nashville and More",
+        "season": 3,
+        "episode": 25,
+        "released": "2021-02-05",
+        "overview": "A ghostly child leaves its handprint on a bathroom mirror. A sinister spirit takes control of a willing paranormal investigator. A mermaid goes for a dip in a Tennessee lake."
+      },
+      {
+        "id": "tvmaze:2024805",
+        "title": "Canadian Lake Monster and More",
+        "season": 3,
+        "episode": 26,
+        "released": "2021-02-12",
+        "overview": "A Russian man is attacked by a knife-wielding poltergeist. Fishermen come face-to-face with a legendary lake monster. A team of ghost hunters encounter the howling ghost of a young girl in a Tijuana cemetery."
+      },
+      {
+        "id": "tvmaze:2030393",
+        "title": "Kentucky Poltergeist and More",
+        "season": 4,
+        "episode": 1,
+        "released": "2021-02-26",
+        "overview": "A Kentucky woman hires an empath to rid her home of a pesky poltergeist. A terrifying creature holes up in a barn at night. A Russian cosmonaut spots a UFO over Antarctica."
+      },
+      {
+        "id": "tvmaze:2030394",
+        "title": "Haunted Goldfield and More",
+        "season": 4,
+        "episode": 2,
+        "released": "2021-03-05",
+        "overview": "A woman is attacked by ghosts at a notoriously haunted Nevada hotel. A Swedish lake monster interrupts a man's morning cup of coffee. Large triangular UFOs loom over Bolivia and New York."
+      },
+      {
+        "id": "tvmaze:2039028",
+        "title": "Rainbow Portal and More",
+        "season": 4,
+        "episode": 3,
+        "released": "2021-03-12",
+        "overview": "A colorful anomaly in the sky dazzles onlookers in Connecticut. A parade of orbs float through an abandoned Texas jail. An alienesque monolith pops up in the remote Utah wilderness."
+      },
+      {
+        "id": "tvmaze:2039030",
+        "title": "Bronx UFO and More",
+        "season": 4,
+        "episode": 4,
+        "released": "2021-03-19",
+        "overview": "UFOs fly high above a neighborhood in the Bronx. Ghost hunters encounter the spirit of a 3,000-year-old mummy in a British museum. A father and son spot the elusive Skunk Ape in Florida."
+      },
+      {
+        "id": "tvmaze:2039031",
+        "title": "Dog vs. Poltergeist and More",
+        "season": 4,
+        "episode": 5,
+        "released": "2021-03-26",
+        "overview": "A woman in Utah plays catch with a ghost. A dog senses something spooky lurking inside his owner's home. A UFO hovers above a wind farm in California."
+      },
+      {
+        "id": "tvmaze:2039032",
+        "title": "Greek Ghost and More",
+        "season": 4,
+        "episode": 6,
+        "released": "2021-04-02",
+        "overview": "UFOs attempt to communicate with a man in California. A Greek village is riddled with spirits. A toddler plays tug of war with a ghost hogging the TV remote."
+      },
+      {
+        "id": "tvmaze:2039034",
+        "title": "Bio UFO and More",
+        "season": 4,
+        "episode": 7,
+        "released": "2021-04-09",
+        "overview": "A shadow figure lurks in the halls of an abandoned asylum. UFO enthusiasts get the sighting of a lifetime in Southern California. A guardian angel saves a man from a horrific accident."
+      },
+      {
+        "id": "tvmaze:2039035",
+        "title": "Long Island Ghosts and More",
+        "season": 4,
+        "episode": 8,
+        "released": "2021-04-16",
+        "overview": "A man leaves his childhood ghosts behind in New York. A woman conjures a stunning encounter with a UFO in Philadelphia. A mysterious entity roams the streets of Turkey at night."
+      },
+      {
+        "id": "tvmaze:2039036",
+        "title": "Utah Apparition and More",
+        "season": 4,
+        "episode": 9,
+        "released": "2021-04-23",
+        "overview": "A Utah couple is visited by the ghost of a murder victim. A team of paranormal investigators have a chilling encounter at an abandoned house in Florida. A man uses chimes to communicate with the dead in Mexico."
+      },
+      {
+        "id": "tvmaze:2039038",
+        "title": "Minnesota UFOs and More",
+        "season": 4,
+        "episode": 10,
+        "released": "2021-04-30",
+        "overview": "A woman in Tennessee is terrified to discover she is not alone while working from home. A ghoulish creature creeps up behind a group of friends in Indonesia. A Minnesota man seeks answers about a UFO sighting near his house."
+      },
+      {
+        "id": "tvmaze:2085405",
+        "title": "Skinwalker Stalker and More",
+        "season": 4,
+        "episode": 11,
+        "released": "2021-05-07",
+        "overview": "A cowboy narrowly avoids a brush with a scheming skinwalker. Multiple UFOs loom large over San Diego. A family in Malaysia is petrified when an unknown creature slithers out of a toilet."
+      },
+      {
+        "id": "tvmaze:2086595",
+        "title": "Georgia Ghost and More",
+        "season": 4,
+        "episode": 12,
+        "released": "2021-05-14",
+        "overview": "A man in New Mexico leaves his car in an attempt to track Bigfoot. A Georgia mom believes her triplets are speaking to a supernatural entity. A prayer altar in Singapore is visited by a bright orb."
+      },
+      {
+        "id": "tvmaze:2095811",
+        "title": "Shadow Figure 911 and More",
+        "season": 4,
+        "episode": 13,
+        "released": "2021-05-21",
+        "overview": "A shadow person lurks in a 911 call center outside Savannah, Georgia. Fairies frolic in a Northern Ireland garden. A walking baby doll baffles residents in Saltillo, Mexico."
+      },
+      {
+        "id": "tvmaze:2165969",
+        "title": "Haunted Pinata and More",
+        "season": 4,
+        "episode": 14,
+        "released": "2021-09-09",
+        "overview": "A shop owner in Mexico loses customers to a haunted piñata. A man in Russia is driven out of an abandoned house by an angry poltergeist. And could a woman in California be an actual UFO magnet?"
+      },
+      {
+        "id": "tvmaze:2165970",
+        "title": "Demon Looms Over a Baby in Las Vegas and More",
+        "season": 4,
+        "episode": 15,
+        "released": "2021-09-16",
+        "overview": "A grandmother catches a demon on a baby monitor. A man records stunning footage of glistening rainbow UFO in California. Mind-bending phenomena around the globe reveal a glitch in the matrix."
+      },
+      {
+        "id": "tvmaze:2165971",
+        "title": "Montana Nightcrawler and More",
+        "season": 4,
+        "episode": 16,
+        "released": "2021-09-23",
+        "overview": "A man in Montana wonders what happened to a dead deer on his property -- until he sees the terrifying creature that may be responsible. A centuries-old hacienda is haunted by a shadow figure. A military airbase in Germany is visited by a UFO."
+      },
+      {
+        "id": "tvmaze:2165972",
+        "title": "A Spirit Wanders Through Kentucky and More",
+        "season": 4,
+        "episode": 17,
+        "released": "2021-09-30",
+        "overview": "A security guard catches a spirit wandering around a Kentucky whiskey distillery. Paranormal investigators are met with bone-chilling laughter as they hunt for a witch in the dark. A man comes dangerously close to a skunk ape in the Mississippi backwoods."
+      },
+      {
+        "id": "tvmaze:2165973",
+        "title": "West Virginia Slenderman and More",
+        "season": 4,
+        "episode": 18,
+        "released": "2021-10-07",
+        "overview": "A Missouri couple's new home is plagued by a ghost. A mysterious creature crosses a busy motorway in Great Britain. The notorious Slenderman visits a woman in West Virginia."
+      },
+      {
+        "id": "tvmaze:2165974",
+        "title": "Witch on a Broomstick Soars Over Chile and More",
+        "season": 4,
+        "episode": 19,
+        "released": "2021-10-14",
+        "overview": "Two apparitions crash a livestream from a centuries-old English graveyard. A witch soars through the sky above a mountain in Chile. A mischievous black cat casts a fiery spell in Egypt."
+      },
+      {
+        "id": "tvmaze:2165975",
+        "title": "Death Valley UFO and More",
+        "season": 4,
+        "episode": 20,
+        "released": "2021-10-21",
+        "overview": "Two friends are chased out of California's Death Valley by a UFO. A ghostly hand reaches out to a woman in Wales. A webcam in the Scottish Highlands captures incredible evidence of the Loch Ness Monster."
+      },
+      {
+        "id": "tvmaze:2189403",
+        "title": "Moose Walks on Water in Alaska and More",
+        "season": 4,
+        "episode": 21,
+        "released": "2021-10-28",
+        "overview": "A shadowy apparition wanders through a Titanic exhibit in Tennessee. A creature that is half monkey and half witch scurries up a quiet neighborhood street in Costa Rica. A spectral moose stuns a woman in Alaska as it runs across the surface of a river."
+      },
+      {
+        "id": "tvmaze:2189404",
+        "title": "Florida Dinosaur and More",
+        "season": 4,
+        "episode": 22,
+        "released": "2021-11-04",
+        "overview": "A ghostly figure watches urban explorers from the shadows in England. A velociraptor skitters across a yard in Florida. A fleet of low-flying UFOs make contact with two men in Ohio."
+      },
+      {
+        "id": "tvmaze:2189405",
+        "title": "An Angel Appears in Michigan and More",
+        "season": 4,
+        "episode": 23,
+        "released": "2021-11-11",
+        "overview": "A horrifying humanoid visits an abandoned amusement park in Indonesia. Mysterious floating lights emanate from a forest in California. An angel hovers over a firefighter's truck in Michigan."
+      },
+      {
+        "id": "tvmaze:2189406",
+        "title": "East River Dog Rescue and More",
+        "season": 4,
+        "episode": 24,
+        "released": "2021-11-18",
+        "overview": "A skydiver is knocked unconscious 10,000 feet in the air above Texas. A man dives into New York's East River to save a drowning dog. A kayaker is attacked by an alligator in North Carolina. Police officers rush to save a woman trapped in a sinking van."
+      },
+      {
+        "id": "tvmaze:2211439",
+        "title": "Rabid Bobcat Attack in North Carolina and More",
+        "season": 4,
+        "episode": 25,
+        "released": "2021-11-25",
+        "overview": "A North Carolina man fights off a rabid bobcat in his front yard. An experienced caver finds himself trapped in rising waters. A hang glider holds on for dear life hundreds of feet above Switzerland. Two dogs are rescued from a frigid reservoir."
+      },
+      {
+        "id": "tvmaze:2223036",
+        "title": "Mississippi Car Explosion and More",
+        "season": 4,
+        "episode": 26,
+        "released": "2021-12-02",
+        "overview": "A truck driver rushes headlong into danger when a car bursts into flames on the road in Mississippi. A Florida man wrestles an alligator to save his puppy. Parents all over the world dive into action to save their children from certain death."
+      },
+      {
+        "id": "tvmaze:2305708",
+        "title": "Black-Eyed Child Apparition in Reno and More",
+        "season": 5,
+        "episode": 1,
+        "released": "2022-03-31",
+        "overview": "A toddler in Nevada dances with a sinister child-like apparition. A Minnesota family catches Bigfoot in their backyard. A tree in the Philippines spouts holy water from a mysterious source."
+      },
+      {
+        "id": "tvmaze:2305709",
+        "title": "Philadelphia UFOs and More",
+        "season": 5,
+        "episode": 2,
+        "released": "2022-04-07",
+        "overview": "A Colorado man is tormented by a voodoo curse. Baffling bright lights in the sky stun onlookers in Philadelphia. In Mexico, a child's favorite play area is invaded by the notorious duende."
+      },
+      {
+        "id": "tvmaze:2305710",
+        "title": "GoPro Captures Bigfoot in Ontario and More",
+        "season": 5,
+        "episode": 3,
+        "released": "2022-04-14",
+        "overview": "A couple catches a glimpse of Bigfoot thanks to a GoPro camera on their bumper. A shadow figure stalks investigators in an abandoned farmhouse in Tennessee. A man in Canada captures what could be the cries of a cryptid giving birth."
+      },
+      {
+        "id": "tvmaze:2305711",
+        "title": "Haunted Texas Hotel and More",
+        "season": 5,
+        "episode": 4,
+        "released": "2022-04-21",
+        "overview": "A dog leads her owner to a terrifying apparition in England. A Texas family lives in historic hotel with ghostly guests. A hiker stumbles across a cryptid's lair deep in the Canadian woods."
+      },
+      {
+        "id": "tvmaze:2305712",
+        "title": "Alabama Glitch in the Matrix and More",
+        "season": 5,
+        "episode": 5,
+        "released": "2022-04-28",
+        "overview": "A UFO shoots across the sky in the Poconos mountains. Bigfoot hides from a crowd in Tennessee's Great Smoky Mountains. A suspended soap bubble may be evidence of a glitch in the matrix."
+      },
+      {
+        "id": "tvmaze:2307797",
+        "title": "Mysterious Mountainside Lights in North Carolina and More",
+        "season": 5,
+        "episode": 6,
+        "released": "2022-05-05",
+        "overview": "Mysterious orbs light up a mountainside in North Carolina. A man in Sweden communicates with a graveyard ghost. A humanoid creature perches atop a roof in Brazil."
+      },
+      {
+        "id": "tvmaze:2307798",
+        "title": "Haunted Connecticut Thrift Store and More",
+        "season": 5,
+        "episode": 7,
+        "released": "2022-05-12",
+        "overview": "A ghost surprises shoppers at a thrift store in Connecticut. A grotesque creature corners a man in an abandoned farmhouse in England. UFOs join in on New Year's Eve festivities in cities all over the world."
+      },
+      {
+        "id": "tvmaze:2327992",
+        "title": "Shadow Figure in a New Jersey Backyard and More",
+        "season": 5,
+        "episode": 8,
+        "released": "2022-05-19",
+        "overview": "A rake stalks a pack of deer in a Minnesota suburb. Phantom gunshots haunt the site of a horrific tragedy in North Carolina. An eerie shadow figure pops in and out of existence."
+      },
+      {
+        "id": "tvmaze:2327993",
+        "title": "Virginia Civil War Ghost and More",
+        "season": 5,
+        "episode": 9,
+        "released": "2022-05-26",
+        "overview": "A researcher finds the remains of a legendary dragon deep in the Mediterranean Sea. A beloved factory worker clocks into her shift years after her death in Japan. A Civil War spirit strolls along a battlefield."
+      },
+      {
+        "id": "tvmaze:2327994",
+        "title": "Will-o-Wisps at an Arizona Campground and More",
+        "season": 5,
+        "episode": 10,
+        "released": "2022-06-02",
+        "overview": "A team of researchers capture compelling evidence of the Yowie in Australia. An ethereal mist engulfs a roomful of ghost hunters in England. A camper is surrounded by glowing orbs deep in the Arizona forest."
+      },
+      {
+        "id": "tvmaze:2327995",
+        "title": "Gnome Visits a Phoenix Garden and More",
+        "season": 5,
+        "episode": 11,
+        "released": "2022-06-09",
+        "overview": "A real-life gnome frolics in an Arizona garden. A coffin opens by itself in an English hostel. Leaked footage shows a UFO hovering near a bomb testing site in Nevada."
+      },
+      {
+        "id": "tvmaze:2327996",
+        "title": "The Great Gatsby Ghost and More",
+        "season": 5,
+        "episode": 12,
+        "released": "2022-06-16",
+        "overview": "A grieving woman uses her TV to communicate with her deceased boyfriend. Tentacled creatures swim through the skies above Colorado. A heartbroken ghost gazes forlornly from the window of an abandoned home."
+      },
+      {
+        "id": "tvmaze:2339566",
+        "title": "The Haunted Hill House in Texas and More",
+        "season": 5,
+        "episode": 13,
+        "released": "2022-06-23",
+        "overview": "A spirit box session at an abandoned murder mansion goes awry. UFOs gather in a geometric formation in New Hampshire. A poltergeist plays the accordion in Russia."
+      },
+      {
+        "id": "tvmaze:2380895",
+        "title": "Light Beings Hover Over Colorado and More",
+        "season": 5,
+        "episode": 14,
+        "released": "2022-09-11",
+        "overview": "A ghost toys with a dog in Arizona. A disembodied hand haunts an abandoned Mexican prison. Night vision binoculars capture spectacular footage of UFOs hiding in plain sight."
+      },
+      {
+        "id": "tvmaze:2396343",
+        "title": "Haunted Tennessee Crypt and More",
+        "season": 5,
+        "episode": 15,
+        "released": "2022-09-18",
+        "overview": "A ghostly white figure lurks above a child's crib in England. A terrifying jinn grows more powerful as a man attempts to capture proof of its existence in Saudi Arabia. Spirits try to trap a paranormal investigator inside an empty tomb."
+      },
+      {
+        "id": "tvmaze:2396344",
+        "title": "Grim Reaper in Massachusetts and More",
+        "season": 5,
+        "episode": 16,
+        "released": "2022-09-25",
+        "overview": "A psychic medium can't shake an unfriendly spirit in Texas. Ghost hunters in Thailand taunt the dead. A Massachusetts mom gets too close for comfort to the Grim Reaper."
+      },
+      {
+        "id": "tvmaze:2396345",
+        "title": "Utah Sasquatch and More",
+        "season": 5,
+        "episode": 17,
+        "released": "2022-10-02",
+        "overview": "Spirits take their seats in a haunted auditorium in Pakistan. A father and son on a hunting trip catch sight of a Sasquatch. A ghostly figure mysteriously fades away as it walks toward a morgue in Peru."
+      },
+      {
+        "id": "tvmaze:2396346",
+        "title": "Santa Fe UFO and More",
+        "season": 5,
+        "episode": 18,
+        "released": "2022-10-09",
+        "overview": "A man leaving work is startled by a gigantic UFO. A convenience store in Malaysia is visited by the dangerous and voluptuous Hantu Tetek. An abandoned temple in Ohio is haunted by a horde of shadow people."
+      },
+      {
+        "id": "tvmaze:2396347",
+        "title": "Ghostly Figure Haunts an Indiana Museum and More",
+        "season": 5,
+        "episode": 19,
+        "released": "2022-10-16",
+        "overview": "A drumming session in New York is interrupted by a chilling apparition. A ghostly guest visits an Indiana museum after hours. A giant portal opens in the sky above Oregon."
+      },
+      {
+        "id": "tvmaze:2396348",
+        "title": "Colorado Gugwe and More",
+        "season": 5,
+        "episode": 20,
+        "released": "2022-10-23",
+        "overview": "A UFO crashes a family gathering in Louisiana. In the ruins of Chernobyl, a mutated being terrifies hikers camping out for the night. A woman encounters Bigfoot's angrier, more canine-like cousin."
+      },
+      {
+        "id": "tvmaze:2423362",
+        "title": "Shadow Figure Haunts Man in Colorado and More",
+        "season": 5,
+        "episode": 21,
+        "released": "2022-10-30",
+        "overview": "A shadow figure torments a cursed man in Colorado. Dark spirits attack paranormal investigators at an Italian castle. A terrifying creature lurks in a backyard in England."
+      },
+      {
+        "id": "tvmaze:2423363",
+        "title": "Haunted Florida Bed and Breakfast and More",
+        "season": 5,
+        "episode": 22,
+        "released": "2022-11-06",
+        "overview": "A cruise ship captain spots UFOs off the coast of the Bahamas. A friendly spirit puts on a show for paranormal investigators at a haunted bed and breakfast. A shadow figure stalks a woman through a Transylvania forest."
+      },
+      {
+        "id": "tvmaze:2423365",
+        "title": "Couple Spots UFO Over Military Base in California and More",
+        "season": 5,
+        "episode": 23,
+        "released": "2022-11-13",
+        "overview": "A shadow figure sneaks around an abandoned Seattle restaurant. A roadside apparition chases after two motorcyclists in India. A California couple is baffled by a mysterious immobile object in the sky."
+      },
+      {
+        "id": "tvmaze:2423367",
+        "title": "Virginia UFO and More",
+        "season": 5,
+        "episode": 24,
+        "released": "2022-11-20",
+        "overview": "An Ohio man is horrified when his wife's doll collection comes to life. A UFO looms over a couple's house in Virginia. A toddler's ghostly playmate torments a family in Texas."
+      },
+      {
+        "id": "tvmaze:2423368",
+        "title": "The Unexplained Crossett Lights In Arkansas and More",
+        "season": 5,
+        "episode": 25,
+        "released": "2022-11-27",
+        "overview": "A ghost hunter is tormented by spirits at an abandoned rec center in Florida. A bizarre humanoid creature soars over Scotland. The unexplained Crossett lights mesmerize two friends on a remote dirt road in Arkansas."
+      },
+      {
+        "id": "tvmaze:2423369",
+        "title": "Tennessee Sasquatch and More",
+        "season": 5,
+        "episode": 26,
+        "released": "2022-12-04",
+        "overview": "Hundreds of twinkling UFOs crash Thanksgiving in Pennsylvania. A man in Wales has been living with a poltergeist for more than a decade. Sasquatch emerges from the woods in Tennessee."
+      },
+      {
+        "id": "tvmaze:2567255",
+        "title": "Glitch in Reality, Long Island Bigfoot and More",
+        "season": 6,
+        "episode": 1,
+        "released": "2023-07-09",
+        "overview": "Glitches in the matrix stun spectators in Paris, LA and Argentina. A spirit attempts to halt construction on a family's home in the Philippines. A Bigfoot enthusiast captures something shocking in Long Island."
+      },
+      {
+        "id": "tvmaze:2573444",
+        "title": "Ghost Photobombs Kids and More",
+        "season": 6,
+        "episode": 2,
+        "released": "2023-07-16",
+        "overview": "A mother's blood runs cold when a ghostly child photobombs a family picture in England. A shape-shifting alien sends a family running for cover in Mexico. A social media influencer finds a monster under her bed."
+      },
+      {
+        "id": "tvmaze:2573445",
+        "title": "Haunted Doll Bites Child and More",
+        "season": 6,
+        "episode": 3,
+        "released": "2023-07-23",
+        "overview": "A possessed doll latches onto a little girl in Canada. Extraterrestrial visitors stun a rugby team in Lebanon. Siblings cross paths with a terrifying headless apparition in India."
+      },
+      {
+        "id": "tvmaze:2573446",
+        "title": "Shadow Figure Intruder and More",
+        "season": 6,
+        "episode": 4,
+        "released": "2023-07-30",
+        "overview": "A shadow figure latches onto a first responder in Tennessee. A ghostly chef cooks up trouble at a Connecticut restaurant. A drone enthusiast in Alabama is shocked when he sees a parade of UFOs streaming across the sky."
+      },
+      {
+        "id": "tvmaze:2604348",
+        "title": "Tormented Souls Trapped in Italy and More",
+        "season": 6,
+        "episode": 5,
+        "released": "2023-08-06",
+        "overview": "A school in the Philippines houses spirits from an adjacent cemetery. Shadow figures and phantom flames lurk within an abandoned brick factory in Italy. A group of friends witness a massive UFO taking off in Argentina."
+      },
+      {
+        "id": "tvmaze:2604349",
+        "title": "Mischievous Duende in Argentina and More",
+        "season": 6,
+        "episode": 6,
+        "released": "2023-08-13",
+        "overview": "Paranormal investigators capture a shadow figure in a haunted Nevada prison. A hidebehind in Oregon gives a girl and her grandma a serious fright. A tiny elfin creature makes a toddler uneasy in Argentina."
+      },
+      {
+        "id": "tvmaze:2604350",
+        "title": "Ghost Girl in Chicago Bar and More",
+        "season": 6,
+        "episode": 7,
+        "released": "2023-08-20",
+        "overview": "A dark entity shows itself to investigators inside one of America's most haunted homes. The ghost of a young girl materializes in an Illinois bar. A father and son in California film a UFO that appears to be alive."
+      },
+      {
+        "id": "tvmaze:2604351",
+        "title": "Inside the Screaming House and More",
+        "season": 6,
+        "episode": 8,
+        "released": "2023-08-27",
+        "overview": "UK investigators are confronted by a dark presence in an abandoned home. Is Bigfoot stalking two brothers in Rochester, NY? A smoke break in San Juan turns into a double UFO sighting."
+      },
+      {
+        "id": "tvmaze:2624278",
+        "title": "Green Creature in Aruba Cave and More",
+        "season": 6,
+        "episode": 9,
+        "released": "2023-09-03",
+        "overview": "A party store in Mexico is plagued by a malicious entity. A treasure hunt is interrupted by Bigfoot in New Mexico. A mysterious green creature lurks inside a cave in Aruba."
+      },
+      {
+        "id": "tvmaze:2624279",
+        "title": "The Departed DJ and More",
+        "season": 6,
+        "episode": 10,
+        "released": "2023-09-10",
+        "overview": "A creature that tormented an Australian man's childhood is back for more. A DJ in North Carolina is still spinning sets from beyond the grave. A UFO in Islamabad remains immobile for hours."
+      },
+      {
+        "id": "tvmaze:2624280",
+        "title": "Little Girl vs. Ghost and More",
+        "season": 6,
+        "episode": 11,
+        "released": "2023-09-17",
+        "overview": "In Michigan, a toddler plays a spirited game of tug of war -- with a ghost. A paranormal enthusiast in England captures a shadow figure lurking at the foot of his bed. A massive lake monster surfaces in China."
+      },
+      {
+        "id": "tvmaze:2624281",
+        "title": "The Darkness Over Houston and More",
+        "season": 6,
+        "episode": 12,
+        "released": "2023-09-24",
+        "overview": "An unknown entity continues to torment a New Jersey family. A strange specter spies on a paranormal investigator at an abandoned train station in Sweden. A woman captures a mysterious dark mass hovering in the skies above Houston."
+      },
+      {
+        "id": "tvmaze:2647939",
+        "title": "Mysterious Lights in Moab and More",
+        "season": 6,
+        "episode": 13,
+        "released": "2023-10-01",
+        "overview": "A Bigfoot enthusiast captures evidence of the legendary cryptid's elusive cousin -- the Ohio Grassman. Mysterious glowing orbs manifest in the Utah desert. A haunted doll torments a family in Canada."
+      },
+      {
+        "id": "tvmaze:2826360",
+        "title": "Demonic Doll Attack in West Virginia and More",
+        "season": 7,
+        "episode": 1,
+        "released": "2024-04-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2832283",
+        "title": "Bigfoot Spotted in the Rocky Mountains and More",
+        "season": 7,
+        "episode": 2,
+        "released": "2024-04-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2841383",
+        "title": "Wendigo in Kentucky and More",
+        "season": 7,
+        "episode": 3,
+        "released": "2024-05-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2845672",
+        "title": "Skinwalker in Arizona and More",
+        "season": 7,
+        "episode": 4,
+        "released": "2024-05-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2852763",
+        "title": "Dogman Stalks Zoo Animals in Amarillo and More",
+        "season": 7,
+        "episode": 5,
+        "released": "2024-05-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2881028",
+        "title": "Poltergeist Stalks Family in Houston and More",
+        "season": 7,
+        "episode": 6,
+        "released": "2024-05-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2880062",
+        "title": "Mermaid off the Coast of Nantucket and More",
+        "season": 7,
+        "episode": 7,
+        "released": "2024-06-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2899895",
+        "title": "Resurrected Woman in Ecuador and More",
+        "season": 7,
+        "episode": 8,
+        "released": "2024-06-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2989219",
+        "title": "Grim Reaper in the Irish Forest and More",
+        "season": 8,
+        "episode": 1,
+        "released": "2024-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2991787",
+        "title": "Dog's Spirit in California and More",
+        "season": 8,
+        "episode": 2,
+        "released": "2024-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2991788",
+        "title": "Gold Rush Ghost House in Nevada and More",
+        "season": 8,
+        "episode": 3,
+        "released": "2024-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2991789",
+        "title": "Volcano Portal in Mexico and More",
+        "season": 8,
+        "episode": 4,
+        "released": "2024-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3013012",
+        "title": "Ghosts in a Cabinet in Pennsylvania and More",
+        "season": 8,
+        "episode": 5,
+        "released": "2024-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3013013",
+        "title": "Lighthouse for Lost Souls in England and More",
+        "season": 8,
+        "episode": 6,
+        "released": "2024-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3013014",
+        "title": "Goblin Road Crossing in Mexico and More",
+        "season": 8,
+        "episode": 7,
+        "released": "2024-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3013015",
+        "title": "Feline Phantom in Minnesota and More",
+        "season": 8,
+        "episode": 8,
+        "released": "2024-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3277138",
+        "title": "Highway Hovercrafts in Texas and More",
+        "season": 9,
+        "episode": 1,
+        "released": "2025-06-15",
+        "overview": "Mysterious hovering lights haunt a couple along the highway; an explorer investigates Minnesota's most haunted cemetery; a disembodied voice gives a young boy the shock of his life."
+      },
+      {
+        "id": "tvmaze:3277139",
+        "title": "Singing Ghost in Arkansas and More",
+        "season": 9,
+        "episode": 2,
+        "released": "2025-06-22",
+        "overview": "A family visiting a museum in England spots something terrifying; a cryptid sighting stuns two business partners in New Jersey; a notoriously haunted hotel in Arkansas lives up to its reputation."
+      },
+      {
+        "id": "tvmaze:3290386",
+        "title": "The Phantom Hand of Leicester and More",
+        "season": 9,
+        "episode": 3,
+        "released": "2025-06-29",
+        "overview": "A man in England is startled by a spiritual manifestation in his home. A childlike specter crashes a dinner party in Colombia. A Canadian couple spots fire-like UFOS hovering above a river."
+      },
+      {
+        "id": "tvmaze:3295221",
+        "title": "Mysterious Titanic Exhibit Flood and More",
+        "season": 9,
+        "episode": 4,
+        "released": "2025-07-06",
+        "overview": "An unexplainable flood occurs at a museum's Titanic Exhibit in Illinois. Two hikers on Vancouver Island come across a possible Bigfoot on the trail. Plane passengers witness something shocking in the sky."
+      },
+      {
+        "id": "tvmaze:3293703",
+        "title": "Robert the Doll and More",
+        "season": 9,
+        "episode": 5,
+        "released": "2025-07-13",
+        "overview": "The world's most haunted doll shows off its magic. A family in Oklahoma has a ghostly new roommate. A mysterious pulsing cylinder is seen floating above the sea in Chile. A misty cryptid is caught on a security cam in the woods of Wisconsin"
+      },
+      {
+        "id": "tvmaze:3298860",
+        "title": "Summoning a Demon in Canada and More",
+        "season": 9,
+        "episode": 6,
+        "released": "2025-07-20",
+        "overview": "In Canada, a ghost hunter regrets summoning a demon in an abandoned house. In North Carolina, a beloved deceased dog visits its owner from the afterlife. A mysterious shapeshifting cryptid runs across a field in Argentina."
+      },
+      {
+        "id": "tvmaze:3307079",
+        "title": "A Christmas Spirit and More",
+        "season": 9,
+        "episode": 7,
+        "released": "2025-07-27",
+        "overview": "A holiday elf perched in a family home attracts the spirit of a little boy. A man in Canada is called out by name by a phantom voice. Did a Montana man catch something on his thermal camera from another world?"
+      },
+      {
+        "id": "tvmaze:3313327",
+        "title": "Bigfoot in Great Britain and More!",
+        "season": 9,
+        "episode": 8,
+        "released": "2025-08-03",
+        "overview": "A bushcraft expert in England encounters a bigfoot-like creature; a walk down Route 66 in Arizona turns terrifying; three men in Argentina discover something receding into a coffin; mysterious orbs try to communicate with a woman in New Jersey."
+      },
+      {
+        "id": "tvmaze:3392615",
+        "title": "The Haunted Pub of Doncaster and More",
+        "season": 10,
+        "episode": 1,
+        "released": "2025-10-19",
+        "overview": "Dearly departed patrons frequent a UK pub; a pregnant woman is stalked by a shapeshifting creature in the Philippines; a Louisiana man witnesses ghostly children playing on a school bus."
+      },
+      {
+        "id": "tvmaze:3399902",
+        "title": "A Spirited Infirmary in Indiana and More",
+        "season": 10,
+        "episode": 2,
+        "released": "2025-10-26",
+        "overview": "Two investigators feel unwelcomed by spirits at an abandoned Indiana infirmary; a high-flying cryptid gives a warning in Chicago; a woman in Mexico is shocked to see her painting come to life."
+      },
+      {
+        "id": "tvmaze:3407162",
+        "title": "New Jersey Drone Investigation and More",
+        "season": 10,
+        "episode": 3,
+        "released": "2025-11-02",
+        "overview": "An investigator seeks answers to numerous reports of UAPs in New Jersey; two hikers take refuge from a storm in a haunted hut in Scotland; a California man's canine companion calls out from the other side."
+      },
+      {
+        "id": "tvmaze:3427599",
+        "title": "Penitentiary Phantoms in Tennessee and More",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-11-09",
+        "overview": "Three investigators brave an abandoned penitentiary with a violent past in Tennessee; a piano-playing ghost entertains guests in an Upstate New York house rental; a mysterious figure looms over a coal mine in Mexico."
+      },
+      {
+        "id": "tvmaze:3436544",
+        "title": "Colorado Bigfoot Sighting and More",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-11-16",
+        "overview": "A river raft guide spots an infamous cryptid along the Colorado River; a UK man taking out his trash appears to pick up a ghostly hitchhiker; a Las Vegas couple manifests a bright light in the sky while stargazing in their backyard."
+      },
+      {
+        "id": "tvmaze:3440592",
+        "title": "Eerie Apparition in Philadelphia and More",
+        "season": 10,
+        "episode": 6,
+        "released": "2025-11-23",
+        "overview": "An otherworldly figure walks across a Pennsylvania woman's front lawn; a haunted doll gets physical with its visitors in England; animals are frozen in time around the world."
+      },
+      {
+        "id": "tvmaze:3449237",
+        "title": "The Tall Man of South Pittsburg Hospital and More",
+        "season": 10,
+        "episode": 7,
+        "released": "2025-11-30",
+        "overview": "A woman stumbles upon a towering shadow figure inside a deserted Tennessee hospital; japanese investigators encounter ghostly guests in an abandoned hotel; a man in Portugal lounging on his balcony is mesmerized by a floating metallic orb."
+      },
+      {
+        "id": "tvmaze:3454460",
+        "title": "A Phantom Hand in Brazil and More",
+        "season": 10,
+        "episode": 8,
+        "released": "2025-12-07",
+        "overview": ""
+      }
+    ]
+  }
+}

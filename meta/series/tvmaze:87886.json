@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:87886",
+    "type": "series",
+    "name": "Vantara: Sanctuary Stories",
+    "description": "Hosted by renowned wildlife biologist, conservationist, and adventurer Forrest Galante, the six-episode series will take audiences on a visually stunning journey into Vantara, the world's largest wildlife rescue and rehabilitation facility that offers lifelong care for some of the most magnificent animals on Earth. Located in Gujarat, India, Vantara is a closed-to-the-public sanctuary designed for the wellbeing of the animals who live there. It is home to over one million animals, representing over 1000 species and is operated by a dedicated team of 25,000 employees. Now, for the first time ever, Galante offers an unprecedented look inside the walls of this extraordinary, not-for-profit sanctuary - a world very few have ever been allowed to enter.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/595/1489823.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/595/1489823.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3462895",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2025-12-05",
+        "overview": ""
+      }
+    ]
+  }
+}

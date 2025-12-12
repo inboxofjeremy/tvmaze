@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:18864",
+    "type": "series",
+    "name": "The Lead with Jake Tapper",
+    "description": "CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/491/1228379.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/491/1228379.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3456323",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

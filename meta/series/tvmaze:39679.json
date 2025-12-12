@@ -1,0 +1,2996 @@
+{
+  "meta": {
+    "id": "tvmaze:39679",
+    "type": "series",
+    "name": "Firing Line with Margaret Hoover",
+    "description": "Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/602/1505165.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/602/1505165.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3387774",
+        "title": "Episode 923",
+        "season": 2025,
+        "episode": 48,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1562687",
+        "title": "John Kasich",
+        "season": 2018,
+        "episode": 1,
+        "released": "2018-06-22",
+        "overview": "What does it mean to be a conservative in the age of Trump?"
+      },
+      {
+        "id": "tvmaze:1562688",
+        "title": "Gretchen Carlson",
+        "season": 2018,
+        "episode": 2,
+        "released": "2018-06-29",
+        "overview": "The #MeToo movement, the resurrection of the ERA and the changing rules for Miss America."
+      },
+      {
+        "id": "tvmaze:1562689",
+        "title": "Paul Ryan",
+        "season": 2018,
+        "episode": 3,
+        "released": "2018-07-06",
+        "overview": "\"Firing Line\" explores the federal government's poverty agenda with Speaker Ryan."
+      },
+      {
+        "id": "tvmaze:1562690",
+        "title": "Alexandria Ocasio-Cortez",
+        "season": 2018,
+        "episode": 4,
+        "released": "2018-07-13",
+        "overview": "Alexandria Ocasio-Cortez discusses her ideas and the future of democratic-socialism."
+      },
+      {
+        "id": "tvmaze:1562691",
+        "title": "Jeff Merkley",
+        "season": 2018,
+        "episode": 5,
+        "released": "2018-07-20",
+        "overview": "Progressive Senator Jeff Merkley joins this week on Firing Line."
+      },
+      {
+        "id": "tvmaze:1562692",
+        "title": "Randi Weingarten",
+        "season": 2018,
+        "episode": 6,
+        "released": "2018-07-27",
+        "overview": "The Supreme Court, teacher's unions, and improving education, with Randi Weingarten."
+      },
+      {
+        "id": "tvmaze:1562693",
+        "title": "Jordan Peterson",
+        "season": 2018,
+        "episode": 7,
+        "released": "2018-08-06",
+        "overview": "Dr. Jordan Peterson, accidental icon of the Conservative movement, joins this week."
+      },
+      {
+        "id": "tvmaze:1562694",
+        "title": "Ayaan Hirsi Ali",
+        "season": 2018,
+        "episode": 8,
+        "released": "2018-08-10",
+        "overview": "What does #metoo mean for the most vulnerable?"
+      },
+      {
+        "id": "tvmaze:1562695",
+        "title": "DeRay Mckesson",
+        "season": 2018,
+        "episode": 9,
+        "released": "2018-08-31",
+        "overview": "DeRay Mckesson joins to discuss his new book."
+      },
+      {
+        "id": "tvmaze:1562696",
+        "title": "J.D. Greear",
+        "season": 2018,
+        "episode": 10,
+        "released": "2018-09-07",
+        "overview": "Pastor J.D. Greear speaks on faith, racism, and political support for Donald Trump."
+      },
+      {
+        "id": "tvmaze:1562697",
+        "title": "Neil deGrasse Tyson",
+        "season": 2018,
+        "episode": 11,
+        "released": "2018-09-14",
+        "overview": "Dr. Neil deGrasse Tyson joins to explore the stars, science, and human conflict."
+      },
+      {
+        "id": "tvmaze:1562698",
+        "title": "Reihan Salam",
+        "season": 2018,
+        "episode": 12,
+        "released": "2018-09-21",
+        "overview": "The Executive Editor of National Review joins to discuss conservative populism."
+      },
+      {
+        "id": "tvmaze:1562699",
+        "title": "Christine Lagarde",
+        "season": 2018,
+        "episode": 13,
+        "released": "2018-09-29",
+        "overview": "Christine Lagarde of the IMF joins to discuss women and economic inclusion."
+      },
+      {
+        "id": "tvmaze:1562700",
+        "title": "Lt. Col. Oliver North",
+        "season": 2018,
+        "episode": 14,
+        "released": "2018-10-05",
+        "overview": "Lt. Col. Oliver North, President of the National Rifle Association, joins."
+      },
+      {
+        "id": "tvmaze:1562701",
+        "title": "Leonard Leo",
+        "season": 2018,
+        "episode": 15,
+        "released": "2018-10-12",
+        "overview": "Leonard Leo joins to discuss the recent Supreme Court confirmation process."
+      },
+      {
+        "id": "tvmaze:1562702",
+        "title": "Ben Sasse",
+        "season": 2018,
+        "episode": 16,
+        "released": "2018-10-19",
+        "overview": "Republican Senator Ben Sasse of Nebraska joins to discuss loneliness and the Senate."
+      },
+      {
+        "id": "tvmaze:1562703",
+        "title": "Peter Navarro",
+        "season": 2018,
+        "episode": 17,
+        "released": "2018-10-26",
+        "overview": "Peter Navarro on trade wars, tariffs, and the threat from China."
+      },
+      {
+        "id": "tvmaze:1562704",
+        "title": "Jeff Weaver",
+        "season": 2018,
+        "episode": 18,
+        "released": "2018-11-02",
+        "overview": "Jeff Weaver, Bernie Sanders' former campaign manager, discusses the midterms."
+      },
+      {
+        "id": "tvmaze:1562705",
+        "title": "Max Boot",
+        "season": 2018,
+        "episode": 19,
+        "released": "2018-11-09",
+        "overview": "Historian Max Boot discusses President Donald Trump and the conservative movement."
+      },
+      {
+        "id": "tvmaze:1563185",
+        "title": "Episode 20",
+        "season": 2018,
+        "episode": 20,
+        "released": "2018-11-16",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1563186",
+        "title": "Episode 21",
+        "season": 2018,
+        "episode": 21,
+        "released": "2018-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1563187",
+        "title": "Episode 22",
+        "season": 2018,
+        "episode": 22,
+        "released": "2018-12-07",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1568760",
+        "title": "Episode 23",
+        "season": 2018,
+        "episode": 23,
+        "released": "2018-12-14",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1568761",
+        "title": "Episode 24",
+        "season": 2018,
+        "episode": 24,
+        "released": "2018-12-21",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1568762",
+        "title": "Episode 25",
+        "season": 2018,
+        "episode": 25,
+        "released": "2018-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1580832",
+        "title": "Episode 1",
+        "season": 2019,
+        "episode": 1,
+        "released": "2019-01-04",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1580848",
+        "title": "Episode 2",
+        "season": 2019,
+        "episode": 2,
+        "released": "2019-01-11",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1580833",
+        "title": "Episode 3",
+        "season": 2019,
+        "episode": 3,
+        "released": "2019-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1580834",
+        "title": "Episode 4",
+        "season": 2019,
+        "episode": 4,
+        "released": "2019-01-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1580835",
+        "title": "Episode 5",
+        "season": 2019,
+        "episode": 5,
+        "released": "2019-02-01",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1597018",
+        "title": "Episode 6",
+        "season": 2019,
+        "episode": 6,
+        "released": "2019-02-08",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1597019",
+        "title": "Episode 7",
+        "season": 2019,
+        "episode": 7,
+        "released": "2019-02-15",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1597020",
+        "title": "Episode 8",
+        "season": 2019,
+        "episode": 8,
+        "released": "2019-02-22",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1597021",
+        "title": "Episode 9",
+        "season": 2019,
+        "episode": 9,
+        "released": "2019-03-01",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1606551",
+        "title": "Episode 10",
+        "season": 2019,
+        "episode": 10,
+        "released": "2019-03-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1606552",
+        "title": "Episode 11",
+        "season": 2019,
+        "episode": 11,
+        "released": "2019-03-15",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1619021",
+        "title": "Episode 12",
+        "season": 2019,
+        "episode": 12,
+        "released": "2019-03-22",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1619022",
+        "title": "Episode 13",
+        "season": 2019,
+        "episode": 13,
+        "released": "2019-03-29",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1619023",
+        "title": "Episode 14",
+        "season": 2019,
+        "episode": 14,
+        "released": "2019-04-05",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1619024",
+        "title": "Episode 15",
+        "season": 2019,
+        "episode": 15,
+        "released": "2019-04-12",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1619025",
+        "title": "Episode 16",
+        "season": 2019,
+        "episode": 16,
+        "released": "2019-04-19",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1619026",
+        "title": "Episode 17",
+        "season": 2019,
+        "episode": 17,
+        "released": "2019-04-26",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1619027",
+        "title": "Episode 18",
+        "season": 2019,
+        "episode": 18,
+        "released": "2019-05-03",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1619028",
+        "title": "Episode 19",
+        "season": 2019,
+        "episode": 19,
+        "released": "2019-05-10",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1619029",
+        "title": "Episode 20",
+        "season": 2019,
+        "episode": 20,
+        "released": "2019-05-17",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1645347",
+        "title": "Episode 21",
+        "season": 2019,
+        "episode": 21,
+        "released": "2019-05-24",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1646038",
+        "title": "Episode 22",
+        "season": 2019,
+        "episode": 22,
+        "released": "2019-05-31",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1660403",
+        "title": "Episode 23",
+        "season": 2019,
+        "episode": 23,
+        "released": "2019-06-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1660404",
+        "title": "Episode 24",
+        "season": 2019,
+        "episode": 24,
+        "released": "2019-06-14",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1660405",
+        "title": "Episode 25",
+        "season": 2019,
+        "episode": 25,
+        "released": "2019-06-21",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1660660",
+        "title": "Episode 26",
+        "season": 2019,
+        "episode": 26,
+        "released": "2019-06-28",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1662949",
+        "title": "Episode 27",
+        "season": 2019,
+        "episode": 27,
+        "released": "2019-07-05",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1666109",
+        "title": "Episode 28",
+        "season": 2019,
+        "episode": 28,
+        "released": "2019-07-12",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1670981",
+        "title": "Episode 29",
+        "season": 2019,
+        "episode": 29,
+        "released": "2019-07-19",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1673431",
+        "title": "Episode 30",
+        "season": 2019,
+        "episode": 30,
+        "released": "2019-07-26",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1676336",
+        "title": "Episode 31",
+        "season": 2019,
+        "episode": 31,
+        "released": "2019-08-02",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1678151",
+        "title": "Episode 32",
+        "season": 2019,
+        "episode": 32,
+        "released": "2019-08-09",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1683155",
+        "title": "Episode 33",
+        "season": 2019,
+        "episode": 33,
+        "released": "2019-08-16",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1686796",
+        "title": "Episode 34",
+        "season": 2019,
+        "episode": 34,
+        "released": "2019-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1688615",
+        "title": "Episode 35",
+        "season": 2019,
+        "episode": 35,
+        "released": "2019-08-30",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1693958",
+        "title": "Episode 36",
+        "season": 2019,
+        "episode": 36,
+        "released": "2019-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1693959",
+        "title": "Episode 37",
+        "season": 2019,
+        "episode": 37,
+        "released": "2019-09-13",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1701042",
+        "title": "Episode 38",
+        "season": 2019,
+        "episode": 38,
+        "released": "2019-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1702502",
+        "title": "Episode 39",
+        "season": 2019,
+        "episode": 39,
+        "released": "2019-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1707495",
+        "title": "Episode 40",
+        "season": 2019,
+        "episode": 40,
+        "released": "2019-10-04",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1726681",
+        "title": "Episode 41",
+        "season": 2019,
+        "episode": 41,
+        "released": "2019-10-11",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1726682",
+        "title": "Episode 42",
+        "season": 2019,
+        "episode": 42,
+        "released": "2019-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1726683",
+        "title": "Episode 43",
+        "season": 2019,
+        "episode": 43,
+        "released": "2019-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1726684",
+        "title": "Episode 44",
+        "season": 2019,
+        "episode": 44,
+        "released": "2019-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1746649",
+        "title": "Episode 45",
+        "season": 2019,
+        "episode": 45,
+        "released": "2019-11-08",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1746650",
+        "title": "Episode 46",
+        "season": 2019,
+        "episode": 46,
+        "released": "2019-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1746651",
+        "title": "Episode 47",
+        "season": 2019,
+        "episode": 47,
+        "released": "2019-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1746652",
+        "title": "Episode 48",
+        "season": 2019,
+        "episode": 48,
+        "released": "2019-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1762063",
+        "title": "Episode 49",
+        "season": 2019,
+        "episode": 49,
+        "released": "2019-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1762064",
+        "title": "Episode 50",
+        "season": 2019,
+        "episode": 50,
+        "released": "2019-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1762065",
+        "title": "Episode 51",
+        "season": 2019,
+        "episode": 51,
+        "released": "2019-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1807921",
+        "title": "Episode 1",
+        "season": 2020,
+        "episode": 1,
+        "released": "2020-03-06",
+        "overview": "Former US Ambassador to the United Nations Nikki Haley joins Firing Line."
+      },
+      {
+        "id": "tvmaze:1807922",
+        "title": "Episode 2",
+        "season": 2020,
+        "episode": 2,
+        "released": "2020-03-13",
+        "overview": "Jeh Johnson discusses the Trump administration's handling of the coronavirus."
+      },
+      {
+        "id": "tvmaze:1807923",
+        "title": "Episode 3",
+        "season": 2020,
+        "episode": 3,
+        "released": "2020-03-20",
+        "overview": "Ken Starr discusses his investigation that led to the impeachment of President Clinton."
+      },
+      {
+        "id": "tvmaze:1807924",
+        "title": "Episode 4",
+        "season": 2020,
+        "episode": 4,
+        "released": "2020-03-27",
+        "overview": "Former CDC Director Dr. Tom Frieden discusses the coronavirus and measures to fight it."
+      },
+      {
+        "id": "tvmaze:1816921",
+        "title": "Episode 5",
+        "season": 2020,
+        "episode": 5,
+        "released": "2020-04-03",
+        "overview": "CT Gov. Ned Lamont discusses his efforts to fight COVID-19."
+      },
+      {
+        "id": "tvmaze:1816922",
+        "title": "Episode 6",
+        "season": 2020,
+        "episode": 6,
+        "released": "2020-04-10",
+        "overview": "Former FDA Commissioner Dr. Scott Gottlieb discusses what is next for the coronavirus."
+      },
+      {
+        "id": "tvmaze:1816924",
+        "title": "Episode 7",
+        "season": 2020,
+        "episode": 7,
+        "released": "2020-04-17",
+        "overview": "Mark Cuban discusses advising Trump as a member of his new group on reopening the U.S."
+      },
+      {
+        "id": "tvmaze:1821080",
+        "title": "Episode 8",
+        "season": 2020,
+        "episode": 8,
+        "released": "2020-04-24",
+        "overview": "Florida Senator Marco Rubio discusses the push among some states to reopen."
+      },
+      {
+        "id": "tvmaze:1825180",
+        "title": "Episode 9",
+        "season": 2020,
+        "episode": 9,
+        "released": "2020-05-01",
+        "overview": "Former NYC Mayor Rudy Giuliani discusses the impact of COVID-19 on the hardest-hit state."
+      },
+      {
+        "id": "tvmaze:1837803",
+        "title": "Sheryl Sandberg & David Miliband",
+        "season": 2020,
+        "episode": 10,
+        "released": "2020-05-08",
+        "overview": "Sheryl Sandberg &amp; David Miliband discuss how COVID-19 will affect women &amp; girls worldwide."
+      },
+      {
+        "id": "tvmaze:1837804",
+        "title": "Susan Rice",
+        "season": 2020,
+        "episode": 11,
+        "released": "2020-05-15",
+        "overview": "Susan Rice calls President Trump's handling of the COVID-19 pandemic abysmal."
+      },
+      {
+        "id": "tvmaze:1842189",
+        "title": "Sean Penn",
+        "season": 2020,
+        "episode": 12,
+        "released": "2020-05-22",
+        "overview": "Sean Penn discusses his efforts to expand virus testing access with his non-profit, CORE."
+      },
+      {
+        "id": "tvmaze:1848142",
+        "title": "Episode 13",
+        "season": 2020,
+        "episode": 13,
+        "released": "2020-05-29",
+        "overview": "Cornel West and Robert George discuss the importance of civil discourse in this era."
+      },
+      {
+        "id": "tvmaze:1861169",
+        "title": "Episode 14",
+        "season": 2020,
+        "episode": 14,
+        "released": "2020-06-05",
+        "overview": "Sheryl Sandberg &amp; David Miliband discuss how COVID-19 will affect women &amp; girls worldwide."
+      },
+      {
+        "id": "tvmaze:1861170",
+        "title": "Episode 15",
+        "season": 2020,
+        "episode": 15,
+        "released": "2020-06-12",
+        "overview": "Bakari Sellers discusses the death of George Floyd and if this moment can lead to change."
+      },
+      {
+        "id": "tvmaze:1865609",
+        "title": "Episode 16",
+        "season": 2020,
+        "episode": 16,
+        "released": "2020-06-19",
+        "overview": "Stacey Abrams discusses the fight for racial justice and her views on police reform."
+      },
+      {
+        "id": "tvmaze:1874484",
+        "title": "Episode 17",
+        "season": 2020,
+        "episode": 17,
+        "released": "2020-06-26",
+        "overview": "Margaret Hoover interviews several female Republican rising stars in Congress."
+      },
+      {
+        "id": "tvmaze:1874485",
+        "title": "Episode 18",
+        "season": 2020,
+        "episode": 18,
+        "released": "2020-06-30",
+        "overview": "Meet conservative women running for a first term in Congress."
+      },
+      {
+        "id": "tvmaze:1874486",
+        "title": "Episode 19",
+        "season": 2020,
+        "episode": 19,
+        "released": "2020-07-03",
+        "overview": "Sean Penn discusses his efforts to expand virus testing access with his non-profit, CORE."
+      },
+      {
+        "id": "tvmaze:1879000",
+        "title": "Episode 20",
+        "season": 2020,
+        "episode": 20,
+        "released": "2020-07-10",
+        "overview": "Former National Security Advisor John Bolton says Donald Trump is unfit for a second term."
+      },
+      {
+        "id": "tvmaze:1883055",
+        "title": "Episode 21",
+        "season": 2020,
+        "episode": 21,
+        "released": "2020-07-17",
+        "overview": "Mayor Keisha Lance Bottoms discusses Georgia's surge in COVID-19 cases."
+      },
+      {
+        "id": "tvmaze:1888404",
+        "title": "Episode 22",
+        "season": 2020,
+        "episode": 22,
+        "released": "2020-07-24",
+        "overview": "Gov. Mike DeWine discusses why COVID-19 cases are surging in his state of Ohio."
+      },
+      {
+        "id": "tvmaze:1893331",
+        "title": "Episode 23",
+        "season": 2020,
+        "episode": 23,
+        "released": "2020-07-31",
+        "overview": "Melinda Gates discusses the race to develop vaccines and COVID-19's toll on women."
+      },
+      {
+        "id": "tvmaze:1896864",
+        "title": "Episode 24",
+        "season": 2020,
+        "episode": 24,
+        "released": "2020-08-07",
+        "overview": "Larry Kudlow discusses COVID-19's impact on the economy, jobs and businesses."
+      },
+      {
+        "id": "tvmaze:1899770",
+        "title": "Episode 25",
+        "season": 2020,
+        "episode": 25,
+        "released": "2020-08-14",
+        "overview": "Stuart Stevens discusses his opposition to President Trump and the current GOP."
+      },
+      {
+        "id": "tvmaze:1911983",
+        "title": "Episode 26",
+        "season": 2020,
+        "episode": 26,
+        "released": "2020-08-21",
+        "overview": "Michigan Governor Gretchen Whitmer discusses Michigan's key role in the 2020 election."
+      },
+      {
+        "id": "tvmaze:1911984",
+        "title": "Episode 27",
+        "season": 2020,
+        "episode": 27,
+        "released": "2020-08-28",
+        "overview": "Rich Lowry discusses his latest book in which he makes the case for nationalism."
+      },
+      {
+        "id": "tvmaze:1911985",
+        "title": "Episode 28",
+        "season": 2020,
+        "episode": 28,
+        "released": "2020-09-04",
+        "overview": "Meet conservative women running for a first term in Congress."
+      },
+      {
+        "id": "tvmaze:1911986",
+        "title": "Episode 29",
+        "season": 2020,
+        "episode": 29,
+        "released": "2020-09-11",
+        "overview": "Bernie Sanders discusses supporting Biden's presidential bid despite policy differences."
+      },
+      {
+        "id": "tvmaze:1914476",
+        "title": "Episode 30",
+        "season": 2020,
+        "episode": 30,
+        "released": "2020-09-18",
+        "overview": "Sarah Huckabee Sanders discusses her new book and her time in the Trump administration."
+      },
+      {
+        "id": "tvmaze:1917833",
+        "title": "Episode 31",
+        "season": 2020,
+        "episode": 31,
+        "released": "2020-09-25",
+        "overview": "Val Demings discusses the SCOTUS vacancy, police reform, &amp; Florida's role in the election."
+      },
+      {
+        "id": "tvmaze:1925050",
+        "title": "Episode 32",
+        "season": 2020,
+        "episode": 32,
+        "released": "2020-10-02",
+        "overview": "Sheldon Whitehouse (D-RI) discusses the battle over the Supreme Court."
+      },
+      {
+        "id": "tvmaze:1925051",
+        "title": "Episode 33",
+        "season": 2020,
+        "episode": 33,
+        "released": "2020-10-09",
+        "overview": "Tammy Duckworth discusses the VP debate and the COVID-19 outbreak in the White House."
+      },
+      {
+        "id": "tvmaze:1928205",
+        "title": "Episode 34",
+        "season": 2020,
+        "episode": 34,
+        "released": "2020-10-16",
+        "overview": "Anthony Fauci discusses the latest science on COVID-19 and the race to develop a vaccine."
+      },
+      {
+        "id": "tvmaze:1931436",
+        "title": "Episode 35",
+        "season": 2020,
+        "episode": 35,
+        "released": "2020-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1938121",
+        "title": "Episode 36",
+        "season": 2020,
+        "episode": 36,
+        "released": "2020-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1943082",
+        "title": "Episode 37",
+        "season": 2020,
+        "episode": 37,
+        "released": "2020-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1946644",
+        "title": "Episode 38",
+        "season": 2020,
+        "episode": 38,
+        "released": "2020-11-13",
+        "overview": "Join Hoover for a public affairs talk show that delivers a civil and engaging contest of ideas."
+      },
+      {
+        "id": "tvmaze:1953752",
+        "title": "Episode 39",
+        "season": 2020,
+        "episode": 39,
+        "released": "2020-11-20",
+        "overview": "CEO Albert Bourla discusses Pfizer's eight-month race to develop a COVID-19 vaccine."
+      },
+      {
+        "id": "tvmaze:1956237",
+        "title": "Episode 40",
+        "season": 2020,
+        "episode": 40,
+        "released": "2020-11-27",
+        "overview": "Dr. Cornel West and Dr. Robert George discuss the need for civil discourse."
+      },
+      {
+        "id": "tvmaze:1965246",
+        "title": "Episode 41",
+        "season": 2020,
+        "episode": 41,
+        "released": "2020-12-11",
+        "overview": "Legendary sportscaster Bob Costas breaks down the intersection of sports and COVID-19."
+      },
+      {
+        "id": "tvmaze:1970243",
+        "title": "Episode 42",
+        "season": 2020,
+        "episode": 42,
+        "released": "2020-12-04",
+        "overview": "Philanthropist Melinda Gates discusses COVID-19's toll on women."
+      },
+      {
+        "id": "tvmaze:1970244",
+        "title": "Episode 43",
+        "season": 2020,
+        "episode": 43,
+        "released": "2020-12-18",
+        "overview": "Neil Gorsuch discusses his judicial philosophy and the breakdown of civility in America."
+      },
+      {
+        "id": "tvmaze:1972910",
+        "title": "Episode 44",
+        "season": 2020,
+        "episode": 44,
+        "released": "2020-12-25",
+        "overview": "Activist, attorney and author Bakari Sellers discusses the Black Lives Matter movement."
+      },
+      {
+        "id": "tvmaze:1980209",
+        "title": "Episode 1",
+        "season": 2021,
+        "episode": 1,
+        "released": "2021-01-08",
+        "overview": "Republican Congressman Mike Gallagher discusses the storming of the U.S. Capitol."
+      },
+      {
+        "id": "tvmaze:1985795",
+        "title": "Episode 2",
+        "season": 2021,
+        "episode": 2,
+        "released": "2021-01-15",
+        "overview": "Joe Manchin discusses the Capitol attack and the second impeachment of President Trump."
+      },
+      {
+        "id": "tvmaze:1988274",
+        "title": "Episode 3",
+        "season": 2021,
+        "episode": 3,
+        "released": "2021-01-22",
+        "overview": "Historians Mary Frances Berry and Douglas Brinkley discuss the inauguration of Joe Biden."
+      },
+      {
+        "id": "tvmaze:1988275",
+        "title": "Episode 4",
+        "season": 2021,
+        "episode": 4,
+        "released": "2021-01-29",
+        "overview": "Sen. Tim Kaine (D-VA) discusses former President Trump's looming impeachment trial."
+      },
+      {
+        "id": "tvmaze:2004019",
+        "title": "Episode 5",
+        "season": 2021,
+        "episode": 5,
+        "released": "2021-02-05",
+        "overview": "Charles Blow discusses his plan for a reverse migration to the South for Black Americans."
+      },
+      {
+        "id": "tvmaze:2004020",
+        "title": "Episode 6",
+        "season": 2021,
+        "episode": 6,
+        "released": "2021-02-12",
+        "overview": "Jaime Herrera Beutler, who voted to impeach Pres. Trump, discusses the impeachment trial."
+      },
+      {
+        "id": "tvmaze:2009066",
+        "title": "Episode 7",
+        "season": 2021,
+        "episode": 7,
+        "released": "2021-02-19",
+        "overview": "Dr. Michael Osterholm says new COVID-19 strains will likely cause cases to surge in March."
+      },
+      {
+        "id": "tvmaze:2014791",
+        "title": "Episode 8",
+        "season": 2021,
+        "episode": 8,
+        "released": "2021-02-26",
+        "overview": "Justice Neil Gorsuch discusses his judicial philosophy."
+      },
+      {
+        "id": "tvmaze:2030795",
+        "title": "Episode 9",
+        "season": 2021,
+        "episode": 9,
+        "released": "2021-03-04",
+        "overview": "Charles Blow discusses his plan for a reverse migration to the South for Black Americans."
+      },
+      {
+        "id": "tvmaze:2030796",
+        "title": "Episode 10",
+        "season": 2021,
+        "episode": 10,
+        "released": "2021-03-12",
+        "overview": "Bari Weiss discusses the rise of anti-Semitism across the political spectrum."
+      },
+      {
+        "id": "tvmaze:2030797",
+        "title": "Episode 11",
+        "season": 2021,
+        "episode": 11,
+        "released": "2021-03-19",
+        "overview": "Jennifer Granholm explains how Biden's administration plans to achieve clean energy goals."
+      },
+      {
+        "id": "tvmaze:2030798",
+        "title": "Episode 12",
+        "season": 2021,
+        "episode": 12,
+        "released": "2021-03-26",
+        "overview": "Yo-Yo Ma performs &amp; discusses his belief that music can comfort people &amp; connect cultures."
+      },
+      {
+        "id": "tvmaze:2038932",
+        "title": "Episode 13",
+        "season": 2021,
+        "episode": 13,
+        "released": "2021-04-02",
+        "overview": "Anne Applebaum and David Frum discuss the future of the GOP."
+      },
+      {
+        "id": "tvmaze:2045746",
+        "title": "Episode 14",
+        "season": 2021,
+        "episode": 14,
+        "released": "2021-04-09",
+        "overview": "Robert Reich and Maya MacGuineas discuss America's staggering national debt."
+      },
+      {
+        "id": "tvmaze:2045747",
+        "title": "Episode 15",
+        "season": 2021,
+        "episode": 15,
+        "released": "2021-04-16",
+        "overview": "Sen. Kirsten Gillibrand (D-NY) discusses working across the aisle to protect veterans."
+      },
+      {
+        "id": "tvmaze:2065034",
+        "title": "Episode 16",
+        "season": 2021,
+        "episode": 16,
+        "released": "2021-04-23",
+        "overview": "Rep. Adam Kinzinger (R-IL) discusses what it means to be a Republican post-Trump."
+      },
+      {
+        "id": "tvmaze:2065035",
+        "title": "Episode 17",
+        "season": 2021,
+        "episode": 17,
+        "released": "2021-04-30",
+        "overview": "Sen. Mazie Hirono discusses her recent bipartisan bill addressing anti-Asian hate crimes."
+      },
+      {
+        "id": "tvmaze:2065036",
+        "title": "Episode 18",
+        "season": 2021,
+        "episode": 18,
+        "released": "2021-05-07",
+        "overview": "Senator Amy Klobuchar discusses the explosive growth of big tech and corporate mergers."
+      },
+      {
+        "id": "tvmaze:2065037",
+        "title": "Episode 19",
+        "season": 2021,
+        "episode": 19,
+        "released": "2021-05-14",
+        "overview": "Garry Kasparov warns about the rising tide of authoritarianism worldwide."
+      },
+      {
+        "id": "tvmaze:2065038",
+        "title": "Episode 20",
+        "season": 2021,
+        "episode": 20,
+        "released": "2021-05-21",
+        "overview": "Irshad Manji discusses how she thinks diversity should be defined and taught."
+      },
+      {
+        "id": "tvmaze:2065039",
+        "title": "Episode 21",
+        "season": 2021,
+        "episode": 21,
+        "released": "2021-05-28",
+        "overview": "Yo-Yo Ma performs &amp; discusses his belief that music can comfort people &amp; connect cultures."
+      },
+      {
+        "id": "tvmaze:2098834",
+        "title": "Episode 22",
+        "season": 2021,
+        "episode": 22,
+        "released": "2021-06-04",
+        "overview": "Robert Reich and Maya MacGuineas discuss America's staggering national debt."
+      },
+      {
+        "id": "tvmaze:2108569",
+        "title": "Episode 23",
+        "season": 2021,
+        "episode": 23,
+        "released": "2021-06-12",
+        "overview": "Lawrence Summers discusses his concerns about a post-Covid economy leading to inflation."
+      },
+      {
+        "id": "tvmaze:2108570",
+        "title": "Episode 24",
+        "season": 2021,
+        "episode": 24,
+        "released": "2021-06-18",
+        "overview": "CNN anchor Don Lemon discusses his new book on racism in America's past and present."
+      },
+      {
+        "id": "tvmaze:2112795",
+        "title": "Episode 25",
+        "season": 2021,
+        "episode": 25,
+        "released": "2021-06-25",
+        "overview": "Admiral William McRaven discusses the imminent withdrawal of U.S. troops from Afghanistan."
+      },
+      {
+        "id": "tvmaze:2122304",
+        "title": "Episode 26",
+        "season": 2021,
+        "episode": 26,
+        "released": "2021-07-02",
+        "overview": "Four-star Admiral William McRaven shares stories of heroism from his service to America."
+      },
+      {
+        "id": "tvmaze:2122305",
+        "title": "Episode 27",
+        "season": 2021,
+        "episode": 27,
+        "released": "2021-07-09",
+        "overview": "NASA Administrator Bill Nelson discusses America's mission to return to the moon."
+      },
+      {
+        "id": "tvmaze:2125746",
+        "title": "Episode 28",
+        "season": 2021,
+        "episode": 28,
+        "released": "2021-07-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2129097",
+        "title": "Episode 29",
+        "season": 2021,
+        "episode": 29,
+        "released": "2021-07-23",
+        "overview": "Rep. Mario Diaz-Balart, R-FL, discusses the ongoing oppression on in Cuba."
+      },
+      {
+        "id": "tvmaze:2129098",
+        "title": "Episode 30",
+        "season": 2021,
+        "episode": 30,
+        "released": "2021-07-30",
+        "overview": "Dr. Celine Gounder and Dr. Ashish Jha discuss the dangers of the Delta variant."
+      },
+      {
+        "id": "tvmaze:2129099",
+        "title": "Episode 31",
+        "season": 2021,
+        "episode": 31,
+        "released": "2021-08-06",
+        "overview": "Elissa Slotkin discusses the investigation into the attack on the Capitol &amp; voting rights."
+      },
+      {
+        "id": "tvmaze:2129100",
+        "title": "Episode 32",
+        "season": 2021,
+        "episode": 32,
+        "released": "2021-08-13",
+        "overview": "Senator Amy Klobuchar discusses the explosive growth of big tech and corporate mergers."
+      },
+      {
+        "id": "tvmaze:2129101",
+        "title": "Episode 33",
+        "season": 2021,
+        "episode": 33,
+        "released": "2021-08-20",
+        "overview": "Columbia University linguist John McWhorter explains the origins of critical race theory."
+      },
+      {
+        "id": "tvmaze:2129102",
+        "title": "Episode 34",
+        "season": 2021,
+        "episode": 34,
+        "released": "2021-08-27",
+        "overview": "McMaster responds to the attack in Kabul; Petraeus discusses withdrawal from Afghanistan."
+      },
+      {
+        "id": "tvmaze:2154557",
+        "title": "Episode 35",
+        "season": 2021,
+        "episode": 35,
+        "released": "2021-09-07",
+        "overview": "NASA Administrator Bill Nelson discusses America's mission to return to the moon."
+      },
+      {
+        "id": "tvmaze:2159989",
+        "title": "Episode 36",
+        "season": 2021,
+        "episode": 36,
+        "released": "2021-09-10",
+        "overview": "Rep. Peter Meijer, R-MI, discusses the U.S. exit from Afghanistan."
+      },
+      {
+        "id": "tvmaze:2164205",
+        "title": "Episode 37",
+        "season": 2021,
+        "episode": 37,
+        "released": "2021-09-17",
+        "overview": "George Will discusses the conservative movement and what's next for Trumpism."
+      },
+      {
+        "id": "tvmaze:2170964",
+        "title": "Episode 38",
+        "season": 2021,
+        "episode": 38,
+        "released": "2021-09-24",
+        "overview": "Economist Mohamed A. El-Erian outlines his concern that inflation will persist."
+      },
+      {
+        "id": "tvmaze:2177254",
+        "title": "Episode 39",
+        "season": 2021,
+        "episode": 39,
+        "released": "2021-10-01",
+        "overview": "Billionaire Frank McCourt discusses his venture to create social media alternatives."
+      },
+      {
+        "id": "tvmaze:2184423",
+        "title": "Episode 40",
+        "season": 2021,
+        "episode": 40,
+        "released": "2021-10-08",
+        "overview": "Firing Line interviews three dissidents: Hatice Cengiz, Jewher Ilham, and Leopoldo Lopez."
+      },
+      {
+        "id": "tvmaze:2184424",
+        "title": "Episode 41",
+        "season": 2021,
+        "episode": 41,
+        "released": "2021-10-15",
+        "overview": "John Lithgow discusses his new collection of poems and his take on contemporary politics."
+      },
+      {
+        "id": "tvmaze:2184425",
+        "title": "Episode 42",
+        "season": 2021,
+        "episode": 42,
+        "released": "2021-10-22",
+        "overview": "Russia expert Dr. Fiona Hill discusses the rise of populism in the U.S."
+      },
+      {
+        "id": "tvmaze:2184426",
+        "title": "Episode 43",
+        "season": 2021,
+        "episode": 43,
+        "released": "2021-10-29",
+        "overview": "Sen. Bob Menendez, D-NJ, discusses his immigration reform plan."
+      },
+      {
+        "id": "tvmaze:2202256",
+        "title": "Episode 44",
+        "season": 2021,
+        "episode": 44,
+        "released": "2021-11-05",
+        "overview": "Andrew Sullivan discusses the need for open debate with different perspectives."
+      },
+      {
+        "id": "tvmaze:2202257",
+        "title": "Episode 45",
+        "season": 2021,
+        "episode": 45,
+        "released": "2021-11-12",
+        "overview": "Artist and activist Ai Weiwei discusses resisting authoritarianism in China and beyond."
+      },
+      {
+        "id": "tvmaze:2202258",
+        "title": "Episode 46",
+        "season": 2021,
+        "episode": 46,
+        "released": "2021-11-19",
+        "overview": "Senator Tim Scott discusses growing up in poverty in South Carolina."
+      },
+      {
+        "id": "tvmaze:2202259",
+        "title": "Episode 47",
+        "season": 2021,
+        "episode": 47,
+        "released": "2021-11-26",
+        "overview": "Dr. Cornel West and Dr. Robert George discuss the need for civil discourse."
+      },
+      {
+        "id": "tvmaze:2219978",
+        "title": "Episode 48",
+        "season": 2021,
+        "episode": 48,
+        "released": "2021-12-03",
+        "overview": "Firing Line interviews three dissidents: Hatice Cengiz, Jewher Ilham, and Leopoldo Lopez."
+      },
+      {
+        "id": "tvmaze:2227769",
+        "title": "Episode 49",
+        "season": 2021,
+        "episode": 49,
+        "released": "2021-12-10",
+        "overview": "Republican Chris Christie says the GOP needs to renounce conspiracy theories."
+      },
+      {
+        "id": "tvmaze:2232274",
+        "title": "Episode 50",
+        "season": 2021,
+        "episode": 50,
+        "released": "2021-12-17",
+        "overview": "Dana Canedy discusses her book A Journal for Jordan that is now a major movie."
+      },
+      {
+        "id": "tvmaze:2237057",
+        "title": "Episode 51",
+        "season": 2021,
+        "episode": 51,
+        "released": "2021-12-24",
+        "overview": "John Lithgow discusses his new collection of poems and his take on contemporary politics."
+      },
+      {
+        "id": "tvmaze:2240867",
+        "title": "Episode 52",
+        "season": 2021,
+        "episode": 52,
+        "released": "2021-12-31",
+        "overview": "Artist and activist Ai Weiwei discusses resisting authoritarianism in China and beyond."
+      },
+      {
+        "id": "tvmaze:2248052",
+        "title": "Episode 1",
+        "season": 2022,
+        "episode": 1,
+        "released": "2022-01-07",
+        "overview": "Adam Kinzinger discusses the Jan. 6 attack as the nation marks the one-year anniversary."
+      },
+      {
+        "id": "tvmaze:2247752",
+        "title": "Episode 2",
+        "season": 2022,
+        "episode": 2,
+        "released": "2022-01-14",
+        "overview": "Author and anchor Fareed Zakaria discusses the lessons of Covid-19."
+      },
+      {
+        "id": "tvmaze:2254487",
+        "title": "Episode 3",
+        "season": 2022,
+        "episode": 3,
+        "released": "2022-01-21",
+        "overview": "Indra Nooyi discusses her rise up America's corporate ladder after emigrating from India."
+      },
+      {
+        "id": "tvmaze:2259563",
+        "title": "Eva Moskowitz",
+        "season": 2022,
+        "episode": 4,
+        "released": "2022-01-28",
+        "overview": "Success Academy CEO Eva Moskowitz makes the case for school choice."
+      },
+      {
+        "id": "tvmaze:2265214",
+        "title": "Lonnie Bunch",
+        "season": 2022,
+        "episode": 5,
+        "released": "2022-02-04",
+        "overview": "Lonnie Bunch discusses the importance of studying a complete history."
+      },
+      {
+        "id": "tvmaze:2269212",
+        "title": "Enes Kanter Freedom",
+        "season": 2022,
+        "episode": 6,
+        "released": "2022-02-11",
+        "overview": "NBA player Enes Kanter Freedom discusses the genocide of the Uyghurs."
+      },
+      {
+        "id": "tvmaze:2272563",
+        "title": "Michael McFaul",
+        "season": 2022,
+        "episode": 7,
+        "released": "2022-02-18",
+        "overview": "Michael McFaul discusses the rising tensions as Russian troops surround Ukraine."
+      },
+      {
+        "id": "tvmaze:2275785",
+        "title": "Episode 8",
+        "season": 2022,
+        "episode": 8,
+        "released": "2022-02-25",
+        "overview": "Dana Canedy discusses her book \"A Journal for Jordan\" that is now a major movie."
+      },
+      {
+        "id": "tvmaze:2282609",
+        "title": "Episode 9",
+        "season": 2022,
+        "episode": 9,
+        "released": "2022-03-04",
+        "overview": "Andrew Sullivan discusses how woke culture backlash is impacting electoral politics."
+      },
+      {
+        "id": "tvmaze:2286290",
+        "title": "Episode 10",
+        "season": 2022,
+        "episode": 10,
+        "released": "2022-03-11",
+        "overview": "Former U.S. Ambassador to Ukraine William Taylor discusses Russia's invasion of Ukraine."
+      },
+      {
+        "id": "tvmaze:2291147",
+        "title": "Episode 11",
+        "season": 2022,
+        "episode": 11,
+        "released": "2022-03-18",
+        "overview": "Author Margaret Atwood discusses her dystopian classic, \"The Handmaid's Tale\"."
+      },
+      {
+        "id": "tvmaze:2295812",
+        "title": "Episode 539",
+        "season": 2022,
+        "episode": 12,
+        "released": "2022-03-25",
+        "overview": "Lynsey Addario discusses shooting an image that exposed Putin's war crimes in Ukraine."
+      },
+      {
+        "id": "tvmaze:2299051",
+        "title": "Episode 13",
+        "season": 2022,
+        "episode": 13,
+        "released": "2022-04-01",
+        "overview": "Rhiannon Giddens discusses her mission to reclaim the true history of the banjo."
+      },
+      {
+        "id": "tvmaze:2303808",
+        "title": "Episode 541",
+        "season": 2022,
+        "episode": 14,
+        "released": "2022-04-08",
+        "overview": "Chris Coons discusses the confirmation of Ketanji Brown Jackson to the Supreme Court."
+      },
+      {
+        "id": "tvmaze:2305544",
+        "title": "Episode 15",
+        "season": 2022,
+        "episode": 15,
+        "released": "2022-04-15",
+        "overview": "Matt Damon and Gary White discuss their goal to end the global water crisis."
+      },
+      {
+        "id": "tvmaze:2305545",
+        "title": "Episode 16",
+        "season": 2022,
+        "episode": 16,
+        "released": "2022-04-22",
+        "overview": "Marie Yovanovitch discusses Putin's new offensive and Ukrainian resolve."
+      },
+      {
+        "id": "tvmaze:2305546",
+        "title": "Episode 17",
+        "season": 2022,
+        "episode": 17,
+        "released": "2022-04-29",
+        "overview": "Legendary journalist Tina Brown discusses her new book about the royals."
+      },
+      {
+        "id": "tvmaze:2305547",
+        "title": "Episode 18",
+        "season": 2022,
+        "episode": 18,
+        "released": "2022-05-06",
+        "overview": "US Amb. to the UN Linda Thomas-Greenfield talks holding Putin accountable for war crimes."
+      },
+      {
+        "id": "tvmaze:2305548",
+        "title": "Episode 19",
+        "season": 2022,
+        "episode": 19,
+        "released": "2022-05-13",
+        "overview": "Mary Ziegler &amp; Ed Whelan discuss their views on the Supreme Court's leaked draft opinion."
+      },
+      {
+        "id": "tvmaze:2305549",
+        "title": "Episode 20",
+        "season": 2022,
+        "episode": 20,
+        "released": "2022-05-20",
+        "overview": "Fmr Google CEO Eric Schmidt discusses how artificial intelligence will change the world."
+      },
+      {
+        "id": "tvmaze:2305550",
+        "title": "Episode 21",
+        "season": 2022,
+        "episode": 21,
+        "released": "2022-05-27",
+        "overview": "\"The Handmaid's Tale\" author Margaret Atwood discusses what a post-Roe America could mean."
+      },
+      {
+        "id": "tvmaze:2305551",
+        "title": "Episode 22",
+        "season": 2022,
+        "episode": 22,
+        "released": "2022-06-03",
+        "overview": "Renowned journalist Tina Brown predicts what is next for the British monarchy."
+      },
+      {
+        "id": "tvmaze:2332879",
+        "title": "Episode 23",
+        "season": 2022,
+        "episode": 23,
+        "released": "2022-06-10",
+        "overview": "Rhiannon Giddens discusses her mission to reclaim the true history of the banjo."
+      },
+      {
+        "id": "tvmaze:2332880",
+        "title": "Episode 24",
+        "season": 2022,
+        "episode": 24,
+        "released": "2022-06-17",
+        "overview": "Sen. Raphael Warnock (D-GA) discusses the economy, Jan. 6, and other key midterm issues."
+      },
+      {
+        "id": "tvmaze:2332881",
+        "title": "Episode 25",
+        "season": 2022,
+        "episode": 25,
+        "released": "2022-06-24",
+        "overview": "Ben Ginsberg discusses speaking out against Trump at the January 6 hearings."
+      },
+      {
+        "id": "tvmaze:2350303",
+        "title": "Episode 26",
+        "season": 2022,
+        "episode": 26,
+        "released": "2022-07-01",
+        "overview": "Christine Todd Whitman calls the Supreme Court overturning Roe v. Wade judicial activism."
+      },
+      {
+        "id": "tvmaze:2353775",
+        "title": "Episode 27",
+        "season": 2022,
+        "episode": 27,
+        "released": "2022-07-08",
+        "overview": "James Kirchick discusses his bestseller Secret City: The Hidden History of Gay Washington."
+      },
+      {
+        "id": "tvmaze:2356974",
+        "title": "Episode 28",
+        "season": 2022,
+        "episode": 28,
+        "released": "2022-07-15",
+        "overview": "Senator Chris Murphy discusses his first success to stop America's gun violence epidemic."
+      },
+      {
+        "id": "tvmaze:2359889",
+        "title": "Episode 29",
+        "season": 2022,
+        "episode": 29,
+        "released": "2022-07-22",
+        "overview": "Adam Grant examines the value of rethinking deeply-held beliefs in an ever-changing world."
+      },
+      {
+        "id": "tvmaze:2363408",
+        "title": "Episode 30",
+        "season": 2022,
+        "episode": 30,
+        "released": "2022-07-29",
+        "overview": "Senator Mike Lee (R-UT) discusses his support for Donald Trump leading up to January 6."
+      },
+      {
+        "id": "tvmaze:2366461",
+        "title": "Episode 31",
+        "season": 2022,
+        "episode": 31,
+        "released": "2022-08-05",
+        "overview": "Matt Damon and Gary White discuss their goal to end the global water crisis."
+      },
+      {
+        "id": "tvmaze:2369024",
+        "title": "Episode 32",
+        "season": 2022,
+        "episode": 32,
+        "released": "2022-08-12",
+        "overview": "Christine Todd Whitman calls the Supreme Court overturning Roe v. Wade judicial activism."
+      },
+      {
+        "id": "tvmaze:2371972",
+        "title": "Episode 33",
+        "season": 2022,
+        "episode": 33,
+        "released": "2022-08-19",
+        "overview": "Adam Grant examines the value of rethinking deeply-held beliefs in an ever-changing world."
+      },
+      {
+        "id": "tvmaze:2374106",
+        "title": "Episode 34",
+        "season": 2022,
+        "episode": 34,
+        "released": "2022-08-26",
+        "overview": "James Kirchick discusses his bestseller Secret City: The Hidden History of Gay Washington."
+      },
+      {
+        "id": "tvmaze:2374107",
+        "title": "Episode 35",
+        "season": 2022,
+        "episode": 35,
+        "released": "2022-09-02",
+        "overview": "Legendary singer-songwriter Kenny Loggins discusses writing enduring hits for films."
+      },
+      {
+        "id": "tvmaze:2374108",
+        "title": "Episode 36",
+        "season": 2022,
+        "episode": 36,
+        "released": "2022-09-09",
+        "overview": "Marine veteran and author Elliot Ackerman reflects on the war's strategic failures."
+      },
+      {
+        "id": "tvmaze:2374109",
+        "title": "Episode 37",
+        "season": 2022,
+        "episode": 37,
+        "released": "2022-09-16",
+        "overview": "Ken Burns &amp; Sarah Botstein discuss their documentary series,\"The U.S. and the Holocaust.\""
+      },
+      {
+        "id": "tvmaze:2374110",
+        "title": "Episode 38",
+        "season": 2022,
+        "episode": 38,
+        "released": "2022-09-23",
+        "overview": "Iván Duque Márquez warns against the rise of left-wing populism in Colombia."
+      },
+      {
+        "id": "tvmaze:2374111",
+        "title": "Episode 39",
+        "season": 2022,
+        "episode": 39,
+        "released": "2022-09-30",
+        "overview": "Ukrainian Amb. to the U.S. Oksana Markarova discusses Russia's nuclear threats."
+      },
+      {
+        "id": "tvmaze:2374112",
+        "title": "Episode 40",
+        "season": 2022,
+        "episode": 40,
+        "released": "2022-10-07",
+        "overview": "Rep. Cori Bush (D-Mo.) discusses surviving sexual assault as she is out with a memoir."
+      },
+      {
+        "id": "tvmaze:2374113",
+        "title": "Episode 41",
+        "season": 2022,
+        "episode": 41,
+        "released": "2022-10-14",
+        "overview": "Masih Alinejad calls the protests in Iran a revolution that will bring down the regime."
+      },
+      {
+        "id": "tvmaze:2374114",
+        "title": "Episode 42",
+        "season": 2022,
+        "episode": 42,
+        "released": "2022-10-21",
+        "overview": "Matthew Continetti discusses the evolution &amp; future of the American conservative movement."
+      },
+      {
+        "id": "tvmaze:2374115",
+        "title": "Episode 43",
+        "season": 2022,
+        "episode": 43,
+        "released": "2022-10-28",
+        "overview": "Evan McMullin discusses his race against Utah's Republican Sen. Mike Lee."
+      },
+      {
+        "id": "tvmaze:2419540",
+        "title": "Episode 44",
+        "season": 2022,
+        "episode": 44,
+        "released": "2022-11-04",
+        "overview": "Maggie Haberman gives the inside account of interviewing Donald Trump for her biography."
+      },
+      {
+        "id": "tvmaze:2423998",
+        "title": "Episode 45",
+        "season": 2022,
+        "episode": 45,
+        "released": "2022-11-11",
+        "overview": "Governor Asa Hutchinson assesses the GOP's weak performance in the 2022 midterm elections."
+      },
+      {
+        "id": "tvmaze:2428302",
+        "title": "Episode 46",
+        "season": 2022,
+        "episode": 46,
+        "released": "2022-11-18",
+        "overview": "Former Attorney General William Barr denounces Trump's 2024 bid."
+      },
+      {
+        "id": "tvmaze:2431541",
+        "title": "Episode 47",
+        "season": 2022,
+        "episode": 47,
+        "released": "2022-11-25",
+        "overview": "Raphael Warnock discusses the economy, abortion and other key issues in the upcoming race."
+      },
+      {
+        "id": "tvmaze:2435592",
+        "title": "Episode 48",
+        "season": 2022,
+        "episode": 48,
+        "released": "2022-12-02",
+        "overview": "Vice President Mike Pence explains his break with President Trump over January 6."
+      },
+      {
+        "id": "tvmaze:2438745",
+        "title": "Episode 49",
+        "season": 2022,
+        "episode": 49,
+        "released": "2022-12-09",
+        "overview": "Maria Ressa discusses how the spread of false news on social media threatens democracy."
+      },
+      {
+        "id": "tvmaze:2443363",
+        "title": "Episode 50",
+        "season": 2022,
+        "episode": 50,
+        "released": "2022-12-16",
+        "overview": "Misty Copeland discusses becoming American Ballet Theatre's first Black principal dancer."
+      },
+      {
+        "id": "tvmaze:2448989",
+        "title": "Episode 51",
+        "season": 2022,
+        "episode": 51,
+        "released": "2022-12-23",
+        "overview": "Yo-Yo Ma discusses how music connects cultures and comforts people in the darkest hours."
+      },
+      {
+        "id": "tvmaze:2452391",
+        "title": "Episode 52",
+        "season": 2022,
+        "episode": 52,
+        "released": "2022-12-30",
+        "overview": "Matthew Continetti discusses the evolution &amp; future of the American conservative movement."
+      },
+      {
+        "id": "tvmaze:2454124",
+        "title": "Episode 1",
+        "season": 2023,
+        "episode": 1,
+        "released": "2023-01-06",
+        "overview": "Firing Line's conversation with Mike Pence on the anniversary of the Jan. 6 attack."
+      },
+      {
+        "id": "tvmaze:2454125",
+        "title": "Episode 2",
+        "season": 2023,
+        "episode": 2,
+        "released": "2023-01-13",
+        "overview": "Reverend Al Sharpton discusses his evolution as a civil rights leader and the challenges and controversies he has faced. He weighs in on the progress of the movement and the power of Black voters."
+      },
+      {
+        "id": "tvmaze:2454126",
+        "title": "Episode 3",
+        "season": 2023,
+        "episode": 3,
+        "released": "2023-01-20",
+        "overview": "Pulitzer Prize winning-author and presidential biographer Jon Meacham discusses how today's leaders compare to their predecessors. Meacham, who has helped craft some of Biden's key speeches, weighs in on today's GOP and whether Biden will run again."
+      },
+      {
+        "id": "tvmaze:2454127",
+        "title": "Episode 4",
+        "season": 2023,
+        "episode": 4,
+        "released": "2023-01-27",
+        "overview": "Nancy Mace discusses the challenges of being a Republican who rejects the GOP's extremes and supports bipartisan solutions on abortion, cannabis and other issues. She weighs in on the classified documents investigations and debt ceiling."
+      },
+      {
+        "id": "tvmaze:2454128",
+        "title": "Episode 5",
+        "season": 2023,
+        "episode": 5,
+        "released": "2023-02-03",
+        "overview": "Media mogul Barry Diller discusses why he thinks Hollywood and the Oscars are irrelevant, the future of streaming, why he does not believe Alec Baldwin is responsible for the \"Rust\" set shooting, and what's ahead in politics."
+      },
+      {
+        "id": "tvmaze:2454129",
+        "title": "Episode 6",
+        "season": 2023,
+        "episode": 6,
+        "released": "2023-02-10",
+        "overview": "Brown economist Glenn Loury says affirmative action and reparations will not solve inequality and defends free speech on college campuses. Loury—who at 33 became Harvard's first Black tenured economics professor—discusses how his views have evolved."
+      },
+      {
+        "id": "tvmaze:2454130",
+        "title": "Episode 7",
+        "season": 2023,
+        "episode": 7,
+        "released": "2023-02-17",
+        "overview": "Brian O'Hara—Minneapolis' first new police chief since George Floyd's death—discusses policing after the death of Tyre Nichols renewed calls for reform. He weighs in on racial disparities, qualified immunity, gun violence and elevated crime rates."
+      },
+      {
+        "id": "tvmaze:2454131",
+        "title": "Episode 8",
+        "season": 2023,
+        "episode": 8,
+        "released": "2023-02-24",
+        "overview": "Republican presidential candidate Nikki Haley—the first to challenge Trump—discusses serving as Trump's Ambassador to the UN, foreign policy threats to the US, and the future of the GOP. Haley's 2019 interview includes never-before-seen footage."
+      },
+      {
+        "id": "tvmaze:2454132",
+        "title": "Episode 9",
+        "season": 2023,
+        "episode": 9,
+        "released": "2023-03-03",
+        "overview": "Artist, activist and former political prisoner Ai Weiwei discusses resisting authoritarianism in China and beyond, whether the West can handle China's rising influence and his latest act of self-expression, his memoir."
+      },
+      {
+        "id": "tvmaze:2454133",
+        "title": "Episode 10",
+        "season": 2023,
+        "episode": 10,
+        "released": "2023-03-10",
+        "overview": "Rep. Mike Gallagher (R-WI)—chair of the Select Committee on the Chinese Communist Party—discusses how the US should respond to growing threats from the CCP. He discusses trade, the dangers of TikTok, and says the US should commit to defending Taiwan."
+      },
+      {
+        "id": "tvmaze:2454134",
+        "title": "Episode 11",
+        "season": 2023,
+        "episode": 11,
+        "released": "2023-03-17",
+        "overview": "Former Maryland Gov. Larry Hogan, the second Republican governor to be re-elected in Maryland and a vocal Trump critic, discusses why he won't challenge Trump for the GOP nomination, economic policy proposals, and the future of the GOP."
+      },
+      {
+        "id": "tvmaze:2454135",
+        "title": "Episode 12",
+        "season": 2023,
+        "episode": 12,
+        "released": "2023-03-24",
+        "overview": "Misty Copeland discusses becoming American Ballet Theatre's first Black principal dancer and the role her mentor, trailblazing Black ballerina Raven Wilkinson, played in her rise. Copeland weighs in on diversity in ballet, motherhood and her future."
+      },
+      {
+        "id": "tvmaze:2454136",
+        "title": "Episode 13",
+        "season": 2023,
+        "episode": 13,
+        "released": "2023-03-31",
+        "overview": "Supermodel and 1980s cover girl Paulina Porizkova discusses aging and ageism, harassment in modeling, her journey out of Communist Czechoslovakia, struggling with mental health, and the breakdown of her marriage to the late Cars' singer Ric Ocasek."
+      },
+      {
+        "id": "tvmaze:2508870",
+        "title": "Episode 14",
+        "season": 2023,
+        "episode": 14,
+        "released": "2023-04-07",
+        "overview": "Former federal prosecutor Andrew Weissmann talks about the 34 felony count indictment against Donald Trump, the prosecution's strengths and weaknesses and what to expect as Trump faces more criminal probes."
+      },
+      {
+        "id": "tvmaze:2513012",
+        "title": "Episode 15",
+        "season": 2023,
+        "episode": 15,
+        "released": "2023-04-14",
+        "overview": "Author and cultural critic Thomas Chatterton Williams explains why he thinks Americans need to unlearn traditional racial constructs in order to achieve equality. He also discusses the impact of culture wars and wokeness on contemporary politics."
+      },
+      {
+        "id": "tvmaze:2517821",
+        "title": "Episode 16",
+        "season": 2023,
+        "episode": 16,
+        "released": "2023-04-21",
+        "overview": "Rising Democratic star and political newcomer Gov. Wes Moore discusses overcoming tragedy to become a Rhodes Scholar, Army captain, bestselling author and Maryland's first Black governor. He details his plans for tackling poverty and crime."
+      },
+      {
+        "id": "tvmaze:2519926",
+        "title": "Episode 17",
+        "season": 2023,
+        "episode": 17,
+        "released": "2023-04-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2533045",
+        "title": "Episode 18",
+        "season": 2023,
+        "episode": 18,
+        "released": "2023-05-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2533046",
+        "title": "Episode 19",
+        "season": 2023,
+        "episode": 19,
+        "released": "2023-05-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543597",
+        "title": "Episode 20",
+        "season": 2023,
+        "episode": 20,
+        "released": "2023-05-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2543598",
+        "title": "Episode 21",
+        "season": 2023,
+        "episode": 21,
+        "released": "2023-05-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2549222",
+        "title": "Episode 22",
+        "season": 2023,
+        "episode": 22,
+        "released": "2023-06-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2555249",
+        "title": "Episode 23",
+        "season": 2023,
+        "episode": 23,
+        "released": "2023-06-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2560022",
+        "title": "Episode 24",
+        "season": 2023,
+        "episode": 24,
+        "released": "2023-06-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2565290",
+        "title": "Episode 25",
+        "season": 2023,
+        "episode": 25,
+        "released": "2023-06-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2573442",
+        "title": "Episode 26",
+        "season": 2023,
+        "episode": 26,
+        "released": "2023-06-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2573443",
+        "title": "Episode 27",
+        "season": 2023,
+        "episode": 27,
+        "released": "2023-07-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2579882",
+        "title": "Episode 28",
+        "season": 2023,
+        "episode": 28,
+        "released": "2023-07-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2586255",
+        "title": "Episode 29",
+        "season": 2023,
+        "episode": 29,
+        "released": "2023-07-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2593603",
+        "title": "Episode 30",
+        "season": 2023,
+        "episode": 30,
+        "released": "2023-07-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2599025",
+        "title": "Episode 31",
+        "season": 2023,
+        "episode": 31,
+        "released": "2023-08-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2602560",
+        "title": "Episode 32",
+        "season": 2023,
+        "episode": 32,
+        "released": "2023-08-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2610283",
+        "title": "Episode 33",
+        "season": 2023,
+        "episode": 33,
+        "released": "2023-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2616634",
+        "title": "Episode 34",
+        "season": 2023,
+        "episode": 34,
+        "released": "2023-08-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2624277",
+        "title": "Episode 35",
+        "season": 2023,
+        "episode": 35,
+        "released": "2023-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2627843",
+        "title": "Episode 36",
+        "season": 2023,
+        "episode": 36,
+        "released": "2023-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2631750",
+        "title": "Episode 37",
+        "season": 2023,
+        "episode": 37,
+        "released": "2023-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2633082",
+        "title": "Episode 38",
+        "season": 2023,
+        "episode": 38,
+        "released": "2023-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2633083",
+        "title": "Episode 39",
+        "season": 2023,
+        "episode": 39,
+        "released": "2023-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2633084",
+        "title": "Episode 40",
+        "season": 2023,
+        "episode": 40,
+        "released": "2023-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2633085",
+        "title": "Episode 41",
+        "season": 2023,
+        "episode": 41,
+        "released": "2023-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2633086",
+        "title": "Episode 42",
+        "season": 2023,
+        "episode": 42,
+        "released": "2023-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2633087",
+        "title": "Episode 43",
+        "season": 2023,
+        "episode": 43,
+        "released": "2023-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2633088",
+        "title": "Episode 44",
+        "season": 2023,
+        "episode": 44,
+        "released": "2023-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2633089",
+        "title": "Episode 45",
+        "season": 2023,
+        "episode": 45,
+        "released": "2023-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2633090",
+        "title": "Episode 46",
+        "season": 2023,
+        "episode": 46,
+        "released": "2023-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2685183",
+        "title": "Episode 47",
+        "season": 2023,
+        "episode": 47,
+        "released": "2023-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2685184",
+        "title": "Episode 48",
+        "season": 2023,
+        "episode": 48,
+        "released": "2023-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2685185",
+        "title": "Episode 49",
+        "season": 2023,
+        "episode": 49,
+        "released": "2023-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2685186",
+        "title": "Episode 50",
+        "season": 2023,
+        "episode": 50,
+        "released": "2023-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2685187",
+        "title": "Episode 51",
+        "season": 2023,
+        "episode": 51,
+        "released": "2023-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2685188",
+        "title": "Episode 52",
+        "season": 2023,
+        "episode": 52,
+        "released": "2023-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2728686",
+        "title": "Tim Alberta",
+        "season": 2024,
+        "episode": 1,
+        "released": "2024-01-05",
+        "overview": "Tim Alberta discusses his book exploring evangelical Christians' loyalty to Donald Trump."
+      },
+      {
+        "id": "tvmaze:2729412",
+        "title": "Tony Gonzales",
+        "season": 2024,
+        "episode": 2,
+        "released": "2024-01-12",
+        "overview": "Tony Gonzales discusses the influx of migrants and his policy ideas addressing the crisis."
+      },
+      {
+        "id": "tvmaze:2734308",
+        "title": "Chris Sununu",
+        "season": 2024,
+        "episode": 3,
+        "released": "2024-01-19",
+        "overview": "New Hampshire GOP Gov. Chris Sununu explains why he supports Nikki Haley for president."
+      },
+      {
+        "id": "tvmaze:2734309",
+        "title": "Deborah Lipstadt",
+        "season": 2024,
+        "episode": 4,
+        "released": "2024-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2734310",
+        "title": "David Petraeus",
+        "season": 2024,
+        "episode": 5,
+        "released": "2024-02-02",
+        "overview": "Ret. Gen. David Petraeus discusses the response to the Iran-backed militia's drone strike."
+      },
+      {
+        "id": "tvmaze:2734311",
+        "title": "Sheila Johnson",
+        "season": 2024,
+        "episode": 6,
+        "released": "2024-02-09",
+        "overview": "Entrepreneur and philanthropist Sheila Johnson discusses her memoir \"Walk Through Fire\"."
+      },
+      {
+        "id": "tvmaze:2734312",
+        "title": "Jared Cohen",
+        "season": 2024,
+        "episode": 7,
+        "released": "2024-02-16",
+        "overview": "Jared Cohen discusses \"Life After Power,\" his new book about post-presidential role."
+      },
+      {
+        "id": "tvmaze:2768238",
+        "title": "Liev Schreiber",
+        "season": 2024,
+        "episode": 8,
+        "released": "2024-02-23",
+        "overview": "Actor Liev Schreiber discusses the urgent need for humanitarian aid in Ukraine."
+      },
+      {
+        "id": "tvmaze:2781916",
+        "title": "Firing Line forum: Conservatives on Trump 2.0",
+        "season": 2024,
+        "episode": 9,
+        "released": "2024-03-15",
+        "overview": "At Hofstra University, Margaret Hoover leads a forum with two conservatives on the impact of a second Trump term. Amanda Carpenter warns of Trump's authoritarian impulses; Mike Gonzalez argues Trump would restore effective conservative policies."
+      },
+      {
+        "id": "tvmaze:2789575",
+        "title": "Firing Line forum: Examining The Electoral College",
+        "season": 2024,
+        "episode": 10,
+        "released": "2024-03-22",
+        "overview": "Margaret Hoover moderates a forum at Hofstra U. on whether the Electoral College should be"
+      },
+      {
+        "id": "tvmaze:2794884",
+        "title": "Jonathan Haidt",
+        "season": 2024,
+        "episode": 11,
+        "released": "2024-03-29",
+        "overview": "Jonathan Haidt explores how social media led to Gen Z's mental health crisis."
+      },
+      {
+        "id": "tvmaze:2802178",
+        "title": "Ari Wallach",
+        "season": 2024,
+        "episode": 12,
+        "released": "2024-04-05",
+        "overview": "Futurist and author Ari Wallach discusses his PBS series \"A Brief History of the Future.\""
+      },
+      {
+        "id": "tvmaze:2805735",
+        "title": "Coleman Hughes",
+        "season": 2024,
+        "episode": 13,
+        "released": "2024-04-12",
+        "overview": "Coleman Hughes, author of \"The End of Race Politics,\" argues for a colorblind America."
+      },
+      {
+        "id": "tvmaze:2812329",
+        "title": "Melissa Murray",
+        "season": 2024,
+        "episode": 14,
+        "released": "2024-04-19",
+        "overview": "Melissa Murray discusses Donald Trump's first criminal trial in Manhattan."
+      },
+      {
+        "id": "tvmaze:2822550",
+        "title": "Stephen Richer",
+        "season": 2024,
+        "episode": 15,
+        "released": "2024-04-26",
+        "overview": "Maricopa County Recorder Stephen Richer discusses the Arizona indictment of Trump allies."
+      },
+      {
+        "id": "tvmaze:2830386",
+        "title": "Frank Bruni",
+        "season": 2024,
+        "episode": 16,
+        "released": "2024-05-03",
+        "overview": "NYT columnist Frank Bruni discusses his book, The Age of Grievance, about the culture of victimhood"
+      },
+      {
+        "id": "tvmaze:2836797",
+        "title": "Fareed Zakaria",
+        "season": 2024,
+        "episode": 17,
+        "released": "2024-05-10",
+        "overview": "Journalist Fareed Zakaria urges Biden to change his policies on the border and on Israel."
+      },
+      {
+        "id": "tvmaze:2843581",
+        "title": "Doris Kearns Goodwin",
+        "season": 2024,
+        "episode": 18,
+        "released": "2024-05-17",
+        "overview": "Doris Kearns Goodwin discusses her new book examining the 1960s through the eyes of her late husband"
+      },
+      {
+        "id": "tvmaze:2851890",
+        "title": "George Conway",
+        "season": 2024,
+        "episode": 19,
+        "released": "2024-05-24",
+        "overview": "George Conway defends the merits of the New York hush money case against Trump as the verdict nears."
+      },
+      {
+        "id": "tvmaze:2886647",
+        "title": "Dan Senor",
+        "season": 2024,
+        "episode": 20,
+        "released": "2024-06-14",
+        "overview": "Author and podcast host Dan Senor discusses the daring rescue of four Israeli hostages in Gaza."
+      },
+      {
+        "id": "tvmaze:2899914",
+        "title": "Ritchie Torres",
+        "season": 2024,
+        "episode": 21,
+        "released": "2024-06-21",
+        "overview": "Rep. Ritchie Torres (D-NY) discusses his split with progressives and Trump's rally in his district."
+      },
+      {
+        "id": "tvmaze:2917884",
+        "title": "Edward O'Keefe",
+        "season": 2024,
+        "episode": 22,
+        "released": "2024-06-28",
+        "overview": "Edward O'Keefe discusses his book on the 26th president and the five women who shaped him."
+      },
+      {
+        "id": "tvmaze:2925524",
+        "title": "Matt Pottinger",
+        "season": 2024,
+        "episode": 23,
+        "released": "2024-07-12",
+        "overview": "Matt Pottinger says China's cold war against the U.S. is intensifying."
+      },
+      {
+        "id": "tvmaze:2934726",
+        "title": "Mike Murphy",
+        "season": 2024,
+        "episode": 24,
+        "released": "2024-07-19",
+        "overview": "GOP strategist Mike Murphy says Democrats need to replace President Biden in the 2024 election."
+      },
+      {
+        "id": "tvmaze:2939574",
+        "title": "James Carville",
+        "season": 2024,
+        "episode": 25,
+        "released": "2024-07-26",
+        "overview": "James Carville discusses how President Biden's decision to step aside has reshaped the election."
+      },
+      {
+        "id": "tvmaze:2942377",
+        "title": "Jocelyn Benson, Benjamin, David Becker",
+        "season": 2024,
+        "episode": 26,
+        "released": "2024-08-02",
+        "overview": "Jocelyn Benson, Benjamin Ginsberg and David Becker discuss the integrity of American elections."
+      },
+      {
+        "id": "tvmaze:2954007",
+        "title": "Joni Ernst",
+        "season": 2024,
+        "episode": 27,
+        "released": "2024-08-09",
+        "overview": "Sen. Joni Ernst (R-IA) shares her views on standing up to antisemitism and violence against women."
+      },
+      {
+        "id": "tvmaze:2958886",
+        "title": "Neil Gorsuch",
+        "season": 2024,
+        "episode": 29,
+        "released": "2024-08-16",
+        "overview": "Supreme Court Justice Neil Gorsuch discusses his book \"Over Ruled: The Human Toll of Too Much Law.\""
+      },
+      {
+        "id": "tvmaze:2967568",
+        "title": "Alex Padilla",
+        "season": 2024,
+        "episode": 30,
+        "released": "2024-08-23",
+        "overview": "California Senator Alex Padilla makes his case for Vice President Kamala Harris."
+      },
+      {
+        "id": "tvmaze:2983863",
+        "title": "Episode 38",
+        "season": 2024,
+        "episode": 31,
+        "released": "2024-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983864",
+        "title": "Episode 39",
+        "season": 2024,
+        "episode": 32,
+        "released": "2024-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983865",
+        "title": "Episode 40",
+        "season": 2024,
+        "episode": 33,
+        "released": "2024-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983866",
+        "title": "Episode 41",
+        "season": 2024,
+        "episode": 34,
+        "released": "2024-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983867",
+        "title": "Episode 42",
+        "season": 2024,
+        "episode": 35,
+        "released": "2024-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983868",
+        "title": "Episode 43",
+        "season": 2024,
+        "episode": 36,
+        "released": "2024-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983869",
+        "title": "Episode 44",
+        "season": 2024,
+        "episode": 37,
+        "released": "2024-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983870",
+        "title": "Episode 45",
+        "season": 2024,
+        "episode": 38,
+        "released": "2024-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983871",
+        "title": "Episode 46",
+        "season": 2024,
+        "episode": 39,
+        "released": "2024-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983872",
+        "title": "Episode 47",
+        "season": 2024,
+        "episode": 40,
+        "released": "2024-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983873",
+        "title": "Episode 48",
+        "season": 2024,
+        "episode": 41,
+        "released": "2024-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2983874",
+        "title": "Episode 49",
+        "season": 2024,
+        "episode": 42,
+        "released": "2024-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215687",
+        "title": "Episode 823",
+        "season": 2024,
+        "episode": 43,
+        "released": "2024-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215688",
+        "title": "Episode 824",
+        "season": 2024,
+        "episode": 44,
+        "released": "2024-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215689",
+        "title": "Episode 825",
+        "season": 2024,
+        "episode": 45,
+        "released": "2024-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215690",
+        "title": "Episode 826",
+        "season": 2024,
+        "episode": 46,
+        "released": "2024-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215692",
+        "title": "Episode 827",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215693",
+        "title": "Episode 828",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215694",
+        "title": "Episode 829",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215695",
+        "title": "Episode 830",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215696",
+        "title": "Episode 831",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-01-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215697",
+        "title": "Episode 832",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215698",
+        "title": "Episode 833",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-02-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215699",
+        "title": "Episode 834",
+        "season": 2025,
+        "episode": 8,
+        "released": "2025-02-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215700",
+        "title": "Episode 835",
+        "season": 2025,
+        "episode": 9,
+        "released": "2025-02-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215701",
+        "title": "Episode 836",
+        "season": 2025,
+        "episode": 10,
+        "released": "2025-03-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215702",
+        "title": "Episode 837",
+        "season": 2025,
+        "episode": 11,
+        "released": "2025-03-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215703",
+        "title": "Episode 838",
+        "season": 2025,
+        "episode": 12,
+        "released": "2025-03-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215704",
+        "title": "Episode 839",
+        "season": 2025,
+        "episode": 13,
+        "released": "2025-03-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215705",
+        "title": "Episode 840",
+        "season": 2025,
+        "episode": 14,
+        "released": "2025-04-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215706",
+        "title": "Episode 841",
+        "season": 2025,
+        "episode": 15,
+        "released": "2025-04-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215707",
+        "title": "Episode 842",
+        "season": 2025,
+        "episode": 16,
+        "released": "2025-04-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215708",
+        "title": "Episode 843",
+        "season": 2025,
+        "episode": 17,
+        "released": "2025-04-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215709",
+        "title": "Episode 844",
+        "season": 2025,
+        "episode": 18,
+        "released": "2025-05-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215710",
+        "title": "Episode 845",
+        "season": 2025,
+        "episode": 19,
+        "released": "2025-05-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215711",
+        "title": "Episode 846",
+        "season": 2025,
+        "episode": 20,
+        "released": "2025-05-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3215712",
+        "title": "Episode 847",
+        "season": 2025,
+        "episode": 21,
+        "released": "2025-05-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387748",
+        "title": "Episode 848",
+        "season": 2025,
+        "episode": 22,
+        "released": "2025-05-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387749",
+        "title": "Episode 849",
+        "season": 2025,
+        "episode": 23,
+        "released": "2025-06-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387750",
+        "title": "Episode 850",
+        "season": 2025,
+        "episode": 24,
+        "released": "2025-06-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387751",
+        "title": "Episode 851",
+        "season": 2025,
+        "episode": 25,
+        "released": "2025-06-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387752",
+        "title": "Episode 852",
+        "season": 2025,
+        "episode": 26,
+        "released": "2025-06-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387753",
+        "title": "Episode 902",
+        "season": 2025,
+        "episode": 27,
+        "released": "2025-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387754",
+        "title": "Episode 903",
+        "season": 2025,
+        "episode": 28,
+        "released": "2025-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387755",
+        "title": "Episode 904",
+        "season": 2025,
+        "episode": 29,
+        "released": "2025-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387756",
+        "title": "Episode 905",
+        "season": 2025,
+        "episode": 30,
+        "released": "2025-08-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387757",
+        "title": "Episode 906",
+        "season": 2025,
+        "episode": 31,
+        "released": "2025-08-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387758",
+        "title": "Episode 907",
+        "season": 2025,
+        "episode": 32,
+        "released": "2025-08-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387759",
+        "title": "Episode 908",
+        "season": 2025,
+        "episode": 33,
+        "released": "2025-08-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387760",
+        "title": "Episode 909",
+        "season": 2025,
+        "episode": 34,
+        "released": "2025-08-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387761",
+        "title": "Episode 910",
+        "season": 2025,
+        "episode": 35,
+        "released": "2025-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387762",
+        "title": "Episode 911",
+        "season": 2025,
+        "episode": 36,
+        "released": "2025-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387763",
+        "title": "Episode 912",
+        "season": 2025,
+        "episode": 37,
+        "released": "2025-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387764",
+        "title": "Episode 913",
+        "season": 2025,
+        "episode": 38,
+        "released": "2025-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387765",
+        "title": "Episode 914",
+        "season": 2025,
+        "episode": 39,
+        "released": "2025-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387766",
+        "title": "Episode 915",
+        "season": 2025,
+        "episode": 40,
+        "released": "2025-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387767",
+        "title": "Episode 916",
+        "season": 2025,
+        "episode": 41,
+        "released": "2025-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387768",
+        "title": "Episode 917",
+        "season": 2025,
+        "episode": 42,
+        "released": "2025-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387769",
+        "title": "Episode 918",
+        "season": 2025,
+        "episode": 43,
+        "released": "2025-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387770",
+        "title": "Episode 919",
+        "season": 2025,
+        "episode": 44,
+        "released": "2025-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387771",
+        "title": "Episode 920",
+        "season": 2025,
+        "episode": 45,
+        "released": "2025-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387772",
+        "title": "Episode 921",
+        "season": 2025,
+        "episode": 46,
+        "released": "2025-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387773",
+        "title": "Episode 922",
+        "season": 2025,
+        "episode": 47,
+        "released": "2025-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387774",
+        "title": "Episode 923",
+        "season": 2025,
+        "episode": 48,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387775",
+        "title": "Episode 924",
+        "season": 2025,
+        "episode": 49,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387776",
+        "title": "Episode 925",
+        "season": 2025,
+        "episode": 50,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3387777",
+        "title": "Episode 926",
+        "season": 2026,
+        "episode": 1,
+        "released": "2026-01-02",
+        "overview": ""
+      }
+    ]
+  }
+}

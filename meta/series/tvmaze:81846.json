@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:81846",
+    "type": "series",
+    "name": "CNN Saturday Morning Table for Five",
+    "description": "Join CNN Saturday Morning for an insightful and provocative discussion of the week's biggest stories.",
+    "poster": null,
+    "background": null,
+    "videos": [
+      {
+        "id": "tvmaze:3435898",
+        "title": "Episode 49",
+        "season": 2025,
+        "episode": 49,
+        "released": "2025-12-06",
+        "overview": ""
+      }
+    ]
+  }
+}

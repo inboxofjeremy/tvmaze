@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "id": "tvmaze:84603",
+    "type": "series",
+    "name": "Celebrity Weakest Link",
+    "description": "A rapid-fire quiz show in which eight celebrities compete to win up to one million dollars for the charity of their choosing, these celebs will answer general knowledge questions and bank money as a group across multiple rounds. At the end of each round, the contestants vote out who they perceive to be the weakest link, and the host sends them off with the phrase, \"You are the Weakest Link. Goodbye.\" The two who make it to the final round will battle it out to determine who wins the banked money for their charity.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/586/1467368.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/586/1467368.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3407467",
+        "title": "TV Doctors",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-08",
+        "overview": "Eight celebrity doctors, some real and some who just play them on TV, compete."
+      },
+      {
+        "id": "tvmaze:3316647",
+        "title": "Glee Homecoming",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-09-15",
+        "overview": "Eight of Jane Lynch's former \"Glee\" castmates compete to win up to one million dollars for the charity of their choosing."
+      },
+      {
+        "id": "tvmaze:3348549",
+        "title": "TV Moms",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-09-22",
+        "overview": "Eight actresses who played some of TV's favorite moms and aunts compete to win up to $1 million for the charity of their choosing."
+      },
+      {
+        "id": "tvmaze:3348557",
+        "title": "Reality Couples",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-09-29",
+        "overview": "Celebrities Melissa Gorga, Joe Gorga, Heidi Montag, Spencer Pratt, Lauren Speed-Hamilton, Cameron Hamilton, Joe Graziadei and Kelsey Anderson compete."
+      },
+      {
+        "id": "tvmaze:3364389",
+        "title": "Roastmasters",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-10-06",
+        "overview": "Eight of the most hilarious and biting roastmasters compete."
+      },
+      {
+        "id": "tvmaze:3372353",
+        "title": "High School Reunion",
+        "season": 1,
+        "episode": 5,
+        "released": "2025-10-13",
+        "overview": "Tatyana Ali, Shenae Grimes, Matt Lanter, Beverly Mitchell, Scott Porter, Daphne Reid, Aimee Teegarden and Barry Watson compete."
+      },
+      {
+        "id": "tvmaze:3372358",
+        "title": "Football Legends",
+        "season": 1,
+        "episode": 6,
+        "released": "2025-11-03",
+        "overview": "Eight of football's greatest athletes compete."
+      },
+      {
+        "id": "tvmaze:3372355",
+        "title": "Special Forces",
+        "season": 1,
+        "episode": 7,
+        "released": "2025-11-10",
+        "overview": "Eight celebrities who survived \"Special Forces: America's Toughest Test\" compete to win up to $1 million for the charity of their choosing."
+      },
+      {
+        "id": "tvmaze:3372356",
+        "title": "8 Degrees of Jane",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-11-17",
+        "overview": "Celebrity contestants Laverne Cox, Andy Richter, Ron Funches, Adam Pally, Joel Kim Booster, Carson Kressley, Jon Lovitz and Cheri Oteri."
+      },
+      {
+        "id": "tvmaze:3372357",
+        "title": "Ex-Wives Club",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-11-24",
+        "overview": "Eight of TV's most fabulous ex-wives compete to win up to $1 million for the charity of their choosing."
+      },
+      {
+        "id": "tvmaze:3372354",
+        "title": "Holiday Heroes",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-12-01",
+        "overview": "Eight celebrities from beloved holiday movies compete to win up to $1 million for charity."
+      },
+      {
+        "id": "tvmaze:3407467",
+        "title": "TV Doctors",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-08",
+        "overview": "Eight celebrity doctors, some real and some who just play them on TV, compete."
+      }
+    ]
+  }
+}

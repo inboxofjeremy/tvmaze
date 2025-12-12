@@ -1,0 +1,1428 @@
+{
+  "meta": {
+    "id": "tvmaze:32158",
+    "type": "series",
+    "name": "FBI",
+    "description": "FBI is a fast-paced drama about the inner workings of the New York Field Office of the Federal Bureau of Investigation. These first-class agents, including Special Agent Maggie Bell and her partner, Special Agent Omar Adom 'OA' Zidan, bring all their talents, intellect and technical expertise on major cases in order to keep New York and the country safe.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479841.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479841.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401733",
+        "title": "Ratlined",
+        "season": 8,
+        "episode": 8,
+        "released": "2025-12-08",
+        "overview": "When a journalist is shot while interviewing a prime minister, all fingers point to an assassination attempt, but the team uncovers a deeper conspiracy after the assassin is also targeted. Meanwhile, OA struggles to let Gemma in on the dangers of his job."
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1494015",
+        "title": "Pilot",
+        "season": 1,
+        "episode": 1,
+        "released": "2018-09-25",
+        "overview": "After a bomb explosion devastates a residential apartment building, special agents Maggie Bell and Omar Adom \"OA\" Zidan of the New York office of the Federal Bureau of Investigation investigate a possible war between rival gangs - that is, until their prime suspects are discovered brutally murdered."
+      },
+      {
+        "id": "tvmaze:1500299",
+        "title": "Green Birds",
+        "season": 1,
+        "episode": 2,
+        "released": "2018-10-02",
+        "overview": "After eight people are fatally poisoned at a deli in New York City, special agents Maggie Bell and OA Zidan trace the crime to an unlikely culprit and conduct a sting operation to prevent further attacks."
+      },
+      {
+        "id": "tvmaze:1500306",
+        "title": "Prey",
+        "season": 1,
+        "episode": 3,
+        "released": "2018-10-09",
+        "overview": "Special Agent Maggie Bell, Special Agent OA Zidan and the team investigate the murders of 18 young women with help from a survivor associated with the deceased."
+      },
+      {
+        "id": "tvmaze:1536496",
+        "title": "Crossfire",
+        "season": 1,
+        "episode": 4,
+        "released": "2018-10-16",
+        "overview": "Special Agents Maggie Bell and OA Zidan rush to track down an active sniper with an elusive motive as the body count continues to rise."
+      },
+      {
+        "id": "tvmaze:1544794",
+        "title": "Doomsday",
+        "season": 1,
+        "episode": 5,
+        "released": "2018-10-23",
+        "overview": "Special Agents Maggie Bell and OA Zidan investigate the death of a safety inspector and its possible connection to a leak at a nuclear power plant."
+      },
+      {
+        "id": "tvmaze:1545883",
+        "title": "Family Man",
+        "season": 1,
+        "episode": 6,
+        "released": "2018-10-30",
+        "overview": "After a senator's daughter is kidnapped and held for ransom, the FBI is called in to assist with finding the little girl before their time limit expires. However, in order to do so, they must dig into the senator's past for clues to who did this to his family."
+      },
+      {
+        "id": "tvmaze:1549762",
+        "title": "Cops and Robbers",
+        "season": 1,
+        "episode": 7,
+        "released": "2018-11-13",
+        "overview": "Maggie and OA hunt down a ruthless group of robbers who are posing as NYPD officers to target armored trucks."
+      },
+      {
+        "id": "tvmaze:1549763",
+        "title": "This Land is Your Land",
+        "season": 1,
+        "episode": 8,
+        "released": "2018-11-20",
+        "overview": "Maggie and OA lead the search for an abducted former biological weapons chemist."
+      },
+      {
+        "id": "tvmaze:1553935",
+        "title": "Compromised",
+        "season": 1,
+        "episode": 9,
+        "released": "2018-12-04",
+        "overview": "After a key witness and a U.S. marshal are ambushed and killed, Maggie and OA must track down a man who leaked the information that led to their murders."
+      },
+      {
+        "id": "tvmaze:1574660",
+        "title": "The Armorer's Faith",
+        "season": 1,
+        "episode": 10,
+        "released": "2018-12-11",
+        "overview": "When an illegal arms broker turned informant is assassinated, OA assumes his identity and goes undercover to stop the sale of dangerous weapons, with help from Maggie and their former FBI instructor, Rowan Quinn."
+      },
+      {
+        "id": "tvmaze:1580988",
+        "title": "Identity Crisis",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-01-15",
+        "overview": "When a judge and her daughter are murdered after she sentenced a man to life in prison, Maggie and OA search for the killer behind a possible retaliation. Dana has a vested interest in this case as she has a history with the victim."
+      },
+      {
+        "id": "tvmaze:1553936",
+        "title": "A New Dawn",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-01-22",
+        "overview": "When an alt-right provocateur is murdered after giving a speech at a university in New York City, Maggie and OA investigate the school's more extreme political groups and rely on OA's sister, Amira, a student, for help."
+      },
+      {
+        "id": "tvmaze:1584342",
+        "title": "Partners in Crime",
+        "season": 1,
+        "episode": 13,
+        "released": "2019-02-12",
+        "overview": "Maggie and OA are on a mission to find a couple who are behind a spree of violent armed robberies that resulted in the death of an off-duty police officer."
+      },
+      {
+        "id": "tvmaze:1595379",
+        "title": "Exposed",
+        "season": 1,
+        "episode": 14,
+        "released": "2019-02-19",
+        "overview": "After an investigative journalist is murdered, the team uncovers information linking the suspect to past cases. The victim's death also strikes a chord with Maggie, leaving her desperate for answers in regard to a traumatic event in her personal life."
+      },
+      {
+        "id": "tvmaze:1601396",
+        "title": "Scorched Earth",
+        "season": 1,
+        "episode": 15,
+        "released": "2019-02-26",
+        "overview": "A serial bomber appears to be targeting Wall Street's elite. Maggie and OA search for a suspect who seems dead-set on revenge, while Dana deals with Spencer Briggs, a cocky profiler brought in to consult on the case."
+      },
+      {
+        "id": "tvmaze:1606284",
+        "title": "Invisible",
+        "season": 1,
+        "episode": 16,
+        "released": "2019-03-12",
+        "overview": "When the daughter of a wealthy family is kidnapped in an attempt to gain notorious internet fame, Maggie and OA discover the kidnapper's plans go far beyond abduction in order to never be forgotten"
+      },
+      {
+        "id": "tvmaze:1609027",
+        "title": "Apex",
+        "season": 1,
+        "episode": 17,
+        "released": "2019-03-26",
+        "overview": "Maggie and Dana struggle to find justice for victims murdered by a serial killer who left a ghoulish mark on all of his victims, while the mayor limits the investigation in order to prevent economical loss."
+      },
+      {
+        "id": "tvmaze:1615730",
+        "title": "Most Wanted",
+        "season": 1,
+        "episode": 18,
+        "released": "2019-04-02",
+        "overview": "OA and Maggie team up with members of the FBI's Fugitives Department to track down a person wanted for murder who is also on America's top 10 most wanted list."
+      },
+      {
+        "id": "tvmaze:1621329",
+        "title": "Conflict of Interest",
+        "season": 1,
+        "episode": 19,
+        "released": "2019-04-16",
+        "overview": "An American diplomat is killed while being used as a pawn in a dangerous drug ring, and the team must work together to bring them down. Also, Jubal and OA try to help friends from their past fight off their inner demons."
+      },
+      {
+        "id": "tvmaze:1621330",
+        "title": "What Lies Beneath",
+        "season": 1,
+        "episode": 20,
+        "released": "2019-04-30",
+        "overview": "When a controversial senior leader from Egypt comes to New York for a heart transplant, OA struggles to balance his personal opinion with his professional duty when he is assigned to the security detail."
+      },
+      {
+        "id": "tvmaze:1621331",
+        "title": "Appearances",
+        "season": 1,
+        "episode": 21,
+        "released": "2019-05-07",
+        "overview": "After a decorated FBI agent is murdered, the team investigates and uncovers the man led a double life. Also, Maggie struggles with what information she should reveal to the agent's widow, who is also her personal friend."
+      },
+      {
+        "id": "tvmaze:1621332",
+        "title": "Closure",
+        "season": 1,
+        "episode": 22,
+        "released": "2019-05-14",
+        "overview": "A woman with information about the death of Maggie's husband is abducted leading the team to uncover a criminal operation larger than anyone imagined. Also, Dana puts her career in jeopardy by standing by and allowing Maggie to work on the case, which has such a personal connection to her."
+      },
+      {
+        "id": "tvmaze:1669457",
+        "title": "Little Egypt",
+        "season": 2,
+        "episode": 1,
+        "released": "2019-09-24",
+        "overview": "After a bomb detonates at a restaurant in Queens, the case becomes personal for OA, who grew up eating there. But what initially seems like a terrorist attack reveals itself to be more complex, and OA goes undercover to prevent another incident."
+      },
+      {
+        "id": "tvmaze:1690705",
+        "title": "The Lives of Others",
+        "season": 2,
+        "episode": 2,
+        "released": "2019-10-01",
+        "overview": "After the son of a prominent Mommy blogger is kidnapped, the team must sweep through her two million followers to find the culprit. Also, Kristen continues to adjust to life as a field agent with her new partner, Stuart Scola."
+      },
+      {
+        "id": "tvmaze:1690706",
+        "title": "American Idol",
+        "season": 2,
+        "episode": 3,
+        "released": "2019-10-08",
+        "overview": "After a front-running female presidential candidate, Valerie Caldwell, is targeted with a car bomb, OA and Maggie must hurry to track down the bomber before they strike again. The case leads them to wonder whether this person is targeting Caldwell for her political aspirations or something else."
+      },
+      {
+        "id": "tvmaze:1705987",
+        "title": "An Imperfect Science",
+        "season": 2,
+        "episode": 4,
+        "released": "2019-10-15",
+        "overview": "After a shooting at a nightclub, it appears that the FBI may have ignored previous threats from a local white supremacist group. Also, Kristen wrestles with her commitment to the Bureau and her responsibility to her community."
+      },
+      {
+        "id": "tvmaze:1705988",
+        "title": "Crossroads",
+        "season": 2,
+        "episode": 5,
+        "released": "2019-10-22",
+        "overview": "A loving husband and father of two, Jim Russo, is kidnapped after accidentally getting involved in illegal dealings far beyond what he imagined. Also, Jubal must make a difficult decision regarding his family and their future."
+      },
+      {
+        "id": "tvmaze:1743516",
+        "title": "Outsider",
+        "season": 2,
+        "episode": 6,
+        "released": "2019-11-05",
+        "overview": "After a Wall Street investor is murdered, the team is led to an insider-trading ring that uses unconventional methods to gain information. Also, OA struggles to maintain confidence in his budding relationship with Mona."
+      },
+      {
+        "id": "tvmaze:1743517",
+        "title": "Undisclosed",
+        "season": 2,
+        "episode": 7,
+        "released": "2019-11-12",
+        "overview": "When a board member of a soon-to-be-public medical tech company is murdered, the team tries to find out who had the most to gain from his death. Also, OA is conflicted when pressure to help a family member is at odds with his commitment to tell the truth."
+      },
+      {
+        "id": "tvmaze:1746984",
+        "title": "Codename: Ferdinand",
+        "season": 2,
+        "episode": 8,
+        "released": "2019-11-19",
+        "overview": "When the team digs into the circumstances surrounding a car crash that resulted in the death of a photographer, they realize there is more than meets the eye. Also, Maggie sympathizes with his widow, Annie Weber, when she notices similarities with her own husband's death."
+      },
+      {
+        "id": "tvmaze:1749787",
+        "title": "Salvation",
+        "season": 2,
+        "episode": 9,
+        "released": "2019-11-26",
+        "overview": "After an altercation with a student, teacher Patrick Miller goes missing, leading the team to investigate everyone who might have had a grudge against him. Also, a key witness in the case steps up to help, and Maggie does whatever she can to ensure their safety."
+      },
+      {
+        "id": "tvmaze:1761014",
+        "title": "Ties that Bind",
+        "season": 2,
+        "episode": 10,
+        "released": "2019-12-17",
+        "overview": "A former kidnapping victim is linked to a series of murders that includes the daughter of an NYPD detective. Also, Kristen begins to doubt her ability as an agent after a training exercise leaves her shaken."
+      },
+      {
+        "id": "tvmaze:1758511",
+        "title": "Fallout",
+        "season": 2,
+        "episode": 11,
+        "released": "2020-01-07",
+        "overview": "After a businessman with a history of harassment claims against him is killed, the team suspects it may be one of his many accusers."
+      },
+      {
+        "id": "tvmaze:1779932",
+        "title": "Hard Decisions",
+        "season": 2,
+        "episode": 12,
+        "released": "2020-01-14",
+        "overview": "A bank hold-up leads the team to a safe deposit box, the contents of which have the potential to destroy national security. Also, Kristen is eager to get back into field work while other team members still have their concerns."
+      },
+      {
+        "id": "tvmaze:1783783",
+        "title": "Payback",
+        "season": 2,
+        "episode": 13,
+        "released": "2020-01-21",
+        "overview": "When the son of a well-known retired FBI agent is taken just blocks from their home in what appears to be a revenge kidnapping, the team must uncover if it's tied to the agent's past or trouble the son has gotten into on his own. Also, Isobel must make a hard call when information from the past comes to light."
+      },
+      {
+        "id": "tvmaze:1786841",
+        "title": "Studio Gangster",
+        "season": 2,
+        "episode": 14,
+        "released": "2020-01-28",
+        "overview": "When a U.S. attorney is found dead steps away from the body of a private escort, the team must piece together what connected the two seemingly random victims. Also, Jubal's connection with one of the victims makes finding the killer much more personal."
+      },
+      {
+        "id": "tvmaze:1790398",
+        "title": "Legacy",
+        "season": 2,
+        "episode": 15,
+        "released": "2020-02-11",
+        "overview": "After a truck filled with armor-piercing rifles is hijacked, the team works to discover who stole it, and what they have planned for the stolen weapons. Also, a friend from OA's past in the military intelligence unit returns to help with the case, but OA isn't sure he can trust his judgement."
+      },
+      {
+        "id": "tvmaze:1790399",
+        "title": "Safe Room",
+        "season": 2,
+        "episode": 16,
+        "released": "2020-02-18",
+        "overview": "After the police ignore a desperate father's plea for help, he abducts a billionaire's daughter and holds her hostage in a near-impenetrable safe room until his own missing child is returned to him. Also, Jubal puts his hostage negotiation skills to the test."
+      },
+      {
+        "id": "tvmaze:1799927",
+        "title": "Broken Promises",
+        "season": 2,
+        "episode": 17,
+        "released": "2020-03-10",
+        "overview": "When the team is called to the scene of a murder, they quickly suspect political motivation, but when another murder occurs, they work to uncover a common thread before more bodies pile up. Also, Maggie contemplates a decision that could affect her entire career."
+      },
+      {
+        "id": "tvmaze:1799928",
+        "title": "American Dreams",
+        "season": 2,
+        "episode": 18,
+        "released": "2020-03-24",
+        "overview": "Jess LaCroix and his team come to help OA find a fugitive LaCroix arrested years ago after a bus with 26 students goes missing and he's the main suspect."
+      },
+      {
+        "id": "tvmaze:1808614",
+        "title": "Emotional Rescue",
+        "season": 2,
+        "episode": 19,
+        "released": "2020-03-31",
+        "overview": "The FBI team investigates a drug deal gone bad after the body of a college student is found. Also, Detective Hailey Upton temporarily joins the team and finds her usual investigative methods clash with the Bureau's more buttoned-up environment."
+      },
+      {
+        "id": "tvmaze:1954178",
+        "title": "Never Trust a Stranger",
+        "season": 3,
+        "episode": 1,
+        "released": "2020-11-17",
+        "overview": "The team welcomes a new member, Special Agent Tiffany Wallace, as they search for killers who orchestrated a mass shooting at a media company, and OA's personal connection with the case threatens to cloud his judgement."
+      },
+      {
+        "id": "tvmaze:1960238",
+        "title": "Unreasonable Doubt",
+        "season": 3,
+        "episode": 2,
+        "released": "2020-11-24",
+        "overview": "The team races to stop an active serial killer after three women are found weighted down at the bottom of a lake, and Jubal looks into an old closed case after there are multiple similarities to the recent victims."
+      },
+      {
+        "id": "tvmaze:1964243",
+        "title": "Liar's Poker",
+        "season": 3,
+        "episode": 3,
+        "released": "2020-12-08",
+        "overview": "When the leader of a drug cartel and one of the world's most wanted men, Antonio Vargas, is apprehended by the team, the entire FBI headquarters is put at risk when his henchmen unveil a terroristic threat to free him. During the turmoil, Isobel must make the difficult decision whether to sacrifice her conscience or her career."
+      },
+      {
+        "id": "tvmaze:1976806",
+        "title": "Crazy Love",
+        "season": 3,
+        "episode": 4,
+        "released": "2021-01-24",
+        "overview": "A shooting at a quinceañera leaves two dead, but the team believes they may not have been the intended targets. Also, Maggie is trapped between a rock and a hard place as the team decides the best plan of action for using a witness to take down the suspect."
+      },
+      {
+        "id": "tvmaze:1989331",
+        "title": "Clean Slate",
+        "season": 3,
+        "episode": 5,
+        "released": "2021-01-26",
+        "overview": "As the team searches for a young girl who was kidnapped from a cabin during a family vacation, they discover that the abduction may be tied to a skeleton in her family's closet. Also, Maggie questions her relationship with Nestor when she learns he hasn't been completely honest with her."
+      },
+      {
+        "id": "tvmaze:1995706",
+        "title": "Uncovered",
+        "season": 3,
+        "episode": 6,
+        "released": "2021-02-09",
+        "overview": "The team must infiltrate a drug trafficking gang after the robbery of a chemical plant leaves two customs agents dead. Also, Nestor offers his help on the case, giving Maggie new insight into his character."
+      },
+      {
+        "id": "tvmaze:1995707",
+        "title": "Discord",
+        "season": 3,
+        "episode": 7,
+        "released": "2021-03-02",
+        "overview": "As the team hunts a killer who is fatally shooting seemingly unrelated targets, an experience on the job has new agent Tiffany Wallace examining the tension between her career as an FBI special agent and the responsibility she feels to her community as a Black woman."
+      },
+      {
+        "id": "tvmaze:1995708",
+        "title": "Walk the Line",
+        "season": 3,
+        "episode": 8,
+        "released": "2021-03-09",
+        "overview": "After a bomb leaves three people dead, the team presses a reluctant informant to gather information from his close friends who are under suspicion. Also, OA finds tension in his relationship with his girlfriend, Mona, when they clash on where the informant's rights lie."
+      },
+      {
+        "id": "tvmaze:1995709",
+        "title": "Leverage",
+        "season": 3,
+        "episode": 9,
+        "released": "2021-03-16",
+        "overview": "When a political reporter is kidnapped and held without a ransom demand, the team must dig into her past relationships in order to pin down her assailant's motive. Also, Isobel's relationship comes under fire when the case makes a connection to her boyfriend, Ethan."
+      },
+      {
+        "id": "tvmaze:1995710",
+        "title": "Checks and Balances",
+        "season": 3,
+        "episode": 10,
+        "released": "2021-04-06",
+        "overview": "The team must track down two assailants who wear animal masks while committing armed robberies, with the latest leaving an off-duty 26 Fed security guard dead. Also, Tiffany and Scola butt heads on whether or not to accept the local NYPD's offer to help in the investigation."
+      },
+      {
+        "id": "tvmaze:2043655",
+        "title": "Brother's Keeper",
+        "season": 3,
+        "episode": 11,
+        "released": "2021-04-27",
+        "overview": "After a man is killed by an explosive package shipped to his home, the team attempts to capture the sender and intercept his latest deadly parcel. Also, Maggie tries to trust her younger sister, Erin, is truly staying out of trouble as a new college student in NYC."
+      },
+      {
+        "id": "tvmaze:2043657",
+        "title": "Fathers and Sons",
+        "season": 3,
+        "episode": 12,
+        "released": "2021-05-04",
+        "overview": "The team rushes to track down two doctors abducted by a desperate father willing to do anything to save his son. Also, Jubal's uncertainty in his family life affects his judgement during the hostage situation."
+      },
+      {
+        "id": "tvmaze:2043658",
+        "title": "Short Squeeze",
+        "season": 3,
+        "episode": 13,
+        "released": "2021-05-11",
+        "overview": "When the CEO of a major brokerage firm is shot and killed while surrounded by protesters, the team looks into who had the most to lose from his company's perceived manipulations. Also, Scola's previous Wall Street career and the reasons he left come to light as the financial details of the case begin to unfold."
+      },
+      {
+        "id": "tvmaze:2043659",
+        "title": "Trigger Effect",
+        "season": 3,
+        "episode": 14,
+        "released": "2021-05-18",
+        "overview": "While investigating a mass casualty incident at a New York City restaurant, the team scrambles to determine if it was racially motivated and if there was more than one gunman. Also, Maggie starts to notice troubling behavior from her co-worker, Elise."
+      },
+      {
+        "id": "tvmaze:2043661",
+        "title": "Straight Flush",
+        "season": 3,
+        "episode": 15,
+        "released": "2021-05-25",
+        "overview": "When five prominent men are gunned down at a trendy New York City restaurant, the team's investigation brings them into contact with a lieutenant in Antonio Vargas' cartel, triggering a long-awaited showdown between Isobel and Vargas."
+      },
+      {
+        "id": "tvmaze:2130385",
+        "title": "All That Glitters",
+        "season": 4,
+        "episode": 1,
+        "released": "2021-09-21",
+        "overview": "After a young woman is killed on her way home from a lavish yacht party, the team investigates who she was and how she came to be at the event, which was attended by some of the most influential people in the world. Also, Maggie brings Crosby into the investigation after a murder suspect is identified as a veteran who had been on several Army operations with Crosby."
+      },
+      {
+        "id": "tvmaze:2130389",
+        "title": "Hacktivist",
+        "season": 4,
+        "episode": 2,
+        "released": "2021-09-28",
+        "overview": "Maggie, OA and the team must stop a hacker who is disabling life-saving equipment in several New York City hospitals, while demanding a full investigation into the recently deceased patients of a local psychiatric facility. With Jubal's son waiting for important surgery at one of the impacted hospitals, Jubal's adamant about remaining involved in the case despite Isobel's reservations."
+      },
+      {
+        "id": "tvmaze:2166139",
+        "title": "Trauma",
+        "season": 4,
+        "episode": 3,
+        "released": "2021-10-05",
+        "overview": "After the team finds a connection between bombings at government agencies and a private veterans' club in New York City, Isobel tells OA to recruit his former Army buddy, Chris, for intel since he spends time at the club. However, knowing the difficulty soldiers like Chris often face returning to civilian life, OA is reluctant to follow orders."
+      },
+      {
+        "id": "tvmaze:2175381",
+        "title": "Know Thyself",
+        "season": 4,
+        "episode": 4,
+        "released": "2021-10-12",
+        "overview": "The team hunts for a serial killer who is targeting young, homeless men. Also, Tiffany and Scola don't see eye to eye on how to handle the case or the difference between partners and co-workers."
+      },
+      {
+        "id": "tvmaze:2175384",
+        "title": "Charlotte's Web",
+        "season": 4,
+        "episode": 5,
+        "released": "2021-11-02",
+        "overview": "After a suburban woman is kidnapped from her home, the team looks into trysts on both sides of a seemingly perfect marriage. Also, OA feels pressure from Mona to make changes in his career path."
+      },
+      {
+        "id": "tvmaze:2175385",
+        "title": "Allegiance",
+        "season": 4,
+        "episode": 6,
+        "released": "2021-11-09",
+        "overview": "The team must track down a shooter targeting detectives from the same precinct and unit, while facing mounting tension from the NYPD. Also, Tiffany finds that her NYPD roots may be influencing her view of the situation."
+      },
+      {
+        "id": "tvmaze:2200373",
+        "title": "Gone Baby Gone",
+        "season": 4,
+        "episode": 7,
+        "released": "2021-11-16",
+        "overview": "After a young girl is kidnapped from her daycare, the team must help her parents navigate a debt owed to the deadly gang in their neighborhood. Also, Maggie struggles to focus on the case when her sister, Erin, returns from rehab."
+      },
+      {
+        "id": "tvmaze:2212275",
+        "title": "Fire and Rain",
+        "season": 4,
+        "episode": 8,
+        "released": "2021-12-07",
+        "overview": "The team attempts to extract key information from a vulnerable 9/11 widow, Hannah Thompson, who is shocked that her new \"boyfriend\" is the manipulative leader of a terrorist group planning an attack. Also, Scola is reminded of his brother's death on 9/11, and Tiffany worries about his emotional choices during the investigation."
+      },
+      {
+        "id": "tvmaze:2212276",
+        "title": "Unfinished Business",
+        "season": 4,
+        "episode": 9,
+        "released": "2021-12-14",
+        "overview": "After Rina is critically wounded while heading to work with Jubal, the team makes the chilling discovery that a vengeful Vargas orchestrated the shooting from behind bars and continues to target the rest of their team and their loved ones."
+      },
+      {
+        "id": "tvmaze:2214750",
+        "title": "Fostered",
+        "season": 4,
+        "episode": 10,
+        "released": "2022-01-04",
+        "overview": "As the team investigates a string of jewelry store robberies that culminate in a double murder, they uncover a connection to a 16-year-old boy trying to survive the foster care system. Also, Tiffany becomes personally invested after learning about the boy's ill-fated upbringing."
+      },
+      {
+        "id": "tvmaze:2238417",
+        "title": "Grief",
+        "season": 4,
+        "episode": 11,
+        "released": "2022-01-11",
+        "overview": "As the team searches for an abducted college co-ed, Jubal becomes intent on obtaining lifesaving leads from the father of the abductor's previous victim. Also, Jubal continues to grapple with the aftermath of Rina's condition, leading to a tense encounter with her mother."
+      },
+      {
+        "id": "tvmaze:2244535",
+        "title": "Under Pressure",
+        "season": 4,
+        "episode": 12,
+        "released": "2022-02-01",
+        "overview": "Maggie goes undercover working in a bar to investigate an anti-government group that regularly gathers there and has several members suspected in a series of bombings. The case opens old wounds for her when a single father on the periphery of the group begins to fear he's in danger of becoming collateral damage."
+      },
+      {
+        "id": "tvmaze:2244536",
+        "title": "Pride and Prejudice",
+        "season": 4,
+        "episode": 13,
+        "released": "2022-02-22",
+        "overview": "When a Muslim college student and his younger brother are murdered, the team connects with the outraged imam of OA's former mosque, who insists the victims were wrongly targeted as terrorists. Also, OA must reconsider where his loyalties lie when working the case with a Muslim anti-terrorist agent bent on solving the investigation through any means necessary."
+      },
+      {
+        "id": "tvmaze:2244537",
+        "title": "Ambition",
+        "season": 4,
+        "episode": 14,
+        "released": "2022-03-08",
+        "overview": "The team rushes to investigate an extremist gun group after an anti-gun lobbyist building is bombed, with the promise of others to follow. Also, SAC Bashar dangles a possible promotion for OA, but only if he can persuade Tiffany to not report an incident she viewed as misconduct."
+      },
+      {
+        "id": "tvmaze:2244538",
+        "title": "Scar Tissue",
+        "season": 4,
+        "episode": 15,
+        "released": "2022-03-22",
+        "overview": "The team realizes they have a cross-country serial killer on their hands, after another body is found bound with the same sophisticated knot as their local victim. Also, the case has ties to Isobel's father, Robert, and his hotel, leading to revelations about their fractured relationship."
+      },
+      {
+        "id": "tvmaze:2274931",
+        "title": "Protective Details",
+        "season": 4,
+        "episode": 16,
+        "released": "2022-03-29",
+        "overview": "After an ICE agent is fatally shot at an ICE vs. DEA hockey game, the team attempts to find the shooter who they believe may also be targeting Congressman Curtis Grange, who was at the same game."
+      },
+      {
+        "id": "tvmaze:2274932",
+        "title": "One Night Stand",
+        "season": 4,
+        "episode": 17,
+        "released": "2022-04-12",
+        "overview": "When a young couple is found murdered in a New York City park after returning from vacation, the team searches for a suspect linked to the drug trade. Also, Scola turns over a new leaf when it comes to his relationships."
+      },
+      {
+        "id": "tvmaze:2301228",
+        "title": "Fear Nothing",
+        "season": 4,
+        "episode": 18,
+        "released": "2022-04-19",
+        "overview": "OA is forced to confront one of his biggest fears when the team discovers that deadly sarin gas may have been sold to terrorists."
+      },
+      {
+        "id": "tvmaze:2301229",
+        "title": "Face Off",
+        "season": 4,
+        "episode": 19,
+        "released": "2022-04-26",
+        "overview": "When a morning show host is murdered inside her home, the team tracks the killer, who they realize is targeting powerful women. Also, things become awkward for Scola when Special Agent Nina Chase becomes part of the team during Maggie's recovery."
+      },
+      {
+        "id": "tvmaze:2301230",
+        "title": "Ghost from the Past",
+        "season": 4,
+        "episode": 20,
+        "released": "2022-05-10",
+        "overview": "The murder of a TSA agent leads the team to hunt down a killer who is using drug mules to exploit airport security checkpoints. Also, OA struggles to cope with the aftermath of the sarin gas exposure and the 10th anniversary of his army friend's death in Afghanistan."
+      },
+      {
+        "id": "tvmaze:2301231",
+        "title": "Kayla",
+        "season": 4,
+        "episode": 21,
+        "released": "2022-05-17",
+        "overview": "When a retired DEA agent is shot outside a bakery, the team works to determine if the victim's past cases or current bouncer job are connected to the murder. Also, Nina and Tiffany clash over the use of an informant while they are paired during the investigation."
+      },
+      {
+        "id": "tvmaze:2351656",
+        "title": "Hero's Journey",
+        "season": 5,
+        "episode": 1,
+        "released": "2022-09-20",
+        "overview": "The team pivots when their sting operation to secure a massive bomb from an illegal broker leads them to discover that the device is already in the wrong hands. Also, Jubal's promise to be present at his son's birthday party is put to the test as the case continues to heat up."
+      },
+      {
+        "id": "tvmaze:2389810",
+        "title": "Love Is Blind",
+        "season": 5,
+        "episode": 2,
+        "released": "2022-09-27",
+        "overview": "When an officer is shot dead at a pawn shop along with the store's owner, the team tries to figure out why a young, recent Ivy League dropout is tied to the crime."
+      },
+      {
+        "id": "tvmaze:2301232",
+        "title": "Prodigal Son",
+        "season": 5,
+        "episode": 3,
+        "released": "2022-10-04",
+        "overview": "As the team investigates a deadly robbery that garnered a cache of automatic weapons for the killers, they discover one of the perps is a classmate of Jubal's son, who is reluctant to cooperate."
+      },
+      {
+        "id": "tvmaze:2390647",
+        "title": "Victim",
+        "season": 5,
+        "episode": 4,
+        "released": "2022-10-11",
+        "overview": "The team investigates a series of brutal assaults while OA withholds information about his own attack and mugging from earlier that morning."
+      },
+      {
+        "id": "tvmaze:2390648",
+        "title": "Flopped Cop",
+        "season": 5,
+        "episode": 5,
+        "released": "2022-10-18",
+        "overview": "When a wealthy accountant is gunned down for secretly testifying against a notorious drug lord, the team's investigation leads Tiffany to ask for help from a friend who was formerly with the NYPD and is related to the dangerous crime boss."
+      },
+      {
+        "id": "tvmaze:2390649",
+        "title": "Double Bind",
+        "season": 5,
+        "episode": 6,
+        "released": "2022-11-06",
+        "overview": "As the team works to rescue a 5-year-old kidnapping victim, Scola suspects the boy's mother isn't being forthcoming about why her son was targeted. Also, Nina struggles to open up to Scola about matters in their relationship."
+      },
+      {
+        "id": "tvmaze:2418054",
+        "title": "Ready or Not",
+        "season": 5,
+        "episode": 7,
+        "released": "2022-11-15",
+        "overview": "Maggie returns from medical leave in time to help the team investigate two homicides: a law student on track to attend the FBI Academy and a young man with possible gang ties. Also, an inadvertent revelation from Maggie causes OA to worry that she is rushing back into the job too quickly."
+      },
+      {
+        "id": "tvmaze:2422059",
+        "title": "Into the Fire",
+        "season": 5,
+        "episode": 8,
+        "released": "2022-11-22",
+        "overview": "When a deadly truck heist arms the killers with enough ammonium nitrate to construct a massive bomb, the team discovers a link to a terrorist group Maggie is working to infiltrate."
+      },
+      {
+        "id": "tvmaze:2432019",
+        "title": "Fortunate Son",
+        "season": 5,
+        "episode": 9,
+        "released": "2022-12-13",
+        "overview": "A teen shows up at FBI headquarters with a large bag of fentanyl, seeking the team's protection from the men who shot his father. Plus, Nina comes to Scola with a proposal he is hesitant to accept."
+      },
+      {
+        "id": "tvmaze:2446868",
+        "title": "Second Life",
+        "season": 5,
+        "episode": 10,
+        "released": "2023-01-03",
+        "overview": "The abduction of a young woman leads the team back to a cold case from 18 years ago, which pushes Isobel to reconnect with her old partner Jake and take another shot at solving one of her first cases at the Bureau."
+      },
+      {
+        "id": "tvmaze:2432037",
+        "title": "Heroes",
+        "season": 5,
+        "episode": 11,
+        "released": "2023-01-10",
+        "overview": "The team jumps into action when JOC analyst Kelly Moran is taken hostage."
+      },
+      {
+        "id": "tvmaze:2447513",
+        "title": "Breakdown",
+        "season": 5,
+        "episode": 12,
+        "released": "2023-01-24",
+        "overview": "After a mysterious bioweapon leaves two MTA workers dead and one injured, the team rushes to determine who is behind the attack and the location of their next target. Also, Jubal's past demons begin to surface when the high-pressure case coincides with Tyler's latest health scare."
+      },
+      {
+        "id": "tvmaze:2457632",
+        "title": "Protégé",
+        "season": 5,
+        "episode": 13,
+        "released": "2023-02-14",
+        "overview": "The team investigates the murder of a professional informant after he's found dead outside an abandoned factory in Red Hook. Also, Maggie reconnects with an old colleague and mentor."
+      },
+      {
+        "id": "tvmaze:2479712",
+        "title": "Money for Nothing",
+        "season": 5,
+        "episode": 14,
+        "released": "2023-02-21",
+        "overview": "After a string of armed robberies target various businesses, the team investigates a suspect who leads them to something much bigger. Also, OA worries about his future when his investments begin to go south."
+      },
+      {
+        "id": "tvmaze:2485973",
+        "title": "The Lies We Tell",
+        "season": 5,
+        "episode": 15,
+        "released": "2023-02-28",
+        "overview": "When an off-duty diplomatic security agent is fatally shot in New York City trying to apprehend someone, the team investigates if there's a connection to his time working in Croatia."
+      },
+      {
+        "id": "tvmaze:2492348",
+        "title": "Family First",
+        "season": 5,
+        "episode": 16,
+        "released": "2023-03-14",
+        "overview": "The shooting of a federal corrections officer leads the team to an ex-Marine who has gone rogue ever since he returned from Afghanistan. Tiffany's sister looks to her for guidance when their younger brother begins to lash out."
+      },
+      {
+        "id": "tvmaze:2492711",
+        "title": "Imminent Threat – Part Two",
+        "season": 5,
+        "episode": 17,
+        "released": "2023-04-04",
+        "overview": "To aid Scola in his undercover mission to find the terrorists believed to be behind the imminent attack in New York City, Maggie calls in Remy, whose well-connected informant from a prior case may be key to moving the operation forward."
+      },
+      {
+        "id": "tvmaze:2492712",
+        "title": "Obligation",
+        "season": 5,
+        "episode": 18,
+        "released": "2023-04-11",
+        "overview": "When the deputy commander of an Air National Guard Base is kidnapped and forced to give over access codes, the team must work quickly to find the suspect along with stolen ammunition. Also, Scola questions his own safety in the aftermath of a recent traumatic experience."
+      },
+      {
+        "id": "tvmaze:2503229",
+        "title": "Sins of the Past",
+        "season": 5,
+        "episode": 19,
+        "released": "2023-04-18",
+        "overview": "When a trucker is gunned down after a routine trip from Canada, all signs point the team to a noted criminal on the FBI's Most Wanted Terrorists list. Also, Jubal gets to work with an old friend and colleague, Detective Jack Lombardo."
+      },
+      {
+        "id": "tvmaze:2503230",
+        "title": "Sisterhood",
+        "season": 5,
+        "episode": 20,
+        "released": "2023-04-25",
+        "overview": "A drug dealer is shot in a federal park and the team sets out to look for his killer; Maggie's sister returns to New York and complicates the case."
+      },
+      {
+        "id": "tvmaze:2503231",
+        "title": "Privilege",
+        "season": 5,
+        "episode": 21,
+        "released": "2023-05-09",
+        "overview": "All eyes are on the team when they try to find out who kidnapped the only child of a prominent U.S senator. The abduction also uncovers a potential link to a similar case that was pushed to the side by local authorities."
+      },
+      {
+        "id": "tvmaze:2503232",
+        "title": "Torn",
+        "season": 5,
+        "episode": 22,
+        "released": "2023-05-16",
+        "overview": "After finding a group of teens dead from a drug overdose, the team races to find the dangerous dealer and his supplier. Meanwhile, OA questions where he stands in his faith."
+      },
+      {
+        "id": "tvmaze:2503234",
+        "title": "God Complex",
+        "season": 5,
+        "episode": 23,
+        "released": "2023-05-23",
+        "overview": "When a prominent doctor is found dead in a ritualistic slaying, the team must race against time to hunt down a religiously motivated serial killer. Also, Scola faces a life-or-death decision."
+      },
+      {
+        "id": "tvmaze:2687406",
+        "title": "All the Rage",
+        "season": 6,
+        "episode": 1,
+        "released": "2024-02-13",
+        "overview": "When a bus explosion kills several innocent people, the team jumps into action to take down the responsible terrorist organization. Meanwhile, Scola tries to balance fatherhood with the job."
+      },
+      {
+        "id": "tvmaze:2687924",
+        "title": "Remorse",
+        "season": 6,
+        "episode": 2,
+        "released": "2024-02-20",
+        "overview": "After the president of the NY Fed is gunned down trying to help a young woman in peril, the team races to find the killer and the missing woman. Additionally, a distressing connection to one of Jubal's past cases is revealed during the investigation, compounding the pressure on him as he also deals with his son's school suspension."
+      },
+      {
+        "id": "tvmaze:2687925",
+        "title": "Stay in Your Lane",
+        "season": 6,
+        "episode": 3,
+        "released": "2024-02-27",
+        "overview": "When a local club owner is found dead, the team works quickly to find the motive behind the murder of a seemingly innocent man. Meanwhile, OA is smitten with a new love interest but is concerned that she's mixed up with the wrong crowd."
+      },
+      {
+        "id": "tvmaze:2771126",
+        "title": "Creating a Monster",
+        "season": 6,
+        "episode": 4,
+        "released": "2024-03-12",
+        "overview": "When a federal judge is gunned down execution-style in broad daylight, the team is sent looking for a suspect with ties to a local Islamic center. Also, Maggie reunites with a former colleague while things become tense between OA and his girlfriend Gemma in the aftermath of her friend's death."
+      },
+      {
+        "id": "tvmaze:2771127",
+        "title": "Sacrifice",
+        "season": 6,
+        "episode": 5,
+        "released": "2024-03-19",
+        "overview": "When the director of a Brooklyn migrant center is abducted and held hostage along with his wife, the team must work quickly to meet the demands of their kidnapper. Also, Maggie picks Jessica's brain about motherhood."
+      },
+      {
+        "id": "tvmaze:2771128",
+        "title": "Unforeseen",
+        "season": 6,
+        "episode": 6,
+        "released": "2024-03-26",
+        "overview": "After multiple people are targeted and killed with a poisonous gas in broad daylight, the team races to find the killer, who they believe is tied to an eco-terrorist plot. Meanwhile, Maggie continues to explore motherhood."
+      },
+      {
+        "id": "tvmaze:2793883",
+        "title": "Behind the Veil",
+        "season": 6,
+        "episode": 7,
+        "released": "2024-04-02",
+        "overview": "When a bombing at a local restaurant leaves several injured or dead, including a congresswoman and someone close to Isobel, the team races to apprehend the suspect before another explosive goes off."
+      },
+      {
+        "id": "tvmaze:2805656",
+        "title": "Phantom",
+        "season": 6,
+        "episode": 8,
+        "released": "2024-04-09",
+        "overview": "After an employee of the U.S. Army is shot in an industrial park, the team works to track down the killer who reveals a larger plot at play. Meanwhile, Tiffany continues to struggle with the guilt surrounding Hobbs' death."
+      },
+      {
+        "id": "tvmaze:2805657",
+        "title": "Best Laid Plans",
+        "season": 6,
+        "episode": 9,
+        "released": "2024-04-16",
+        "overview": "When a retired FBI agent is tortured and killed while working a security job, Scola and Nina (FBI: MOST WANTED) go undercover as a married couple deep in the diamond game as the team tries to find out who is responsible. During the course of his and Nina's dangerous assignment, Scola is plagued by the possibility that their son Doug could end up parentless."
+      },
+      {
+        "id": "tvmaze:2811077",
+        "title": "Family Affair",
+        "season": 6,
+        "episode": 10,
+        "released": "2024-04-23",
+        "overview": "After an FDIC security guard is killed while tending to a pregnant woman in distress, the team works to locate the woman and the killer who took her hostage. Meanwhile, OA and Isobel worry about Maggie as she navigates taking care of Ella."
+      },
+      {
+        "id": "tvmaze:2824012",
+        "title": "No One Left Behind",
+        "season": 6,
+        "episode": 11,
+        "released": "2024-05-07",
+        "overview": "The team is thrown into a highly political case after four members of the Taliban are shot and one is kidnapped in New York with no record of their entrance into the country. Having served in the U.S. Army, this case hits close to home for OA, who struggles to open up to Gemma about his past in Afghanistan."
+      },
+      {
+        "id": "tvmaze:2824013",
+        "title": "Consequences",
+        "season": 6,
+        "episode": 12,
+        "released": "2024-05-14",
+        "overview": "When a truck driver is murdered and the drug he was transporting goes missing, the team hunts for those behind the remaining batch that is already wreaking havoc on the streets of New York. Meanwhile, Jubal is thrust closer to the case when the identified suspect is someone close to him."
+      },
+      {
+        "id": "tvmaze:2824014",
+        "title": "Ring of Fire",
+        "season": 6,
+        "episode": 13,
+        "released": "2024-05-21",
+        "overview": "The Somalian terrorist group behind the death of Agent Hobbs resurfaces, sending the team on a chase to take them down for good."
+      },
+      {
+        "id": "tvmaze:2941498",
+        "title": "Abandoned",
+        "season": 7,
+        "episode": 1,
+        "released": "2024-10-15",
+        "overview": "The assassination of a seemingly ordinary Brooklyn plumber launches the team into a globe-spanning investigation that ruffles feathers with the CIA. Meanwhile, Tiffany struggles with fieldwork in the aftermath of the Hakim case."
+      },
+      {
+        "id": "tvmaze:3025791",
+        "title": "Trusted",
+        "season": 7,
+        "episode": 2,
+        "released": "2024-10-22",
+        "overview": "The team is on the case when a suburban couple is murdered and all forensic evidence points to the home's previous owner, who is currently serving 10 years in federal prison. Meanwhile, OA reunites with an old military colleague, and Scola tries to welcome a new partner."
+      },
+      {
+        "id": "tvmaze:3025792",
+        "title": "Détente",
+        "season": 7,
+        "episode": 3,
+        "released": "2024-10-29",
+        "overview": "After a series of targeted bombings in Queens, the team fears a citywide gang war is imminent – until a tip from OA's old Army buddy, Clay, directs their attention to an unexpected and powerful foe. Meanwhile, Scola continues to struggle to find a new partner."
+      },
+      {
+        "id": "tvmaze:3029705",
+        "title": "Doubted",
+        "season": 7,
+        "episode": 4,
+        "released": "2024-11-12",
+        "overview": "When the sister of FBI Behavioral Analysis Unit (BAU) profiler Sydney Ortiz is the victim of an attempted kidnapping and sexual assault, Sydney seeks help from Isobel and the team in tracking down a meticulous serial offender who leaves no evidence behind."
+      },
+      {
+        "id": "tvmaze:3041660",
+        "title": "Pledges",
+        "season": 7,
+        "episode": 5,
+        "released": "2024-11-19",
+        "overview": "When a chaotic campus protest turns deadly, the team is called in to help quell the mayhem and track down the murderer. Meanwhile, Jubal is concerned when Tyler is detained along with a group of student protestors."
+      },
+      {
+        "id": "tvmaze:3046698",
+        "title": "Perfect",
+        "season": 7,
+        "episode": 6,
+        "released": "2024-12-03",
+        "overview": "The team is called in to track down a serial killer after the bodies of multiple women with the same physical description are found scattered across the city. Meanwhile, Maggie juggles her roles as a guardian to Ella and an FBI agent."
+      },
+      {
+        "id": "tvmaze:3055486",
+        "title": "Monumental",
+        "season": 7,
+        "episode": 7,
+        "released": "2024-12-10",
+        "overview": "After a park ranger is shot dead by a masked assailant on Governors Island, the team discovers a string of connected crimes that leads them to their toughest roadblock yet: an online conspiracy theory community."
+      },
+      {
+        "id": "tvmaze:3055487",
+        "title": "Riptide",
+        "season": 7,
+        "episode": 8,
+        "released": "2024-12-17",
+        "overview": "After three customs officers are shot dead in a cargo heist, the team entrusts OA's old army buddy Clay to help determine if it was an inside job."
+      },
+      {
+        "id": "tvmaze:3052234",
+        "title": "Descent",
+        "season": 7,
+        "episode": 9,
+        "released": "2025-01-28",
+        "overview": "The investigation into an assistant U.S. attorney's death leads the team to a related airline whistleblower scandal and the chilling discovery that they don't have much time to thwart terrorists from crashing numerous in-flight commercial airplanes. Dealing with the memory of his brother, who was a 9/11 victim, the case pushes Scola hard to prevent another catastrophe."
+      },
+      {
+        "id": "tvmaze:3107636",
+        "title": "Redoubt",
+        "season": 7,
+        "episode": 10,
+        "released": "2025-02-04",
+        "overview": "Jubal's longtime confidential informant brings intel of an impending large-scale terror attack to the team, but when the details don't add up, Jubal must sift out the truth from a man who's known him at his worst."
+      },
+      {
+        "id": "tvmaze:3124433",
+        "title": "Shelter",
+        "season": 7,
+        "episode": 11,
+        "released": "2025-02-11",
+        "overview": "When a gunman opens fire at a homeless shelter in Astoria, the team is led toward a killer with connections to a Mexican cartel."
+      },
+      {
+        "id": "tvmaze:3129890",
+        "title": "Manhunt",
+        "season": 7,
+        "episode": 12,
+        "released": "2025-02-18",
+        "overview": "When the team's sex trafficking sting operation goes sideways, they race to recover a human trafficking victim. Meanwhile, Maggie makes a connection with a 911 operator to help find the girl before she is whisked out of the city or worse."
+      },
+      {
+        "id": "tvmaze:3149678",
+        "title": "Unearth",
+        "season": 7,
+        "episode": 13,
+        "released": "2025-02-25",
+        "overview": "After two jurors for a high-profile mafia trial are gunned down, the team jumps into an organized crime investigation until it is discovered that the jurors may not have been the intended targets at all. The case becomes personal for Scola when he learns that one of his former drill instructors from the military academy he attended may be linked."
+      },
+      {
+        "id": "tvmaze:3129891",
+        "title": "Hitched",
+        "season": 7,
+        "episode": 14,
+        "released": "2025-03-11",
+        "overview": "When a passenger train is hijacked and rerouted while at high speed with an unarmed OA and Gemma on board, the team races to wrest control away from the unhinged perpetrators and prevent a catastrophe."
+      },
+      {
+        "id": "tvmaze:3143515",
+        "title": "Acolyte",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-03-18",
+        "overview": "As Maggie and the team search for New York's latest serial killer, the copycat method used by the murderer forces Maggie to seek help from Ray Distefano, the serial slasher she put behind bars."
+      },
+      {
+        "id": "tvmaze:3155156",
+        "title": "Covered",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-04-01",
+        "overview": "When an undercover FBI agent is killed in the field, the team makes the unnerving discovery that the identities of multiple undercover agents have been compromised, including Maggie who has been actively working to infiltrate an eco-terrorist group. Meanwhile, the team enlists the help of Special Agent Dani Rhodes, whose cover was also blown, to not only save their own but to aid in uncovering who was behind the leak."
+      },
+      {
+        "id": "tvmaze:3170003",
+        "title": "Lineage",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-04-08",
+        "overview": "When a famous rapper and two teen fans are gunned down on his tour bus, the team discovers there may be more to the story than his feud with another rapper; Isobel hits a major milestone that has her contemplating her future at the Bureau"
+      },
+      {
+        "id": "tvmaze:3177118",
+        "title": "Blkpill",
+        "season": 7,
+        "episode": 18,
+        "released": "2025-04-15",
+        "overview": "After two women are brutally murdered via napalm, Maggie and OA are led to a dating site where they discover a group of scorned users who are targeting women who reject them."
+      },
+      {
+        "id": "tvmaze:3181012",
+        "title": "Partner",
+        "season": 7,
+        "episode": 19,
+        "released": "2025-04-22",
+        "overview": "After a young girl goes missing in Queens, the team discovers the kidnappers used her as leverage to carry out a major explosives heist, sending them on a hunt for the dangerous culprits. Meanwhile, Scola and Dani begin working on their footing as partners."
+      },
+      {
+        "id": "tvmaze:3181013",
+        "title": "Startup",
+        "season": 7,
+        "episode": 20,
+        "released": "2025-05-06",
+        "overview": "When a CEO is killed by a targeted explosion inside his penthouse, the team must work to figure out how someone accessed the highly secure building. Their task is further complicated when they discover the crime may be the work of an artificial intelligence program. Meanwhile, Maggie pumps the brakes on her personal life."
+      },
+      {
+        "id": "tvmaze:3181014",
+        "title": "Devoted",
+        "season": 7,
+        "episode": 21,
+        "released": "2025-05-13",
+        "overview": "When two IRS special agents are stabbed to death in Brooklyn, the team is thrown into an investigation that leads back to the resurgence of the online conspiracy community of Duke Ducoyle, their suspect from a previous case."
+      },
+      {
+        "id": "tvmaze:3181015",
+        "title": "A New Day",
+        "season": 7,
+        "episode": 22,
+        "released": "2025-05-20",
+        "overview": "After Jubal narrowly escapes a calculated assault on a secret FBI office, the team discovers a rogue terrorist group has infiltrated the FBI. Unsure of who to trust, the team must work in the shadows to unmask the culprits threatening the sanctity of the New York field office."
+      },
+      {
+        "id": "tvmaze:3301104",
+        "title": "Takeover",
+        "season": 8,
+        "episode": 1,
+        "released": "2025-10-13",
+        "overview": "After a federal judge disappears, a routine investigation takes a dark turn as the team uncovers that the judge had been searching for his missing son on a secluded island on the city's edge, where authority has crumbled. Meanwhile, reality weighs heavy on Jubal as he takes on a new leadership role."
+      },
+      {
+        "id": "tvmaze:3339163",
+        "title": "Captured",
+        "season": 8,
+        "episode": 2,
+        "released": "2025-10-20",
+        "overview": "When paintings from a high-profile international cultural exchange are stolen - leaving a security guard dead - the team races to recover the priceless artworks. Meanwhile, Maggie turns to a friend for help profiling suspects."
+      },
+      {
+        "id": "tvmaze:3389076",
+        "title": "Boy Scout",
+        "season": 8,
+        "episode": 3,
+        "released": "2025-10-27",
+        "overview": "After a young man is found beaten to death on federal land, Scola and Special Agent Eva Ramos hit a roadblock when their case intersects with a DEA operation. Meanwhile, there is a potential shake-up inside of the JOC."
+      },
+      {
+        "id": "tvmaze:3389078",
+        "title": "Manifest",
+        "season": 8,
+        "episode": 4,
+        "released": "2025-11-03",
+        "overview": "Following a failed assassination attempt on a U.S. senator, OA and Maggie are tasked with escorting her back to Washington, D.C. on a flight that becomes more perilous than imagined."
+      },
+      {
+        "id": "tvmaze:3389077",
+        "title": "Falsetto",
+        "season": 8,
+        "episode": 5,
+        "released": "2025-11-10",
+        "overview": "Maggie partners with Eva to hunt a killer after a shocking daytime stabbing in an NYC park. After a subsequent murder, they realize the assassin has a hit list, begging the question: \"Who's on it and who's next?,\""
+      },
+      {
+        "id": "tvmaze:3399045",
+        "title": "Parental",
+        "season": 8,
+        "episode": 6,
+        "released": "2025-11-17",
+        "overview": "When a robbery at a community clinic turns deadly, the team investigates a drug trafficking crew and soon uncovers that the clinic's doctor may be more involved than they initially thought. Meanwhile, Isobel and her stepdaughter are at odds over a family issue."
+      },
+      {
+        "id": "tvmaze:3401729",
+        "title": "Fadeaway",
+        "season": 8,
+        "episode": 7,
+        "released": "2025-12-01",
+        "overview": "When a large-scale explosion rocks a Brooklyn apartment complex, the team quickly locates the perpetrator and discovers he's acting on the orders of a convicted felon currently serving time. Meanwhile, Isobel must name her successor before she moves into her new role."
+      },
+      {
+        "id": "tvmaze:3401733",
+        "title": "Ratlined",
+        "season": 8,
+        "episode": 8,
+        "released": "2025-12-08",
+        "overview": "When a journalist is shot while interviewing a prime minister, all fingers point to an assassination attempt, but the team uncovers a deeper conspiracy after the assassin is also targeted. Meanwhile, OA struggles to let Gemma in on the dangers of his job."
+      },
+      {
+        "id": "tvmaze:3401737",
+        "title": "Lone Wolf",
+        "season": 8,
+        "episode": 9,
+        "released": "2025-12-15",
+        "overview": "As the holidays approach, the team finds three slain sex workers inside a brownstone - they uncover the murderer has a larger plan in place that they must rush to stop. Meanwhile, Jubal receives a concerning call from his son Tyler."
+      },
+      {
+        "id": "tvmaze:3442209",
+        "title": "Wolf Pack",
+        "season": 8,
+        "episode": 10,
+        "released": "2025-12-15",
+        "overview": "Chaos erupts in the city when an attack disrupts cell, internet and emergency services. As the team races to uncover the culprits, they learn the group responsible is a radical accelerationist movement fixated on resetting society."
+      },
+      {
+        "id": "tvmaze:3443460",
+        "title": "TBA",
+        "season": 8,
+        "episode": 11,
+        "released": "2026-02-23",
+        "overview": ""
+      }
+    ]
+  }
+}

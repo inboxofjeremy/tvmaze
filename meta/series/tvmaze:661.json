@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "id": "tvmaze:661",
+    "type": "series",
+    "name": "The Great Christmas Light Fight",
+    "description": "It's beginning to look a lot like Christmas with the hit holiday decorating competition series, The Great Christmas Light Fight. Decorating their homes to the extreme for Christmas, families and neighborhoods across America compete to win a cash prize and the coveted Light Fight trophy.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/359/898301.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/359/898301.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3432365",
+        "title": "Christmas Vacation",
+        "season": 13,
+        "episode": 3,
+        "released": "2025-12-11",
+        "overview": "The Hak, Paul and Riera families put their creative skills to the test to win the grand prize."
+      },
+      {
+        "id": "tvmaze:3432367",
+        "title": "Holiday Igloomination",
+        "season": 13,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "The Martin, Horn and Vistalli families compete in hopes of earning the $50,000 grand prize."
+      },
+      {
+        "id": "tvmaze:58190",
+        "title": "Drive-Thru Display",
+        "season": 1,
+        "episode": 1,
+        "released": "2013-12-09",
+        "overview": "The Great Christmas Light Fight is a new competition series in which 20 families from across America will decorate their homes to the extreme for Christmas - in ways that would certainly make even Clark Griswold envious - with a total of $250,000 in prizing ($50,000 won each week).The HOLT Family - Chesapeake, Virginia. Allen and Cattina Holt dress as elves, and dance with the neighborhood kids under their snow machine.The GOFF Family - Canon, Georgia. The Goff's are chicken farmers who use their entire property for their display. It's so large, visitors can drive through it!The BLOUNT Family - Laguna Hills, California. This California couple composed their own original song for their precise synchronized display on one of the largest residential light grids in the country.The LYNCH Family - Whitestone, New York. Kevin Lynch, a retired New York firefighter who experienced 9/11, buries all the cords in front of his real-life gingerbread house."
+      },
+      {
+        "id": "tvmaze:58191",
+        "title": "Rockin' Around the Rooftop",
+        "season": 1,
+        "episode": 2,
+        "released": "2013-12-16",
+        "overview": "The SMALL Family - Orange, Connecticut. With two infants and a 3-year old, Christopher and Maria have their hands full while decorating. When it comes time to turn on the lights for the judge, it doesn't go as planned.The RHODES Family - Cedar Park, Texas. Angie Rhodes created a Christmas Monster when she handed the decorating reins to husband Frank. The Rhodes' display now includes a beautiful blue-light waterfall and pond.The TITTIGER Family - Stockbridge, Georgia. Twins Jenny and Amy (26) decorate the home they grew up in as a Christmas gift to their parents. Her Mom tells them: \"Thank you… this is the greatest Christmas gift ever!\"The SIMMONS Family - Cathedral City, California. Michael Simmons put his lifetime of computer experience into his display. Along with his Venezuelan wife, they have an intricate synchronized display in the desert with over 200,000 lights."
+      },
+      {
+        "id": "tvmaze:58192",
+        "title": "Twin Takeover",
+        "season": 1,
+        "episode": 3,
+        "released": "2013-12-16",
+        "overview": "The PLAUCHE Family - Pass Christian, Mississippi. The Plauches home survived Hurricane Katrina and they wanted to share the positive spirit of Christmas lights with their less fortunate neighbors. They \"Let the Good Times Roll\" when a Mardi Gras float launches their spirited show, which has a rockin' version of \"N-O-E-L\" to the tune of \"YMCA\".The LARSEN Family - Elburn, Illinois. Confident Brian Larsen promises Michael Moloney \"this is like nothing you have ever seen\". Does Michael agree?The YANGELLO Family - Pennsville, New Jersey. Everyone gets in the act when this singing clan performs on the rooftop of their Christmas classic house display.The BAUGHMAN Family - Prosper, Texas. \"It's All About Jesus\", for the Baughmans, and when they present their display to Michael, which includes an arch over the entire house, there is no denying their love of Christmas."
+      },
+      {
+        "id": "tvmaze:58193",
+        "title": "A Christmas Shake Up",
+        "season": 1,
+        "episode": 4,
+        "released": "2013-12-23",
+        "overview": "The HYATT Family - Ft. Lauderdale, Florida. The Hyatts present Christmas in Florida, complete with dolphins, flamingoes, and a giant Ferris wheel!The PARADOWSKI Family - Decatur, Georgia. Tony Paradowski is a perfectionist, and it shows in his elegant display, \"Christmas in the Grove\". As a pilot, he says he has seen his display from 20,000 feet.The DOWNS Family - Norman, Oklahoma. One of the largest musically synchronized residential displays in the country, the Downs have mega-tree lights over 70 feet, and eye-popping creations spread out over 500 feet.The SATTERWHITE Family - Mechanicsville, Virginia. Lights and blow-molds cover every inch of the Satterwhite home and lawn, including a 65 foot mega-tree attached to a real tree. When a storm causes a short at the top of the tree on the day of the judging, Matthew has to perform a quick repair before Sabrina shows up."
+      },
+      {
+        "id": "tvmaze:58194",
+        "title": "May Your House Be Mouse-y and Bright",
+        "season": 1,
+        "episode": 5,
+        "released": "2013-12-23",
+        "overview": "The MIZE Family - Marinwood, California.The GAY Family - LaGrangeville, New York. Tim Gay's intricate geometric display centers around a pond. In 2012, the Gay family held the world record for most lights on a residential display.The MACRINA Family - Wyomissing, Pennsylvania. The Macrina's moved to a new house before the competition, so they had a challenge determining if they had enough lights, and where all their old lights would go on the new house.The KOWALCZYK Family - Tinley Park, Illinois. Dominic Kowalczyk and his spirited friends and family decorate a Winter Wonderland, including hundreds of custom wood figures, and one giant parrot."
+      },
+      {
+        "id": "tvmaze:58195",
+        "title": "Episode 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2014-12-08",
+        "overview": "Watch as four families from across the country showcase their spectacular displays of Christmas magic including: the Weaver family's 58' castle in their Winter Wonderland replete with hand-painted Disney cutouts in Rohnert Park, California; the Barnard family's live animal Nativity with 2 million lights sprawling across 8 acres in Lebanon, Tennessee; the Bagwell family's impeccably synchronized musical masterpiece in Springfield, Missouri; a \"talking house\" you have to see (and hear!) to believe at the home of the Belcher family in Rowlett, Texas who make a high-tech house party with projected images that make their house seem to come alive."
+      },
+      {
+        "id": "tvmaze:92040",
+        "title": "Episode 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2014-12-08",
+        "overview": "The philanthropic spirit of the season is spotlighted (literally!) with a rooftop searchlight atop the Daigle family's display in Paincourtville, Louisiana; the Loyas, along with their grandson, Jorge, in El Paso, Texas, have a magnificent creation they've built as a thank-you to the community that's given them so much since their humble beginnings; Tyler Horrocks and Joe Conway of Coventry, RI, are the youngest contestants ever to compete in the series. They usually have separate displays, but now combine their resources to pull together a DIY extravaganza. And the Apruzzi family of Old Bridge, NJ, honors their history and their monster truck with a dazzling display of wire frames."
+      },
+      {
+        "id": "tvmaze:92041",
+        "title": "Episode 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2014-12-15",
+        "overview": "The Lashbrook family from Owensboro, KY, whose display is a nostalgic wonderland with real pine trees planted specifically for Christmas decorating; the BetGeorge family from Newark, CA, have a musical extravaganza with live performances; down in San Antonio, TX, the Johnson family's synchronized light show is \"not your Grandma's Christmas display\". And, the Alexander family in Fresno, CA, have been topping themselves and their like-minded neighbors for 24 years, but is it enough to outshine their competition?"
+      },
+      {
+        "id": "tvmaze:92042",
+        "title": "Episode 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2014-12-15",
+        "overview": "In Dallas, TX, where Liz Simmons' \"Electric Lizzy Land\" is chock-full of festive critters and homemade crafts; three generations of the Ludy family in Columbus, GA, show their originality with one-of-a-kind wire frames that create an animated wonderland; the Huffty family of Jacksonville, FL, welcome onlookers with a life-size animatronic snowman named Sunny; and Vallejo, CA's Taylor family enlists their local fire department, and aluminum foil to blind the competition with their eye-popping display."
+      },
+      {
+        "id": "tvmaze:92043",
+        "title": "Episode 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2014-12-22",
+        "overview": "The Canizales family pay homage to their humble beginnings while simultaneously highlighting how far they've come with an explosion of light and color. The Roberts family kick up the traditional nativity several notches by adding a laser beam! Dover, FL, is home to \"Christmas Lane\", a magical holiday midway outfitted with everything from a skating rink to a \"teddy-go-round\", thanks to the Wetherington family. Finally, after 26 years, the Setti family in Norwalk, CT assembles their fantastical, hand-crafted Christmas village one final time before retiring their display for good."
+      },
+      {
+        "id": "tvmaze:92044",
+        "title": "Episode 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2014-12-22",
+        "overview": "The Thames family in Midland showcases their larger than life, homemade display featuring enormous poinsettias and a \"flame shooting\" sleigh! In Davie, FL, the Hammel family accommodates a sea of Christmas decorations and even an outdoor movie theater. Down in Clayton, NC, the Fuller family's attention to detail is hard to miss - just follow the shooting star to the orchestra of trees! In Windsor, CA, the Mortensen family transforms their home into the world's largest gingerbread house, complete with a personalized cast of cookie-themed characters and an over-the-top, holiday Cuckoo Clock."
+      },
+      {
+        "id": "tvmaze:399263",
+        "title": "Episode 1",
+        "season": 3,
+        "episode": 1,
+        "released": "2015-12-07",
+        "overview": "Watch as four families from across the country showcase their spectacular displays of Christmas magic, including the Atkins family's interactive display, a 50 foot \"love\" sign and plasma cut hearts honoring breast cancer survivors in Ocala, FL; the Pelletier family's 500 fireworks synchronized to music in Greenville, SC; the Kuhn family's 500,000 lights and specialty light projectors in St. George, UT and the Cadger family's \"spinning\" trees and light-up globe in Meridian, ID. Tune in to see whom judge Carter Oosterhouse awards $50,000 and the coveted Christmas Light trophy on the season three premiere of ABC's The Great Christmas Light Fight."
+      },
+      {
+        "id": "tvmaze:399264",
+        "title": "Episode 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2015-12-07",
+        "overview": "The festivities continue with the second episode, featuring the Phipps family, who incorporate music and original displays, including a 22' mega tree made out of PVC and aircraft cables in Livermore, CA; the Bartlett family's unique and entirely homemade displays in Ellicott City, MD; the Drelick family's Christmas snowflake set 52-feet high in the sky in Harleysville, PA, which can be seen half a mile away from the New Jersey turnpike; and the Hunt family, whose 20-foot Santa, 30,000 ice lights, 80,000 single strand bulbs and 10,000 feet of cable make this Ocala, FL, family's display not to be missed. Who will walk away with the $50,000 prize and coveted Christmas Light trophy? Watch judge Taniya Nayak take on the task on ABC's The Great Christmas Light Fight."
+      },
+      {
+        "id": "tvmaze:399265",
+        "title": "Episode 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2015-12-14",
+        "overview": "The Great Christmas Light Fight will feature three neighborhoods from across America decorating their community to the extreme for Christmas and competing for a $50,000 grand prize and the honor of being the first ever neighborhood to win. The featured neighborhoods include Lights on Jeter Bend in Celebration, FL; Weikele Christmas Lights in Waipahu, HI; and Christmas on Comstock in Gilbert, AZ."
+      },
+      {
+        "id": "tvmaze:521437",
+        "title": "Episode 4",
+        "season": 3,
+        "episode": 4,
+        "released": "2015-12-14",
+        "overview": "The Great Christmas Light Fight festivities continue with the fourth episode, featuring families from Pleasanton, CA, Hillsboro, TN, St. George, UT and Duluth, MN."
+      },
+      {
+        "id": "tvmaze:521438",
+        "title": "Episode 5",
+        "season": 3,
+        "episode": 5,
+        "released": "2015-12-21",
+        "overview": "The Great Christmas Light Fight festivities continue with four festive families from across the country showcasing their spectacular displays of Christmas magic, including the Nelson family's specially converted RGB \"star flakes,\" hand-built plasma icicles and thousands of lights that illuminate the sky in Elk Grove, CA; the Mish family's giant 15×15 Seahawks logo and innovative interior water and ice features in Kirkland, WA; the Hoag family's 30-foot platform of shooting stars and snowflakes and homemade carousel and Ferris wheel in Strongsville, OH; and the Finney family's star and angel, 50 feet in the air, four eight-foot Bibles, a 14-foot merry-go-round, two snow globes and a 16-foot snow slide in Crossett, AR."
+      },
+      {
+        "id": "tvmaze:521439",
+        "title": "Episode 6",
+        "season": 3,
+        "episode": 6,
+        "released": "2015-12-21",
+        "overview": "The Great Christmas Light Fight festivities conclude with the final episode of the season. Meet the Ziemkowski family, whose handmade animatronics and \"Pix-Z-Tree\" - a tree that features pixels and handmade craftsmanship - plus thousands of lights and music with synced video in Sherman Oaks, CA; the Koosman family, whose synchronized fire works show set to music and 450,000 LED strobe lights draw thousands of visitors to their home in Willmar, MN; the Sokol family, whose display includes a \"Slammin' Santa\" - Santa simulating a power dunk, and a jumping dolphin display with 2 projectors that simulate shimmering water and over 125,000 lights in Orlando, FL; and the Davis family of Longview, TX, whose display features over 1 million lights, a laser show, six dancing mega trees that are 45-feet high, and a handmade pond and river of blue lights."
+      },
+      {
+        "id": "tvmaze:978976",
+        "title": "Episode 1",
+        "season": 4,
+        "episode": 1,
+        "released": "2016-12-05",
+        "overview": "Season four kicks off as four families showcase their incredible Christmas displays, including the Johanessen family's 250,000 light home and \"Santa's Retreat\" in Winter Park, Florida; the Preston family's epic display with America's tallest and brightest Nativity scene in Kingman, Arizona; the Piper family's express-train ride through their multi-acre property in Wake Forest, North Carolina; and the Pugh family, whose former Navy pilot brings spirit and patriotism with their servicemen salute in Chesapeake, Virginia. Tune in to see which family judge Carter Oosterhouse awards $50,000 and the coveted Christmas Light trophy."
+      },
+      {
+        "id": "tvmaze:995248",
+        "title": "Episode 2",
+        "season": 4,
+        "episode": 2,
+        "released": "2016-12-05",
+        "overview": "The festivities continue in the second episode, featuring the Taylor family's \"Emoji celebration\" with Christmas emojis and a 20-foot high \"Frozen\" castle in Phoenix, Arizona; the Van Gent family's meticulous light show and giant synchronized float crafted by their house of engineers in Redding, California; the DiMartino family's inspirational Christmas display after the tragic loss of a beloved wife on 9/11, while also raising over $190,000 for a Pediatric Cancer Unit in Staten Island, New York; and the Kloos family's sibling duo, whose display makes them the youngest ever to compete on the show in East Brunswick, New Jersey. Watch as judge Taniya Nayak decides who will walk away with $50,000 and the coveted Christmas Light trophy."
+      },
+      {
+        "id": "tvmaze:996780",
+        "title": "Episode 3",
+        "season": 4,
+        "episode": 3,
+        "released": "2016-12-12",
+        "overview": "The magic continues with the Shaw family's display featuring more lights on its Christmas tree than the famed tree at Rockefeller Center in Cranbury, NJ; the Kasper-Cook family, who built their home to showcase a light show after being inspired by season one of \"The Great Christmas Light Fight,\" in Minnetrista, MN; the De Sario family, whose passion has helped them raise almost $150,000 for the Hospital for Sick Kids, in Toronto, Canada; and the Thompson family's husband-wife duo with an all-handmade holiday display in Glen Allen, VA. Watch to see who judge Taniya Nayak awards $50,000 and the coveted Light Fight trophy Part 1 of 2."
+      },
+      {
+        "id": "tvmaze:996781",
+        "title": "Episode 4",
+        "season": 4,
+        "episode": 4,
+        "released": "2016-12-12",
+        "overview": "The magic continues with the Shaw family's display featuring more lights on its Christmas tree than the famed tree at Rockefeller Center in Cranbury, NJ; the Kasper-Cook family, who built their home to showcase a light show after being inspired by season one of \"The Great Christmas Light Fight,\" in Minnetrista, MN; the De Sario family, whose passion has helped them raise almost $150,000 for the Hospital for Sick Kids, in Toronto, Canada; and the Thompson family's husband-wife duo with an all-handmade holiday display in Glen Allen, VA. Watch to see who judge Taniya Nayak awards $50,000 and the coveted Light Fight trophy Part 2 of 2."
+      },
+      {
+        "id": "tvmaze:996782",
+        "title": "Episode 5",
+        "season": 4,
+        "episode": 5,
+        "released": "2016-12-19",
+        "overview": "Competing displays include a Northwest-theme, classic Christmas toys, a two-acre showing organized by a 15-year-old, a theme park design, an eclectic array of decorations, animatronics, and a tribute to veterans, Part 1 of 2."
+      },
+      {
+        "id": "tvmaze:996783",
+        "title": "Episode 6",
+        "season": 4,
+        "episode": 6,
+        "released": "2016-12-19",
+        "overview": "Competing displays include a Northwest-theme, classic Christmas toys, a two-acre showing organized by a 15-year-old, a theme park design, an eclectic array of decorations, animatronics, and a tribute to veterans, Part 2 of 2."
+      },
+      {
+        "id": "tvmaze:1303025",
+        "title": "Episode 1",
+        "season": 5,
+        "episode": 1,
+        "released": "2017-12-04",
+        "overview": "Season five kicks off as four families showcase their incredible Christmas displays, including the Waters family's high-tech, entirely wireless light show in DeSoto, Texas; the Tomasello family's life-sized, interactive gingerbread house complete with their driveway ice-skating rink in Ronkonkoma, New York; the Heindel family's magical home featuring fun figurines to giant lollipops in Raleigh, North Carolina; and the Amarante family's acre and a half property covered in lights, including 78 wrapped trees and a special memory garden for their father in Dayville, Connecticut. Tune in to see which family judge Taniya Nayak awards $50,000 and the coveted Christmas Light trophy to."
+      },
+      {
+        "id": "tvmaze:1303026",
+        "title": "Episode 2",
+        "season": 5,
+        "episode": 2,
+        "released": "2017-12-04",
+        "overview": "The festivities continue in the second episode of the night, featuring the Gaddy family and their drive-through, seven-acre display with a Ferris wheel made from old trampolines, DIY carousel and Cars characters made from old farm equipment in Fayetteville, Georgia; the Bachelor family and their completely blue-lighted display covering both their front and backyards in Cedar Hill, Texas; the Stewart family and their larger-than-life display featuring a 40-foot wall of lights, suspended inflatables and a super-sized toy train ride in Fayetteville, Arkansas; and the Richins family with their concert of lights, including a five-piece band and 30,000 programmed channels in Gilbert, Arizona. Watch as judge Carter Oosterhouse decides who will walk away with $50,000 and the coveted Christmas Light trophy."
+      },
+      {
+        "id": "tvmaze:1355042",
+        "title": "Episode 3",
+        "season": 5,
+        "episode": 3,
+        "released": "2017-12-11",
+        "overview": "For the first time ever, \"The Great Christmas Light Fight\" features a neighbors vs. neighbors episode! Showcasing their incredible holiday displays are next-door neighbors, the Richards/Silver families, and their synchronized light show in Riverview, Florida; the Harhut family's combined properties of over 1,300 blow molds in Peckville, Pennsylvania; the Phifer family's display including an 80-foot tall real-life mega tree and Santa tracker in memory of their mother in Henrico, Virginia, and the Wilz family's patriotic display designed by military siblings in Bismarck, North Dakota. Who will be awarded $50,000 and the coveted Light Fight trophy?"
+      },
+      {
+        "id": "tvmaze:1355043",
+        "title": "Episode 4",
+        "season": 5,
+        "episode": 4,
+        "released": "2017-12-11",
+        "overview": "The festivities continue in the second episode of the night, featuring the Albrecht family and their massive display that runs up a mountainside, inspired by the love of their son with Down Syndrome, in Glenwood, Utah; the Sussin family and their father-son duo who balance brains and brawn into their quarter-acre property in Saugerties, New York; the Robinson family and their decked-out sloping yard and brand-new 46-foot mega tree in Red Cross, North Carolina; and the Wright family with their holiday display that endured even in the wake of Hurricane Harvey in Dayton, Texas."
+      },
+      {
+        "id": "tvmaze:1355044",
+        "title": "Episode 5",
+        "season": 5,
+        "episode": 5,
+        "released": "2017-12-18",
+        "overview": "Four festive families from across the country showcase their spectacular displays, including the Birkett family, whose home includes a self-built mine shaft filled with holiday spectacles and surprises, along with a colossal 3-story castle in Scottsdale, Arizona; the Gress family, whose display features a blow mold overload in Union Beach, New Jersey; the Latchford family, whose 5-acre farm holds restored mechanical figures, repainted cut-outs, a tunnel of ornaments and more in Callao, Missouri; and the Shoaf family, whose display uses binder clips to keep their mix of 115,000 incandescent and LED lights in perfect position in Durham, North Carolina. Find out which family judge Carter Oosterhouse awards $50,000 and the coveted Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:1355045",
+        "title": "Episode 6",
+        "season": 5,
+        "episode": 6,
+        "released": "2017-12-18",
+        "overview": "The festivities conclude in the final episode of the season, with the Tristan family and their winter wonderland full of nostalgic and whimsical characters for kids of all ages in Waco, Texas; the Cheslin-Laneaux family and their display inspired by The Osborne Family Spectacle of Dancing Lights at Walt Disney World, complete with their own dancing light show in Longwood, Florida; the Smaragdis family and their house covered in over 200,000 lights and 13 large dollhouse-style buildings in Indian Trail, North Carolina; and the Athens family with their Christmas display including a mistletoe arbor, Santa's cottage and old-fashioned cutouts in Mt. Shasta, California. Judge Taniya Nayak decides who will walk away with $50,000 and the coveted Christmas Light trophy."
+      },
+      {
+        "id": "tvmaze:1546136",
+        "title": "Episode 1",
+        "season": 6,
+        "episode": 1,
+        "released": "2018-11-26",
+        "overview": "Contestants include the Richardson family and their collection of 300 inflatables in Madison, Mississippi; the Vaughan family with their whimsical wire frame forest in Alexandria, Virginia; the Salveson-Sangalli family and their holiday display of 72 themed Christmas trees in Port St. Lucie, Florida; and the Hanley family with their larger-than-life ranch display in Cleveland, Texas. Judge Taniya Nayak decides who is awarded $50,000 and the coveted Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:1546137",
+        "title": "Episode 2",
+        "season": 6,
+        "episode": 2,
+        "released": "2018-11-26",
+        "overview": "Contestants include the Heide family's Long Island lawn, filled with blow molds and collectables in Merrick, New York; the Strycharz family's rockin' light show with thousands of synchronized lights in Wethersfield, Connecticut; the Watchorn family with their maze of decor made from used tires, old wire spools and torn inflatables in Ponca, Nebraska; and the Menashe family with their traditional holiday display in Seattle, Washington. Judge Carter Oosterhouse decides who walks away with $50,000 and the Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:1546138",
+        "title": "Episode 3",
+        "season": 6,
+        "episode": 3,
+        "released": "2018-12-03",
+        "overview": "Families compete in the first-ever \"Heavyweights\" episode, featuring displays that have grown too large for any home. Judge Carter Oosterhouse decides who will win $50,000 and the coveted Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:1546139",
+        "title": "Episode 4",
+        "season": 6,
+        "episode": 4,
+        "released": "2018-12-03",
+        "overview": "Four festive families showcase their displays, including the Mure family's massive Christmas block party; the Baus family's Disney World Christmas wonderland; the Mack family's Halloween-haunted labyrinth turned Christmas wonderland; and the Taylor-Goldstein family's 60-foot live Douglas Fir. Judge Taniya Nayak decides who walks away with $50,000 and the coveted Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:1579979",
+        "title": "All-Stars",
+        "season": 6,
+        "episode": 5,
+        "released": "2018-12-10",
+        "overview": "Celebrating the most incredible Christmas displays from the past five seasons on the show. The special episode highlights past competitors by featuring different categories of displays for an all-star lineup."
+      },
+      {
+        "id": "tvmaze:1546141",
+        "title": "Episode 6",
+        "season": 6,
+        "episode": 6,
+        "released": "2018-12-17",
+        "overview": "Four festive families from across the country showcase their spectacular displays, including the Medhurst family from Greeley, Colorado; the Gilley family from Ballplay, Alabama; the Chuchla house in Phoenix, Arizona; and the Smith family, in Temecula, California. Judge Carter Oosterhouse chooses the winner of $50,000 and the coveted Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:1580113",
+        "title": "Episode 7",
+        "season": 6,
+        "episode": 7,
+        "released": "2018-12-17",
+        "overview": "The festivities conclude with the Peace family and their pirate-themed light show in Escondido, California; the Schmidt family with their carousel house in Waco, Texas; the Chmielewski family with their amusement park display in Bismarck, North Dakota; and the Yoast family with their giant bulb garden in Ambler, Pennsylvania. Judge Taniya Nayak decides who walks away with $50,000 and the coveted Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:1752014",
+        "title": "Episode 1",
+        "season": 7,
+        "episode": 1,
+        "released": "2019-12-02",
+        "overview": "Tune in as judge Taniya Nayak makes the tough decision of who will be the first to walk away with $50,000 and the coveted Christmas Light trophy this holiday season on ABC's \"The Great Christmas Light Fight.\""
+      },
+      {
+        "id": "tvmaze:1752015",
+        "title": "Episode 2",
+        "season": 7,
+        "episode": 2,
+        "released": "2019-12-02",
+        "overview": "Watch as judge Carter Oosterhouse decides who Christmas will come early for as the winner of ABC's \"The Great Christmas Light Fight.\""
+      },
+      {
+        "id": "tvmaze:1752016",
+        "title": "Episode 3",
+        "season": 7,
+        "episode": 3,
+        "released": "2019-12-09",
+        "overview": "Who will walk away with $50,000 and the coveted Christmas Light trophy? Tune in to watch judge Taniya Nayak make the decision on ABC's \"The Great Christmas Light Fight!\""
+      },
+      {
+        "id": "tvmaze:1752017",
+        "title": "Episode 4",
+        "season": 7,
+        "episode": 4,
+        "released": "2019-12-09",
+        "overview": "Don't miss judge Carter Oosterhouse decide who will win $50,000 and the coveted Light Fight trophy on ABC's \"The Great Christmas Light Fight."
+      },
+      {
+        "id": "tvmaze:1752018",
+        "title": "Episode 5",
+        "season": 7,
+        "episode": 5,
+        "released": "2019-12-16",
+        "overview": "Holiday displays in Edmond, Okla.; Milton, Fla.; Moreno Valley, Calif.; Rossville, Ind.; Mechanicsville, Va.; Novato, Calif.; Boerne, Texas; and Las Vegas."
+      },
+      {
+        "id": "tvmaze:1752019",
+        "title": "Episode 6",
+        "season": 7,
+        "episode": 6,
+        "released": "2019-12-16",
+        "overview": "Who will walk away with $50,000 and the coveted Light Fight trophy? Watch judge Taniya Nayak make the final decision on ABC's \"The Great Christmas Light Fight.\""
+      },
+      {
+        "id": "tvmaze:1961768",
+        "title": "Episode 1",
+        "season": 8,
+        "episode": 1,
+        "released": "2020-12-09",
+        "overview": "The Reynolds family showcases a handcrafted garden display in La Verkin, Utah; the Fiore family builds a Christmas town surrounding their home in Wilmington, Massachusetts; the Trevisano family builds a Teddy Bear Christmas Land in St. Louis, Missouri; and the Barbieri family features pyrotechnics, hand-built animatronics, and a giant storybook, for its 40th year in Deer Park, New York. Judge Taniya Nayak chooses the winner."
+      },
+      {
+        "id": "tvmaze:1972406",
+        "title": "Episode 2",
+        "season": 8,
+        "episode": 2,
+        "released": "2020-12-09",
+        "overview": "The Sumner family features vintage animatronic Christmas scenes in every window in Jenks, Oklahoma; the DeBolt family puts on a synchronized light show in Boise, Idaho; the Stott Family displays motorized trains, a towering castle, and a massive mountain in Fontana, California; and the Markowski family creates a drive-through experience in Brownsville, Tennessee. Judge Carter Oosterhouse decides the winner."
+      },
+      {
+        "id": "tvmaze:1972407",
+        "title": "Episode 3",
+        "season": 8,
+        "episode": 3,
+        "released": "2020-12-16",
+        "overview": "The Storybook Land team is brimming with nostalgia and a million lights, as this family-owned amusement park continues to go all out for the holiday season in Egg Harbor Township, New Jersey; the Luminaria team's 55-acre botanical garden is one of the largest pixel fields in the world in Lehi, Utah; Folepi's Winter Wonderland creates an awe-inspiring parade of a million lights, featuring mammoth-sized floats in East Peoria, Illinois; and the World of Illumination creates an all-inclusive display, featuring over a million lights and boasts the world's largest RGB snowman, standing 36 feet tall in Glendale, Arizona. Judge Carter Oosterhouse picks the winner."
+      },
+      {
+        "id": "tvmaze:1972408",
+        "title": "Episode 4",
+        "season": 8,
+        "episode": 4,
+        "released": "2020-12-16",
+        "overview": "The Mattos family displays a vibrant, fully custom light show in their Apricot orchard, incorporating original music and homemade yet high tech digital artwork in San Jose, California; the Martel family decks out their front and back yard with shimmering lights, a high speed Ferris wheel, little houses with hidden elf scenes, and more for their 33rd year in Hamilton, New Jersey; the Irizarry-Serrano family displays a mystical \"City of Lights\" with breath-taking DIY elements in Lake Mary, Florida; and the Doody family transforms their home into the Vegas strip, featuring a custom Las Vegas sign, a massive fountain, and a light show in Las Vegas, Nevada. Judge Taniya Nayak makes the decision."
+      },
+      {
+        "id": "tvmaze:1975096",
+        "title": "Episode 5",
+        "season": 8,
+        "episode": 5,
+        "released": "2020-12-23",
+        "overview": "The Seddio family has one of the oldest displays in New York City, featuring Santa's workshop filled with charming animatronics, a singing Christmas tree, a blimp, and even stars from Disney on Ice in Brooklyn, New York; the Priem family creates a megawatt synchronized light show incorporating larger-than-life presents, Christmas ornaments, and a mega tree in Atlanta, Georgia; the Koors family fills every acre of their property with lights and simulated snow in Independence, Kentucky; and the Bigda family uses hand-drawn cutouts depicting every Disney character imaginable, crafted by everyday items in Winter Haven, Florida. Taniya Nayak decides the winner."
+      },
+      {
+        "id": "tvmaze:1975097",
+        "title": "Episode 6",
+        "season": 8,
+        "episode": 6,
+        "released": "2020-12-23",
+        "overview": "The Farmer family uses blow molds and inflatables, featuring a roof with more decorations than most family's entire display in Alexandria, Virginia; the Pennington family show a high-tech and jaw-dropping display in Corriganville, Maryland; the Padilla family has an interactive display reminiscent of a mini-Disneyland in Burbank, California; and the Register family uses exhaust pipes and other recycled goodies for a full throttle masterpiece in Surf City, North Carolina. Carter Oosterhouse picks the final winner of the season."
+      },
+      {
+        "id": "tvmaze:2204220",
+        "title": "Episode 1",
+        "season": 9,
+        "episode": 1,
+        "released": "2021-11-28",
+        "overview": "All is bright as Season 9 of the holiday classic begins! In the first ever state competition episode four families from California face off in the season premiere featuring the Ford Family, creating an incredible \"The Nightmare Before Christmas\" display including all of the characters, a scary toy factory and more in Mission Viejo, CA; the Quintero Family builds a whimsical Christmas meadow with over 8,000 handmade illuminated flowers radiating Zen and peace in Atwater, CA; the Aromin family puts on a magical and mesmerizing synchronized light show with a 12-foot replica of the Mickey Ferris Wheel in Fairfield, CA; and the Levy family builds a stunning light display with fencing completely encased in symmetrical diamond-shaped lights in Sacramento, CA. Tune in to watch judge Carter Oosterhouse choose the winner of the $50,000 and the coveted Light Fight Trophy."
+      },
+      {
+        "id": "tvmaze:2204265",
+        "title": "Episode 2",
+        "season": 9,
+        "episode": 2,
+        "released": "2021-11-28",
+        "overview": "The holiday cheer continues as  the statewide battle heads to Texas where the Wilson Family transforms their home into a dreamy Candyland featuring a reindeer flight school, the Peppermint Express train and even a spot for making s'mores in Windcrest, TX; the Wilhelm family puts on a dazzling light show, incorporating lively music, dancing lights and a one of a kind 10-foot tall hologram in Amarillo, TX; the Cox family displays a breath-taking DIY Winter Wonderland with elements from a handmade train to a life-size choir in Corpus Christi, TX; and the Bocanegra Family creates an awe-inspiring and unique nativity scene featuring Mary, Joseph, Baby Jesus and several life-sized animal figurines in Corpus Christi, TX. Catch Judge Taniya Nayak pick the state winner of the coveted Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:2204266",
+        "title": "Episode 3",
+        "season": 9,
+        "episode": 3,
+        "released": "2021-11-29",
+        "overview": "The holiday festivities are heating up as the statewide competition travels to Florida where the Sablich family creates a magical North Pole experience featuring Santa's Workshop with twinkling green and red lights wrapping their home in Fort Lauderdale, Florida; the McGonigle family decks out their property with lights perfectly spaced three inches apart, plus a gingerbread house and 102 dalmatians in Plantation, Florida; the Fester family showcases a vibrant display of 750,000 lights, 99 Christmas trees and more exciting surprises in Panama City Beach, Florida; and the Alred family reaches new heights with their elegant display incorporating light strands 75 feet high in Jacksonville, Florida. Watch as judge Taniya Nayak decides who will become the state winner"
+      },
+      {
+        "id": "tvmaze:2204267",
+        "title": "Episode 4",
+        "season": 9,
+        "episode": 4,
+        "released": "2021-11-29",
+        "overview": "The Christmas cheer continues in California as the Relvas family creates an extravagant Christmas town radiating European flavors of the Swiss Alps with over 400 figurines in Ladera Ranch, California; the Christensen family showcases their \"Frozen\" inspired holiday display and waterfall of lights in Citrus Heights, California; the Clark family presents a stunning display surrounding their home with seven themed areas from LED palm trees to a whimsical forest in Clarksburg, California; and the Berndt family puts on an incredible interactive display featuring a working train, penguin slide and giant claw lift that distributes presents to the children in Santa Rosa, California. Tune in to see Judge Carter Oosterhouse make the decision."
+      },
+      {
+        "id": "tvmaze:2204268",
+        "title": "Episode 5",
+        "season": 9,
+        "episode": 5,
+        "released": "2021-12-02",
+        "overview": "The festivities kick off in Texas with four cheerful families, featuring the Burkman family who bring the magic of Christmas to life with a vanilla-scented, life-size gingerbread house and an interactive selfie section in Frisco, Texas; the Price family perfectly combines the Christmas spirit with the occasional prank as their fun-loving display incorporates a dazzling archway, a 15-foot Mickey blow up, Fred the saxophone playing pine tree and more in Conroe, Texas; the Hinojosa family puts on a dazzling holiday display featuring elegant wire reindeers and a beautiful blue river of lights that brings a sense of love and community to the onlookers in Boerne, Texas; and the Cantu family shows off their display jam-packed with Mega trees, blow molds and thousands of lights illuminating the neighborhood for their 28th year in Palmview, Texas. Don't miss judge Taniya Nayak decide who will win $50,000 and the coveted Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:2204269",
+        "title": "Episode 6",
+        "season": 9,
+        "episode": 6,
+        "released": "2021-12-02",
+        "overview": "It's the final season nine episode and the displays in Arizona are bigger and brighter than ever as the Sepanek family puts on a nostalgic holiday display incorporating flying reindeer soaring 75 feet above multiple window displays and over 250,000 lights sprawled across their property in Phoenix, Arizona; the Tasker family shows off their sparkling light display with over 400 handmade cartoon cutouts and a Zooland of animals repurposed from old appliances in Laveen, Arizona; the Morales family starts the party with over 300,000 pixels that move to music, which has the onlookers dancing and jumping for joy, plus they bring snow all the way from the mountains in Tucson, Arizona; and finally, the Moussette family brings the Christmas feeling to the desert for their 32nd year, incorporating over 150 handmade cutouts and a 20-foot Santa Claus cactus in Tucson, Arizona. Stay tuned as we find out who takes home the coveted Light Fight trophy in Arizona when judge Carter Oosterhouse picks the final winner of the season."
+      },
+      {
+        "id": "tvmaze:2419815",
+        "title": "Episode 1",
+        "season": 10,
+        "episode": 1,
+        "released": "2022-11-28",
+        "overview": "It's beginning to look a lot like Christmas as season 10 of the tree-mendously popular series begins and four families face off! The Hellewell family creates an incredible interactive display that makes everyone of all ages feel like little kids with their custom-made inflatables, a giant playable piano and more in Newark, California. The Pratt family showcases their sweet-themed display with the first-ever motorized amusement park ride taking guests through Lollipop Lane, Peppermint Place and Marshmallow Way in Scottsdale, Arizona. The Maan family puts on a dazzling and awe-inspiring light show, combining traditional Christmas with the Indian Diwali Festival of Lights, featuring over 50,000 pixels in their display in Manteca, California. And the Lunsford family carries on their family tradition of building a stunning light display on their 90-acre farm, which has been in the family since the 1700s in Bowman, Georgia. Watch as judge Carter Oosterhouse decides who will win the $50,000 prize and coveted Light Fight Trophy"
+      },
+      {
+        "id": "tvmaze:2419816",
+        "title": "Episode 2",
+        "season": 10,
+        "episode": 2,
+        "released": "2022-11-28",
+        "overview": "Judge Taniya Nayak continues the holiday festivities as the Henderson family creates a breath-taking display with elements from festive cutouts to a four-hole mini-golf course in San Luis Obispo, California. The Allison family transforms their four-acre property into an elegant light show with a quarter-million lights which are brought to life through music in Havana, Florida. The Pazzini family puts on a vibrant display with inspiration from around the globe, featuring the Eiffel Tower, a Japanese koi pond, an Indian elephant and so much more in Florham Park, New Jersey. And the Watkins family transforms the inside and outside of their home into the ultimate Christmas fantasy land with individually themed rooms and a whimsical stairway in Las Vegas. Tune in to see judge Taniya Nayak choose the winner of the $50,000 prize and coveted Light Fight trophy"
+      },
+      {
+        "id": "tvmaze:2419817",
+        "title": "Episode 3",
+        "season": 10,
+        "episode": 3,
+        "released": "2022-12-05",
+        "overview": "The holiday festivities continue as the competition travels across the country with the Austin family transforming their house into a giant present with a 55 foot mega tree, a sandy beach area fresh with seashells and an 8 foot handmade gingerbread house in Kennesaw, Georgia; the Malone family turns Christmas into the most wonderful time of the year with their extravagant North Pole display for kids with a flying sled and hundreds of plush elves in Ridgecrest, California; the Harbeck family creates an epic light show with an ode to Star Wars that transforms into the ultimate dance party with 3D printed decor in Pasadena, California; and the Pelky family decks out their house with a vibrant display of traditional elements mixed with quirky Christmas characters in Mesa, Arizona. Catch judge Carter Oosterhouse decide who will become the winner of ABC's \"The Great Christmas Light Fight.\""
+      },
+      {
+        "id": "tvmaze:2419818",
+        "title": "Episode 4",
+        "season": 10,
+        "episode": 4,
+        "released": "2022-12-05",
+        "overview": "The battle continues as judge Taniya Nayak heads to the Sencil family who transform their home into a gingerbread house fresh out of the oven, delicious smells and all, using repurposed DIY products that leave kids in awe in Suisun City, California; the Castle family puts on a dazzling synchronized light show where it's techie in the front and tacky in the back incorporating decorations that have old sentimental value in Palm City, Florida; the Notchick family creates a beautiful southern Christmas in Florida display as the two retired Navy Veterans dedicate part of their display to all who have served in Jacksonville, Florida; and the Nahas family has a little of everything from a talking reindeer to outer space Christmas aliens, complete with a \"Tunnel of Christmas\" where all the themes collide in Staten Island, New York. Tune in to find out who wins the coveted Light Fight trophy on ABC's \"The Great Christmas Light Fight.\""
+      },
+      {
+        "id": "tvmaze:2419821",
+        "title": "Episode 5",
+        "season": 10,
+        "episode": 5,
+        "released": "2022-12-12",
+        "overview": "The holiday festivities conclude as Carter Oosterhouse and Taniya Nayak head to the most spectacular Christmas displays in America. In the back-to-back episodes, four families face off as they showcase their extravagant displays to compete for the coveted Light Fight trophy and $50,000."
+      },
+      {
+        "id": "tvmaze:2419822",
+        "title": "Episode 6",
+        "season": 10,
+        "episode": 6,
+        "released": "2022-12-12",
+        "overview": "The holiday festivities conclude as Carter Oosterhouse and Taniya Nayak head to the most spectacular Christmas displays in America. In the back-to-back episodes, four families face off as they showcase their extravagant displays to compete for the coveted Light Fight trophy and $50,000."
+      },
+      {
+        "id": "tvmaze:2679561",
+        "title": "All Stars 2",
+        "season": 11,
+        "episode": 1,
+        "released": "2023-11-26",
+        "overview": "The most wonderful time of the year is here as ABC's hit holiday decorating competition series, \"The Great Christmas Light Fight,\" returns taking a look back at some of the most iconic light displays from previous seasons in our All-Stars premiere episode."
+      },
+      {
+        "id": "tvmaze:2679564",
+        "title": "Episode 2",
+        "season": 11,
+        "episode": 2,
+        "released": "2023-12-03",
+        "overview": "It's beginning to look a lot like Christmas as season 11 of the tree-mendously popular series continues! The Hazard, Ward, Cirlin and Greene families compete for the $50,000 grand prize and coveted Light Fight trophy as Carter Oosterhouse judges these over-the-top displays."
+      },
+      {
+        "id": "tvmaze:2679566",
+        "title": "Episode 3",
+        "season": 11,
+        "episode": 3,
+        "released": "2023-12-10",
+        "overview": "Judge Taniya Nayak continues the holiday festivities as the Burton, Brown, Keeler and Paul families battle for the $50,000 grand prize and coveted Light Fight trophy on an all-new episode of \"The Great Christmas Light Fight.\""
+      },
+      {
+        "id": "tvmaze:2679567",
+        "title": "Heavyweights",
+        "season": 11,
+        "episode": 4,
+        "released": "2023-12-12",
+        "overview": "Host Taniya Nayak judges the River of Lights, NYC Winter Lantern Festival, Garden Lights Holiday Nights, and Galaxy Lights Heavyweight displays."
+      },
+      {
+        "id": "tvmaze:2679568",
+        "title": "Episode 5",
+        "season": 11,
+        "episode": 5,
+        "released": "2023-12-12",
+        "overview": "The Uszaki, Shotts, Tinnin and Salazar families compete for the $50,000 grand prize and coveted Light Fight trophy awarded by judge Carter Oosterhouse."
+      },
+      {
+        "id": "tvmaze:2679569",
+        "title": "Episode 6",
+        "season": 11,
+        "episode": 6,
+        "released": "2023-12-19",
+        "overview": "Taniya Nayak judges the Manfre, Swenson, Michael and Smith families as they battle to win the grand prize and coveted Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:2679570",
+        "title": "Episode 7",
+        "season": 11,
+        "episode": 7,
+        "released": "2023-12-19",
+        "overview": "On the season finale, judge Carter Oosterhouse sees the Rowe, Spacy, Hanson and Tran families compete for their shot at taking home the $50,000 prize and Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:3041849",
+        "title": "Episode 1",
+        "season": 12,
+        "episode": 1,
+        "released": "2024-12-05",
+        "overview": "It's beginning to look a lot like Christmas in the season 12 premiere! The Campbell, Connors, Foy and Hughes families compete for the $50,000 grand prize and coveted Light Fight trophy as Carter Oosterhouse judges these over-the-top displays."
+      },
+      {
+        "id": "tvmaze:3041850",
+        "title": "Episode 2",
+        "season": 12,
+        "episode": 2,
+        "released": "2024-12-05",
+        "overview": "Judge Taniya Nayak continues the holiday festivities as the Masone, Cook, Rezendes and Joules-Cornetti families battle for the $50,000 grand prize and Light Fight trophy on an all-new episode of \"The Great Christmas Light Fight.\""
+      },
+      {
+        "id": "tvmaze:3041851",
+        "title": "Episode 3",
+        "season": 12,
+        "episode": 3,
+        "released": "2024-12-12",
+        "overview": "The tree-mendous Christmas decor competition heats up as the Laakso, McCarty-Williams, Hetherington and Kittell families put their creative skills to the test to win the $50,000 grand prize and Light Fight trophy, with Taniya Nayak judging."
+      },
+      {
+        "id": "tvmaze:3041852",
+        "title": "Episode 4",
+        "season": 12,
+        "episode": 4,
+        "released": "2024-12-12",
+        "overview": "The holly jolly celebration continues as the Richards, Kraklow, Clark and Bell families face off in competition for the most spectacular holiday displays in hopes of earning the $50,000 grand prize and Light Fight trophy, as Carter Oosterhouse judges."
+      },
+      {
+        "id": "tvmaze:3041853",
+        "title": "Episode 5",
+        "season": 12,
+        "episode": 5,
+        "released": "2024-12-19",
+        "overview": "Who is the merriest and brightest of all? In this festive holiday decor competition, Carter Oosterhouse judges displays created by the Wright, Mach, Artz and MacGregor family, all vying for the $50,000 grand prize and Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:3041854",
+        "title": "Episode 6",
+        "season": 12,
+        "episode": 6,
+        "released": "2024-12-19",
+        "overview": "In the final showdown of the season, the Blasko, Slankard, Buchanan and Clinkscales families share their versions of winter wonderlands with judge Taniya Nayak in hopes of winning the $50,000 grand prize and Light Fight trophy."
+      },
+      {
+        "id": "tvmaze:3432360",
+        "title": "The Holiday Express",
+        "season": 13,
+        "episode": 1,
+        "released": "2025-12-04",
+        "overview": "The Palusso, Greason and Jimenez families compete for the $50,000 grand prize."
+      },
+      {
+        "id": "tvmaze:3432361",
+        "title": "Santa's Making His List",
+        "season": 13,
+        "episode": 2,
+        "released": "2025-12-04",
+        "overview": "The Irvin, Lunar and Kopatz families battle for the $50,000 grand prize."
+      },
+      {
+        "id": "tvmaze:3432365",
+        "title": "Christmas Vacation",
+        "season": 13,
+        "episode": 3,
+        "released": "2025-12-11",
+        "overview": "The Hak, Paul and Riera families put their creative skills to the test to win the grand prize."
+      },
+      {
+        "id": "tvmaze:3432367",
+        "title": "Holiday Igloomination",
+        "season": 13,
+        "episode": 4,
+        "released": "2025-12-11",
+        "overview": "The Martin, Horn and Vistalli families compete in hopes of earning the $50,000 grand prize."
+      },
+      {
+        "id": "tvmaze:3432369",
+        "title": "You Decked My Battleship",
+        "season": 13,
+        "episode": 5,
+        "released": "2025-12-18",
+        "overview": "Displays created by Nauticus' Winterfest, Imaginarium and River of Lights vie for the grand prize."
+      },
+      {
+        "id": "tvmaze:3432370",
+        "title": "It's Gonna Be Elftastic",
+        "season": 13,
+        "episode": 6,
+        "released": "2025-12-18",
+        "overview": "In the final showdown of the season, the Loder, Perez and Plourde families compete for the $50,000 grand prize."
+      }
+    ]
+  }
+}

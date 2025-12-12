@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:82219",
+    "type": "series",
+    "name": "The Arena with Kasie Hunt",
+    "description": "Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/558/1397079.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/558/1397079.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3456285",
+        "title": "Episode 205",
+        "season": 1,
+        "episode": 205,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

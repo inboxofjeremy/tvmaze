@@ -1,0 +1,796 @@
+{
+  "meta": {
+    "id": "tvmaze:49022",
+    "type": "series",
+    "name": "Mike Judge's Beavis and Butt-Head",
+    "description": "In this new iteration, Beavis and Butt-Head are entering a whole new Gen Z world. Comedy Central has ordered two seasons of the new series with meta-themes relatable to both new and old fans - Gen X parents and their Gen Z kids. Judge is set to write, produce and provide voice over for both iconic characters.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/458/1145724.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/458/1145724.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      },
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      },
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      },
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      },
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      },
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      },
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      },
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      },
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      },
+      {
+        "id": "tvmaze:2361505",
+        "title": "Beavis and Butt-Head in Escape Room",
+        "season": 1,
+        "episode": 1,
+        "released": "2022-08-04",
+        "overview": "Beavis and Butt-Head try to solve an Escape Room only to wind up trapped in the bathroom."
+      },
+      {
+        "id": "tvmaze:2370414",
+        "title": "Beavis and Fire - Beavis in The Special One",
+        "season": 1,
+        "episode": 2,
+        "released": "2022-08-04",
+        "overview": "Beavis meets his greatest hero, Fire."
+      },
+      {
+        "id": "tvmaze:2370415",
+        "title": "Beavis and Butt-Head in Boxed In",
+        "season": 1,
+        "episode": 3,
+        "released": "2022-08-04",
+        "overview": "Beavis and Butt-Head get trapped in a cardboard box while attempting to hide out in the school."
+      },
+      {
+        "id": "tvmaze:2374757",
+        "title": "Beavis and Butt-Head in Beekeepers",
+        "season": 1,
+        "episode": 4,
+        "released": "2022-08-04",
+        "overview": "Beavis and Butt-Head try to harvest honey from a wasps' nest."
+      },
+      {
+        "id": "tvmaze:2374758",
+        "title": "Beavis and Butt-Head in Roof",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-08-11",
+        "overview": "Beavis and Butt-Head get stuck on top of Tom Anderson's house."
+      },
+      {
+        "id": "tvmaze:2374759",
+        "title": "Beavis and Butt-Head in River",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-08-11",
+        "overview": "Beavis and Butt-Head go tubing on a river and end up lost at sea."
+      },
+      {
+        "id": "tvmaze:2375536",
+        "title": "Beavis and Butt-Head in The New Enemy",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-08-18",
+        "overview": "Raccoons steal Beavis and Butt-Head's nachos, and the boys fight back."
+      },
+      {
+        "id": "tvmaze:2375537",
+        "title": "Beavis and Butt-Head in The Doppelgänger",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-08-18",
+        "overview": "Beavis mistakes a stranger for Butthead, and then can't get rid of him."
+      },
+      {
+        "id": "tvmaze:2378995",
+        "title": "Beavis and Butt-Head in Nice Butt-Head",
+        "season": 1,
+        "episode": 9,
+        "released": "2022-08-25",
+        "overview": "Butt-Head is given medication for his aggression towards Beavis and becomes a little too nice."
+      },
+      {
+        "id": "tvmaze:2378996",
+        "title": "Old Beavis and Butt-Head in Home Aide",
+        "season": 1,
+        "episode": 10,
+        "released": "2022-08-25",
+        "overview": "Middle-aged Beavis and Butt-Head run out of beer money, so Beavis has to find a job."
+      },
+      {
+        "id": "tvmaze:2383493",
+        "title": "Beavis and Butt-Head in Virtual Stupidity",
+        "season": 1,
+        "episode": 11,
+        "released": "2022-09-01",
+        "overview": "Beavis and Butt-Head put on sunglasses and think they're virtual reality goggles."
+      },
+      {
+        "id": "tvmaze:2383494",
+        "title": "Beavis and Butt-Head in Locked Out",
+        "season": 1,
+        "episode": 12,
+        "released": "2022-09-01",
+        "overview": "Beavis and Butt-Head get locked out of their house and destroy it trying to get back in."
+      },
+      {
+        "id": "tvmaze:2388712",
+        "title": "Old Beavis and Butt-Head in Kidney",
+        "season": 1,
+        "episode": 13,
+        "released": "2022-09-08",
+        "overview": "Middle-Aged Beavis ruins his kidneys and a donor from Beavis's past saves the day."
+      },
+      {
+        "id": "tvmaze:2388713",
+        "title": "Beavis and Butt-Head in The Good Deed",
+        "season": 1,
+        "episode": 14,
+        "released": "2022-09-08",
+        "overview": "Beavis and Butt-Head perform their first ever good deed by putting DDT in the punch at the school dance."
+      },
+      {
+        "id": "tvmaze:2392870",
+        "title": "Old Beavis and Butt-Head in Two Stupid Men",
+        "season": 1,
+        "episode": 15,
+        "released": "2022-09-15",
+        "overview": "Middle-aged Beavis and Butt-Head fulfill their civic duty as jurors."
+      },
+      {
+        "id": "tvmaze:2392871",
+        "title": "Beavis and Butt-Head in Freaky Friday",
+        "season": 1,
+        "episode": 16,
+        "released": "2022-09-15",
+        "overview": "Beavis and Butt-Head mistakenly think they have switched bodies."
+      },
+      {
+        "id": "tvmaze:2397465",
+        "title": "Beavis and Butt-Head in Weird Girl",
+        "season": 1,
+        "episode": 17,
+        "released": "2022-09-22",
+        "overview": "Beavis encounters a secret admirer at school."
+      },
+      {
+        "id": "tvmaze:2397466",
+        "title": "Beavis and Butt-Head in Time Travelers",
+        "season": 1,
+        "episode": 18,
+        "released": "2022-09-22",
+        "overview": "Beavis and Butt-Head cross back and forth across the state line into the Mountain Time Zone and think they can travel through time."
+      },
+      {
+        "id": "tvmaze:2402416",
+        "title": "Beavis and Butt-Head in Spiritual Journey",
+        "season": 1,
+        "episode": 19,
+        "released": "2022-09-29",
+        "overview": "Beavis sees the face of Jesus in a nacho chip, setting him on an epic journey to seek answers to the big question - \"Why do I never score?\"."
+      },
+      {
+        "id": "tvmaze:2409694",
+        "title": "Beavis and Butt-Head in Refuse Service",
+        "season": 1,
+        "episode": 20,
+        "released": "2022-10-06",
+        "overview": "The boys discover they have the right to refuse service to customers at Burger World."
+      },
+      {
+        "id": "tvmaze:2409693",
+        "title": "Beavis and Butt-Head in Downward Dumbass",
+        "season": 1,
+        "episode": 21,
+        "released": "2022-10-06",
+        "overview": "Beavis tries on yoga pants and can't get them off."
+      },
+      {
+        "id": "tvmaze:2413864",
+        "title": "Beavis and Butt-Head in The Most Dangerous Game",
+        "season": 1,
+        "episode": 22,
+        "released": "2022-10-13",
+        "overview": "In order to prevent the other from putting their hand in a bowl of warm water, causing them to pee their pants, Beavis and Butt-Head stay awake for several days."
+      },
+      {
+        "id": "tvmaze:2413865",
+        "title": "Beavis and Butt-Head in Bone Hunters",
+        "season": 1,
+        "episode": 23,
+        "released": "2022-10-13",
+        "overview": "Beavis and Butt-Head construct a dinosaur skeleton out of bones from a BBQ."
+      },
+      {
+        "id": "tvmaze:2501541",
+        "title": "Beavis and Butt-Head in Meditation Sucks",
+        "season": 2,
+        "episode": 1,
+        "released": "2023-04-20",
+        "overview": "Beavis and Butt-Head try to empty their minds and find they are surprisingly good at it."
+      },
+      {
+        "id": "tvmaze:2501542",
+        "title": "Beavis and Butt-Head in Polling Place",
+        "season": 2,
+        "episode": 2,
+        "released": "2023-04-20",
+        "overview": "Beavis and Butt-Head mistake their neighborhood polling place for a strip club."
+      },
+      {
+        "id": "tvmaze:2529558",
+        "title": "Beavis and Butt-Head in Old Man Beavis",
+        "season": 2,
+        "episode": 3,
+        "released": "2023-04-20",
+        "overview": "Butt-Head makes Beavis look old so he can buy beer. Beavis ends up in a senior living facility and almost scores with an 80-year-old woman."
+      },
+      {
+        "id": "tvmaze:2535271",
+        "title": "Tom Anderson's War Stories: Incheon",
+        "season": 2,
+        "episode": 4,
+        "released": "2023-04-20",
+        "overview": "Tom Anderson recounts his time in the Battle of Incheon."
+      },
+      {
+        "id": "tvmaze:2529559",
+        "title": "Beavis and Butt-Head in Hunting Trip",
+        "season": 2,
+        "episode": 5,
+        "released": "2023-04-20",
+        "overview": "Tom Anderson takes Beavis and Butt-Head to the woods to hunt deer."
+      },
+      {
+        "id": "tvmaze:2529560",
+        "title": "Old Beavis and Butt-Head in Pardon Our Dust",
+        "season": 2,
+        "episode": 6,
+        "released": "2023-04-27",
+        "overview": "Middle-aged Beavis and Butt-Head attend a city council meeting to get their apartment demolished."
+      },
+      {
+        "id": "tvmaze:2529561",
+        "title": "Beavis and Butt-Head in Pranks",
+        "season": 2,
+        "episode": 7,
+        "released": "2023-04-27",
+        "overview": "Beavis and Butt-Head struggle to prank a neighborhood home."
+      },
+      {
+        "id": "tvmaze:2536969",
+        "title": "Beavis and Butt-Head in Hellhole",
+        "season": 2,
+        "episode": 8,
+        "released": "2023-05-04",
+        "overview": "Beavis and Butt-Head fall into a sewer and think they have died and gone to hell."
+      },
+      {
+        "id": "tvmaze:2536971",
+        "title": "Beavis and Butt-Head in Take a Bow",
+        "season": 2,
+        "episode": 9,
+        "released": "2023-05-04",
+        "overview": "Butt-Head teaches Beavis a new game, which puts him in the hospital."
+      },
+      {
+        "id": "tvmaze:2536082",
+        "title": "Beavis and Butt-Head in Tobacco Farmers",
+        "season": 2,
+        "episode": 10,
+        "released": "2023-05-11",
+        "overview": "Beavis and Butt-Head try to grow their own tobacco like George Washington."
+      },
+      {
+        "id": "tvmaze:2536083",
+        "title": "Old Beavis and Butt-Head in Married",
+        "season": 2,
+        "episode": 11,
+        "released": "2023-05-11",
+        "overview": "Middle-aged Beavis and Butt-Head go to the courthouse to settle a parking ticket and wind up getting married."
+      },
+      {
+        "id": "tvmaze:2546423",
+        "title": "Beavis and Butt-Head in Sad Boys",
+        "season": 2,
+        "episode": 12,
+        "released": "2023-05-18",
+        "overview": "After they see the attention an angsty emo kid gets from the ladies, Beavis and Butt-Head pretend to be sad and end up in a psychiatric hospital."
+      },
+      {
+        "id": "tvmaze:2546429",
+        "title": "Beavis and Butt-Head in Are You There God? It's Me, Beavis",
+        "season": 2,
+        "episode": 13,
+        "released": "2023-05-18",
+        "overview": "Beavis talks to God about his body and he thinks he is going through puberty, when in reality, he has rabies after being bitten by a rabid skunk."
+      },
+      {
+        "id": "tvmaze:2546435",
+        "title": "Beavis and Butt-Head in The Day Butt-Head Went Too Far",
+        "season": 2,
+        "episode": 14,
+        "released": "2023-05-25",
+        "overview": "Beavis decides he has finally had enough and hires a hitman to kill Butt-Head."
+      },
+      {
+        "id": "tvmaze:2557782",
+        "title": "Tom Anderson's War Stories: Heartbreak Ridge",
+        "season": 2,
+        "episode": 15,
+        "released": "2023-05-25",
+        "overview": "Tom Anderson recounts his time in the Battle of Heartbreak Ridge."
+      },
+      {
+        "id": "tvmaze:2546436",
+        "title": "Beavis and Butt-Head in Spring Break",
+        "season": 2,
+        "episode": 16,
+        "released": "2023-05-25",
+        "overview": "Beavis and Butt-Head try to mail themselves to Spring Break."
+      },
+      {
+        "id": "tvmaze:2561901",
+        "title": "Beavis and Butt-Head in The Warrior",
+        "season": 2,
+        "episode": 17,
+        "released": "2023-06-01",
+        "overview": "After Beavis is challenged to a fight, Butt-Head trains him to become a champion."
+      },
+      {
+        "id": "tvmaze:2561902",
+        "title": "Old Beavis and Butt-Head in Vasectomies",
+        "season": 2,
+        "episode": 18,
+        "released": "2023-06-01",
+        "overview": "Middle-aged Beavis and Butt-Head think their sperms are holding themback from scoring and decide to get vasectomies."
+      },
+      {
+        "id": "tvmaze:2564664",
+        "title": "Old Beavis and Butt-Head in Stolen Valor",
+        "season": 2,
+        "episode": 19,
+        "released": "2023-06-08",
+        "overview": "Middle-aged Beavis and Butt-Head pose as vets for free beer."
+      },
+      {
+        "id": "tvmaze:2564665",
+        "title": "Beavis and Butt-Head in Breeding Frenzy",
+        "season": 2,
+        "episode": 20,
+        "released": "2023-06-08",
+        "overview": "Beavis and Butt-Head try to get rich by breeding dogs with a raccoon they found in a garbage can."
+      },
+      {
+        "id": "tvmaze:2569738",
+        "title": "Beavis and Butt-Head in Hoarders",
+        "season": 2,
+        "episode": 21,
+        "released": "2023-06-15",
+        "overview": "Beavis and Butt-Head fill their house with garbage to meet girls."
+      },
+      {
+        "id": "tvmaze:2569739",
+        "title": "Beavis and Butt-Head in Needle Dicks",
+        "season": 2,
+        "episode": 22,
+        "released": "2023-06-15",
+        "overview": "Beavis and Butt-Head try acupuncture, and Beavis decides to spend the rest of his life with 50 needles in his face."
+      },
+      {
+        "id": "tvmaze:2569740",
+        "title": "Beavis and Butt-Head in The Ciabatta Zone",
+        "season": 2,
+        "episode": 23,
+        "released": "2023-06-22",
+        "overview": "Beavis and Butt-Head both want to wear the Burger World giant hamburger costume."
+      },
+      {
+        "id": "tvmaze:2575582",
+        "title": "Tom Anderson's War Stories: Korean Farmhouse",
+        "season": 2,
+        "episode": 24,
+        "released": "2023-06-22",
+        "overview": "Tom Anderson tells the story of his time serving in the Korean War fixing a farmer's kitchen pipe."
+      },
+      {
+        "id": "tvmaze:2569741",
+        "title": "Old Beavis and Butt-Head in Warehouse",
+        "season": 2,
+        "episode": 25,
+        "released": "2023-06-22",
+        "overview": "Middle-aged Beavis and Butt-Head get a warehouse job at the world's biggest internet retail company. You know the one we mean."
+      },
+      {
+        "id": "tvmaze:2569742",
+        "title": "Smart Beavis and Butt-Head in Abduction",
+        "season": 2,
+        "episode": 26,
+        "released": "2023-06-29",
+        "overview": "Smart Beavis and Smart Butt-Head visit Earth and abduct Tom Anderson for human experiments."
+      },
+      {
+        "id": "tvmaze:2569743",
+        "title": "Beavis and Butt-Head in Sleepover",
+        "season": 2,
+        "episode": 27,
+        "released": "2023-06-29",
+        "overview": "Beavis and Butt-Head are invited to sleep over at Cody's house when his parents mistakenly think they're good friends."
+      },
+      {
+        "id": "tvmaze:3313335",
+        "title": "Beavis and Butt-Head in Braces",
+        "season": 3,
+        "episode": 1,
+        "released": "2025-09-03",
+        "overview": "Butt-Head loses his braces and realizes he's beautiful."
+      },
+      {
+        "id": "tvmaze:3337276",
+        "title": "Old Beavis and Butt-Head in Heart Attack",
+        "season": 3,
+        "episode": 2,
+        "released": "2025-09-03",
+        "overview": "Middle-aged Butt-Head suffers a heart attack and it's up to Beavis to save him."
+      },
+      {
+        "id": "tvmaze:3337277",
+        "title": "Old Beavis and Butt-Head in Plumber's Helpers",
+        "season": 3,
+        "episode": 3,
+        "released": "2025-09-03",
+        "overview": "Middle-aged Beavis and Butt-Head work for their childhood hero, Todd."
+      },
+      {
+        "id": "tvmaze:3337278",
+        "title": "Beavis and Butt-Head in A.I.",
+        "season": 3,
+        "episode": 4,
+        "released": "2025-09-03",
+        "overview": "Beavis and Butt-Head try to get A.I. to do their homework."
+      },
+      {
+        "id": "tvmaze:3350897",
+        "title": "Beavis and Butt-Head in Scent of a Dumbass",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-09-10",
+        "overview": "Beavis and Butt-Head mistake a can of pepper spray for men's cologne."
+      },
+      {
+        "id": "tvmaze:3350898",
+        "title": "Old Beavis and Butt-Head in New Couch",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-09-10",
+        "overview": "Middle-aged Beavis and Butt-Head struggle to get a new couch into their apartment."
+      },
+      {
+        "id": "tvmaze:3350899",
+        "title": "Beavis and Butt-Head in Nuts",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-09-17",
+        "overview": "Beavis receives the worst news of his life."
+      },
+      {
+        "id": "tvmaze:3370482",
+        "title": "Tom Anderson's War Stories: Love",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-09-17",
+        "overview": "Tom Anderson recounts his time recovering from injuries sustained at the Battle of Bloody Ridge, where he explains a time when love bloomed amidst in the middle of the war."
+      },
+      {
+        "id": "tvmaze:3350900",
+        "title": "Old Beavis and Butt-Head in Bike",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-09-17",
+        "overview": "Middle-aged Beavis and Butt-Head pay a visit to their old friend Stewart."
+      },
+      {
+        "id": "tvmaze:3357360",
+        "title": "Beavis and Butt-Head in Life Savers",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-09-24",
+        "overview": "Van Driessen is badly injured in the woods, and only Beavis and Butt-Head can rescue him."
+      },
+      {
+        "id": "tvmaze:3357361",
+        "title": "Old Beavis and Butt-Head in Tattoo",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-09-24",
+        "overview": "After a wild night out, middle-aged Beavis wakes up with a tattoo he doesn't remember getting."
+      },
+      {
+        "id": "tvmaze:3376046",
+        "title": "Old Beavis and Butt-Head in Too Big to Fall",
+        "season": 3,
+        "episode": 12,
+        "released": "2025-10-01",
+        "overview": "Middle-aged Butt-Head tries to avoid eviction by getting as fat as possible."
+      },
+      {
+        "id": "tvmaze:3385813",
+        "title": "Swipe Right with David Van Driessen",
+        "season": 3,
+        "episode": 13,
+        "released": "2025-10-01",
+        "overview": "A look into the dating life of David Van Driessen."
+      },
+      {
+        "id": "tvmaze:3376045",
+        "title": "Beavis and Butt-Head in Metal Detector",
+        "season": 3,
+        "episode": 14,
+        "released": "2025-10-01",
+        "overview": "Beavis and Butt-Head use Mr. Anderson's metal detector to find treasure."
+      },
+      {
+        "id": "tvmaze:3383963",
+        "title": "Beavis and Butt-Head in Depositors",
+        "season": 3,
+        "episode": 15,
+        "released": "2025-10-08",
+        "overview": "Beavis and Butt-Head try to donate sperm at a regular bank."
+      },
+      {
+        "id": "tvmaze:3391393",
+        "title": "Tom Anderson's War Stories: Summer of Love",
+        "season": 3,
+        "episode": 16,
+        "released": "2025-10-08",
+        "overview": "Tom Anderson recounts his experiences as a hippie during the Summer of Love after becoming disillusioned with the Vietnam War."
+      },
+      {
+        "id": "tvmaze:3383964",
+        "title": "Beavis and Butt-Head in Nacho Shake",
+        "season": 3,
+        "episode": 17,
+        "released": "2025-10-08",
+        "overview": "Beavis and Butt-Head invent a new Burger World menu item that will make them rich."
+      },
+      {
+        "id": "tvmaze:3390697",
+        "title": "Beavis and Butt-Head in Ear",
+        "season": 3,
+        "episode": 18,
+        "released": "2025-10-15",
+        "overview": "Butt-Head blows off Beavis's ear and tries to reattach it."
+      },
+      {
+        "id": "tvmaze:3398625",
+        "title": "Songs of Nature with David Van Driessen",
+        "season": 3,
+        "episode": 19,
+        "released": "2025-10-15",
+        "overview": "Mr. Van Driessen was all set to play some guitar beats for his new video series... until he took a legendary tumble and got mauled by a mountain lion."
+      },
+      {
+        "id": "tvmaze:3390698",
+        "title": "Beavis and Butt-Head in Dearly Departed",
+        "season": 3,
+        "episode": 20,
+        "released": "2025-10-15",
+        "overview": "Beavis and Butt-Head think Beavis has died and is now a ghost."
+      },
+      {
+        "id": "tvmaze:3398626",
+        "title": "Old Beavis and Butt-Head in The Mission",
+        "season": 3,
+        "episode": 21,
+        "released": "2025-10-29",
+        "overview": "Middle-aged Beavis and Butt-Head join a church group, thinking it is a squad of soldiers going to war."
+      },
+      {
+        "id": "tvmaze:3425972",
+        "title": "Tom Anderson's Vacation Stories",
+        "season": 3,
+        "episode": 22,
+        "released": "2025-10-29",
+        "overview": "Beavis and Butt-Head almost ruin the Andersons' vacation in Mexico before Tom beats them up."
+      },
+      {
+        "id": "tvmaze:3398627",
+        "title": "Beavis and Butt-Head in Beavis H.",
+        "season": 3,
+        "episode": 23,
+        "released": "2025-10-29",
+        "overview": "A new kid joins Beavis and Butt-Head's class."
+      },
+      {
+        "id": "tvmaze:3400693",
+        "title": "Old Beavis and Butt-Head in Work from Home",
+        "season": 3,
+        "episode": 24,
+        "released": "2025-11-12",
+        "overview": "Middle-aged Beavis and Butt-head work and live at Burger World."
+      },
+      {
+        "id": "tvmaze:3439762",
+        "title": "Story Time with Dr. Beavis and Dr. Butt-Head",
+        "season": 3,
+        "episode": 25,
+        "released": "2025-11-12",
+        "overview": "Old Beavis and Butt-Head write a book in the style of Dr. Seuss with its art style and writing, titled \"Lumbass the Dumbass\"."
+      },
+      {
+        "id": "tvmaze:3400692",
+        "title": "Beavis and Butt-Head in Bed and Breakfast",
+        "season": 3,
+        "episode": 26,
+        "released": "2025-11-12",
+        "overview": "When a woman mistakes Beavis and Butt-Head's house for her Airbnb, they think she wants to score."
+      },
+      {
+        "id": "tvmaze:3439760",
+        "title": "Old Beavis and Butt-Head in Million Dollar Reward",
+        "season": 3,
+        "episode": 27,
+        "released": "2025-11-26",
+        "overview": "Middle-aged Beavis and Butt-Head try to get a reward by turning themselves into the police for various crimes."
+      },
+      {
+        "id": "tvmaze:3439761",
+        "title": "Beavis and Butt-Head in Get Well Soon",
+        "season": 3,
+        "episode": 28,
+        "released": "2025-11-26",
+        "overview": "Butt-Head makes Beavis break his arm so girls will sign his cast."
+      },
+      {
+        "id": "tvmaze:3452007",
+        "title": "Old Beavis and Butt-Head in Oldholio",
+        "season": 3,
+        "episode": 29,
+        "released": "2025-12-10",
+        "overview": "Middle-aged Beavis takes too many old-people medications."
+      },
+      {
+        "id": "tvmaze:3452008",
+        "title": "Smart Beavis and Butt-Head in Discoverers",
+        "season": 3,
+        "episode": 30,
+        "released": "2025-12-10",
+        "overview": "On a mission to Earth, Smart Beavis and Butt-Head make a discovery."
+      }
+    ]
+  }
+}

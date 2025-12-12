@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:9493",
+    "type": "series",
+    "name": "MAC Football Championship",
+    "description": "The MAC Football Championship is a football game between the winners of the East and West divisions of the Mid-American Conference (MAC) to determine the conference champion. The game has been played and aired on one of ESPN TV's family of networks since 5 December 1997, when the conference was first divided into divisions and since 2003 has been sponsored by Marathon Oil. The winner of the game is guaranteed a berth in a bowl game which the MAC has contractual obligations to field a team. Since 2004, the championship game has been played at Ford Field in Detroit, Michigan. Previously the game was held at campus sites. In 2000, 2001, and 2007, due to an unbalanced conference schedule, the team with best division record within each division was awarded that division's championship game berth. In other years, the teams with the best overall conference records received a berth.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/468/1172380.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/468/1172380.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3259839",
+        "title": "2025 MAC Football Championship Game: Miami (Ohio) RedHawks vs. Western Michigan Broncos",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-12-06",
+        "overview": "Live from Ford Field, Detroit, MI."
+      }
+    ]
+  }
+}

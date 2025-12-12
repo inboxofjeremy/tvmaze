@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "id": "tvmaze:72615",
+    "type": "series",
+    "name": "The UnBelievable with Dan Aykroyd",
+    "description": "Did you know that a brown bear became a war hero for the Allies during WWII? Or that a flying lawnmower once killed a spectator at a football game? What about the story of the 19th century doctor who ate vomit to understand how yellow fever is transmitted?If you haven't, then brace yourself for The UnBelievable with Dan Aykroyd.Each hour-long episode will open up our cabinet of curiosities to reveal the strangest-but-true stories in human history, brought to life through dynamic recreation, compelling graphics, and arresting archival. These seemingly tall tales all actually happened, and our cast of experts dives into the historical record to tell you how and why.It's a bizarro barrage of people, places and events that prove just how weird our world can be.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/596/1492494.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/596/1492494.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440463",
+        "title": "Man vs. Nature",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-12-05",
+        "overview": "Mother Nature may be breathtaking—but she doesn't always play nice."
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2685140",
+        "title": "Strange Places",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-12-01",
+        "overview": "Shipwrecks, plane crashes, disappearances, and UFO sightings, oh my! This episode explores the Lake Michigan Triangle and many other wild and weird places, including a creepy doll-filled island with a dark past, deadly gas-filled explosive lakes, caves that harbor deadly viruses, and the most haunted place in the U.S."
+      },
+      {
+        "id": "tvmaze:2685141",
+        "title": "Bizarre Deaths",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-12-08",
+        "overview": "In Boston, a 25-foot tidal wave of molasses; a dancing plague that kills 100 people; a surgery with a 300% mortality rate; searching the globe for the strangest and most bizarre deaths on record."
+      },
+      {
+        "id": "tvmaze:2701749",
+        "title": "Astonishing Bodies",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-12-15",
+        "overview": "From a headless chicken that lives over one year, to an out-of-this-world \"celestial body\" where it rains molten glass...We explore the most astonishing bodies through these truly unbelievable stories. Here are the true tales of not only the tallest human ever measured, but also the shortest person on record. What about the man who survived an iron bar through his head, or a Medusa-like body of water that turns its victims to stone? Brace yourself for the extraordinary."
+      },
+      {
+        "id": "tvmaze:2701750",
+        "title": "Weird Weapons",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-12-22",
+        "overview": "Did you ever wonder what it would be like to get attacked by a million bats with tiny bombs strapped to their chests? What about inflatable tanks, robot assassins, bazooka Vespas, war dolphins...The list of outrageous weapons goes on! These weapons, and others, pushed the boundaries of \"possible\" in the weirdest ways ever."
+      },
+      {
+        "id": "tvmaze:2717333",
+        "title": "Outlandish Inventions",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-01-02",
+        "overview": "Looking at outlandish inventions; a full-body gas mask for babies; Smell-o-Vision; a robot powered by eating slugs; inflatable airplanes; hidden cameras in contact lenses; coffin security systems."
+      },
+      {
+        "id": "tvmaze:2717334",
+        "title": "Superhumans",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-01-05",
+        "overview": "A blind man who uses bat-like powers of echolocation to navigate his surroundings; a samurai with reflexes faster than a speeding bullet; a man who's immune to electrocution."
+      },
+      {
+        "id": "tvmaze:2717335",
+        "title": "Unusual Rituals",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-01-12",
+        "overview": "Human bones as a \"miracle cure\" for gout; living mummies buried alive; a truly bizarre Victorian way to lose weight -- with tapeworms; from daily rites to once-in-a-lifetime rituals, the stranger side of human nature is revealed in these rituals."
+      },
+      {
+        "id": "tvmaze:2717364",
+        "title": "Strange Experiments",
+        "season": 1,
+        "episode": 8,
+        "released": "2024-01-19",
+        "overview": "Monkey glands for immortality, hypnotized assassins, and a brain-linked cyborg couple. We investigate some of the strangest experiments on record. From two-headed dogs and testicle transplants...These are the bizarre but real experiments that boggle the mind. Prepare to be astounded--and a little grossed out."
+      },
+      {
+        "id": "tvmaze:2717372",
+        "title": "What Lies Beneath",
+        "season": 1,
+        "episode": 9,
+        "released": "2024-02-02",
+        "overview": "Sometimes the strangest things on Earth...are happening just below its surface. From tunnels carved by giant sloths to desperate attempts to stop the dead from rising again--these are the weird and wonderous tales of the sea beasts, hidden cities and impossible creatures that lurk beneath us."
+      },
+      {
+        "id": "tvmaze:2717373",
+        "title": "Surviving the Impossible",
+        "season": 1,
+        "episode": 10,
+        "released": "2024-02-09",
+        "overview": "Imagine free falling 30,000 feet without a parachute, or being buried alive and living to tell the tale. Or... what about getting trapped in a tiny room inside a sunken ship on the ocean floor...For three days? These are improbable yet true-life tales of surviving the most extraordinary conditions."
+      },
+      {
+        "id": "tvmaze:3028005",
+        "title": "It Came From Above",
+        "season": 2,
+        "episode": 1,
+        "released": "2024-11-15",
+        "overview": "Have you ever wondered about the most bizarre things that have fallen from the sky? From meteorites to seafood, and even bathtubs, these are some truly unbelievable stories of what comes from above. Don't believe it? Just look up!"
+      },
+      {
+        "id": "tvmaze:3028006",
+        "title": "Sweet Revenge",
+        "season": 2,
+        "episode": 2,
+        "released": "2024-11-22",
+        "overview": "I'm sure you've heard of an eye for an eye, but have you heard about some of the sweetest stories of revenge? Like the one about a man in Colorado that uses a \"killdozer\" to settle a zoning dispute or another about an Emperor who pickles his wife's lover? This episode explores unbelievable vengeance seekers who take things maybe a little, well… too far."
+      },
+      {
+        "id": "tvmaze:3028007",
+        "title": "Fantastic Beings",
+        "season": 2,
+        "episode": 3,
+        "released": "2024-11-29",
+        "overview": "Have you heard about the warrior bear who helped the allies win WWII? Or how about the real-life hobbit humans in ancient Indonesia? What if I told you gerbils were recruited to fight crime in Canadian jails? This episode explores the unbelievable stories of the planet's most fantastic beings."
+      },
+      {
+        "id": "tvmaze:3041930",
+        "title": "Unusual Places",
+        "season": 2,
+        "episode": 4,
+        "released": "2024-12-06",
+        "overview": "Imagine a city where the commute requires a zipline, or a town crawling with some strange monkeys, and even a spot that holds a beautiful waterfall that spews blood. Get your passports ready, as we take a tour of the most unusual places in history."
+      },
+      {
+        "id": "tvmaze:3053556",
+        "title": "A Thousand Ways to Die",
+        "season": 2,
+        "episode": 5,
+        "released": "2024-12-13",
+        "overview": "Did you know beards can be deadly? Or that a lawnmower once killed a spectator at a football game? What if I told you someone died from drinking too much water? These are just some of the wild and crazy deaths...that are truly unbelievable."
+      },
+      {
+        "id": "tvmaze:3053558",
+        "title": "Bizarre Innovations",
+        "season": 2,
+        "episode": 6,
+        "released": "2024-12-20",
+        "overview": "Some of history's most brilliant innovations are also the most bizarre. Like a fully functioning car that hovers in midair. Or clothing made out of everyone's favorite source of calcium. How about a robot dog that breathes fire? These are the tales of history's most bizarre inventions."
+      },
+      {
+        "id": "tvmaze:3053559",
+        "title": "Strange Games",
+        "season": 2,
+        "episode": 7,
+        "released": "2024-12-27",
+        "overview": "From the unexpectedly gruesome sport of toe wrestling to a tight competition between the world's ugliest pets, or even the harrowing origins of some of our favorite schoolyard faceoffs, we're exploring the world of strange games, each one more bizarre than the next."
+      },
+      {
+        "id": "tvmaze:3077771",
+        "title": "Unconventional Weapons",
+        "season": 2,
+        "episode": 8,
+        "released": "2025-01-03",
+        "overview": "We've heard the tales of great wars fought with groundbreaking weaponry, but what about everything else in between? From missiles manned by pigeons to a helmet outfitted with firearms, to an incendiary device made to look like one of America's favorite pastimes. These are the stories of unconventional weapons, each more unbelievable than the next."
+      },
+      {
+        "id": "tvmaze:3078314",
+        "title": "Odd Jobs",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-01-17",
+        "overview": "This episode explores the strangest and most ghastly gigs ever. From night soil men cleaning excrement off the streets of Victorian London to professional mourners hired to weep at funerals, to the intrepid deer urine collectors. These are the most unbelievable jobs in history!"
+      },
+      {
+        "id": "tvmaze:3082284",
+        "title": "Against All Odds",
+        "season": 2,
+        "episode": 10,
+        "released": "2025-01-24",
+        "overview": "Some of the world's most valiant figures overcome the most treacherous, impossible, and downright bizarre circumstances. Like a man who survives the apocalypse, or a woman involved in not one, but three maritime disasters. And, a cat that proves to be unsinkable in battle. These are the stories of survival, success, and reunion...against all odds."
+      },
+      {
+        "id": "tvmaze:3107239",
+        "title": "Outrageous Experiments",
+        "season": 2,
+        "episode": 11,
+        "released": "2025-01-31",
+        "overview": "Would you believe that the beginnings of modern endoscopy were really all thanks to one professional sword-swallower? Or that lack of sleep could have some strange upsides? What about drinking vomit in the name of science? These are the stories of the most bizarre, unthinkable, and outrageous experiments in history."
+      },
+      {
+        "id": "tvmaze:3172934",
+        "title": "Extraordinary Journeys",
+        "season": 2,
+        "episode": 12,
+        "released": "2025-04-04",
+        "overview": "Many say it's not about the destination, but the journey that gets you there. From a dog's space voyage to a harrowing story of Arctic survival, to various trips through time…these are the journeys so extraordinary that they are truly unbelievable."
+      },
+      {
+        "id": "tvmaze:3172935",
+        "title": "Peculiar Punishments",
+        "season": 2,
+        "episode": 13,
+        "released": "2025-04-11",
+        "overview": "One-of-a-kind crimes are often met with one-of-a-kind punishments. Like a pig whose bloody rampage lands itself in the courtroom, or a music enthusiast whose wall-rattling beats subject them to hours of classical symphonies. And a drunkard whose public intoxication turns them into public entertainment. These peculiar punishments all prove to have one thing in common...they are completely unbelievable."
+      },
+      {
+        "id": "tvmaze:3172936",
+        "title": "Weird Discoveries",
+        "season": 2,
+        "episode": 14,
+        "released": "2025-04-18",
+        "overview": "History is riddled with brilliant, life-changing discoveries--from gold, to lost treasures, to scientific findings. But, some discoveries are anything but ordinary. Like severed feet on a beach, or finding evidence of a tiny otherworldly creature. Each discovery is weirder than the last, and uniquely unbelievable."
+      },
+      {
+        "id": "tvmaze:3172937",
+        "title": "Unexpected Spectacles",
+        "season": 2,
+        "episode": 15,
+        "released": "2025-04-25",
+        "overview": "Imagine a man floating through the sky by dozens of balloons, all attached to a single lawn chair. Or, a circus conducted by a team of performers only visible via magnifying glass. How about a cycling grandpa that proves to be no match for his youthful counterparts? These are the tales of history's most unbelievable, strange, and completely unexpected spectacles."
+      },
+      {
+        "id": "tvmaze:3202722",
+        "title": "Extraordinary Traditions",
+        "season": 2,
+        "episode": 16,
+        "released": "2025-05-02",
+        "overview": "From riding massive tree trunks down a treacherous slope, to hosting a barrage of monkeys for an all-you-can-eat buffet, to a food fight of epic proportions. These are the stories of history's most bizarre and extraordinary traditions."
+      },
+      {
+        "id": "tvmaze:3211010",
+        "title": "Astonishing Escapes",
+        "season": 2,
+        "episode": 17,
+        "released": "2025-05-09",
+        "overview": "We've heard the tales of successful prison breaks, but these aren't your average escapes. From a man who frees himself all thanks to a stone fruit, to a Soviet pilot that evades capture by stealing the enemy's plane. Or, a primate that refuses to stay put. These are the stories of escapes that are sure to leave you in utter disbelief."
+      },
+      {
+        "id": "tvmaze:3211011",
+        "title": "Odd Dwellings",
+        "season": 2,
+        "episode": 18,
+        "released": "2025-05-16",
+        "overview": "Everyone's favorite place to be is comfortably at home, but what if your home was actually one of the most bizarre dwellings in history? From calling Veteran's Stadium home, to setting up camp in an airport terminal, to turning an unassuming dumpster into a luxurious abode. Each of these dwellings are so beyond odd, that they are truly unbelievable."
+      },
+      {
+        "id": "tvmaze:3211012",
+        "title": "Strange Afflictions",
+        "season": 2,
+        "episode": 19,
+        "released": "2025-05-23",
+        "overview": "A trip to the doctor is sure to cure any afflicted individual, but what happens when even the doctors are stunned by what they see? From a family cursed with blue skin, to a girl allergic to the world's most unlimited resource, to a plague that keeps people laughing until they can't laugh anymore. Discover some of the most unique, most enigmatic, and most unbelievable afflictions in history."
+      },
+      {
+        "id": "tvmaze:3211013",
+        "title": "Curious Crimes",
+        "season": 2,
+        "episode": 20,
+        "released": "2025-05-30",
+        "overview": "Stealing grandma's purse, your run-of-the-mill bank robbery, or hijacking a car all seem like child's play when it comes to history's most bizarre crimes. A robber successfully snatching Einstein's brain? A thief who makes out with hundreds of dollars all while dressed as Santa Claus? Or, what about the high price to pay for littering...in space? These are some of history's most curious crimes."
+      },
+      {
+        "id": "tvmaze:3389446",
+        "title": "Strange Sightings",
+        "season": 3,
+        "episode": 1,
+        "released": "2025-11-07",
+        "overview": "They say seeing is believing but these sightings will make you question everything. From stone-throwing jungle apes to swarms of sinister clowns stalking the suburbs, to skies raining down murderous birds, these are the strange encounters that leave the experts scratching their heads."
+      },
+      {
+        "id": "tvmaze:3394688",
+        "title": "Freak Accidents",
+        "season": 3,
+        "episode": 2,
+        "released": "2025-11-14",
+        "overview": "Accidents happen all the time, but every so often, a few defy logic and leave the world stunned."
+      },
+      {
+        "id": "tvmaze:3394689",
+        "title": "Shocking Missions",
+        "season": 3,
+        "episode": 3,
+        "released": "2025-11-21",
+        "overview": "History is full of legendary missions--but some are so bizarre, they sound like fiction."
+      },
+      {
+        "id": "tvmaze:3394690",
+        "title": "Astonishing Feats",
+        "season": 3,
+        "episode": 4,
+        "released": "2025-11-28",
+        "overview": "History is full of people pushing the limits, but some are more astonishing than others."
+      },
+      {
+        "id": "tvmaze:3440463",
+        "title": "Man vs. Nature",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-12-05",
+        "overview": "Mother Nature may be breathtaking—but she doesn't always play nice."
+      },
+      {
+        "id": "tvmaze:3440464",
+        "title": "Outlandish Ideas",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "When the world throws a bizarre problem your way… sometimes the solution is even more ridiculous."
+      },
+      {
+        "id": "tvmaze:3440465",
+        "title": "Dodging Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "A brush with death is terrifying enough—but these stories take survival to the extreme."
+      },
+      {
+        "id": "tvmaze:3440466",
+        "title": "Unusual Pastimes",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468856",
+        "title": "Strangest Places",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      }
+    ]
+  }
+}

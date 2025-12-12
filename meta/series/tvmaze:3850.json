@@ -1,0 +1,2404 @@
+{
+  "meta": {
+    "id": "tvmaze:3850",
+    "type": "series",
+    "name": "Cook's Country from America's Test Kitchen",
+    "description": "\"Cook's Country from America's Test Kitchen\" is a half-hour cooking show distributed to public television stations (reruns airing on Create) in the United States, which are also available in most Canadian markets. The show's hosts are Julia Collin Davison &amp; Bridget Lancaster; the show and the magazine are affiliated, and the magazine's test kitchen facility in Brookline, Massachusetts, is used as a set for the show. Cook's Illustrated's parent company, Boston Common Press, while retaining its corporate name, has marketed its publishing and media activities under the America's Test Kitchen brand beginning in 2004.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/480/1200603.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/480/1200603.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401214",
+        "title": "Greens for Dinner",
+        "season": 18,
+        "episode": 12,
+        "released": "2025-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401214",
+        "title": "Greens for Dinner",
+        "season": 18,
+        "episode": 12,
+        "released": "2025-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:247052",
+        "title": "Forgotten Cakes",
+        "season": 1,
+        "episode": 1,
+        "released": "2008-09-06",
+        "overview": "Join us as we re-create two classic cakes from the 1960s. Christopher Kimball shares tips for error-proof baking, and Jack Bishop reveals which milk chocolate won our taste tests. Recipes: - Chocolate Blackout Cake - Strawberry Poke Cake Tasting Lab: - Milk Chocolate"
+      },
+      {
+        "id": "tvmaze:247053",
+        "title": "Sunday Dinner",
+        "season": 1,
+        "episode": 2,
+        "released": "2009-09-13",
+        "overview": "Learn how to make an unforgettable garlic roast beef and mashed potato casserole. Christopher Kimball also reveals what you need to know to select the perfect cut of meat. Recipes: - Sunday-Best Garlic Roast Beef - Mashed Potato Casserole Equipment Corner: - Liquid Dish Detergent"
+      },
+      {
+        "id": "tvmaze:247054",
+        "title": "Feeding a Crowd, Italian-Style",
+        "season": 1,
+        "episode": 3,
+        "released": "2008-09-20",
+        "overview": "Everyone loves Italian food. We share the secrets to making extraordinary meatballs and marinara and the perfect \"Sunday gravy\"—a slow-simmered sauce with several kinds of meat. Recipes: - Meatballs and Marinara - Italian Sunday Gravy Tasting Lab: - Jarred Pasta Sauce Equipment Corner: - Large Saucepans"
+      },
+      {
+        "id": "tvmaze:247055",
+        "title": "Southern Regional Recipes",
+        "season": 1,
+        "episode": 4,
+        "released": "2008-09-27",
+        "overview": "We share the test kitchen's method for simplifying Lexington-style pulled pork, and explain how to make the perfect Memphis coleslaw—a barbecue-joint staple. Recipes: - Lexington-Style Pulled Pork For Charcoal Grill - Memphis Chopped Coleslaw Tasting Lab: - Hot Dogs Equipment Corner: - Tabletop Grills"
+      },
+      {
+        "id": "tvmaze:247056",
+        "title": "Autumn Supper",
+        "season": 1,
+        "episode": 5,
+        "released": "2008-10-04",
+        "overview": "Making pork roast is tricky. Which cut is best and how do you keep the meat moist? Our unique seven-hour recipe will change the way you think about the other white meat. Recipes: - Old-Fashioned Roast Pork - Cranberry-Apple Crisp Equipment Lab: - Pepper Mills"
+      },
+      {
+        "id": "tvmaze:247057",
+        "title": "All-American Picnic",
+        "season": 1,
+        "episode": 6,
+        "released": "2008-10-11",
+        "overview": "Learn to make super-crunchy fried chicken. Pair it with our classic potato salad, or with the potato chips that won our taste test of top brands. Recipes: - Extra-Crunchy Fried Chicken - All-American Potato Salad - Hard-Cooked Eggs Tasting Lab: - Potato Chips"
+      },
+      {
+        "id": "tvmaze:247058",
+        "title": "Easy As Pie",
+        "season": 1,
+        "episode": 7,
+        "released": "2008-10-18",
+        "overview": "Bridget Lancaster explains how to a make foolproof pie crust and then prepares an incredible raspberry chiffon pie. Jack Bishop searches for the best store-bought pie crust. Recipes: - Raspberry Chiffon Pie - No-Fear Pie Crust Tasting Lab: - Pie Crusts"
+      },
+      {
+        "id": "tvmaze:247059",
+        "title": "Steakhouse Favorites",
+        "season": 1,
+        "episode": 8,
+        "released": "2008-10-25",
+        "overview": "Learn the technique for perfectly broiled steaks, and discover the secret to super-stuffed potatoes. Adam Ried tells us which steaks knives make the cut. Recipes: - Broiled Steaks - Super-Stuffed Baked Potatoes Equipment Corner: - Steak Knives - Electric Knife Sharpeners"
+      },
+      {
+        "id": "tvmaze:247060",
+        "title": "Barbecued Chicken",
+        "season": 1,
+        "episode": 9,
+        "released": "2008-11-01",
+        "overview": "Grilled chicken with barbecue sauce seems simple. So why does this recipe often fail? Our unique method guarantees perfect results. Serve with our easy baked mac and cheese. Recipes: - Classic Barbecued Chicken - Classic Barbecued Chicken on a Gas Grill - Best Potluck Macaroni and Cheese Tasting Lab: - Barbecue Sauce"
+      },
+      {
+        "id": "tvmaze:247061",
+        "title": "Regional Chops",
+        "season": 1,
+        "episode": 10,
+        "released": "2008-11-08",
+        "overview": "Learn to grill double-thick chops and how to give them authentic smoke flavor. The test kitchen also perfects a recipe for whiskey-glazed pork chops. Recipes: - Smoked Double-Thick Pork Chops - Smoked Double-Thick Pork Chops on a Gas Grill - Tennessee-Whiskey Pork Chops Equipment Lab: - Top Kitchen Essentials"
+      },
+      {
+        "id": "tvmaze:247062",
+        "title": "Midwestern Favorites",
+        "season": 1,
+        "episode": 11,
+        "released": "2008-11-15",
+        "overview": "Learn to replicate fall-off-the-bone Chicago-style ribs and discover the secrets to Cincinnati's unique chili. We'll also reveal the winner of our cheddar cheese taste test. Recipes: - Chicago-Style Barbecued Ribs - Cincinnati Chili Tasting Lab: - Cheddar Cheese"
+      },
+      {
+        "id": "tvmaze:247063",
+        "title": "California Grilling",
+        "season": 1,
+        "episode": 12,
+        "released": "2008-11-22",
+        "overview": "Bridget Lancaster teaches Christopher Kimball how to cook a garlicky tri-tip roast on the grill. She also prepares California barbecued beans and Santa Maria-style salsa. Recipes: - California Barbecue Tri-Tip and Beans - Santa Maria Salsa Tasting Lab: - Salsas Equipment Corner: - Essential Grilling Gadgets"
+      },
+      {
+        "id": "tvmaze:247064",
+        "title": "Diner Favorites",
+        "season": 1,
+        "episode": 13,
+        "released": "2008-11-29",
+        "overview": "Enjoy a diner-style brunch at home with impossibly tall and fluffy omelets, crusty, deeply browned home fries, and the best store-bought orange juice as judged by our tasters. Recipes: - Fluffy Diner-Style Cheese Omelet - Short Order Home Fries Tasting Lab: - Orange Juice Equipment Corner: - Cast-Iron Skillets"
+      },
+      {
+        "id": "tvmaze:247065",
+        "title": "Old-Fashioned Roast Beef Dinner",
+        "season": 2,
+        "episode": 1,
+        "released": "2009-09-05",
+        "overview": "We make a classic American meal starting with a juicy roast with a rich, meaty gravy. Recipes - Classic Roast Beef and Gravy - Perfect Popovers Equipment Corner - Plastic Wrap"
+      },
+      {
+        "id": "tvmaze:247066",
+        "title": "Pucker-Up Pies",
+        "season": 2,
+        "episode": 2,
+        "released": "2009-09-12",
+        "overview": "Bridget Lancaster reveals the test kitchen's secrets to a perfect lemon meringue pie with a sky-high topping that won't weep. And Erin McMurrer makes easy Icebox Key Lime Pie with perfect texture and real lime flavor. Recipes - Mile-High Lemon Meringue Pie - Icebox Key Lime Pie Equipment Corner - Inexpensive Stand Mixers"
+      },
+      {
+        "id": "tvmaze:247067",
+        "title": "Rise and Shine",
+        "season": 2,
+        "episode": 3,
+        "released": "2009-09-19",
+        "overview": "Our Ultimate Cinnamon Buns are tender, gooey, and unapologetically large. We also create a better-than-the-box pancake mix that delivers made-from-scratch flavor even faster. Recipes - Ultimate Cinnamon Buns - Better-Than-The-Box Pancake Mix Tasting Lab - Maple and Pancake Syrup Equipment Corner - Stovetop Griddles"
+      },
+      {
+        "id": "tvmaze:247068",
+        "title": "Surefire Seafood",
+        "season": 2,
+        "episode": 4,
+        "released": "2009-09-26",
+        "overview": "Uncover the test kitchen's method for making smoky Wood-Grilled Salmon at home. We also reveal the tips and techniques you'll need to make flavorful stuffed shrimp that holds its shape and is never rubbery. Recipes - Wood-Grilled Salmon - Baked Stuffed Shrimp - Tartar Sauce Equipment Corner - Top Kitchen Essentials"
+      },
+      {
+        "id": "tvmaze:247069",
+        "title": "Super Fudgy Cake",
+        "season": 2,
+        "episode": 5,
+        "released": "2009-10-03",
+        "overview": "We update a Pillsbury Bake-Off classic reengineering the recipe to replace a no-longer-made ingredient. Christopher Kimball also reveals the top test kitchen tips about how to use your oven for baking. Recipes - Tunnel of Fudge Cake Tasting Lab - Boxed Brownie Mixes"
+      },
+      {
+        "id": "tvmaze:247070",
+        "title": "Chili and Cornbread",
+        "season": 2,
+        "episode": 6,
+        "released": "2009-10-10",
+        "overview": "We'll reveal the secrets to authentic-tasting Chili con Carne at home and how to make Southern-Style Skillet Cornbread with hearty corn flavor. Recipes - Chili Con Carne - Southern-Style Skillet Corn Bread Equipment Corner - Can Openers"
+      },
+      {
+        "id": "tvmaze:247071",
+        "title": "Southern BBQ",
+        "season": 2,
+        "episode": 7,
+        "released": "2009-10-17",
+        "overview": "Bridget Lancaster makes Big Bob's famous Alabama BBQ Chicken with a unique white barbecue sauce. She serves it along side Tangy Apple-Cabbage Slaw. Recipes - Alabama BBQ Chicken - Tangy Apple-Cabbage Slaw Tasting Lab - Iced Tea"
+      },
+      {
+        "id": "tvmaze:247072",
+        "title": "Fail-Safe Thanksgiving",
+        "season": 2,
+        "episode": 8,
+        "released": "2009-10-24",
+        "overview": "Bridget Lancaster makes an Old-Fashioned Roast Turkey with Gravy, revisiting a classic technique known as larding. She also reveals the secrets to quick and easy Garlic Mashed Potatoes. Recipes - Old-Fashioned Roast Turkey with Gravy - Garlic Mashed Potatoes Tasting Lab - Frozen Dinner Rolls"
+      },
+      {
+        "id": "tvmaze:247073",
+        "title": "Fried Chicken",
+        "season": 2,
+        "episode": 9,
+        "released": "2009-10-31",
+        "overview": "Host Christopher Kimball demonstrates the safe and proper way to fry at home, while Bridget Lancaster shares the test kitchen techniques for making crisp and spicy Creole Fried Chicken. Later Bridget shows the steps for perfect, grilled corn on the cob. Recipes - Creole Fried Chicken - Grilled Corn on the Cob Tasting Lab - Microwave Popcorn Equipment Corner - Dutch Ovens"
+      },
+      {
+        "id": "tvmaze:247074",
+        "title": "Texas Beef Barbecue",
+        "season": 2,
+        "episode": 10,
+        "released": "2009-11-07",
+        "overview": "We bring a Texas favorite home—Shredded Barbecued Beef and we pair it with a unique take on a classic side dish: Ranch Potato Salad. Recipes - Shredded Barbecued Beef - Ranch Potato Salad Tasting Lab - Whole Wheat Bread"
+      },
+      {
+        "id": "tvmaze:247075",
+        "title": "Stovetop Desserts",
+        "season": 2,
+        "episode": 11,
+        "released": "2009-11-14",
+        "overview": "Bridget Lancaster solves the problem of mealy peaches and shows host Christopher Kimball how to make juicy Skillet Peach Cobbler with crisp cobbles. Erin McMurrer updates an old-fashioned recipe for Blueberry Grunt using a Dutch oven Recipes - Skillet Peach Cobbler - Blueberry Grunt Tasting Lab - Fresh Lemon Substitutes Equipment Corner - Inexpensive Ice Cream Makers"
+      },
+      {
+        "id": "tvmaze:247076",
+        "title": "Perfect Pork",
+        "season": 2,
+        "episode": 12,
+        "released": "2009-11-21",
+        "overview": "We make Grilled Mustard-Glazed Pork with a deeply caramelized crust and Christopher Kimball shares the test kitchen tips for gas grilling. Later, Erin McMurrer makes Cider-Braised Pork Chops in a skillet. Recipes - Grilled Mustard-Glazed Pork Loin - Cider-Braised Pork Chops Tasting Lab - Coarse-Grain Mustard"
+      },
+      {
+        "id": "tvmaze:247077",
+        "title": "Historical Cakes",
+        "season": 2,
+        "episode": 13,
+        "released": "2009-11-28",
+        "overview": "Bridget Lancaster bakes our bright and tender Red Velvet Cake and Erin McMurrer updates a 100-year-old recipe for Cold-Oven Pound Cake. Recipes - Red Velvet Cake with Cream Cheese Frosting - Cold-Oven Pound Cake Equipment Corner - Loaf Pans"
+      },
+      {
+        "id": "tvmaze:247078",
+        "title": "Two Perfect Pies",
+        "season": 3,
+        "episode": 1,
+        "released": "2010-09-04",
+        "overview": "Bridget Lancaster updates a classic recipe for Shaker Lemon Pie. Then, Julia Collin-Davison shows host Christopher Kimball how to make Icebox Strawberry Pie with real strawberries. Next, equipment expert Adam Ried reviews pie plates, and finally, tasting expert Jack Bishop challenges Chris to a tasting of strawberry yogurt."
+      },
+      {
+        "id": "tvmaze:247079",
+        "title": "Family Supper",
+        "season": 3,
+        "episode": 2,
+        "released": "2010-09-11",
+        "overview": "Bridget Lancaster shows host Christopher Kimball the secrets to the perfectly Glazed Meatloaf and Crunchy Potato Wedges. Then, equipment expert Adam Ried reviews dish towels, and finally, Chris shares the test kitchen's top tips for avoiding common cooking mistakes."
+      },
+      {
+        "id": "tvmaze:247080",
+        "title": "Old Fashioned Pork",
+        "season": 3,
+        "episode": 3,
+        "released": "2010-09-18",
+        "overview": "Bridget Lancaster shows host Christopher Kimballhow to make crispy Pan-Fried Pork chops. Next, equipment expert Adam Ried is reviewing vacuum sealers. And finally, Julia Collin-Davison uncovers the secrets to perfect Pork Pot Roast using a slow cooker."
+      },
+      {
+        "id": "tvmaze:247081",
+        "title": "Southern Comfort Food",
+        "season": 3,
+        "episode": 4,
+        "released": "2010-09-25",
+        "overview": "Bridget Lancaster shows host Christopher Kimball how to make a southern original, Batter-Fried chicken. Next, tasting expert Jack Bishop challenges Chris to a tasting of bottled iced tea. And finally, Julia Collin-Davison uncovers the secrets to perfectly baked sweet corn spoonbread."
+      },
+      {
+        "id": "tvmaze:247082",
+        "title": "Beef Meets Grill",
+        "season": 3,
+        "episode": 5,
+        "released": "2010-10-02",
+        "overview": "Bridget Lancaster shows host Christopher Kimball how to make real Texas Barbecued Beef Ribs at home. Next, equipment expert Adam Ried reviews paper plates, and finally, Julia Collin-Davison uncovers the secrets to preparing perfectly Char-Grilled Steaks at home. Also in the episode, homemade Classic Steak Sauce."
+      },
+      {
+        "id": "tvmaze:247083",
+        "title": "Everybody Loves Chocolate",
+        "season": 3,
+        "episode": 6,
+        "released": "2010-10-09",
+        "overview": "We show you how to make two sweet-tooth-satisfying desserts: Chocolate Cream Cupcakes and Texas Sheet Cake. Then tasting expert Jack Bishop challenges host Chris Kimball to a tasting of hot cocoa."
+      },
+      {
+        "id": "tvmaze:247084",
+        "title": "Hearty Italian Meals",
+        "season": 3,
+        "episode": 7,
+        "released": "2010-10-16",
+        "overview": "We take on two Italian classics and uncover the secrets to preparing the perfect Italian Pot Roast and foolproof Baked Manicotti at home."
+      },
+      {
+        "id": "tvmaze:247085",
+        "title": "Northern Cookout",
+        "season": 3,
+        "episode": 8,
+        "released": "2010-10-23",
+        "overview": "Bridget Lancaster demonstrates how to make a state fair classic, Cornell Barbecued Chicken, and serves it with a side of Syracuse Salt Potatoes. Then, to round out the cookout, Julia Collin Davison brings a Midwest favorite home and prepares perfect Jucy Lucy Burgers."
+      },
+      {
+        "id": "tvmaze:247086",
+        "title": "The Chemistry of Cakes",
+        "season": 3,
+        "episode": 9,
+        "released": "2010-10-30",
+        "overview": "Join us as we make a perfect Lemon Pudding Cake and foolproof Angel Food Cake. Then watch Adam Ried review two vital pieces of kitchen equipment: hand mixers and tube pans."
+      },
+      {
+        "id": "tvmaze:247087",
+        "title": "Southwestern Suppers",
+        "season": 3,
+        "episode": 10,
+        "released": "2010-11-06",
+        "overview": "We reveal the test kitchen's secrets to two Southwestern staples: Authentic Beef Enchiladas and Easy Chicken Tacos. Then, Jack Bishop challenges host Chris Kimball to a tasting of Baked Beans, and Chris shares the test kitchen's top freezer tricks."
+      },
+      {
+        "id": "tvmaze:247088",
+        "title": "Breakfast Show Stoppers",
+        "season": 3,
+        "episode": 11,
+        "released": "2010-11-13",
+        "overview": "We update two lost recipes: Monkey Bread and Dutch Baby. Then, equipment expert Adam Ried reviews toasters, and tasting expert Jack Bishop challenges host Chris Kimball to a tasting of decaf coffee."
+      },
+      {
+        "id": "tvmaze:247089",
+        "title": "Chicken Two Ways",
+        "season": 3,
+        "episode": 12,
+        "released": "2010-11-20",
+        "overview": "Our Roast Lemon Chicken features real lemon flavor, and our Chicken Parmesan cooks entirely on the stovetop. We'll demonstrate these two recipes, as well as conduct a tasting of store-bought Chicken Noodle Soup."
+      },
+      {
+        "id": "tvmaze:247090",
+        "title": "Ultimate Ham Dinner",
+        "season": 3,
+        "episode": 13,
+        "released": "2010-11-27",
+        "overview": "Join us as we make the best Cider-Baked Ham, then prepare two tasty side dishes: quick and easy Cornmeal Biscuits and classic Delmonico Potatoes. And in the equipment corner, Adam Ried reviews electric knives."
+      },
+      {
+        "id": "tvmaze:247091",
+        "title": "Roast Beef Dinner",
+        "season": 4,
+        "episode": 1,
+        "released": "2011-09-10",
+        "overview": "Chris visits the local butcher to learn about top sirloin. Then, Bridget shows Chris how to make affordable Roast Beef and Whipped Potatoes. Next, Chris shares the test kitchen's tips and techniques for cooking with salt. And finally, Adam reveals his picks for multi-timers."
+      },
+      {
+        "id": "tvmaze:247092",
+        "title": "Icebox Desserts",
+        "season": 4,
+        "episode": 2,
+        "released": "2011-09-17",
+        "overview": "Bridget uncovers the secrets to perfect Lemon Icebox Cheesecake. Then, Jack challenges Chris to a tasting of chocolate ice cream. And finally, Erin updates a lost recipe and shows Chris how to make French Silk Chocolate Pie."
+      },
+      {
+        "id": "tvmaze:247093",
+        "title": "Fancy Chicken",
+        "season": 4,
+        "episode": 3,
+        "released": "2011-09-24",
+        "overview": "Bridget shows Chris how to make the best Chicken Cordon Bleu. Next, Erin demonstrates how to cut a whole chicken. Then, Jack challenges Chris to a tasting of Black Forest deli ham. And finally, Julia uncovers the secrets to perfect Cider-Braised Chicken. Recipes: Foolproof Chicken Cordon Bleu, Apple Cider Chicken Taste Tests: Black Forest Deli Ham"
+      },
+      {
+        "id": "tvmaze:247094",
+        "title": "Tropical Barbecue",
+        "season": 4,
+        "episode": 4,
+        "released": "2011-10-01",
+        "overview": "Bridget reveals how to make Huli Huli Chicken right at home. Then, Jack challenges Chris to a tasting of reduced-fat potato chips. Next, Adam reveals his top picks for pastry brushes. And finally, Julia uncovers the secrets to perfect Chinese BBQ Spareribs."
+      },
+      {
+        "id": "tvmaze:247095",
+        "title": "Bayou Classics",
+        "season": 4,
+        "episode": 5,
+        "released": "2011-10-15",
+        "overview": "Bridget shows Chris how to make the ultimate Gumbo. Then, Jack challenges Chris to a tasting of long-grain white rice. And finally, Julia updates a lost recipe and shows Chris how to make Lane Cake."
+      },
+      {
+        "id": "tvmaze:247096",
+        "title": "Retro Desserts",
+        "season": 4,
+        "episode": 6,
+        "released": "2011-10-22",
+        "overview": "Bridget uncovers the secrets to perfect Banana Pudding. Then, Adam reveals his top picks for fine- mesh strainers. And finally, Erin updates a lost recipe and shows Chris how to make the ultimate Chiffon Cake."
+      },
+      {
+        "id": "tvmaze:247097",
+        "title": "Family Favorites",
+        "season": 4,
+        "episode": 7,
+        "released": "2011-10-29",
+        "overview": "Bridget reveals how to make the ultimate Swiss Steak. Then, Jack challenges Chris to a tasting of tomato paste. Next, Adam reveals his top picks for immersion blenders. And finally, Julia revives a classic recipe for Baked Potato Fans."
+      },
+      {
+        "id": "tvmaze:247098",
+        "title": "Not Just for Kids",
+        "season": 4,
+        "episode": 8,
+        "released": "2011-11-05",
+        "overview": "Bridget shows Chris how to make the ultimate Chicken Nuggets at home. Then, Jack challenges Chris to a tasting of yellow mustard. Next, Adam reveals his top picks for broiler-safe cooking dishes. And finally, Julia uncovers the secrets to perfect Tomato Mac and Cheese."
+      },
+      {
+        "id": "tvmaze:247099",
+        "title": "Fried Chicken and Biscuits",
+        "season": 4,
+        "episode": 9,
+        "released": "2011-11-12",
+        "overview": "Chris and Bridget visit Princes in Nashville to try their famous Nashville Hot Chicken. They return to the kitchen determined to replicate the top-secret recipe. Then, Jack challenges Chris to a tasting of whole kosher dill pickles. Next, Adam reveals his top picks for skimmers. And finally, Erin revives a classic recipe for Cat Head Biscuits."
+      },
+      {
+        "id": "tvmaze:247100",
+        "title": "Road Food at Home",
+        "season": 4,
+        "episode": 10,
+        "released": "2012-01-07",
+        "overview": "Bridget uncovers the secrets to perfect Slow-Cooker BBQ Brisket. Then, Adam reveals his top picks for slow cookers. Next, Chris visits Harpoon Brewery to discover the best beers for cooking. And finally, Julia shows Chris how to make the ultimate Beer-Battered Onion Rings."
+      },
+      {
+        "id": "tvmaze:247101",
+        "title": "Autumn Desserts",
+        "season": 4,
+        "episode": 11,
+        "released": "2011-11-19",
+        "overview": "Bridget reveals the secrets to the ultimate Apple Dumplings. Then, Adam reveals his top picks for cake carriers. Next, Chris learns about the best apple varieties for baking at Saratoga Orchards. And finally, Julia shows Chris how to make Old- Fashioned Pecan Pie."
+      },
+      {
+        "id": "tvmaze:247102",
+        "title": "Grilling",
+        "season": 4,
+        "episode": 12,
+        "released": "2011-12-31",
+        "overview": "Bridget shows Chris how to make Grilled Thin-Cut Pork Chops and Grilled Potato Hobo Packs. Then, Adam reveals his top picks for grill tongs. Next, Chris shares the test kitchen's top new gadgets, and finally, Julia uncovers the secrets to Grilled Lemon Chicken."
+      },
+      {
+        "id": "tvmaze:247103",
+        "title": "St. Louis Cooking",
+        "season": 4,
+        "episode": 13,
+        "released": "2012-01-14",
+        "overview": "Bridget uncovers the secrets to the ultimate St. Louis Pizza. Then, Jack challenges Chris to a tasting of sliced pepperoni. Next, Chris shares the test kitchen's top pizza gadgets. And finally, Julia shows Chris how to make St. Louis BBQ Pork Steak."
+      },
+      {
+        "id": "tvmaze:247104",
+        "title": "Hearty Autumn Dinner",
+        "season": 5,
+        "episode": 1,
+        "released": "2012-09-15",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make the best Smothered Pork Chops. Then, tasting expert Jack Bishop challenges Chris to a tasting of breakfast sausage. Next, Chris answers questions from viewers. And finally, test cook Bridget Lancaster uncovers the secrets to perfect Apple Fritters."
+      },
+      {
+        "id": "tvmaze:247105",
+        "title": "Breakfast Breads",
+        "season": 5,
+        "episode": 2,
+        "released": "2012-09-22",
+        "overview": "Test cook Bridget Lancaster uncovers the secrets to the ultimate Morning Buns. Then, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of pancake mix. Next, equipment expert Adam Ried reveals his top picks for muffin tins. And finally, test cook Erin McMurrer shows Chris how to make Morning Glory Muffins right at home."
+      },
+      {
+        "id": "tvmaze:247106",
+        "title": "Dixie Chicken",
+        "season": 5,
+        "episode": 3,
+        "released": "2012-09-29",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make the best Moravian Chicken Pie. Then, test cook Bridget Lancaster revives a classic recipe for Chicken and Slicks."
+      },
+      {
+        "id": "tvmaze:247107",
+        "title": "Italian Favorites Revisited",
+        "season": 5,
+        "episode": 4,
+        "released": "2012-10-06",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make the ultimate Slow-Cooker Meatballs and Marinara. Then, Chris answers questions from viewers. Next, equipment expert Adam Ried reveals his top picks for oven mitts. Then, tasting expert Jack Bishop challenges Chris to a tasting of jarred spaghetti sauce. And finally, test cook Julia Collin Davison uncovers the secrets to making the best Spinach Lasagna."
+      },
+      {
+        "id": "tvmaze:247108",
+        "title": "Simple Summer Supper",
+        "season": 5,
+        "episode": 5,
+        "released": "2012-10-13",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make perfect Steakhouse-Style Steak Tips at home. Then, equipment expert Adam Ried reveals his top picks for one-hand pepper mills. Then, Chris answers questions from viewers. And finally, test cook Julia Collin Davison uncovers the secrets to the ultimate Dill Potato Salad."
+      },
+      {
+        "id": "tvmaze:247109",
+        "title": "Fun Modern Cakes",
+        "season": 5,
+        "episode": 6,
+        "released": "2012-10-20",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make the perfect Strawberry Dream Cake. Next, equipment expert Adam Ried reveals his top picks for cake lifters. Then, tasting expert Jack Bishop challenges Chris to a tasting of milk chocolate. And finally, test cook Bridget Lancaster reveals the secrets to making the best Chocolate Éclair Cake."
+      },
+      {
+        "id": "tvmaze:247110",
+        "title": "Upscale Meat and Potatoes",
+        "season": 5,
+        "episode": 7,
+        "released": "2012-10-27",
+        "overview": "Test cook Bridget Lancaster uncovers the secrets to making perfect Herb-Crusted Beef Tenderloin. Then, equipment expert Adam Ried reveals his top picks for fondue pots. And finally, test cook Erin McMurrer shows host Christopher Kimball how to make the ultimate Duchess Potatoes."
+      },
+      {
+        "id": "tvmaze:247111",
+        "title": "Thrill of the Grill",
+        "season": 5,
+        "episode": 8,
+        "released": "2012-11-03",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make the best South Carolina Pulled Pork. Then, equipment expert Adam Ried reveals his top picks for portable charcoal grills. Next, tasting expert Jack Bishop challenges Chris to a tasting of ice cream bars. And finally, test cook Julia Collin Davison uncovers the secrets to perfect Grilled Chicken Wings."
+      },
+      {
+        "id": "tvmaze:247112",
+        "title": "Forgotten Cookies",
+        "season": 5,
+        "episode": 9,
+        "released": "2012-11-10",
+        "overview": "Test cook Julia Collin Davison revives a classic recipe for Melting Moments cookies. Then, host Christopher Kimball answers questions from viewers. Next, equipment expert Adam Ried reveals his top picks for toasters. And finally, test cook Bridget Lancaster updates a lost recipe and shows Chris how to make Fairy Gingerbread."
+      },
+      {
+        "id": "tvmaze:247113",
+        "title": "Super-Easy Comfort Food",
+        "season": 5,
+        "episode": 10,
+        "released": "2012-11-17",
+        "overview": "Host Christopher Kimball shares the test kitchen's tips and techniques for selecting the perfect beef roast. Then, test cook Bridget Lancaster shows Chris how to make the best Chuck Roast in Foil. Next, equipment expert Adam Ried reveals his top picks for inexpensive stockpots. And finally, test cook Julia Collin Davison uncovers the secrets to making the ultimate French Onion Soup in the slow cooker."
+      },
+      {
+        "id": "tvmaze:247114",
+        "title": "Chicken for Everyone!",
+        "season": 5,
+        "episode": 11,
+        "released": "2012-11-24",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make perfect One-Pan Roast Chicken and Vegetables. Then, equipment expert Adam Ried reveals his top picks for kitchen shears. Next, tasting expert Jack Bishop challenges Chris to a tasting of canned tomato soup. And finally, test cook Erin McMurrer prepares Chicken Chimichangas."
+      },
+      {
+        "id": "tvmaze:247115",
+        "title": "Great American Cookout",
+        "season": 5,
+        "episode": 12,
+        "released": "2012-12-01",
+        "overview": "Test cook Julia Collin Davison reveals how to make the best Baltimore Pit Beef right at home. Then, host Christopher Kimball answers questions from viewers. Next, tasting expert Jack Bishop challenges Chris to a tasting of ketchup. And finally, test cook Bridget Lancaster shows Chris how to make perfect BBQ Country-Style Ribs."
+      },
+      {
+        "id": "tvmaze:247116",
+        "title": "Dinner at the Diner",
+        "season": 5,
+        "episode": 13,
+        "released": "2012-12-08",
+        "overview": "Test cook Bridget Lancaster updates a classic recipe for Patty Melts. Then, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of mac and cheese. Next, equipment expert Adam Ried reveals his top picks for commuter mugs. And finally, test cook Julia Collin Davison reveals the secrets to making perfect Tater Tots."
+      },
+      {
+        "id": "tvmaze:247117",
+        "title": "Picnic in the Country",
+        "season": 6,
+        "episode": 1,
+        "released": "2013-09-07",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball the secrets to making perfect Honey Fried Chicken. Then, equipment expert Adam Ried reveals his top picks for cutting boards. And finally, test cook Bridget Lancaster shares the test kitchen's tips for quick homemade chicken broth and updates an old-fashioned recipe for Amish Potato Salad. Recipes: Honey Fried Chicken, Amish Potato Salad Equipment Reviews: Cutting Boards"
+      },
+      {
+        "id": "tvmaze:247118",
+        "title": "Company's Coming",
+        "season": 6,
+        "episode": 2,
+        "released": "2013-09-14",
+        "overview": "Test cook Bridget Lancaster revives a classic recipe for Crown Roast of Pork. Then, equipment expert Adam Ried reveals his top picks for measuring spoons. Next, host Christopher Kimball shares the test kitchen's top food safety tips. And finally, Bridget shows Chris how to make Parmesan-Crusted Asparagus. Recipes: Crown Roast of Pork, Parmesan-Crusted Asparagus Equipment Reviews: Measuring Spoons"
+      },
+      {
+        "id": "tvmaze:247119",
+        "title": "Old-Fashioned Sweet Endings",
+        "season": 6,
+        "episode": 3,
+        "released": "2013-09-21",
+        "overview": "Test cook Erin McMurrer shows host Christopher Kimball how to make the best Peaches and Cream Pie. Next, equipment expert Adam Ried reveals his top picks for rolling pins. Then, tasting expert Jack Bishop challenges Chris to a tasting of pie crust. And finally, test cook Julia Collin Davison uncovers the secrets to Cream Cheese Pound Cake. Recipes: Peaches and Cream Pie, Cream Cheese Pound Cake Equipment Reviews: Rolling Pins Taste Tests: Ready-Made Pie Crusts"
+      },
+      {
+        "id": "tvmaze:247120",
+        "title": "Great American Meat and Potatoes",
+        "season": 6,
+        "episode": 4,
+        "released": "2013-09-28",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make Atlanta Brisket. Then, tasting expert Jack Bishop challenges Chris to a tasting of steak sauce. And finally, test cook Julia Collin Davison shows Chris how to make Roasted Salt-and-Vinegar Potatoes. Recipes: Atlanta Brisket, Roasted Salt-and-Vinegar Potatoes Taste Tests: Steak Sauce"
+      },
+      {
+        "id": "tvmaze:247121",
+        "title": "Italian Made Easy",
+        "season": 6,
+        "episode": 5,
+        "released": "2013-10-05",
+        "overview": "Test cook Bridget Lancaster reveals the secrets to making Grandma Pizza at home. Then, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of tortellini. Next, Bridget shares the test kitchen's guide to cutting terms. And finally, test cook Julia Collin Davison shows Chris how to make perfect Slow-Cooker Minestrone. Recipes: Grandma Pizza, Slow-Cooker Minestrone Taste Tests: Supermarket Tortellini"
+      },
+      {
+        "id": "tvmaze:247122",
+        "title": "Backyard Barbecue",
+        "season": 6,
+        "episode": 6,
+        "released": "2013-10-12",
+        "overview": "Test cook Julia Collin Davison uncovers the secrets to making the best Barbecued Pulled Chicken. Then, equipment expert Adam Ried reveals his top picks for electric charcoal starters. Next, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of ice cream cones. And finally, test cook Bridget Lancaster shows Chris how to make the ultimate South Dakota Corncob-Smoked Ribs. Recipes: Barbecued Pulled Chicken, South Dakota Corncob-Smoked Ribs Equipment Reviews: Electric Charcoal Starters Taste Tests: Ice Cream Cones"
+      },
+      {
+        "id": "tvmaze:247123",
+        "title": "Homespun Breakfast Treats",
+        "season": 6,
+        "episode": 7,
+        "released": "2013-10-19",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make Fluffy Cornmeal Pancakes. Then, tasting expert Jack Bishop challenges Chris to a tasting of multigrain bread. Next, Chris shares the top 10 cooking tips from the test kitchen. And finally, test cook Erin McMurrer uncovers the secrets to making English Muffin Bread right at home. Recipes: Fluffy Cornmeal Pancakes, English Muffin Bread Taste Tests: Multigrain Bread"
+      },
+      {
+        "id": "tvmaze:247124",
+        "title": "Irish Country Cooking",
+        "season": 6,
+        "episode": 8,
+        "released": "2013-10-26",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make the best Guinness Beef Stew. Then, equipment expert Adam Ried reveals his top picks for whisks. And finally, test cook Bridget Lancaster shows Chris how to make perfect Brown Soda Bread. Recipes: Guinness Beef Stew, Brown Soda Bread, Brown Soda Bread with Currants and Caraway Equipment Reviews: All-Purpose Whisks"
+      },
+      {
+        "id": "tvmaze:247125",
+        "title": "Sweet on Texas",
+        "season": 6,
+        "episode": 9,
+        "released": "2013-11-02",
+        "overview": "Test cook Bridget Lancaster reveals the secrets to a Texas favorite, Tres Leches Cake. Then, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of sweetened condensed milk. And finally, test cook Julia Collin Davison shows Chris how to make Magic Chocolate Flan Cake. Recipes: Tres Leches Cake, Magic Chocolate Flan Cake Taste Tests: Sweetened Condensed Milk"
+      },
+      {
+        "id": "tvmaze:247126",
+        "title": "Get Your Chile Fix",
+        "season": 6,
+        "episode": 10,
+        "released": "2013-11-09",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make Green Chile Cheeseburgers at home. Then, tasting expert Jack Bishop challenges Chris to a tasting of mayonnaise. Next, Chris shares the test kitchen's top tips on making your own burger. And finally, test cook Erin McMurrer uncovers the secrets to making the best Five-Alarm Chili. Recipes: Green Chile Cheeseburgers, Five-Alarm Chili Taste Tests: Mayonnaise"
+      },
+      {
+        "id": "tvmaze:247127",
+        "title": "Dessert on Bourbon Street",
+        "season": 6,
+        "episode": 11,
+        "released": "2013-09-28",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make the ultimate New Orleans Bourbon Bread Pudding. Then, equipment expert Adam Ried reveals his top picks for sugar shakers. Next, tasting expert Jack Bishop challenges Chris to a tasting of grits. And finally, test cook Bridget Lancaster reveals the secrets to making perfect Beignets at home. Recipes: New Orleans Bourbon Bread Pudding, Beignets, Bourbon Sauce Equipment Reviews: Confectioners' Sugar Shakers Taste Tests: Grits"
+      },
+      {
+        "id": "tvmaze:247128",
+        "title": "Favorites With a Chinese Accent",
+        "season": 6,
+        "episode": 12,
+        "released": "2013-11-16",
+        "overview": "Favorites With a Chinese Accent Test cook Julia Collin Davison shows host Christopher Kimball how to make Chinese-Style Glazed Pork Tenderloin. Then, equipment expert Adam Ried reveals his top picks for grill pans. Next, tasting expert Jack Bishop challenges Chris to a tasting of ready rice. And finally, test cook Bridget Lancaster shows Chris how to make the best Chinese Chicken Salad. Recipes: Chinese-Style Glazed Pork Tenderloin, Chinese Chicken Salad Equipment Reviews: Grill Pans Taste Tests: Ready Rice"
+      },
+      {
+        "id": "tvmaze:247129",
+        "title": "Comfort Food Classics",
+        "season": 6,
+        "episode": 13,
+        "released": "2013-11-23",
+        "overview": "Test cook Julia Collin Davison reveals the secrets to perfect Meatloaf with Mushroom Gravy. Then, equipment expert Adam Ried reveals his top picks for inexpensive skillets. And finally, test cook Erin McMurrer shows Chris how to make the ultimate Herb Roast Chicken. Recipes: Meatloaf with Mushroom Gravy, Herb Roast Chicken Equipment Reviews: Inexpensive 12-Inch Skillets"
+      },
+      {
+        "id": "tvmaze:247130",
+        "title": "Short Order Breakfast Classics",
+        "season": 7,
+        "episode": 1,
+        "released": "2014-08-30",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make Quicker Cinnamon Buns at home. Next, tasting expert Jack Bishop challenges Chris to a tasting of frozen orange juice. And finally, test cook Julia Collin Davison uncovers the secrets to \"Impossible\" Ham-and-Cheese Pie."
+      },
+      {
+        "id": "tvmaze:247131",
+        "title": "Dressing Up Meat and Potatoes",
+        "season": 7,
+        "episode": 2,
+        "released": "2014-09-06",
+        "overview": "Test cook Julia Collin Davison revives a classic recipe, Holiday Strip Roast. Next, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of country ham. Then, test cook Bridget Lancaster shows Chris how to make Olive Oil Potato Gratin. And finally, Chris teaches a cooking class all about olive oil."
+      },
+      {
+        "id": "tvmaze:247132",
+        "title": "Black and White Desserts",
+        "season": 7,
+        "episode": 3,
+        "released": "2014-09-13",
+        "overview": "Test cook Julia Collin Davison uncovers the secrets to perfect Chocolate Angel Pie. Then, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of processed egg whites. Next, test cook Bridget Lancaster uncovers the secrets to making Black and White Cookies at home. And finally, equipment expert Adam Ried reveals his top picks for cookie sheets."
+      },
+      {
+        "id": "tvmaze:247133",
+        "title": "Fresh and Spicy Spins to Roast Pork and Tacos",
+        "season": 7,
+        "episode": 4,
+        "released": "2014-09-20",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make Pork Pernil. Then, tasting expert Jack Bishop challenges Chris to a tasting of jarred medium salsa. And finally, test cook Julia Collin Davison shows Chris how to make California Fish Tacos at home, and Bridget shares the test kitchen's secrets to buying fish."
+      },
+      {
+        "id": "tvmaze:247134",
+        "title": "Old-Fashioned Sunday Suppers",
+        "season": 7,
+        "episode": 5,
+        "released": "2014-09-27",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make Skillet-Roasted Chicken and Stuffing. Then, Chris uncovers the test kitchen's secret to making chicken stock in the pressure cooker. Next, equipment expert Adam Ried reveals his top food saver gadgets. and finally, test cook Bridget Lancaster shows Chris how to make perfect Pork Chops with Vinegar Peppers."
+      },
+      {
+        "id": "tvmaze:247135",
+        "title": "Steakhouse Specials Off the Grill",
+        "season": 7,
+        "episode": 6,
+        "released": "2014-10-04",
+        "overview": "Test cook Bridget lancaster uncovers the secrets to the best Grilled Cowboy-Cut Rib Eyes. Next, host Christopher Kimball reveals the text kitchen's tips for grill cleaning. then, equipment expert Adam Ried reveals his top picks for salad spinners. And finally, test cook Julia Collin Davison shows Chris how to make the ultimate Grilled Caesar Salad."
+      },
+      {
+        "id": "tvmaze:247136",
+        "title": "Dinner From the Prairie",
+        "season": 7,
+        "episode": 7,
+        "released": "2014-10-11",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make the perfect meal for a crowd, Milk-Can Supper. then, equipment expert Adam Ried reveals his top picks for roasting pans. and finally, test cook Bridget Lancaster shows Chris how to make a regional recipe at home, Dakota Bread."
+      },
+      {
+        "id": "tvmaze:247137",
+        "title": "Memphis Ribs and Pretzel Salad",
+        "season": 7,
+        "episode": 8,
+        "released": "2014-10-18",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make the best Memphis-Style Wet Ribs. Then, tasting expert Jack Bishop challenges Chris to a tasting of blue cheese dressing. And finally, test cook Julia Collin Davison shows Chris how to make the ultimate Strawberry Pretzel Salad."
+      },
+      {
+        "id": "tvmaze:247138",
+        "title": "Sweet Endings From the Icebox",
+        "season": 7,
+        "episode": 9,
+        "released": "2014-10-25",
+        "overview": "Test cook Bridget Lancaster reveals the secret to perfect Italian Cream Cake. Then, equipment expert Adam Ried reveals his top picks for round cake pans. And finally, test cook Julia collin Davison shows host Christopher Kimball how to make the ultimate Summer Berry Pudding."
+      },
+      {
+        "id": "tvmaze:247139",
+        "title": "New Orleans Shrimp and Creamy Grits",
+        "season": 7,
+        "episode": 10,
+        "released": "2014-11-01",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make New Orleans Barbecue Shrimp right at home. Next, tasting expert Jack Bishop challenges Chris to a tasting of pepper jack cheese. Then, test cook Bridget Lancaster reveals the steps to perfect Creamy Cheese Grits. And finally, Chris uncovers the secrets behind the best Baked Macaroni and Cheese."
+      },
+      {
+        "id": "tvmaze:247140",
+        "title": "Great Grilled Chicken and Texas Potato Salad",
+        "season": 7,
+        "episode": 11,
+        "released": "2014-11-08",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make the ultimate Grilled Chicken Leg Quarters with Lime Dressing. then, equipment expert Adam Ried reviews aprons in the equipment corner. Next, test cook Bridget Lancaster makes a regional specialty, Texas Potato Salad. And finally, Chris reveals the test kitchen's method for perfect hard cooked eggs."
+      },
+      {
+        "id": "tvmaze:247141",
+        "title": "Oklahoma Onion Burgers and Louisiana Meat Pies",
+        "season": 7,
+        "episode": 12,
+        "released": "2014-11-15",
+        "overview": "Test cook Julia collin Davison shows host Christopher Kimball how to make Oklahoma Fried Onion Burgers. Then, tasting expert Jack Bishop challenges Chris to a tasting of frozen French fries. And finally, test cook Bridget Lancaster shows Chris how to make a regional favorite at home, Natchitoches Meat Pies."
+      },
+      {
+        "id": "tvmaze:247142",
+        "title": "Colorado Chili and Slow-Cooker Baked Ziti",
+        "season": 7,
+        "episode": 13,
+        "released": "2014-11-22",
+        "overview": "Test cook Julia Collin Davison reveals the secrets to making Colorado Green Chili at home. Then, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of egg noodles. Next, test cook Bridget Lancaster shows Chris how to make the ultimate Slow-Cooker Baked Ziti. And finally, equipment expert Adam Ried reveals his top picks for small slow cookers."
+      },
+      {
+        "id": "tvmaze:247143",
+        "title": "American Classics with a Twist",
+        "season": 8,
+        "episode": 1,
+        "released": "2015-09-13",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make Frosted Meatloaf at home. Next, tasting expert Jack Bishop challenges Chris to a tasting of frozen pizzas. And finally, test cook Julia Collin Davison uncovers the secrets to Apple Pie with Cheddar Cheese Crust."
+      },
+      {
+        "id": "tvmaze:247144",
+        "title": "Muffins and Doughnuts Get a Makeover",
+        "season": 8,
+        "episode": 2,
+        "released": "2015-09-20",
+        "overview": "Host Christopher Kimball visits the Dorset Union Store in Dorset, Vermont, where doughnuts are baked fresh daily. Then, test cook Bridget Lancaster uncovers the secrets to making easier Muffin Tin Doughnuts. Then, equipment expert Adam Ried reveals his top picks for pod coffee makers. And finally, test cook Julia Collin Davison shows Chris how to make Whole-Wheat Blueberry Muffins."
+      },
+      {
+        "id": "tvmaze:247145",
+        "title": "A Hearty Fall Dinner",
+        "season": 8,
+        "episode": 3,
+        "released": "2015-09-27",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make Skillet Roast Chicken and Potatoes at home. Then, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of brown mustard. Then, Chris shares a test kitchen tip for aerating wine. Next, test cook Julia Collin Davison uncovers the secrets to perfect Brussels Sprout Salad. And finally, Chris teaches a cooking class all about Secret Ingredient Biscuits."
+      },
+      {
+        "id": "tvmaze:247146",
+        "title": "Grilled and Smoked",
+        "season": 8,
+        "episode": 4,
+        "released": "2015-10-04",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make Barbecued Burnt Ends. Next, equipment expert Adam Ried reveals his top picks for grill spatulas. Then, tasting expert Jack Bishop challenges Chris to a tasting of lemonade. Finally, test cook Julia Collin Davison uncovers the secrets to making Smoky Potato Salad."
+      },
+      {
+        "id": "tvmaze:247147",
+        "title": "Pasta for Every Palate",
+        "season": 8,
+        "episode": 5,
+        "released": "2015-10-11",
+        "overview": "Test cook Erin McMurrer shows host Christopher Kimball how to make Pork Ragu at home. Then, equipment expert Adam Ried reveals his top picks for dish towels. Finally, test cook Bridget Lancaster uncovers the secrets to making perfect Pasta with Roasted Garlic Sauce, Arugula, and Walnuts."
+      },
+      {
+        "id": "tvmaze:247148",
+        "title": "Fried Chicken and Grilled Peppers",
+        "season": 8,
+        "episode": 6,
+        "released": "2015-10-18",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make Latin Fried Chicken at home. Next, equipment expert Adam Ried reveals his top picks for deep-fry/candy thermometers. Then, tasting expert Jack Bishop challenges Chris to a tasting of green salsa. And finally, test cook Bridget Lancaster uncovers the secrets to perfect Grill-Roasted Peppers."
+      },
+      {
+        "id": "tvmaze:247149",
+        "title": "All-American Sweet Dough Desserts",
+        "season": 8,
+        "episode": 7,
+        "released": "2015-10-25",
+        "overview": "Test cook Julia Collin Davison revives a classic recipe for Dakota Peach Kuchen. Then, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of peach jam. Finally, test cook Erin McMurrer shows Chris how to make the perfect Kolaches."
+      },
+      {
+        "id": "tvmaze:247150",
+        "title": "Break Out the Bourbon",
+        "season": 8,
+        "episode": 8,
+        "released": "2015-11-01",
+        "overview": "Test cook Julia Collin Davison uncovers secrets to perfect Smoked Bourbon Chicken. Next, equipment expert Adam Ried reveals his top picks for liquid dish soap. Finally, test cook Bridget Lancaster shows host Christopher Kimball how to make the ultimate Sweet Potato Pie at home."
+      },
+      {
+        "id": "tvmaze:247151",
+        "title": "Southern Comfort",
+        "season": 8,
+        "episode": 9,
+        "released": "2015-11-08",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make a regional recipe, Delta Hot Tamales, at home. Then, Chris shares a test kitchen tip for taking the bite out of garlic. Finally, test cook Julia Collin Davison reveals the secrets to another regional specialty, Charleston Shrimp Perloo."
+      },
+      {
+        "id": "tvmaze:247152",
+        "title": "Simplified Showstoppers",
+        "season": 8,
+        "episode": 10,
+        "released": "2015-11-15",
+        "overview": "Test cook Bridget Lancaster shows host Christopher Kimball how to make the ultimate One-Pan Prime Rib and Roasted Vegetables. Next, tasting expert Jack Bishop challenges Chris to a tasting of frozen dinner rolls. Finally, test cook Julia Collin Davison revives a classic recipe for Blitz Torte."
+      },
+      {
+        "id": "tvmaze:247153",
+        "title": "Grilled Salmon and Stuffed Tomatoes",
+        "season": 8,
+        "episode": 11,
+        "released": "2015-11-22",
+        "overview": "Test cook Bridget Lancaster uncovers the secrets to making the best Grilled Salmon Steaks with Lemon-Caper Sauce. Next, equipment expert Adam Ried reveals his top picks for tomato coring tools. Then, tasting expert Jack Bishop challenges host Christopher Kimball to a tasting of bread crumbs. And finally, test cook Erin McMurrer shows Chris how to make Stuffed Tomatoes at home."
+      },
+      {
+        "id": "tvmaze:500749",
+        "title": "Bringing Home Tex-Mex Favorites",
+        "season": 8,
+        "episode": 12,
+        "released": "2015-11-29",
+        "overview": "Test cook Julia Collin Davison shows host Christopher Kimball how to make Tex-Mex Cheese Enchiladas at home. Next, tasting expert Jack Bishop challenges Chris to a tasting of corn tortillas. Then, equipment expert Adam Ried reveals his top picks for tortilla keepers. And finally, test cook Erin McMurrer uncovers the secrets to making perfect Huevos Rancheros."
+      },
+      {
+        "id": "tvmaze:500750",
+        "title": "Chinese Comes Home",
+        "season": 8,
+        "episode": 13,
+        "released": "2015-12-06",
+        "overview": "Test cook Bridget Lancaster revives a classic recipe for Chicken Chow Mein. Then, equipment expert Adam Ried reveals his top picks for slow cookers. Finally, test cook Julia Collin Davison shows host Christopher Kimball how to make the ultimate Slow-Cooker Chinese Barbecued Pork."
+      },
+      {
+        "id": "tvmaze:906297",
+        "title": "Badger State Favorites",
+        "season": 9,
+        "episode": 1,
+        "released": "2016-08-27",
+        "overview": "Test cook Julia Collin Davison demonstrates how to make a regional classic, Spicy Cheese Bread. Next, tasting expert Jack Bishop conducts a tasting of sharp cheddar cheese. And finally, test cook Bridget Lancaster uncovers the secrets to Old-Fashioned Vanilla Frozen Custard."
+      },
+      {
+        "id": "tvmaze:906298",
+        "title": "Picnic Game Changers",
+        "season": 9,
+        "episode": 2,
+        "released": "2016-09-03",
+        "overview": "Test cook Bridget Lancaster reveals the secrets to making the ultimate Ranch Fried Chicken at home. Then, test cook Ashley Moore shares the steps for Five Easy Tuna Salads. Next, equipment expert Adam Ried reveals his top picks for potholders. And finally, test cook Erin McMurrer demonstrates how to make perfect Husk-Grilled Corn."
+      },
+      {
+        "id": "tvmaze:906299",
+        "title": "Sweet Indulgences",
+        "season": 9,
+        "episode": 3,
+        "released": "2016-09-10",
+        "overview": "Test cook Julia Collin Davison demonstrates how to make Milk Chocolate Cheesecake at home. Then, equipment expert Adam Ried reveals his top picks for cake stands. And finally, test cook Bridget Lancaster uncovers the secrets to the ultimate Swiss Hazelnut Cake."
+      },
+      {
+        "id": "tvmaze:906304",
+        "title": "Surf and Turf Goes Regional",
+        "season": 9,
+        "episode": 4,
+        "released": "2016-09-17",
+        "overview": "Test cook Julia Collin Davison demonstrates how to make Cedar-Planked Salmon with Cucumber-Yogurt Sauce at home. Then, test cook Christie Morrison reveals the steps for Lemon and Herb Red Potato Salad. Then, equipment expert Adam Ried reveals his top picks for water bottles. And finally, test cook Bridget Lancaster uncovers the secrets to Grilled Sugar Steak."
+      },
+      {
+        "id": "tvmaze:906305",
+        "title": "Big Family Breakfast",
+        "season": 9,
+        "episode": 5,
+        "released": "2016-09-24",
+        "overview": "Host Christopher Kimball visits Freight House Antiques in Erving, Massachusetts, where scones are baked fresh daily. Then, test cook Julia Collin Davison demonstrates how to make perfect Mixed Berry Scones at home. Next, equipment expert Adam Ried reveals his top picks for pizza cutters. Then, tasting expert Jack Bishop conducts a tasting of honey. And finally, test cook Erin McMurrer reveals the secrets to making the perfect Breakfast Pizza."
+      },
+      {
+        "id": "tvmaze:906306",
+        "title": "A Taste of Tennessee",
+        "season": 9,
+        "episode": 6,
+        "released": "2016-10-01",
+        "overview": "Test cook Bridget Lancaster demonstrates how to make Tennessee Pulled Pork Sandwiches on Hoecakes. Next, tasting expert Jack Bishop conducts a tasting of shredded coconut. And finally, test cook Julia Collin Davison uncovers the secrets to making the ultimate French Coconut Pie at home."
+      },
+      {
+        "id": "tvmaze:906467",
+        "title": "The Devil Made Me Do It",
+        "season": 9,
+        "episode": 7,
+        "released": "2016-10-08",
+        "overview": "Test cook Julia Collin Davison uncovers the secrets to perfect Grilled Chicken Diavolo. Next, equipment expert Adam Ried unveils his top picks for insulated food carriers. Next, tasting expert Jack Bishop conducts a tasting of hard cider. And finally, test cook Bridget Lancaster demonstrates how to make the ultimate Deviled Beef Short Ribs."
+      },
+      {
+        "id": "tvmaze:906468",
+        "title": "Latin Heat",
+        "season": 9,
+        "episode": 8,
+        "released": "2016-10-15",
+        "overview": "Test cook Julia Collin Davison demonstrates how to make a regional recipe, Puffy Tacos, at home. Then, tasting expert Jack Bishop conducts a tasting of tortilla chips. Then, equipment expert Adam Ried reveals his top picks for dish drying racks. And finally, test cook Erin McMurrer reveals the secrets to perfect Chicken Chilaquiles."
+      },
+      {
+        "id": "tvmaze:906469",
+        "title": "All Wrapped Up",
+        "season": 9,
+        "episode": 9,
+        "released": "2016-10-22",
+        "overview": "Test cook Bridget Lancaster demonstrates how to make the ultimate Bacon-Wrapped Meatloaf. Then, tasting expert Jack Bishop conducts a tasting of salted butter. Then, equipment expert Adam Ried reveals his top picks for vacuum sealers. And finally, test cook Julia Collin Davison uncovers the secrets to making Chicken Baked in Foil with Sweet Potato and Radish."
+      },
+      {
+        "id": "tvmaze:906470",
+        "title": "Southern Stews",
+        "season": 9,
+        "episode": 10,
+        "released": "2016-10-29",
+        "overview": "Test cook Bridget Lancaster demonstrates how to make a regional classic, Brunswick Stew. Next, tasting expert Jack Bishop conducts a tasting of brown rice. Then, equipment expert Adam Ried reveals his top picks for shrimp tools. And finally, test cook Erin McMurrer reveals the steps to making the best Shrimp and Grits at home."
+      },
+      {
+        "id": "tvmaze:906471",
+        "title": "Biting into the Big Easy",
+        "season": 9,
+        "episode": 11,
+        "released": "2016-11-05",
+        "overview": "Test cook Bridget Lancaster reveals the secrets to making the ultimate Pork Grillades. Then, tasting expert Jack Bishop conducts a tasting of Creole seasoning. Next, equipment expert Adam Ried reveals his top picks for slicing knives. And finally, test cook Julia Collin Davison demonstrates how to make a regional favorite, New Orleans Muffulettas."
+      },
+      {
+        "id": "tvmaze:906472",
+        "title": "Prime Rib with All the Fixings",
+        "season": 9,
+        "episode": 12,
+        "released": "2016-11-12",
+        "overview": "Test cook Bridget Lancaster demonstrates how to make the ultimate Prime Rib and Potatoes with Red Wine–Orange Sauce at home. Then, test cook Christie Morrison reveals the steps for Green Goddess Dressing. Next, equipment expert Adam Ried reveals his top picks for roasting racks. And finally, test cook Julia Collin Davison uncovers the secrets to making the best Roasted Green Beans with Goat Cheese and Hazelnuts."
+      },
+      {
+        "id": "tvmaze:906473",
+        "title": "Big Flavors from Little Italy",
+        "season": 9,
+        "episode": 13,
+        "released": "2016-11-19",
+        "overview": "Test cook Bridget Lancaster uncovers the secrets to making Zeppoles at home. Then, equipment expert Adam Ried reveals his top picks for splatter screens. Next, test cook Ashley Moore shares the steps for the best Slow-Cooker Chicken Stock. Then, tasting expert Jack Bishop conducts a tasting of shredded Parmesan. And finally, test cook Julia Collin Davison demonstrates how to make the ultimate Pasta with Mushroom Sauce."
+      },
+      {
+        "id": "tvmaze:1283865",
+        "title": "Pork and Pierogi",
+        "season": 10,
+        "episode": 1,
+        "released": "2017-08-26",
+        "overview": "Hosts Julia Collin Davison and Bridget Lancaster prepare a show-stopping special occasion Cider-Braised Pork Roast. Next, tasting expert Jack Bishop challenges Bridget to a sauerkraut tasting. Finally, test cook Bryan Roof teaches host Julia Collin Davison the secrets to tackling authentic Pittsburg-style Potato-Cheddar Pierogi at home."
+      },
+      {
+        "id": "tvmaze:1283866",
+        "title": "Spicy and Sour for Supper",
+        "season": 10,
+        "episode": 2,
+        "released": "2017-09-02",
+        "overview": "Hosts Bridget Lancaster and Julia Collin Davison uncover the secrets to a Latin classic, Arroz con Pollo. Then, tasting expert Jack Bishop challenges Bridget to a tasting of store-bought whipped topping. And finally, test cook Christie Morrison reveals the steps for a Florida favorite, Sour Orange Pie."
+      },
+      {
+        "id": "tvmaze:1283867",
+        "title": "Smoky Barbecue Favorites",
+        "season": 10,
+        "episode": 3,
+        "released": "2017-09-09",
+        "overview": "Test cook Ashley Moore shows host Bridget Lancaster how to tackle Texas-sized, Thick Cut Smoked Pork Chops. Then, equipment expert Adam Ried reveals his pick for dry measuring cups. Finally, Julia Collin Davison reveals the secret to achieving the perfect Backyard Barbecue Beans."
+      },
+      {
+        "id": "tvmaze:1283868",
+        "title": "Smothered and Dowdied",
+        "season": 10,
+        "episode": 4,
+        "released": "2017-09-16",
+        "overview": "Julia Collin Davison shows host Bridget Lancaster how to make a regional favorite, Southern Style Smothered Chicken. Then, equipment expert Adam Ried reveals the best Kitchen Timer on the market. Finally, Bridget Lancaster reveals the secrets to a show-stopping Apple Pandowdy."
+      },
+      {
+        "id": "tvmaze:1283876",
+        "title": "BBQ Thighs and Fried Peach Pies",
+        "season": 10,
+        "episode": 5,
+        "released": "2017-09-23",
+        "overview": "Julia Collin Davison unveils the secrets to the ultimate Barbecue Chicken Thighs to host, Bridget Lancaster. Then, tasting expert Jack Bishop challenges Bridget to a tasting of popcorn. And finally, test cook Bryan Roof demonstrates how to make Fried Peach Pies at home."
+      },
+      {
+        "id": "tvmaze:1283877",
+        "title": "Ribs and Mashed Potatoes Revisited",
+        "season": 10,
+        "episode": 6,
+        "released": "2017-09-30",
+        "overview": "Bridget Lancaster shares steps to achieving the perfect Memphis-style Wet Ribs in the Slow Cooker. Next, tasting expert Jack Bishop challenges host, Julia Collin Davison to an apple-cider vinegar tasting. And finally, test cook Ashley Moore teaches Bridget how to make the leftover favorite, Mashed Potato Cakes from scratch."
+      },
+      {
+        "id": "tvmaze:1283881",
+        "title": "Bourbon and Broccoli Hit the Grill",
+        "season": 10,
+        "episode": 7,
+        "released": "2017-10-07",
+        "overview": "Julia Collin Davison fires up the grill for host Bridget Lancaster, demonstrating the ultimate Grilled Bourbon Steak recipe. Next, tasting expert Jack Bishop challenges Bridget to a tasting of Dill Pickle Spears. Then, test cook Ashley Moore prepares an unforgettable Grilled Broccoli with Lemon and Parmesan. Finally, equipment expert Adam Ried reviews inexpensive options for Instant-Read Thermometers."
+      },
+      {
+        "id": "tvmaze:1283883",
+        "title": "Straight from So-Cal",
+        "season": 10,
+        "episode": 8,
+        "released": "2017-10-14",
+        "overview": "Julia Collin Davison reveals the secrets to making show-stopping Citrus-Braised Pork Tacos at home. Then, tasting expert Jack Bishop challenges Julia to a Mild Salsa taste test. Next, test cook Christie Morrison shows Julia how to achieve unforgettable So-Cal inspired Churros right at home. And finally, equipment expert Adam Ried shares his piping bag best-buy."
+      },
+      {
+        "id": "tvmaze:1283884",
+        "title": "Southern Discoveries",
+        "season": 10,
+        "episode": 9,
+        "released": "2017-10-21",
+        "overview": "Test cook Bryan Roof teaches host Julia Collin Davison how to make the perfect South Carolina Smoked Fresh Ham. Then, tasting expert Jack Bishop challenges Julia to a tasting of Spiral Sliced Bone-in Hams. Next, equipment expert Adam Ried reveals his pick for potato mashers. And finally, test cook Christie Morrison shares a fool-proof Smashed Potato Salad recipe with host, Bridget Lancaster."
+      },
+      {
+        "id": "tvmaze:1283885",
+        "title": "Cast Iron Comforts",
+        "season": 10,
+        "episode": 10,
+        "released": "2017-10-28",
+        "overview": "Bridget Lancaster uncovers the power of the cast iron, showing host Julia Collin Davison how to achieve restaurant-worthy homemade pizza, made in a cast iron skillet. Next, Adam Ried reviews his top choice for the best Cast Iron Skillet on the market. And finally, test cook Ashley Moore teaches Bridget how to make a show-stopping Chocolate Chip Skillet Cookie."
+      },
+      {
+        "id": "tvmaze:1283886",
+        "title": "Plenty of Garlic and Parm",
+        "season": 10,
+        "episode": 11,
+        "released": "2017-11-04",
+        "overview": "Bridget Lancaster shows host Julia Collin Davison the steps to preparing the Central California regional favorite, Garlic Fried Chicken. Next, equipment expert Adam Ried shares his pick for the best inexpensive Dutch oven on the market. And finally, test cook Ashley Moore prepares an unforgettable fan-requested dish for host Bridget Lancaster, Crispy Parmesan Potatoes."
+      },
+      {
+        "id": "tvmaze:1283887",
+        "title": "When Only Chocolate Will Do",
+        "season": 10,
+        "episode": 12,
+        "released": "2017-11-11",
+        "overview": "Julia Collin Davison shows host Bridget Lancaster how to make a show-stopping Mississippi Mud Pie. Then, equipment expert Adam Ried reveals his pick for the best miniature food processor on the market. And Finally, Bridget reveals the secrets to making Whoopie Pies right at home."
+      },
+      {
+        "id": "tvmaze:1283888",
+        "title": "The Italian-American Kitchen",
+        "season": 10,
+        "episode": 13,
+        "released": "2017-11-18",
+        "overview": "Test cook Ashley Moore reveals the secrets to achieving the ultimate Sausage Ragu in a time crunch. Next, tasting expert Jack Bishop challenges host Bridget Lancaster to a fettuccine taste test. And finally, test cook Bryan Roof teaches host Julia Collin Davison how to make a spectacular Fluffy Baked Polenta with Red Sauce."
+      },
+      {
+        "id": "tvmaze:1523489",
+        "title": "Ultimate Comfort Foods",
+        "season": 11,
+        "episode": 1,
+        "released": "2018-08-25",
+        "overview": "Hosts Julia Collin Davison and Bridget Lancaster revive a traditional recipe for Wellesley Fudge Cake. Then, equipment expert Adam Ried reveals his top pick for immersion blenders. And finally, test cook Bryan Roof makes Bridget a Southern specialty, Chicken and Pastry."
+      },
+      {
+        "id": "tvmaze:1523490",
+        "title": "Ballpark Classics",
+        "season": 11,
+        "episode": 2,
+        "released": "2018-09-01",
+        "overview": "Hosts Bridget Lancaster and Julia Collin Davison grill up Sausage and Peppers. Then, tasting expert Jack Bishop challenges Julia to a tasting of whole-wheat sandwich bread. Next, equipment expert Adam Ried reviews disposable plates. And finally, test cook Christie Morrison makes Julia the best Ballpark Pretzels."
+      },
+      {
+        "id": "tvmaze:1523491",
+        "title": "A Trip to Tarheel Country",
+        "season": 11,
+        "episode": 3,
+        "released": "2018-09-08",
+        "overview": "Test cook Bryan Roof shows host Julia Collin Davison a top-secret recipe for North Carolina Dipped Fried Chicken. Then, tasting expert Jack Bishop challenges host Bridget Lancaster to a tasting of chocolate ice cream. And finally, test cook Ashley Moore makes Bridget a classic version of North Carolina Lemon Pie."
+      },
+      {
+        "id": "tvmaze:1523492",
+        "title": "New Recipes for the Grill",
+        "season": 11,
+        "episode": 4,
+        "released": "2018-09-15",
+        "overview": "Hosts Bridget Lancaster and Julia Collin Davison are making fried chicken wings—on the grill! Next, equipment expert Adam Ried reviews ice packs. Then, tasting expert Jack Bishop challenges Bridget to a tasting of supermarket barbecue sauce. And finally, test cook Bryan Roof makes Julia perfect Grilled Pork Burgers."
+      },
+      {
+        "id": "tvmaze:1523493",
+        "title": "Spaghetti House Classics",
+        "season": 11,
+        "episode": 5,
+        "released": "2018-09-22",
+        "overview": "Test cook Christie Morrison makes host Julia Collin Davison the perfect Hearty Beef Lasagna. Then, tasting expert Jack Bishop challenges host Bridget Lancaster to a tasting of block mozzarella. And finally, test cook Lan Lam makes Bridget a new weeknight favorite—Chicken Scarpariello."
+      },
+      {
+        "id": "tvmaze:1523494",
+        "title": "Tex-Mex Favorites",
+        "season": 11,
+        "episode": 6,
+        "released": "2018-09-29",
+        "overview": "Hosts Julia Collin Davison and Bridget Lancaster make a Lone Star State classic—Flank Steak in Adobo. Then, equipment expert Adam Ried reveals his top pick for inexpensive blenders. And finally, test cook Ashley Moore shows Julia how to make the ultimate Texas Breakfast Tacos."
+      },
+      {
+        "id": "tvmaze:1523495",
+        "title": "Pacific Northwest Supper",
+        "season": 11,
+        "episode": 7,
+        "released": "2018-10-06",
+        "overview": "Test cook Christie Morrison shows host Julia Collin Davison how to make a show-stopping Oregon Blackberry Pie. Then, Bridget and Julia make an easy, one-pan supper – Roasted Salmon with Broccoli and Red Potatoes."
+      },
+      {
+        "id": "tvmaze:1523496",
+        "title": "Summer Steak and Salad",
+        "season": 11,
+        "episode": 8,
+        "released": "2018-10-13",
+        "overview": "Test cook Christie Morrison makes host Bridget Lancaster the ultimate Grilled Thick-Cut Porterhouse Steaks. Then, equipment expert Adam Ried shows host Julia Collin Davison his top pick for paring knives. Next, tasting expert Jack Bishop challenges Bridget to a tasting of crumbled blue cheese. And finally, test cook Lan Lam makes Julia the best Caesar Green Beans."
+      },
+      {
+        "id": "tvmaze:1523497",
+        "title": "Re-imagining Italian-American Classics",
+        "season": 11,
+        "episode": 9,
+        "released": "2018-10-20",
+        "overview": "Test cook Bryan Roof makes Julia Collin Davison Detroit-Style Pizza. Then, equipment expert Adam Ried reviews rasp-style graters. Finally, Ashley Moore makes Bridget Lancaster an updated version of Fettuccine with Butter and Cheese."
+      },
+      {
+        "id": "tvmaze:1523498",
+        "title": "Southern Specialties",
+        "season": 11,
+        "episode": 10,
+        "released": "2018-10-27",
+        "overview": "Hosts Bridget Lancaster and Julia Collin Davison cook Tennessee Pulled Turkey Sandwiches. Then, tasting expert Jack Bishop challenges Bridget to cheese tasting. Finally, Bryan Roof shows Bridget an Eastern North Carolina Fish Stew recipe."
+      },
+      {
+        "id": "tvmaze:1523499",
+        "title": "Tri-state Treats",
+        "season": 11,
+        "episode": 11,
+        "released": "2018-11-03",
+        "overview": "Hosts Julia Collin Davison and Bridget Lancaster make New Jersey Crumb Buns. Then, equipment expert Adam Ried reviews nonstick skillets. Finally, test cook Lan Lam makes Julia a streamlined recipe for Cheese Blintzes with Raspberry Sauce."
+      },
+      {
+        "id": "tvmaze:1523500",
+        "title": "Holiday Roast and Potatoes",
+        "season": 11,
+        "episode": 12,
+        "released": "2018-11-10",
+        "overview": "Hosts Bridget Lancaster and Julia Collin Davison cook Boneless Rib Roast with Yorkshire Pudding and Jus. Then, Jack Bishop challenges Bridget to a black tea tasting. Finally, Ashley Moore makes Bridget a recipe for Lighthouse Inn Potatoes."
+      },
+      {
+        "id": "tvmaze:1523501",
+        "title": "Pub-Style Seafood",
+        "season": 11,
+        "episode": 13,
+        "released": "2018-11-17",
+        "overview": "Test cook Ashley Moore makes host Bridget Lancaster Fish and Chips. Then, tasting expert Jack Bishop challenges host Julia Collin Davison to a tasting of hamburger buns. Finally, test cook Christie Morrison makes Julia Shrimp Burgers."
+      },
+      {
+        "id": "tvmaze:1700371",
+        "title": "BBQ Brisket and Fritters",
+        "season": 12,
+        "episode": 1,
+        "released": "2019-08-26",
+        "overview": "Test cook Bryan Roof makes host Julia Collin Davison a tender and delicious Texas Barbecue Brisket. Then, equipment expert Adam Ried shows host Bridget Lancaster his top pick of coolers."
+      },
+      {
+        "id": "tvmaze:1700372",
+        "title": "Italian Comfort Food Classics",
+        "season": 12,
+        "episode": 2,
+        "released": "2019-08-31",
+        "overview": "Test cook Bryan Roof cooks host Julia Collin Davison a surprising Italian classic: Chicago Thin-Crust Pizza with Homemade Italian Sausage. Then, test cook Lawman Johnson and host Bridget reveal the secrets to a perfect Pasta Fagioli."
+      },
+      {
+        "id": "tvmaze:1700373",
+        "title": "Tacos Two Ways",
+        "season": 12,
+        "episode": 3,
+        "released": "2019-09-07",
+        "overview": "Test cook Bryan Roof and host Bridget Lancaster reveal the secrets to making a Southern California classic, Smoked Fish Tacos. Then, test cook Christie Morrison makes Julia the perfect Grilled Steak Fajitas."
+      },
+      {
+        "id": "tvmaze:1704680",
+        "title": "Beef, Dressed Up",
+        "season": 12,
+        "episode": 4,
+        "released": "2019-09-14",
+        "overview": "Test cook Christie Morrison shows host Bridget Lancaster how to make perfect Spice-Crusted Steaks. Then, test cook Ashley Moore and Julia reveal a showstopping recipe for Grilled Bacon Burgers with Caramelized Onion."
+      },
+      {
+        "id": "tvmaze:1704681",
+        "title": "Regional Italian-American Favorites",
+        "season": 12,
+        "episode": 5,
+        "released": "2019-09-21",
+        "overview": "Test cook Bryan Roof makes host Julia Collin Davison a New York classic, Prosciutto Bread. Then, test cook Ashley Moore shows host Bridget Lancaster how to make the easiest-ever Drop Meatballs."
+      },
+      {
+        "id": "tvmaze:1704682",
+        "title": "Aloha State Favorites",
+        "season": 12,
+        "episode": 6,
+        "released": "2019-09-28",
+        "overview": "Test cook Bryan Roof uncovers the secrets to making Hawaiian-Style Fried Chicken with host Bridget Lancaster. Then, test cook Natalie Estrada makes Julia an Aloha State favorite, Hawaiian Macaroni Salad."
+      },
+      {
+        "id": "tvmaze:1704683",
+        "title": "Chicken and Cornbread",
+        "season": 12,
+        "episode": 7,
+        "released": "2019-10-05",
+        "overview": "Test cook Natalie Estrada prepares Cast Iron Baked Chicken with host Bridget Lancaster. Next, tasting expert Jack Bishop challenges host Julia Collin Davison to a tasting of hot sauce. Finally, test cook Ashley Moore shows Julia how to make foolproof Blueberry Cornbread with Honey Butter."
+      },
+      {
+        "id": "tvmaze:1704684",
+        "title": "The Perfect Cake",
+        "season": 12,
+        "episode": 8,
+        "released": "2019-10-12",
+        "overview": "Test cook Christie Morrison and host Julia Collin Davison reveal the steps to making a showstopping Blueberry Jam Cake. Finally, test cook Bryan Roof and host Bridget Lancaster make a St. Louis favorite, Gooey Butter Cake Bars."
+      },
+      {
+        "id": "tvmaze:1704685",
+        "title": "Roast Beef and Potatoes",
+        "season": 12,
+        "episode": 9,
+        "released": "2019-10-19",
+        "overview": "Test cook Natalie Estrada reveals the secrets to making a foolproof Classic Roast Beef Tenderloin with host Bridget Lancaster. Then, test cook Lawman Johnson shows Julia how to make perfect Lyonnaise Potatoes."
+      },
+      {
+        "id": "tvmaze:1704686",
+        "title": "Pork and Pie",
+        "season": 12,
+        "episode": 10,
+        "released": "2019-10-26",
+        "overview": "Test cook Ashley Moore brings host Julia Collin Davison into the kitchen to make Monroe County–Style Pork Chops. Finally, test cook Christie Morrison shows Bridget the secrets to reimagining a retro dessert, Coconut Cream Pie."
+      },
+      {
+        "id": "tvmaze:1704687",
+        "title": "Holiday Feast",
+        "season": 12,
+        "episode": 11,
+        "released": "2019-11-02",
+        "overview": "Test cook Ashley Moore shows host Bridget Lancaster how to make a Crumb-Crusted Rack of Lamb that is perfect for the holidays. Next, equipment expert Adam Ried shows host Julia Collin Davison his top picks of electric knives."
+      },
+      {
+        "id": "tvmaze:1704688",
+        "title": "A Trip to the Big Easy",
+        "season": 12,
+        "episode": 12,
+        "released": "2019-11-09",
+        "overview": "Test cook Bryan Roof and host Julia Collin Davison team up to make a New Orleans classic, Shrimp Po' Boys. Then, test cook Ashley Moore and Bridget make a Cajun specialty, Chicken Sauce Piquant."
+      },
+      {
+        "id": "tvmaze:1704689",
+        "title": "Comfort Food Done Right",
+        "season": 12,
+        "episode": 13,
+        "released": "2019-11-16",
+        "overview": "Test cook Christie Morrison and host Bridget Lancaster uncover the secrets to making a flavorful Double-Crust Chicken Pot Pie from scratch. Then, test cook Ashley Moore makes Julia a delicious First Lady specialty, Cowboy Cookies."
+      },
+      {
+        "id": "tvmaze:1927976",
+        "title": "Regional Seafood Specialties",
+        "season": 13,
+        "episode": 1,
+        "released": "2020-09-12",
+        "overview": "Test cook Bryan Roof makes host Julia Collin Davison a regional specialty, Monterey Bay Cioppino. Next, equipment expert Adam Ried shows host Bridget Lancaster his top pick for can openers. Finally, test cook Morgan Bolling shows Bridget how to make the ultimate Shrimp Mozambique."
+      },
+      {
+        "id": "tvmaze:1927977",
+        "title": "Taste of Summer",
+        "season": 13,
+        "episode": 2,
+        "released": "2020-09-19",
+        "overview": "Test cook Lawman Johnson makes host Julia Collin Davison foolproof Grilled Flank Steak with Basil Dressing. Then, test cook Christie Morrison shows host Bridget Lancaster how to make a show-stopping Fresh Tomato Galette."
+      },
+      {
+        "id": "tvmaze:1927978",
+        "title": "Beef Kebabs and Cheese Bread",
+        "season": 13,
+        "episode": 3,
+        "released": "2020-09-26",
+        "overview": "Test cook Christie Morrison makes host Bridget Lancaster Shashlik-Style Beef Kebabs. Then, test cook Bryan Roof shows host Julia Collin Davison how to make a Georgian specialty, Adjaruli Khachapuri."
+      },
+      {
+        "id": "tvmaze:1927979",
+        "title": "Grilled Chicken, Two Ways",
+        "season": 13,
+        "episode": 4,
+        "released": "2020-10-03",
+        "overview": "Test cook Bryan Roof makes host Julia Collin Davison flavor-packed Grilled Jerk Chicken. Then, equipment expert Adam Ried and host Bridget Lancaster discuss grill brushes. Finally, test cook Christie Morrison makes Smoked Chicken Wings."
+      },
+      {
+        "id": "tvmaze:1936177",
+        "title": "Tacos Two Ways",
+        "season": 13,
+        "episode": 5,
+        "released": "2020-10-10",
+        "overview": "Test cook Christie Morrison and host Julia Collin Davison make mouthwatering Pork Carnitas. Then, tasting expert Jack Bishop challenges host Bridget Lancaster to a tasting of lard. Finally, Julia makes crunchy Shrimp Tacos."
+      },
+      {
+        "id": "tvmaze:1936178",
+        "title": "Bread, Cheese and Meat Can't Be Beat",
+        "season": 13,
+        "episode": 6,
+        "released": "2020-10-17",
+        "overview": "Test cook Christie Morrison makes host Bridget Lancaster iconic Sliders. Next, tasting expert Jack Bishop challenges host Julia Collin Davison to a tasting of ketchup, and test cook Bryan Roof makes Julia a show-stopping Croque Monsieur."
+      },
+      {
+        "id": "tvmaze:1954164",
+        "title": "Herbaceous Chicken and Potatoes",
+        "season": 13,
+        "episode": 7,
+        "released": "2020-10-24",
+        "overview": "Test cook Bryan Roof cooks host Julia Collin Davison a Birmingham specialty, Greek Chicken. Then, test cook Lawman Johnson makes the best Crushed Red Potatoes with Garlic and Herbs."
+      },
+      {
+        "id": "tvmaze:1954165",
+        "title": "Italian Comfort Food",
+        "season": 13,
+        "episode": 8,
+        "released": "2020-10-31",
+        "overview": "Hosts Julia Collin Davison and Bridget Lancaster make Cheesy Stuffed Shells. Next, equipment expert Adam Ried reveals his top pick for broiler-safe baking dishes. Finally, test cook Bryan Roof shows Julia how to make Eggplant Pecorino."
+      },
+      {
+        "id": "tvmaze:1954166",
+        "title": "Chicken and Biscuits",
+        "season": 13,
+        "episode": 9,
+        "released": "2020-11-07",
+        "overview": "Test cook Bryan Roof makes host Bridget Lancaster the ultimate One-Batch Fried Chicken. Then, test cook Christie Morrison prepares a regional favorite, North Carolina Cheese Biscuits."
+      },
+      {
+        "id": "tvmaze:1970422",
+        "title": "Pennsylvania Dutch Country",
+        "season": 13,
+        "episode": 10,
+        "released": "2020-11-14",
+        "overview": "Test cook Bryan Roof makes host Bridget Lancaster Pennsylvania Dutch Apple Pie. Then, tasting expert Jack Bishop challenges host Julia Collin Davison to a tasting of vanilla ice cream, and Bridget and Julia bake Amish Cinnamon Bread."
+      },
+      {
+        "id": "tvmaze:1970733",
+        "title": "Motor City Favorites",
+        "season": 13,
+        "episode": 11,
+        "released": "2020-11-21",
+        "overview": "Test cook Bryan Roof shows host Julia Collin Davison how to make the ultimate Bottom Round Roast Beef with Zip-Style Sauce. Then, test cook Christie Morrison makes host Bridget Lancaster a regional favorite Almond Boneless Chicken."
+      },
+      {
+        "id": "tvmaze:1970734",
+        "title": "Never Enough Chocolate",
+        "season": 13,
+        "episode": 12,
+        "released": "2020-11-28",
+        "overview": "Test cook Christie Morrison and host Bridget Lancaster make the ultimate Triple-Chocolate Sticky Buns. Then, test cook Morgan Bolling reveals the secret to Thin and Crispy Chocolate Chip Cookies."
+      },
+      {
+        "id": "tvmaze:1970735",
+        "title": "Spring Feast",
+        "season": 13,
+        "episode": 13,
+        "released": "2020-12-05",
+        "overview": "Test cook Christie Morrison makes host Julia Collin Davison a show-stopping Slow-Roasted Fresh Ham. Then, test cook Bryan Roof makes host Bridget Lancaster famous St. Louis Gooey Butter Cake Bars."
+      },
+      {
+        "id": "tvmaze:2161344",
+        "title": "Fried Bites",
+        "season": 14,
+        "episode": 1,
+        "released": "2021-09-18",
+        "overview": "Host Bridget Lancaster makes Popcorn Chicken, and Toni Tipton-Martin talks about the snack's inventor. Equipment expert Adam Ried shares his top pick for electric deep-fryers. Bryan Roof makes Gobi Manchurian, and Lawman Johnson fries up Crispy Vegetable Fritters."
+      },
+      {
+        "id": "tvmaze:2161345",
+        "title": "Roast Chicken and Salad",
+        "season": 14,
+        "episode": 2,
+        "released": "2021-09-25",
+        "overview": "Host Julia Collin Davison makes Green Goddess Roast Chicken, and Toni Tipton-Martin shares the origins of Green Goddess dressing. Ingredient expert Jack Bishop gives a primer on herbs. Bryan Roof makes Perfect Pesto from the Recipe Box, and Ashley Moore makes Potato, Green Bean and Tomato Salad."
+      },
+      {
+        "id": "tvmaze:2180818",
+        "title": "Summer Berry Desserts",
+        "season": 14,
+        "episode": 3,
+        "released": "2021-10-02",
+        "overview": "Host Bridget Lancaster makes Mixed Berry Buckle, and Toni Tipton-Martin shares the history of baked fruit desserts. Ingredient expert Jack Bishop talks about thickening agents. Bryan Roof makes the ultimate Strawberry Cheesecake Bars, and Lawman Johnson makes Strawberry Compote from the Recipe Box."
+      },
+      {
+        "id": "tvmaze:2180819",
+        "title": "Carne Guisada and Enchiladas",
+        "season": 14,
+        "episode": 4,
+        "released": "2021-10-09",
+        "overview": "Host Julia Collin Davison makes a Texas favorite, Carne Guisada, and Toni Tipton-Martin shares the origins of the dish. Equipment expert Adam Ried reveals his top pick for oven mitts. Finally, Christie Morrison makes showstopping Green Chile Chicken Enchiladas."
+      },
+      {
+        "id": "tvmaze:2196934",
+        "title": "One-Pot Meals",
+        "season": 14,
+        "episode": 5,
+        "released": "2021-10-16",
+        "overview": "Host Bridget Lancaster makes One-Pot Chicken Jardinière, and Toni Tipton-Martin shares the history of cooking in one pot. Next, equipment expert Adam Ried shares his top pick for bird's beak paring knives. Finally, Morgan Bolling makes One-Pan Mediterranean Shrimp, and Ashley Moore makes Wacky Cake from the Recipe Box."
+      },
+      {
+        "id": "tvmaze:2196935",
+        "title": "Italian-American Comforts",
+        "season": 14,
+        "episode": 6,
+        "released": "2021-10-23",
+        "overview": "Host Julia Collin Davison makes the ultimate Italian Meatloaf. Ingredient expert Jack Bishop reviews substitutes for fresh garlic. Toni Tipton-Martin tells the immigrant origins of scampi, and Ashley Moore makes Chicken Scampi. And Morgan Bolling makes Asparagus Baked in Foil from the Recipe Box."
+      },
+      {
+        "id": "tvmaze:2196937",
+        "title": "Regional Sandwich Roundup",
+        "season": 14,
+        "episode": 7,
+        "released": "2021-10-30",
+        "overview": "Host Bridget Lancaster makes Crispy Iowa Skinny sandwiches. Equipment expert Adam Reid reveals his top pick for 12-inch nonstick skillets. Christie Morrison makes the Boogaloo Wonderland Sandwich from Detroit, and Toni Tipton-Martin dives into the origin of the sandwich. Finally, Bryan makes a St. Louis favorite, St. Paul Sandwich."
+      },
+      {
+        "id": "tvmaze:2196938",
+        "title": "Thanksgiving Simplified",
+        "season": 14,
+        "episode": 8,
+        "released": "2021-11-06",
+        "overview": "Host Julia Collin Davison makes One-Pan Turkey Breast and Stuffing, and Toni Tipton-Martin attempts to answer the question: \"what's the difference between dressing and stuffing?\". Ingredient expert Jack Bishop shares tips for buying turkey. Finally, Lawman Johnson makes Roasted Butternut Squash and Apple, and Christie Morrison makes Pear-Cranberry Chutney from the Recipe Box."
+      },
+      {
+        "id": "tvmaze:2213294",
+        "title": "Paprikash and Stroganoff",
+        "season": 14,
+        "episode": 9,
+        "released": "2021-11-13",
+        "overview": "Host Bridget Lancaster makes Chicken Paprikash with Butter Spaetzle and Toni Tipton-Martin shares the story of Hungarian immigrants in Cleveland. Equipment expert Adam Reid shares his top pick for wooden spoons. Finally, Ashley Moore makes a weeknight Ground Beef Stroganoff."
+      },
+      {
+        "id": "tvmaze:2213295",
+        "title": "Pork, Peaches and Potatoes",
+        "season": 14,
+        "episode": 10,
+        "released": "2021-11-20",
+        "overview": "Host Julia Collin Davison makes Bacon-Wrapped Pork Roast with Peach Sauce. Equipment expert Adam Reid reveals his top pick for graters. Toni Tipton-Martin explores the rich German community in Texas and Morgan Bolling makes Texas Potato Pancakes. Christie Morrison makes Easy Homemade Mayonnaise from the Recipe Box."
+      },
+      {
+        "id": "tvmaze:2213293",
+        "title": "French Fare",
+        "season": 14,
+        "episode": 11,
+        "released": "2021-12-04",
+        "overview": "Host Bridget Lancaster makes Easy Steak Frites, and Toni Tipton-Martin shares the origin of French Fries. Equipment expert Adam Ried shares his top pick for braisers. Finally, Bryan Roof makes the ultimate French Onion soup."
+      },
+      {
+        "id": "tvmaze:2236732",
+        "title": "Chicken Soup and Cheesy Bread",
+        "season": 14,
+        "episode": 12,
+        "released": "2021-12-11",
+        "overview": "Host Julia Collin Davison makes Old-Fashioned Chicken Noodle Soup, and Toni Tipton-Martin talks about the restorative properties of chicken soup. Ingredient expert Jack Bishop explores the world of broths. Christie Morrison makes Beer-Batter Cheese Bread. And from the Recipe Box, Morgan Bolling whips up Make-Ahead Hot Chocolate and Lawman Johnson makes Spinach Salad with Gorgonzola and Pear."
+      },
+      {
+        "id": "tvmaze:2244068",
+        "title": "Elegant and Orange",
+        "season": 14,
+        "episode": 13,
+        "released": "2021-12-18",
+        "overview": "Host Bridget Lancaster makes Slow Roasted Salmon, and Toni Tipton-Martin shares the indigenous origins of the American salmon industry. Ingredient expert Jack Bishop talks about leavening agents. Finally, Ashley Moore makes a show-stopping Clementine Cake."
+      },
+      {
+        "id": "tvmaze:2376584",
+        "title": "Cast Iron Everything",
+        "season": 15,
+        "episode": 1,
+        "released": "2022-08-20",
+        "overview": "Lawman Johnson makes host Bridget Lancaster Japanese Steakhouse Steak and Vegetables, and Toni Tipton-Martin discusses the legacy of a Japanese Steakhouse in the US. Adam Ried shares his top picks for cast iron skillets. Bryan Roof makes host Julia Collin Davison Charred Cherry Tomatoes with Bell Peppers and Mozzarella."
+      },
+      {
+        "id": "tvmaze:2376585",
+        "title": "New England for Everyone",
+        "season": 15,
+        "episode": 2,
+        "released": "2022-08-27",
+        "overview": "Christie Morrison makes host Julia Collin Davison Woodman's-Style Clam Chowder. Tasting expert Jack Bishop explains how to eat oysters at home and Adam Ried reviews Inexpensive Blenders. Toni Tipton-Martin talks about how to humanely cook lobster, and Ashley Moore cooks host Bridget Lancaster Hot Buttered Lobster Rolls."
+      },
+      {
+        "id": "tvmaze:2376587",
+        "title": "Low Country Party",
+        "season": 15,
+        "episode": 3,
+        "released": "2022-09-03",
+        "overview": "Morgan Bolling makes host Julia Collin Davison Okra and Shrimp Stew, and Toni Tipton-Martin shares the story of the Gullah Geechee people. Equipment expert Adam Ried reveals his top picks for lightweight dutch ovens. Julia makes host Bridget Lancaster Pickled Shrimp."
+      },
+      {
+        "id": "tvmaze:2387864",
+        "title": "Midwestern Favorites",
+        "season": 15,
+        "episode": 4,
+        "released": "2022-09-10",
+        "overview": "Hosts Bridget Lancaster and Julia Collin Davison make a Minnesota favorite Tater Tot Hotdish. Toni Tipton-Martin talks about the first printed hotdish recipe and a fun Congressional competition. Equipment expert Adam Ried reviews corn strippers, and Christie Morrison makes Buckeye Candies from the Recipe Box. Ashley Moore makes Bridget Wisconsin Butter Burgers."
+      },
+      {
+        "id": "tvmaze:2387865",
+        "title": "Fried Chicken and Biscuits",
+        "season": 15,
+        "episode": 5,
+        "released": "2022-09-17",
+        "overview": "Christie Morrison makes host Julia Collin Davison Lard-Fried Chicken, and Toni Tipton-Martin delves into the history of Edna Lewis' famous fried chicken. Tasting expert Jack Bishop challenges host Bridget Lancaster to a tasting of regional potato chips, and Bryan Roof makes a BLT Salad from the Recipe Box. Morgan Boiling makes Bridget Blueberry Biscuits."
+      },
+      {
+        "id": "tvmaze:2387866",
+        "title": "Thai Comforts",
+        "season": 15,
+        "episode": 6,
+        "released": "2022-09-24",
+        "overview": "Bryan Roof visits Portland, Oregon and shares his version of Khao Man Gai (Thai-Style Chicken and Rice) with host Bridget Lancaster. Toni Tipton-Martin talks about holy basil farmers in the US, and Lawman Johnson makes host Julia Collin Davison Pad Gra Prow (Holy Basil Stir-Fry)."
+      },
+      {
+        "id": "tvmaze:2388208",
+        "title": "Seafood Two Ways",
+        "season": 15,
+        "episode": 7,
+        "released": "2022-10-01",
+        "overview": "Ashley Moore makes host Bridget Lancaster Seafood Fra Diavolo, and Toni Tipton-Martin shares the story behind the recipe's name. Tasting expert Jack Bishop explains when to splurge at the grocery store, and Morgan Bolling makes Roasted Garlic-Parmesan Bread from the Recipe Box. Christie Morrison makes host Julia Collin Davison Salmon Picatta."
+      },
+      {
+        "id": "tvmaze:2388209",
+        "title": "Two Tastes from the Bay Area",
+        "season": 15,
+        "episode": 8,
+        "released": "2022-10-08",
+        "overview": "Bryan Roof visits Oakland, California and shares his version of Sinigang with host Julia Collin Davison. Toni Tipton-Martin shares the backstory of the food incubator La Cocina, and Morgan Bolling makes host Bridget Lancaster Neorm Sach Moan."
+      },
+      {
+        "id": "tvmaze:2413356",
+        "title": "Never Enough Chocolate",
+        "season": 15,
+        "episode": 9,
+        "released": "2022-10-15",
+        "overview": "Christie Morrison makes host Bridget Lancaster Chocolate Babka, and Toni Tipton- Martin shares the history of babka and its Seinfeld connection. Tasting expert Jack Bishop reveals his top picks for espresso powder. Ashley Moore makes host Julia Collin Davison foolproof Chocolate Fudge."
+      },
+      {
+        "id": "tvmaze:2413357",
+        "title": "Pennsylvanian Melting Pot",
+        "season": 15,
+        "episode": 10,
+        "released": "2022-10-22",
+        "overview": "Lawman Johnson makes host Bridget Lancaster Transylvania Goulash. Tasting expert Jack Bishop takes a deep dive into heirloom beans, and Morgan Bolling makes Shredded Swiss Chard Salad from the Recipe Box. Toni Tipton-Martin talks about escarole, and Christie Morrison makes host Julia Collin Davison Beans and Greens."
+      },
+      {
+        "id": "tvmaze:2413358",
+        "title": "Cajun Country",
+        "season": 15,
+        "episode": 11,
+        "released": "2022-10-29",
+        "overview": "Bryan Roof visits Marksville, Louisiana and shares his version of Cajun Rice Dressing with host Julia Collin Davison. Toni Tipton-Martin explains the difference between Creole and Cajun rice. Ashley Moore makes host Bridget Lancaster Stuffed Turkey Wings."
+      },
+      {
+        "id": "tvmaze:2425844",
+        "title": "Endless Dessert",
+        "season": 15,
+        "episode": 12,
+        "released": "2022-11-05",
+        "overview": "Host Bridget Lancaster makes host Julia Collin Davison Banana Pudding Pie. Tasting expert Jack Bishop explains different vanilla products. Toni Tipton-Martin shares the story of Augustus Jackson's eggless ice cream, and Morgan Bolling makes Bridget No-Churn Ice Cream."
+      },
+      {
+        "id": "tvmaze:2425845",
+        "title": "Old New Mexico",
+        "season": 15,
+        "episode": 13,
+        "released": "2022-11-12",
+        "overview": "Bryan Roof makes host Julia Collin Davison Gorditas. Equipment expert Adam Ried shares his top picks for tortilla presses. Christie Morrison makes host Bridget Lancaster New Mexican Biscochitos, and Toni Tipton-Martin talks about the history of these cookies."
+      },
+      {
+        "id": "tvmaze:2425846",
+        "title": "Chuck Roast and Potatoes",
+        "season": 15,
+        "episode": 14,
+        "released": "2022-11-19",
+        "overview": "Morgan Bolling makes host Bridget Lancaster Roasted Beef Chuck Roast with Horseradish-Parsley Sauce, and Toni Tipton-Martin talks about medicinal uses for horseradish. Equipment expert Adam Ried reveals his top picks for kitchen timers. Bryan Roof makes host Julia Collin Davison Torn and Fried Potatoes, and Lawman Johnson makes Creamed Spinach from the Recipe Box."
+      },
+      {
+        "id": "tvmaze:2438068",
+        "title": "Saucy Italian-Inspired Dinners",
+        "season": 15,
+        "episode": 15,
+        "released": "2022-11-26",
+        "overview": "Ashley Moore makes host Julia Collin Davison Spaghetti Carbonara. Tasting expert Jack Bishop shares tips for buying eggs, and Lawman Johnson makes Fried Artichokes from the Recipe Box. Toni Tipton-Martin talks about ancient potato preserving techniques, and Julia makes host Bridget Lancaster Instant Mashed Potato Gnocchi al Forno."
+      },
+      {
+        "id": "tvmaze:2438069",
+        "title": "Pork Roast and Orange Cake",
+        "season": 15,
+        "episode": 16,
+        "released": "2022-12-03",
+        "overview": "Christie Morrison makes host Julia Collin Davison Roast Pork Loin with 40 Cloves of Garlic, and Toni Tipton-Martin talks about the original 40 cloves of garlic recipe. Equipment expert Adam Ried shares his top picks for hand mixers. Lawman Johnson makes host Bridget Lancaster a show-stopping Orange Upside-Down Cake."
+      },
+      {
+        "id": "tvmaze:2446176",
+        "title": "Bar Snacks",
+        "season": 15,
+        "episode": 17,
+        "released": "2022-12-10",
+        "overview": "Lawman Johnson makes host Bridget Lancaster New England Bar Pizza, and Toni Tipton-Martin talks about the different pizza styles in the region. Equipment expert Adam Ried shares his top picks for grill pans, and Christie Morrison makes Spinach and Artichoke Dip from the Recipe Box. Ashley Moore makes host Julia Collin Davison Lemon Pepper Wings."
+      },
+      {
+        "id": "tvmaze:2446177",
+        "title": "The Cuban Sandwich Show",
+        "season": 15,
+        "episode": 18,
+        "released": "2022-12-17",
+        "overview": "Bryan Roof visits the Cuban Sandwich Festival in Tampa, Florida. Bryan makes host Bridget Lancaster the ultimate Cuban Sandwich, with homemade Cuban Bread and Roast Pork with Mojo. Tasting expert Jack Bishop and host Julia Collin Davison taste our favorite mustards."
+      },
+      {
+        "id": "tvmaze:2643406",
+        "title": "Texas Cookout",
+        "season": 16,
+        "episode": 1,
+        "released": "2023-09-09",
+        "overview": "Bryan Roof visits El Paso, Texas and shares his version of Texas-Style Smoked Beef Ribs with host Bridget Lancaster. Equipment expert Adam Ried shares his top picks for charcoal. Toni Tipton-Martin discusses the history of self-rising flour, and Lawman Johnson makes host Julia Collin Davison Easy Blueberry Cobbler."
+      },
+      {
+        "id": "tvmaze:2643407",
+        "title": "Fish Tacos and Fried Shrimp",
+        "season": 16,
+        "episode": 2,
+        "released": "2023-09-16",
+        "overview": "Bryan Roof visits San Diego, California and shares his version of San Diego Fish Tacos with host Julia Collin Davison. Tasting expert Jack Bishop challenges host Bridget Lancaster to a tasting of tortilla chips. Toni Tipton-Martin talks about the history of shrimping in America, and Ashley Moore cooks Bridget Crispy Fried Shrimp."
+      },
+      {
+        "id": "tvmaze:2643408",
+        "title": "Never Enough Citrus",
+        "season": 16,
+        "episode": 3,
+        "released": "2023-09-23",
+        "overview": "Morgan Bolling makes host Julia Collin Davison Smoked Citrus Chicken, and Toni Tipton-Martin shares the origins of Key Lime Pie. Christie Morrison makes host Bridget Lancaster Really Good Key Lime Pie."
+      },
+      {
+        "id": "tvmaze:2643409",
+        "title": "Sisig and Wings",
+        "season": 16,
+        "episode": 4,
+        "released": "2023-09-30",
+        "overview": "Bryan Roof visits Oakland, California and shares his version of Sisig and Garlic Fried Rice with host Julia Collin Davison. Tasting expert Jack Bishop discusses the importance of Knorr's Liquid Seasoning in Filipino cooking. Toni Tipton-Martin talks about the history of chicken wings as a bar snack, and Julia makes host Bridget Lancaster Soy Sauce Chicken Wings."
+      },
+      {
+        "id": "tvmaze:2643410",
+        "title": "Hawaiian Melting Pot",
+        "season": 16,
+        "episode": 5,
+        "released": "2023-10-07",
+        "overview": "Morgan Bolling and host Toni Tipton-Martin make Tuna Poke and Salmon Teriyaki Poke. Tasting expert Jack Bishop challenges host Julia Collin Davison to a tasting of freeze-dried backpacking meals. Christie Morrison fries up Malasadas for host Bridget Lancaster."
+      },
+      {
+        "id": "tvmaze:2643411",
+        "title": "Grilled Lamb and Cheesecake",
+        "season": 16,
+        "episode": 6,
+        "released": "2023-10-14",
+        "overview": "Morgan Bolling makes host Bridget Lancaster Grilled Bone-In Leg of Lamb with Charred Scallion Sauce. Equipment expert Adam Ried shares his top picks for spray mops. Toni Tipton-Martin talks about a popular cheesecake that's taking the world by storm, and Bridget makes host Julia Collin Davison a showstopping La Viña-Style Cheesecake."
+      },
+      {
+        "id": "tvmaze:2643412",
+        "title": "Puerto Rican Classics",
+        "season": 16,
+        "episode": 7,
+        "released": "2023-10-21",
+        "overview": "Bryan Roof visits Puerto Rico and shares his version of Guanimes con Bacalao with host Toni Tipton-Martin. Tasting expert Jack Bishop talks about salt cod, and Lawman Johnson and host Bridget Lancaster whip up delicious Piña Coladas."
+      },
+      {
+        "id": "tvmaze:2643413",
+        "title": "A Love Letter to the South",
+        "season": 16,
+        "episode": 8,
+        "released": "2023-10-28",
+        "overview": "Ashley Moore makes host Julia Collin Davison weeknight-ready Pan-Fried Pork Chops with Milk Gravy. Equipment expert Adam Ried shares his top picks for disposable utensils, and tasting expert Jack Bishop takes a deep dive into jarred peppers. Toni Tipton-Martin shares the origins of pimento cheese, and Morgan Bolling makes host Bridget Lancaster creamy Pimento Mac and Cheese."
+      },
+      {
+        "id": "tvmaze:2643414",
+        "title": "Biscuits and Chicken",
+        "season": 16,
+        "episode": 9,
+        "released": "2023-11-04",
+        "overview": "Lawman Johnson makes host Julia Collin Davison tall and tender Butter and Lard Biscuits, and Toni Tipton-Martin addresses the debate between lard and shortening. Equipment expert Adam Ried weighs the benefits of full-sized and mini food processors. Bryan Roof visits Asheville, NC and shares his version of Mimosa Fried Chicken with host Bridget Lancaster."
+      },
+      {
+        "id": "tvmaze:2643415",
+        "title": "Jamaican Feast",
+        "season": 16,
+        "episode": 10,
+        "released": "2023-11-11",
+        "overview": "Morgan Bolling makes host Julia Collin Davison Jamaican Oxtail, and Toni Tipton-Martin talks about oxtail dishes around the world. Equipment expert Adam Ried shares his top picks for countertop compost bins, and Christie Morrison makes host Bridget Lancaster Jamaican Rice and Peas."
+      },
+      {
+        "id": "tvmaze:2643416",
+        "title": "New Mexican Bounty",
+        "season": 16,
+        "episode": 11,
+        "released": "2023-11-18",
+        "overview": "Bryan Roof visits Albuquerque, New Mexico, and he and host Julia Collin Davison make New Mexican Bean-and-Cheese Turnovers with Green Chile. Toni Tipton-Martin shares the history of Tomato Clubs in the US, and Ashley Moore makes host Bridget Lancaster a beautiful Southwestern Tomato and Corn Salad."
+      },
+      {
+        "id": "tvmaze:2728739",
+        "title": "Mediterranean Meze",
+        "season": 16,
+        "episode": 12,
+        "released": "2023-12-09",
+        "overview": "Bryan Roof makes host Toni Tipton-Martin Mana'eesh Za'atar and Baba Ghanoush. Tasting expert Jack Bishop talks about different eggplants. Christie Morrison makes host Julia Collin Davison Roasted Beets with Lemon-Tahini Dressing."
+      },
+      {
+        "id": "tvmaze:2728740",
+        "title": "The Best Diner Food",
+        "season": 16,
+        "episode": 13,
+        "released": "2023-12-16",
+        "overview": "Ashley Moore makes host Julia Collin Davison Diner-Style Patty Melts, and Toni Tipton-Martin shares the origins of patty melts at Tiny Naylor's restaurants. Equipment expert Adam Ried shares his top picks for automatic drip coffee makers, and Christie Morrison makes host Bridget Lancaster the Ultimate Extra-Crunchy Onion Rings."
+      },
+      {
+        "id": "tvmaze:2728741",
+        "title": "French-Inspired Dinner",
+        "season": 16,
+        "episode": 14,
+        "released": "2023-12-23",
+        "overview": "Christie Morrison makes host Julia Collin Davison Trout Amandine, and Toni Tipton-Martin discusses how Julia Child made French cuisine accessible in the US. Tasting expert Jack Bishop takes a deep dive into freshwater fish, and Equipment expert Adam Ried shares his top picks for bench scrapers. Ashley Moore makes host Bridget Lancaster elegant Lentilles du Puy with Spinach and Crème Fraîche."
+      },
+      {
+        "id": "tvmaze:2728742",
+        "title": "Sausages and Salad",
+        "season": 16,
+        "episode": 15,
+        "released": "2023-12-30",
+        "overview": "Bryan Roof visits Portland, Oregon and shares his version of Choucroute Garnie with host Bridget Lancaster. Toni Tipton-Martin talks about Belgian endive. Tasting expert Jack Bishop talks all about European-Style Sausages. Ashley Moore makes host Julia Collin Davison Endive Salad with Oranges and Blue Cheese."
+      },
+      {
+        "id": "tvmaze:3011121",
+        "title": "North Carolina Barbecue",
+        "season": 17,
+        "episode": 1,
+        "released": "2024-09-21",
+        "overview": "Test Cook Morgan Bolling and host Bridget Lancaster head outside to make North Carolina Barbecue Pork. Equipment expert Adam Ried shares our recommended fire pits for cooking. Test Cook Carmen Dongo makes host Julia Collin Davison Lemonade with Honey."
+      },
+      {
+        "id": "tvmaze:3011630",
+        "title": "Inspired by Japanese Immigrants",
+        "season": 17,
+        "episode": 2,
+        "released": "2024-09-28",
+        "overview": "Bryan Roof visits the Emerald City and grills up Seattle Chicken Teriyaki. Ashley Moore makes Sweet Potato Salad with Cumin, Smoked Paprika, and Almonds. Toni Tipton-Martin tells the inspiring story of Chef Nobu, and hosts Julia Collin Davison and Bridget Lancaster make his famous Miso Black Cod."
+      },
+      {
+        "id": "tvmaze:3011631",
+        "title": "Unexpected Beef and Potatoes",
+        "season": 17,
+        "episode": 3,
+        "released": "2024-10-05",
+        "overview": "Morgan Bolling makes host Julia Collin Davison Smoked Prime Rib and a surprise sandwich with leftovers. Toni Tipton-Martin talks about iconic foods that started as leftovers, and equipment expert Adam Ried shares our recommended grill gloves. Christie Morrison makes Torn Potato Salad with Toasted Garlic and Herb Dressing."
+      },
+      {
+        "id": "tvmaze:3013078",
+        "title": "Mexican American Comfort Food",
+        "season": 17,
+        "episode": 4,
+        "released": "2024-10-12",
+        "overview": "Bryan Roof visits Tucson, Arizona and shares his version of Quesabirria Tacos for host Bridget Lancaster. Toni Tipton-Martin traces the origins of the Birria craze in the United States. Test Cook Ashley Moore cooks host Julia Collin Davison comforting Sopa Seca."
+      },
+      {
+        "id": "tvmaze:3013079",
+        "title": "Southwestern Vegetarian Fare",
+        "season": 17,
+        "episode": 5,
+        "released": "2024-10-19",
+        "overview": "Test Cook Christie Morrison makes host Julia Collin Davison Vegetarian Chili and Toni Tipton-Martin talks about the International Chili Society. Jack Bishop challenges Bridget Lancaster to a tasting of Kansas-City Style Barbecue Sauce, and Ashley Moore bakes Jalepeño-Cheddar Scones."
+      },
+      {
+        "id": "tvmaze:3013080",
+        "title": "Spiced Chicken Dinners",
+        "season": 17,
+        "episode": 6,
+        "released": "2024-10-26",
+        "overview": "Hosts Julia Collin Davison and Bridget Lancaster make Kombdi, Jira Ghalun (Cumin-Scented Chicken). Tasting Expert Jack Bishop challenges Julia to a tasting of honey. Toni Tipton-Martin talks about the history of hot honey, and test Cook Morgan Bolling makes her grandma's Hot-Honey Chicken."
+      },
+      {
+        "id": "tvmaze:3013081",
+        "title": "A Bold Brunch",
+        "season": 17,
+        "episode": 7,
+        "released": "2024-11-02",
+        "overview": "Test cook Christie Morrison makes host Bridget Lancaster decadent Brunch Burgers, and Toni Tipton-Martin shares how burgers made it onto the brunch menu. Tasting expert Jack Bishop shares our recommended cooking sprays, and test cook Lawman Johnson makes luxurious Browned Butter Chocolate Chunk Muffins."
+      },
+      {
+        "id": "tvmaze:3031858",
+        "title": "From the Indigenous Pantry",
+        "season": 17,
+        "episode": 8,
+        "released": "2024-11-09",
+        "overview": "Bryan Roof and Toni Tipton-Martin visit Sean Sherman in Minneapolis and leave inspired to cook from the indigenous pantry. Test cook Morgan Bolling makes Cider-Braised Turkey, and Bryan makes Grilled Sweet Potatoes with Maple Chile Crisp."
+      },
+      {
+        "id": "tvmaze:3031859",
+        "title": "Just Some Darn Good Desserts",
+        "season": 17,
+        "episode": 9,
+        "released": "2024-11-16",
+        "overview": "Host Bridget Lancaster makes host Julia Collin Davison a scrumptious S'Mores Pie. Equipment expert Adam Ried reveals our top picks for rolling pins. Test cook Morgan Bolling and host Toni Tipton-Martin bake up M&amp;M Cookies."
+      },
+      {
+        "id": "tvmaze:3031860",
+        "title": "Short Ribs and Baked Potatoes",
+        "season": 17,
+        "episode": 10,
+        "released": "2024-11-23",
+        "overview": "Test cook Lawman Johnson shows host Bridget Lancaster an ingenious method for making Slow-Roasted Medium-Rare Beef Short Ribs. Tasting Expert Jack Bishop talks all about beef steaks. Toni Tipton-Martin shares a fun baked potato story, and Ashley Moore makes host Julia Collin Davison Twice-Baked Potatoes with Bacon and Cheddar Cheese."
+      },
+      {
+        "id": "tvmaze:3083954",
+        "title": "The Power of Southern Cooking",
+        "season": 17,
+        "episode": 11,
+        "released": "2024-12-14",
+        "overview": "Host Toni Tipton-Martin heads to Edisto Island, South Carolina to visit Emily Meggett, and then Bryan Roof cooks Hoppin' John inspired by her recipe. Ashley Moore makes host Julia Collin Davison Orange Rolls from Cullman, Alabama."
+      },
+      {
+        "id": "tvmaze:3104060",
+        "title": "Duck and Dessert",
+        "season": 17,
+        "episode": 12,
+        "released": "2025-01-04",
+        "overview": "Julia Collin-Davison makes Bridget Lancaster Duck Breasts with Port Wine-Fig Sauce. Toni Tipton-Martin tells the story of the Tatin sisters and the history of their namesake dish, and Bridget makes Julia Tarte Tatin."
+      },
+      {
+        "id": "tvmaze:3105880",
+        "title": "From the Dairyland",
+        "season": 17,
+        "episode": 13,
+        "released": "2025-01-11",
+        "overview": "Bridget Lancaster and Julia Collin Davison bake a Wisconsin favorite, Cream Cheese Kringle, and Toni Tipton-Martin shares the story of how Kringle made it to Wisconsin from Denmark. Bryan Roof visits Milwaukee and makes Bridget a state-wide favorite, Fried Cheese Curds with Ranch Dressing."
+      },
+      {
+        "id": "tvmaze:3105882",
+        "title": "Southern Staples",
+        "season": 17,
+        "episode": 14,
+        "released": "2025-01-18",
+        "overview": "Test cook Christie Morrison makes host Julia Collin Davison crispy Fried Catfish with Comeback Sauce, and Toni Tipton-Martin talks about the sauce's origins. Equipment expert Adam Ried reviews serrated bread knives. Test cook Carmen Dongo makes Bridget Lancaster the ultimate Extra-Cheesy Grits."
+      },
+      {
+        "id": "tvmaze:3123066",
+        "title": "Pantry Shortcuts",
+        "season": 17,
+        "episode": 15,
+        "released": "2025-01-25",
+        "overview": "Test cook Christie Morrison makes host Toni Tipton-Martin savory Okinawan Taco Rice. Tasting expert Jack Bishop talks about herb and spice blends. Bridget Lancaster makes host Julia Collin Davison nostalgic Pepperoni French Bread Pizza."
+      },
+      {
+        "id": "tvmaze:3123067",
+        "title": "Snack Cake and Sandwich Cookies",
+        "season": 17,
+        "episode": 16,
+        "released": "2025-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3146733",
+        "title": "Italian Food from Philly",
+        "season": 17,
+        "episode": 17,
+        "released": "2025-02-08",
+        "overview": "Bryan Roof visits the city of brotherly love and shares his version of Philadelphia Pork Sandwiches. Toni Tipton-Martin shares the origins of Philly Tomato Pie, and test cook Christie Morrison makes her version of the regional favorite."
+      },
+      {
+        "id": "tvmaze:3154312",
+        "title": "Seafood in a Skillet",
+        "season": 17,
+        "episode": 18,
+        "released": "2025-02-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3200295",
+        "title": "Pork Any Way You Like It",
+        "season": 17,
+        "episode": 19,
+        "released": "2025-04-05",
+        "overview": "Pork chops with bourbon-cherry sauce and sweet potatoes.  South Carolina delicacy; South Carolina barbecue hash."
+      },
+      {
+        "id": "tvmaze:3200296",
+        "title": "Crescent City Comforts",
+        "season": 17,
+        "episode": 20,
+        "released": "2025-04-12",
+        "overview": "Beef yakamein; soft coolers; bourbon chicken."
+      },
+      {
+        "id": "tvmaze:3200297",
+        "title": "Skillet Dinners at the Ready",
+        "season": 17,
+        "episode": 21,
+        "released": "2025-04-19",
+        "overview": "Chicken and vegetables; can openers; Hamburger Helper; cheeseburger mac."
+      },
+      {
+        "id": "tvmaze:3217367",
+        "title": "Hearty and Light Pastas",
+        "season": 17,
+        "episode": 22,
+        "released": "2025-04-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3228076",
+        "title": "Fresh Mexican-Inspired Dinners",
+        "season": 17,
+        "episode": 23,
+        "released": "2025-05-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3241555",
+        "title": "Classic Cookout",
+        "season": 17,
+        "episode": 24,
+        "released": "2025-05-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3243998",
+        "title": "Korean from the Grill",
+        "season": 17,
+        "episode": 25,
+        "released": "2025-05-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3251236",
+        "title": "Celebrating Springtime",
+        "season": 17,
+        "episode": 26,
+        "released": "2025-05-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3352139",
+        "title": "Georgia Food on My Mind",
+        "season": 18,
+        "episode": 1,
+        "released": "2025-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3363828",
+        "title": "Portuguese Baking",
+        "season": 18,
+        "episode": 2,
+        "released": "2025-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3368284",
+        "title": "Italian-American Feast",
+        "season": 18,
+        "episode": 3,
+        "released": "2025-10-04",
+        "overview": "Porchetta abruzzese; pig farming in early North America; hardy greens; quick-braised broccoli rabe."
+      },
+      {
+        "id": "tvmaze:3376052",
+        "title": "Chips on the Menu",
+        "season": 18,
+        "episode": 4,
+        "released": "2025-10-11",
+        "overview": "Frito pie; a tasting of nonalcoholic beer; the story of the Potato Chip Queen of the West."
+      },
+      {
+        "id": "tvmaze:3379744",
+        "title": "Bar Snacks, Perfected",
+        "season": 18,
+        "episode": 5,
+        "released": "2025-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400891",
+        "title": "Southern Sandwiches",
+        "season": 18,
+        "episode": 6,
+        "released": "2025-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400892",
+        "title": "Chocolate Baked Delights",
+        "season": 18,
+        "episode": 7,
+        "released": "2025-11-01",
+        "overview": "Double chocolate banana bread; the history of bananas in the U.S.; cold brew coffee makers."
+      },
+      {
+        "id": "tvmaze:3401210",
+        "title": "New England Sandwiches",
+        "season": 18,
+        "episode": 8,
+        "released": "2025-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401211",
+        "title": "Elevated Friendsgiving Mains",
+        "season": 18,
+        "episode": 9,
+        "released": "2025-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401212",
+        "title": "Jewish Donuts and Potatoes",
+        "season": 18,
+        "episode": 10,
+        "released": "2025-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401213",
+        "title": "Feast of the Seven Fishes",
+        "season": 18,
+        "episode": 11,
+        "released": "2025-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401214",
+        "title": "Greens for Dinner",
+        "season": 18,
+        "episode": 12,
+        "released": "2025-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401215",
+        "title": "Upper Midwest Classics",
+        "season": 18,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401216",
+        "title": "Inspiring Shrimp Suppers",
+        "season": 18,
+        "episode": 14,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401217",
+        "title": "Glazed Pork and Potatoes",
+        "season": 18,
+        "episode": 15,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401218",
+        "title": "Chinese Noodles and Egg Rolls",
+        "season": 18,
+        "episode": 16,
+        "released": "2026-01-03",
+        "overview": ""
+      }
+    ]
+  }
+}

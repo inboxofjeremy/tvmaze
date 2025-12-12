@@ -1,0 +1,4156 @@
+{
+  "meta": {
+    "id": "tvmaze:60",
+    "type": "series",
+    "name": "NCIS",
+    "description": "NCIS (Naval Criminal Investigative Service) is more than just an action drama. With liberal doses of humor, it's a show that focuses on the sometimes complex and always amusing dynamics of a team forced to work together in high-stress situations. Leroy Jethro Gibbs, a former Marine gunnery sergeant, whose skills as an investigator are unmatched, leads this troupe of colorful personalities. Rounding out the team are Anthony DiNozzo, an ex-homicide detective whose instincts in the field are unparalleled and whose quick wit and humorous take on life make him a team favorite; the youthful and energetic forensic specialist Abby Sciuto, a talented scientist whose sharp mind matches her Goth style and eclectic tastes; Caitlin Todd, an ex-Secret Service Agent; and Timothy McGee, an MIT graduate whose brilliance with computers far overshadows his insecurities in the field; Assisting the team is medical examiner Dr. Donald \"Ducky\" Mallard, who knows it all because he's seen it all, and he's not afraid to let you know. From murder and espionage to terrorism and stolen submarines, these special agents travel the globe to investigate all crimes with Navy or Marine Corps ties.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479851.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479851.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401743",
+        "title": "Stolen Moments",
+        "season": 23,
+        "episode": 8,
+        "released": "2025-12-09",
+        "overview": "When a man is shot by the Secret Service outside the vice president's official residence, NCIS is aided in the case by a new member of the team: an AI chatbot being beta-tested by the Department of Justice."
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2284",
+        "title": "Yankee White",
+        "season": 1,
+        "episode": 1,
+        "released": "2003-09-23",
+        "overview": "A Marine mysteriously drops dead aboard Air Force One and jurisdiction problems force Gibbs to share the investigation with a Secret Service agent."
+      },
+      {
+        "id": "tvmaze:2285",
+        "title": "Hung Out to Dry",
+        "season": 1,
+        "episode": 2,
+        "released": "2003-09-30",
+        "overview": "A Marine dies when his parachute fails and he crashes through a car during a training exercise, and Gibbs suspects he was murdered."
+      },
+      {
+        "id": "tvmaze:2286",
+        "title": "Seadog",
+        "season": 1,
+        "episode": 3,
+        "released": "2003-10-07",
+        "overview": "When the bodies of a Navy commander and two drug dealers wash up on the beach near each other, everyone, except Gibbs, believes the commander was involved in a drug deal."
+      },
+      {
+        "id": "tvmaze:2287",
+        "title": "The Immortals",
+        "season": 1,
+        "episode": 4,
+        "released": "2003-10-14",
+        "overview": "A Navy seaman is found at the bottom of the ocean in his dress whites with a ceremonial sword around his waist, attached to weights."
+      },
+      {
+        "id": "tvmaze:2288",
+        "title": "The Curse",
+        "season": 1,
+        "episode": 5,
+        "released": "2003-10-28",
+        "overview": "A hunter discovers a cargo pod stuffed with the mummified body of a Naval officer who vanished in 1994 and was believed to have stolen money from his ship."
+      },
+      {
+        "id": "tvmaze:2289",
+        "title": "High Seas",
+        "season": 1,
+        "episode": 6,
+        "released": "2003-11-04",
+        "overview": "An NCIS agent (Joel Gretsch) who worked for Gibbs asks his help in the case of a seaman (Charlie Hofheimer) who tests positive for methamphetamines, but claims he never took the drug."
+      },
+      {
+        "id": "tvmaze:2290",
+        "title": "Sub Rosa",
+        "season": 1,
+        "episode": 7,
+        "released": "2003-11-18",
+        "overview": "The discovery of the body of a Navy submariner whose features are all but obliterated leads Gibbs to believe a terrorist has stolen the man's identity and is aboard a sub."
+      },
+      {
+        "id": "tvmaze:2291",
+        "title": "Minimum Security",
+        "season": 1,
+        "episode": 8,
+        "released": "2003-11-25",
+        "overview": "A Navy translator dies mysteriously soon after returning to the U.S. from Guantanamo Bay, and the investigation takes the team to Cuba."
+      },
+      {
+        "id": "tvmaze:2292",
+        "title": "Marine Down",
+        "season": 1,
+        "episode": 9,
+        "released": "2003-12-16",
+        "overview": "Gibbs and his team investigate when a dead Marine's wife receives a call from someone claiming to be her husband."
+      },
+      {
+        "id": "tvmaze:2293",
+        "title": "Left for Dead",
+        "season": 1,
+        "episode": 10,
+        "released": "2004-01-06",
+        "overview": "A woman (Sherilyn Fenn) digs herself out of a shallow grave and doesn't know who she is, but is convinced that a bomb is on board a Navy ship."
+      },
+      {
+        "id": "tvmaze:2294",
+        "title": "Eye Spy",
+        "season": 1,
+        "episode": 11,
+        "released": "2004-01-13",
+        "overview": "A Naval officer hired by an outside agency to test a product for possible Navy use is murdered, and Gibbs finds that the case is cloaked in secrets and deceptions."
+      },
+      {
+        "id": "tvmaze:2295",
+        "title": "My Other Left Foot",
+        "season": 1,
+        "episode": 12,
+        "released": "2004-02-03",
+        "overview": "The discovery of a leg with a Marine tattoo on the calf leads the team to a small town where they uncover a murder scheme involving deception and greed."
+      },
+      {
+        "id": "tvmaze:2296",
+        "title": "One Shot, One Kill",
+        "season": 1,
+        "episode": 13,
+        "released": "2004-02-10",
+        "overview": "The team investigates the murder of a Marine recruitment officer, who was killed, as the team discovers, by a highly skilled sniper."
+      },
+      {
+        "id": "tvmaze:2297",
+        "title": "The Good Samaritan",
+        "season": 1,
+        "episode": 14,
+        "released": "2004-02-17",
+        "overview": "The team investigates the murder of a Naval officer who was shot as he tried to help a stranded motorist."
+      },
+      {
+        "id": "tvmaze:2298",
+        "title": "Enigma",
+        "season": 1,
+        "episode": 15,
+        "released": "2004-02-24",
+        "overview": "The FBI asks Gibbs to find his former Marine C.O., who they've accused of stealing money from a mission in Iraq. But Gibbs is convinced that the man who trained him is innocent."
+      },
+      {
+        "id": "tvmaze:2299",
+        "title": "Bête Noire",
+        "season": 1,
+        "episode": 16,
+        "released": "2004-03-02",
+        "overview": "Ducky and Gerald are held hostage in the autopsy room of NCIS headquarters by an armed intruder (Rudolf Martin), whose purpose is unexplained."
+      },
+      {
+        "id": "tvmaze:2300",
+        "title": "The Truth Is Out There",
+        "season": 1,
+        "episode": 17,
+        "released": "2004-03-16",
+        "overview": "Gibbs is frustrated by the mystery surrounding the discovery of a dead petty officer who was dressed after he died and stuffed in the ceiling of a nightclub."
+      },
+      {
+        "id": "tvmaze:2301",
+        "title": "UnSEALed",
+        "season": 1,
+        "episode": 18,
+        "released": "2004-04-06",
+        "overview": "Gibbs and his team search for a former Navy SEAL who escaped from Leavenworth, where he was serving time for killing his wife and her lover."
+      },
+      {
+        "id": "tvmaze:2302",
+        "title": "Dead Man Talking",
+        "season": 1,
+        "episode": 19,
+        "released": "2004-04-27",
+        "overview": "The team investigates the murder of one of their own, an NCIS agent who was working on a cold case when he was shot and nearly disemboweled."
+      },
+      {
+        "id": "tvmaze:2303",
+        "title": "Missing",
+        "season": 1,
+        "episode": 20,
+        "released": "2004-05-04",
+        "overview": "The NCIS agents search for a missing marine, who unbeknownst to them, is being tortured in a cell by a mysterious captor."
+      },
+      {
+        "id": "tvmaze:2304",
+        "title": "Split Decision",
+        "season": 1,
+        "episode": 21,
+        "released": "2004-05-11",
+        "overview": "When a Marine is killed with a specialized military weapon, the agents investigate the illegal weapons market and find an undercover ATF agent (Bellamy Young) also working on the case, and Gibbs asks her to work with them to find the killer."
+      },
+      {
+        "id": "tvmaze:2305",
+        "title": "A Weak Link",
+        "season": 1,
+        "episode": 22,
+        "released": "2004-05-18",
+        "overview": "Gibbs' team investigates the death of a SEAL during a training exercise, and come to suspect that it wasn't an accident, but a murder."
+      },
+      {
+        "id": "tvmaze:2306",
+        "title": "Reveille",
+        "season": 1,
+        "episode": 23,
+        "released": "2004-05-25",
+        "overview": "Gibbs' obsession with finding the terrorist Ari (Rudolf Martin) reaches its zenith, and is timed perfectly, as Ari is training men for an attack on Marine One with President Bush and Prime Minister Sharon on board."
+      },
+      {
+        "id": "tvmaze:2307",
+        "title": "See No Evil",
+        "season": 2,
+        "episode": 1,
+        "released": "2004-09-28",
+        "overview": "When the wife and 9-year-old blind daughter of a Navy captain are kidnapped, Gibbs and his team are faced with a unique challenge."
+      },
+      {
+        "id": "tvmaze:2308",
+        "title": "The Good Wives Club",
+        "season": 2,
+        "episode": 2,
+        "released": "2004-10-05",
+        "overview": "The NCIS team is called in to investigate when the decomposed body of a woman in a wedding dress is found in a cell beneath abandoned military housing."
+      },
+      {
+        "id": "tvmaze:2309",
+        "title": "Vanished",
+        "season": 2,
+        "episode": 3,
+        "released": "2004-10-12",
+        "overview": "The NCIS team is called in to investigate when a perfectly functioning Marine helicopter is found in the middle of a crop circle."
+      },
+      {
+        "id": "tvmaze:2310",
+        "title": "Lt. Jane Doe",
+        "season": 2,
+        "episode": 4,
+        "released": "2004-10-19",
+        "overview": "The NCIS team is called in to investigate when a body dressed as a Navy lieutenant is discovered apparently raped and murdered."
+      },
+      {
+        "id": "tvmaze:2311",
+        "title": "The Bone Yard",
+        "season": 2,
+        "episode": 5,
+        "released": "2004-10-26",
+        "overview": "Body found on a Marine firing range leads the team to discover a Mafia dumping ground."
+      },
+      {
+        "id": "tvmaze:2312",
+        "title": "Terminal Leave",
+        "season": 2,
+        "episode": 6,
+        "released": "2004-11-16",
+        "overview": "The NCIS team protects an Iraqi War veteran who is the target of terrorist threats."
+      },
+      {
+        "id": "tvmaze:2313",
+        "title": "Call of Silence",
+        "season": 2,
+        "episode": 7,
+        "released": "2004-11-23",
+        "overview": "Gibbs and his team must clear the name of an elderly Marine who confesses to murdering his best friend nearly 60 years ago."
+      },
+      {
+        "id": "tvmaze:2314",
+        "title": "Heart Break",
+        "season": 2,
+        "episode": 8,
+        "released": "2004-11-30",
+        "overview": "Gibbs and his team are summoned to examine the mysterious death of a Navy commander who, after successful open heart surgery, seemingly bursts into flames."
+      },
+      {
+        "id": "tvmaze:2315",
+        "title": "Forced Entry",
+        "season": 2,
+        "episode": 9,
+        "released": "2004-12-07",
+        "overview": "Gibbs and his team are called to the scene when a Marine's wife kills an intruder who tried to rape her."
+      },
+      {
+        "id": "tvmaze:2316",
+        "title": "Chained",
+        "season": 2,
+        "episode": 10,
+        "released": "2004-12-14",
+        "overview": "The team must work together to find Tony when he disappears during an undercover operation."
+      },
+      {
+        "id": "tvmaze:2317",
+        "title": "Blackwater",
+        "season": 2,
+        "episode": 11,
+        "released": "2005-01-11",
+        "overview": "The NCIS team investigates when the body of a naval officer missing for 2 years turns up on the bottom of a lake."
+      },
+      {
+        "id": "tvmaze:2318",
+        "title": "Doppelgänger",
+        "season": 2,
+        "episode": 12,
+        "released": "2005-01-18",
+        "overview": "The NCIS team investigates the possible murder of a petty officer that was reported by a telemarketer who heard it over the phone."
+      },
+      {
+        "id": "tvmaze:2319",
+        "title": "The Meat Puzzle",
+        "season": 2,
+        "episode": 13,
+        "released": "2005-02-08",
+        "overview": "As he reassembles the pieces of three bodies found stuffed in barrels months ago, Ducky is shocked when he discovers their identities."
+      },
+      {
+        "id": "tvmaze:2320",
+        "title": "Witness",
+        "season": 2,
+        "episode": 14,
+        "released": "2005-02-15",
+        "overview": "Gibbs gives McGee a shot at running a case when the NCIS team is called to investigate when a woman claims to have witnessed the murder of a sailor."
+      },
+      {
+        "id": "tvmaze:2321",
+        "title": "Caught on Tape",
+        "season": 2,
+        "episode": 15,
+        "released": "2005-02-22",
+        "overview": "The NCIS team investigates when a Marine records his own murder on video as he falls off a cliff."
+      },
+      {
+        "id": "tvmaze:2322",
+        "title": "Pop Life",
+        "season": 2,
+        "episode": 16,
+        "released": "2005-03-01",
+        "overview": "The NCIS team investigates the bizarre death of a female petty officer who is found brutally murdered in the bed of a dance club bartender."
+      },
+      {
+        "id": "tvmaze:2323",
+        "title": "An Eye for an Eye",
+        "season": 2,
+        "episode": 17,
+        "released": "2005-03-22",
+        "overview": "The NCIS team investigates when a pair of blue eyeballs are sent to a sailor in D.C. in a package from Paraguay."
+      },
+      {
+        "id": "tvmaze:2324",
+        "title": "Bikini Wax",
+        "season": 2,
+        "episode": 18,
+        "released": "2005-03-29",
+        "overview": "The NCIS team investigates when a petty officer who recently returned from duty is found dead backstage at a local bikini contest."
+      },
+      {
+        "id": "tvmaze:2325",
+        "title": "Conspiracy Theory",
+        "season": 2,
+        "episode": 19,
+        "released": "2005-04-12",
+        "overview": "The NCIS team investigates when a Petty Officer commits suicide after being institutionalized for a nervous breakdown."
+      },
+      {
+        "id": "tvmaze:2326",
+        "title": "Red Cell",
+        "season": 2,
+        "episode": 20,
+        "released": "2005-04-26",
+        "overview": "Gibbs and the team head back to school when a Marine in an ROTC program is found murdered on a college campus."
+      },
+      {
+        "id": "tvmaze:2327",
+        "title": "Hometown Hero",
+        "season": 2,
+        "episode": 21,
+        "released": "2005-05-03",
+        "overview": "Gibbs and the team work to clear the name of a Navy medic killed in Iraq, who is the prime suspect in a murder in his hometown."
+      },
+      {
+        "id": "tvmaze:2328",
+        "title": "SWAK",
+        "season": 2,
+        "episode": 22,
+        "released": "2005-05-10",
+        "overview": "When a letter sealed with a kiss is delivered to NCIS, Tony assumes it's for him and opens it, only to release a mysterious powder into the NCIS squad room."
+      },
+      {
+        "id": "tvmaze:2329",
+        "title": "Twilight",
+        "season": 2,
+        "episode": 23,
+        "released": "2005-05-24",
+        "overview": "Gibbs' worst fears are confirmed when he learns that his nemesis, Arab/Israeli double agent Ari (Rudolf Martin), is back in Washington D.C. on assignment to kill him. Ultimately, the NCIS team discovers that Ari has a bigger plot... and they end up paying the ultimate price trying to thwart it--the death of a team member."
+      },
+      {
+        "id": "tvmaze:2330",
+        "title": "Kill Ari (Part I)",
+        "season": 3,
+        "episode": 1,
+        "released": "2005-09-20",
+        "overview": "While the NCIS team deals with Kate's death, Gibbs' determination to finally put an end to Ari's reign of terror mounts."
+      },
+      {
+        "id": "tvmaze:2331",
+        "title": "Kill Ari (Part II)",
+        "season": 3,
+        "episode": 2,
+        "released": "2005-09-27",
+        "overview": "Ari continues to wreak havoc on the NCIS team as he uses its members as pawns in the game he is playing with Gibbs."
+      },
+      {
+        "id": "tvmaze:2332",
+        "title": "Mind Games",
+        "season": 3,
+        "episode": 3,
+        "released": "2005-10-04",
+        "overview": "Gibbs is ordered to meet with a convicted serial killer three days away from his execution in order to find out crucial information before he dies."
+      },
+      {
+        "id": "tvmaze:2333",
+        "title": "Silver War",
+        "season": 3,
+        "episode": 4,
+        "released": "2005-10-11",
+        "overview": "Gibbs and the team are called in when a recently deceased man is found encased in a Civil War-era tomb."
+      },
+      {
+        "id": "tvmaze:2334",
+        "title": "Switch",
+        "season": 3,
+        "episode": 5,
+        "released": "2005-10-18",
+        "overview": "The NCIS team is called in when a Petty Officer is brutally gunned down on the freeway."
+      },
+      {
+        "id": "tvmaze:2335",
+        "title": "The Voyeur's Web",
+        "season": 3,
+        "episode": 6,
+        "released": "2005-10-25",
+        "overview": "Gibbs and the team investigate the murder of Marine's wife that appears to have been broadcast over the Internet."
+      },
+      {
+        "id": "tvmaze:2336",
+        "title": "Honor Code",
+        "season": 3,
+        "episode": 7,
+        "released": "2005-11-01",
+        "overview": "Gibbs and the team investigate when a 6-year-old boy informs NCIS his father has been kidnapped."
+      },
+      {
+        "id": "tvmaze:2337",
+        "title": "Under Covers",
+        "season": 3,
+        "episode": 8,
+        "released": "2005-11-08",
+        "overview": "When the bodies of two assassins are delivered to NCIS from overseas, Tony and Ziva assume their identities undercover and engage in a sexy rendezvous at a luxury hotel in order to find their target."
+      },
+      {
+        "id": "tvmaze:2338",
+        "title": "Frame-Up",
+        "season": 3,
+        "episode": 9,
+        "released": "2005-11-22",
+        "overview": "The NCIS team rallies to clear his name when Tony is accused of murder."
+      },
+      {
+        "id": "tvmaze:2339",
+        "title": "Probie",
+        "season": 3,
+        "episode": 10,
+        "released": "2005-11-29",
+        "overview": "When McGee kills a man while on assignment, the NCIS team steps in to back him when they discover the man was an undercover police officer."
+      },
+      {
+        "id": "tvmaze:2340",
+        "title": "Model Behavior",
+        "season": 3,
+        "episode": 11,
+        "released": "2005-12-13",
+        "overview": "Gibbs and the team investigate the murder of a supermodel filming a reality TV show on a Marine base."
+      },
+      {
+        "id": "tvmaze:2341",
+        "title": "Boxed In",
+        "season": 3,
+        "episode": 12,
+        "released": "2006-01-10",
+        "overview": "Gibbs and the team rush to find Tony and Ziva who disappear while investigating a shipyard for smuggled weapons."
+      },
+      {
+        "id": "tvmaze:2342",
+        "title": "Deception",
+        "season": 3,
+        "episode": 13,
+        "released": "2006-01-17",
+        "overview": "Gibbs and the team are called in on a weekend when a Navy Lt. Commander in charge of a shipment of nuclear weapons is apparently abducted."
+      },
+      {
+        "id": "tvmaze:2343",
+        "title": "Light Sleeper",
+        "season": 3,
+        "episode": 14,
+        "released": "2006-01-24",
+        "overview": "When the wives of two Marines are murdered, Gibbs and the team are called in to investigate."
+      },
+      {
+        "id": "tvmaze:2344",
+        "title": "Head Case",
+        "season": 3,
+        "episode": 15,
+        "released": "2006-02-07",
+        "overview": "Gibbs and the NCIS team make a disturbing discovery when they bust an illegal automotive chop shop run by Marines."
+      },
+      {
+        "id": "tvmaze:2345",
+        "title": "Family Secret",
+        "season": 3,
+        "episode": 16,
+        "released": "2006-02-28",
+        "overview": "The team investigates the mysterious explosion of an ambulance that is supposedly carrying the remains of a Marine killed in a car crash."
+      },
+      {
+        "id": "tvmaze:2346",
+        "title": "Ravenous",
+        "season": 3,
+        "episode": 17,
+        "released": "2006-03-07",
+        "overview": "Gibbs and the team are called to investigate when a group of teens on a nature hike discover Marine dog tags in a national forest."
+      },
+      {
+        "id": "tvmaze:2347",
+        "title": "Bait",
+        "season": 3,
+        "episode": 18,
+        "released": "2006-03-14",
+        "overview": "Gibbs and the team are called in when a teenage student at a Quantico base high school attaches a bomb to his body and holds his fellow students hostage."
+      },
+      {
+        "id": "tvmaze:2348",
+        "title": "Iced",
+        "season": 3,
+        "episode": 19,
+        "released": "2006-04-04",
+        "overview": "Gibbs and the team are called in when a couple of kids stumble upon the body of a missing Marine in a frozen lake."
+      },
+      {
+        "id": "tvmaze:2349",
+        "title": "Untouchable",
+        "season": 3,
+        "episode": 20,
+        "released": "2006-04-18",
+        "overview": "Gibbs and the team are called in when a Pentagon cryptographer suspected of spying apparently commits suicide."
+      },
+      {
+        "id": "tvmaze:2350",
+        "title": "Bloodbath",
+        "season": 3,
+        "episode": 21,
+        "released": "2006-04-25",
+        "overview": "Gibbs and the team go into protective overdrive when Abby becomes the prey of a stalker."
+      },
+      {
+        "id": "tvmaze:2351",
+        "title": "Jeopardy",
+        "season": 3,
+        "episode": 22,
+        "released": "2006-05-02",
+        "overview": "Ziva becomes the focus of an NCIS investigation when a suspect in her custody dies."
+      },
+      {
+        "id": "tvmaze:2352",
+        "title": "Hiatus (Part I)",
+        "season": 3,
+        "episode": 23,
+        "released": "2006-05-09",
+        "overview": "The NCIS is distressed when Gibbs is injured in a terrorist explosion while on assignment in part one of a two part third season finale."
+      },
+      {
+        "id": "tvmaze:2353",
+        "title": "Hiatus (Part II)",
+        "season": 3,
+        "episode": 24,
+        "released": "2006-05-16",
+        "overview": "While Gibbs recovers from an injury caused by a bomb explosion, he experiences temporary memory loss, while his team tries to stop a terrorist group from carrying out a devastating attack on the Navy."
+      },
+      {
+        "id": "tvmaze:2354",
+        "title": "Shalom",
+        "season": 4,
+        "episode": 1,
+        "released": "2006-09-19",
+        "overview": "With Gibbs retired and boat-building in Mexico, the NCIS team must learn to work without him when Ziva is wanted by the FBI after she witnesses a political assassination."
+      },
+      {
+        "id": "tvmaze:2355",
+        "title": "Escaped",
+        "season": 4,
+        "episode": 2,
+        "released": "2006-09-26",
+        "overview": "Gibbs is temporarily reinstated at NCIS when his friend's life is threatened by an escaped convict."
+      },
+      {
+        "id": "tvmaze:2356",
+        "title": "Singled Out",
+        "season": 4,
+        "episode": 3,
+        "released": "2006-10-03",
+        "overview": "The NCIS team is called to investigate a bloody, abandoned car registered to a missing Navy lieutenant."
+      },
+      {
+        "id": "tvmaze:2357",
+        "title": "Faking It",
+        "season": 4,
+        "episode": 4,
+        "released": "2006-10-10",
+        "overview": "Gibbs and the team investigate when the body of a Petty Officer is found in a car shot at close range."
+      },
+      {
+        "id": "tvmaze:2358",
+        "title": "Dead and Unburied",
+        "season": 4,
+        "episode": 5,
+        "released": "2006-10-17",
+        "overview": "The NCIS team is called to investigate when a real estate agent finds the body of a missing Lance Corporal is found in a vacant house."
+      },
+      {
+        "id": "tvmaze:2359",
+        "title": "Witch Hunt",
+        "season": 4,
+        "episode": 6,
+        "released": "2006-10-31",
+        "overview": "Gibbs and the NCIS team investigate when a Marine is attacked in his home and his daughter is apparently kidnapped on Halloween night."
+      },
+      {
+        "id": "tvmaze:2360",
+        "title": "Sandblast",
+        "season": 4,
+        "episode": 7,
+        "released": "2006-11-07",
+        "overview": "Gibbs and the team investigate a suspected terrorist attack at a military country club that kills a Marine Colonel."
+      },
+      {
+        "id": "tvmaze:2361",
+        "title": "Once a Hero",
+        "season": 4,
+        "episode": 8,
+        "released": "2006-11-14",
+        "overview": "When suspicious activity surrounds the death of a decorated Marine veteran, the NCIS team works to clear his name."
+      },
+      {
+        "id": "tvmaze:2362",
+        "title": "Twisted Sister",
+        "season": 4,
+        "episode": 9,
+        "released": "2006-11-21",
+        "overview": "Forgoing NCIS procedure, McGee risks his career when he takes matters into his own hands after his sister appears at his door bloodied and confused."
+      },
+      {
+        "id": "tvmaze:2363",
+        "title": "Smoked",
+        "season": 4,
+        "episode": 10,
+        "released": "2006-11-28",
+        "overview": "The NCIS team is called in when the burnt and mummified body of a wanted man is found in a furnace on a Marine base."
+      },
+      {
+        "id": "tvmaze:2364",
+        "title": "Driven",
+        "season": 4,
+        "episode": 11,
+        "released": "2006-12-12",
+        "overview": "The NCIS team investigates the death of a Navy Lieutenant who was working on a high level project for the Department of Defense."
+      },
+      {
+        "id": "tvmaze:2365",
+        "title": "Suspicion",
+        "season": 4,
+        "episode": 12,
+        "released": "2007-01-16",
+        "overview": "The NCIS team investigates when a high-level Marine intelligence officer is found murdered in a small town motel room."
+      },
+      {
+        "id": "tvmaze:2366",
+        "title": "Sharif Returns",
+        "season": 4,
+        "episode": 13,
+        "released": "2007-01-23",
+        "overview": "The NCIS team must track down a wanted terrorist who has obtained a missing, highly toxic chemical weapon."
+      },
+      {
+        "id": "tvmaze:2367",
+        "title": "Blowback",
+        "season": 4,
+        "episode": 14,
+        "released": "2007-02-06",
+        "overview": "Ducky comes out of the autopsy room and goes undercover to stop the illegal sale of the Navy's top secret weapons system."
+      },
+      {
+        "id": "tvmaze:2368",
+        "title": "Friends and Lovers",
+        "season": 4,
+        "episode": 15,
+        "released": "2007-02-13",
+        "overview": "The NCIS team investigates when the body of a young sailor is found in an abandoned building in a seedy part of town."
+      },
+      {
+        "id": "tvmaze:2369",
+        "title": "Dead Man Walking",
+        "season": 4,
+        "episode": 16,
+        "released": "2007-02-20",
+        "overview": "The NCIS team suspects foul play when a Navy Lieutenant is the victim of radiation poisoning."
+      },
+      {
+        "id": "tvmaze:2370",
+        "title": "Skeletons",
+        "season": 4,
+        "episode": 17,
+        "released": "2007-02-27",
+        "overview": "Gibbs and the team look for a potential serial killer when an explosion at a military cemetery mausoleum reveals a cache of dismembered human remains."
+      },
+      {
+        "id": "tvmaze:2371",
+        "title": "Iceman",
+        "season": 4,
+        "episode": 18,
+        "released": "2007-03-20",
+        "overview": "With the young Marine on life support, the NCIS team tracks his movements in the days before he was left for dead and discovers a secret trip to Baghdad via a private cargo plane and a link to Gibbs' past."
+      },
+      {
+        "id": "tvmaze:2372",
+        "title": "Grace Period",
+        "season": 4,
+        "episode": 19,
+        "released": "2007-04-03",
+        "overview": "The NCIS team discovers a tip about terrorist activity was a trap that resulted in the death of two agents. Blaming herself, Agent Cassidy works with the NCIS team to track down the people responsible."
+      },
+      {
+        "id": "tvmaze:2373",
+        "title": "Cover Story",
+        "season": 4,
+        "episode": 20,
+        "released": "2007-04-10",
+        "overview": "McGee is horrified when a Petty Officer on whom he based the character for his latest book is murdered. With little to go on, the team pushes McGee to figure out who could have accessed his secret manuscript."
+      },
+      {
+        "id": "tvmaze:2374",
+        "title": "Brothers in Arms",
+        "season": 4,
+        "episode": 21,
+        "released": "2007-04-24",
+        "overview": "Director Shepard takes a huge risk and agrees to meet an informant alone, but the meeting goes bad and her contact is killed. Gibbs and the NCIS team attempt to gather the information the man was going to supply or risk losing their nemesis once again."
+      },
+      {
+        "id": "tvmaze:2375",
+        "title": "In the Dark",
+        "season": 4,
+        "episode": 22,
+        "released": "2007-05-01",
+        "overview": "With little evidence, the team turns to Scott to re-create the scene of the crime using his heightened senses of hearing and scent to track down the Petty Officer's killer. Meanwhile, Tony and Gibbs struggle with personal relationships."
+      },
+      {
+        "id": "tvmaze:2376",
+        "title": "Trojan Horse",
+        "season": 4,
+        "episode": 23,
+        "released": "2007-05-08",
+        "overview": "Gibbs ignores the bureaucratic paperwork associated with his \"acting\" director duties and leads an investigation for a murder victim found in a taxi headed to NCIS headquarters. Meanwhile, Jenny discovers a secret about her past."
+      },
+      {
+        "id": "tvmaze:2377",
+        "title": "Angel of Death",
+        "season": 4,
+        "episode": 24,
+        "released": "2007-05-22",
+        "overview": "As the NCIS Director returns from a controversial European junket, and Gibbs and his agents reluctantly prepare for hastily announced Homeland Security polygraph tests, tightly woven secrets among the team unravel, revealing the biggest surprise in this Season of Secrets. In addition, an unarmed Dinozzo and his girlfriend are held captive by a merciless drug-dealer."
+      },
+      {
+        "id": "tvmaze:2378",
+        "title": "Bury Your Dead",
+        "season": 5,
+        "episode": 1,
+        "released": "2007-09-25",
+        "overview": "The final showdown between the NCIS team and an elusive arms dealer reaches an explosive and deadly conclusion."
+      },
+      {
+        "id": "tvmaze:2379",
+        "title": "Family",
+        "season": 5,
+        "episode": 2,
+        "released": "2007-10-02",
+        "overview": "In autopsy, Ducky makes a startling discovery that leads to the search for a missing child. Meanwhile, Tony struggles to deal with his feelings for Jeanne."
+      },
+      {
+        "id": "tvmaze:2380",
+        "title": "Ex-File",
+        "season": 5,
+        "episode": 3,
+        "released": "2007-10-09",
+        "overview": "Gibbs and Lt. Mann unite for a joint investigation into the murder of a Marine Captain who had access to highly classified information. Things become complicated for Gibbs when a witness in the case turns out to be his ex-wife."
+      },
+      {
+        "id": "tvmaze:2381",
+        "title": "Identity Crisis",
+        "season": 5,
+        "episode": 4,
+        "released": "2007-10-16",
+        "overview": "Gibbs and his team identify a cadaver, mistakenly tagged a \"John Doe,\" as a career felon with ties to a criminal mastermind capable of erasing unsavory pasts."
+      },
+      {
+        "id": "tvmaze:2382",
+        "title": "Leap of Faith",
+        "season": 5,
+        "episode": 5,
+        "released": "2007-10-23",
+        "overview": "When the NCIS team is called in to talk a distraught naval officer from jumping off a rooftop, what starts out as an attempted suicide turns into a murder investigation for Gibbs and team."
+      },
+      {
+        "id": "tvmaze:2383",
+        "title": "Chimera",
+        "season": 5,
+        "episode": 6,
+        "released": "2007-10-30",
+        "overview": "Gibbs and the team investigate a mysterious death aboard a top-secret naval research ship in the middle of the ocean, only to discover an abandoned ship and a deadly secret that could cost them their lives."
+      },
+      {
+        "id": "tvmaze:2384",
+        "title": "Requiem",
+        "season": 5,
+        "episode": 7,
+        "released": "2007-11-06",
+        "overview": "When Gibbs agrees to help the childhood friend of his daughter, who died 15 years ago, he finds himself at the center of an emotional and soul searching journey into his past, which leads to a shocking and heart-stopping conclusion."
+      },
+      {
+        "id": "tvmaze:2385",
+        "title": "Designated Target",
+        "season": 5,
+        "episode": 8,
+        "released": "2007-11-13",
+        "overview": "The NCIS team's investigation into the assassination of a Navy Admiral takes an unexpected and emotional turn when they meet a woman searching for her missing husband, a political refugee from Africa."
+      },
+      {
+        "id": "tvmaze:2386",
+        "title": "Lost and Found",
+        "season": 5,
+        "episode": 9,
+        "released": "2007-11-20",
+        "overview": "The NCIS team plays babysitter to a 9-year-old boy whose father is wanted in connection with a cold case murder. Their search for the man, a trained survivalist, leads them into the wilderness where they discover the startling truth about his past."
+      },
+      {
+        "id": "tvmaze:2387",
+        "title": "Corporal Punishment",
+        "season": 5,
+        "episode": 10,
+        "released": "2007-11-27",
+        "overview": "The NCIS team pays a heavy price when they try to track down a Marine who believes he is still in Iraq. After a violent confrontation, the team realizes the Marine is the subject of a secret experiment."
+      },
+      {
+        "id": "tvmaze:2388",
+        "title": "Tribes",
+        "season": 5,
+        "episode": 11,
+        "released": "2008-01-15",
+        "overview": "The NCIS team investigates when a Muslim Marine is found dead near a Mosque that is suspected by the FBI of terrorist recruitment. Their search is delayed when Ducky refuses to autopsy the Marine in deference to his family's religious beliefs."
+      },
+      {
+        "id": "tvmaze:2389",
+        "title": "Stakeout",
+        "season": 5,
+        "episode": 12,
+        "released": "2008-04-08",
+        "overview": "When a high-tech naval radar goes missing, the NCIS team stakes out a warehouse to catch a suspected thief - but witnesses a murder instead. Meanwhile, Ducky keeps a secret from the team."
+      },
+      {
+        "id": "tvmaze:2390",
+        "title": "Dog Tags",
+        "season": 5,
+        "episode": 13,
+        "released": "2008-04-15",
+        "overview": "When the NCIS team investigates a fatal dog mauling, Abby puts her career on the line to prove the dog's innocence in order to save his life. Meanwhile, Gibbs zeroes in on the secret Jenny is keeping."
+      },
+      {
+        "id": "tvmaze:2391",
+        "title": "Internal Affairs",
+        "season": 5,
+        "episode": 14,
+        "released": "2008-04-22",
+        "overview": "When the dead body of arms dealer La Grenouille surfaces, the NCIS team is put under investigation for his murder by the FBI and Jenny Shepard becomes the prime suspect."
+      },
+      {
+        "id": "tvmaze:2392",
+        "title": "In the Zone",
+        "season": 5,
+        "episode": 15,
+        "released": "2008-04-29",
+        "overview": "When a mortar attack in Baghdad turns into a murder investigation, two members of the NCIS team are sent to Iraq to solve the case."
+      },
+      {
+        "id": "tvmaze:2393",
+        "title": "Recoil",
+        "season": 5,
+        "episode": 16,
+        "released": "2008-05-06",
+        "overview": "Ziva's undercover assignment takes a shocking and deadly turn when the serial killer she has been tracking becomes suspicious of her."
+      },
+      {
+        "id": "tvmaze:2394",
+        "title": "About Face",
+        "season": 5,
+        "episode": 17,
+        "released": "2008-05-13",
+        "overview": "Jimmy Palmer becomes the target of a mysterious killer who only he can recognize."
+      },
+      {
+        "id": "tvmaze:2395",
+        "title": "Judgment Day Part I",
+        "season": 5,
+        "episode": 18,
+        "released": "2008-05-20",
+        "overview": "When a former NCIS Special Agent is found dead in a swimming pool at his home in Los Angeles, Jenny, Tony and Ziva travel to Los Angeles to attend the dead Agent's funeral. An encounter at the dead former agent's memorial service has Jenny greatly unnerved and soon realizing that the agent's death may not have been natural after all, prompting her to bring in an ally of the NCIS team to help out. As Jenny and Mike dig deeper into the case, they're unaware of the fact that the same group of assassins that killed the NCIS agent are after them while Tony and Ziva attempt to find Jenny who has ditched them while they were in Los Angeles but tragedy lies in wait and it's something that threatens to change the structure of the NCIS agency forever..."
+      },
+      {
+        "id": "tvmaze:1403891",
+        "title": "Judgment Day Part II",
+        "season": 5,
+        "episode": 19,
+        "released": "2008-05-20",
+        "overview": "As NCIS struggles to come to terms with the news that one of their own is dead, Gibbs and the NCIS team attempt to find a motive for the killing while trying to deal with their own emotions over what's happened."
+      },
+      {
+        "id": "tvmaze:2397",
+        "title": "Last Man Standing",
+        "season": 6,
+        "episode": 1,
+        "released": "2008-09-23",
+        "overview": "The murder of a Naval Petty Officer leads Gibbs to uncover a shocking connection between the case and Director Vance's decision to disband his team."
+      },
+      {
+        "id": "tvmaze:2398",
+        "title": "Agent Afloat",
+        "season": 6,
+        "episode": 2,
+        "released": "2008-09-30",
+        "overview": "While stationed on an aircraft carrier, DiNozzo finds that a Navy Lieutenant's apparent suicide may be connected to a larger, deadly scheme."
+      },
+      {
+        "id": "tvmaze:2399",
+        "title": "Capitol Offense",
+        "season": 6,
+        "episode": 3,
+        "released": "2008-10-07",
+        "overview": "The NCIS team becomes entangled in the world of Washington politics when a distinguished Senator turns to Gibbs for help in solving the murder of a young, female Naval officer."
+      },
+      {
+        "id": "tvmaze:2400",
+        "title": "Heartland",
+        "season": 6,
+        "episode": 4,
+        "released": "2008-10-14",
+        "overview": "After two Marines are ambushed, the NCIS team finds the investigation leads back to Gibbs' hometown, where secrets about his past are revealed."
+      },
+      {
+        "id": "tvmaze:2401",
+        "title": "Nine Lives",
+        "season": 6,
+        "episode": 5,
+        "released": "2008-10-21",
+        "overview": "The hunt for a marine's murderer puts Gibbs on a collision course with an old friend, FBI Agent Fornell."
+      },
+      {
+        "id": "tvmaze:2402",
+        "title": "Murder 2.0",
+        "season": 6,
+        "episode": 6,
+        "released": "2008-10-28",
+        "overview": "During the week of Halloween, a murderous psychopath taunts the team by using the Internet to leave clues to the next victim's identity."
+      },
+      {
+        "id": "tvmaze:2403",
+        "title": "Collateral Damage",
+        "season": 6,
+        "episode": 7,
+        "released": "2008-11-11",
+        "overview": "Gibbs second-guesses his own judgment when Vance assigns him a rookie to aid his team's investigation into a deadly bank robbery."
+      },
+      {
+        "id": "tvmaze:2404",
+        "title": "Cloak",
+        "season": 6,
+        "episode": 8,
+        "released": "2008-11-18",
+        "overview": "Shocking revelation comes to light after the team is forced into playing a dangerous war game."
+      },
+      {
+        "id": "tvmaze:2405",
+        "title": "Dagger",
+        "season": 6,
+        "episode": 9,
+        "released": "2008-11-25",
+        "overview": "The team must rely on information from some questionable individuals to stop a criminal bent on stealing government secrets."
+      },
+      {
+        "id": "tvmaze:2406",
+        "title": "Road Kill",
+        "season": 6,
+        "episode": 10,
+        "released": "2008-12-02",
+        "overview": "After a petty officer dies in a car crash, the team suspects foul play when their investigation leads them into the violent world of underground street fighting."
+      },
+      {
+        "id": "tvmaze:2407",
+        "title": "Silent Night",
+        "season": 6,
+        "episode": 11,
+        "released": "2008-12-16",
+        "overview": "While stuck working on a case over Christmas, the team searches for a suspect presumed dead.and begins to discover some startling personal revelations."
+      },
+      {
+        "id": "tvmaze:2408",
+        "title": "Caged",
+        "season": 6,
+        "episode": 12,
+        "released": "2009-01-06",
+        "overview": "McGee is held captive in a women's prison after a guard's murder leads to a takeover."
+      },
+      {
+        "id": "tvmaze:2409",
+        "title": "Broken Bird",
+        "season": 6,
+        "episode": 13,
+        "released": "2009-01-13",
+        "overview": "After Ducky is stabbed at a crime scene, the team uncovers disturbing secrets from the good doctor's past."
+      },
+      {
+        "id": "tvmaze:2410",
+        "title": "Love & War",
+        "season": 6,
+        "episode": 14,
+        "released": "2009-01-27",
+        "overview": "Slain sergeant's private life is on full display as the team must determine if a suspected act of treason lead to his death."
+      },
+      {
+        "id": "tvmaze:2411",
+        "title": "Deliverance",
+        "season": 6,
+        "episode": 15,
+        "released": "2009-02-10",
+        "overview": "While investigating the death of a Marine, the team finds themselves intertwined in an inner city gang war."
+      },
+      {
+        "id": "tvmaze:2412",
+        "title": "Bounce",
+        "season": 6,
+        "episode": 16,
+        "released": "2009-02-17",
+        "overview": "Gibbs and DiNozzo reverse roles after a murder leads to one of Tony's old investigations being re-opened."
+      },
+      {
+        "id": "tvmaze:2413",
+        "title": "South by Southwest",
+        "season": 6,
+        "episode": 17,
+        "released": "2009-02-24",
+        "overview": "The death of a NCIS agent leads Gibbs and Tony into the desert to locate a woman who holds the answer to the mystery."
+      },
+      {
+        "id": "tvmaze:2414",
+        "title": "Knockout",
+        "season": 6,
+        "episode": 18,
+        "released": "2009-03-17",
+        "overview": "Boxer's death leads Vance to start up his own investigation, causing a sparring match with Gibbs."
+      },
+      {
+        "id": "tvmaze:2415",
+        "title": "Hide and Seek",
+        "season": 6,
+        "episode": 19,
+        "released": "2009-03-24",
+        "overview": "When a young boy finds a murder weapon, the team must trace ownership of the gun to find who used it last and who was murdered."
+      },
+      {
+        "id": "tvmaze:2416",
+        "title": "Dead Reckoning",
+        "season": 6,
+        "episode": 20,
+        "released": "2009-03-31",
+        "overview": "Gibbs and the team must work with the shady Trent Kort to put away one of NCIS's most wanted."
+      },
+      {
+        "id": "tvmaze:2417",
+        "title": "Toxic",
+        "season": 6,
+        "episode": 21,
+        "released": "2009-04-07",
+        "overview": "When a government scientist goes missing, Abby is recruited to carry on his work, but the team worries that she may meet the same fate as her predecessor."
+      },
+      {
+        "id": "tvmaze:2418",
+        "title": "Legend (Part I)",
+        "season": 6,
+        "episode": 22,
+        "released": "2009-04-28",
+        "overview": "The body of a Marine leads Gibbs and McGee to the NCIS OSP division in Los Angeles, where a murder investigation quickly climbs to a matter of national security in which the two offices must work together to resolve. Meanwhile, Tony begins to snoop into Ziva's personal life."
+      },
+      {
+        "id": "tvmaze:2419",
+        "title": "Legend (Part II)",
+        "season": 6,
+        "episode": 23,
+        "released": "2009-05-05",
+        "overview": "With the appearance of Mossad agent Michael Rivkin, Tony is forced to question Ziva's loyalty to NCIS. Meanwhile, in Los Angeles, Special Agent Callen goes undercover to try to catch a terrorist cell while OSP psychologist Nate Getz discovers the startling truth about Gibbs and Special Agent Lara Macy's relationship."
+      },
+      {
+        "id": "tvmaze:2420",
+        "title": "Semper Fidelis",
+        "season": 6,
+        "episode": 24,
+        "released": "2009-05-12",
+        "overview": "After a security breach at the SecNav's residence leads to the death of an ICE agent, Gibbs and the team are forced to work with ICE and the FBI to find his killer. Meanwhile, Tony finally comes face-to-face with Michael Rivkin."
+      },
+      {
+        "id": "tvmaze:2421",
+        "title": "Aliyah",
+        "season": 6,
+        "episode": 25,
+        "released": "2009-05-19",
+        "overview": "Ziva's homecoming to Israel with Gibbs and the team is not a happy reunion with her father, the enigmatic and powerful head of Mossad. As tensions rise, Gibbs is forced to make a decision that sends shockwaves through NCIS."
+      },
+      {
+        "id": "tvmaze:2422",
+        "title": "Truth or Consequences",
+        "season": 7,
+        "episode": 1,
+        "released": "2009-09-22",
+        "overview": "As the hunt for Ziva's replacement begins, Gibbs and his remaining team members must head back to work with the past still weighing heavily on their minds."
+      },
+      {
+        "id": "tvmaze:2423",
+        "title": "Reunion",
+        "season": 7,
+        "episode": 2,
+        "released": "2009-09-29",
+        "overview": "The team discovers the bizarre death of a Marine and his two friends may be linked to their past, but its Gibbs who ends up taking a trip down memory lane."
+      },
+      {
+        "id": "tvmaze:2424",
+        "title": "The Inside Man",
+        "season": 7,
+        "episode": 3,
+        "released": "2009-10-06",
+        "overview": "The team must take a second look into the death of a lieutenant after the blogger who accused them of a cover-up ends up dead on NCIS."
+      },
+      {
+        "id": "tvmaze:2425",
+        "title": "Good Cop, Bad Cop",
+        "season": 7,
+        "episode": 4,
+        "released": "2009-10-13",
+        "overview": "When a Marine's body surfaces halfway around the world, the investigation forces Ziva to dig up a buried chapter of her life."
+      },
+      {
+        "id": "tvmaze:2426",
+        "title": "Code of Conduct",
+        "season": 7,
+        "episode": 5,
+        "released": "2009-10-20",
+        "overview": "When a Marine known for his practical jokes is found dead on Halloween eve, the NCIS team discovers that the victim's \"good-natured\" pranks may have inspired ghoulish retribution. Meanwhile, Ziva tries to adjust to her new role on the team."
+      },
+      {
+        "id": "tvmaze:2427",
+        "title": "Outlaws and In-Laws",
+        "season": 7,
+        "episode": 6,
+        "released": "2009-11-03",
+        "overview": "Murder investigation prompts Gibbs and the team to play family counselor to his former mentor, Mike Franks, in the hopes of preventing a bloody international conflict."
+      },
+      {
+        "id": "tvmaze:2428",
+        "title": "Endgame",
+        "season": 7,
+        "episode": 7,
+        "released": "2009-11-10",
+        "overview": "With the team's help, Vance faces his demons while uncovering a complex relationship with a killer that puts his whole family in danger."
+      },
+      {
+        "id": "tvmaze:2429",
+        "title": "Power Down",
+        "season": 7,
+        "episode": 8,
+        "released": "2009-11-17",
+        "overview": "The team literally finds themselves in the dark when the investigation into the death of a lieutenant is connected to a city-wide blackout."
+      },
+      {
+        "id": "tvmaze:2430",
+        "title": "Child's Play",
+        "season": 7,
+        "episode": 9,
+        "released": "2009-11-24",
+        "overview": "A dead Marine's day job at a government think tank leads Gibbs and the team into the life of a 12-year-old prodigy who may be the killer's next target."
+      },
+      {
+        "id": "tvmaze:2431",
+        "title": "Faith",
+        "season": 7,
+        "episode": 10,
+        "released": "2009-12-15",
+        "overview": "When the enlisted son of retired Colonel-turned-preacher is found dead, the team believes he may be the victim of a hate crime. Meanwhile, Gibbs' father comes for a holiday visit."
+      },
+      {
+        "id": "tvmaze:2432",
+        "title": "Ignition",
+        "season": 7,
+        "episode": 11,
+        "released": "2010-01-05",
+        "overview": "When a Navy pilot is found dead under strange circumstances in a secluded area, the team finds themselves battling a no-nonsense attorney with a hidden agenda."
+      },
+      {
+        "id": "tvmaze:2433",
+        "title": "Flesh and Blood",
+        "season": 7,
+        "episode": 12,
+        "released": "2010-01-12",
+        "overview": "Gibbs questions DiNozzo's ability to do his job when the elder DiNozzo becomes involved in their latest investigation."
+      },
+      {
+        "id": "tvmaze:2434",
+        "title": "Jet Lag",
+        "season": 7,
+        "episode": 13,
+        "released": "2010-01-26",
+        "overview": "When the government's star witness in an embezzlement case is targeted by an assassin, it's up to the team to help her make it home alive."
+      },
+      {
+        "id": "tvmaze:2435",
+        "title": "Masquerade",
+        "season": 7,
+        "episode": 14,
+        "released": "2010-02-02",
+        "overview": "The team finds themselves in a race against time when a terrorist group threatens to detonate a \"dirty bomb\" in the D.C. area."
+      },
+      {
+        "id": "tvmaze:2436",
+        "title": "Jack Knife",
+        "season": 7,
+        "episode": 15,
+        "released": "2010-02-09",
+        "overview": "When a Marine is found dead, Gibbs, Fornell and the team hit the open road to bust an illegal trucking operation."
+      },
+      {
+        "id": "tvmaze:2437",
+        "title": "Mother's Day",
+        "season": 7,
+        "episode": 16,
+        "released": "2010-03-02",
+        "overview": "Secrets arise when Gibbs' former mother-in-law surfaces as a witness in a murder investigation."
+      },
+      {
+        "id": "tvmaze:2438",
+        "title": "Double Identity",
+        "season": 7,
+        "episode": 17,
+        "released": "2010-03-09",
+        "overview": "The team investigates the shooting of a Marine and uncovers more to his life than anyone would have ever imagined."
+      },
+      {
+        "id": "tvmaze:2439",
+        "title": "Jurisdiction",
+        "season": 7,
+        "episode": 18,
+        "released": "2010-03-16",
+        "overview": "The team discovers striking similarities between themselves and their CGIS counterparts when a Navy diver seeking sunken treasure is found dead."
+      },
+      {
+        "id": "tvmaze:2440",
+        "title": "Guilty Pleasure",
+        "season": 7,
+        "episode": 19,
+        "released": "2010-04-06",
+        "overview": "The death of a Navy officer leads Gibbs and the team into the world of high-priced call girls, relying on D.C. Madam Holly Snow to help them catch a killer."
+      },
+      {
+        "id": "tvmaze:2441",
+        "title": "Moonlighting",
+        "season": 7,
+        "episode": 20,
+        "released": "2010-04-27",
+        "overview": "When an NCIS polygraph specialist's night job takes a dangerous turn, Gibbs, Fornell and the team have to uncover the truth."
+      },
+      {
+        "id": "tvmaze:2442",
+        "title": "Obsession",
+        "season": 7,
+        "episode": 21,
+        "released": "2010-05-04",
+        "overview": "DiNozzo finds himself increasingly captivated by a woman he's never met while investigating the murder of her brother."
+      },
+      {
+        "id": "tvmaze:2443",
+        "title": "Borderland",
+        "season": 7,
+        "episode": 22,
+        "released": "2010-05-11",
+        "overview": "The team tries to track down a serial killer, while Abby heads south of the border to give a speech with McGee in tow."
+      },
+      {
+        "id": "tvmaze:2444",
+        "title": "Patriot Down",
+        "season": 7,
+        "episode": 23,
+        "released": "2010-05-18",
+        "overview": "When a colleague's murder sends shockwaves through the team, Gibbs uncovers a surprising link to the crime."
+      },
+      {
+        "id": "tvmaze:2445",
+        "title": "Rule Fifty-One",
+        "season": 7,
+        "episode": 24,
+        "released": "2010-05-25",
+        "overview": "Gibbs heads to Mexico to face his demons and make a startling decision."
+      },
+      {
+        "id": "tvmaze:2446",
+        "title": "Spider and the Fly",
+        "season": 8,
+        "episode": 1,
+        "released": "2010-09-21",
+        "overview": "With Paloma Reynosa still on the loose, Gibbs must take desperate measures to protect the ones he loves."
+      },
+      {
+        "id": "tvmaze:2447",
+        "title": "Worst Nightmare",
+        "season": 8,
+        "episode": 2,
+        "released": "2010-09-28",
+        "overview": "Young girl's kidnapping turns into much more when her grandfather complicates the investigation."
+      },
+      {
+        "id": "tvmaze:2448",
+        "title": "Short Fuse",
+        "season": 8,
+        "episode": 3,
+        "released": "2010-10-05",
+        "overview": "When the motives behind an attack on a female bomb tech link her to a murder, the NCIS team investigates her very guarded personal life."
+      },
+      {
+        "id": "tvmaze:2449",
+        "title": "Royals & Loyals",
+        "season": 8,
+        "episode": 4,
+        "released": "2010-10-12",
+        "overview": "When the body of an American officer is connected to a British Navy vessel, murder turns into an international incident."
+      },
+      {
+        "id": "tvmaze:2450",
+        "title": "Dead Air",
+        "season": 8,
+        "episode": 5,
+        "released": "2010-10-19",
+        "overview": "When a controversial DJ and a Naval Officer are shot to death, the team uncovers a sinister plan."
+      },
+      {
+        "id": "tvmaze:2451",
+        "title": "Cracked",
+        "season": 8,
+        "episode": 6,
+        "released": "2010-10-26",
+        "overview": "Delving into the mind of a brilliant Naval Scientist, Abby becomes fixated on solving her murder, while DiNozzo's latest fling leads to an interesting Halloween."
+      },
+      {
+        "id": "tvmaze:2452",
+        "title": "Broken Arrow",
+        "season": 8,
+        "episode": 7,
+        "released": "2010-11-09",
+        "overview": "DiNozzo's father returns, playing a vital role in a murder investigation that could have catastrophic results."
+      },
+      {
+        "id": "tvmaze:2453",
+        "title": "Enemies Foreign",
+        "season": 8,
+        "episode": 8,
+        "released": "2010-11-16",
+        "overview": "The team is assigned to protect Ziva's father, when his attendance at a NCIS conference leads to some unexpected surprises."
+      },
+      {
+        "id": "tvmaze:2454",
+        "title": "Enemies Domestic",
+        "season": 8,
+        "episode": 9,
+        "released": "2010-11-23",
+        "overview": "The team scrambles for answers after a shocking ambush reveals a new twist to their current investigation."
+      },
+      {
+        "id": "tvmaze:2455",
+        "title": "False Witness",
+        "season": 8,
+        "episode": 10,
+        "released": "2010-12-14",
+        "overview": "The NCIS team investigates the disappearance of a Navy petty officer who is the sole witness in an upcoming murder trial."
+      },
+      {
+        "id": "tvmaze:2456",
+        "title": "Ships in the Night",
+        "season": 8,
+        "episode": 11,
+        "released": "2011-01-11",
+        "overview": "Gibbs and the NCIS team partner with a Coast Guard Investigative Service Agent to solve the murder of a Marine gunned down on a dinner boat."
+      },
+      {
+        "id": "tvmaze:2457",
+        "title": "Recruited",
+        "season": 8,
+        "episode": 12,
+        "released": "2011-01-18",
+        "overview": "Petty officer's recruitment session at a college fair comes to a fatal end, prompting the NCIS team, accompanied by Dr. Mallard's predecessor, to solve his murder."
+      },
+      {
+        "id": "tvmaze:2458",
+        "title": "Freedom",
+        "season": 8,
+        "episode": 13,
+        "released": "2011-02-01",
+        "overview": "The NCIS team springs into action to find the assailant responsible for beating a Marine to death in his own backyard."
+      },
+      {
+        "id": "tvmaze:2459",
+        "title": "A Man Walks Into a Bar…",
+        "season": 8,
+        "episode": 14,
+        "released": "2011-02-08",
+        "overview": "The NCIS team undergoes mandatory psych evaluations while investigating the death of a naval commander."
+      },
+      {
+        "id": "tvmaze:2460",
+        "title": "Defiance",
+        "season": 8,
+        "episode": 15,
+        "released": "2011-02-15",
+        "overview": "Botched assassination attempt in Belgravia forces NCIS to protect the Defense Minister's daughter, who is studying in the U.S. and smitten with McGee. Meanwhile, Gibbs investigates the death of the U.S. Marine who was killed in the bombing."
+      },
+      {
+        "id": "tvmaze:2461",
+        "title": "Kill Screen",
+        "season": 8,
+        "episode": 16,
+        "released": "2011-02-22",
+        "overview": "The dismembered fingertips and teeth of a murdered Marine are discovered in the stolen purse of a pickpocketer, launching NCIS on a mission to find a cold-blooded killer."
+      },
+      {
+        "id": "tvmaze:2462",
+        "title": "One Last Score",
+        "season": 8,
+        "episode": 17,
+        "released": "2011-03-01",
+        "overview": "Discovers that one of its former investigative assistants found brutally stabbed to death was selling details for how to rob a warehouse full of valuable possessions belonging to a woman convicted of fraud. Meanwhile, a new special agent joins the office."
+      },
+      {
+        "id": "tvmaze:2463",
+        "title": "Out of the Frying Pan…",
+        "season": 8,
+        "episode": 18,
+        "released": "2011-03-22",
+        "overview": "Gibbs questions Vance's motives when he is asked to interrogate a teenage boy accused of killing his retired Marine father."
+      },
+      {
+        "id": "tvmaze:2464",
+        "title": "Tell-All",
+        "season": 8,
+        "episode": 19,
+        "released": "2011-03-29",
+        "overview": "NCIS connects a message in blood left by a murdered Navy commander to a manuscript that may contain classified military information."
+      },
+      {
+        "id": "tvmaze:2465",
+        "title": "Two-Faced",
+        "season": 8,
+        "episode": 20,
+        "released": "2011-04-05",
+        "overview": "To Gibbs' displeasure, Special Agent E.J. Barrett returns to lead the investigation of a seaman's death that may be connected to a series of port-related murders. Meanwhile, Ziva finally introduces her boyfriend, Ray, to the team."
+      },
+      {
+        "id": "tvmaze:2466",
+        "title": "Dead Reflection",
+        "season": 8,
+        "episode": 21,
+        "released": "2011-04-12",
+        "overview": "The NCIS team tracks a Navy lieutenant's killer after a Pentagon security camera reveals a petty officer committing the crime. Meanwhile, Gibbs announces that Agent Barrett and her team will take over the Port-to-Port serial killer case."
+      },
+      {
+        "id": "tvmaze:2467",
+        "title": "Baltimore",
+        "season": 8,
+        "episode": 22,
+        "released": "2011-05-03",
+        "overview": "After Tony's ex-partner, Danny Price, appears to be the Port-to-Port Killer's latest victim, he revisits his days as a detective in Baltimore, including his first encounter with Gibbs."
+      },
+      {
+        "id": "tvmaze:2468",
+        "title": "Swan Song",
+        "season": 8,
+        "episode": 23,
+        "released": "2011-05-10",
+        "overview": "After new evidence reveals that the Port-to-Port killer has infiltrated the agency, the NCIS teams chase every lead in a race to track him down."
+      },
+      {
+        "id": "tvmaze:2469",
+        "title": "Pyramid",
+        "season": 8,
+        "episode": 24,
+        "released": "2011-05-17",
+        "overview": "The lives of NCIS members are in jeopardy when they come face-to-face with the infamous Port-to-Port killer."
+      },
+      {
+        "id": "tvmaze:2470",
+        "title": "Nature of the Beast",
+        "season": 9,
+        "episode": 1,
+        "released": "2011-09-20",
+        "overview": "After spending months tracking down his target, Tony is left with the blood of an NCIS agent on his hands and it's up to Gibbs to help him put the pieces of the puzzle together."
+      },
+      {
+        "id": "tvmaze:2471",
+        "title": "Restless",
+        "season": 9,
+        "episode": 2,
+        "released": "2011-09-27",
+        "overview": "The NCIS team uncovers a startling surprise after a young Marine shows up to his homecoming party with a fatal stab wound."
+      },
+      {
+        "id": "tvmaze:2472",
+        "title": "The Penelope Papers",
+        "season": 9,
+        "episode": 3,
+        "released": "2011-10-04",
+        "overview": "The line between McGee's personal and professional life is blurred when NCIS uncovers a connection between his grandmother and the murder of a Navy lieutenant."
+      },
+      {
+        "id": "tvmaze:2473",
+        "title": "Enemy on the Hill",
+        "season": 9,
+        "episode": 4,
+        "released": "2011-10-11",
+        "overview": "The NCIS team searches for the person and motive behind a contract killer targeting a Navy Lieutenant Commander. Meanwhile, Abby uncovers new information about her family after undergoing tests for a kidney donation."
+      },
+      {
+        "id": "tvmaze:2474",
+        "title": "Safe Harbor",
+        "season": 9,
+        "episode": 5,
+        "released": "2011-10-18",
+        "overview": "When a coast guard officer is gunned down on a cargo vessel, the NCIS team searches for the killer, but finds a Lebanese family seeking refuge on American soil. Meanwhile, Tony and McGee try and find the perfect woman for Gibbs."
+      },
+      {
+        "id": "tvmaze:2475",
+        "title": "Thirst",
+        "season": 9,
+        "episode": 6,
+        "released": "2011-10-25",
+        "overview": "An NCIS case changes from accidental death to murder when evidence reveals that a Navy lieutenant died of forced over-hydration. Meanwhile, Gibbs meets Ducky's new love interest."
+      },
+      {
+        "id": "tvmaze:2476",
+        "title": "Devil's Triangle",
+        "season": 9,
+        "episode": 7,
+        "released": "2011-11-01",
+        "overview": "The NCIS team searches for answers when the current husband of both Gibbs's and Fornell's ex-wife is suspiciously kidnapped."
+      },
+      {
+        "id": "tvmaze:2477",
+        "title": "Engaged (Part I)",
+        "season": 9,
+        "episode": 8,
+        "released": "2011-11-08",
+        "overview": "The NCIS team uncovers a discrepancy with DNA remains when investigating the crash of a military plane that had been transporting caskets."
+      },
+      {
+        "id": "tvmaze:2478",
+        "title": "Engaged (Part II)",
+        "season": 9,
+        "episode": 9,
+        "released": "2011-11-15",
+        "overview": "As the NCIS team continues its search for a missing Marine, Gibbs and Ziva travel to her last known whereabouts in Afghanistan. Meanwhile, Tony reveals his deepest fears and Gibbs is forced to relive events from his past."
+      },
+      {
+        "id": "tvmaze:2479",
+        "title": "Sins of the Father",
+        "season": 9,
+        "episode": 10,
+        "released": "2011-11-22",
+        "overview": "After Anthony DiNozzo, Sr. is found in a car with a dead body in the trunk and no memory of the previous night, the NCIS team must figure out if he is capable of murder. Meanwhile, Tony is sidelined for this case and must go against orders to try and prove his father's innocence."
+      },
+      {
+        "id": "tvmaze:2480",
+        "title": "Newborn King",
+        "season": 9,
+        "episode": 11,
+        "released": "2011-12-13",
+        "overview": "When a Navy captain is killed in a hotel room, NCIS must track down and protect his very pregnant companion from unknown assailants. Meanwhile, Jimmy has problems of his own when he brings his future father-in-law to work."
+      },
+      {
+        "id": "tvmaze:2481",
+        "title": "Housekeeping",
+        "season": 9,
+        "episode": 12,
+        "released": "2012-01-03",
+        "overview": "The investigation into the murder of a Navy Commander leads the NCIS team to E.J. Barrett's whereabouts."
+      },
+      {
+        "id": "tvmaze:2482",
+        "title": "A Desperate Man",
+        "season": 9,
+        "episode": 13,
+        "released": "2012-01-10",
+        "overview": "When a Navy lieutenant commander is found dead in a building under construction, NCIS must search for a killer while dealing with interruptions from her distraught detective husband. Meanwhile, Ray's return has Ziva thinking about her future."
+      },
+      {
+        "id": "tvmaze:2483",
+        "title": "Life Before His Eyes",
+        "season": 9,
+        "episode": 14,
+        "released": "2012-02-07",
+        "overview": "During a routine stop for his morning coffee, Gibbs finds himself staring down the barrel of a gun, forcing him to question choices he has made in the past and present."
+      },
+      {
+        "id": "tvmaze:2484",
+        "title": "Secrets",
+        "season": 9,
+        "episode": 15,
+        "released": "2012-02-14",
+        "overview": "When a Navy captain is found dead with an unusual costume hidden under his uniform, NCIS uncovers a secret society of real-life super heroes and must track down the villain."
+      },
+      {
+        "id": "tvmaze:2485",
+        "title": "Psych Out",
+        "season": 9,
+        "episode": 16,
+        "released": "2012-02-21",
+        "overview": "When a high-level security Navy reservist is found dead, Gibbs goes face-to-face with Dr. Samantha Ryan of the PsyOps Division to uncover the truth behind the potential suicide. Meanwhile, DiNozzo argues with accounting after seeing McGee's paycheck."
+      },
+      {
+        "id": "tvmaze:2486",
+        "title": "Need to Know",
+        "season": 9,
+        "episode": 17,
+        "released": "2012-02-28",
+        "overview": "Top-secret clearance from a Naval research laboratory is jeopardized when the murder of a Chief Petty Officer is connected to an international arms dealer. Meanwhile, Probationary Agent Ned Dorneget tries to butter up Gibbs in hopes of joining the team."
+      },
+      {
+        "id": "tvmaze:2487",
+        "title": "The Tell",
+        "season": 9,
+        "episode": 18,
+        "released": "2012-03-20",
+        "overview": "The Secretary of the Navy partners Gibbs with Dr. Samantha Ryan after top secret information is leaked by someone on the inside."
+      },
+      {
+        "id": "tvmaze:2488",
+        "title": "The Good Son",
+        "season": 9,
+        "episode": 19,
+        "released": "2012-03-27",
+        "overview": "Director Vance's brother-in-law is the lead suspect when Gibbs and the NCIS team investigate the murder of a petty officer."
+      },
+      {
+        "id": "tvmaze:2489",
+        "title": "The Missionary Position",
+        "season": 9,
+        "episode": 20,
+        "released": "2012-04-10",
+        "overview": "Following the murder of a Marine, Tony and Ziva join Ziva's longtime friend and mentor in Columbia in a search for a missing Marine Lieutenant and Navy Chaplain. Meanwhile, Jimmy Palmer decides who will be his best man."
+      },
+      {
+        "id": "tvmaze:2490",
+        "title": "Rekindled",
+        "season": 9,
+        "episode": 21,
+        "released": "2012-04-17",
+        "overview": "After a warehouse fire reveals missing Navy documents, posing a potential threat to national security, the NCIS team joins the Baltimore P.D. investigation, reuniting Tony with a boy from his past."
+      },
+      {
+        "id": "tvmaze:2491",
+        "title": "Playing with Fire",
+        "season": 9,
+        "episode": 22,
+        "released": "2012-05-01",
+        "overview": "The NCIS investigation of a fire on a Navy vessel reveals evidence that elevates security at all U.S. Navy facilities worldwide. Meanwhile, DiNozzo and Ziva travel to Italy when an explosive device is found hidden on a Navy ship."
+      },
+      {
+        "id": "tvmaze:2492",
+        "title": "Up in Smoke",
+        "season": 9,
+        "episode": 23,
+        "released": "2012-05-08",
+        "overview": "The NCIS team analyzes what secrets could be in the hands of a terrorist targeting the Navy when a high-tech bug is found inside a probationary agent's tooth. Meanwhile, the festivities for Jimmy Palmer's upcoming wedding continue with the bachelor party."
+      },
+      {
+        "id": "tvmaze:2493",
+        "title": "Till Death Do Us Part",
+        "season": 9,
+        "episode": 24,
+        "released": "2012-05-15",
+        "overview": "Terrorism threatens to shake the foundations of the Navy and NCIS, when the team continues to be eluded by the newest member of the NCIS Most Wanted Wall. Meanwhile, Jimmy Palmer's destination wedding is impacted by the case."
+      },
+      {
+        "id": "tvmaze:2494",
+        "title": "Extreme Prejudice",
+        "season": 10,
+        "episode": 1,
+        "released": "2012-09-25",
+        "overview": "Harper Dearing's latest act of terrorism ripped through NCIS headquarters in last season's cliffhanger finale, sparking a cross-agency manhunt for the criminal mastermind."
+      },
+      {
+        "id": "tvmaze:2495",
+        "title": "Recovery",
+        "season": 10,
+        "episode": 2,
+        "released": "2012-10-02",
+        "overview": "When the body of a missing NCIS facilities manager is found four months after disappearing on the day of the Navy Yard bombings, the NCIS team is assigned to investigate the strange case for one of their own. Meanwhile, the team is required to complete mandatory psych evaluations with a crisis counselor, and Gibbs is most concerned about Abby's recurring nightmares since the bombing."
+      },
+      {
+        "id": "tvmaze:2496",
+        "title": "Phoenix",
+        "season": 10,
+        "episode": 3,
+        "released": "2012-10-09",
+        "overview": "While on medical leave, Ducky orders the exhumation of a Navy commander's body from a case closed 12 years ago. As a result, Gibbs tasks Ducky with a slightly different role on the investigation. Meanwhile, the NCIS team investigates the recent death of a Marine. As both cases unfold, the team begins to question whether the two are somehow connected."
+      },
+      {
+        "id": "tvmaze:2497",
+        "title": "Lost at Sea",
+        "season": 10,
+        "episode": 4,
+        "released": "2012-10-23",
+        "overview": "When a helicopter crew is adrift at sea and later discovered on shore, the NCIS team must determine the cause of the crash and locate the missing pilot. Meanwhile, Tony and McGee channel their inner \"Maverick\" and \"Iceman,\" a la \"Top Gun,\" and Ziva challenges them to a dare."
+      },
+      {
+        "id": "tvmaze:2498",
+        "title": "The Namesake",
+        "season": 10,
+        "episode": 5,
+        "released": "2012-10-30",
+        "overview": "Petty officer is gunned down in a billionaire's Ferrari and the investigation leads the NCIS team to discover a link to a man Gibbs was named after."
+      },
+      {
+        "id": "tvmaze:2499",
+        "title": "Shell Shock (Part I)",
+        "season": 10,
+        "episode": 6,
+        "released": "2012-11-13",
+        "overview": "When a Navy Lieutenant who recently returned home from the Middle East is found dead from a brutal attack, the NCIS team questions the victim's friend, Marine Captain Joe Wescott. Gibbs realizes the Captain is suffering from post-traumatic stress disorder, but knows his experience overseas may also provide a key link to the crime."
+      },
+      {
+        "id": "tvmaze:2500",
+        "title": "Shell Shock (Part II)",
+        "season": 10,
+        "episode": 7,
+        "released": "2012-11-20",
+        "overview": "Gibbs continues to work with Captain Wescott while he retraces his steps in order to help the NCIS team track down a terrorist. With Thanksgiving on the horizon, Abby's enthusiasm for the NCIS family dinner is building, and Tony's curiosity is peaking when he learns Ziva is making special plans for the opera."
+      },
+      {
+        "id": "tvmaze:2501",
+        "title": "Gone",
+        "season": 10,
+        "episode": 8,
+        "released": "2012-11-27",
+        "overview": "As the NCIS team investigates a teenage girl's abduction, Ziva and Abby work closely with her young friend who witnessed the kidnapping. As the investigation unfolds, Gibbs seeks help from a past contact, Miranda Pennebaker, a well-connected woman with questionable morals. Meanwhile, Tony gets jealous when he learns Ziva is making plans with a mysterious man."
+      },
+      {
+        "id": "tvmaze:2502",
+        "title": "Devil's Trifecta",
+        "season": 10,
+        "episode": 9,
+        "released": "2012-12-11",
+        "overview": "Gibbs teams up with FBI Agent Fornell on a joint NCIS/FBI investigation after Fornell becomes the target of a shooting, but they face an unexpected twist in the case when their mutual ex-wife, Diane Sterling, gets involved. Meanwhile, rumors run wild among the group after Diane stays overnight at McGee's."
+      },
+      {
+        "id": "tvmaze:2503",
+        "title": "You Better Watch Out",
+        "season": 10,
+        "episode": 10,
+        "released": "2012-12-18",
+        "overview": "It's Christmas time and Tony DiNozzo can't decide if he'll be naughty or nice when his dad, Anthony DiNozzo, Sr., comes to town for a visit. Meanwhile, the NCIS team is \"following the money\" in order to solve a murder investigation, and Abby is bursting with excitement over all the holiday festivities."
+      },
+      {
+        "id": "tvmaze:2504",
+        "title": "Shabbat Shalom",
+        "season": 10,
+        "episode": 11,
+        "released": "2013-01-08",
+        "overview": "While the NCIS team investigates the link to a dead journalist and a Navy petty officer, Ziva is taken aback by the sudden emotional visit by her father, who she hasn't seen in more than two years. While Ziva questions the purpose of her father's visit as the Director of Mossad, her father insists he is in the U.S. strictly to see his daughter for Shabbat dinner."
+      },
+      {
+        "id": "tvmaze:2505",
+        "title": "Shiva",
+        "season": 10,
+        "episode": 12,
+        "released": "2013-01-15",
+        "overview": "In the aftermath of an event that strikes close to home, the NCIS team unites to seek answers and demand justice in order to protect their most vulnerable colleagues."
+      },
+      {
+        "id": "tvmaze:2506",
+        "title": "Hit and Run",
+        "season": 10,
+        "episode": 13,
+        "released": "2013-01-29",
+        "overview": "The NCIS team investigates a Marine's car accident and ignites some upsetting past memories for Abby as a young girl on the trail of her first \"case\"."
+      },
+      {
+        "id": "tvmaze:2507",
+        "title": "Canary",
+        "season": 10,
+        "episode": 14,
+        "released": "2013-02-05",
+        "overview": "The NCIS team takes on a renowned hacker who could hold the key to tracking down the most-wanted cyber-terrorist in the world."
+      },
+      {
+        "id": "tvmaze:2508",
+        "title": "Hereafter",
+        "season": 10,
+        "episode": 15,
+        "released": "2013-02-19",
+        "overview": "On leave from NCIS while still grieving the loss of his wife and his kids' mother, Director Vance discovers unexpected personal information that causes him to question everything."
+      },
+      {
+        "id": "tvmaze:2509",
+        "title": "Detour",
+        "season": 10,
+        "episode": 16,
+        "released": "2013-02-26",
+        "overview": "The NCIS team races to track down Ducky and Jimmy after the two disappear while transporting a body from a crime scene."
+      },
+      {
+        "id": "tvmaze:2510",
+        "title": "Prime Suspect",
+        "season": 10,
+        "episode": 17,
+        "released": "2013-03-05",
+        "overview": "Media frenzy surrounding an unidentified criminal prompts Gibbs' barber to question his son's involvement and ask for Gibbs' help in ruling out his son as a prime suspect."
+      },
+      {
+        "id": "tvmaze:2511",
+        "title": "Seek",
+        "season": 10,
+        "episode": 18,
+        "released": "2013-03-19",
+        "overview": "The wife of a Marine who specialized in K-9 bomb detection urges the NCIS team to investigate the recent death of her husband in Afghanistan. Meanwhile, Director Vance asks for the team's assistance as he interviews nannies."
+      },
+      {
+        "id": "tvmaze:2512",
+        "title": "Squall",
+        "season": 10,
+        "episode": 19,
+        "released": "2013-03-26",
+        "overview": "Massive storm brings the NCIS team aboard the USS Borealis, where everyone becomes a suspect once the crime scene proves that Mother Nature wasn't the only culprit. Tension builds when McGee discovers that his estranged father, Navy Admiral John McGee, was on board during the incident."
+      },
+      {
+        "id": "tvmaze:2513",
+        "title": "Chasing Ghosts",
+        "season": 10,
+        "episode": 20,
+        "released": "2013-04-09",
+        "overview": "When a Navy reservist returns home to find her husband missing and her living room covered in blood, she turns to the NCIS team to bring him home. Meanwhile, Tony suspects that Ziva is planning a risky move to avenge her father's death."
+      },
+      {
+        "id": "tvmaze:2514",
+        "title": "Berlin",
+        "season": 10,
+        "episode": 21,
+        "released": "2013-04-23",
+        "overview": "While the NCIS team investigates the murder of a Mossad officer in Virginia, Tony and Ziva depart for Berlin as they track her father's killer."
+      },
+      {
+        "id": "tvmaze:2515",
+        "title": "Revenge",
+        "season": 10,
+        "episode": 22,
+        "released": "2013-04-30",
+        "overview": "In retaliation for the murders of Eli David and Jackie Vance, the NCIS team feverishly searches for Bodnar despite orders from Homeland Security to relinquish the case."
+      },
+      {
+        "id": "tvmaze:2516",
+        "title": "Double Blind",
+        "season": 10,
+        "episode": 23,
+        "released": "2013-05-07",
+        "overview": "Department of Defense investigator scrutinizes the NCIS team's response to the Bodnar case involving the murder of Ziva's father and Vance's wife. Meanwhile, the team examines whether a Petty Officer is suffering from paranoia or if his claims of being followed are tied to a matter of national security."
+      },
+      {
+        "id": "tvmaze:2517",
+        "title": "Damned If You Do",
+        "season": 10,
+        "episode": 24,
+        "released": "2013-05-14",
+        "overview": "The international manhunt for Eli David and Jackie Vance's killer turns into a federal witch hunt against Gibbs and the team, which questions their unconventional methods and threatens their future at the agency."
+      },
+      {
+        "id": "tvmaze:2518",
+        "title": "Whiskey Tango Foxtrot",
+        "season": 11,
+        "episode": 1,
+        "released": "2013-09-24",
+        "overview": "An explosion at a D.C. event that results in a casualty connected to the agency changes Parsons' perspective on Gibbs and the NCIS team. Meanwhile, without badges, DiNozzo and McGee investigate the case as civilians, despite the case's dangerous ties to each of them."
+      },
+      {
+        "id": "tvmaze:2519",
+        "title": "Past, Present, and Future",
+        "season": 11,
+        "episode": 2,
+        "released": "2013-10-01",
+        "overview": "Determined to locate Ziva, Tony chases leads in Israel in search of her current whereabouts. Meanwhile, Gibbs and the team continue the hunt for Parsa and his growing terrorist ring."
+      },
+      {
+        "id": "tvmaze:2520",
+        "title": "Under the Radar",
+        "season": 11,
+        "episode": 3,
+        "released": "2013-10-08",
+        "overview": "The NCIS team must rely on Twitter for a case involving a missing Navy Lieutenant. Meanwhile, McGee misplaces his badge but withholds the information from Gibbs and the authorities."
+      },
+      {
+        "id": "tvmaze:2521",
+        "title": "Anonymous Was a Woman",
+        "season": 11,
+        "episode": 4,
+        "released": "2013-10-15",
+        "overview": "Gibbs and McGee travel to Afghanistan when a murder case leads them to an Afghan women's shelter Mike Frank's secretly supported for years."
+      },
+      {
+        "id": "tvmaze:2522",
+        "title": "Once a Crook",
+        "season": 11,
+        "episode": 5,
+        "released": "2013-10-22",
+        "overview": "DiNozzo returns to his Baltimore Police Department days when he sees a felony suspect from a 15-year-old case at the NCIS crime scene of a murdered Petty Officer."
+      },
+      {
+        "id": "tvmaze:2523",
+        "title": "Oil & Water",
+        "season": 11,
+        "episode": 6,
+        "released": "2013-10-29",
+        "overview": "NCIS partners with the Coast Guard Investigative Service to investigate a suspicious explosion on board an oil rig. Meanwhile, no one is safe from a mysterious prankster who is targeting the NCIS team."
+      },
+      {
+        "id": "tvmaze:2524",
+        "title": "Better Angels",
+        "season": 11,
+        "episode": 7,
+        "released": "2013-11-05",
+        "overview": "After Gibbs leaves mid-case to help his father reconnect with a former war pilot, Tony and McGee argue over who should run lead on the team's investigation into the murder of a Marine Sergeant."
+      },
+      {
+        "id": "tvmaze:2525",
+        "title": "Alibi",
+        "season": 11,
+        "episode": 8,
+        "released": "2013-11-12",
+        "overview": "The NCIS team is forced to re-examine a hit-and-run murder case when a former FBI agent turned lawyer confides in Gibbs that her client's confidential alibi is solid. Meanwhile, McGee grows suspicious of Tony's strange behavior."
+      },
+      {
+        "id": "tvmaze:2526",
+        "title": "Gut Check",
+        "season": 11,
+        "episode": 9,
+        "released": "2013-11-19",
+        "overview": "After discovering the Secretary of the Navy was bugged during a confidential briefing, NSA Analyst Eleanor \"Ellie\" Bishop, who predicted the security breach in exact detail two years ago, partners with the NCIS team on the case."
+      },
+      {
+        "id": "tvmaze:2527",
+        "title": "Devil's Triad",
+        "season": 11,
+        "episode": 10,
+        "released": "2013-12-10",
+        "overview": "Complications arise when the NCIS team discovers a link between a murder victim and the current boyfriend of Gibbs and Agent Fornell's ex-wife. Meanwhile, NSA Analyst Ellie Bishop adjusts to joining the NCIS team."
+      },
+      {
+        "id": "tvmaze:2528",
+        "title": "Homesick",
+        "season": 11,
+        "episode": 11,
+        "released": "2013-12-17",
+        "overview": "After a mysterious illness strikes children from military families, Gibbs and the team investigate the cause. Meanwhile, Abby and Jimmy partner with the Naval Medical Research Center to determine the strain of illness, all in hopes of delivering a cure before the holidays. Also, Director Vance struggles with forgiveness as his estranged father-in-law makes a surprise visit to his home."
+      },
+      {
+        "id": "tvmaze:2529",
+        "title": "Kill Chain",
+        "season": 11,
+        "episode": 12,
+        "released": "2014-01-07",
+        "overview": "When a stolen drone is linked to the elusive terrorist Parsa, the NCIS team partners with the Department of Defense, including Gibb's former girlfriend Hollis Mann, to track down the device before it is used for a large scale attack. Meanwhile, McGee hesitates to ask for time off to attend a black-tie gala honoring his girlfriend."
+      },
+      {
+        "id": "tvmaze:2530",
+        "title": "Double Back",
+        "season": 11,
+        "episode": 13,
+        "released": "2014-01-14",
+        "overview": "In an effort to find the terrorist Parsa, Gibbs and the NCIS team track down one of his cohorts using evidence from the drone attack. Meanwhile, an emotionally shaken McGee struggles with the ramifications of the incident."
+      },
+      {
+        "id": "tvmaze:2531",
+        "title": "Monsters and Men",
+        "season": 11,
+        "episode": 14,
+        "released": "2014-02-04",
+        "overview": "The murder of a port authority officer reveals Parsa's possible whereabouts, as the team continues their tireless hunt. Meanwhile, Bishop reveals her past association with the elusive terrorist."
+      },
+      {
+        "id": "tvmaze:2532",
+        "title": "Bulletproof",
+        "season": 11,
+        "episode": 15,
+        "released": "2014-02-25",
+        "overview": "After uncovering faulty bulletproof vests in a truck filled with stolen U.S.M.C. merchandise, the NCIS team attempts to locate both the source and any vests that had been shipped to military personnel overseas."
+      },
+      {
+        "id": "tvmaze:2533",
+        "title": "Dressed to Kill",
+        "season": 11,
+        "episode": 16,
+        "released": "2014-03-04",
+        "overview": "When DiNozzo confronts a man impersonating a Navy officer, guns are drawn and the perpetrator is left dead. The subsequent investigation uncovers that the only eyewitness is DiNozzo's father, who is in town to disclose a secret to his son."
+      },
+      {
+        "id": "tvmaze:2534",
+        "title": "Rock and a Hard Place",
+        "season": 11,
+        "episode": 17,
+        "released": "2014-03-18",
+        "overview": "After a bomb detonates in the dressing room at a military charity concert, the NCIS team must determine if the target was a washed-up '80s rocker or if the bomb was part of a larger scheme. Meanwhile, Jimmy prepares for fatherhood."
+      },
+      {
+        "id": "tvmaze:2535",
+        "title": "Crescent City (Part I)",
+        "season": 11,
+        "episode": 18,
+        "released": "2014-03-25",
+        "overview": "When the body of Congressman Dan McLane, a former NCIS agent, washes ashore in New Orleans, Gibbs reunites with his former colleague, NCIS Special Agent Dwayne Cassius Pride, in a joint case between the two field offices and the FBI. The teams must work together to determine if the murder was politically based or linked to McLane's most well-known case, the arrest of the Privileged Killer, a serial murderer who targeted military and public servants."
+      },
+      {
+        "id": "tvmaze:2536",
+        "title": "Crescent City (Part II)",
+        "season": 11,
+        "episode": 19,
+        "released": "2014-04-01",
+        "overview": "Gibbs and Special Agent Pride chase leads in New Orleans after evidence points to a copycat of the infamous Privileged Killer. Meanwhile, Bishop sends DiNozzo a special souvenir from the Crescent City, as DiNozzo, McGee and the FBI continue to track political connections to the case from D.C."
+      },
+      {
+        "id": "tvmaze:2537",
+        "title": "Page Not Found",
+        "season": 11,
+        "episode": 20,
+        "released": "2014-04-08",
+        "overview": "After returning to her job at the Department of Defense, McGee's girlfriend Delilah finds a break in a controversial case, prompting her to turn to the NCIS team for help. Meanwhile, McGee talks to DiNozzo about whether he should ask Delilah to move in."
+      },
+      {
+        "id": "tvmaze:2538",
+        "title": "Alleged",
+        "season": 11,
+        "episode": 21,
+        "released": "2014-04-15",
+        "overview": "After a Navy officer is found dead on a rural road, the NCIS team must ascertain if the murder was the result of a bar fight or because he knew too much about an attack on a fellow female officer. Meanwhile, DiNozzo and McGee start a juice cleanse to purge their bodies of impurities."
+      },
+      {
+        "id": "tvmaze:2539",
+        "title": "Shooter",
+        "season": 11,
+        "episode": 22,
+        "released": "2014-04-29",
+        "overview": "When a Marine photographer disappears prior to providing his testimony in an Army court-martial hearing, the NCIS team investigates both the murder he witnessed as well as his current piece on military veterans who are homeless in the D.C. area. Meanwhile, Abby tries to help a young homeless woman reconnect with her family."
+      },
+      {
+        "id": "tvmaze:2540",
+        "title": "The Admiral's Daughter",
+        "season": 11,
+        "episode": 23,
+        "released": "2014-05-06",
+        "overview": "Director Vance gives DiNozzo a special assignment to bring home an Admiral's daughter from Paris, but he must turn to his NCIS team for help after he enters a controversial crime scene."
+      },
+      {
+        "id": "tvmaze:2541",
+        "title": "Honor Thy Father",
+        "season": 11,
+        "episode": 24,
+        "released": "2014-05-13",
+        "overview": "The NCIS team investigates whether a fire on a U.S. Navy ship that served as a secret detention site for indicted terrorists was accidental or an intentional diversion for an escape. Meanwhile, Gibbs travels to his childhood home following news of his father's passing."
+      },
+      {
+        "id": "tvmaze:2542",
+        "title": "Twenty Klicks",
+        "season": 12,
+        "episode": 1,
+        "released": "2014-09-23",
+        "overview": "Gibbs and McGee travel to Russia to safely escort home an NCIS computer engineer connected to classified intel, but their mission is compromised and they are forced to go off the grid while hunted by a Russian mercenary group. Meanwhile, the team in D.C. frantically uses every asset and inter-agency contact they have in an attempt to locate their missing team members"
+      },
+      {
+        "id": "tvmaze:2543",
+        "title": "Kill the Messenger",
+        "season": 12,
+        "episode": 2,
+        "released": "2014-09-30",
+        "overview": "When a Navy Lieutenant is killed on his way to a private meeting with the President, the NCIS team must determine if the murder was part of a recent stream of muggings in the area or a targeted hit to keep intel secret."
+      },
+      {
+        "id": "tvmaze:2544",
+        "title": "So It Goes",
+        "season": 12,
+        "episode": 3,
+        "released": "2014-10-07",
+        "overview": "When an NCIS case reveals a connection to Ducky's estranged childhood best friend, he and Special Agent Bishop travel to London for interviews with family and co-workers of his friend. While there, Ducky finds himself reminiscing about the choices he made in his past and the subsequent impact they had on his adult life."
+      },
+      {
+        "id": "tvmaze:2545",
+        "title": "Choke Hold",
+        "season": 12,
+        "episode": 4,
+        "released": "2014-10-14",
+        "overview": "The Secretary of the Navy assigns the NCIS team to a joint terrorism task force after a Naval research scientist is murdered and the lead suspect is wanted by the Russian government. In order to get a jump on the case, Gibbs has DiNozzo run interference with the leader of the task force, FBI Agent Leia Pendergast."
+      },
+      {
+        "id": "tvmaze:2546",
+        "title": "The San Dominick",
+        "season": 12,
+        "episode": 5,
+        "released": "2014-10-21",
+        "overview": "During a joint Coast Guard and NCIS training exercise at sea, Gibbs and CGIS Agent Borin spot a deceased man overboard, who is discovered to be a missing crew member from a ship 60 nautical miles away. Upon boarding the ship for questioning, Gibbs finds himself on a vessel that has been commandeered by pirates."
+      },
+      {
+        "id": "tvmaze:2547",
+        "title": "Parental Guidance Suggested",
+        "season": 12,
+        "episode": 6,
+        "released": "2014-10-28",
+        "overview": "The NCIS team must determine if the murder of a Navy commander's wife is linked to her profession as a therapist or an act of terrorism after finding the commander's name on a Jihadist target list. Meanwhile, the team discusses Halloween costumes and Tony's recent dating habits."
+      },
+      {
+        "id": "tvmaze:38929",
+        "title": "The Searchers",
+        "season": 12,
+        "episode": 7,
+        "released": "2014-11-11",
+        "overview": "After investigating the murder of a retired Master Sergeant, the NCIS team uncovers a fraudulent charity that preys on those searching for missing military personnel. Meanwhile, Bishop agonizes over the results of her probation evaluation, and Tony contemplates adopting a stray cat that followed him home."
+      },
+      {
+        "id": "tvmaze:39628",
+        "title": "Semper Fortis",
+        "season": 12,
+        "episode": 8,
+        "released": "2014-11-18",
+        "overview": "While the NCIS team investigates the cause of a hit and run accident that resulted in the death of a Petty Officer, Gibbs searches for a way to clear a Navy Hospital Corpsman, who has served two medical tours in Afghanistan, after she's indicted for illegally providing medical aid to the victims of the crash, even though the surviving victims swear by her life-saving techniques."
+      },
+      {
+        "id": "tvmaze:44341",
+        "title": "Grounded",
+        "season": 12,
+        "episode": 9,
+        "released": "2014-11-25",
+        "overview": "While stuck at the Dulles airport due to inclement weather, DiNozzo, Bishop and her husband Jake work an NCIS case involving an elevated terrorist threat at Northeast airports during the Thanksgiving travel surge."
+      },
+      {
+        "id": "tvmaze:57532",
+        "title": "House Rules",
+        "season": 12,
+        "episode": 10,
+        "released": "2014-12-16",
+        "overview": "The NCIS team consults with three cyber-terrorists they imprisoned after a city-wide Internet shutdown the week before Christmas. Also, McGee reflects on the case and Gibbs' infamous rules as he pens a heartfelt letter to his father."
+      },
+      {
+        "id": "tvmaze:92011",
+        "title": "Check",
+        "season": 12,
+        "episode": 11,
+        "released": "2015-01-06",
+        "overview": "The NCIS team must investigate a series of crime scenes that appear to be copy-cats of previous cases. Also, two of Gibbs' ex-wives, one of which the team has yet to meet, show up at a crime scene to discuss something important with him."
+      },
+      {
+        "id": "tvmaze:109677",
+        "title": "The Enemy Within",
+        "season": 12,
+        "episode": 12,
+        "released": "2015-01-13",
+        "overview": "The NCIS team searches for a home-grown terrorist after a rescue mission in Syria reveals an American was involved in the capture of a social worker. Meanwhile, McGee and Bishop question DiNozzo's unusual behavior."
+      },
+      {
+        "id": "tvmaze:118509",
+        "title": "We Build, We Fight",
+        "season": 12,
+        "episode": 13,
+        "released": "2015-02-03",
+        "overview": "Gibbs and the team investigate when a Navy lieutenant who is set to be the first openly gay servicemember to receive the Medal of Honor is murdered. Also, as his wife's due date approaches, Palmer prepares for fatherhood with a NCIS baby shower."
+      },
+      {
+        "id": "tvmaze:128607",
+        "title": "Cadence",
+        "season": 12,
+        "episode": 14,
+        "released": "2015-02-10",
+        "overview": "DiNozzo returns to the military academy he attended as a teenager after a murdered Marine and alumni of the school is found clutching the photo of a current student. Also, Bishop and her husband invite Gibbs and the team out for a special dinner."
+      },
+      {
+        "id": "tvmaze:129018",
+        "title": "Cabin Fever",
+        "season": 12,
+        "episode": 15,
+        "released": "2015-02-17",
+        "overview": "The NCIS team suspects Gibbs' arch-nemesis is behind an explosion at a summit for global terror event, but Gibbs elects to sit out the investigation in order to help a grief-stricken Fornell, whose life is on the verge of imploding following his wife's murder."
+      },
+      {
+        "id": "tvmaze:139719",
+        "title": "Blast from the Past",
+        "season": 12,
+        "episode": 16,
+        "released": "2015-02-24",
+        "overview": "Covert identity created for one of Gibbs' undercover cases 20 years ago resurfaces after a murder victim is found living under the alias."
+      },
+      {
+        "id": "tvmaze:142177",
+        "title": "The Artful Dodger",
+        "season": 12,
+        "episode": 17,
+        "released": "2015-03-10",
+        "overview": "Evidence in an NCIS murder case reveals a rare painting on loan had been swapped for a fake, prompting DiNozzo, Sr. to share his knowledge and contacts of the black market art world with the team."
+      },
+      {
+        "id": "tvmaze:143202",
+        "title": "Status Update",
+        "season": 12,
+        "episode": 18,
+        "released": "2015-03-24",
+        "overview": "After the body of a thief is found in a Marine's house, NCIS discovers the calling card of a terror group Delilah and the Department of Defense have been tracking."
+      },
+      {
+        "id": "tvmaze:143203",
+        "title": "Patience",
+        "season": 12,
+        "episode": 19,
+        "released": "2015-03-31",
+        "overview": "The murder of a petty officer sparks a lead in a 40 year old airport bombing cold case that Gibbs and DiNozzo have been assigned to for the past two years. Also, McGee is jealous that he was not previously briefed on the cold case."
+      },
+      {
+        "id": "tvmaze:143204",
+        "title": "No Good Deed",
+        "season": 12,
+        "episode": 20,
+        "released": "2015-04-07",
+        "overview": "DiNozzo is partnered with his girlfriend ATF Special Agent Zoé Keates after evidence reveals that the murder weapon in an NCIS case was originally purchased for the controversial ATF sting operation \"Operation Fast and Furious.\" Also, Anthony DiNozzo Sr. returns to town for a special dinner to meet his son's girlfriend."
+      },
+      {
+        "id": "tvmaze:151439",
+        "title": "Lost in Translation",
+        "season": 12,
+        "episode": 21,
+        "released": "2015-04-14",
+        "overview": "Gibbs and Bishop travel to Afghanistan after the murder of a Marine in D.C. is linked to a terror group holding another Marine hostage overseas. Also, DiNozzo is upset that McGee was chosen to be the new face of NCIS for all recruitment brochures."
+      },
+      {
+        "id": "tvmaze:151440",
+        "title": "Troll",
+        "season": 12,
+        "episode": 22,
+        "released": "2015-04-28",
+        "overview": "Special Agent Ned Dorneget from NCIS cyber operations assists the team when a Navy ensign who worked in the Office of Naval Intelligence is murdered. Also, the team discovers that Jake and Gibbs have become good friends."
+      },
+      {
+        "id": "tvmaze:151441",
+        "title": "The Lost Boys",
+        "season": 12,
+        "episode": 23,
+        "released": "2015-05-05",
+        "overview": "The NCIS cyber case turns into a united global effort after evidence confirms \"The Calling,\" an international terrorist group that recruits children through the internet, has been purchasing S-bombs off the black market."
+      },
+      {
+        "id": "tvmaze:153009",
+        "title": "Neverland",
+        "season": 12,
+        "episode": 24,
+        "released": "2015-05-12",
+        "overview": "NCIS feverishly investigates a global terrorist group that is recruiting teens via the Internet following a deadly bombing overseas that results in an emotional and surprising loss for the team."
+      },
+      {
+        "id": "tvmaze:207952",
+        "title": "Stop the Bleeding",
+        "season": 13,
+        "episode": 1,
+        "released": "2015-09-22",
+        "overview": "Gibbs fights for his life aboard a Navy hospital ship after being shot, while DiNozzo and Joanna Teague travel to Shanghai to try and take down the Calling."
+      },
+      {
+        "id": "tvmaze:212024",
+        "title": "Personal Day",
+        "season": 13,
+        "episode": 2,
+        "released": "2015-09-29",
+        "overview": "With a case that keeps going cold, but DiNozzo discovers there is more to Gibbs' personal connection to the agent and his desire to help him succeed. Also, the team gossips about Gibbs' new look after he replaces his standard military haircut and polo shirt for a modern cut and tailored dress shirt."
+      },
+      {
+        "id": "tvmaze:246341",
+        "title": "Incognito",
+        "season": 13,
+        "episode": 3,
+        "released": "2015-10-06",
+        "overview": "After a Marine is found murdered in Quantico hours after calling Gibbs to discuss a possible case, Bishop and McGee go undercover as a married couple to run surveillance on a Marine Lieutenant and his wife."
+      },
+      {
+        "id": "tvmaze:250010",
+        "title": "Double Trouble",
+        "season": 13,
+        "episode": 4,
+        "released": "2015-10-13",
+        "overview": "Vance partners with Gibbs and returns to field duty when a murder case is connected to a former NCIS agent he locked up for stealing evidence."
+      },
+      {
+        "id": "tvmaze:258778",
+        "title": "Lockdown",
+        "season": 13,
+        "episode": 5,
+        "released": "2015-10-20",
+        "overview": "While visiting a pharmaceutical lab on a murder case, Abby is trapped with no communication to the outside world after armed men take over the building and hold everyone hostage."
+      },
+      {
+        "id": "tvmaze:258779",
+        "title": "Viral",
+        "season": 13,
+        "episode": 6,
+        "released": "2015-10-27",
+        "overview": "When a petty officer's murder matches the M.O. of a local serial killer, the NCIS team must determine if this is the killer's latest victim or the work of a copycat. Also, McGee and Delilah must learn to compromise before moving in together."
+      },
+      {
+        "id": "tvmaze:258780",
+        "title": "16 Years",
+        "season": 13,
+        "episode": 7,
+        "released": "2015-11-03",
+        "overview": "The NCIS murder case of a retired Navy Lieutenant Commander forces Ducky to reveal his participation in a secret society that solves cold cases."
+      },
+      {
+        "id": "tvmaze:406824",
+        "title": "Saviors",
+        "season": 13,
+        "episode": 8,
+        "released": "2015-11-10",
+        "overview": "DiNozzo is reunited with his ex-girlfriend, Jeanne Benoit, when insurgents in Sudan attack a group of volunteer doctors, including her husband. DiNozzo and McGee travel to the crime scene for the joint murder and kidnapping case and join the search for the missing doctors."
+      },
+      {
+        "id": "tvmaze:410716",
+        "title": "Day in Court",
+        "season": 13,
+        "episode": 9,
+        "released": "2015-11-17",
+        "overview": "In order to clear his name, a petty officer volunteers to be court martialed if NCIS agrees to conduct its own investigation after his murder case is dismissed due to a mishandled warrant. Also, Bishop and Jake discuss their marital problems."
+      },
+      {
+        "id": "tvmaze:410717",
+        "title": "Blood Brothers",
+        "season": 13,
+        "episode": 10,
+        "released": "2015-11-24",
+        "overview": "In the hopes of sparing a family further tragedy, the Secretary of the Navy calls on NCIS to help a sailor battling leukemia locate a bone marrow transplant after his two Marine siblings are killed in the line of duty. Also, Bishop returns home to Oklahoma for the Thanksgiving holiday."
+      },
+      {
+        "id": "tvmaze:483361",
+        "title": "Spinning Wheel",
+        "season": 13,
+        "episode": 11,
+        "released": "2015-12-15",
+        "overview": "After Ducky is attacked by a man claiming to have information about his half-brother who died decades ago, the NCIS team searches for the perpetrator, as Ducky recalls the final emotional days he had with his sibling. Also, with the holidays approaching, Bishop and Jake discuss the future of their relationship."
+      },
+      {
+        "id": "tvmaze:502649",
+        "title": "Sister City (Part I)",
+        "season": 13,
+        "episode": 12,
+        "released": "2016-01-05",
+        "overview": "After the passengers and crew of a private plane traveling from New Orleans to Washington D.C. are lethally poisoned, all evidence points to the missing chef, Abby's brother, Luca. Gibbs and the D.C. team work in conjunction with Pride and the New Orleans team to locate Luca and determine why a private tech company was targeted, on the first part of a special two-hour crossover event"
+      },
+      {
+        "id": "tvmaze:509828",
+        "title": "Déjà Vu",
+        "season": 13,
+        "episode": 13,
+        "released": "2016-01-19",
+        "overview": "While investigating the murder of a seaman who was set to testify before a grand jury, the NCIS team uncovers the resurgence of an international human-trafficking ring. Also, McGee hopes to spend the night at a colleague's home after a storm causes massive power outages in the city."
+      },
+      {
+        "id": "tvmaze:509829",
+        "title": "Decompressed",
+        "season": 13,
+        "episode": 14,
+        "released": "2016-02-09",
+        "overview": "When a deep sea diver is murdered on the job, his body and suspected co-workers must remain in a high-tech decompression chamber for four days, leaving the NCIS team to complete an unorthodox investigation from outside the tank."
+      },
+      {
+        "id": "tvmaze:595726",
+        "title": "React",
+        "season": 13,
+        "episode": 15,
+        "released": "2016-02-16",
+        "overview": "When Secretary of the Navy Sarah Porter learns her daughter has been kidnapped, the NCIS team partners with the FBI to track the case, determine a motive and bring her home. Also, McGee's childhood friend, NCIS Special Agent Valerie Page, is in town to assist the team with advance tactics training."
+      },
+      {
+        "id": "tvmaze:600749",
+        "title": "Loose Cannons",
+        "season": 13,
+        "episode": 16,
+        "released": "2016-02-23",
+        "overview": "Doctor Cyril Taft experiences the rush of an NCIS case after he is assigned surgical duty to Gibb's suspect and finds key evidence. Also, Dinozzo pays Jeanne Benoit a visit as he chases a lead involving doctors in Sudan."
+      },
+      {
+        "id": "tvmaze:609586",
+        "title": "After Hours",
+        "season": 13,
+        "episode": 17,
+        "released": "2016-03-01",
+        "overview": "The NCIS agents' personal plans are interrupted when each of them catches errors in a seemingly cut-and-dried closed case. Also, McGee and Delilah argue over the importance of not discussing work during dinner, while DiNozzo bores his date with shop talk."
+      },
+      {
+        "id": "tvmaze:621933",
+        "title": "Scope",
+        "season": 13,
+        "episode": 18,
+        "released": "2016-03-15",
+        "overview": "The team re-examines an ambush on a group of Special Ops snipers six months ago in Iraq, after an American couple is attacked in the same area. When Gibbs discovers he needs the account of the lone survivor, he tries to connect with the wounded warrior who is being treated for PTSS at Walter Reed Medical Center.Laura San Giacomo returns as Grace Confalone. The episode features a special performance by the MusiCorps Band, part of a music rehabilitation program for wounded veterans."
+      },
+      {
+        "id": "tvmaze:630715",
+        "title": "Reasonable Doubts",
+        "season": 13,
+        "episode": 19,
+        "released": "2016-03-22",
+        "overview": "A Navy Public Affairs officer is murdered, and the victim's wife and mistress accuse each other of the crime. Meanwhile, Anthony DiNozzo Sr. helps a homeless woman who believes he is her father."
+      },
+      {
+        "id": "tvmaze:631872",
+        "title": "Charade",
+        "season": 13,
+        "episode": 20,
+        "released": "2016-04-05",
+        "overview": "After Tony's identity is stolen by multiple perpetrators, the fake Special Agent DiNozzos begin blackmailing Senators."
+      },
+      {
+        "id": "tvmaze:664353",
+        "title": "Return to Sender",
+        "season": 13,
+        "episode": 21,
+        "released": "2016-04-19",
+        "overview": "NCIS partners with the FBI and Homeland Security when two British prisoners, including a former spy, escape and arrive in the U.S. via a shipping container. Meanwhile, McGee goes apartment hunting and becomes determined to find out how DiNozzo purchased his lavish place."
+      },
+      {
+        "id": "tvmaze:664354",
+        "title": "Homefront",
+        "season": 13,
+        "episode": 22,
+        "released": "2016-05-03",
+        "overview": "When a 14-year-old foils a home invasion, Gibbs suspects the teenager is withholding pertinent details. Also, Director Vance and Senior FBI Agent Fornell travel to London as part of the ongoing escaped British spy case."
+      },
+      {
+        "id": "tvmaze:664356",
+        "title": "Dead Letter",
+        "season": 13,
+        "episode": 23,
+        "released": "2016-05-10",
+        "overview": "The NCIS team, alongside the FBI and MI6, continue an international manhunt for an escaped British spy who has left one colleague fighting for their life in ICU."
+      },
+      {
+        "id": "tvmaze:660243",
+        "title": "Family First",
+        "season": 13,
+        "episode": 24,
+        "released": "2016-05-17",
+        "overview": "The NCIS, FBI and MI6 teams continue the international manhunt for a spy who's targeting current and former agents. Anthony DiNozzo bids farewell to NCIS."
+      },
+      {
+        "id": "tvmaze:843664",
+        "title": "Rogue",
+        "season": 14,
+        "episode": 1,
+        "released": "2016-09-20",
+        "overview": "The NCIS team investigates a deadly car explosion in D.C. that connects to NCIS Special Agent Nicholas \"Nick\" Torres, who disappeared six months ago while on a deep undercover assignment in Argentina. Also, Gibbs asks NCIS Special Agent Alexandra \"Alex\" Quinn to shadow his team after rejecting eight agents she instructed and referred for the open position."
+      },
+      {
+        "id": "tvmaze:892043",
+        "title": "Being Bad",
+        "season": 14,
+        "episode": 2,
+        "released": "2016-09-27",
+        "overview": "NCIS uncovers a bomb plot and a long-running theft ring while investigating a death at a Quantico reunion. Also Torres and Quinn adjust to life on Gibbs' team, including new seating arrangements in the squad room."
+      },
+      {
+        "id": "tvmaze:892045",
+        "title": "Privileged Information",
+        "season": 14,
+        "episode": 3,
+        "released": "2016-10-04",
+        "overview": "When the NCIS team investigates a marine sergeant's tragic fall from a building, her doctor, Grace Confalone, confides in Gibbs and suggests he treat it as a murder investigation. Also, Torres searches for a place to live."
+      },
+      {
+        "id": "tvmaze:892046",
+        "title": "Love Boat",
+        "season": 14,
+        "episode": 4,
+        "released": "2016-10-11",
+        "overview": "After the body of a navy lieutenant is discovered aboard a destroyer during a tiger cruise, when civilian guests are allowed to spend the night on the ship, Gibbs, Quinn and Palmer travel out to sea to investigate. Also, McGee contemplates the perfect proposal for Delilah Fielding."
+      },
+      {
+        "id": "tvmaze:942322",
+        "title": "Philly",
+        "season": 14,
+        "episode": 5,
+        "released": "2016-10-18",
+        "overview": "When a missing MI6 Officer is linked to a murdered petty officer, Gibbs sends Quinn and Bishop to Philadelphia to work with MI6 Officer Clayton Reeves. Also, Quinn painfully recounts the NCIS case that made her leave field work."
+      },
+      {
+        "id": "tvmaze:950980",
+        "title": "Shell Game",
+        "season": 14,
+        "episode": 6,
+        "released": "2016-10-25",
+        "overview": "After a kidnapped petty officer escapes her captor, NCIS uncovers a connection to her missing husband. Also, Abby knits the NCIS newbies personalized gifts."
+      },
+      {
+        "id": "tvmaze:960727",
+        "title": "Home of the Brave",
+        "season": 14,
+        "episode": 7,
+        "released": "2016-11-15",
+        "overview": "Torres boldly breaks protocol when he learns a witness in an NCIS case is wanted by U.S. Immigration and Customs Enforcement. Also, Abby, Bishop and McGee woo landlord Tony DiNozzo Sr. in the hope of subletting Tony's apartment."
+      },
+      {
+        "id": "tvmaze:979244",
+        "title": "Enemy Combatant",
+        "season": 14,
+        "episode": 8,
+        "released": "2016-11-22",
+        "overview": "After NCIS Agent Bishop is sent to Gitmo to gather evidence for a Navy chaplain murder case, she questions her previous work at the NSA. Also, Bishop's brothers, John and Robert, visit for the Thanksgiving holiday and pester her co-workers to find out who she is dating."
+      },
+      {
+        "id": "tvmaze:971876",
+        "title": "Pay to Play",
+        "season": 14,
+        "episode": 9,
+        "released": "2016-12-06",
+        "overview": "The NCIS team investigates a series of escalating threats against congresswoman Jenna Flemming, while Director Vance oversees temporary protection detail."
+      },
+      {
+        "id": "tvmaze:993529",
+        "title": "The Tie That Binds",
+        "season": 14,
+        "episode": 10,
+        "released": "2016-12-13",
+        "overview": "After the NCIS team tracks evidence from the murder of a Navy captain to Ducky's deceased mother, Ducky looks back and questions a pivotal life choice he made 37 years ago. Also, the team exchanges holiday gifts, and Gibbs spends Christmas dinner with Fornell."
+      },
+      {
+        "id": "tvmaze:1010659",
+        "title": "Willoughby",
+        "season": 14,
+        "episode": 11,
+        "released": "2017-01-03",
+        "overview": "NCIS searches for new leads after an undercover operation to apprehend a businessman who uses acts of terror to manipulate the stock market is compromised. Also, Bishop and Qasim find a break in the case together."
+      },
+      {
+        "id": "tvmaze:1022559",
+        "title": "Off the Grid",
+        "season": 14,
+        "episode": 12,
+        "released": "2017-01-17",
+        "overview": "After Gibbs spots the brother of an \"NCIS Most Wanted\" suspect, he immediately assumes his former alias and goes undercover with their infamous anti-government militia. Also, Bishop and Reeves partner on an off-the-books investigation."
+      },
+      {
+        "id": "tvmaze:1025751",
+        "title": "Keep Going",
+        "season": 14,
+        "episode": 13,
+        "released": "2017-01-24",
+        "overview": "While investigating a hit and run, Palmer spots a man on a ledge and attempts to talk him down."
+      },
+      {
+        "id": "tvmaze:1039941",
+        "title": "Nonstop",
+        "season": 14,
+        "episode": 14,
+        "released": "2017-02-07",
+        "overview": "The murder of a Petty Officer in a small town outside D.C. prompts NCIS to once again work with \"The Sherlocks,\" a privately funded investigative team that includes their newest member, Anthony DiNozzo, Sr.."
+      },
+      {
+        "id": "tvmaze:1042493",
+        "title": "Pandora's Box (Part I)",
+        "season": 14,
+        "episode": 15,
+        "released": "2017-02-14",
+        "overview": "After Abby's homeland security think tank is compromised and she is found in possession of a real bomb, the NCIS team discovers the leader of the group has been murdered and a theoretical terror playbook has been stolen."
+      },
+      {
+        "id": "tvmaze:1042494",
+        "title": "A Many Splendored Thing",
+        "season": 14,
+        "episode": 16,
+        "released": "2017-02-21",
+        "overview": "Bishop is more determined than ever to seek revenge for the murder of Qasim, her late boyfriend, after Gibbs and the team find a new lead in the Chen case. Also, Torres teaches the agents the art of pickpocketing."
+      },
+      {
+        "id": "tvmaze:1065350",
+        "title": "What Lies Above",
+        "season": 14,
+        "episode": 17,
+        "released": "2017-03-07",
+        "overview": "McGee discovers his apartment has been torn apart by a robber trying to locate an item of great value hidden somewhere by the convicted criminal who previously owned the unit. Also, Congresswoman Flemming tries to persuade Director Vance to pursue a career in politics"
+      },
+      {
+        "id": "tvmaze:1075492",
+        "title": "M.I.A.",
+        "season": 14,
+        "episode": 18,
+        "released": "2017-03-14",
+        "overview": "To carry out a sailor's dying wish, Gibbs and the NCIS team re-investigate a murder case that was originally ruled an accidental death. Also, the case reminds Torres of a tragic time from his past."
+      },
+      {
+        "id": "tvmaze:1088457",
+        "title": "The Wall",
+        "season": 14,
+        "episode": 19,
+        "released": "2017-03-28",
+        "overview": "When a Marine is murdered at an event for the Honor Flight Network, a non-profit that arranges for veterans to visit the World War II, Korea and Vietnam War Memorials for free, the NCIS team must rely on an irritable Vietnam War veteran, Henry Rogers, to provide details on the victim's whereabouts throughout the day. Also, McGee and Bishop investigate a juicy rumor about Quinn and Torres."
+      },
+      {
+        "id": "tvmaze:1098839",
+        "title": "A Bowl of Cherries",
+        "season": 14,
+        "episode": 20,
+        "released": "2017-04-04",
+        "overview": "After a vice admiral's laptop is infected with ransomware, he enlists McGee and the NCIS team to track down the hacker before the computer virus eliminates his personal and professional files. Also, Alex takes time off to assist her mother, Marie Quinn, after she receives a \"911\" text."
+      },
+      {
+        "id": "tvmaze:1107552",
+        "title": "One Book, Two Covers",
+        "season": 14,
+        "episode": 21,
+        "released": "2017-04-18",
+        "overview": "Torres must rely on old case notes and contacts after a Marine's murder is linked to a former dirt bike gang he joined for a year-long undercover operation."
+      },
+      {
+        "id": "tvmaze:1117431",
+        "title": "Beastmaster",
+        "season": 14,
+        "episode": 22,
+        "released": "2017-05-02",
+        "overview": "After a Marine Sergeant is found murdered in a National Park, Gibbs and the NCIS team partner with Mounted Police Sergeant May Dawson to solve a string of related crimes in the park."
+      },
+      {
+        "id": "tvmaze:1117432",
+        "title": "Something Blue",
+        "season": 14,
+        "episode": 23,
+        "released": "2017-05-09",
+        "overview": "The stress of McGee and Delilah's imminent wedding takes its toll, as Delilah is rushed to the hospital. Also, the NCIS team travels out to sea after a young and healthy Petty Officer aboard a Navy destroyer dies in his sleep."
+      },
+      {
+        "id": "tvmaze:1113958",
+        "title": "Rendezvous",
+        "season": 14,
+        "episode": 24,
+        "released": "2017-05-16",
+        "overview": "Gibbs, McGee and Torres travel to an area of Paraguay controlled by a group of violent rebels in an attempt to locate a missing Navy SEAL who disappeared during an unsanctioned trip."
+      },
+      {
+        "id": "tvmaze:1200325",
+        "title": "House Divided",
+        "season": 15,
+        "episode": 1,
+        "released": "2017-09-26",
+        "overview": "Two months after Gibbs and McGee were last seen fighting an elusive group of rebels in a Paraguay jungle, the NCIS team in D.C. tirelessly searches for their missing colleagues. Also, Vance and Torres are summoned to a congressional hearing regarding the fallout from the Paraguay mission."
+      },
+      {
+        "id": "tvmaze:1276315",
+        "title": "Twofer",
+        "season": 15,
+        "episode": 2,
+        "released": "2017-10-03",
+        "overview": "NCIS is called in to investigate when the body of a missing Navy Lieutenant who disappeared a year and a half ago is located by a cemetery grounds crew while they are relocating caskets on the property. Also, Gibbs and McGee must pass a psych evaluation with Doctor Grace Confalone before officially resuming all work responsibilities."
+      },
+      {
+        "id": "tvmaze:1302981",
+        "title": "Exit Strategy",
+        "season": 15,
+        "episode": 3,
+        "released": "2017-10-10",
+        "overview": "While on a stakeout with Metro P.D., Torres' partner mysteriously vanishes, with the subsequent investigation leading NCIS to uncover new evidence from a decade-old murder. Also, Ducky's friend, Cadence Darwin, presents him with a new opportunity during his guest lecture series."
+      },
+      {
+        "id": "tvmaze:1304417",
+        "title": "Skeleton Crew",
+        "season": 15,
+        "episode": 4,
+        "released": "2017-10-17",
+        "overview": "Director Vance welcomes NCIS Special Agent Jacqueline \"Jack\" Sloane, a forensic psychologist he lobbied to transfer from California, to headquarters. Also, in the midst of a storm that has shut down Washington, D.C. and knocked out power, the NCIS team investigates the kidnapping of a sailor, which sends Torres and Bishop out to sea to track evidence."
+      },
+      {
+        "id": "tvmaze:1315269",
+        "title": "Fake It 'Til You Make It",
+        "season": 15,
+        "episode": 5,
+        "released": "2017-10-24",
+        "overview": "After Reeves sees his friend get kidnapped, the NCIS team discovers the primary suspect disappeared two days ago with confidential military information. Also, an embarrassing photo from McGee's teenage years becomes a popular meme."
+      },
+      {
+        "id": "tvmaze:1315270",
+        "title": "Trapped",
+        "season": 15,
+        "episode": 6,
+        "released": "2017-10-31",
+        "overview": "After a petty officer is found murdered on a golf course, McGee spends hours on the victim's ham radio trying to locate a key witness. Also, Palmer asks his co-workers to donate to a charity that builds playgrounds for kids of all abilities, and Torres surprises them with his generosity."
+      },
+      {
+        "id": "tvmaze:1309301",
+        "title": "Burden of Proof",
+        "season": 15,
+        "episode": 7,
+        "released": "2017-11-07",
+        "overview": "After a convicted felon swears the NCIS agency framed him for murder a decade ago, Gibbs begins his own investigation, starting with a new autopsy by Ducky. Also, Senior FBI Agent Fornell joins the team, since he was the lead investigator in the original joint FBI and NCIS case."
+      },
+      {
+        "id": "tvmaze:1335918",
+        "title": "Voices",
+        "season": 15,
+        "episode": 8,
+        "released": "2017-11-14",
+        "overview": "An NCIS person of interest in a bribery and fraud case is found murdered after a runner is led to his body by a strange voice. Also, McGee and Delilah disagree on whether to find out the baby's sex or keep it a surprise."
+      },
+      {
+        "id": "tvmaze:1335919",
+        "title": "Ready or Not",
+        "season": 15,
+        "episode": 9,
+        "released": "2017-11-21",
+        "overview": "The team's Thanksgiving plans are put on hold while they track an elusive international arms dealer in D.C. who recently murdered an MI-5 officer who was Sloane's close friend. Also, Abby races Delilah to the hospital when her labor starts three weeks early."
+      },
+      {
+        "id": "tvmaze:1356339",
+        "title": "Double Down",
+        "season": 15,
+        "episode": 10,
+        "released": "2017-12-12",
+        "overview": "As Torres and Sloane run protection detail for U.S. Senator John Phillips in Afghanistan for the holidays, they must urgently return to the states after hearing the senator's son is in the ICU. Also, Gibbs and the team investigate the altercation that caused the life threatening injuries to the senator's son."
+      },
+      {
+        "id": "tvmaze:1370832",
+        "title": "High Tide",
+        "season": 15,
+        "episode": 11,
+        "released": "2018-01-02",
+        "overview": "Torres and Bishop go undercover as a criminal couple available for hire, during an NCIS sting operation tracking illegal drug-running out of the Norfolk civilian marina."
+      },
+      {
+        "id": "tvmaze:1373698",
+        "title": "Dark Secrets",
+        "season": 15,
+        "episode": 12,
+        "released": "2018-01-09",
+        "overview": "After a seemingly happy and successful Navy Lieutenant appears to have taken her own life, Gibbs and the team conduct a thorough investigation, interviewing family and friends from her past and present."
+      },
+      {
+        "id": "tvmaze:1383576",
+        "title": "Family Ties",
+        "season": 15,
+        "episode": 13,
+        "released": "2018-01-23",
+        "overview": "After McGee and Torres visit the home of a high schooler who witnessed a hit and run, her parents, Christopher and Julie Bell, flee with their daughter, leaving NCIS in the lurch. Also, Vance's daughter is arrested for shoplifting."
+      },
+      {
+        "id": "tvmaze:1385761",
+        "title": "Keep Your Friends Close",
+        "season": 15,
+        "episode": 14,
+        "released": "2018-02-06",
+        "overview": "After the body of a missing Navy commander is found, Vance orders Gibbs and the team to work with former FBI Agent Tobias \"T.C.\" Fornell, the private investigator who was hired to locate him. Also, Bishop and Torres interview convicted investment advisor Albert Hathaway when the victim is linked to his highly publicized trial."
+      },
+      {
+        "id": "tvmaze:1393165",
+        "title": "Keep Your Enemies Closer",
+        "season": 15,
+        "episode": 15,
+        "released": "2018-02-27",
+        "overview": "NCIS strikes a deal with convicted murderer Paul Triff, giving him a 48-hour furlough at his former residence, now McGee's home, in exchange for information that can convict his former cellmate, Gabriel Hicks, the murderer who deceived Gibbs and Fornell."
+      },
+      {
+        "id": "tvmaze:1407171",
+        "title": "Handle with Care",
+        "season": 15,
+        "episode": 16,
+        "released": "2018-03-06",
+        "overview": "Gibbs and the team work to clear the name of retired Marine Sergeant John Ross when cyanide is found in one of the hundreds of care packages he sends to active-duty Marines."
+      },
+      {
+        "id": "tvmaze:1411864",
+        "title": "One Man's Trash",
+        "season": 15,
+        "episode": 17,
+        "released": "2018-03-13",
+        "overview": "Gibbs and Ducky see an antique war stick on television that could be the missing murder weapon to a 16-year-old cold case."
+      },
+      {
+        "id": "tvmaze:1415704",
+        "title": "Death from Above",
+        "season": 15,
+        "episode": 18,
+        "released": "2018-03-27",
+        "overview": "The NCIS headquarters are evacuated after the team discovers a body as well as bomb materials on the roof of the squad room. Also, the team reads the first draft of Ducky's book."
+      },
+      {
+        "id": "tvmaze:1423294",
+        "title": "The Numerical Limit",
+        "season": 15,
+        "episode": 19,
+        "released": "2018-04-03",
+        "overview": "Gibbs is granted protective custody of a 10-year-old orphaned refugee, Elena, when an NCIS case reveals she is the target of a violent gang."
+      },
+      {
+        "id": "tvmaze:1430631",
+        "title": "Sight Unseen",
+        "season": 15,
+        "episode": 20,
+        "released": "2018-04-17",
+        "overview": "NCIS searches for a petty officer suspected of assault who escapes when the sheriff transporting him crashes into a lake; Torres works closely with a blind witness who heard vital evidence needed to solve the case."
+      },
+      {
+        "id": "tvmaze:1432501",
+        "title": "One Step Forward",
+        "season": 15,
+        "episode": 21,
+        "released": "2018-05-01",
+        "overview": "Sara Carter begs Gibbs to investigate her mother's murder as she believes the local authorities convicted the wrong man. Also, Abby is awarded a dinner reservation for two to a brand-new five-star restaurant in an igloo and has to decide which coworker deserves to go with her."
+      },
+      {
+        "id": "tvmaze:1432502",
+        "title": "Two Steps Back",
+        "season": 15,
+        "episode": 22,
+        "released": "2018-05-08",
+        "overview": "When evidence reveals an NCIS team member is a hitman's latest target, the team must search through old case files to determine who is seeking vengeance."
+      },
+      {
+        "id": "tvmaze:1432503",
+        "title": "Fallout",
+        "season": 15,
+        "episode": 23,
+        "released": "2018-05-15",
+        "overview": "While Gibbs attends the memorial service for a friend who was lost at sea, he discovers that the deceased, Navy Captain Phillip Brooks, has been hiding in a fallout shelter after his boat was attacked and he swam to shore."
+      },
+      {
+        "id": "tvmaze:1432093",
+        "title": "Date with Destiny",
+        "season": 15,
+        "episode": 24,
+        "released": "2018-05-22",
+        "overview": "Sloane is adamant that a man who held her hostage and tortured her years ago in Afghanistan, and was believed to have been killed following her rescue, is alive and in D.C., leading Vance and Gibbs to fear she is willing to risk everything to destroy this man."
+      },
+      {
+        "id": "tvmaze:1494016",
+        "title": "Destiny's Child",
+        "season": 16,
+        "episode": 1,
+        "released": "2018-09-25",
+        "overview": "One month after Director Vance was kidnapped, Gibbs is assigned the role of acting director in his absence while the team searches worldwide for his whereabouts."
+      },
+      {
+        "id": "tvmaze:1500308",
+        "title": "Love Thy Neighbor",
+        "season": 16,
+        "episode": 2,
+        "released": "2018-10-02",
+        "overview": "After a Navy lieutenant is found murdered in his hot tub, the team interviews several families in the victim's peculiar neighborhood. Also, Torres must face the consequences after a volatile night out with Palmer."
+      },
+      {
+        "id": "tvmaze:1500309",
+        "title": "Boom",
+        "season": 16,
+        "episode": 3,
+        "released": "2018-10-09",
+        "overview": "One of the NCIS agents is starstruck after the team investigates an explosion outside the home of Navy Petty Officer First Class Todd Nicholas and his wife, popular reality TV star Sheba Nicholas. Also, Vance continues physical therapy for the injuries sustained when he was held hostage."
+      },
+      {
+        "id": "tvmaze:1533958",
+        "title": "Third Wheel",
+        "season": 16,
+        "episode": 4,
+        "released": "2018-10-16",
+        "overview": "Gibbs' quiet vacation at his remote cabin is interrupted by a surprise visit from Tobias Fornell and Navy Captain Phillip Brooks, as well as a call from NCIS asking for his help locating a robber hiding in the woods near him."
+      },
+      {
+        "id": "tvmaze:1540237",
+        "title": "Fragments",
+        "season": 16,
+        "episode": 5,
+        "released": "2018-10-23",
+        "overview": "After a 50-year-old tape recording left by a murder victim is found, the NCIS team tries to exonerate Ray Jennings, the Marine serving a life sentence for the crime."
+      },
+      {
+        "id": "tvmaze:1540238",
+        "title": "Beneath the Surface",
+        "season": 16,
+        "episode": 6,
+        "released": "2018-10-30",
+        "overview": "After NCIS arrives at a Halloween crime scene, Torres recognizes the victim as a friend from federal law enforcement training. Also, Jimmy thinks his lab is haunted by ghosts after objects keep mysteriously moving."
+      },
+      {
+        "id": "tvmaze:1551638",
+        "title": "A Thousand Words",
+        "season": 16,
+        "episode": 7,
+        "released": "2018-11-13",
+        "overview": "After a mural by a street artist and activist is stolen, the NCIS investigation leads to a conspiracy regarding a Navy contractor and the safety of ocean mammals. Also, Bishop shares a special connection with the street artist."
+      },
+      {
+        "id": "tvmaze:1556895",
+        "title": "Friendly Fire",
+        "season": 16,
+        "episode": 8,
+        "released": "2018-11-20",
+        "overview": "McGee and Bishop travel to Afghanistan after a murder case in the states is linked to a string of soldiers killed by friendly fire overseas. Also, Kasie leaves the lab and accompanies Torres into the field to process additional forensic evidence."
+      },
+      {
+        "id": "tvmaze:1561856",
+        "title": "Tailing Angie",
+        "season": 16,
+        "episode": 9,
+        "released": "2018-12-04",
+        "overview": "When the lead suspect of an unsolved and high-profile robbery case is released from prison, the NCIS team resumes their investigation with an undercover stakeout."
+      },
+      {
+        "id": "tvmaze:1565913",
+        "title": "What Child Is This?",
+        "season": 16,
+        "episode": 10,
+        "released": "2018-12-11",
+        "overview": "The team's holiday plans are put on hold when the murder investigation of a Navy veteran includes the discovery of a newborn baby who has no identification and no apparent ties to a family."
+      },
+      {
+        "id": "tvmaze:1576886",
+        "title": "Toil and Trouble",
+        "season": 16,
+        "episode": 11,
+        "released": "2019-01-08",
+        "overview": "United States Secretary of Defense Wynn Crawford shuts down Gibbs' murder investigation and demands that Special Agents McGee and Torres be arrested for their actions in the case."
+      },
+      {
+        "id": "tvmaze:1580424",
+        "title": "The Last Link",
+        "season": 16,
+        "episode": 12,
+        "released": "2019-01-15",
+        "overview": "An old family friend, Army Corporal John Sydney, beseeches Gibbs to join him on a road trip to search for a missing military I.D. bracelet. Also, a Navy Lieutenant in NCIS protective custody is poisoned by an infamous drug dealer."
+      },
+      {
+        "id": "tvmaze:1588646",
+        "title": "She",
+        "season": 16,
+        "episode": 13,
+        "released": "2019-02-12",
+        "overview": "After a malnourished and confused 9-year-old is found hiding in a storage unit, NCIS reopens an old missing persons case when the girl is believed to be the daughter of a Navy recruit who disappeared 10 years ago. Also, Bishop discovers notes that Special Agent Ziva David kept on the case long after NCIS officially stopped investigating."
+      },
+      {
+        "id": "tvmaze:1592847",
+        "title": "Once Upon a Tim",
+        "season": 16,
+        "episode": 14,
+        "released": "2019-02-19",
+        "overview": "McGee reluctantly visits his high school after the unique computer password he used as a teenager is linked to the murder of a department of defense contractor. The case escalates when an intruder breaks into McGee's home in an attempt to steal his archaic high school computer."
+      },
+      {
+        "id": "tvmaze:1596981",
+        "title": "Crossing the Line",
+        "season": 16,
+        "episode": 15,
+        "released": "2019-02-26",
+        "overview": "The NCIS team investigates a man overboard fatality from a Navy destroyer at sea. Also, Torres is frustrated with Vance's assignment to mentor three high school students."
+      },
+      {
+        "id": "tvmaze:1606255",
+        "title": "Bears and Cubs",
+        "season": 16,
+        "episode": 16,
+        "released": "2019-03-12",
+        "overview": "Jimmy is torn between family and work after his father-in-law, Ed, asks him to tamper with evidence from NCIS' current murder investigation. Also, Ed's poker buddy, Anthony DiNozzo, Sr., offers to help with the case."
+      },
+      {
+        "id": "tvmaze:1609022",
+        "title": "Silent Service",
+        "season": 16,
+        "episode": 17,
+        "released": "2019-03-26",
+        "overview": "Director Vance is notified by the Pentagon that the nuclear submarine Gibbs and Bishop are aboard to conduct a murder investigation has gone radio silent."
+      },
+      {
+        "id": "tvmaze:1615731",
+        "title": "Mona Lisa",
+        "season": 16,
+        "episode": 18,
+        "released": "2019-04-02",
+        "overview": "Torres relies on his team's investigative skills after he wakes up on a dilapidated fishing boat, covered in blood and unable to remember the last 12 hours."
+      },
+      {
+        "id": "tvmaze:1622089",
+        "title": "Perennial",
+        "season": 16,
+        "episode": 19,
+        "released": "2019-04-09",
+        "overview": "Following an active shooter lockdown at a naval hospital, the NCIS team searches for a suspect who fled the scene. Also, someone from Sloane's past was inside the hospital and is a key witness in the case."
+      },
+      {
+        "id": "tvmaze:1628569",
+        "title": "Hail & Farewell",
+        "season": 16,
+        "episode": 20,
+        "released": "2019-04-16",
+        "overview": "NCIS investigates the murder of a Marine Major believed to have been killed in the 9/11 attack on the Pentagon after human remains are discovered at a construction site. A personal history with the victim drives Gibbs to solve her crime."
+      },
+      {
+        "id": "tvmaze:1630952",
+        "title": "Judge, Jury…",
+        "season": 16,
+        "episode": 21,
+        "released": "2019-04-30",
+        "overview": "After entering cold case DNA into the system, Kasie solves a 30-year-old murder case, but a loophole in the legal system may set the suspect free. Also, McGee visits an elite technology company in Silicon Valley that is offering him a highly paid position."
+      },
+      {
+        "id": "tvmaze:1630953",
+        "title": "...and Executioner",
+        "season": 16,
+        "episode": 22,
+        "released": "2019-05-07",
+        "overview": "After NCIS finds a secret government bank account that's funding a nationwide network of vigilante justice, the team must determine who is acting as judge and jury."
+      },
+      {
+        "id": "tvmaze:1630954",
+        "title": "Lost Time",
+        "season": 16,
+        "episode": 23,
+        "released": "2019-05-14",
+        "overview": "The NCIS team investigates the murder of a Marine Sergeant in the States who was hailed as a war hero for his efforts overseas. Also, Gibbs turns to Doctor Grace Confalone for advice after he uncharacteristically unravels and abandons his team at a crime scene investigation."
+      },
+      {
+        "id": "tvmaze:1629555",
+        "title": "Daughters",
+        "season": 16,
+        "episode": 24,
+        "released": "2019-05-21",
+        "overview": "Former FBI Agent Tobias Fornell pleads with Gibbs to do whatever is necessary to take down drug dealers and suppliers in the area after his daughter, Emily Fornell, is hospitalized from an opiate overdose. Gibbs is haunted by the personal aspects of the case and his history with vigilante justice."
+      },
+      {
+        "id": "tvmaze:1669456",
+        "title": "Out of the Darkness",
+        "season": 17,
+        "episode": 1,
+        "released": "2019-09-24",
+        "overview": "Ziva surprises Gibbs with a cryptic warning, prompting him to question why she remained underground for years while being presumed dead by family and friends, and what led to her return."
+      },
+      {
+        "id": "tvmaze:1713651",
+        "title": "Into the Light",
+        "season": 17,
+        "episode": 2,
+        "released": "2019-10-01",
+        "overview": "With their lives in danger, Gibbs and Ziva's rogue investigation takes an unexpected turn when a possible terrorist plot is revealed."
+      },
+      {
+        "id": "tvmaze:1714056",
+        "title": "Going Mobile",
+        "season": 17,
+        "episode": 3,
+        "released": "2019-10-08",
+        "overview": "After the body of a Marine Lieutenant is found hidden under an 18-wheeler, the NCIS team tracks the vehicle's previous locations to pinpoint the crime scene and suspect. Also, Sloane encourages the team to sit down and talk about Ziva's recent reappearance."
+      },
+      {
+        "id": "tvmaze:1719433",
+        "title": "Someone Else's Shoes",
+        "season": 17,
+        "episode": 4,
+        "released": "2019-10-15",
+        "overview": "The NCIS team links a bizarre crime scene at Arlington National Cemetery to a string of attacks on homeless veterans. Also, Vance orders McGee, Bishop and Torres to complete hours of evidence garage cleanup duty for withholding information."
+      },
+      {
+        "id": "tvmaze:1722417",
+        "title": "Wide Awake",
+        "season": 17,
+        "episode": 5,
+        "released": "2019-10-22",
+        "overview": "NCIS investigates Marine Corporal Laney Alimonte after evidence suggests she murdered her neighbor while being treated for insomnia by a hypnotherapist. Also, Gibbs befriends his new neighbors after the 9-year-old's baseball crashes through his window."
+      },
+      {
+        "id": "tvmaze:1731217",
+        "title": "Institutionalized",
+        "season": 17,
+        "episode": 6,
+        "released": "2019-11-05",
+        "overview": "After a petty officer's son is found murdered at his \"welcome home from prison\" party, evidence suggests Kasie's lifelong best friend, Dante Brown, is the suspect."
+      },
+      {
+        "id": "tvmaze:1743626",
+        "title": "No Vacancy",
+        "season": 17,
+        "episode": 7,
+        "released": "2019-11-12",
+        "overview": "While investigating a Marine's murder, the NCIS team uncovers a labyrinth of live-streaming spy cameras hidden in the rooms of a Virginia motel."
+      },
+      {
+        "id": "tvmaze:1747942",
+        "title": "Musical Chairs",
+        "season": 17,
+        "episode": 8,
+        "released": "2019-11-19",
+        "overview": "The NCIS team investigates the murder of a musician in the Navy's most elite band that performs at diplomatic events around the world."
+      },
+      {
+        "id": "tvmaze:1752309",
+        "title": "IRL",
+        "season": 17,
+        "episode": 9,
+        "released": "2019-11-26",
+        "overview": "The NCIS team investigates a petty officer's murder that was live-streamed on a popular gaming app. Also, Gibbs watches his 11-year-old neighbor, Phineas, when his mom must leave on a last-minute trip."
+      },
+      {
+        "id": "tvmaze:1761006",
+        "title": "The North Pole",
+        "season": 17,
+        "episode": 10,
+        "released": "2019-12-17",
+        "overview": "Gibbs and the team assist Ziva with \"the one thing\" she said she would need to take care of before returning to her family."
+      },
+      {
+        "id": "tvmaze:1758514",
+        "title": "In the Wind",
+        "season": 17,
+        "episode": 11,
+        "released": "2020-01-07",
+        "overview": "Gibbs must face the reality of his actions after he assists Ziva with \"the one thing\" she said she would need to take care of before returning to her family."
+      },
+      {
+        "id": "tvmaze:1779933",
+        "title": "Flight Plan",
+        "season": 17,
+        "episode": 12,
+        "released": "2020-01-14",
+        "overview": "The NCIS team investigates an F-18 crash and the subsequent disappearance of the pilot who operated the aircraft. Also, McGee reluctantly discusses a very personal decision with his teammates."
+      },
+      {
+        "id": "tvmaze:1784088",
+        "title": "Sound Off",
+        "season": 17,
+        "episode": 13,
+        "released": "2020-01-21",
+        "overview": "After a body is found at an unmanned aerial vehicle testing site, the NCIS team must determine if the death was murder or an accident. Also, Palmer carefully interviews medical examiner assistant candidates."
+      },
+      {
+        "id": "tvmaze:1787299",
+        "title": "On Fire",
+        "season": 17,
+        "episode": 14,
+        "released": "2020-01-28",
+        "overview": "After Torres and Bishop are victims of a hit-and-run, Torres fights for his life in the ICU."
+      },
+      {
+        "id": "tvmaze:1791836",
+        "title": "Lonely Hearts",
+        "season": 17,
+        "episode": 15,
+        "released": "2020-02-11",
+        "overview": "The lead suspect in an NCIS murder investigation is a woman Gibbs' friend, Phillip Brooks, met on a dating site. Also, Sloane has a secret admirer on Valentine's Day."
+      },
+      {
+        "id": "tvmaze:1793710",
+        "title": "Ephemera",
+        "season": 17,
+        "episode": 16,
+        "released": "2020-02-18",
+        "overview": "While investigating the suicide of a retired Navy officer who left a rare, valuable – and possibly stolen – coin to the National Museum of the Navy, the team imagines themselves in his life story in order to piece together how the coin ended up in his possession."
+      },
+      {
+        "id": "tvmaze:1801276",
+        "title": "In a Nutshell",
+        "season": 17,
+        "episode": 17,
+        "released": "2020-03-10",
+        "overview": "As the NCIS team investigates the death of a Navy officer murdered the same way as his parents a decade ago, they stumble across a storage container filled with dollhouses that display recreations of murder scenes. Also, the team agrees to clean out their living spaces, but some have a harder time saying goodbye to their possessions than others."
+      },
+      {
+        "id": "tvmaze:1807868",
+        "title": "Schooled",
+        "season": 17,
+        "episode": 18,
+        "released": "2020-03-24",
+        "overview": "The team searches for answers when the body of a well-regarded Navy technician in the Reserves is found floating in a lake where a popular community event is being held. Also, Sloane is caught off-guard when her daughter, Faith, makes an unexpected request."
+      },
+      {
+        "id": "tvmaze:1811989",
+        "title": "Blarney",
+        "season": 17,
+        "episode": 19,
+        "released": "2020-03-31",
+        "overview": "When Kasie and Jimmy are held hostage in a diner after a jewelry store robbery goes awry, they attempt to keep the other customers safe from the thieves."
+      },
+      {
+        "id": "tvmaze:1818423",
+        "title": "The Arizona",
+        "season": 17,
+        "episode": 20,
+        "released": "2020-04-14",
+        "overview": "The team tries to verify the identity of Joe Smith, who claims he served on the U.S.S. Arizona during the attack on Pearl Harbor, and wants to be buried there upon his death."
+      },
+      {
+        "id": "tvmaze:1949309",
+        "title": "Sturgeon Season",
+        "season": 18,
+        "episode": 1,
+        "released": "2020-11-17",
+        "overview": "Gibbs and Fornell attempt to track down the leader of a drug ring who supplied drugs to Fornell's daughter. Also, the team deals with the case of a missing cadaver from the NCIS autopsy room."
+      },
+      {
+        "id": "tvmaze:1960233",
+        "title": "Everything Starts Somewhere",
+        "season": 18,
+        "episode": 2,
+        "released": "2020-11-24",
+        "overview": "Flashbacks reveal the murder case that first introduced young Gibbs to NCIS and his introduction to young, new-to-America Ducky."
+      },
+      {
+        "id": "tvmaze:1968423",
+        "title": "Blood and Treasure",
+        "season": 18,
+        "episode": 3,
+        "released": "2020-12-08",
+        "overview": "The discovery of two dead bodies in a forest leads the NCIS team into the wild world of modern-day treasure hunting. Also, Gibbs and Fornell get deeper into their search for the opioid kingpin."
+      },
+      {
+        "id": "tvmaze:1973117",
+        "title": "Sunburn",
+        "season": 18,
+        "episode": 4,
+        "released": "2021-01-19",
+        "overview": "McGee and his wife Delilah's (Margo Harshman) Bahamian vacation turns into a high-stakes mission when a case NCIS is tracking of a dead escape room manager has ties to the island. Also, Gibbs fears the worst when his search for Fornell leads to blood."
+      },
+      {
+        "id": "tvmaze:1980008",
+        "title": "Head of the Snake",
+        "season": 18,
+        "episode": 5,
+        "released": "2021-01-19",
+        "overview": "Gibbs and Fornell's crusade to find the head of the drug ring responsible for Fornell's daughter Emily's overdose comes to a climax. Also, Gibbs and Vance finally let the team in on a case that has dangerous implications."
+      },
+      {
+        "id": "tvmaze:1980098",
+        "title": "1mm",
+        "season": 18,
+        "episode": 6,
+        "released": "2021-01-26",
+        "overview": "Following a tip about smuggled weapons, Bishop and Torres engage in a shootout in a former sheriff's residence that's now a historical site, only to find themselves locked in abandoned jail cells there."
+      },
+      {
+        "id": "tvmaze:1984534",
+        "title": "The First Day",
+        "season": 18,
+        "episode": 7,
+        "released": "2021-02-09",
+        "overview": "NCIS investigates the murder of a Navy officer who was killed while driving home a recently released inmate. Also, Gibbs helps Palmer deal with a personal trauma."
+      },
+      {
+        "id": "tvmaze:1995711",
+        "title": "True Believer",
+        "season": 18,
+        "episode": 8,
+        "released": "2021-03-02",
+        "overview": "When Sloane's name is discovered in Afghanistan at the site of an abandoned bus with a dead driver, Gibbs accompanies her on a trip to find a group of girls who were kidnapped from the bus. Also, McGee, Bishop and Torres track down a hacker who emailed compromising information to the Taliban."
+      },
+      {
+        "id": "tvmaze:1995712",
+        "title": "Winter Chill",
+        "season": 18,
+        "episode": 9,
+        "released": "2021-03-09",
+        "overview": "NCIS dives into the competitive world of food trucks after finding a man frozen to death in the back of one."
+      },
+      {
+        "id": "tvmaze:1995713",
+        "title": "Watchdog",
+        "season": 18,
+        "episode": 10,
+        "released": "2021-03-16",
+        "overview": "NCIS uncovers a secret dogfighting ring, which leads to an unexpected move by one of the team members."
+      },
+      {
+        "id": "tvmaze:1995714",
+        "title": "Gut Punch",
+        "season": 18,
+        "episode": 11,
+        "released": "2021-04-06",
+        "overview": "Vance assigns McGee, Torres and Bishop to COVID compliance duty at a foreign affairs summit, where they discover a link to another NCIS team's murder case."
+      },
+      {
+        "id": "tvmaze:2056369",
+        "title": "Sangre",
+        "season": 18,
+        "episode": 12,
+        "released": "2021-04-27",
+        "overview": "Evidence from the stabbing of a Marine Sergeant leads Torres to meet his father, Miguel, who left when he was a child."
+      },
+      {
+        "id": "tvmaze:2056401",
+        "title": "Misconduct",
+        "season": 18,
+        "episode": 13,
+        "released": "2021-05-04",
+        "overview": "While the team investigates a biker killed in a hit and run, Gibbs prepares to testify against a financial advisor who stole millions from his Navy clients."
+      },
+      {
+        "id": "tvmaze:2056402",
+        "title": "Unseen Improvements",
+        "season": 18,
+        "episode": 14,
+        "released": "2021-05-11",
+        "overview": "NCIS tracks a stolen laptop to the uncle of a young boy, Phineas, Gibbs' former neighbor."
+      },
+      {
+        "id": "tvmaze:2056403",
+        "title": "Blown Away",
+        "season": 18,
+        "episode": 15,
+        "released": "2021-05-18",
+        "overview": "When members of an NCIS Regional Enforcement Action Capabilities Training Team (REACT) are killed during an explosion, NCIS Special Agent Jessica Knight, the lone surviving member, helps crack the case using high tech body armor."
+      },
+      {
+        "id": "tvmaze:2056404",
+        "title": "Rule 91",
+        "season": 18,
+        "episode": 16,
+        "released": "2021-05-25",
+        "overview": "While pursuing a dangerous arms dealer, the team is shocked when Bishop is implicated in an old NSA leak. Also, Gibbs and Marcie realize the killer they've been tracking may be onto them."
+      },
+      {
+        "id": "tvmaze:2130370",
+        "title": "Blood in the Water",
+        "season": 19,
+        "episode": 1,
+        "released": "2021-09-20",
+        "overview": "As the NCIS team searches for Gibbs after wreckage from his boat is discovered, they find out he was tracking a serial killer with journalist Marcie Warren, who wrote an exposé on him."
+      },
+      {
+        "id": "tvmaze:2161251",
+        "title": "Nearly Departed",
+        "season": 19,
+        "episode": 2,
+        "released": "2021-09-27",
+        "overview": "While trying to find the serial killer Gibbs was after, the NCIS team discovers another person has been tracking the case as well."
+      },
+      {
+        "id": "tvmaze:2166143",
+        "title": "Road to Nowhere",
+        "season": 19,
+        "episode": 3,
+        "released": "2021-10-04",
+        "overview": "Gibbs and Parker go on a road trip to find one of the serial killer's victims. Also, Agent Knight goes undercover at a large manufacturing company with ties to the murders."
+      },
+      {
+        "id": "tvmaze:2172282",
+        "title": "Great Wide Open",
+        "season": 19,
+        "episode": 4,
+        "released": "2021-10-11",
+        "overview": "Gibbs and McGee head to Alaska while the team works at home to uncover the conspiracy behind the serial killer."
+      },
+      {
+        "id": "tvmaze:2175406",
+        "title": "Face the Strange",
+        "season": 19,
+        "episode": 5,
+        "released": "2021-10-18",
+        "overview": "The NCIS team investigates the death of a Navy commander whose body suddenly explodes before Jimmy can examine it."
+      },
+      {
+        "id": "tvmaze:2175407",
+        "title": "False Start",
+        "season": 19,
+        "episode": 6,
+        "released": "2021-11-01",
+        "overview": "NCIS investigates the death of a beloved Navy commander who trained some of the top athletes in the country."
+      },
+      {
+        "id": "tvmaze:2189693",
+        "title": "Docked",
+        "season": 19,
+        "episode": 7,
+        "released": "2021-11-08",
+        "overview": "NCIS investigates the death of a man on a cruise ship whose body is discovered in the ship's sauna by none other than McGee's mother-in-law, Judy."
+      },
+      {
+        "id": "tvmaze:2208215",
+        "title": "Peacekeeper",
+        "season": 19,
+        "episode": 8,
+        "released": "2021-11-29",
+        "overview": "NCIS investigates the case of a Navy reservist whose body is found in a beat-up car at the end of a gun range. Also, Kasie weighs the pros and cons of buying a gun."
+      },
+      {
+        "id": "tvmaze:2212283",
+        "title": "Collective Memory",
+        "season": 19,
+        "episode": 9,
+        "released": "2021-12-06",
+        "overview": "When a hotshot financial advisor is found shot at a naval station, NCIS investigates the case by interviewing the victim's three-dimensional hologram of herself, which she created before her death."
+      },
+      {
+        "id": "tvmaze:2212284",
+        "title": "Pledge of Allegiance",
+        "season": 19,
+        "episode": 10,
+        "released": "2022-01-03",
+        "overview": "NCIS is called in when Navy Chief Warrant Officer Rafi Nazar is suspected of trying to sell stolen classified Navy software used to pilot combat drones."
+      },
+      {
+        "id": "tvmaze:2243892",
+        "title": "All Hands",
+        "season": 19,
+        "episode": 11,
+        "released": "2022-01-17",
+        "overview": "After a civilian research vessel in the North Atlantic picks up a small boat of wounded Navy officers, NCIS arrives on the ship and is forced to hide after discovering terrorists on board. Also, Agent Knight takes a paper doll with her on the mission to capture photos for her niece's grade school class."
+      },
+      {
+        "id": "tvmaze:2244552",
+        "title": "Fight or Flight",
+        "season": 19,
+        "episode": 12,
+        "released": "2022-01-24",
+        "overview": "When the body of a Navy lieutenant is discovered missing an eye, the NCIS investigation leads to the world of cage fighting."
+      },
+      {
+        "id": "tvmaze:2244553",
+        "title": "The Helpers",
+        "season": 19,
+        "episode": 13,
+        "released": "2022-02-28",
+        "overview": "While investigating the death of an intruder at Quantico, Jimmy and Kasie are exposed to a deadly biotoxin, and the NCIS team calls on Doctor Carol Wilson for help as they race to find the antidote. Also, Torres tries to distract Jimmy's daughter, who came to the office to spend the day with her dad."
+      },
+      {
+        "id": "tvmaze:2273061",
+        "title": "First Steps",
+        "season": 19,
+        "episode": 14,
+        "released": "2022-03-07",
+        "overview": "As NCIS investigates the cause of death of a reservist Navy Seal surgeon, they're forced to bring Vance's daughter, Kayla, who recently trained with NCIS, to help with a highly dangerous mission."
+      },
+      {
+        "id": "tvmaze:2274938",
+        "title": "Thick as Thieves",
+        "season": 19,
+        "episode": 15,
+        "released": "2022-03-14",
+        "overview": "Parker's delinquent past resurfaces when NCIS is called to Philadelphia to investigate the death of a Navy petty officer."
+      },
+      {
+        "id": "tvmaze:2274939",
+        "title": "The Wake",
+        "season": 19,
+        "episode": 16,
+        "released": "2022-03-21",
+        "overview": "A gruesome mishap at a Navy petty officer's gender-reveal party leads NCIS to the case of a missing teacher that was popularized on a true crime podcast."
+      },
+      {
+        "id": "tvmaze:2274940",
+        "title": "Starting Over",
+        "season": 19,
+        "episode": 17,
+        "released": "2022-03-28",
+        "overview": "NCIS investigates the apparent suicide of a retired Navy officer who was in Palmer and Knight's grief group. Also, Torres gets a call from NCIS Special Agent Jane Tennant to come to Hawai'i when she gets a lead on a witness from a case they worked on together."
+      },
+      {
+        "id": "tvmaze:2301247",
+        "title": "Last Dance",
+        "season": 19,
+        "episode": 18,
+        "released": "2022-04-18",
+        "overview": "When an infamous arms dealer, Reymundo Diaz, is released from prison and bodies start piling up, Torres is forced to face the repercussions of his actions during an undercover operation he worked on years ago."
+      },
+      {
+        "id": "tvmaze:2303779",
+        "title": "The Brat Pack",
+        "season": 19,
+        "episode": 19,
+        "released": "2022-05-02",
+        "overview": "NCIS investigates a ring of clever teenage partygoers when a string of break-ins takes place at Marine Base Quantico. While working the case, Special Agent McGee forms a bond with one of the teens, Teagan Fields."
+      },
+      {
+        "id": "tvmaze:2303782",
+        "title": "All or Nothing",
+        "season": 19,
+        "episode": 20,
+        "released": "2022-05-16",
+        "overview": "NCIS investigates the unexpected death of a Navy reservist who was an investigative journalist. Also, Knight and Jimmy's budding romance is put on hold when a vital organ transfer goes fatally wrong."
+      },
+      {
+        "id": "tvmaze:2304588",
+        "title": "Birds of a Feather",
+        "season": 19,
+        "episode": 21,
+        "released": "2022-05-23",
+        "overview": "When Agent Parker is framed for murder, the team puts their jobs and lives on the line to buy time and uncover the truth."
+      },
+      {
+        "id": "tvmaze:2351654",
+        "title": "A Family Matter",
+        "season": 20,
+        "episode": 1,
+        "released": "2022-09-19",
+        "overview": "Special Agent Alden Parker is still on the run with his ex-wife Vivian, so the team investigates who from his past might have a personal vendetta against him in hopes of clearing Parker's name. Enlisting the help of NCIS: Hawai'i's Special Agent Jane Tennant and Computer Specialist Ernie Malick, who are in town meeting with Director Leon Vance in preparation for a global military exercise, the group tracks down their prime suspect, The Raven."
+      },
+      {
+        "id": "tvmaze:2390637",
+        "title": "Daddy Issues",
+        "season": 20,
+        "episode": 2,
+        "released": "2022-09-26",
+        "overview": "McGee's personal life and professional life intersect when a dad from his children's school is linked to a break-in at a government storage bunker."
+      },
+      {
+        "id": "tvmaze:2391177",
+        "title": "Unearth",
+        "season": 20,
+        "episode": 3,
+        "released": "2022-10-03",
+        "overview": "When a dead body is found at an ancient burial site that is thought to be cursed, the team tries to determine the motive and the symbolism behind the crime. Also, as Torres continues therapy with Dr. Grace, he discovers that their lives are in danger."
+      },
+      {
+        "id": "tvmaze:2395037",
+        "title": "Leave No Trace",
+        "season": 20,
+        "episode": 4,
+        "released": "2022-10-10",
+        "overview": "Agent Knight's past resurfaces when her ex-boyfriend, a National Parks Service agent, teams up with NCIS to investigate a campsite murder."
+      },
+      {
+        "id": "tvmaze:2399090",
+        "title": "Guardian",
+        "season": 20,
+        "episode": 5,
+        "released": "2022-10-17",
+        "overview": "Agent Parker steps up to protect Director Vance after a terrifying home invasion. Also, the team detects advancements in Jessica and Jimmy's blossoming romance."
+      },
+      {
+        "id": "tvmaze:2408173",
+        "title": "The Good Fighter",
+        "season": 20,
+        "episode": 6,
+        "released": "2022-10-24",
+        "overview": "When an NCIS agent turns up dead and Kasie goes unaccounted for, the team must work quickly to find the killer."
+      },
+      {
+        "id": "tvmaze:2418416",
+        "title": "Love Lost",
+        "season": 20,
+        "episode": 7,
+        "released": "2022-11-14",
+        "overview": "NCIS must investigate the Secretary of the Navy when her husband claims she tried to murder him."
+      },
+      {
+        "id": "tvmaze:2422056",
+        "title": "Turkey Trot",
+        "season": 20,
+        "episode": 8,
+        "released": "2022-11-21",
+        "overview": "After an unknown shooter causes chaos at an annual Thanksgiving 5K, time is of the essence for the NCIS team to find the culprit. Also, Kasie joins Knight for Thanksgiving lunch at Knight's sister's house."
+      },
+      {
+        "id": "tvmaze:2428291",
+        "title": "Higher Education",
+        "season": 20,
+        "episode": 9,
+        "released": "2022-12-05",
+        "overview": "NCIS investigates the death of a college student who was killed while running across the street and had connections to McGee's wife, Delilah."
+      },
+      {
+        "id": "tvmaze:2430174",
+        "title": "Too Many Cooks",
+        "season": 20,
+        "episode": 10,
+        "released": "2023-01-09",
+        "overview": "NCIS agents from Washington, D.C., Los Angeles, and Hawai'i are all in D.C. to attend the retirement party of a beloved Federal Law Enforcement Training Center (FLETC) professor, finding themselves jointly investigating his shocking suicide."
+      },
+      {
+        "id": "tvmaze:2430173",
+        "title": "Bridges",
+        "season": 20,
+        "episode": 11,
+        "released": "2023-01-16",
+        "overview": "Parker discovers he's a victim of identity theft while investigating the unusual murder of a Navy ensign. Also, Knight and Jimmy face hurdles in their relationship as their connection heightens."
+      },
+      {
+        "id": "tvmaze:2468890",
+        "title": "Big Rig",
+        "season": 20,
+        "episode": 12,
+        "released": "2023-01-23",
+        "overview": "When an old pal of Torres' comes to him – disheveled and bloodied – for guidance amidst an undercover FBI operation and then disappears, NCIS helps track him down. Also, McGee prepares to be a contestant on a popular game show."
+      },
+      {
+        "id": "tvmaze:2469110",
+        "title": "Evil Eye",
+        "season": 20,
+        "episode": 13,
+        "released": "2023-02-06",
+        "overview": "In preparation for a role, a world-renowned actress shadows the NCIS team as they investigate a decapitation case."
+      },
+      {
+        "id": "tvmaze:2475803",
+        "title": "Old Wounds",
+        "season": 20,
+        "episode": 14,
+        "released": "2023-02-13",
+        "overview": "Parker grapples with his emotions when a conman from his past turns up as a prime suspect in the murder of a navy officer transporting millions of dollars' worth of opioids."
+      },
+      {
+        "id": "tvmaze:2484320",
+        "title": "Unusual Suspects",
+        "season": 20,
+        "episode": 15,
+        "released": "2023-02-27",
+        "overview": "NCIS investigates the death of a ride-share driver who was found after a car accident. Also, Parker's dad, who is temporarily living with him, assists the team in their investigation."
+      },
+      {
+        "id": "tvmaze:2492342",
+        "title": "Butterfly Effect",
+        "season": 20,
+        "episode": 16,
+        "released": "2023-03-13",
+        "overview": "The NCIS team jumps into motion to investigate who is responsible for a potential bio terror attack at a strip mall parking garage. Also, Knight's father deals with a health scare while in Japan."
+      },
+      {
+        "id": "tvmaze:2495861",
+        "title": "Stranger in a Strange Land",
+        "season": 20,
+        "episode": 17,
+        "released": "2023-03-20",
+        "overview": "NCIS works to solve the murder of a Marine private who appears to have been killed for helping an Afghan refugee. Also, Jimmy navigates the pressure of parenting his teenage daughter, who is eager to go out on an unchaperoned group date"
+      },
+      {
+        "id": "tvmaze:2502930",
+        "title": "Head Games",
+        "season": 20,
+        "episode": 18,
+        "released": "2023-04-10",
+        "overview": "The NCIS team digs deep to investigate a Navy lieutenant who's accused of trying to murder her husband but has no memory of the attack. Also, Kasie navigates a potential medical scare."
+      },
+      {
+        "id": "tvmaze:2502931",
+        "title": "In the Spotlight",
+        "season": 20,
+        "episode": 19,
+        "released": "2023-05-01",
+        "overview": "Agent Knight goes viral for saving a mother and child from a potentially fatal car accident."
+      },
+      {
+        "id": "tvmaze:2506044",
+        "title": "Second Opinion",
+        "season": 20,
+        "episode": 20,
+        "released": "2023-05-08",
+        "overview": "NCIS works to solve the murder of a senator's daughter who has a rebellious reputation and large online following. Also, Jimmy gets competitive with an old college rival."
+      },
+      {
+        "id": "tvmaze:2506045",
+        "title": "Kompromat",
+        "season": 20,
+        "episode": 21,
+        "released": "2023-05-15",
+        "overview": "When a suspicious murder occurs in the classified section of the National Archive, NCIS must investigate a string of Russian spy encounters that may be linked to the crime. Also, Jimmy accidentally makes a confession that could change the course of his relationship with Knight."
+      },
+      {
+        "id": "tvmaze:2506046",
+        "title": "Black Sky",
+        "season": 20,
+        "episode": 22,
+        "released": "2023-05-22",
+        "overview": "Agent Torres finds himself in prison as the team tries to stop an impending terror attack."
+      },
+      {
+        "id": "tvmaze:2687416",
+        "title": "Algún Día",
+        "season": 21,
+        "episode": 1,
+        "released": "2024-02-12",
+        "overview": "The NCIS team must help Torres when he puts his future at stake by confronting the man who tormented his family when he was a child."
+      },
+      {
+        "id": "tvmaze:2749697",
+        "title": "The Stories We Leave Behind",
+        "season": 21,
+        "episode": 2,
+        "released": "2024-02-19",
+        "overview": "As NCIS mourns the loss of Ducky, the agents find comfort in working on one of his unfinished cases involving a woman whose father was dishonorably discharged from the Marines."
+      },
+      {
+        "id": "tvmaze:2749776",
+        "title": "Lifeline",
+        "season": 21,
+        "episode": 3,
+        "released": "2024-02-26",
+        "overview": "When the NCIS team engages in Walk-a-Mile day to gain a new perspectives on different departments, things take a turn when Kasie receives a distress call from a mysterious man."
+      },
+      {
+        "id": "tvmaze:2767794",
+        "title": "Left Unsaid",
+        "season": 21,
+        "episode": 4,
+        "released": "2024-03-04",
+        "overview": "The NCIS team is in a race against time to find a missing officer who disappeared during his wedding proposal."
+      },
+      {
+        "id": "tvmaze:2783283",
+        "title": "The Plan",
+        "season": 21,
+        "episode": 5,
+        "released": "2024-03-25",
+        "overview": "With the help of Knight's dad, Special Agent in Charge Feng Zhao, NCIS works to unravel the mystery of a recently used service weapon belonging to a missing agent. Also, McGee is in a tailspin when DNA results reveal a close relative he was unaware of."
+      },
+      {
+        "id": "tvmaze:2793879",
+        "title": "Strange Invaders",
+        "season": 21,
+        "episode": 6,
+        "released": "2024-04-01",
+        "overview": "After discovering a navy pilot's body riddled with unusual wounds, NCIS' investigation draws the team into the rabbit hole of UFO conspiracy theories."
+      },
+      {
+        "id": "tvmaze:2802153",
+        "title": "A Thousand Yards",
+        "season": 21,
+        "episode": 7,
+        "released": "2024-04-15",
+        "overview": "NCIS comes under attack by a mysterious enemy from the past. Also, Vance tries to mend fences with his estranged son by explaining why, despite the ongoing dangers of his job, he still chooses to stay at NCIS."
+      },
+      {
+        "id": "tvmaze:2809339",
+        "title": "Heartless",
+        "season": 21,
+        "episode": 8,
+        "released": "2024-04-22",
+        "overview": "The NCIS team looks for a motive behind the kidnapping and death of a famous heart surgeon."
+      },
+      {
+        "id": "tvmaze:2818371",
+        "title": "Prime Cut",
+        "season": 21,
+        "episode": 9,
+        "released": "2024-04-29",
+        "overview": "After discovering the remains of a Marine captain, the NCIS team travels to Texas to interrogate the suspected killer."
+      },
+      {
+        "id": "tvmaze:2824011",
+        "title": "Reef Madness",
+        "season": 21,
+        "episode": 10,
+        "released": "2024-05-06",
+        "overview": "Parker and Knight discover three bodies on an old Navy ship that's about to be sunk and turned into an artificial reef, when they're suddenly locked inside by a mysterious figure. Also, Vance offers Knight a unique opportunity."
+      },
+      {
+        "id": "tvmaze:2941426",
+        "title": "Empty Nest",
+        "season": 22,
+        "episode": 1,
+        "released": "2024-10-14",
+        "overview": "NCIS searches for a missing undercover agent in the midst of an active hostage situation."
+      },
+      {
+        "id": "tvmaze:2941427",
+        "title": "Foreign Bodies",
+        "season": 22,
+        "episode": 2,
+        "released": "2024-10-21",
+        "overview": "As Vance prepares to host diplomatic talks with Venezuela, the team is called in to investigate the dead body of one of his inside men."
+      },
+      {
+        "id": "tvmaze:3020428",
+        "title": "The Trouble with Hal",
+        "season": 22,
+        "episode": 3,
+        "released": "2024-10-28",
+        "overview": "NCIS is called in to investigate when a lieutenant returns home on Halloween Eve to find a surprise party being thrown for someone else at his home."
+      },
+      {
+        "id": "tvmaze:3025790",
+        "title": "Sticks & Stones",
+        "season": 22,
+        "episode": 4,
+        "released": "2024-11-04",
+        "overview": "After receiving intelligence on deadly threats to multiple locations that could lead to a catastrophic war, NCIS is called in to try to neutralize the danger."
+      },
+      {
+        "id": "tvmaze:3029704",
+        "title": "In from the Cold",
+        "season": 22,
+        "episode": 5,
+        "released": "2024-11-11",
+        "overview": "NCIS works with the CIA to discover what secrets are being kept by Captain Butler, an aging former spy."
+      },
+      {
+        "id": "tvmaze:3034718",
+        "title": "Knight and Day",
+        "season": 22,
+        "episode": 6,
+        "released": "2024-11-25",
+        "overview": "Things become tense when Knight is assigned to protect his wife after the home of a high-level defense contractor is attacked."
+      },
+      {
+        "id": "tvmaze:3034719",
+        "title": "Hardboiled",
+        "season": 22,
+        "episode": 7,
+        "released": "2024-12-02",
+        "overview": "Torres receives intel from a confidential informant regarding top secret naval information that's at risk of being sold."
+      },
+      {
+        "id": "tvmaze:3034720",
+        "title": "Out of Control",
+        "season": 22,
+        "episode": 8,
+        "released": "2024-12-09",
+        "overview": "NCIS investigates a murder related to a car that begins driving on its own. Also, Parker is still seeing visions of Lily."
+      },
+      {
+        "id": "tvmaze:3034721",
+        "title": "Humbug",
+        "season": 22,
+        "episode": 9,
+        "released": "2024-12-16",
+        "overview": "When a shocking tell-all threatens to ruin Christmas for a decorated Marine, NCIS must unwrap the truth and deliver a holiday miracle — before the book hits shelves and turns a hero's legacy into a holiday disaster."
+      },
+      {
+        "id": "tvmaze:3052230",
+        "title": "Baker's Man",
+        "season": 22,
+        "episode": 10,
+        "released": "2025-01-27",
+        "overview": "After NCIS learns that the owner of Parker's favorite bakery is being blackmailed, they hatch a plan to save her."
+      },
+      {
+        "id": "tvmaze:3107635",
+        "title": "For Better or Worse",
+        "season": 22,
+        "episode": 11,
+        "released": "2025-02-03",
+        "overview": "NCIS stages a fake wedding for two of its own in an attempt to take down the mob."
+      },
+      {
+        "id": "tvmaze:3113331",
+        "title": "Fun and Games",
+        "season": 22,
+        "episode": 12,
+        "released": "2025-02-10",
+        "overview": "NCIS investigates the fatal poisoning of one of Kasie's forensic scientists. Meanwhile, McGee is questioned by the Pentagon regarding the contents of his book."
+      },
+      {
+        "id": "tvmaze:3129896",
+        "title": "Bad Blood",
+        "season": 22,
+        "episode": 13,
+        "released": "2025-02-24",
+        "overview": "NCIS investigates the case of a Navy lieutenant found dead at a blood donation bank. Also, McGee needs help from the team to raise money for his twins' school fundraiser."
+      },
+      {
+        "id": "tvmaze:3140013",
+        "title": "Close to Home",
+        "season": 22,
+        "episode": 14,
+        "released": "2025-03-03",
+        "overview": "When Torres receives a text from Jimmy's daughter who has discovered a large sum of money near the naval library, the team works together to investigate."
+      },
+      {
+        "id": "tvmaze:3159971",
+        "title": "Moonlit",
+        "season": 22,
+        "episode": 15,
+        "released": "2025-03-24",
+        "overview": "After a Navy Lieutenant's death reveals ties to Special Agent Sawyer, Torres and Knight uncover a murder linked to a wealthy family. Meanwhile, Parker discovers a shocking connection between his mother's death and Lily."
+      },
+      {
+        "id": "tvmaze:3163482",
+        "title": "Ladies' Night",
+        "season": 22,
+        "episode": 16,
+        "released": "2025-03-31",
+        "overview": "A girls' night out takes an unexpected turn when NCIS is called to investigate the motive of a possible arsonist. Also, Torres struggles to find work/life balance."
+      },
+      {
+        "id": "tvmaze:3170001",
+        "title": "Killer Instinct",
+        "season": 22,
+        "episode": 17,
+        "released": "2025-04-14",
+        "overview": "After NCIS captures the hitman known as \"The Poet,\" the team races to uncover who ordered the assassination of a Navy chief."
+      },
+      {
+        "id": "tvmaze:3180860",
+        "title": "After the Storm",
+        "season": 22,
+        "episode": 18,
+        "released": "2025-04-21",
+        "overview": "When a trio of combat vets are found murdered in a D.C. motel room, NCIS tracks down a suspect who refuses to talk to anyone but Sam Hanna."
+      },
+      {
+        "id": "tvmaze:3180996",
+        "title": "Irreconcilable Differences",
+        "season": 22,
+        "episode": 19,
+        "released": "2025-04-28",
+        "overview": "McGee's career and credibility are on the line when he investigates the deputy director for corruption. Also, Torres and Knight receive some surprising news."
+      },
+      {
+        "id": "tvmaze:3180997",
+        "title": "Nexus",
+        "season": 22,
+        "episode": 20,
+        "released": "2025-05-05",
+        "overview": "As NCIS investigates a dangerous connection between the Nexus cartel and Parker's longtime nemesis, mob boss Carla Marino, the team uncovers a high-stakes plot involving stolen nuclear material. With time running out, Parker is forced into an uneasy alliance that could determine the fate of the operation - and his own future."
+      },
+      {
+        "id": "tvmaze:3301115",
+        "title": "Prodigal Son (Part I)",
+        "season": 23,
+        "episode": 1,
+        "released": "2025-10-14",
+        "overview": "Reeling from his father's murder, Parker goes to extreme lengths to hunt down the woman he holds responsible, mob boss Carla Marino, jeopardizing not only his own future but the team's."
+      },
+      {
+        "id": "tvmaze:3355623",
+        "title": "Prodigal Son (Part II)",
+        "season": 23,
+        "episode": 2,
+        "released": "2025-10-21",
+        "overview": "Parker's pursuit of vengeance for his father's murder could have deadly consequences, while his sister, Navy Vice Admiral Harriet Parker, faces an impossible choice."
+      },
+      {
+        "id": "tvmaze:3372395",
+        "title": "The Sound and the Fury",
+        "season": 23,
+        "episode": 3,
+        "released": "2025-10-28",
+        "overview": "When a petty officer's death is connected to a blackmail investigation, the team is forced to work with Special Agent Sawyer on the case, which takes a terrifying turn for Torres. Meanwhile, Knight is offered an opportunity to train with NCIS Elite."
+      },
+      {
+        "id": "tvmaze:3372394",
+        "title": "Gone Girls",
+        "season": 23,
+        "episode": 4,
+        "released": "2025-11-04",
+        "overview": "The team investigates a U.S. marine who is believed to have kidnapped the wife of one of the most powerful men at the Department of Justice."
+      },
+      {
+        "id": "tvmaze:3372458",
+        "title": "Now and Then",
+        "season": 23,
+        "episode": 5,
+        "released": "2025-11-11",
+        "overview": "A prison break by an inmate who had just three weeks left on a sentence compels the team to reopen the case of a naval officer's death that was originally investigated by Gibbs and Franks in the ‘90s, and enlist the help of retired special agent Vera Strickland. Also, the team has different views on what to include in a special Navy time capsule."
+      },
+      {
+        "id": "tvmaze:3401741",
+        "title": "Page-Turner",
+        "season": 23,
+        "episode": 6,
+        "released": "2025-11-18",
+        "overview": "When McGee is kidnapped while promoting his latest book in the Deep Six crime series, the team investigates his self-professed \"#1 fan\" - and a potential link to a murder case involving stolen classified documents."
+      },
+      {
+        "id": "tvmaze:3401742",
+        "title": "God Only Knows",
+        "season": 23,
+        "episode": 7,
+        "released": "2025-12-02",
+        "overview": "A kidnapped teen leads the team to a Navy SEAL who survived captivity by the Taliban but may have committed murder after returning home. Also, Jimmy finally shares his findings about the mysterious death of Parker's mother with his boss."
+      },
+      {
+        "id": "tvmaze:3401743",
+        "title": "Stolen Moments",
+        "season": 23,
+        "episode": 8,
+        "released": "2025-12-09",
+        "overview": "When a man is shot by the Secret Service outside the vice president's official residence, NCIS is aided in the case by a new member of the team: an AI chatbot being beta-tested by the Department of Justice."
+      },
+      {
+        "id": "tvmaze:3401744",
+        "title": "Heaven and Nature",
+        "season": 23,
+        "episode": 9,
+        "released": "2025-12-16",
+        "overview": "McGee and Torres try to recover a stolen truck filled with toys for the Navy's annual Christmas drive while the truth about Parker's mother is finally revealed. Also, Knight is given her first NCIS: Elite mission."
+      },
+      {
+        "id": "tvmaze:3443461",
+        "title": "TBA",
+        "season": 23,
+        "episode": 10,
+        "released": "2026-02-24",
+        "overview": ""
+      }
+    ]
+  }
+}

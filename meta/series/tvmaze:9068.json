@@ -1,0 +1,860 @@
+{
+  "meta": {
+    "id": "tvmaze:9068",
+    "type": "series",
+    "name": "The Five",
+    "description": "The Five is an American news and talk show on Fox News Channel featuring a rotating panel who discuss current stories, political issues, and pop culture. The show premiered in July 2011, replacing the Glenn Beck program, and airs on weekdays at 5:00 p.m. ET with replays at 4:00 a.m. ET. On October 3, 2011, after successful ratings and high popularity, Fox News announced that The Five would become the permanent 5 p.m. series, as the program had previously been announced to last only during the summer. The Five is currently the second-most-watched program in all of cable news in the United States, placing only behind The O'Reilly Factor, also on the Fox News Channel. The program has occasionally been the number one rated cable news series in the key 25 to 54 viewing demographic.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/473/1182683.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/473/1182683.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458334",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458334",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458333",
+        "title": "Episode 244",
+        "season": 2025,
+        "episode": 244,
+        "released": "2025-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458334",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458332",
+        "title": "Episode 243",
+        "season": 2025,
+        "episode": 243,
+        "released": "2025-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458334",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458334",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458334",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458331",
+        "title": "Episode 242",
+        "season": 2025,
+        "episode": 242,
+        "released": "2025-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458334",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458330",
+        "title": "Episode 241",
+        "season": 2025,
+        "episode": 241,
+        "released": "2025-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458334",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458329",
+        "title": "Episode 240",
+        "season": 2025,
+        "episode": 240,
+        "released": "2025-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458334",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458335",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458336",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458337",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458338",
+        "title": "Episode 249",
+        "season": 2025,
+        "episode": 249,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458339",
+        "title": "Episode 250",
+        "season": 2025,
+        "episode": 250,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458340",
+        "title": "Episode 251",
+        "season": 2025,
+        "episode": 251,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458341",
+        "title": "Episode 252",
+        "season": 2025,
+        "episode": 252,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458342",
+        "title": "Episode 253",
+        "season": 2025,
+        "episode": 253,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3458343",
+        "title": "Episode 254",
+        "season": 2025,
+        "episode": 254,
+        "released": "2025-12-23",
+        "overview": ""
+      }
+    ]
+  }
+}

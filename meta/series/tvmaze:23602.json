@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:23602",
+    "type": "series",
+    "name": "Sunday TODAY with Willie Geist",
+    "description": "Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/127/319778.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/127/319778.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3451236",
+        "title": "Jamie Lee Curtis",
+        "season": 2025,
+        "episode": 48,
+        "released": "2025-12-07",
+        "overview": "In this week's Sunday Sitdown, iconic actor Jamie Lee Curtis joins Willie Geist to share her role in the new film from James L. Brooks called \"Ella McCay.\" Curtis talks about embracing age, reveals why she has tried to claim retirement on her own terms and also opens up about the Oscar and Emmy-winning run she's been on over the last couple of years. Ceremonies will be held on Sunday in honor of the 84th anniversary of the attack on Pearl Harbor. Only 12 survivors, all over the age of 100, are still alive today and for the first time, none are able to attend this year's ceremony at the site of the attack. A selection committee is huddled in Texas debating which college football teams will be in the 12-team playoff and which deserving hopefuls will be left-out. The unveiling of that bracket comes after a busy Saturday of conference championship games that provided new plot twists to the drama. NBC's Morgan Chesky reports for Sunday TODAY. The bitter blast of cold that has gripped the Midwest and Northeast is sticking around for a few more days. Temperatures in the Northeast could drop by another 10 degrees on Monday with many areas not expected to get above freezing. Netflix announced this week that it would be purchasing Warner Brothers. The consolidation of the two behemoths may be good for business, but some producers and politicians are not as excited about the deal. NBC's Chloe Melas reports in this week's Sunday Focus."
+      }
+    ]
+  }
+}

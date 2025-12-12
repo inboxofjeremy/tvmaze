@@ -1,0 +1,5404 @@
+{
+  "meta": {
+    "id": "tvmaze:10268",
+    "type": "series",
+    "name": "NFL Primetime",
+    "description": "This longtime ESPN staple doesn't air in prime time anymore, and the original tag team of Chris Berman and Tom Jackson are no longer involved. But it lives on, albeit in a slightly different form, with host Trey Wingo presenting a shorter-form highlights package of Sunday's NFL action coupled with more in-depth analysis from former players Merril Hoge and Tim Hasselbeck.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016513.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016513.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3359940",
+        "title": "Week 14",
+        "season": 2025,
+        "episode": 14,
+        "released": "2025-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1976001",
+        "title": "1987 Week 1",
+        "season": 1987,
+        "episode": 1,
+        "released": "1987-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1976000",
+        "title": "1987 Week 2",
+        "season": 1987,
+        "episode": 2,
+        "released": "1987-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975999",
+        "title": "1987 Week 3",
+        "season": 1987,
+        "episode": 3,
+        "released": "1987-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975998",
+        "title": "1987 Week 4",
+        "season": 1987,
+        "episode": 4,
+        "released": "1987-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975997",
+        "title": "1987 Week 5",
+        "season": 1987,
+        "episode": 5,
+        "released": "1987-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975996",
+        "title": "1987 Week 6",
+        "season": 1987,
+        "episode": 6,
+        "released": "1987-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975994",
+        "title": "1987 Week 7",
+        "season": 1987,
+        "episode": 7,
+        "released": "1987-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975993",
+        "title": "1987 Week 8",
+        "season": 1987,
+        "episode": 8,
+        "released": "1987-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975992",
+        "title": "1987 Week 9",
+        "season": 1987,
+        "episode": 9,
+        "released": "1987-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975991",
+        "title": "1987 Week 10",
+        "season": 1987,
+        "episode": 10,
+        "released": "1987-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975990",
+        "title": "1987 Week 11",
+        "season": 1987,
+        "episode": 11,
+        "released": "1987-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975989",
+        "title": "1987 Week 12",
+        "season": 1987,
+        "episode": 12,
+        "released": "1987-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975988",
+        "title": "1987 Week 13",
+        "season": 1987,
+        "episode": 13,
+        "released": "1987-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975987",
+        "title": "1987 Week 14",
+        "season": 1987,
+        "episode": 14,
+        "released": "1987-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975986",
+        "title": "1987 Week 15",
+        "season": 1987,
+        "episode": 15,
+        "released": "1987-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975985",
+        "title": "1987 Week 16",
+        "season": 1987,
+        "episode": 16,
+        "released": "1987-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975984",
+        "title": "1987 Wild Card Round",
+        "season": 1987,
+        "episode": 17,
+        "released": "1988-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975983",
+        "title": "1987 Divisional Playoff Round (1)",
+        "season": 1987,
+        "episode": 18,
+        "released": "1988-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975982",
+        "title": "1987 Divisional Playoff Round (2)",
+        "season": 1987,
+        "episode": 19,
+        "released": "1988-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975981",
+        "title": "1987 Conference Championships",
+        "season": 1987,
+        "episode": 20,
+        "released": "1988-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975980",
+        "title": "Super Bowl XXII",
+        "season": 1987,
+        "episode": 21,
+        "released": "1988-01-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975979",
+        "title": "1988 Week 1",
+        "season": 1988,
+        "episode": 1,
+        "released": "1988-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975978",
+        "title": "1988 Week 2",
+        "season": 1988,
+        "episode": 2,
+        "released": "1988-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975977",
+        "title": "1988 Week 3",
+        "season": 1988,
+        "episode": 3,
+        "released": "1988-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975976",
+        "title": "1988 Week 4",
+        "season": 1988,
+        "episode": 4,
+        "released": "1988-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975975",
+        "title": "1988 Week 5",
+        "season": 1988,
+        "episode": 5,
+        "released": "1988-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975974",
+        "title": "1988 Week 6",
+        "season": 1988,
+        "episode": 6,
+        "released": "1988-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975973",
+        "title": "1988 Week 7",
+        "season": 1988,
+        "episode": 7,
+        "released": "1988-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975972",
+        "title": "1988 Week 8",
+        "season": 1988,
+        "episode": 8,
+        "released": "1988-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975971",
+        "title": "1988 Week 9",
+        "season": 1988,
+        "episode": 9,
+        "released": "1988-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975970",
+        "title": "1988 Week 10",
+        "season": 1988,
+        "episode": 10,
+        "released": "1988-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975969",
+        "title": "1988 Week 11",
+        "season": 1988,
+        "episode": 11,
+        "released": "1988-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975968",
+        "title": "1988 Week 12",
+        "season": 1988,
+        "episode": 12,
+        "released": "1988-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975967",
+        "title": "1988 Week 13",
+        "season": 1988,
+        "episode": 13,
+        "released": "1988-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975966",
+        "title": "1988 Week 14",
+        "season": 1988,
+        "episode": 14,
+        "released": "1988-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975965",
+        "title": "1988 Week 15",
+        "season": 1988,
+        "episode": 15,
+        "released": "1988-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975964",
+        "title": "1988 Week 16",
+        "season": 1988,
+        "episode": 16,
+        "released": "1988-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975963",
+        "title": "1988 Wild Card Round (1)",
+        "season": 1988,
+        "episode": 17,
+        "released": "1988-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975962",
+        "title": "1988 Wild Card Round (2)",
+        "season": 1988,
+        "episode": 18,
+        "released": "1988-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975961",
+        "title": "1988 NFL Playoff Divisional Round (1)",
+        "season": 1988,
+        "episode": 19,
+        "released": "1988-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975960",
+        "title": "1988 NFL Playoff Divisional Round (2)",
+        "season": 1988,
+        "episode": 20,
+        "released": "1989-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975959",
+        "title": "1988 Conference Championships",
+        "season": 1988,
+        "episode": 21,
+        "released": "1989-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975958",
+        "title": "Super Bowl XXIII",
+        "season": 1988,
+        "episode": 22,
+        "released": "1989-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972129",
+        "title": "1989 Week 1",
+        "season": 1989,
+        "episode": 1,
+        "released": "1989-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972130",
+        "title": "1989 Week 2",
+        "season": 1989,
+        "episode": 2,
+        "released": "1989-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972131",
+        "title": "1989 Week 3",
+        "season": 1989,
+        "episode": 3,
+        "released": "1989-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972132",
+        "title": "1989 Week 4",
+        "season": 1989,
+        "episode": 4,
+        "released": "1989-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972133",
+        "title": "1989 Week 5",
+        "season": 1989,
+        "episode": 5,
+        "released": "1989-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972134",
+        "title": "1989 Week 6",
+        "season": 1989,
+        "episode": 6,
+        "released": "1989-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972135",
+        "title": "1989 Week 7",
+        "season": 1989,
+        "episode": 7,
+        "released": "1989-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972136",
+        "title": "1989 Week 8",
+        "season": 1989,
+        "episode": 8,
+        "released": "1989-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972137",
+        "title": "1989 Week 9",
+        "season": 1989,
+        "episode": 9,
+        "released": "1989-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972138",
+        "title": "1989 Week 10",
+        "season": 1989,
+        "episode": 10,
+        "released": "1989-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972139",
+        "title": "1989 Week 11",
+        "season": 1989,
+        "episode": 11,
+        "released": "1989-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972140",
+        "title": "1989 Week 12",
+        "season": 1989,
+        "episode": 12,
+        "released": "1989-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972141",
+        "title": "1989 Week 13",
+        "season": 1989,
+        "episode": 13,
+        "released": "1989-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972142",
+        "title": "1989 Week 14",
+        "season": 1989,
+        "episode": 14,
+        "released": "1989-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972143",
+        "title": "1989 Week 15",
+        "season": 1989,
+        "episode": 15,
+        "released": "1989-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972144",
+        "title": "1989 Week 16",
+        "season": 1989,
+        "episode": 16,
+        "released": "1989-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972145",
+        "title": "1989 Wild Card Round",
+        "season": 1989,
+        "episode": 17,
+        "released": "1989-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972146",
+        "title": "1989 NFL Playoff Divisional Round (1)",
+        "season": 1989,
+        "episode": 18,
+        "released": "1990-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972147",
+        "title": "1989 NFL Playoff Divisional Round (2)",
+        "season": 1989,
+        "episode": 19,
+        "released": "1990-01-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972148",
+        "title": "1989 Conference Championships",
+        "season": 1989,
+        "episode": 20,
+        "released": "1990-01-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972149",
+        "title": "Super Bowl XXIV",
+        "season": 1989,
+        "episode": 21,
+        "released": "1990-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972150",
+        "title": "1990 Week 1",
+        "season": 1990,
+        "episode": 1,
+        "released": "1990-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972151",
+        "title": "1990 Week 2",
+        "season": 1990,
+        "episode": 2,
+        "released": "1990-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972152",
+        "title": "1990 Week 3",
+        "season": 1990,
+        "episode": 3,
+        "released": "1990-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972153",
+        "title": "1990 Week 4",
+        "season": 1990,
+        "episode": 4,
+        "released": "1990-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972154",
+        "title": "1990 Week 5",
+        "season": 1990,
+        "episode": 5,
+        "released": "1990-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972155",
+        "title": "1990 Week 6",
+        "season": 1990,
+        "episode": 6,
+        "released": "1990-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972156",
+        "title": "1990 Week 7",
+        "season": 1990,
+        "episode": 7,
+        "released": "1990-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972157",
+        "title": "1990 Week 8",
+        "season": 1990,
+        "episode": 8,
+        "released": "1990-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972158",
+        "title": "1990 Week 9",
+        "season": 1990,
+        "episode": 9,
+        "released": "1990-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972159",
+        "title": "1990 Week 10",
+        "season": 1990,
+        "episode": 10,
+        "released": "1990-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972160",
+        "title": "1990 Week 11",
+        "season": 1990,
+        "episode": 11,
+        "released": "1990-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972161",
+        "title": "1990 Week 12",
+        "season": 1990,
+        "episode": 12,
+        "released": "1990-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972162",
+        "title": "1990 Week 13",
+        "season": 1990,
+        "episode": 13,
+        "released": "1990-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972163",
+        "title": "1990 Week 14",
+        "season": 1990,
+        "episode": 14,
+        "released": "1990-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972164",
+        "title": "1990 Week 15",
+        "season": 1990,
+        "episode": 15,
+        "released": "1990-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972165",
+        "title": "1990 Week 16",
+        "season": 1990,
+        "episode": 16,
+        "released": "1990-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972166",
+        "title": "1990 Week 17",
+        "season": 1990,
+        "episode": 17,
+        "released": "1990-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972167",
+        "title": "1990 Wild Card Round (1)",
+        "season": 1990,
+        "episode": 18,
+        "released": "1991-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972168",
+        "title": "1990 Wild Card Round (2)",
+        "season": 1990,
+        "episode": 19,
+        "released": "1991-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972169",
+        "title": "1990 NFL Playoff Divisional Round (1)",
+        "season": 1990,
+        "episode": 20,
+        "released": "1991-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972170",
+        "title": "1990 NFL Playoff Divisional Round (2)",
+        "season": 1990,
+        "episode": 21,
+        "released": "1991-01-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972171",
+        "title": "1990 Conference Championships",
+        "season": 1990,
+        "episode": 22,
+        "released": "1991-01-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972172",
+        "title": "Super Bowl XXV",
+        "season": 1990,
+        "episode": 23,
+        "released": "1991-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972173",
+        "title": "1991 Week 1",
+        "season": 1991,
+        "episode": 1,
+        "released": "1991-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972174",
+        "title": "1991 Week 2",
+        "season": 1991,
+        "episode": 2,
+        "released": "1991-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972175",
+        "title": "1991 Week 3",
+        "season": 1991,
+        "episode": 3,
+        "released": "1991-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972176",
+        "title": "1991 Week 4",
+        "season": 1991,
+        "episode": 4,
+        "released": "1991-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972177",
+        "title": "1991 Week 5",
+        "season": 1991,
+        "episode": 5,
+        "released": "1991-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972178",
+        "title": "1991 Week 6",
+        "season": 1991,
+        "episode": 6,
+        "released": "1991-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972179",
+        "title": "1991 Week 7",
+        "season": 1991,
+        "episode": 7,
+        "released": "1991-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972180",
+        "title": "1991 Week 8",
+        "season": 1991,
+        "episode": 8,
+        "released": "1991-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972181",
+        "title": "1991 Week 9",
+        "season": 1991,
+        "episode": 9,
+        "released": "1991-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972182",
+        "title": "1991 Week 10",
+        "season": 1991,
+        "episode": 10,
+        "released": "1991-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972183",
+        "title": "1991 Week 11",
+        "season": 1991,
+        "episode": 11,
+        "released": "1991-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972184",
+        "title": "1991 Week 12",
+        "season": 1991,
+        "episode": 12,
+        "released": "1991-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972185",
+        "title": "1991 Week 13",
+        "season": 1991,
+        "episode": 13,
+        "released": "1991-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972186",
+        "title": "1991 Week 14",
+        "season": 1991,
+        "episode": 14,
+        "released": "1991-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972187",
+        "title": "1991 Week 15",
+        "season": 1991,
+        "episode": 15,
+        "released": "1991-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972188",
+        "title": "1991 Week 16",
+        "season": 1991,
+        "episode": 16,
+        "released": "1991-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972189",
+        "title": "1991 Week 17",
+        "season": 1991,
+        "episode": 17,
+        "released": "1991-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972190",
+        "title": "1991 NFL Wild Card Round (1)",
+        "season": 1991,
+        "episode": 18,
+        "released": "1991-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972191",
+        "title": "1991 NFL Wild Card Round (2)",
+        "season": 1991,
+        "episode": 19,
+        "released": "1991-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972192",
+        "title": "1991 NFL Playoffs Divisional Round (1)",
+        "season": 1991,
+        "episode": 20,
+        "released": "1992-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972193",
+        "title": "1991 NFL Playoffs Divisional Round (2)",
+        "season": 1991,
+        "episode": 21,
+        "released": "1992-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972194",
+        "title": "1991 NFL Conference Championship Round",
+        "season": 1991,
+        "episode": 22,
+        "released": "1992-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972195",
+        "title": "Super Bowl XXVI",
+        "season": 1991,
+        "episode": 23,
+        "released": "1992-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:535329",
+        "title": "1992 Week 1",
+        "season": 1992,
+        "episode": 1,
+        "released": "1992-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972196",
+        "title": "1992 Week 2",
+        "season": 1992,
+        "episode": 2,
+        "released": "1992-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972197",
+        "title": "1992 Week 3",
+        "season": 1992,
+        "episode": 3,
+        "released": "1992-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972198",
+        "title": "1992 Week 4",
+        "season": 1992,
+        "episode": 4,
+        "released": "1992-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972199",
+        "title": "1992 Week 5",
+        "season": 1992,
+        "episode": 5,
+        "released": "1992-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972200",
+        "title": "1992 Week 6",
+        "season": 1992,
+        "episode": 6,
+        "released": "1992-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972201",
+        "title": "1992 Week 7",
+        "season": 1992,
+        "episode": 7,
+        "released": "1992-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972202",
+        "title": "1992 Week 8",
+        "season": 1992,
+        "episode": 8,
+        "released": "1992-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972203",
+        "title": "1992 Week 9",
+        "season": 1992,
+        "episode": 9,
+        "released": "1992-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972204",
+        "title": "1992 Week 10",
+        "season": 1992,
+        "episode": 10,
+        "released": "1992-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972205",
+        "title": "1992 Week 11",
+        "season": 1992,
+        "episode": 11,
+        "released": "1992-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972206",
+        "title": "1992 Week 12",
+        "season": 1992,
+        "episode": 12,
+        "released": "1992-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972207",
+        "title": "1992 Week 13",
+        "season": 1992,
+        "episode": 13,
+        "released": "1992-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972208",
+        "title": "1992 Week 14",
+        "season": 1992,
+        "episode": 14,
+        "released": "1992-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972209",
+        "title": "1992 Week 15",
+        "season": 1992,
+        "episode": 15,
+        "released": "1992-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972210",
+        "title": "1992 Week 16",
+        "season": 1992,
+        "episode": 16,
+        "released": "1992-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972211",
+        "title": "1992 Week 17",
+        "season": 1992,
+        "episode": 17,
+        "released": "1992-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972212",
+        "title": "1992 NFL Wild Card Round (1)",
+        "season": 1992,
+        "episode": 18,
+        "released": "1993-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972213",
+        "title": "1992 NFL Wild Card Round (2)",
+        "season": 1992,
+        "episode": 19,
+        "released": "1993-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972214",
+        "title": "1992 NFL Playoffs Divisional Round (1)",
+        "season": 1992,
+        "episode": 20,
+        "released": "1993-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972215",
+        "title": "1992 NFL Playoffs Divisional Round (2)",
+        "season": 1992,
+        "episode": 21,
+        "released": "1993-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972216",
+        "title": "1992 NFL Conference Championships",
+        "season": 1992,
+        "episode": 22,
+        "released": "1993-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972217",
+        "title": "Super Bowl XXVII",
+        "season": 1992,
+        "episode": 23,
+        "released": "1993-01-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972218",
+        "title": "1993 Week 1",
+        "season": 1993,
+        "episode": 1,
+        "released": "1993-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972219",
+        "title": "1993 Week 2",
+        "season": 1993,
+        "episode": 2,
+        "released": "1993-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972220",
+        "title": "1993 Week 3",
+        "season": 1993,
+        "episode": 3,
+        "released": "1993-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972221",
+        "title": "1993 Week 4",
+        "season": 1993,
+        "episode": 4,
+        "released": "1993-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972222",
+        "title": "1993 Week 5",
+        "season": 1993,
+        "episode": 5,
+        "released": "1993-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972223",
+        "title": "1993 Week 6",
+        "season": 1993,
+        "episode": 6,
+        "released": "1993-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972224",
+        "title": "1993 Week 7",
+        "season": 1993,
+        "episode": 7,
+        "released": "1993-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972225",
+        "title": "1993 Week 8",
+        "season": 1993,
+        "episode": 8,
+        "released": "1993-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972226",
+        "title": "1993 Week 9",
+        "season": 1993,
+        "episode": 9,
+        "released": "1993-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972227",
+        "title": "1993 Week 10",
+        "season": 1993,
+        "episode": 10,
+        "released": "1993-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972228",
+        "title": "1993 Week 11",
+        "season": 1993,
+        "episode": 11,
+        "released": "1993-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972229",
+        "title": "1993 Week 12",
+        "season": 1993,
+        "episode": 12,
+        "released": "1993-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972230",
+        "title": "1993 Week 13",
+        "season": 1993,
+        "episode": 13,
+        "released": "1993-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972231",
+        "title": "1993 Week 14",
+        "season": 1993,
+        "episode": 14,
+        "released": "1993-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972232",
+        "title": "1993 Week 15",
+        "season": 1993,
+        "episode": 15,
+        "released": "1993-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972233",
+        "title": "1993 Week 16",
+        "season": 1993,
+        "episode": 16,
+        "released": "1993-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972234",
+        "title": "1993 Week 17",
+        "season": 1993,
+        "episode": 17,
+        "released": "1993-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972235",
+        "title": "1993 Week 18",
+        "season": 1993,
+        "episode": 18,
+        "released": "1994-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972236",
+        "title": "1993 NFL Wild Card Round (1)",
+        "season": 1993,
+        "episode": 19,
+        "released": "1994-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972237",
+        "title": "1993 NFL Wild Card Round (2)",
+        "season": 1993,
+        "episode": 20,
+        "released": "1994-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972238",
+        "title": "1993 NFL Playoffs Divisional Round (1)",
+        "season": 1993,
+        "episode": 21,
+        "released": "1994-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972239",
+        "title": "1993 NFL Playoff Divisional Round (2)",
+        "season": 1993,
+        "episode": 22,
+        "released": "1994-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972240",
+        "title": "1993 AFC & NFC Championship Games",
+        "season": 1993,
+        "episode": 23,
+        "released": "1994-01-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972241",
+        "title": "Super Bowl XXVIII",
+        "season": 1993,
+        "episode": 24,
+        "released": "1994-01-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972431",
+        "title": "1994 Week 1",
+        "season": 1994,
+        "episode": 1,
+        "released": "1994-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972433",
+        "title": "1994 Week 2",
+        "season": 1994,
+        "episode": 2,
+        "released": "1994-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972434",
+        "title": "1994 Week 3",
+        "season": 1994,
+        "episode": 3,
+        "released": "1994-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972435",
+        "title": "1994 Week 4",
+        "season": 1994,
+        "episode": 4,
+        "released": "1994-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972436",
+        "title": "1994 Week 5",
+        "season": 1994,
+        "episode": 5,
+        "released": "1994-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972437",
+        "title": "1994 Week 6",
+        "season": 1994,
+        "episode": 6,
+        "released": "1994-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972438",
+        "title": "1994 Week 7",
+        "season": 1994,
+        "episode": 7,
+        "released": "1994-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972439",
+        "title": "1994 Week 8",
+        "season": 1994,
+        "episode": 8,
+        "released": "1994-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972440",
+        "title": "1994 Week 9",
+        "season": 1994,
+        "episode": 9,
+        "released": "1994-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972441",
+        "title": "1994 Week 10",
+        "season": 1994,
+        "episode": 10,
+        "released": "1994-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972442",
+        "title": "1994 Week 11",
+        "season": 1994,
+        "episode": 11,
+        "released": "1994-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972443",
+        "title": "1994 Week 12",
+        "season": 1994,
+        "episode": 12,
+        "released": "1994-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972444",
+        "title": "1994 Week 13",
+        "season": 1994,
+        "episode": 13,
+        "released": "1994-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972445",
+        "title": "1994 Week 14",
+        "season": 1994,
+        "episode": 14,
+        "released": "1994-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972446",
+        "title": "1994 Week 15",
+        "season": 1994,
+        "episode": 15,
+        "released": "1994-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972447",
+        "title": "1994 Week 16",
+        "season": 1994,
+        "episode": 16,
+        "released": "1994-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972448",
+        "title": "1994 Week 17",
+        "season": 1994,
+        "episode": 17,
+        "released": "1994-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972449",
+        "title": "1994 NFL Playoffs Wild Card round (1)",
+        "season": 1994,
+        "episode": 18,
+        "released": "1994-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972450",
+        "title": "1994 NFL Playoffs Wild Card round (2)",
+        "season": 1994,
+        "episode": 19,
+        "released": "1995-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972451",
+        "title": "1994 NFL Playoffs Divisional round (1)",
+        "season": 1994,
+        "episode": 20,
+        "released": "1995-01-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972452",
+        "title": "1994 NFL Playoffs Divisional round (2)",
+        "season": 1994,
+        "episode": 21,
+        "released": "1995-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972453",
+        "title": "1994 AFC & NFC Championship Games",
+        "season": 1994,
+        "episode": 22,
+        "released": "1995-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972454",
+        "title": "Super Bowl XXIX",
+        "season": 1994,
+        "episode": 23,
+        "released": "1995-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973281",
+        "title": "1995 Week 1",
+        "season": 1995,
+        "episode": 1,
+        "released": "1995-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973282",
+        "title": "1995 Week 2",
+        "season": 1995,
+        "episode": 2,
+        "released": "1995-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973283",
+        "title": "1995 Week 3",
+        "season": 1995,
+        "episode": 3,
+        "released": "1995-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973284",
+        "title": "1995 Week 4",
+        "season": 1995,
+        "episode": 4,
+        "released": "1995-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973285",
+        "title": "1995 Week 5",
+        "season": 1995,
+        "episode": 5,
+        "released": "1995-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973286",
+        "title": "1995 Week 6",
+        "season": 1995,
+        "episode": 6,
+        "released": "1995-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973287",
+        "title": "1995 Week 7",
+        "season": 1995,
+        "episode": 7,
+        "released": "1995-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973288",
+        "title": "1995 Week 8",
+        "season": 1995,
+        "episode": 8,
+        "released": "1995-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973289",
+        "title": "1995 Week 9",
+        "season": 1995,
+        "episode": 9,
+        "released": "1995-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973290",
+        "title": "1995 Week 10",
+        "season": 1995,
+        "episode": 10,
+        "released": "1995-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973291",
+        "title": "1995 Week 11",
+        "season": 1995,
+        "episode": 11,
+        "released": "1995-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973292",
+        "title": "1995 Week 12",
+        "season": 1995,
+        "episode": 12,
+        "released": "1995-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973293",
+        "title": "1995 Week 13",
+        "season": 1995,
+        "episode": 13,
+        "released": "1995-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973294",
+        "title": "1995 Week 14",
+        "season": 1995,
+        "episode": 14,
+        "released": "1995-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973295",
+        "title": "1995 Week 15",
+        "season": 1995,
+        "episode": 15,
+        "released": "1995-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973296",
+        "title": "1995 Week 16",
+        "season": 1995,
+        "episode": 16,
+        "released": "1995-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973297",
+        "title": "1995 Week 17",
+        "season": 1995,
+        "episode": 17,
+        "released": "1995-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973298",
+        "title": "1995 NFL Playoffs Wild Card games",
+        "season": 1995,
+        "episode": 18,
+        "released": "1995-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973299",
+        "title": "1995 NFL Playoffs Wild Card games",
+        "season": 1995,
+        "episode": 19,
+        "released": "1995-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973300",
+        "title": "1995 NFL Playoff Divisional Round (1)",
+        "season": 1995,
+        "episode": 20,
+        "released": "1996-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973301",
+        "title": "1995 NFL Playoff Divisional Round (2)",
+        "season": 1995,
+        "episode": 21,
+        "released": "1996-01-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973302",
+        "title": "1995 AFC & NFC Championships",
+        "season": 1995,
+        "episode": 22,
+        "released": "1996-01-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973303",
+        "title": "Super Bowl XXX",
+        "season": 1995,
+        "episode": 23,
+        "released": "1996-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973304",
+        "title": "1996 Week 1",
+        "season": 1996,
+        "episode": 1,
+        "released": "1996-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973305",
+        "title": "1996 Week 2",
+        "season": 1996,
+        "episode": 2,
+        "released": "1996-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973306",
+        "title": "1996 Week 3",
+        "season": 1996,
+        "episode": 3,
+        "released": "1996-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973307",
+        "title": "1996 Week 4",
+        "season": 1996,
+        "episode": 4,
+        "released": "1996-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973308",
+        "title": "1996 Week 5",
+        "season": 1996,
+        "episode": 5,
+        "released": "1996-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973309",
+        "title": "1996 Week 6",
+        "season": 1996,
+        "episode": 6,
+        "released": "1996-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973310",
+        "title": "1996 Week 7",
+        "season": 1996,
+        "episode": 7,
+        "released": "1996-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973311",
+        "title": "1996 Week 8",
+        "season": 1996,
+        "episode": 8,
+        "released": "1996-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973312",
+        "title": "1996 Week 9",
+        "season": 1996,
+        "episode": 9,
+        "released": "1996-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973313",
+        "title": "1996 Week 10",
+        "season": 1996,
+        "episode": 10,
+        "released": "1996-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973314",
+        "title": "1996 Week 11",
+        "season": 1996,
+        "episode": 11,
+        "released": "1996-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973315",
+        "title": "1996 Week 12",
+        "season": 1996,
+        "episode": 12,
+        "released": "1996-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973316",
+        "title": "1996 Week 13",
+        "season": 1996,
+        "episode": 13,
+        "released": "1996-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973317",
+        "title": "1996 Week 14",
+        "season": 1996,
+        "episode": 14,
+        "released": "1996-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973318",
+        "title": "1996 Week 15",
+        "season": 1996,
+        "episode": 15,
+        "released": "1996-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973319",
+        "title": "1996 Week 16",
+        "season": 1996,
+        "episode": 16,
+        "released": "1996-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973320",
+        "title": "1996 Week 17",
+        "season": 1996,
+        "episode": 17,
+        "released": "1996-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973321",
+        "title": "1996 NFL Playoffs Wild Card games (1)",
+        "season": 1996,
+        "episode": 18,
+        "released": "1996-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973322",
+        "title": "1996 NFL Playoffs Wild Card games (2)",
+        "season": 1996,
+        "episode": 19,
+        "released": "1996-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973323",
+        "title": "1996 NFL Playoff Divisional Round (1)",
+        "season": 1996,
+        "episode": 20,
+        "released": "1997-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973324",
+        "title": "1996 NFL Playoff Divisional Round (2)",
+        "season": 1996,
+        "episode": 21,
+        "released": "1997-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973325",
+        "title": "1996 AFC & NFC Championships",
+        "season": 1996,
+        "episode": 22,
+        "released": "1997-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973326",
+        "title": "Super Bowl XXXI",
+        "season": 1996,
+        "episode": 23,
+        "released": "1997-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973327",
+        "title": "1997 Week 1",
+        "season": 1997,
+        "episode": 1,
+        "released": "1997-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973328",
+        "title": "1997 Week 2",
+        "season": 1997,
+        "episode": 2,
+        "released": "1997-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973329",
+        "title": "1997 Week 3",
+        "season": 1997,
+        "episode": 3,
+        "released": "1997-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973330",
+        "title": "1997 Week 4",
+        "season": 1997,
+        "episode": 4,
+        "released": "1997-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973331",
+        "title": "1997 Week 5",
+        "season": 1997,
+        "episode": 5,
+        "released": "1997-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973332",
+        "title": "1997 Week 6",
+        "season": 1997,
+        "episode": 6,
+        "released": "1997-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973333",
+        "title": "1997 Week 7",
+        "season": 1997,
+        "episode": 7,
+        "released": "1997-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973334",
+        "title": "1997 Week 8",
+        "season": 1997,
+        "episode": 8,
+        "released": "1997-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973335",
+        "title": "1997 Week 9",
+        "season": 1997,
+        "episode": 9,
+        "released": "1997-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973336",
+        "title": "1997 Week 10",
+        "season": 1997,
+        "episode": 10,
+        "released": "1997-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973337",
+        "title": "1997 Week 11",
+        "season": 1997,
+        "episode": 11,
+        "released": "1997-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973338",
+        "title": "1997 Week 12",
+        "season": 1997,
+        "episode": 12,
+        "released": "1997-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973339",
+        "title": "1997 Week 13",
+        "season": 1997,
+        "episode": 13,
+        "released": "1997-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973340",
+        "title": "1997 Week 14",
+        "season": 1997,
+        "episode": 14,
+        "released": "1997-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973341",
+        "title": "1997 Week 15",
+        "season": 1997,
+        "episode": 15,
+        "released": "1997-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973342",
+        "title": "1997 Week 16",
+        "season": 1997,
+        "episode": 16,
+        "released": "1997-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973343",
+        "title": "1997 Week 17",
+        "season": 1997,
+        "episode": 17,
+        "released": "1997-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973344",
+        "title": "1997 NFL Playoffs Wild Card games (1)",
+        "season": 1997,
+        "episode": 18,
+        "released": "1997-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973345",
+        "title": "1997 NFL Playoffs Wild Card games (2)",
+        "season": 1997,
+        "episode": 19,
+        "released": "1997-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973346",
+        "title": "1997 NFL Playoffs Divisional Round (1)",
+        "season": 1997,
+        "episode": 20,
+        "released": "1998-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973347",
+        "title": "1997 NFL Playoffs Divisional Round (2)",
+        "season": 1997,
+        "episode": 21,
+        "released": "1998-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973348",
+        "title": "1997 AFC & NFC Championships",
+        "season": 1997,
+        "episode": 22,
+        "released": "1998-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973349",
+        "title": "Super Bowl XXXII",
+        "season": 1997,
+        "episode": 23,
+        "released": "1998-01-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973350",
+        "title": "1998 Week 1",
+        "season": 1998,
+        "episode": 1,
+        "released": "1998-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973351",
+        "title": "1998 Week 2",
+        "season": 1998,
+        "episode": 2,
+        "released": "1998-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973352",
+        "title": "1998 Week 3",
+        "season": 1998,
+        "episode": 3,
+        "released": "1998-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973353",
+        "title": "1998 Week 4",
+        "season": 1998,
+        "episode": 4,
+        "released": "1998-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973354",
+        "title": "1998 Week 5",
+        "season": 1998,
+        "episode": 5,
+        "released": "1998-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973355",
+        "title": "1998 Week 6",
+        "season": 1998,
+        "episode": 6,
+        "released": "1998-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973356",
+        "title": "1998 Week 7",
+        "season": 1998,
+        "episode": 7,
+        "released": "1998-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973357",
+        "title": "1998 Week 8",
+        "season": 1998,
+        "episode": 8,
+        "released": "1998-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973358",
+        "title": "1998 Week 9",
+        "season": 1998,
+        "episode": 9,
+        "released": "1998-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973359",
+        "title": "1998 Week 10",
+        "season": 1998,
+        "episode": 10,
+        "released": "1998-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973360",
+        "title": "1998 Week 11",
+        "season": 1998,
+        "episode": 11,
+        "released": "1998-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973361",
+        "title": "1998 Week 12",
+        "season": 1998,
+        "episode": 12,
+        "released": "1998-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973362",
+        "title": "1998 Week 13",
+        "season": 1998,
+        "episode": 13,
+        "released": "1998-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973363",
+        "title": "1998 Week 14",
+        "season": 1998,
+        "episode": 14,
+        "released": "1998-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973364",
+        "title": "1998 Week 15",
+        "season": 1998,
+        "episode": 15,
+        "released": "1998-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973365",
+        "title": "1998 Week 16",
+        "season": 1998,
+        "episode": 16,
+        "released": "1998-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973366",
+        "title": "1998 Week 17",
+        "season": 1998,
+        "episode": 17,
+        "released": "1998-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973367",
+        "title": "1998 NFL Playoffs Wild Card games",
+        "season": 1998,
+        "episode": 18,
+        "released": "1999-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973368",
+        "title": "1998 NFL Playoffs Wild Card games",
+        "season": 1998,
+        "episode": 19,
+        "released": "1999-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973369",
+        "title": "1998 NFL Playoffs Divisional Round (1)",
+        "season": 1998,
+        "episode": 20,
+        "released": "1999-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973370",
+        "title": "1998 NFL Playoffs Divisional Round (2)",
+        "season": 1998,
+        "episode": 21,
+        "released": "1999-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973371",
+        "title": "1998 NFC & AFC Championship Games",
+        "season": 1998,
+        "episode": 22,
+        "released": "1999-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1973372",
+        "title": "Super Bowl XXXIII",
+        "season": 1998,
+        "episode": 23,
+        "released": "1999-01-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975957",
+        "title": "1999 Week 1",
+        "season": 1999,
+        "episode": 1,
+        "released": "1999-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975956",
+        "title": "1999 Week 2",
+        "season": 1999,
+        "episode": 2,
+        "released": "1999-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975955",
+        "title": "1999 Week 3",
+        "season": 1999,
+        "episode": 3,
+        "released": "1999-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975954",
+        "title": "1999 Week 4",
+        "season": 1999,
+        "episode": 4,
+        "released": "1999-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975953",
+        "title": "1999 Week 5",
+        "season": 1999,
+        "episode": 5,
+        "released": "1999-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975952",
+        "title": "1999 Week 6",
+        "season": 1999,
+        "episode": 6,
+        "released": "1999-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975951",
+        "title": "1999 Week 7",
+        "season": 1999,
+        "episode": 7,
+        "released": "1999-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975950",
+        "title": "1999 Week 8",
+        "season": 1999,
+        "episode": 8,
+        "released": "1999-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975949",
+        "title": "1999 Week 9",
+        "season": 1999,
+        "episode": 9,
+        "released": "1999-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975948",
+        "title": "1999 Week 10",
+        "season": 1999,
+        "episode": 10,
+        "released": "1999-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975947",
+        "title": "1999 Week 11",
+        "season": 1999,
+        "episode": 11,
+        "released": "1999-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975946",
+        "title": "1999 Week 12",
+        "season": 1999,
+        "episode": 12,
+        "released": "1999-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975945",
+        "title": "1999 Week 13",
+        "season": 1999,
+        "episode": 13,
+        "released": "1999-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975944",
+        "title": "1999 Week 14",
+        "season": 1999,
+        "episode": 14,
+        "released": "1999-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975943",
+        "title": "1999 Week 15",
+        "season": 1999,
+        "episode": 15,
+        "released": "1999-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975942",
+        "title": "1999 Week 16",
+        "season": 1999,
+        "episode": 16,
+        "released": "1999-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975941",
+        "title": "1999 Week 17",
+        "season": 1999,
+        "episode": 17,
+        "released": "2000-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975940",
+        "title": "1999 NFL Playoffs Wild Card games",
+        "season": 1999,
+        "episode": 18,
+        "released": "2000-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975939",
+        "title": "1999 NFL Playoffs Wild Card games",
+        "season": 1999,
+        "episode": 19,
+        "released": "2000-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975938",
+        "title": "1999 NFL Playoffs Divisional Round games",
+        "season": 1999,
+        "episode": 20,
+        "released": "2000-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975937",
+        "title": "1999 NFL Playoffs Divisional Round games",
+        "season": 1999,
+        "episode": 21,
+        "released": "2000-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975936",
+        "title": "1999 AFC & NFC Championship Games",
+        "season": 1999,
+        "episode": 22,
+        "released": "2000-01-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975935",
+        "title": "Super Bowl XXXIV",
+        "season": 1999,
+        "episode": 23,
+        "released": "2000-01-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975934",
+        "title": "2000 Week 1",
+        "season": 2000,
+        "episode": 1,
+        "released": "2000-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975933",
+        "title": "2000 Week 2",
+        "season": 2000,
+        "episode": 2,
+        "released": "2000-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975932",
+        "title": "2000 Week 3",
+        "season": 2000,
+        "episode": 3,
+        "released": "2000-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975931",
+        "title": "2000 Week 4",
+        "season": 2000,
+        "episode": 4,
+        "released": "2000-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975930",
+        "title": "2000 Week 5",
+        "season": 2000,
+        "episode": 5,
+        "released": "2000-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975929",
+        "title": "2000 Week 6",
+        "season": 2000,
+        "episode": 6,
+        "released": "2000-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975928",
+        "title": "2000 Week 7",
+        "season": 2000,
+        "episode": 7,
+        "released": "2000-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975927",
+        "title": "2000 Week 8",
+        "season": 2000,
+        "episode": 8,
+        "released": "2000-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975926",
+        "title": "2000 Week 9",
+        "season": 2000,
+        "episode": 9,
+        "released": "2000-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975925",
+        "title": "2000 Week 10",
+        "season": 2000,
+        "episode": 10,
+        "released": "2000-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975924",
+        "title": "2000 Week 11",
+        "season": 2000,
+        "episode": 11,
+        "released": "2000-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975923",
+        "title": "2000 Week 12",
+        "season": 2000,
+        "episode": 12,
+        "released": "2000-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975922",
+        "title": "2000 Week 13",
+        "season": 2000,
+        "episode": 13,
+        "released": "2000-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975921",
+        "title": "2000 Week 14",
+        "season": 2000,
+        "episode": 14,
+        "released": "2000-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975920",
+        "title": "2000 Week 15",
+        "season": 2000,
+        "episode": 15,
+        "released": "2000-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975919",
+        "title": "2000 Week 16",
+        "season": 2000,
+        "episode": 16,
+        "released": "2000-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975918",
+        "title": "2000 Week 17",
+        "season": 2000,
+        "episode": 17,
+        "released": "2000-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975917",
+        "title": "2000 NFL Playoffs Wild Card games",
+        "season": 2000,
+        "episode": 18,
+        "released": "2000-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975916",
+        "title": "2000 NFL Playoffs Wild Card games",
+        "season": 2000,
+        "episode": 19,
+        "released": "2000-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975915",
+        "title": "2000 NFL Playoffs Divisional Round games",
+        "season": 2000,
+        "episode": 20,
+        "released": "2001-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975914",
+        "title": "2000 NFL Playoffs Divisional Round games",
+        "season": 2000,
+        "episode": 21,
+        "released": "2001-01-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975912",
+        "title": "2000 NFC & AFC Championship Games",
+        "season": 2000,
+        "episode": 22,
+        "released": "2001-01-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975913",
+        "title": "Super Bowl XXXV",
+        "season": 2000,
+        "episode": 23,
+        "released": "2001-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998799",
+        "title": "2001 Week 1",
+        "season": 2001,
+        "episode": 1,
+        "released": "2001-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998800",
+        "title": "2001 Week 2",
+        "season": 2001,
+        "episode": 2,
+        "released": "2001-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998801",
+        "title": "2001 Week 3",
+        "season": 2001,
+        "episode": 3,
+        "released": "2001-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998802",
+        "title": "2001 Week 4",
+        "season": 2001,
+        "episode": 4,
+        "released": "2001-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998803",
+        "title": "2001 Week 5",
+        "season": 2001,
+        "episode": 5,
+        "released": "2001-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998804",
+        "title": "2001 Week 6",
+        "season": 2001,
+        "episode": 6,
+        "released": "2001-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998805",
+        "title": "2001 Week 7",
+        "season": 2001,
+        "episode": 7,
+        "released": "2001-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998806",
+        "title": "2001 Week 8",
+        "season": 2001,
+        "episode": 8,
+        "released": "2001-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998807",
+        "title": "2001 Week 9",
+        "season": 2001,
+        "episode": 9,
+        "released": "2001-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998808",
+        "title": "2001 Week 10",
+        "season": 2001,
+        "episode": 10,
+        "released": "2001-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998809",
+        "title": "2001 Week 11",
+        "season": 2001,
+        "episode": 11,
+        "released": "2001-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998810",
+        "title": "2001 Week 12",
+        "season": 2001,
+        "episode": 12,
+        "released": "2001-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998811",
+        "title": "2001 Week 13",
+        "season": 2001,
+        "episode": 13,
+        "released": "2001-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998812",
+        "title": "2001 Week 14",
+        "season": 2001,
+        "episode": 14,
+        "released": "2001-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998813",
+        "title": "2001 Week 15",
+        "season": 2001,
+        "episode": 15,
+        "released": "2001-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998814",
+        "title": "2001 Week 16",
+        "season": 2001,
+        "episode": 16,
+        "released": "2001-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998815",
+        "title": "2001 Week 17",
+        "season": 2001,
+        "episode": 17,
+        "released": "2002-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998816",
+        "title": "2001 NFL Playoffs Wild Card games",
+        "season": 2001,
+        "episode": 18,
+        "released": "2002-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998817",
+        "title": "2001 NFL Playoffs Wild Card games",
+        "season": 2001,
+        "episode": 19,
+        "released": "2002-01-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998818",
+        "title": "2001 NFL Playoffs Divisional Round games",
+        "season": 2001,
+        "episode": 20,
+        "released": "2002-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998819",
+        "title": "2001 NFL Playoffs Divisional Round games",
+        "season": 2001,
+        "episode": 21,
+        "released": "2002-01-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998820",
+        "title": "2001 AFC & NFC Championship Games",
+        "season": 2001,
+        "episode": 22,
+        "released": "2002-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998821",
+        "title": "Super Bowl XXXVI",
+        "season": 2001,
+        "episode": 23,
+        "released": "2002-02-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998822",
+        "title": "2002 Week 1",
+        "season": 2002,
+        "episode": 1,
+        "released": "2002-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998823",
+        "title": "2002 Week 2",
+        "season": 2002,
+        "episode": 2,
+        "released": "2002-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998824",
+        "title": "2002 Week 3",
+        "season": 2002,
+        "episode": 3,
+        "released": "2002-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998825",
+        "title": "2002 Week 4",
+        "season": 2002,
+        "episode": 4,
+        "released": "2002-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998826",
+        "title": "2002 Week 5",
+        "season": 2002,
+        "episode": 5,
+        "released": "2002-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998827",
+        "title": "2002 Week 6",
+        "season": 2002,
+        "episode": 6,
+        "released": "2002-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998828",
+        "title": "2002 Week 7",
+        "season": 2002,
+        "episode": 7,
+        "released": "2002-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998829",
+        "title": "2002 Week 8",
+        "season": 2002,
+        "episode": 8,
+        "released": "2002-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998830",
+        "title": "2002 Week 9",
+        "season": 2002,
+        "episode": 9,
+        "released": "2002-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998831",
+        "title": "2002 Week 10",
+        "season": 2002,
+        "episode": 10,
+        "released": "2002-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998832",
+        "title": "2002 Week 11",
+        "season": 2002,
+        "episode": 11,
+        "released": "2002-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998833",
+        "title": "2002 Week 12",
+        "season": 2002,
+        "episode": 12,
+        "released": "2002-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998834",
+        "title": "2002 Week 13",
+        "season": 2002,
+        "episode": 13,
+        "released": "2002-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998835",
+        "title": "2002 Week 14",
+        "season": 2002,
+        "episode": 14,
+        "released": "2002-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998836",
+        "title": "2002 Week 15",
+        "season": 2002,
+        "episode": 15,
+        "released": "2002-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998837",
+        "title": "2002 Week 16",
+        "season": 2002,
+        "episode": 16,
+        "released": "2002-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998838",
+        "title": "2002 Week 17",
+        "season": 2002,
+        "episode": 17,
+        "released": "2002-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998839",
+        "title": "2002 NFL Playoffs Wild Card games",
+        "season": 2002,
+        "episode": 18,
+        "released": "2003-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998840",
+        "title": "2002 NFL Playoffs Wild Card games",
+        "season": 2002,
+        "episode": 19,
+        "released": "2003-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998841",
+        "title": "2002 NFL Playoffs Divisional Round games",
+        "season": 2002,
+        "episode": 20,
+        "released": "2003-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998842",
+        "title": "2002 NFL Playoffs Divisional Round games",
+        "season": 2002,
+        "episode": 21,
+        "released": "2003-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998843",
+        "title": "2002 AFC & NFC Championship Games",
+        "season": 2002,
+        "episode": 22,
+        "released": "2003-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998844",
+        "title": "Super Bowl XXXVII",
+        "season": 2002,
+        "episode": 23,
+        "released": "2003-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998845",
+        "title": "2003 Week 1",
+        "season": 2003,
+        "episode": 1,
+        "released": "2003-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998846",
+        "title": "2003 Week 2",
+        "season": 2003,
+        "episode": 2,
+        "released": "2003-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998847",
+        "title": "2003 Week 3",
+        "season": 2003,
+        "episode": 3,
+        "released": "2003-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998848",
+        "title": "2003 Week 4",
+        "season": 2003,
+        "episode": 4,
+        "released": "2003-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998849",
+        "title": "2003 Week 5",
+        "season": 2003,
+        "episode": 5,
+        "released": "2003-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998850",
+        "title": "2003 Week 6",
+        "season": 2003,
+        "episode": 6,
+        "released": "2003-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998851",
+        "title": "2003 Week 7",
+        "season": 2003,
+        "episode": 7,
+        "released": "2003-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998852",
+        "title": "2003 Week 8",
+        "season": 2003,
+        "episode": 8,
+        "released": "2003-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998853",
+        "title": "2003 Week 9",
+        "season": 2003,
+        "episode": 9,
+        "released": "2003-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998854",
+        "title": "2003 Week 10",
+        "season": 2003,
+        "episode": 10,
+        "released": "2003-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998855",
+        "title": "2003 Week 11",
+        "season": 2003,
+        "episode": 11,
+        "released": "2003-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998856",
+        "title": "2003 Week 12",
+        "season": 2003,
+        "episode": 12,
+        "released": "2003-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998857",
+        "title": "2003 Week 13",
+        "season": 2003,
+        "episode": 13,
+        "released": "2003-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998858",
+        "title": "2003 Week 14",
+        "season": 2003,
+        "episode": 14,
+        "released": "2003-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998859",
+        "title": "2003 Week 15",
+        "season": 2003,
+        "episode": 15,
+        "released": "2003-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998860",
+        "title": "2003 Week 16",
+        "season": 2003,
+        "episode": 16,
+        "released": "2003-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998861",
+        "title": "2003 Week 17",
+        "season": 2003,
+        "episode": 17,
+        "released": "2003-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998862",
+        "title": "2003 NFL Playoffs Wild Card games",
+        "season": 2003,
+        "episode": 18,
+        "released": "2004-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998863",
+        "title": "2003 NFL Playoffs Wild Card games",
+        "season": 2003,
+        "episode": 19,
+        "released": "2004-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998864",
+        "title": "2003 NFL Playoffs Divisional Round games",
+        "season": 2003,
+        "episode": 20,
+        "released": "2004-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998865",
+        "title": "2003 NFC & AFC Championship Games",
+        "season": 2003,
+        "episode": 21,
+        "released": "2004-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998866",
+        "title": "Super Bowl XXXVIII",
+        "season": 2003,
+        "episode": 22,
+        "released": "2004-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998867",
+        "title": "2004 Week 1",
+        "season": 2004,
+        "episode": 1,
+        "released": "2004-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998868",
+        "title": "2004 Week 2",
+        "season": 2004,
+        "episode": 2,
+        "released": "2004-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998869",
+        "title": "2004 Week 3",
+        "season": 2004,
+        "episode": 3,
+        "released": "2004-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998870",
+        "title": "2004 Week 4",
+        "season": 2004,
+        "episode": 4,
+        "released": "2004-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998871",
+        "title": "2004 Week 5",
+        "season": 2004,
+        "episode": 5,
+        "released": "2004-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998872",
+        "title": "2004 Week 6",
+        "season": 2004,
+        "episode": 6,
+        "released": "2004-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998873",
+        "title": "2004 Week 7",
+        "season": 2004,
+        "episode": 7,
+        "released": "2004-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998874",
+        "title": "2004 Week 8",
+        "season": 2004,
+        "episode": 8,
+        "released": "2004-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998875",
+        "title": "2004 Week 9",
+        "season": 2004,
+        "episode": 9,
+        "released": "2004-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998876",
+        "title": "2004 Week 10",
+        "season": 2004,
+        "episode": 10,
+        "released": "2004-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998877",
+        "title": "2004 Week 11",
+        "season": 2004,
+        "episode": 11,
+        "released": "2004-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998878",
+        "title": "2004 Week 12",
+        "season": 2004,
+        "episode": 12,
+        "released": "2004-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998879",
+        "title": "2004 Week 13",
+        "season": 2004,
+        "episode": 13,
+        "released": "2004-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998880",
+        "title": "2004 Week 14",
+        "season": 2004,
+        "episode": 14,
+        "released": "2004-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998881",
+        "title": "2004 Week 15",
+        "season": 2004,
+        "episode": 15,
+        "released": "2004-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998882",
+        "title": "2004 Week 16",
+        "season": 2004,
+        "episode": 16,
+        "released": "2004-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998883",
+        "title": "2004 Week 17",
+        "season": 2004,
+        "episode": 17,
+        "released": "2005-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998884",
+        "title": "2004 NFL Playoffs Wild Card games",
+        "season": 2004,
+        "episode": 18,
+        "released": "2005-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998885",
+        "title": "2004 NFL Playoffs Divisional Round games",
+        "season": 2004,
+        "episode": 19,
+        "released": "2005-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998886",
+        "title": "2004 NFC & AFC Championship Games",
+        "season": 2004,
+        "episode": 20,
+        "released": "2005-01-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748877",
+        "title": "Episode 1",
+        "season": 2016,
+        "episode": 1,
+        "released": "2016-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748878",
+        "title": "Episode 2",
+        "season": 2016,
+        "episode": 2,
+        "released": "2016-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748879",
+        "title": "Episode 3",
+        "season": 2016,
+        "episode": 3,
+        "released": "2016-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748880",
+        "title": "Episode 4",
+        "season": 2016,
+        "episode": 4,
+        "released": "2016-01-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748881",
+        "title": "Episode 5",
+        "season": 2016,
+        "episode": 5,
+        "released": "2016-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748882",
+        "title": "Episode 6",
+        "season": 2016,
+        "episode": 6,
+        "released": "2016-02-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748797",
+        "title": "Episode 7",
+        "season": 2016,
+        "episode": 7,
+        "released": "2016-02-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748798",
+        "title": "Episode 8",
+        "season": 2016,
+        "episode": 8,
+        "released": "2016-02-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748799",
+        "title": "Episode 9",
+        "season": 2016,
+        "episode": 9,
+        "released": "2016-02-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748800",
+        "title": "Episode 10",
+        "season": 2016,
+        "episode": 10,
+        "released": "2016-03-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748801",
+        "title": "Episode 11",
+        "season": 2016,
+        "episode": 11,
+        "released": "2016-03-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748802",
+        "title": "Episode 12",
+        "season": 2016,
+        "episode": 12,
+        "released": "2016-03-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748803",
+        "title": "Episode 13",
+        "season": 2016,
+        "episode": 13,
+        "released": "2016-03-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748804",
+        "title": "Episode 14",
+        "season": 2016,
+        "episode": 14,
+        "released": "2016-04-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748805",
+        "title": "Episode 15",
+        "season": 2016,
+        "episode": 15,
+        "released": "2016-04-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748806",
+        "title": "Episode 16",
+        "season": 2016,
+        "episode": 16,
+        "released": "2016-04-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748807",
+        "title": "Episode 17",
+        "season": 2016,
+        "episode": 17,
+        "released": "2016-04-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748808",
+        "title": "Episode 18",
+        "season": 2016,
+        "episode": 18,
+        "released": "2016-05-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748809",
+        "title": "Episode 19",
+        "season": 2016,
+        "episode": 19,
+        "released": "2016-05-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748810",
+        "title": "Episode 20",
+        "season": 2016,
+        "episode": 20,
+        "released": "2016-05-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748811",
+        "title": "Episode 21",
+        "season": 2016,
+        "episode": 21,
+        "released": "2016-05-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748812",
+        "title": "Episode 22",
+        "season": 2016,
+        "episode": 22,
+        "released": "2016-05-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748813",
+        "title": "Episode 23",
+        "season": 2016,
+        "episode": 23,
+        "released": "2016-06-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748814",
+        "title": "Episode 24",
+        "season": 2016,
+        "episode": 24,
+        "released": "2016-06-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748815",
+        "title": "Episode 25",
+        "season": 2016,
+        "episode": 25,
+        "released": "2016-06-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748816",
+        "title": "Episode 26",
+        "season": 2016,
+        "episode": 26,
+        "released": "2016-06-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748817",
+        "title": "Episode 27",
+        "season": 2016,
+        "episode": 27,
+        "released": "2016-07-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748818",
+        "title": "Episode 28",
+        "season": 2016,
+        "episode": 28,
+        "released": "2016-07-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748819",
+        "title": "Episode 29",
+        "season": 2016,
+        "episode": 29,
+        "released": "2016-07-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748820",
+        "title": "Episode 30",
+        "season": 2016,
+        "episode": 30,
+        "released": "2016-07-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748821",
+        "title": "Episode 31",
+        "season": 2016,
+        "episode": 31,
+        "released": "2016-08-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748822",
+        "title": "Episode 32",
+        "season": 2016,
+        "episode": 32,
+        "released": "2016-08-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748823",
+        "title": "Episode 33",
+        "season": 2016,
+        "episode": 33,
+        "released": "2016-08-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748824",
+        "title": "Episode 34",
+        "season": 2016,
+        "episode": 34,
+        "released": "2016-08-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748825",
+        "title": "Episode 35",
+        "season": 2016,
+        "episode": 35,
+        "released": "2016-08-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748826",
+        "title": "Episode 36",
+        "season": 2016,
+        "episode": 36,
+        "released": "2016-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748827",
+        "title": "Episode 37",
+        "season": 2016,
+        "episode": 37,
+        "released": "2016-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748828",
+        "title": "Episode 38",
+        "season": 2016,
+        "episode": 38,
+        "released": "2016-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748829",
+        "title": "Episode 39",
+        "season": 2016,
+        "episode": 39,
+        "released": "2016-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748830",
+        "title": "Episode 40",
+        "season": 2016,
+        "episode": 40,
+        "released": "2016-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748831",
+        "title": "Episode 41",
+        "season": 2016,
+        "episode": 41,
+        "released": "2016-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748832",
+        "title": "Episode 42",
+        "season": 2016,
+        "episode": 42,
+        "released": "2016-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748833",
+        "title": "Episode 43",
+        "season": 2016,
+        "episode": 43,
+        "released": "2016-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748834",
+        "title": "Episode 44",
+        "season": 2016,
+        "episode": 44,
+        "released": "2016-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748835",
+        "title": "Episode 45",
+        "season": 2016,
+        "episode": 45,
+        "released": "2016-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748836",
+        "title": "Episode 46",
+        "season": 2016,
+        "episode": 46,
+        "released": "2016-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748837",
+        "title": "Episode 47",
+        "season": 2016,
+        "episode": 47,
+        "released": "2016-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748838",
+        "title": "Episode 48",
+        "season": 2016,
+        "episode": 48,
+        "released": "2016-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748839",
+        "title": "Episode 49",
+        "season": 2016,
+        "episode": 49,
+        "released": "2016-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748840",
+        "title": "Episode 50",
+        "season": 2016,
+        "episode": 50,
+        "released": "2016-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748841",
+        "title": "Episode 51",
+        "season": 2016,
+        "episode": 51,
+        "released": "2016-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1023324",
+        "title": "Episode 52",
+        "season": 2016,
+        "episode": 52,
+        "released": "2016-12-26",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1023326",
+        "title": "Episode 1",
+        "season": 2017,
+        "episode": 1,
+        "released": "2017-01-02",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1030299",
+        "title": "Episode 2",
+        "season": 2017,
+        "episode": 2,
+        "released": "2017-01-09",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1030300",
+        "title": "Episode 3",
+        "season": 2017,
+        "episode": 3,
+        "released": "2017-01-16",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1030301",
+        "title": "Episode 4",
+        "season": 2017,
+        "episode": 4,
+        "released": "2017-01-23",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1044958",
+        "title": "Episode 5",
+        "season": 2017,
+        "episode": 5,
+        "released": "2017-01-30",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action live."
+      },
+      {
+        "id": "tvmaze:1058362",
+        "title": "Episode 6",
+        "season": 2017,
+        "episode": 6,
+        "released": "2017-02-06",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1748883",
+        "title": "Episode 7",
+        "season": 2017,
+        "episode": 7,
+        "released": "2017-02-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748884",
+        "title": "Episode 8",
+        "season": 2017,
+        "episode": 8,
+        "released": "2017-02-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748885",
+        "title": "Episode 9",
+        "season": 2017,
+        "episode": 9,
+        "released": "2017-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748886",
+        "title": "Episode 10",
+        "season": 2017,
+        "episode": 10,
+        "released": "2017-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748876",
+        "title": "Episode 11",
+        "season": 2017,
+        "episode": 11,
+        "released": "2017-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748875",
+        "title": "Episode 12",
+        "season": 2017,
+        "episode": 12,
+        "released": "2017-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748874",
+        "title": "Episode 13",
+        "season": 2017,
+        "episode": 13,
+        "released": "2017-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748873",
+        "title": "Episode 14",
+        "season": 2017,
+        "episode": 14,
+        "released": "2017-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748872",
+        "title": "Episode 15",
+        "season": 2017,
+        "episode": 15,
+        "released": "2017-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748842",
+        "title": "Episode 16",
+        "season": 2017,
+        "episode": 16,
+        "released": "2017-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748843",
+        "title": "Episode 17",
+        "season": 2017,
+        "episode": 17,
+        "released": "2017-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748844",
+        "title": "Episode 18",
+        "season": 2017,
+        "episode": 18,
+        "released": "2017-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748845",
+        "title": "Episode 19",
+        "season": 2017,
+        "episode": 19,
+        "released": "2017-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748846",
+        "title": "Episode 20",
+        "season": 2017,
+        "episode": 20,
+        "released": "2017-05-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748847",
+        "title": "Episode 21",
+        "season": 2017,
+        "episode": 21,
+        "released": "2017-05-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748848",
+        "title": "Episode 22",
+        "season": 2017,
+        "episode": 22,
+        "released": "2017-05-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748849",
+        "title": "Episode 23",
+        "season": 2017,
+        "episode": 23,
+        "released": "2017-06-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748850",
+        "title": "Episode 24",
+        "season": 2017,
+        "episode": 24,
+        "released": "2017-06-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748851",
+        "title": "Episode 25",
+        "season": 2017,
+        "episode": 25,
+        "released": "2017-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748852",
+        "title": "Episode 26",
+        "season": 2017,
+        "episode": 26,
+        "released": "2017-07-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748853",
+        "title": "Episode 27",
+        "season": 2017,
+        "episode": 27,
+        "released": "2017-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748854",
+        "title": "Episode 28",
+        "season": 2017,
+        "episode": 28,
+        "released": "2017-07-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748855",
+        "title": "Episode 29",
+        "season": 2017,
+        "episode": 29,
+        "released": "2017-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748856",
+        "title": "Episode 30",
+        "season": 2017,
+        "episode": 30,
+        "released": "2017-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748857",
+        "title": "Episode 31",
+        "season": 2017,
+        "episode": 31,
+        "released": "2017-08-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748858",
+        "title": "Episode 32",
+        "season": 2017,
+        "episode": 32,
+        "released": "2017-08-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748859",
+        "title": "Episode 33",
+        "season": 2017,
+        "episode": 33,
+        "released": "2017-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748860",
+        "title": "Episode 34",
+        "season": 2017,
+        "episode": 34,
+        "released": "2017-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748861",
+        "title": "Episode 35",
+        "season": 2017,
+        "episode": 35,
+        "released": "2017-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748862",
+        "title": "Episode 36",
+        "season": 2017,
+        "episode": 36,
+        "released": "2017-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1306444",
+        "title": "Episode 37",
+        "season": 2017,
+        "episode": 37,
+        "released": "2017-09-18",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1748863",
+        "title": "Episode 38",
+        "season": 2017,
+        "episode": 38,
+        "released": "2017-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1306448",
+        "title": "Episode 39",
+        "season": 2017,
+        "episode": 39,
+        "released": "2017-10-02",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1306449",
+        "title": "Episode 40",
+        "season": 2017,
+        "episode": 40,
+        "released": "2017-10-09",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1306450",
+        "title": "Episode 41",
+        "season": 2017,
+        "episode": 41,
+        "released": "2017-10-16",
+        "overview": "Trey Wingo, Tim Hasselbeck and Merril Hoge recap Sunday's NFL action."
+      },
+      {
+        "id": "tvmaze:1340514",
+        "title": "Episode 42",
+        "season": 2017,
+        "episode": 42,
+        "released": "2017-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1340515",
+        "title": "Episode 43",
+        "season": 2017,
+        "episode": 43,
+        "released": "2017-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748864",
+        "title": "Episode 44",
+        "season": 2017,
+        "episode": 44,
+        "released": "2017-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748865",
+        "title": "Episode 45",
+        "season": 2017,
+        "episode": 45,
+        "released": "2017-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748866",
+        "title": "Episode 46",
+        "season": 2017,
+        "episode": 46,
+        "released": "2017-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748867",
+        "title": "Episode 47",
+        "season": 2017,
+        "episode": 47,
+        "released": "2017-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748868",
+        "title": "Episode 48",
+        "season": 2017,
+        "episode": 48,
+        "released": "2017-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748869",
+        "title": "Episode 49",
+        "season": 2017,
+        "episode": 49,
+        "released": "2017-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748870",
+        "title": "Episode 50",
+        "season": 2017,
+        "episode": 50,
+        "released": "2017-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748871",
+        "title": "Episode 51",
+        "season": 2017,
+        "episode": 51,
+        "released": "2017-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748785",
+        "title": "Week 1",
+        "season": 2019,
+        "episode": 1,
+        "released": "2019-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748786",
+        "title": "Week 2",
+        "season": 2019,
+        "episode": 2,
+        "released": "2019-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748787",
+        "title": "Week 3",
+        "season": 2019,
+        "episode": 3,
+        "released": "2019-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748788",
+        "title": "Week 4",
+        "season": 2019,
+        "episode": 4,
+        "released": "2019-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748789",
+        "title": "Week 5",
+        "season": 2019,
+        "episode": 5,
+        "released": "2019-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748790",
+        "title": "Week 6",
+        "season": 2019,
+        "episode": 6,
+        "released": "2019-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748791",
+        "title": "Week 7",
+        "season": 2019,
+        "episode": 7,
+        "released": "2019-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748792",
+        "title": "Week 8",
+        "season": 2019,
+        "episode": 8,
+        "released": "2019-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748793",
+        "title": "Week 9",
+        "season": 2019,
+        "episode": 9,
+        "released": "2019-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748794",
+        "title": "Week 10",
+        "season": 2019,
+        "episode": 10,
+        "released": "2019-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748795",
+        "title": "Week 11",
+        "season": 2019,
+        "episode": 11,
+        "released": "2019-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748796",
+        "title": "Week 12",
+        "season": 2019,
+        "episode": 12,
+        "released": "2019-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1748784",
+        "title": "Week 13",
+        "season": 2019,
+        "episode": 13,
+        "released": "2019-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945048",
+        "title": "Week 15",
+        "season": 2019,
+        "episode": 14,
+        "released": "2019-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945049",
+        "title": "Week 16",
+        "season": 2019,
+        "episode": 15,
+        "released": "2019-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945050",
+        "title": "Week 17",
+        "season": 2019,
+        "episode": 16,
+        "released": "2019-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945051",
+        "title": "Wildcard Saturday",
+        "season": 2019,
+        "episode": 17,
+        "released": "2020-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945052",
+        "title": "Wildcard Sunday",
+        "season": 2019,
+        "episode": 18,
+        "released": "2020-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945053",
+        "title": "Divisional Saturday",
+        "season": 2019,
+        "episode": 19,
+        "released": "2020-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945054",
+        "title": "Divisional Sunday",
+        "season": 2019,
+        "episode": 20,
+        "released": "2020-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945055",
+        "title": "Conference Championship",
+        "season": 2019,
+        "episode": 21,
+        "released": "2020-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945056",
+        "title": "Super Bowl LIV",
+        "season": 2019,
+        "episode": 22,
+        "released": "2020-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945043",
+        "title": "Week 1",
+        "season": 2020,
+        "episode": 1,
+        "released": "2020-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945044",
+        "title": "Week 2",
+        "season": 2020,
+        "episode": 2,
+        "released": "2020-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945045",
+        "title": "Week 3",
+        "season": 2020,
+        "episode": 3,
+        "released": "2020-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945046",
+        "title": "Week 4",
+        "season": 2020,
+        "episode": 4,
+        "released": "2020-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945047",
+        "title": "Week 5",
+        "season": 2020,
+        "episode": 5,
+        "released": "2020-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945057",
+        "title": "Week 6",
+        "season": 2020,
+        "episode": 6,
+        "released": "2020-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1945058",
+        "title": "Week 7",
+        "season": 2020,
+        "episode": 7,
+        "released": "2020-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1957763",
+        "title": "Week 8",
+        "season": 2020,
+        "episode": 8,
+        "released": "2020-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1957764",
+        "title": "Week 9",
+        "season": 2020,
+        "episode": 9,
+        "released": "2020-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1963710",
+        "title": "Week 10",
+        "season": 2020,
+        "episode": 10,
+        "released": "2020-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1976002",
+        "title": "Week 11",
+        "season": 2020,
+        "episode": 11,
+        "released": "2020-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972128",
+        "title": "Week 12",
+        "season": 2020,
+        "episode": 12,
+        "released": "2020-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998887",
+        "title": "Week 13",
+        "season": 2020,
+        "episode": 13,
+        "released": "2020-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998888",
+        "title": "Week 14",
+        "season": 2020,
+        "episode": 14,
+        "released": "2020-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1998889",
+        "title": "Week 15",
+        "season": 2020,
+        "episode": 15,
+        "released": "2020-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2001115",
+        "title": "Week 16",
+        "season": 2020,
+        "episode": 16,
+        "released": "2020-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2001116",
+        "title": "Week 17",
+        "season": 2020,
+        "episode": 17,
+        "released": "2021-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2039009",
+        "title": "Wildcard Saturday",
+        "season": 2020,
+        "episode": 18,
+        "released": "2021-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2039010",
+        "title": "Wildcard Sunday",
+        "season": 2020,
+        "episode": 19,
+        "released": "2021-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2039011",
+        "title": "Divisional Saturday",
+        "season": 2020,
+        "episode": 20,
+        "released": "2021-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2039012",
+        "title": "Divisional Sunday",
+        "season": 2020,
+        "episode": 21,
+        "released": "2021-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2039013",
+        "title": "Conference Championship",
+        "season": 2020,
+        "episode": 22,
+        "released": "2021-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2039014",
+        "title": "Super Bowl LV",
+        "season": 2020,
+        "episode": 23,
+        "released": "2021-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2170972",
+        "title": "Week 1",
+        "season": 2021,
+        "episode": 1,
+        "released": "2021-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2170973",
+        "title": "Week 2",
+        "season": 2021,
+        "episode": 2,
+        "released": "2021-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2170974",
+        "title": "Week 3",
+        "season": 2021,
+        "episode": 3,
+        "released": "2021-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2170975",
+        "title": "Week 4",
+        "season": 2021,
+        "episode": 4,
+        "released": "2021-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2184164",
+        "title": "Week 5",
+        "season": 2021,
+        "episode": 5,
+        "released": "2021-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2184165",
+        "title": "Week 6",
+        "season": 2021,
+        "episode": 6,
+        "released": "2021-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2184166",
+        "title": "Week 7",
+        "season": 2021,
+        "episode": 7,
+        "released": "2021-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2184167",
+        "title": "Week 8",
+        "season": 2021,
+        "episode": 8,
+        "released": "2021-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2184168",
+        "title": "Week 9",
+        "season": 2021,
+        "episode": 9,
+        "released": "2021-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2184169",
+        "title": "Week 10",
+        "season": 2021,
+        "episode": 10,
+        "released": "2021-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2209308",
+        "title": "Week 11",
+        "season": 2021,
+        "episode": 11,
+        "released": "2021-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2209309",
+        "title": "Week 12",
+        "season": 2021,
+        "episode": 12,
+        "released": "2021-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2209310",
+        "title": "Week 13",
+        "season": 2021,
+        "episode": 13,
+        "released": "2021-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2209311",
+        "title": "Week 14",
+        "season": 2021,
+        "episode": 14,
+        "released": "2021-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2209312",
+        "title": "Week 15",
+        "season": 2021,
+        "episode": 15,
+        "released": "2021-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2209313",
+        "title": "Week 16",
+        "season": 2021,
+        "episode": 16,
+        "released": "2021-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2237279",
+        "title": "Week 17",
+        "season": 2021,
+        "episode": 17,
+        "released": "2022-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2237280",
+        "title": "Week 18",
+        "season": 2021,
+        "episode": 18,
+        "released": "2022-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2237278",
+        "title": "Wild Card Round #2",
+        "season": 2021,
+        "episode": 19,
+        "released": "2022-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2237281",
+        "title": "Divisional Round #2",
+        "season": 2021,
+        "episode": 22,
+        "released": "2022-01-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2237282",
+        "title": "Conference Championships",
+        "season": 2021,
+        "episode": 23,
+        "released": "2022-01-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2237283",
+        "title": "NFL Super Bowl 2022",
+        "season": 2021,
+        "episode": 24,
+        "released": "2022-02-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397725",
+        "title": "Week 1",
+        "season": 2022,
+        "episode": 1,
+        "released": "2022-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397726",
+        "title": "Week 2",
+        "season": 2022,
+        "episode": 2,
+        "released": "2022-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397727",
+        "title": "Week 3",
+        "season": 2022,
+        "episode": 3,
+        "released": "2022-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397728",
+        "title": "Week 4",
+        "season": 2022,
+        "episode": 4,
+        "released": "2022-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397729",
+        "title": "Week 5",
+        "season": 2022,
+        "episode": 5,
+        "released": "2022-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397735",
+        "title": "Week 6",
+        "season": 2022,
+        "episode": 6,
+        "released": "2022-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397739",
+        "title": "Week 7",
+        "season": 2022,
+        "episode": 7,
+        "released": "2022-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397736",
+        "title": "Week 8",
+        "season": 2022,
+        "episode": 8,
+        "released": "2022-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397741",
+        "title": "Week 9",
+        "season": 2022,
+        "episode": 9,
+        "released": "2022-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397730",
+        "title": "Week 10",
+        "season": 2022,
+        "episode": 10,
+        "released": "2022-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397737",
+        "title": "Week 11",
+        "season": 2022,
+        "episode": 11,
+        "released": "2022-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397738",
+        "title": "Week 12",
+        "season": 2022,
+        "episode": 12,
+        "released": "2022-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397740",
+        "title": "Week 13",
+        "season": 2022,
+        "episode": 13,
+        "released": "2022-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397731",
+        "title": "Week 14",
+        "season": 2022,
+        "episode": 14,
+        "released": "2022-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397743",
+        "title": "Week 15",
+        "season": 2022,
+        "episode": 15,
+        "released": "2022-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397744",
+        "title": "Week 16 (1)",
+        "season": 2022,
+        "episode": 16,
+        "released": "2022-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397742",
+        "title": "Week 16 (2)",
+        "season": 2022,
+        "episode": 17,
+        "released": "2022-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397732",
+        "title": "Week 17",
+        "season": 2022,
+        "episode": 18,
+        "released": "2023-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397733",
+        "title": "Week 18",
+        "season": 2022,
+        "episode": 19,
+        "released": "2023-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397746",
+        "title": "Wild Card Weekend (1)",
+        "season": 2022,
+        "episode": 20,
+        "released": "2023-01-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397734",
+        "title": "Wild Card Weekend (2)",
+        "season": 2022,
+        "episode": 21,
+        "released": "2023-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397745",
+        "title": "NFL Divisional Round (1)",
+        "season": 2022,
+        "episode": 22,
+        "released": "2023-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397747",
+        "title": "NFL Divisional Round (2)",
+        "season": 2022,
+        "episode": 23,
+        "released": "2023-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2397748",
+        "title": "Conference Championships",
+        "season": 2022,
+        "episode": 24,
+        "released": "2023-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2491553",
+        "title": "NFL Super Bowl 2023",
+        "season": 2022,
+        "episode": 25,
+        "released": "2023-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2658271",
+        "title": "Week 1",
+        "season": 2023,
+        "episode": 1,
+        "released": "2023-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2658273",
+        "title": "Week 2",
+        "season": 2023,
+        "episode": 2,
+        "released": "2023-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2658274",
+        "title": "Week 3",
+        "season": 2023,
+        "episode": 3,
+        "released": "2023-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2658275",
+        "title": "Week 4",
+        "season": 2023,
+        "episode": 4,
+        "released": "2023-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2658276",
+        "title": "Week 5",
+        "season": 2023,
+        "episode": 5,
+        "released": "2023-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2658277",
+        "title": "Week 6",
+        "season": 2023,
+        "episode": 6,
+        "released": "2023-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2658278",
+        "title": "Week 7",
+        "season": 2023,
+        "episode": 7,
+        "released": "2023-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2658279",
+        "title": "Week 8",
+        "season": 2023,
+        "episode": 8,
+        "released": "2023-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2719252",
+        "title": "Week 9",
+        "season": 2023,
+        "episode": 9,
+        "released": "2023-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2719253",
+        "title": "Week 10",
+        "season": 2023,
+        "episode": 10,
+        "released": "2023-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2719254",
+        "title": "Week 11",
+        "season": 2023,
+        "episode": 11,
+        "released": "2023-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2719255",
+        "title": "Week 12",
+        "season": 2023,
+        "episode": 12,
+        "released": "2023-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2719256",
+        "title": "Week 13",
+        "season": 2023,
+        "episode": 13,
+        "released": "2023-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2719257",
+        "title": "Week 14",
+        "season": 2023,
+        "episode": 14,
+        "released": "2023-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2719258",
+        "title": "Week 15",
+        "season": 2023,
+        "episode": 15,
+        "released": "2023-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2719259",
+        "title": "Week 16",
+        "season": 2023,
+        "episode": 16,
+        "released": "2023-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2719260",
+        "title": "Week 17",
+        "season": 2023,
+        "episode": 17,
+        "released": "2023-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2732605",
+        "title": "Week 18",
+        "season": 2023,
+        "episode": 18,
+        "released": "2024-01-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2770157",
+        "title": "Wild Card Weekend (1)",
+        "season": 2023,
+        "episode": 19,
+        "released": "2024-01-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2770158",
+        "title": "Wild Card Weekend (2)",
+        "season": 2023,
+        "episode": 20,
+        "released": "2024-01-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2770159",
+        "title": "NFL Divisional Round (1)",
+        "season": 2023,
+        "episode": 21,
+        "released": "2024-01-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2770160",
+        "title": "NFL Divisional Round (2)",
+        "season": 2023,
+        "episode": 22,
+        "released": "2024-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2770161",
+        "title": "Conference Championships",
+        "season": 2023,
+        "episode": 23,
+        "released": "2024-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2770162",
+        "title": "NFL Super Bowl 2024",
+        "season": 2023,
+        "episode": 24,
+        "released": "2024-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122945",
+        "title": "Week 1",
+        "season": 2024,
+        "episode": 1,
+        "released": "2024-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122946",
+        "title": "Week 2",
+        "season": 2024,
+        "episode": 2,
+        "released": "2024-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122947",
+        "title": "Week 3",
+        "season": 2024,
+        "episode": 3,
+        "released": "2024-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122948",
+        "title": "Week 4",
+        "season": 2024,
+        "episode": 4,
+        "released": "2024-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122949",
+        "title": "Week 5",
+        "season": 2024,
+        "episode": 5,
+        "released": "2024-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122950",
+        "title": "Week 6",
+        "season": 2024,
+        "episode": 6,
+        "released": "2024-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122951",
+        "title": "Week 7",
+        "season": 2024,
+        "episode": 7,
+        "released": "2024-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122952",
+        "title": "Week 8",
+        "season": 2024,
+        "episode": 8,
+        "released": "2024-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122953",
+        "title": "Week 9",
+        "season": 2024,
+        "episode": 9,
+        "released": "2024-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122954",
+        "title": "Week 10",
+        "season": 2024,
+        "episode": 10,
+        "released": "2024-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122955",
+        "title": "Week 11",
+        "season": 2024,
+        "episode": 11,
+        "released": "2024-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122956",
+        "title": "Week 12",
+        "season": 2024,
+        "episode": 12,
+        "released": "2024-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122957",
+        "title": "Week 13",
+        "season": 2024,
+        "episode": 13,
+        "released": "2024-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122958",
+        "title": "Week 14",
+        "season": 2024,
+        "episode": 14,
+        "released": "2024-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122959",
+        "title": "Week 15",
+        "season": 2024,
+        "episode": 15,
+        "released": "2024-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122960",
+        "title": "Week 16",
+        "season": 2024,
+        "episode": 16,
+        "released": "2024-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122961",
+        "title": "Week 17",
+        "season": 2024,
+        "episode": 17,
+        "released": "2024-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122962",
+        "title": "Week 18",
+        "season": 2024,
+        "episode": 18,
+        "released": "2025-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122963",
+        "title": "Wild Card Weekend (1)",
+        "season": 2024,
+        "episode": 19,
+        "released": "2025-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122964",
+        "title": "Wild Card Weekend (2)",
+        "season": 2024,
+        "episode": 20,
+        "released": "2025-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122965",
+        "title": "NFL Divisional Round (1)",
+        "season": 2024,
+        "episode": 21,
+        "released": "2025-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122966",
+        "title": "NFL Divisional Round (2)",
+        "season": 2024,
+        "episode": 22,
+        "released": "2025-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122967",
+        "title": "Conference Championships",
+        "season": 2024,
+        "episode": 23,
+        "released": "2025-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122968",
+        "title": "NFL Super Bowl 2024",
+        "season": 2024,
+        "episode": 24,
+        "released": "2025-02-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359927",
+        "title": "Week 1",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359928",
+        "title": "Week 2",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359929",
+        "title": "Week 3",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359930",
+        "title": "Week 4",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359931",
+        "title": "Week 5",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359932",
+        "title": "Week 6",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359933",
+        "title": "Week 7",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359934",
+        "title": "Week 8",
+        "season": 2025,
+        "episode": 8,
+        "released": "2025-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359935",
+        "title": "Week 9",
+        "season": 2025,
+        "episode": 9,
+        "released": "2025-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359936",
+        "title": "Week 10",
+        "season": 2025,
+        "episode": 10,
+        "released": "2025-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359937",
+        "title": "Week 11",
+        "season": 2025,
+        "episode": 11,
+        "released": "2025-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359938",
+        "title": "Week 12",
+        "season": 2025,
+        "episode": 12,
+        "released": "2025-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359939",
+        "title": "Week 13",
+        "season": 2025,
+        "episode": 13,
+        "released": "2025-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359940",
+        "title": "Week 14",
+        "season": 2025,
+        "episode": 14,
+        "released": "2025-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359941",
+        "title": "Week 15",
+        "season": 2025,
+        "episode": 15,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359942",
+        "title": "Week 16",
+        "season": 2025,
+        "episode": 16,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359943",
+        "title": "Week 17",
+        "season": 2025,
+        "episode": 17,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359944",
+        "title": "Week 18",
+        "season": 2025,
+        "episode": 18,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359945",
+        "title": "Wild Card Weekend (1)",
+        "season": 2025,
+        "episode": 19,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359946",
+        "title": "Wild Card Weekend (2)",
+        "season": 2025,
+        "episode": 20,
+        "released": "2026-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359947",
+        "title": "NFL Divisional Round (1)",
+        "season": 2025,
+        "episode": 21,
+        "released": "2026-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359948",
+        "title": "NFL Divisional Round (2)",
+        "season": 2025,
+        "episode": 22,
+        "released": "2026-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359949",
+        "title": "Conference Championships",
+        "season": 2025,
+        "episode": 23,
+        "released": "2026-01-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3359950",
+        "title": "NFL Super Bowl 2025",
+        "season": 2025,
+        "episode": 24,
+        "released": "2026-02-08",
+        "overview": ""
+      }
+    ]
+  }
+}

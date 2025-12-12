@@ -1,0 +1,964 @@
+{
+  "meta": {
+    "id": "tvmaze:41416",
+    "type": "series",
+    "name": "Accident, Suicide or Murder",
+    "description": "Accident, Suicide or Murder explores the unbelievable true stories of suspicious deaths. Each episode retraces the investigation from start to finish, taking viewers through the twists and turns of these shocking cases, from dissecting the red flags to the undeniable evidence, and strange behavior that put the tragedy in question. With the families fighting for justice and the detectives on the case determined to find the truth, motives will be exposed and justice will be served as the families finally find out what caused the death of their loved ones.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/593/1482931.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/593/1482931.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:3441614",
+        "title": "Death Below Deck",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-06",
+        "overview": "When a Navy officer succumbs to a mysterious illness after months at sea, nothing makes sense, until an autopsy yields a stunning revelation. All roads lead to dead ends, until they zero in on an unlikely target."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      },
+      {
+        "id": "tvmaze:1625419",
+        "title": "The Sinister Minister",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-03-23",
+        "overview": "When respected pastor A.B. Schirmer's wife dies in a tragic car accident, the small Pennsylvania community mourns. But when a congregant commits suicide in the pastor's office, red flags are raised exposing a lurid affair. The pastor's inappropriate behavior and suspicious past sparks another investigation into the death of his first wife. Driven by friends and family members of the victims, a determined detective begins a crusade for justice."
+      },
+      {
+        "id": "tvmaze:1627013",
+        "title": "Blood and Justice",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-03-30",
+        "overview": "When a former cop discovers his wife shot to death, authorities believe it's suicide.  But her family fights back, turning the Texas justice system upside down."
+      },
+      {
+        "id": "tvmaze:1631553",
+        "title": "Blood Betrayal",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-04-06",
+        "overview": "A young father is found with a fatal gunshot wound. The authorities say it's suicide but his family knows he would never take his own life. A mother and daughter fight for nearly 40 years to reveal the truth with the help of a dedicated police chief."
+      },
+      {
+        "id": "tvmaze:1636689",
+        "title": "Two Deaths, One Suspect",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-04-13",
+        "overview": "A grieving husband claims his wife accidentally fell to her death. Investigators become suspicious after learning his first wife also died in a freak accident."
+      },
+      {
+        "id": "tvmaze:1636690",
+        "title": "Killer Detective",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-04-20",
+        "overview": "When a Texas police detective finds his wife dead from a gunshot wound his fellow detectives work to uncover if her death was an accident, a suicide, or something more sinister."
+      },
+      {
+        "id": "tvmaze:1645075",
+        "title": "Killer Crash",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-04-27",
+        "overview": "A terrifying crash off a mountain road leaves one woman dead and her husband injured. But the fatal accident raises suspicions as a family fights to expose the real story."
+      },
+      {
+        "id": "tvmaze:1645076",
+        "title": "Deadly Prophecy",
+        "season": 1,
+        "episode": 7,
+        "released": "2019-05-04",
+        "overview": "A young pastor grieves after his wife dies in a house fire. But when shocking secrets are revealed, a community is shattered. Could a prophecy have predicted her death?"
+      },
+      {
+        "id": "tvmaze:1645077",
+        "title": "Finger on the Trigger",
+        "season": 1,
+        "episode": 8,
+        "released": "2019-05-11",
+        "overview": "A frantic woman calls 9-1-1 saying her boyfriend shot himself. But the story keeps changing. It takes a risky gambit to unravel the truth."
+      },
+      {
+        "id": "tvmaze:1645078",
+        "title": "Investigated by Paul Holes: What Happened to Morgan Ingram?",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-05-18",
+        "overview": "Paul Holes re-examines the suspicious death of Morgan Ingram. Her parents claim she was stalked and eventually murdered, but law enforcement closed her case as a suicide by overdose. What really happened to this beloved 20 year old?"
+      },
+      {
+        "id": "tvmaze:1842047",
+        "title": "Behind the Locked Door",
+        "season": 2,
+        "episode": 1,
+        "released": "2020-05-09",
+        "overview": "Ellen Greenberg was found dead in her locked apartment with over 20 stab wounds. But with no signs of an intruder or a struggle, detectives search for evidence and dig into Ellen's mental health to determine her cause of death. After an initial ruling of her death, months later, a medical examiner stunned family members with a rare reversal, launching her parents into their own investigation to fight for justice for their daughter."
+      },
+      {
+        "id": "tvmaze:1859661",
+        "title": "Killer Fetish",
+        "season": 2,
+        "episode": 2,
+        "released": "2020-05-16",
+        "overview": "First responders are called to the fatal shooting of a 28-year-old woman. Her estranged husband claims their bizarre sex game ended in suicide. Investigators and the victim's family believe this was a cold-blooded murder."
+      },
+      {
+        "id": "tvmaze:1864445",
+        "title": "Twin Tragedy",
+        "season": 2,
+        "episode": 3,
+        "released": "2020-05-23",
+        "overview": "Identical twin sisters are involved in a horrific crash on the island of Maui. Miraculously, one sister survives after their car plunges over the side of a cliff. Was this a tragic accident or something more ominous?"
+      },
+      {
+        "id": "tvmaze:1864446",
+        "title": "The Missing Bullet",
+        "season": 2,
+        "episode": 4,
+        "released": "2020-05-30",
+        "overview": "A man discovers the body of his fiancé with an apparent self-inflicted gunshot wound. Her death is ruled a suicide but authorities are puzzled when they can't find the fatal bullet. The discovery of the missing bullet turns the case upside down."
+      },
+      {
+        "id": "tvmaze:1873297",
+        "title": "A Shot in the Dark",
+        "season": 2,
+        "episode": 5,
+        "released": "2020-06-06",
+        "overview": "A young woman is found with a fatal head wound and her hand on the shotgun. Her fiancé claims she killed herself but grieving family members insist the suicide scene was staged. The case goes cold until a new prosecutor takes a second look."
+      },
+      {
+        "id": "tvmaze:1875570",
+        "title": "Red Sash Death",
+        "season": 2,
+        "episode": 6,
+        "released": "2020-06-13",
+        "overview": "A beloved grandmother is found with a red bathrobe sash knotted around her neck. Her death looks like suicide until the Medical Examiner rules homicide. The victim's 76-year-old husband is charged with murder but the case takes a surprising turn."
+      },
+      {
+        "id": "tvmaze:1875571",
+        "title": "Deadly Crash",
+        "season": 2,
+        "episode": 7,
+        "released": "2020-06-20",
+        "overview": "A car crash on a rural highway leaves one woman dead while her husband walks away unscathed. It appears to be a tragic accident. Still, one state trooper can't shake the feeling the crash is anything but routine."
+      },
+      {
+        "id": "tvmaze:1883750",
+        "title": "In the Fire",
+        "season": 2,
+        "episode": 8,
+        "released": "2020-06-27",
+        "overview": "Firefighters discover the charred remains of a young wife and mother but the flames didn't kill her. She sustained a gunshot wound to the head and the evidence points to suicide. Loved ones argue it's a case of murder."
+      },
+      {
+        "id": "tvmaze:1883751",
+        "title": "The Cop's Wife",
+        "season": 2,
+        "episode": 9,
+        "released": "2020-07-04",
+        "overview": "A police officer discovers his young wife with a fatal gunshot wound from his service weapon. Her death is ruled a suicide. Investigators uncover a shocking story that leads to a sensational trial with an even more sensational verdict."
+      },
+      {
+        "id": "tvmaze:1883752",
+        "title": "Dead in the Water",
+        "season": 2,
+        "episode": 10,
+        "released": "2020-07-11",
+        "overview": "A husband discovers his wife face down in their bathtub. Her death appears to be an accident but questions are raised about how she drowned. Was it a drug overdose? Did she slip and fall? The investigation exposes the disturbing truth."
+      },
+      {
+        "id": "tvmaze:1883753",
+        "title": "Young Deadly Love",
+        "season": 2,
+        "episode": 11,
+        "released": "2020-07-18",
+        "overview": "A young man calls 911 to report his fiancé fatally shot herself in their bed. Her family insists she would never take her own life. The investigation drags on for years until an unexpected development leads to a stunning conclusion."
+      },
+      {
+        "id": "tvmaze:1883754",
+        "title": "Death in a Small Town",
+        "season": 2,
+        "episode": 12,
+        "released": "2020-07-25",
+        "overview": "An 80-year-old woman is found in her home lying in a pool of blood. Her death is ruled an accident, but her family suspects foul play. In a tight-knit community where neighbors look out for each other, who would want to hurt a beloved grandmother?"
+      },
+      {
+        "id": "tvmaze:1903096",
+        "title": "Deadly Betrayal",
+        "season": 2,
+        "episode": 13,
+        "released": "2020-08-01",
+        "overview": "A decorated war hero is found in his home, the victim of an apparent drug overdose. Investigators uncover a twisted story of fraud and betrayal that leads to a stunning conclusion."
+      },
+      {
+        "id": "tvmaze:2050103",
+        "title": "Dark Echoes",
+        "season": 3,
+        "episode": 1,
+        "released": "2021-04-17",
+        "overview": "A weekend trip to an Alaskan lodge turns deadly for a young mother when she's shot and killed by her boyfriend. The death is ruled an accident and the case is closed until an eerily similar incident in Montana drives investigators to reopen the case."
+      },
+      {
+        "id": "tvmaze:2077077",
+        "title": "Unholy Secrets",
+        "season": 3,
+        "episode": 2,
+        "released": "2021-04-24",
+        "overview": "A pastor places a frantic 911 call, pleading for help to save his fiancée who he says just shot herself. As investigators follow the unravelling truth, and look closer at the crime scene, a darker side to this happy relationship stuns everyone."
+      },
+      {
+        "id": "tvmaze:2078182",
+        "title": "Lover's Chair",
+        "season": 3,
+        "episode": 3,
+        "released": "2021-05-01",
+        "overview": "Investigators uncover a web of lies a decade after a couple's romantic evening atop Rockefeller Lookout in New Jersey ends with the wife's tragic death."
+      },
+      {
+        "id": "tvmaze:2078183",
+        "title": "Relentless",
+        "season": 3,
+        "episode": 4,
+        "released": "2021-05-08",
+        "overview": "A Texas woman's apparent suicide devastates the family that she leaves behind. But after one investigator dedicates decades to solving the mystery of what drove her to make such a tragic decision, a truth that is far more sinister is discovered."
+      },
+      {
+        "id": "tvmaze:2083653",
+        "title": "A Deadly Inferno",
+        "season": 3,
+        "episode": 5,
+        "released": "2021-05-15",
+        "overview": "Tragedy strikes a rural Nebraska town when their beloved high school volleyball coach dies in a fiery car accident. But as investigators reconstruct her tragic death, the resulting clues steer the investigation to reveal a horrifying series of events."
+      },
+      {
+        "id": "tvmaze:2087897",
+        "title": "Vanished with the Tides",
+        "season": 3,
+        "episode": 6,
+        "released": "2021-05-22",
+        "overview": "A Florida man's body washes ashore on idyllic Cocoa Beach, the apparent victim of an accidental drowning. But as investigators pull back the layers of the victim's personal life, a far murkier truth is revealed."
+      },
+      {
+        "id": "tvmaze:2102524",
+        "title": "A Deadly Dose",
+        "season": 3,
+        "episode": 7,
+        "released": "2021-05-29",
+        "overview": "In the early morning hours after Valentine's Day, a man is found dead after an apparent drug overdose; but a jail informant gives investigators a tip that abruptly changes the case, and a deadly pattern of deaths in the family is revealed."
+      },
+      {
+        "id": "tvmaze:2103871",
+        "title": "Thicker Than Water",
+        "season": 3,
+        "episode": 8,
+        "released": "2021-06-05",
+        "overview": "An elderly matriarch is found dead in her home outside of Boston after an apparent accidental fall down her stairs. With the help of a confidential informant, police obtain shocking audio that reveals the painful truth behind her death."
+      },
+      {
+        "id": "tvmaze:2108571",
+        "title": "Execution Enigma",
+        "season": 3,
+        "episode": 9,
+        "released": "2021-06-12",
+        "overview": "Investigators suspect foul play when they discover a mysterious body lying dead along a lonely stretch of New Mexico highway. But the bizarre trail of evidence only deepens the dark enigma surrounding a seemingly well-respected family man."
+      },
+      {
+        "id": "tvmaze:2120141",
+        "title": "The Pact",
+        "season": 3,
+        "episode": 10,
+        "released": "2021-07-31",
+        "overview": "In May 2017, a teenage girl dies from an apparent suicide. Utah investigators suspect that there's more to the scene than meets the eye, and a close friend may have helped her end her own life. As evidence comes to light, a darker truth is revealed."
+      },
+      {
+        "id": "tvmaze:2137195",
+        "title": "Relentless Pursuit",
+        "season": 3,
+        "episode": 11,
+        "released": "2021-08-07",
+        "overview": "Investigators in a rural mountain community are baffled by the accidental shooting of a young mother. But her determined daughter's decades-long quest fractures the so-called facts to reveal a darker story hidden beneath."
+      },
+      {
+        "id": "tvmaze:2138030",
+        "title": "Out of Thin Air",
+        "season": 3,
+        "episode": 12,
+        "released": "2021-08-07",
+        "overview": "When a body is discovered in an upscale Boston suburb all signs point to homicide. But the clues in this unique case send investigators on a journey to discover an unbelievable truth that seems more like the plot of a movie."
+      },
+      {
+        "id": "tvmaze:2138031",
+        "title": "In Sickness and in Wealth",
+        "season": 3,
+        "episode": 13,
+        "released": "2021-08-14",
+        "overview": "When a once prominent heart surgeon is found dead in his bed after suffering mysterious health conditions, detectives must determine if it's natural causes or a nefarious money grab."
+      },
+      {
+        "id": "tvmaze:2138032",
+        "title": "Fallen",
+        "season": 3,
+        "episode": 14,
+        "released": "2021-08-14",
+        "overview": "A beautiful scenic drive up the coast of California turns deadly when a young woman falls from an overlook in Big Sur. But when the people closest to her hear about the tragic accident, they're convinced that something more nefarious is going on."
+      },
+      {
+        "id": "tvmaze:2138033",
+        "title": "A Perfectly Designed Staircase",
+        "season": 3,
+        "episode": 15,
+        "released": "2021-08-21",
+        "overview": "When a woman is found dead at the bottom of her staircase, Investigators focus on her husband as the main suspect. But family and friends rally behind him, pitting the reputation of a gentle spouse against the spectre of a bizarre double-life."
+      },
+      {
+        "id": "tvmaze:2154565",
+        "title": "Blown Away",
+        "season": 3,
+        "episode": 16,
+        "released": "2021-08-28",
+        "overview": "When a successful family man is discovered in the rubble of a deadly explosion, investigators desperately try to determine if it was a planned hit, an attempted terrorist attack, or something else.."
+      },
+      {
+        "id": "tvmaze:2159991",
+        "title": "Blood on the Tracks",
+        "season": 3,
+        "episode": 17,
+        "released": "2021-09-04",
+        "overview": "A young woman who is lying on railroad tracks is hit by a freight train, but when her cause of death comes into question, investigators push to reopen the case; after years of dedicated police work, the buried truth finally comes to light."
+      },
+      {
+        "id": "tvmaze:2149395",
+        "title": "Between a Cop and a Hard Place",
+        "season": 3,
+        "episode": 18,
+        "released": "2021-09-11",
+        "overview": "A police officer reports that he found his wife dead in their home, but when the scene says suicide and the family says otherwise, the investigation spills across state lines to reveal the truth."
+      },
+      {
+        "id": "tvmaze:2163382",
+        "title": "Death of a Salesman",
+        "season": 3,
+        "episode": 19,
+        "released": "2021-09-18",
+        "overview": "A local celebrity is fatally shot in his bedroom. Although debt and depression point to suicide, forensic evidence and expert testimony hint at something more sinister. The truth revealed will draw a line between a grieving spouse and a black widow."
+      },
+      {
+        "id": "tvmaze:2163383",
+        "title": "Dark Prophecy",
+        "season": 3,
+        "episode": 20,
+        "released": "2021-09-18",
+        "overview": "A 2004 welfare check spirals into a sinister tableau of death when Idaho Sheriffs make forceful entry into a home only to discover a horrific crime scene provoked by a cult-like prophecy, revealing a shocking truth that no one saw coming."
+      },
+      {
+        "id": "tvmaze:2432717",
+        "title": "The Big Shot",
+        "season": 4,
+        "episode": 1,
+        "released": "2022-11-26",
+        "overview": "When a late-night party in the home of a celebrity basketball player turns deadly, a curious web of lies leads detectives on a rocky road to the truth to find justice for the unlikely victim."
+      },
+      {
+        "id": "tvmaze:2436433",
+        "title": "Father Knows Death",
+        "season": 4,
+        "episode": 2,
+        "released": "2022-12-03",
+        "overview": "Two unusual accidents that are two decades apart leave a family suspicious of a father who appears to benefit from tragedy."
+      },
+      {
+        "id": "tvmaze:2439535",
+        "title": "The Hunter and the Hunted",
+        "season": 4,
+        "episode": 3,
+        "released": "2022-12-10",
+        "overview": "A young immigrant mother is killed in a hunting accident while out with her fiancé; as police investigate, they unravel a tangle of romantic relationships, money and motives to reveal the terrifying truth of what really happened."
+      },
+      {
+        "id": "tvmaze:2443362",
+        "title": "A Family Fight",
+        "season": 4,
+        "episode": 4,
+        "released": "2022-12-17",
+        "overview": "Found with a gunshot wound to her chest, a woman's family seeks justice for 20 years after the would-be murder suspect proclaims suicide."
+      },
+      {
+        "id": "tvmaze:2451116",
+        "title": "Playing With Fire",
+        "season": 4,
+        "episode": 5,
+        "released": "2023-01-07",
+        "overview": "Two bodies are discovered in the ashes of a suspicious house fire. The hunt for a former jilted lover begins. When investigators follow clues in a viral Tik-Tok trend, they begin to realize that nothing is what it seems."
+      },
+      {
+        "id": "tvmaze:2458883",
+        "title": "California Crash",
+        "season": 4,
+        "episode": 6,
+        "released": "2023-01-14",
+        "overview": "A tragic car accident leaves a mother dead and her daughter in critical condition. While trying to uncover the truth behind the crash, detectives are led down a winding path involving an alleged government conspiracy and a citywide manhunt."
+      },
+      {
+        "id": "tvmaze:2458884",
+        "title": "Hollywood Horror",
+        "season": 4,
+        "episode": 7,
+        "released": "2023-01-21",
+        "overview": "Detectives chase the truth when a struggling Hollywood actress and a famed music producer engage in a late-night rendezvous that takes a deadly turn."
+      },
+      {
+        "id": "tvmaze:2464565",
+        "title": "Beauty and the Politician",
+        "season": 4,
+        "episode": 8,
+        "released": "2023-01-28",
+        "overview": "A married politician's day with his mistress comes to a tragic end when she's shot to death in her driveway. The question becomes whether this was a murder in a possessive fit of rage, or whether his refusal to leave his wife finally pushed her over the edge to commit suicide."
+      },
+      {
+        "id": "tvmaze:2478609",
+        "title": "Mystery in Montebello",
+        "season": 4,
+        "episode": 9,
+        "released": "2023-02-04",
+        "overview": "When a 41-year-old math teacher suddenly dies at home without an official cause of death, investigators find his new wife holds the clues."
+      },
+      {
+        "id": "tvmaze:2482930",
+        "title": "Drowning in Lies",
+        "season": 4,
+        "episode": 10,
+        "released": "2023-02-11",
+        "overview": "When a famed musician's ex-wife drowns in her new boyfriend's pool, her famous family fights for justice, and the question becomes whether this was a drunken accidental drowning or whether he did her in."
+      },
+      {
+        "id": "tvmaze:2519156",
+        "title": "Friend or Foe?",
+        "season": 4,
+        "episode": 11,
+        "released": "2023-04-08",
+        "overview": "Two young friends who are prominent in the online deaf community pursue a shared dream in the northern California wilderness; when the pact turns sour and one of them goes missing, detectives must make sense of their perilous and deadly journey."
+      },
+      {
+        "id": "tvmaze:2519162",
+        "title": "Shattered Glass",
+        "season": 4,
+        "episode": 12,
+        "released": "2023-04-15",
+        "overview": "When a beloved wife and doting husband are involved in a bizarre car accident, only one of them survives; as inconsistencies pile up, detectives are left questioning if this really was a freak accident or a clever attempt to hide a murder."
+      },
+      {
+        "id": "tvmaze:2523208",
+        "title": "Drop By Drop",
+        "season": 4,
+        "episode": 13,
+        "released": "2023-04-22",
+        "overview": "When first responders find a self-made millionaire dead in his lakeside mansion, initial signs point to a natural cause of death; as investigators probe further, they uncover a toxicological bombshell that blows the case wide open."
+      },
+      {
+        "id": "tvmaze:2528421",
+        "title": "A Mysterious Overdose",
+        "season": 4,
+        "episode": 14,
+        "released": "2023-04-29",
+        "overview": "A troubled Las Vegas lawyer goes to sleep early while her psychologist husband takes their daughters out to dinner. When she doesn't wake up the next morning, her family is convinced there's more to this incident than investigators initially believe."
+      },
+      {
+        "id": "tvmaze:2534812",
+        "title": "A Loaded Crime Scene",
+        "season": 4,
+        "episode": 15,
+        "released": "2023-05-06",
+        "overview": "A husband shoots his wife across the kitchen table while cleaning a gun. He claims it was an accident, but when her colleague mysteriously dies a few days later, investigators take a closer look at the case."
+      },
+      {
+        "id": "tvmaze:2538870",
+        "title": "Secrets in the Scrapyard",
+        "season": 4,
+        "episode": 16,
+        "released": "2023-05-13",
+        "overview": "When a young mother is found dead at work from an apparent suicide, her church community is shocked by the loss. However, revelations of torrid infidelity and rampant drug use lead investigators on a decade-long search for the truth behind her death."
+      },
+      {
+        "id": "tvmaze:2544594",
+        "title": "Death in Shallow Waters",
+        "season": 4,
+        "episode": 17,
+        "released": "2023-05-20",
+        "overview": "A husband comes home to find his wife dead next to their outdoor fish pond. Her cause of death appears to be from a trip and fall, but when investigators follow a twisted trail of familial deceit and greed, new truths bring her death into question."
+      },
+      {
+        "id": "tvmaze:2549600",
+        "title": "A Doctor's Care",
+        "season": 4,
+        "episode": 18,
+        "released": "2023-05-27",
+        "overview": "After a former beauty queen and mother of eight is found unconscious in her bathtub following a facelift, her death appears to be an accident. When her doctor husband is caught in a series of deceptions, it raises alarms with investigators."
+      },
+      {
+        "id": "tvmaze:2555861",
+        "title": "Cutting Ties",
+        "season": 4,
+        "episode": 19,
+        "released": "2023-06-03",
+        "overview": "On the edge of divorce, a couple's argument over custody turns deadly. The husband claims he killed his wife in self-defense when she attacked him with scissors, but a look into his past holds a deadly secret."
+      },
+      {
+        "id": "tvmaze:2560613",
+        "title": "Fiery Grave",
+        "season": 4,
+        "episode": 20,
+        "released": "2023-06-10",
+        "overview": "When a young husband dies in a fiery car crash, investigators believe his death was a tragic accident, but when his widow seems more relieved than aggrieved, detectives make a shocking discovery."
+      },
+      {
+        "id": "tvmaze:2840723",
+        "title": "Troubled Water",
+        "season": 5,
+        "episode": 1,
+        "released": "2024-05-18",
+        "overview": "A housewife dies in her hot tub in a normally quiet Idaho town. Detectives first believe it to be a horrible accident, but the investigation leads back to the unsolved murder of her husband, reminding police that lightning never strikes twice."
+      },
+      {
+        "id": "tvmaze:2870631",
+        "title": "In Her Words",
+        "season": 5,
+        "episode": 2,
+        "released": "2024-05-25",
+        "overview": "When a pregnant army wife and mother is discovered shot to death at her house, it is deemed a suicide, but diligent police work reveals a devious scheme and secrets buried in ashes thousands of miles apart."
+      },
+      {
+        "id": "tvmaze:2874078",
+        "title": "Revenge on the Road",
+        "season": 5,
+        "episode": 3,
+        "released": "2024-06-01",
+        "overview": "All the evidence points to a DUI when a former Gang Unit investigator is discovered dead in his overturned van on the interstate. But when four bullets are discovered in his body, gang retaliation or lover's revenge must be taken into account during a ten-year homicide inquiry."
+      },
+      {
+        "id": "tvmaze:2887974",
+        "title": "Justice for Jennifer?",
+        "season": 5,
+        "episode": 4,
+        "released": "2024-06-08",
+        "overview": "Jennifer, a well-liked college student was found dead under suspicious circumstances. The case dragged on for years as the findings of police investigators and medical examiners seemed to conflict with each other and with the testimonies of those who knew her."
+      },
+      {
+        "id": "tvmaze:2900605",
+        "title": "Among Us",
+        "season": 5,
+        "episode": 5,
+        "released": "2024-06-15",
+        "overview": "When a group of hospital patients dies of natural causes, authorities become alarmed. It takes more than 20 years and a dedicated investigation team to convict a murderer."
+      },
+      {
+        "id": "tvmaze:2916636",
+        "title": "Dark Plunge",
+        "season": 5,
+        "episode": 6,
+        "released": "2024-06-22",
+        "overview": "A couple's pickup is found submerged in a lake, and the wife's death appears to be the result of a horrible accident until investigators learn that not everything is as it seems in this pair's union."
+      },
+      {
+        "id": "tvmaze:2916767",
+        "title": "Let Us Prey",
+        "season": 5,
+        "episode": 7,
+        "released": "2024-06-29",
+        "overview": "A man is found in a west Los Angeles alley, dead from an apparent hit and run. When investigators dig deeper, strange suspects emerge in a twisted tale of greed."
+      },
+      {
+        "id": "tvmaze:2916789",
+        "title": "Ashes to Ashes",
+        "season": 5,
+        "episode": 8,
+        "released": "2024-07-06",
+        "overview": "When a man is found burned to death in his home workshop, his wife is charged with murder; the ensuing arson investigation points in a very different direction."
+      },
+      {
+        "id": "tvmaze:2934239",
+        "title": "Washed Away",
+        "season": 5,
+        "episode": 9,
+        "released": "2024-07-13",
+        "overview": "A popular community leader is killed in the shower, but when a friend and former medical examiner raises her concerns, the case takes an unexpected turn."
+      },
+      {
+        "id": "tvmaze:2934240",
+        "title": "A Father's Secret",
+        "season": 5,
+        "episode": 10,
+        "released": "2024-07-20",
+        "overview": "The discovery of a man's body hanging from a tree prompts a complex investigation from the Kentucky State Police and the FBI."
+      },
+      {
+        "id": "tvmaze:3044455",
+        "title": "The Crimson Staircase",
+        "season": 5,
+        "episode": 11,
+        "released": "2024-11-16",
+        "overview": "A prominent booster with ties all the way to the top of 'Bama football suffers a fall from grace. As he fights to clear his name, his naked dead body is found by his housekeeper in a bloody scene that appears to be a violent murder."
+      },
+      {
+        "id": "tvmaze:3046602",
+        "title": "Deadly Descent",
+        "season": 5,
+        "episode": 12,
+        "released": "2024-11-23",
+        "overview": "A well-known rock climber is found dead at the bottom of a cliff, shocking his family and the local climbing community. However, a closer look reveals more sinister details and dedicated investigators must determine the tragic truth."
+      },
+      {
+        "id": "tvmaze:3052152",
+        "title": "The Killing Season",
+        "season": 5,
+        "episode": 13,
+        "released": "2024-12-07",
+        "overview": "When a woman is found dead in the woods, she is the assumed victim of a tragic hunting accident. Police work uncovers a truth that shakes the peaceful existence of a small, tight-knit village."
+      },
+      {
+        "id": "tvmaze:3058793",
+        "title": "Double Jeopardy",
+        "season": 5,
+        "episode": 14,
+        "released": "2024-12-14",
+        "overview": "When a woman drowns in her tub, police think a recent purported suicide attempt holds the answer."
+      },
+      {
+        "id": "tvmaze:3058796",
+        "title": "The Marshland Mystery",
+        "season": 5,
+        "episode": 15,
+        "released": "2024-12-21",
+        "overview": "When an experienced outdoorsman is found viciously stabbed to death on a hunting trip, investigators work tirelessly to eventually uncover the stunning truth."
+      },
+      {
+        "id": "tvmaze:3094025",
+        "title": "In Her Words",
+        "season": 5,
+        "episode": 16,
+        "released": "2024-12-28",
+        "overview": "When a wife is found drowned in her bathtub, her last written wishes point to suicide. A determined family and relentless detective ask if the answers lie in her obsession with death or the devious web of a cheating husband."
+      },
+      {
+        "id": "tvmaze:3077759",
+        "title": "Lost Control",
+        "season": 5,
+        "episode": 17,
+        "released": "2025-01-04",
+        "overview": "When a couple crashes into a creek along a rural highway, investigators believe it's a tragic accident. A dogged coroner and newly appointed prosecutor join forces to uncover the truth of what happened that December night."
+      },
+      {
+        "id": "tvmaze:3084394",
+        "title": "Battle of the Experts",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-01-11",
+        "overview": "When a woman taking a whirlpool bath for some much-needed self-care is found dead in the tub, a 10-year investigation reveals dark currents lurking beneath the surface."
+      },
+      {
+        "id": "tvmaze:3084399",
+        "title": "Too Far To Fall",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-01-18",
+        "overview": "A wealthy socialite dies after falling down a staircase. The question arises if it was an accident or a murder. Investigators must rely on physics to determine the answer."
+      },
+      {
+        "id": "tvmaze:3084400",
+        "title": "Small-Town Justice",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-01-18",
+        "overview": "When a popular small-town doctor is found dead in a house fire, his caretaker's son is charged, convicted and sentenced, but years later a fresh look leads to a different conclusion."
+      },
+      {
+        "id": "tvmaze:3439962",
+        "title": "A Man And His Balloon",
+        "season": 6,
+        "episode": 1,
+        "released": "2025-11-22",
+        "overview": "When a 71-year-old man is found shot dead in a field, investigators suspect his killing is the result of a robbery. But as new evidence surfaces, detectives develop a wild theory to explain his death, and only a voice from the grave can prove it."
+      },
+      {
+        "id": "tvmaze:3441613",
+        "title": "Fatal Vows",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-11-29",
+        "overview": "A woman's sudden death in a Detroit hotel unravels a dark web of secrets, lies, and deadly coincidences that hint at something far more sinister."
+      },
+      {
+        "id": "tvmaze:3441614",
+        "title": "Death Below Deck",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-12-06",
+        "overview": "When a Navy officer succumbs to a mysterious illness after months at sea, nothing makes sense, until an autopsy yields a stunning revelation. All roads lead to dead ends, until they zero in on an unlikely target."
+      },
+      {
+        "id": "tvmaze:3441615",
+        "title": "Death By Request",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-12-13",
+        "overview": "A devoted husband, military man, and father of three calls the police with a chilling confession: he's shot his wife. What first appears to be a straightforward homicide soon unravels into something far more complex."
+      },
+      {
+        "id": "tvmaze:3468046",
+        "title": "Left To Unrest",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-12-20",
+        "overview": "When Diana Burrow is found unresponsive, her family and police suspect her death is from natural causes until small-town whispers reveal the neighborhood criminals may be hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:3468047",
+        "title": "Deadly Double",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-12-27",
+        "overview": "What seem like two unrelated events, a truck inferno and a missing persons report, soon collide in a deadly case of mistaken identity."
+      }
+    ]
+  }
+}

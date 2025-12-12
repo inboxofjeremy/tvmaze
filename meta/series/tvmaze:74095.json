@@ -1,0 +1,356 @@
+{
+  "meta": {
+    "id": "tvmaze:74095",
+    "type": "series",
+    "name": "Going Dutch",
+    "description": "In Going Dutch a decorated, hard-ass colonel is tasked with running the least important U.S. Army base in the world, located in the tulip-hugging, wine-chugging Netherlands.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/550/1375245.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/550/1375245.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3058705",
+        "title": "Pilot",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-01-02",
+        "overview": "The colonel is reassigned to take emergency command of USAG Stroopsdorf in the Netherlands; Sgt. Conway provides the colonel and Shah with a tour of the things Stroopsdorf is known for... cheese, laundry and bowling."
+      },
+      {
+        "id": "tvmaze:3081244",
+        "title": "Tanks for Nothing",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-01-09",
+        "overview": "Gen. Davidson makes a visit to USAG Stroopsdorf and insults the colonel by tasking him with commanding the unit of traffic during a tank maneuver; the colonel devises a plan to steal a tank to prove he is still in his prime."
+      },
+      {
+        "id": "tvmaze:3081245",
+        "title": "CIA",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-01-16",
+        "overview": "Maggie's on-off boyfriend, CIA Agent Rick, drops by the base for a weekend visit."
+      },
+      {
+        "id": "tvmaze:3081246",
+        "title": "Korfball",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-01-23",
+        "overview": "Everyone in town is talking about the upcoming Korfball match between the Americans and the Dutch. The Colonel refuses to lose to the Dutch and Captain Quinn brings out her high school alter ego \"The Rocket\" to make her dad proud."
+      },
+      {
+        "id": "tvmaze:3081247",
+        "title": "Nazi Hunters",
+        "season": 1,
+        "episode": 5,
+        "released": "2025-01-30",
+        "overview": "The troops of Stroopsdorf participate in their quarterly war games. Meanwhile, when an unidentified drone hovers over the base, The Colonel recruits Captain Maggie, Major Shah and Sergeant Dana to take a trip to the owner's house to confirm he is not a spy."
+      },
+      {
+        "id": "tvmaze:3081248",
+        "title": "When You Wish Upon a Star",
+        "season": 1,
+        "episode": 6,
+        "released": "2025-02-13",
+        "overview": "Gen. Davidson arrives at Stroopsdorf to receive his second star; the colonel eagerly desires a promotion and needs Capt. Quinn's help to charm Gen. King; Maj. Shah dips his toes back into the dating pool."
+      },
+      {
+        "id": "tvmaze:3081249",
+        "title": "Once Upon a Twice Christmas",
+        "season": 1,
+        "episode": 7,
+        "released": "2025-02-20",
+        "overview": "It's the middle of spring and the Dutch are celebrating Christmas -- again; the colonel and Katja are looking forward to celebrating their first Christmas dinner together as girlfriend and boyfriend."
+      },
+      {
+        "id": "tvmaze:3081250",
+        "title": "Trial of Jan",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-02-27",
+        "overview": "The Colonel wants to fire Jan but must abide by Dutch labor laws. After The Colonel witnesses Jan crash his bike into BA, he requests a mediation hearing to terminate Jan's employment."
+      },
+      {
+        "id": "tvmaze:3081251",
+        "title": "The Exes of Evil",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-03-06",
+        "overview": "When the Colonel's 3 ex-wives show up on base, he's surprised and furious to learn they're all good friends. Major Shah and Captain Maggie work together to fix the base's electrical wiring, with unexpected sparks flying between them."
+      },
+      {
+        "id": "tvmaze:3081252",
+        "title": "Born on the Third of July",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-03-13",
+        "overview": "In the season finale, after forgetting Captain Maggie's birthday yet again, The Colonel sets out to express his apology with a grand gesture, only to find that it may cost him the other person he loves: Katja."
+      },
+      {
+        "id": "tvmaze:3438803",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438875",
+        "title": "TBA",
+        "season": 2,
+        "episode": 2,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438877",
+        "title": "TBA",
+        "season": 2,
+        "episode": 3,
+        "released": "2026-01-29",
+        "overview": ""
+      }
+    ]
+  }
+}

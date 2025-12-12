@@ -1,0 +1,3748 @@
+{
+  "meta": {
+    "id": "tvmaze:18",
+    "type": "series",
+    "name": "The Amazing Race",
+    "description": "From athletes and actors to tattoo artists, social workers and musicians - a diverse mix of teams will need to utilize their street smarts and savvy know-how to compete in the race of their lifetime.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/587/1468637.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/587/1468637.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      },
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      },
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      },
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      },
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      },
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      },
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      },
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      },
+      {
+        "id": "tvmaze:3402687",
+        "title": "The Can't Can't",
+        "season": 38,
+        "episode": 11,
+        "released": "2025-12-03",
+        "overview": "The final four teams race through Moulin Rouge, the Eiffel Tower and other iconic Paris locations."
+      },
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      },
+      {
+        "id": "tvmaze:683",
+        "title": "The Race Begins",
+        "season": 1,
+        "episode": 1,
+        "released": "2001-09-05",
+        "overview": "The 11 teams begin the first leg of their global journey, racing from New York City's Central Park to Johannesburg, South Africa. During the initial leg, the teams visit Victoria Falls, use a zip line to cross a valley and bungee jump off of a steep cliff. The pit stop is at Songwe Village."
+      },
+      {
+        "id": "tvmaze:684",
+        "title": "Divide and Conquer",
+        "season": 1,
+        "episode": 2,
+        "released": "2001-09-19",
+        "overview": "The 10 remaining teams travel from South Africa to Paris, where they must locate a monument from atop the Eiffel Tower before going to the pit stop near the Arc de Triomphe."
+      },
+      {
+        "id": "tvmaze:685",
+        "title": "Home for Some",
+        "season": 1,
+        "episode": 3,
+        "released": "2001-09-26",
+        "overview": "The nine teams must find La Grande Roue, a giant Ferris wheel, in Paris, and then locate Foucault's pendulum. Then it's on to the top of Notre Dame to ring the bells. Next, a member of each team must travel through the Paris sewers before heading to the pit stop in Les Baux."
+      },
+      {
+        "id": "tvmaze:686",
+        "title": "Colossal Showdown",
+        "season": 1,
+        "episode": 4,
+        "released": "2001-10-03",
+        "overview": "The eight teams travel from France to Tunisia, where they must locate the colosseum in El-Jem, which serves as the pit stop for the fourth leg of the race, and find a sword in the \"Pit of Death.\""
+      },
+      {
+        "id": "tvmaze:687",
+        "title": "Desert Storm",
+        "season": 1,
+        "episode": 5,
+        "released": "2001-10-10",
+        "overview": "The seven teams depart the colosseum in El-Jem, Tunisia, and travel to Tataouine, where they must find a flag in the Sahara Desert. Next, a member of each team must ride a camel to the pit stop."
+      },
+      {
+        "id": "tvmaze:688",
+        "title": "Whatever It Takes to Win",
+        "season": 1,
+        "episode": 6,
+        "released": "2001-10-17",
+        "overview": "The six teams travel from Tunisia to the Colosseum in Rome and then on to Castelfranco Emilia. Two teams are given a time penalty at the pit stop for disobeying travel rules."
+      },
+      {
+        "id": "tvmaze:689",
+        "title": "Triumph and Loss",
+        "season": 1,
+        "episode": 7,
+        "released": "2001-10-24",
+        "overview": "The six teams must travel to Ferrara, Italy, by using a glider or riding bikes. Next, they fly to New Delhi, India, and search a crowded market for a shopkeeper before going to the pit stop in Agra, near the Taj Mahal."
+      },
+      {
+        "id": "tvmaze:690",
+        "title": "Competition to the Fullest",
+        "season": 1,
+        "episode": 8,
+        "released": "2001-10-31",
+        "overview": "In India, the five teams visit the Taj Mahal and then race off to the Palace of the Winds in Jaipur. From there, they go to Bikaner, where a member of each team must obtain a clue inside a temple filled with rats, which are considered sacred by locals."
+      },
+      {
+        "id": "tvmaze:691",
+        "title": "The Unexpected Twist",
+        "season": 1,
+        "episode": 9,
+        "released": "2001-11-14",
+        "overview": "The five teams travel from India to Bangkok, Thailand, and encounter tigers in a pit where a clue is located. One team gives up on a challenge that involves finding a car in a neighborhood and takes a taxi instead, which is against the rules. They receive a stiff penalty when they check in at the pit stop in Krabi."
+      },
+      {
+        "id": "tvmaze:692",
+        "title": "To the Physical and Mental Limit",
+        "season": 1,
+        "episode": 10,
+        "released": "2001-11-21",
+        "overview": "The four teams depart the pit stop in Krabi, Thailand, and then compete in outdoor-adventure races that include rock climbing, kayaking and diving, before checking into another pit stop, this time at Pai Plong Beach."
+      },
+      {
+        "id": "tvmaze:693",
+        "title": "Fight to the Last Minute",
+        "season": 1,
+        "episode": 11,
+        "released": "2001-11-28",
+        "overview": "The four teams travel from Thailand to Beijing, China, where two teams opt to play table tennis against a local champion while the other two pairs compete in a road rally. Next, they all must buy beetle larvae, chicken feet and squid, and then take it to a cook. After the food is prepared, one team member must eat all of his or her team's portions. The pit stop is at Tiantan Park."
+      },
+      {
+        "id": "tvmaze:694",
+        "title": "Race to the Finish - Part 1",
+        "season": 1,
+        "episode": 12,
+        "released": "2001-12-05",
+        "overview": "The final three teams climb steep steps to retrieve a clue at the Great Wall of China. They then fly from Beijing to Alaska, where they take part in an Alaskan ritual called a blanket toss to find a clue. Next, the teams must go to the Matanuska Glacier and climb an ice wall. The pit stop is reached via snowmobiles."
+      },
+      {
+        "id": "tvmaze:695",
+        "title": "Race to the Finish - Part 2",
+        "season": 1,
+        "episode": 13,
+        "released": "2001-12-13",
+        "overview": "The final three teams dash to the finish, with the winning pair claiming the $1 million first-place prize. The duos begin in Alaska and race a team of sled dogs to reach a clue. Next, one member of each team dives into frigid water to claim a clue that tells them to fly to New York City. The final destination is in Flushing Meadows."
+      },
+      {
+        "id": "tvmaze:696",
+        "title": "The World is Waiting: Go!",
+        "season": 2,
+        "episode": 1,
+        "released": "2002-03-11",
+        "overview": "Eleven two-member teams begin their worldwide race for $1 million in Las Vegas and learn of their first stop: Rio de Janeiro."
+      },
+      {
+        "id": "tvmaze:697",
+        "title": "Help Me, I'm American",
+        "season": 2,
+        "episode": 2,
+        "released": "2002-03-13",
+        "overview": "Ten teams begin the second leg of the race as they travel from Rio de Janeiro to Iguacu Falls near the Brazil-Argentina border."
+      },
+      {
+        "id": "tvmaze:698",
+        "title": "My Alarm Clock Didn't Go Off",
+        "season": 2,
+        "episode": 3,
+        "released": "2002-03-20",
+        "overview": "Nine teams jet from the jungles of Brazil to Cape Town, South Africa, where a third pair is eliminated."
+      },
+      {
+        "id": "tvmaze:699",
+        "title": "This Game is About Minutes",
+        "season": 2,
+        "episode": 4,
+        "released": "2002-03-27",
+        "overview": "The teams struggle to make the first charter flight from Cape Town, South Africa, to Namibia, and then travel more than 500 miles by truck along unmarked desert roads to reach the next pit stop."
+      },
+      {
+        "id": "tvmaze:700",
+        "title": "Welcome to the World of Being Human",
+        "season": 2,
+        "episode": 5,
+        "released": "2002-04-03",
+        "overview": "The teams fly from Namibia to Bangkok, Thailand."
+      },
+      {
+        "id": "tvmaze:701",
+        "title": "I'm Gonna Take His Girl",
+        "season": 2,
+        "episode": 6,
+        "released": "2002-04-10",
+        "overview": "The teams endure a 15-hour train ride from Bangkok to Northern Thailand then drive into the mountains where they compete in a river-rafting race."
+      },
+      {
+        "id": "tvmaze:702",
+        "title": "I'm Gonna Throw Up on Phil's Shoes",
+        "season": 2,
+        "episode": 7,
+        "released": "2002-04-17",
+        "overview": "The teams travel from Northern Thailand to Hong Kong, where they must control a 40-ton crane and consume an ancient Chinese remedy."
+      },
+      {
+        "id": "tvmaze:703",
+        "title": "I'm Not a Miner! No, You're an Idiot! - Part 1",
+        "season": 2,
+        "episode": 8,
+        "released": "2002-04-24",
+        "overview": "The five remaining teams travel from Hong Kong to the Australian outback."
+      },
+      {
+        "id": "tvmaze:704",
+        "title": "I'm Not a Miner! No, You're an Idiot! - Part 2",
+        "season": 2,
+        "episode": 9,
+        "released": "2002-04-24",
+        "overview": "The five remaining teams travel from Hong Kong to the Australian outback."
+      },
+      {
+        "id": "tvmaze:705",
+        "title": "Ready to Lose Our Lives",
+        "season": 2,
+        "episode": 10,
+        "released": "2002-05-01",
+        "overview": "Four teams travel from the Australian outback to New Zealand, where they take a wild river ride and bungee jump 450 feet."
+      },
+      {
+        "id": "tvmaze:706",
+        "title": "It's Hammer Time",
+        "season": 2,
+        "episode": 11,
+        "released": "2002-05-08",
+        "overview": "The four remaining teams travel to Auckland, New Zealand, and rappel into the nearby Lost World caves."
+      },
+      {
+        "id": "tvmaze:707",
+        "title": "Follow That Plane! - Part 1",
+        "season": 2,
+        "episode": 12,
+        "released": "2002-05-15",
+        "overview": "The three remaining teams dash to the finish line hoping to claim the $1 million first-place prize. The final leg takes them through Hawaii and Alaska before ending near Las Vegas."
+      },
+      {
+        "id": "tvmaze:708",
+        "title": "Follow That Plane! - Part 2",
+        "season": 2,
+        "episode": 13,
+        "released": "2002-05-15",
+        "overview": "The three remaining teams dash to the finish line hoping to claim the $1 million first-place prize. The final leg takes them through Hawaii and Alaska before ending near Las Vegas."
+      },
+      {
+        "id": "tvmaze:709",
+        "title": "What If Our Parachute Doesn't Open?",
+        "season": 3,
+        "episode": 1,
+        "released": "2002-10-02",
+        "overview": "The third edition of the $1 million race around the world begins in Miami, as the 12 teams of two learn of their first destination: Mexico City. There they must choose between skydiving and donkey-cart racing, and the first team is eliminated."
+      },
+      {
+        "id": "tvmaze:710",
+        "title": "This Seems Like the Path Straight to Hell!",
+        "season": 3,
+        "episode": 2,
+        "released": "2002-10-09",
+        "overview": "A car collides with a bus carrying several teams on a Mexican road, leaving the players to deal with the aftermath. Also, two teams wipe-out while riding waverunners."
+      },
+      {
+        "id": "tvmaze:711",
+        "title": "You Always Just Forget About Me!",
+        "season": 3,
+        "episode": 3,
+        "released": "2002-10-16",
+        "overview": "The teams travel to Scotland and participate in traditional Scottish games to avoid elimination. Also, an alliance develops among several teams in order to oust one specific duo, and two teams miss a crucial airline connection."
+      },
+      {
+        "id": "tvmaze:712",
+        "title": "Did You See How I Stopped It? with My Face",
+        "season": 3,
+        "episode": 4,
+        "released": "2002-10-23",
+        "overview": "The teams race from Scotland to Portugal, where a fourth pair is eliminated."
+      },
+      {
+        "id": "tvmaze:713",
+        "title": "What Happens If I Slip? Am I Just Hanging Off a Cliff?",
+        "season": 3,
+        "episode": 5,
+        "released": "2002-10-30",
+        "overview": "The teams rappel down a cliff in Lisbon, Portugal, and then race to Spain and Morocco. While traveling, some teams mistakenly fill their vehicles with the wrong fuel and suffer the consequences."
+      },
+      {
+        "id": "tvmaze:714",
+        "title": "I'm a Much Better Liar Than You Are",
+        "season": 3,
+        "episode": 6,
+        "released": "2002-11-13",
+        "overview": "The teams dash through Morocco to Marrakesh to avoid elimination. One task each pair must complete involves selling escargot to local citizens."
+      },
+      {
+        "id": "tvmaze:715",
+        "title": "I'm Supposed to Be Indebted to Her for the Rest of the Race?!",
+        "season": 3,
+        "episode": 7,
+        "released": "2002-11-20",
+        "overview": "The teams fly to Munich and then travel by train to Austria. One team oversleeps on the train and misses its stop."
+      },
+      {
+        "id": "tvmaze:716",
+        "title": "This is More Important Than Your Pants Falling Down!",
+        "season": 3,
+        "episode": 8,
+        "released": "2002-11-27",
+        "overview": "The five remaining teams race through Zurich, Switzerland, to reach the next pit stop. Also, a romantic bond develops between two members of opposing teams."
+      },
+      {
+        "id": "tvmaze:717",
+        "title": "Why Did You Have to Take Your Pants Off?! - Part 1",
+        "season": 3,
+        "episode": 9,
+        "released": "2002-12-04",
+        "overview": "Five teams race from the Swiss Alps to Malaysia and then to Singapore. Along the way, the teams must bungee jump more than 600 feet."
+      },
+      {
+        "id": "tvmaze:718",
+        "title": "Why Did You Have to Take Your Pants Off?! - Part 2",
+        "season": 3,
+        "episode": 10,
+        "released": "2002-12-04",
+        "overview": "Five teams race from the Swiss Alps to Malaysia and then to Singapore. Along the way, the teams must bungee jump more than 600 feet."
+      },
+      {
+        "id": "tvmaze:719",
+        "title": "Don't Try to Play the Moralist Now!",
+        "season": 3,
+        "episode": 11,
+        "released": "2002-12-11",
+        "overview": "The four remaining teams race through Vietnam's Ho Chi Minh City and get caught in a storm while competing on a nearby river."
+      },
+      {
+        "id": "tvmaze:720",
+        "title": "They're Slithering to the Finish Line Like the Rest of Us! - Part 1",
+        "season": 3,
+        "episode": 12,
+        "released": "2002-12-18",
+        "overview": "The globe-trotting reality series concluded its third edition as the final three teams dashed to the finish line and attempted to claim the $1 million first-place prize."
+      },
+      {
+        "id": "tvmaze:721",
+        "title": "They're Slithering to the Finish Line Like the Rest of Us! - Part 2",
+        "season": 3,
+        "episode": 13,
+        "released": "2002-12-18",
+        "overview": "The globe-trotting reality series concluded its third edition as the final three teams dashed to the finish line and attempted to claim the $1 million first-place prize."
+      },
+      {
+        "id": "tvmaze:722",
+        "title": "Cheaters Never Win - and They Cheated!",
+        "season": 4,
+        "episode": 1,
+        "released": "2003-05-29",
+        "overview": "The fourth edition of the race around the world for $1 million begins at Dodger Stadium in Los Angeles, where the 12 teams of two learn their first destination: Milan, Italy. From there, the pairs travel to the Cinque Torri area of the Alps and must choose between searching for an object hidden in the snow or walking across a rope bridge and then riding a zip line between two high peaks."
+      },
+      {
+        "id": "tvmaze:723",
+        "title": "It Doesn't Say Anything About First Come, First Served - and We're Bigger",
+        "season": 4,
+        "episode": 2,
+        "released": "2003-06-05",
+        "overview": "The teams slide down a snowy mountain on rafts, but one pair ends up going down on their backsides. Also: one team bullies its way to the front of a line and then barricades a door to keep the others out; and one team member's injury threatens to destroy the duo."
+      },
+      {
+        "id": "tvmaze:724",
+        "title": "I Wasn't Even Going to Touch You Until You Slammed My Head Backwards!",
+        "season": 4,
+        "episode": 3,
+        "released": "2003-06-12",
+        "overview": "A frightening asthma attack brings one team to a sudden halt. Also: the teams must bungee jump from 460 feet"
+      },
+      {
+        "id": "tvmaze:725",
+        "title": "Check Your Tires Because...Oh God, You Never Know What'll Happen!",
+        "season": 4,
+        "episode": 4,
+        "released": "2003-06-19",
+        "overview": "The teams travel to Le Mans, France, and must ride in a racing car. Also: two teams jump to the head of a line which leads to bitter accusations and threats."
+      },
+      {
+        "id": "tvmaze:726",
+        "title": "You Are Just Deliberately Trying to Make Us Lose!",
+        "season": 4,
+        "episode": 5,
+        "released": "2003-06-26",
+        "overview": "One team faces a complete breakdown which leads the members to contemplate quitting the race. Also: teams must deal with a 15-ft. pile of cow manure in a competition."
+      },
+      {
+        "id": "tvmaze:727",
+        "title": "I Could Never Have Been Prepared for What I'm Looking at Right Now",
+        "season": 4,
+        "episode": 6,
+        "released": "2003-07-03",
+        "overview": "The teams travel to Bombay, India, and some of the women are offended by advances made by local men. Also: one team pursues a risky flight option that the other pairs refuse."
+      },
+      {
+        "id": "tvmaze:728",
+        "title": "We're Going Down the Wrong Side of the Freeway...and the Lights Are Off!",
+        "season": 4,
+        "episode": 7,
+        "released": "2003-07-10",
+        "overview": "Teams must endure a 26-hour ride on a hot, filthy train. Also: two teams opt for bizarre forms of transportation to reach a pit stop."
+      },
+      {
+        "id": "tvmaze:729",
+        "title": "The Princess Reminded Me of My Grandmother. She Was Very Old But Still Very, Very with It",
+        "season": 4,
+        "episode": 8,
+        "released": "2003-07-17",
+        "overview": "A team reveals a secret during an emotional reunion between the remaining contestants; and another team tries to eavesdrop on opponents receiving information at an airline office."
+      },
+      {
+        "id": "tvmaze:730",
+        "title": "We're Not at Charm School Learning How to Be a Gentleman, We're Racing",
+        "season": 4,
+        "episode": 9,
+        "released": "2003-07-24",
+        "overview": "Exhaustion and infighting contribute to one team becoming lost in Malaysia, and the two last-placed teams dash to the finish just seconds apart to avoid being eliminated."
+      },
+      {
+        "id": "tvmaze:731",
+        "title": "That's Me. That's My Face. Just Hit My Face. Hit My Face!",
+        "season": 4,
+        "episode": 10,
+        "released": "2003-07-31",
+        "overview": "Teams attempt to eat live baby octopi, two teams get lost and inadvertently drive toward the North Korean border only to face columns of tanks and machine-gun nests, and players must swim through frigid water beneath a frozen lake."
+      },
+      {
+        "id": "tvmaze:732",
+        "title": "Such a Nice Pheromone Smell to You; Just Makes Me Want to Stay Close to You",
+        "season": 4,
+        "episode": 11,
+        "released": "2003-08-07",
+        "overview": "Teams attempt to descend face first down the side of a skyscraper. Later, they are required to retrieve a clue from a tank filled with sharks."
+      },
+      {
+        "id": "tvmaze:733",
+        "title": "He's a Few Ticks Away from Having a Heart Attack!",
+        "season": 4,
+        "episode": 12,
+        "released": "2003-08-14",
+        "overview": "One team's attempt to use humor to lighten up a competition backfires; one player overturns a dune buggy; a competitor runs over his partner's foot with a car."
+      },
+      {
+        "id": "tvmaze:734",
+        "title": "It's Like Adam Building His First House!",
+        "season": 4,
+        "episode": 13,
+        "released": "2003-08-21",
+        "overview": "The fourth edition of the 45,000-mile race around the world concludes as the final three teams dash to the finish line in the western U.S., after stops in Australia and Hawaii. The pairs vying for the $1 million first-place prize: married gay partners Reichen and Chip; best friends David and Jeff; and engaged couple Kelly and Jon."
+      },
+      {
+        "id": "tvmaze:735",
+        "title": "Clearly, I'm More Intelligent Than You",
+        "season": 5,
+        "episode": 1,
+        "released": "2004-07-06",
+        "overview": "The 11 teams begin their race around the world from Santa Monica and then fly to Uruguay. The last team to arrive at the first pit stop is eliminated."
+      },
+      {
+        "id": "tvmaze:736",
+        "title": "It Turned Ugly Just Now",
+        "season": 5,
+        "episode": 2,
+        "released": "2004-07-13",
+        "overview": "The teams travel from Uruguay to Argentina."
+      },
+      {
+        "id": "tvmaze:737",
+        "title": "I Got Electrocuted",
+        "season": 5,
+        "episode": 3,
+        "released": "2004-07-20",
+        "overview": "The teams travel throughout Argentina during the race's third leg."
+      },
+      {
+        "id": "tvmaze:738",
+        "title": "Who Says Pageant Girls Don't Eat?",
+        "season": 5,
+        "episode": 4,
+        "released": "2004-07-27",
+        "overview": "The teams travel to Catherine's Palace in Pushkin, Russia."
+      },
+      {
+        "id": "tvmaze:739",
+        "title": "Are You Good at Puzzles?",
+        "season": 5,
+        "episode": 5,
+        "released": "2004-08-03",
+        "overview": "The teams travel from Russia to the Sphinx in Cairo, Egypt, where they must descend an ancient shaft into a watery tomb."
+      },
+      {
+        "id": "tvmaze:740",
+        "title": "Why Can't We Get a Camel?",
+        "season": 5,
+        "episode": 6,
+        "released": "2004-08-10",
+        "overview": "The seven remaining teams continue through Egypt, where one team is the victim of the race's latest twist."
+      },
+      {
+        "id": "tvmaze:741",
+        "title": "Are You Sure This is Safe",
+        "season": 5,
+        "episode": 7,
+        "released": "2004-08-17",
+        "overview": "Six remaining teams fly from Cairo to Tanzania and must navigate through the local town to get their next clues."
+      },
+      {
+        "id": "tvmaze:742",
+        "title": "I'm Going to Jail",
+        "season": 5,
+        "episode": 8,
+        "released": "2004-08-24",
+        "overview": "Five teams remain and a cab ride to the airport becomes problematic for some teams as they battle to stay in the race."
+      },
+      {
+        "id": "tvmaze:743",
+        "title": "If You're Gonna Whine, Just Shut Up!",
+        "season": 5,
+        "episode": 9,
+        "released": "2004-08-31",
+        "overview": "Five teams continue the race through India as one team chooses to go for the Fast Forward and are faced with one of the most difficult decisions a team has ever had to make."
+      },
+      {
+        "id": "tvmaze:744",
+        "title": "They're Screwing the Helmet to My Head - It Can't Be Good",
+        "season": 5,
+        "episode": 10,
+        "released": "2004-09-07",
+        "overview": "The race continues from the chaos of India to the lushness of New Zealand."
+      },
+      {
+        "id": "tvmaze:745",
+        "title": "It's Okay, Run Them Over",
+        "season": 5,
+        "episode": 11,
+        "released": "2004-09-14",
+        "overview": "The competition heats up as four teams remain in the battle to make it to the finish line."
+      },
+      {
+        "id": "tvmaze:746",
+        "title": "You've Just Made Me a Millionaire",
+        "season": 5,
+        "episode": 12,
+        "released": "2004-09-21",
+        "overview": "Four teams compete in the last two legs of the race but only three teams will have the chance to race to the finish line and win the ultimate prize."
+      },
+      {
+        "id": "tvmaze:747",
+        "title": "The Game's Afoot!",
+        "season": 6,
+        "episode": 1,
+        "released": "2004-11-16",
+        "overview": "Eleven couples will compete in a race around the world with one couple taking home the $1 million prize."
+      },
+      {
+        "id": "tvmaze:748",
+        "title": "I'm Not His Wife - He Doesn't Need to Scream at Me",
+        "season": 6,
+        "episode": 2,
+        "released": "2004-11-23",
+        "overview": "I'm not his wife. He doesn't need to scream at me. Ten teams travel by plane and train to Norway."
+      },
+      {
+        "id": "tvmaze:749",
+        "title": "Counting Bears is Not Rocket Science",
+        "season": 6,
+        "episode": 3,
+        "released": "2004-11-30",
+        "overview": "Nine teams set out from Voss, Norway and race all the way to Stockholm."
+      },
+      {
+        "id": "tvmaze:750",
+        "title": "What If This Isn't Sanitary",
+        "season": 6,
+        "episode": 4,
+        "released": "2004-12-07",
+        "overview": "Eight teams make their way in the dead of night to Dakar."
+      },
+      {
+        "id": "tvmaze:751",
+        "title": "Quit Following Us",
+        "season": 6,
+        "episode": 5,
+        "released": "2004-12-14",
+        "overview": "Teams make an emotional trek from a small island off the coast of Africa to Berlin, Germany."
+      },
+      {
+        "id": "tvmaze:752",
+        "title": "They Should Probably Have Some Counseling",
+        "season": 6,
+        "episode": 6,
+        "released": "2004-12-21",
+        "overview": "Teams travel by all different modes of transportation from Berlin to Budapest."
+      },
+      {
+        "id": "tvmaze:753",
+        "title": "Phil is a Choo-Choo Charlie",
+        "season": 6,
+        "episode": 7,
+        "released": "2004-12-28",
+        "overview": "Highlights of some of the best moments from the first six episodes with never-before-seen footage will be broadcast."
+      },
+      {
+        "id": "tvmaze:754",
+        "title": "One of You, I Am Going to Break in Half",
+        "season": 6,
+        "episode": 8,
+        "released": "2005-01-04",
+        "overview": "As teams continue to make their way through Budapest, infighting among teammates proves to be more challenging than the tasks they compete in."
+      },
+      {
+        "id": "tvmaze:755",
+        "title": "Tell My Mom I Love Her",
+        "season": 6,
+        "episode": 9,
+        "released": "2005-01-11",
+        "overview": "As teams make their way to Corsica, many struggle to work together, putting them at a disadvantage in the race and making them question their relationships."
+      },
+      {
+        "id": "tvmaze:756",
+        "title": "Are There Instructions on Donkey Handling?",
+        "season": 6,
+        "episode": 10,
+        "released": "2005-01-18",
+        "overview": "The teams continue from their Pit Stop on the island of Corsica, France to the town of Nice by ferry, where they then receive a clue telling them to get to Addis Ababa in Africa by plane."
+      },
+      {
+        "id": "tvmaze:757",
+        "title": "It Always Comes Down to the Details",
+        "season": 6,
+        "episode": 11,
+        "released": "2005-01-25",
+        "overview": "Teams race more than 3000 miles to city of Sigiriya in Sri Lanka."
+      },
+      {
+        "id": "tvmaze:758",
+        "title": "You Deal with This Before I Hyperventilate",
+        "season": 6,
+        "episode": 12,
+        "released": "2005-02-01",
+        "overview": "Some teams begin lashing out at each other as the stress of reaching the end of the race begins to weigh on their minds."
+      },
+      {
+        "id": "tvmaze:759",
+        "title": "4 Continents, 24 Cities, 40,000 Miles",
+        "season": 6,
+        "episode": 13,
+        "released": "2005-02-08",
+        "overview": "Four teams compete in the last two legs of the race but only three teams will have the chance to race to the finish line and win the ultimate prize."
+      },
+      {
+        "id": "tvmaze:760",
+        "title": "Courteous? This is a Race!",
+        "season": 7,
+        "episode": 1,
+        "released": "2005-03-01",
+        "overview": "Eleven couples will compete in a race around the world with one couple taking home the $1 million prize."
+      },
+      {
+        "id": "tvmaze:761",
+        "title": "The Whole Country Hates Me",
+        "season": 7,
+        "episode": 2,
+        "released": "2005-03-08",
+        "overview": "When one racer tries to keep necessary information away from the others, a confrontation ensues."
+      },
+      {
+        "id": "tvmaze:762",
+        "title": "Do You Need Some Mouth-to-Mouth Resuscitation?",
+        "season": 7,
+        "episode": 3,
+        "released": "2005-03-15",
+        "overview": "Rather than complete a Road Block, one team makes a risky move and takes the penalty."
+      },
+      {
+        "id": "tvmaze:763",
+        "title": "What a Gaucho You Are",
+        "season": 7,
+        "episode": 4,
+        "released": "2005-03-22",
+        "overview": "Several teams plot to make up for a time penalty in the previous leg."
+      },
+      {
+        "id": "tvmaze:764",
+        "title": "I've Been Wanting a Face Lift for a Long Time",
+        "season": 7,
+        "episode": 5,
+        "released": "2005-03-29",
+        "overview": "Racer suffers from a wound that could impact the status of their team."
+      },
+      {
+        "id": "tvmaze:765",
+        "title": "Houston, We Have an Elephant!",
+        "season": 7,
+        "episode": 6,
+        "released": "2005-04-05",
+        "overview": "Tensions of the Race bring out the worst in some Racers."
+      },
+      {
+        "id": "tvmaze:766",
+        "title": "They Saved the Eyeball",
+        "season": 7,
+        "episode": 7,
+        "released": "2005-04-06",
+        "overview": "A Special One-Hour Retrospective Episode With Never-Before-Seen Footage."
+      },
+      {
+        "id": "tvmaze:767",
+        "title": "Mow 'Em Down Like Grass",
+        "season": 7,
+        "episode": 8,
+        "released": "2005-04-12",
+        "overview": "As the game becomes more intense and every second counts, the teams split off into two separate groups."
+      },
+      {
+        "id": "tvmaze:768",
+        "title": "We Have a Bad Elephant!",
+        "season": 7,
+        "episode": 9,
+        "released": "2005-04-19",
+        "overview": "Teams face a challenging roadblock with difficult animals."
+      },
+      {
+        "id": "tvmaze:769",
+        "title": "We Got a Gnome! We Got a Gnome!",
+        "season": 7,
+        "episode": 10,
+        "released": "2005-04-26",
+        "overview": "One team re-examines the status of their relationship."
+      },
+      {
+        "id": "tvmaze:770",
+        "title": "The Devil Made Me Do It",
+        "season": 7,
+        "episode": 11,
+        "released": "2005-05-03",
+        "overview": "Some Teams reserve seats on flights while others take a risk with unconfirmed tickets for an earlier connection."
+      },
+      {
+        "id": "tvmaze:771",
+        "title": "5 Continents, 25 Cities and More Than 40,000 Miles!",
+        "season": 7,
+        "episode": 12,
+        "released": "2005-05-10",
+        "overview": "Three teams compete in the last legs of the race ending in one team winning the one million dollar prize."
+      },
+      {
+        "id": "tvmaze:772",
+        "title": "Go Mommy Go! We Can Beat Them!",
+        "season": 8,
+        "episode": 1,
+        "released": "2005-09-27",
+        "overview": "Ten families will embark on the ultimate family vacation with one family taking home the $1 million prize."
+      },
+      {
+        "id": "tvmaze:773",
+        "title": "How Do We Know We're Not Going to Get Shot?",
+        "season": 8,
+        "episode": 2,
+        "released": "2005-10-04",
+        "overview": "Several Teams misinterpret a clue, confusing one city landmark for another."
+      },
+      {
+        "id": "tvmaze:774",
+        "title": "I Don't Kiss, I Make Out!",
+        "season": 8,
+        "episode": 3,
+        "released": "2005-10-11",
+        "overview": "Teams are sent on a journey to a mystery location where they must perform a challenge that is out of this world."
+      },
+      {
+        "id": "tvmaze:775",
+        "title": "Think Like an Office Chair",
+        "season": 8,
+        "episode": 4,
+        "released": "2005-10-18",
+        "overview": "Close race to the Pit Stop fuels an intense rivalry between two families."
+      },
+      {
+        "id": "tvmaze:776",
+        "title": "We're Getting Out of the Country, Girls",
+        "season": 8,
+        "episode": 5,
+        "released": "2005-10-25",
+        "overview": "Teams are ecstatic to trade their car keys for plane tickets to their next destination out of the country."
+      },
+      {
+        "id": "tvmaze:777",
+        "title": "I'm Sick of Doing Stuff I Can't Do",
+        "season": 8,
+        "episode": 6,
+        "released": "2005-11-01",
+        "overview": "In an exciting foot race to the mat, Teams are within seconds of each other as they fight exhaustion to claim first prize."
+      },
+      {
+        "id": "tvmaze:778",
+        "title": "You Look Ridiculous",
+        "season": 8,
+        "episode": 7,
+        "released": "2005-11-08",
+        "overview": "Safety divers are forced to rescue one of the racers who's struggling to stay afloat during a challenge."
+      },
+      {
+        "id": "tvmaze:779",
+        "title": "I Don't Roll with the Punches, I Punch",
+        "season": 8,
+        "episode": 8,
+        "released": "2005-11-08",
+        "overview": "The five families travel to Mesa, Ariz., where one team member must take the controls of a fighter plane and complete a 360-degree loop in the air. Next, the teams drive to the Grand Canyon and then to the Glen Canyon Dam, where they must choose between bailing water out of a submerged boat or using a compass to find three clues on a river. The teams then race to the pit stop located aboard a houseboat on Lake Powell."
+      },
+      {
+        "id": "tvmaze:780",
+        "title": "How's That Face Feel?",
+        "season": 8,
+        "episode": 9,
+        "released": "2005-11-22",
+        "overview": "During this milestone episode, \"How's That Face Feel?,\" one family member amuses the rest of the family with a face plant into the water after plunging down a 60 ft. ramp."
+      },
+      {
+        "id": "tvmaze:781",
+        "title": "Don't Talk to Me Like I Was an Animal or Something",
+        "season": 8,
+        "episode": 10,
+        "released": "2005-11-29",
+        "overview": "During a tranquil ride in a hot air balloon, the peace is disturbed when two Teams collide in the air."
+      },
+      {
+        "id": "tvmaze:782",
+        "title": "The Family Christmas Card",
+        "season": 8,
+        "episode": 11,
+        "released": "2005-12-06",
+        "overview": "One teammate's performance overwhelms the rest of the family and gets them out of a potential jam."
+      },
+      {
+        "id": "tvmaze:783",
+        "title": "25 Days, 50 Cities, and More Than 600 Consecutive Hours as a Family - Part 1",
+        "season": 8,
+        "episode": 12,
+        "released": "2005-12-13",
+        "overview": "The tensions mount and every second counts as teams race towards the finish line and the $1 million prize."
+      },
+      {
+        "id": "tvmaze:784",
+        "title": "25 Days, 50 Cities, and More Than 600 Consecutive Hours as a Family - Part 2",
+        "season": 8,
+        "episode": 13,
+        "released": "2005-12-13",
+        "overview": "When one team can't find the entrance to the building that holds their next clue, they desperately try to run their vehicle through a locked door. Meanwhile, one family member struggles to complete a high flying Road Block while enduring constant ribbing from the sidelines. Every decision and every stroke of luck could make the difference between $1 million and second place as one family will be crowned the winner of The Amazing Race 8."
+      },
+      {
+        "id": "tvmaze:785",
+        "title": "Here We Go, Baby, Off to Win a Million Bucks!",
+        "season": 9,
+        "episode": 1,
+        "released": "2006-02-28",
+        "overview": "The three-time Emmy Award-winning reality adventure series returns to its international format where teams of two will travel to exotic locations, spanning five continents, with stops in the Middle East, Moscow and Sicily, to name a few. The 11 teams, including a Pizza Hut manager, a dentist, a science teacher, a children's minister, a retired physician and a valet, will compete against one another in a race around the world for a $1 million prize."
+      },
+      {
+        "id": "tvmaze:786",
+        "title": "I'm Filthy and I Love It",
+        "season": 9,
+        "episode": 2,
+        "released": "2006-03-07",
+        "overview": "The three-time Emmy Award-winning reality adventure series is off to an Amazing start as the Teams learn quickly about the toll this Race has on the mind and body. One Racer breaks into tears after facing an extreme fear of heights while repelling down a 400-foot building."
+      },
+      {
+        "id": "tvmaze:787",
+        "title": "I'm in Russia Playing with Dolls",
+        "season": 9,
+        "episode": 3,
+        "released": "2006-03-14",
+        "overview": "Frustration mounts when teams have difficulty searching for a clue buried inside thousands of Russian nesting dolls."
+      },
+      {
+        "id": "tvmaze:788",
+        "title": "It's Not Over Until Phil Sings",
+        "season": 9,
+        "episode": 4,
+        "released": "2006-03-21",
+        "overview": "Driving to the Roadblock in Germany, one team follows another who leads them in the wrong direction."
+      },
+      {
+        "id": "tvmaze:789",
+        "title": "Good Thing I Took That Human Anatomy Class in High School",
+        "season": 9,
+        "episode": 5,
+        "released": "2006-03-28",
+        "overview": "Competition heats up in Italy when Teams must reconstruct broken statues in order to get their next clue."
+      },
+      {
+        "id": "tvmaze:790",
+        "title": "Sleep Deprivation is Really Starting to Irritate Me",
+        "season": 9,
+        "episode": 6,
+        "released": "2006-04-05",
+        "overview": "Tensions mount and the stress of the race takes its toll on several teams who get lost while trying to find their next clue in Sicily."
+      },
+      {
+        "id": "tvmaze:791",
+        "title": "Herculean Effort for Some Herculean Dudes",
+        "season": 9,
+        "episode": 7,
+        "released": "2006-04-12",
+        "overview": "Teams participate in a special \"Da Vinci Code\"-themed challenge in which teams are given a portion of Da Vinci's famed \"Vitruvian Man\" and must find the other half in order to solve the clue."
+      },
+      {
+        "id": "tvmaze:792",
+        "title": "Here Comes the Bedouin",
+        "season": 9,
+        "episode": 8,
+        "released": "2006-04-19",
+        "overview": "Teams face a difficult Detour in Oman, which requires the racers to get up close and personal with several ornery camels in order to receive their next clue."
+      },
+      {
+        "id": "tvmaze:793",
+        "title": "Do You Know How Much Running I Did Today, Phil?",
+        "season": 9,
+        "episode": 9,
+        "released": "2006-04-26",
+        "overview": "Fierce rivalry between two teams starts to heat up when one duo tells the other that at the next opportunity to use the Yield, they will use it against them."
+      },
+      {
+        "id": "tvmaze:794",
+        "title": "Man, They Should Have Used Their Fake Names",
+        "season": 9,
+        "episode": 10,
+        "released": "2006-05-03",
+        "overview": "Knowing that the Million Dollar Prize is within their reach, the final four Teams turn up the intensity."
+      },
+      {
+        "id": "tvmaze:795",
+        "title": "I Think This Monkey Likes Me",
+        "season": 9,
+        "episode": 11,
+        "released": "2006-05-10",
+        "overview": "While racing through Bangkok, Teams face a Roadblock where they must prepare a feast for hundreds of sacred monkeys."
+      },
+      {
+        "id": "tvmaze:796",
+        "title": "Five Continents... Ten Countries... And More Than Fifty-Nine Thousand Miles",
+        "season": 9,
+        "episode": 12,
+        "released": "2006-05-17",
+        "overview": "After traveling to five continents, 10 countries and more than 59,000 thousand miles, one Team will be the first to cross the Finish Line and take home the one million dollar grand prize."
+      },
+      {
+        "id": "tvmaze:797",
+        "title": "Real Fast! Quack, Quack!",
+        "season": 10,
+        "episode": 1,
+        "released": "2006-09-17",
+        "overview": "The 12 Teams, including the first Indian-American team, a coal miner and his wife, reigning beauty queens, an amputee and a high school teacher, will compete against one another in a race around the world for a $1 million prize.."
+      },
+      {
+        "id": "tvmaze:798",
+        "title": "Can Horses Smell Fear",
+        "season": 10,
+        "episode": 2,
+        "released": "2006-09-24",
+        "overview": "One team goes into an emotional tailspin when they're thrown from their horse during a detour, while alliances start forming between several of the teams."
+      },
+      {
+        "id": "tvmaze:799",
+        "title": "Oh, Wow! It's Like One of Those Things You See on TV!",
+        "season": 10,
+        "episode": 3,
+        "released": "2006-10-01",
+        "overview": "Tempers flare between two teams when one team thinks the other team isn't playing fairly."
+      },
+      {
+        "id": "tvmaze:800",
+        "title": "I Know Phil, Little Ol' Gorgeous Thing!",
+        "season": 10,
+        "episode": 4,
+        "released": "2006-10-08",
+        "overview": "While racing through Vietnam, teams must navigate their way through rough waters and around rocky islands."
+      },
+      {
+        "id": "tvmaze:801",
+        "title": "I Covered His Mouth, Oh My Gosh!",
+        "season": 10,
+        "episode": 5,
+        "released": "2006-10-15",
+        "overview": "An impromptu alliance between two teams crumbles when they both try to ditch each other at a connecting airport."
+      },
+      {
+        "id": "tvmaze:802",
+        "title": "Maybe Steven Seagal Will See Me and Want Me to Be in One of His Movies!",
+        "season": 10,
+        "episode": 6,
+        "released": "2006-10-22",
+        "overview": "While racing through Kuwait, one team gets lost finding a clue and allows three teams to pass them before getting back on track."
+      },
+      {
+        "id": "tvmaze:803",
+        "title": "I Wonder If This is Going to Make My Fingers Pickle",
+        "season": 10,
+        "episode": 7,
+        "released": "2006-10-29",
+        "overview": "Tempers flare at the airport when one team books tickets for an allied team further back in the ticket line, causing major hostility."
+      },
+      {
+        "id": "tvmaze:804",
+        "title": "He Can't Swim, But He Can Eat Cow Lips",
+        "season": 10,
+        "episode": 8,
+        "released": "2006-11-05",
+        "overview": "The game's newest twist shocks the racers and forces rival teams to set aside their differences and work together."
+      },
+      {
+        "id": "tvmaze:805",
+        "title": "Being Polite Sucks Sometimes",
+        "season": 10,
+        "episode": 9,
+        "released": "2006-11-12",
+        "overview": "The teams are faced with a challenging Roadblock that will test the racers' ability to stay calm in a claustrophobic setting, while one racer struggles to overcome their fear of heights."
+      },
+      {
+        "id": "tvmaze:806",
+        "title": "Lookin' Like a Blue-Haired Lady on a Sunday Drive",
+        "season": 10,
+        "episode": 10,
+        "released": "2006-11-19",
+        "overview": "Will one long-standing alliance continue to stay strong or will Teams finally break out on their own to improve their standing."
+      },
+      {
+        "id": "tvmaze:807",
+        "title": "We Just Won't Die, Like Roaches",
+        "season": 10,
+        "episode": 11,
+        "released": "2006-11-26",
+        "overview": "Animosity escalates between two teams while racing through Morocco when one team \"yields\" the other."
+      },
+      {
+        "id": "tvmaze:808",
+        "title": "Dude, I'm Such a Hot Giant Chick Right Now!",
+        "season": 10,
+        "episode": 12,
+        "released": "2006-12-03",
+        "overview": "Only four teams remain as the Racers continue their quest for a spot in the final three and a chance at One Million Dollars."
+      },
+      {
+        "id": "tvmaze:809",
+        "title": "Say Your Deepest Prayers Ever",
+        "season": 10,
+        "episode": 13,
+        "released": "2006-12-10",
+        "overview": "The final three Teams race to the Finish Line for their chance at the One Million Dollar Prize."
+      },
+      {
+        "id": "tvmaze:810",
+        "title": "I Told You Less Martinis and More Cardio",
+        "season": 11,
+        "episode": 1,
+        "released": "2007-02-18",
+        "overview": "Eleven former teams return to compete in a Race around the world on THE AMAZING RACE: ALL-STARS."
+      },
+      {
+        "id": "tvmaze:811",
+        "title": "Beauty is Sometimes Skin Deep",
+        "season": 11,
+        "episode": 2,
+        "released": "2007-02-25",
+        "overview": "One Team's daring attempts to outsmart the competition fall drastically when a chanced flight is delayed."
+      },
+      {
+        "id": "tvmaze:812",
+        "title": "I'm Sorry I'm Wearing a Bathing Suit. It is Very Weird, I Know",
+        "season": 11,
+        "episode": 3,
+        "released": "2007-03-04",
+        "overview": "At the Pit Stop, one Team's joy turns to shock when Phil tells them that they did not get one of their clues and they must have them all before checking in."
+      },
+      {
+        "id": "tvmaze:813",
+        "title": "No Babies on the Race!",
+        "season": 11,
+        "episode": 4,
+        "released": "2007-03-11",
+        "overview": "Confusion at the Detour puts one Team in peril when a long standing rival overtakes them."
+      },
+      {
+        "id": "tvmaze:814",
+        "title": "You Need to Watch Your Jokes, Guy",
+        "season": 11,
+        "episode": 5,
+        "released": "2007-03-18",
+        "overview": "During a Roadblock, Teams must get up close and personal with a rat in order to receive their next clue."
+      },
+      {
+        "id": "tvmaze:815",
+        "title": "We're Going to Trade You for Food Now",
+        "season": 11,
+        "episode": 6,
+        "released": "2007-03-25",
+        "overview": "As the Racers head to Tanzania, one Team takes a huge risk and puts it all on the line in an attempt to get ahead of the pack."
+      },
+      {
+        "id": "tvmaze:816",
+        "title": "If I Were in Town, I Would Ask for Your Number - Part 1",
+        "season": 11,
+        "episode": 7,
+        "released": "2007-04-01",
+        "overview": "Teams head to Warsaw, Poland where a disagreement sparks an intense argument and name calling between teammates."
+      },
+      {
+        "id": "tvmaze:817",
+        "title": "If I Were in Town, I Would Ask for Your Number - Part 2",
+        "season": 11,
+        "episode": 8,
+        "released": "2007-04-01",
+        "overview": "Teams head to Warsaw, Poland where a disagreement sparks an intense argument and name calling between teammates."
+      },
+      {
+        "id": "tvmaze:818",
+        "title": "The Way You Look, Yeah",
+        "season": 11,
+        "episode": 9,
+        "released": "2007-04-08",
+        "overview": "Some locals in Malaysia can't help but encourage certain Racers in surprising ways and one Racer offers words of advice for the Malaysian youth."
+      },
+      {
+        "id": "tvmaze:819",
+        "title": "We Are Trying to Make Love, Not War",
+        "season": 11,
+        "episode": 10,
+        "released": "2007-04-15",
+        "overview": "Teams get a kick out of their next destination when they're challenged by high flying Kung Fu Warriors while scaling a massive bamboo scaffold."
+      },
+      {
+        "id": "tvmaze:820",
+        "title": "Good Doing Business with You",
+        "season": 11,
+        "episode": 11,
+        "released": "2007-04-22",
+        "overview": "Teams come face-to-face with their fear of heights during a harrowing Roadblock that finds the Racers plunging over 600 feet in the highest \"descender\" jump in the history of the Race."
+      },
+      {
+        "id": "tvmaze:821",
+        "title": "Oh My God, the Teletubbies Go to War",
+        "season": 11,
+        "episode": 12,
+        "released": "2007-04-29",
+        "overview": "While in Guam, one Team is overcome by feelings of patriotism while visiting the U.S. military bases. Not even the thrill of zero gravity can stop one Racer from urging the crew of the plane to race faster."
+      },
+      {
+        "id": "tvmaze:822",
+        "title": "Low to the Ground, That's My Technique",
+        "season": 11,
+        "episode": 13,
+        "released": "2007-05-06",
+        "overview": "The final three All-Star Teams Race towards the finish line for their second chance at one million dollars and, for two teams, its the chance to become the first all-female team to win the Race."
+      },
+      {
+        "id": "tvmaze:823",
+        "title": "Donkeys Have Souls Too",
+        "season": 12,
+        "episode": 1,
+        "released": "2007-11-04",
+        "overview": "Eleven Teams depart from the Playboy Mansion in Los Angeles."
+      },
+      {
+        "id": "tvmaze:824",
+        "title": "I've Become the Archie Bunker of the Home",
+        "season": 12,
+        "episode": 2,
+        "released": "2007-11-11",
+        "overview": "Racers struggle to complete a challenging Roadblock that requires Teams to pole-vault a stream in order to receive their next clue."
+      },
+      {
+        "id": "tvmaze:825",
+        "title": "Please, Lord, Give Me Milk!",
+        "season": 12,
+        "episode": 3,
+        "released": "2007-11-18",
+        "overview": "Teams face a challenging Roadblock that requires them to milk several stubborn camels in order to receive their next clue."
+      },
+      {
+        "id": "tvmaze:826",
+        "title": "Let's Name Our Chicken Phil",
+        "season": 12,
+        "episode": 4,
+        "released": "2007-11-25",
+        "overview": "Teams must impress the local judges in Burkina Faso with their dance moves to avoid a penalty and receive their next clue."
+      },
+      {
+        "id": "tvmaze:827",
+        "title": "We've Really Burned Bridges, for Sure",
+        "season": 12,
+        "episode": 5,
+        "released": "2007-12-02",
+        "overview": "The intensity of the Race causes one Team to loss their focus and places them on a collision course with a speeding bus, while another Team says some things they might regret after losing their cool during a Detour."
+      },
+      {
+        "id": "tvmaze:828",
+        "title": "Cherry on Top of the Sundae That's Already Melted",
+        "season": 12,
+        "episode": 6,
+        "released": "2007-12-09",
+        "overview": "One Team falls apart during a Detour in Croatia that requires precise teamwork, while one of the Race's strongest Teams makes a costly mistake that threatens their future."
+      },
+      {
+        "id": "tvmaze:829",
+        "title": "This is Forever, Now",
+        "season": 12,
+        "episode": 7,
+        "released": "2007-12-23",
+        "overview": "Fatigue and stress cause one of the Race's strongest teams to breakdown when racing through Italy, while another Team contemplates making a permanent change to their bodies in order to further their position in the Race."
+      },
+      {
+        "id": "tvmaze:830",
+        "title": "Honestly, They Have Witch Powers or Something!",
+        "season": 12,
+        "episode": 8,
+        "released": "2007-12-30",
+        "overview": "The remaining teams continue in the eighth leg of the race. The continued stress of the race takes its toll on Ronald and Christina, causing them to revert to their old, poor communication."
+      },
+      {
+        "id": "tvmaze:831",
+        "title": "I Just Hope He Doesn't Croak on Us",
+        "season": 12,
+        "episode": 9,
+        "released": "2008-01-06",
+        "overview": "One Racer can't perform at a Roadblock due to physical exhaustion, while another Racer blows a gasket when their taxi driver drops them off at the wrong location."
+      },
+      {
+        "id": "tvmaze:832",
+        "title": "Sorry, Guys, I'm Not Happy to See You",
+        "season": 12,
+        "episode": 10,
+        "released": "2008-01-13",
+        "overview": "One Racer celebrates her birthday on the Race and the only gift she wants is a spot in the final three, as the remaining four Teams battle it out for a chance to run the final leg and win the one million dollar prize."
+      },
+      {
+        "id": "tvmaze:833",
+        "title": "The Final Push",
+        "season": 12,
+        "episode": 11,
+        "released": "2008-01-20",
+        "overview": "The last three Teams set off on their final leg, as one Team that typically works well together experiences their first clash, and another Team misreads a vital clue that threatens their position."
+      },
+      {
+        "id": "tvmaze:834",
+        "title": "Bees Are Much Calmer Than All This!",
+        "season": 13,
+        "episode": 1,
+        "released": "2008-09-28",
+        "overview": "Eleven new teams depart from the Los Angeles Memorial Coliseum, embarking on a Race around the world."
+      },
+      {
+        "id": "tvmaze:835",
+        "title": "Do You Like American Candy?",
+        "season": 13,
+        "episode": 2,
+        "released": "2008-10-05",
+        "overview": "The Race is in full swing heading into the second leg when Teams start making simple mistakes - from misreading clues to blindly following their competition."
+      },
+      {
+        "id": "tvmaze:836",
+        "title": "Did You Push My Sports Bra Off the Ledge?",
+        "season": 13,
+        "episode": 3,
+        "released": "2008-10-12",
+        "overview": "When Teams square off against a Bolivian wrestling group, Racers find themselves struggling for every breath due to the high altitude, and an argument over a lost piece of clothing carries over to the course as two Teams battle to avoid elimination."
+      },
+      {
+        "id": "tvmaze:837",
+        "title": "I Wonder If They Like Blondes in New Zealand?",
+        "season": 13,
+        "episode": 4,
+        "released": "2008-10-19",
+        "overview": "While navigating a tricky Detour, one Racer takes a hard fall and injures her arm, while another Team struggles to keep their relationship intact."
+      },
+      {
+        "id": "tvmaze:838",
+        "title": "Do It Like a Madman",
+        "season": 13,
+        "episode": 5,
+        "released": "2008-10-26",
+        "overview": "One Team finds itself in trouble with the law as they watch precious time tick away, while another Racer doesn't hesitate to lie while standing in one of the most religious places on earth."
+      },
+      {
+        "id": "tvmaze:839",
+        "title": "Please Hold While I Singe My Skull",
+        "season": 13,
+        "episode": 6,
+        "released": "2008-11-02",
+        "overview": "One Racer thinks his teammate's flirting is causing them to lose their focus during a Roadblock, while another Team battles Mother Nature's windstorm during a Detour."
+      },
+      {
+        "id": "tvmaze:840",
+        "title": "My Nose is on Fire",
+        "season": 13,
+        "episode": 7,
+        "released": "2008-11-09",
+        "overview": "Strict Indian shopkeeper leaves a team teary eyed with a crushing Detour, while another racer conducts an overly-thorough, squirm-inducing search for a clue in a bird's home."
+      },
+      {
+        "id": "tvmaze:841",
+        "title": "I'm Like an Angry Cow",
+        "season": 13,
+        "episode": 8,
+        "released": "2008-11-16",
+        "overview": "For the first time in the history of the Race, Teams travel to Kazakhstan where a Roadblock with over 30,000 chickens awaits, and one Team makes a risky move that could prove to be either a game changer or the end of the road."
+      },
+      {
+        "id": "tvmaze:842",
+        "title": "That is Studly",
+        "season": 13,
+        "episode": 9,
+        "released": "2008-11-23",
+        "overview": "When one team spends too much money, an unpaid taxi driver literally stands in their way of making it to the Pitstop, while another Racer's awkward attempt to fall in line leaves the Russian military laughing."
+      },
+      {
+        "id": "tvmaze:843",
+        "title": "You're Gonna Get Me Killed",
+        "season": 13,
+        "episode": 10,
+        "released": "2008-11-30",
+        "overview": "One Team makes an unprecedented mistake that prohibits them from joining their fellow Racers at the finish line, while another Team struggles to make it through Moscow's public transportation system."
+      },
+      {
+        "id": "tvmaze:844",
+        "title": "You Look Like Peter Pan",
+        "season": 13,
+        "episode": 11,
+        "released": "2008-12-07",
+        "overview": "After over 30,000 miles, five continents, and countless hours racing around the globe, it's down to one final leg for the three remaining Teams, who will sprint to the finish line in Portland, Ore. for a chance to win one million dollars."
+      },
+      {
+        "id": "tvmaze:845",
+        "title": "Don't Let a Cheese Hit Me",
+        "season": 14,
+        "episode": 1,
+        "released": "2009-02-15",
+        "overview": "Eleven teams depart from the Joint Forces Training Base in Los Alamitos, Calif. and travel to Switzerland where the world's second tallest bungee awaits, as well as an exhausting, \"cheesy\" challenge."
+      },
+      {
+        "id": "tvmaze:846",
+        "title": "Your Target is Your Partner's Face",
+        "season": 14,
+        "episode": 2,
+        "released": "2009-02-22",
+        "overview": "An injured Racer finds their Team's destiny in Mother Nature's hands and must make a game changing decision, while another Racer's hopes are pinned to a mountain rescue."
+      },
+      {
+        "id": "tvmaze:847",
+        "title": "I'm Not Wearing That Girls Leotard!",
+        "season": 14,
+        "episode": 3,
+        "released": "2009-03-01",
+        "overview": "Teams scour the Transylvania countryside for buried coffins, while one of the Race's frontrunners finds themselves at the back of the pack when their plane makes an unexpected landing."
+      },
+      {
+        "id": "tvmaze:848",
+        "title": "It Was Like a Caravan of Idiots",
+        "season": 14,
+        "episode": 4,
+        "released": "2009-03-08",
+        "overview": "Teams travel to Siberia, the show's first- ever visit, where a first place team quickly learns how it feels to be last, and when a new twist is revealed, one Team is left scrambling for their survival in the game."
+      },
+      {
+        "id": "tvmaze:849",
+        "title": "She's a Little Scared of Stick, But I Think She'll Be OK!",
+        "season": 14,
+        "episode": 5,
+        "released": "2009-03-15",
+        "overview": "Teams must strip down to their bare essentials during a bone-chilling Roadblock, and another Team struggles to stay in the Race while having to navigate a stick shift through the icy streets of Siberia."
+      },
+      {
+        "id": "tvmaze:850",
+        "title": "Alright Guys, We're at War!",
+        "season": 14,
+        "episode": 6,
+        "released": "2009-03-22",
+        "overview": "As the race heats up, Teams face a roadblock made of camel feed, a speed bump the size of an elephant and a detour made more complicated by an impatient taxi driver."
+      },
+      {
+        "id": "tvmaze:851",
+        "title": "Gorilla? Gorilla?? Gorilla???",
+        "season": 14,
+        "episode": 7,
+        "released": "2009-03-29",
+        "overview": "One team finds that time is not of the essence when a shopkeeper hinders their movement, and others discover that a hurried pace doesn't always equal victory, particularly when mistakes can add up to penalties."
+      },
+      {
+        "id": "tvmaze:852",
+        "title": "Rooting Around in People's Mouths Could Be Unpleasant",
+        "season": 14,
+        "episode": 8,
+        "released": "2009-04-12",
+        "overview": "Several Racers leave their backpacks behind at a Roadblock and find themselves shoeless with no passports, and Teams let loose in a Karaoke-themed Detour."
+      },
+      {
+        "id": "tvmaze:853",
+        "title": "Our Parents Will Cry Themselves to Death",
+        "season": 14,
+        "episode": 9,
+        "released": "2009-04-19",
+        "overview": "During the Detour, one Racer is frustrated when a dancing judge doesn't understand their question, and two Teams battle each other throughout the leg, leading to a full-blown mat meltdown."
+      },
+      {
+        "id": "tvmaze:854",
+        "title": "Having a Baby's Gotta Be Easier Than This",
+        "season": 14,
+        "episode": 10,
+        "released": "2009-04-26",
+        "overview": "In an Olympic-themed task in Beijing, Teams swim the same distance that Michael Phelps swam in the 400 meter individual medley, and two Teams continue to hold a grudge against each other."
+      },
+      {
+        "id": "tvmaze:855",
+        "title": "He Made Me Look Like Alice Cooper",
+        "season": 14,
+        "episode": 11,
+        "released": "2009-05-03",
+        "overview": "The Racers must eat fried scorpions at a Roadblock, but even the distaste of a scorpion pales in comparison to the cutthroat behavior of a Team that publicly throws another under a bus with a U-Turn."
+      },
+      {
+        "id": "tvmaze:856",
+        "title": "This is How You Lose a Million Dollars",
+        "season": 14,
+        "episode": 12,
+        "released": "2009-05-10",
+        "overview": "Following a Race that spanned three continents, nine countries and 40,000 miles, Tammy and Victor, Cara and Jaime and Luke and Margie will square off in a grueling final leg that will test their endurance, their memory and one Racer's karma."
+      },
+      {
+        "id": "tvmaze:857",
+        "title": "They Thought Godzilla Was Walking Down the Street",
+        "season": 15,
+        "episode": 1,
+        "released": "2009-09-27",
+        "overview": "Twelve Teams stand at the start line in Los Angeles, Calif., but only 11 will make the journey to Tokyo, Japan as the Racers are faced with a heart-breaking surprise elimination."
+      },
+      {
+        "id": "tvmaze:858",
+        "title": "It's Like Being Dropped on Planet Mars",
+        "season": 15,
+        "episode": 2,
+        "released": "2009-10-04",
+        "overview": "Teams struggle to combat the hectic pace of Vietnam and one Team puts their own Race in jeopardy by offering to help the competition."
+      },
+      {
+        "id": "tvmaze:859",
+        "title": "Sean Penn Cambodia Here We Come",
+        "season": 15,
+        "episode": 3,
+        "released": "2009-10-11",
+        "overview": "Teams scramble to spot royalty in the jam-packed streets of Cambodia and one Team monkeys around and breaks the Race's cardinal rule by losing their passport."
+      },
+      {
+        "id": "tvmaze:860",
+        "title": "I'm Like Ricky Bobby",
+        "season": 15,
+        "episode": 4,
+        "released": "2009-10-18",
+        "overview": "Teams sweat it out searching sand dunes for water in the blistering sun and one racer decides to help his competition hoping karma will be on their side in the end."
+      },
+      {
+        "id": "tvmaze:861",
+        "title": "Do It for the Hood! Do It for the Suburbs!",
+        "season": 15,
+        "episode": 5,
+        "released": "2009-10-25",
+        "overview": "The teams begin to feel delirious during a Detour when scorching temperatures top 130 degrees and one racer breaks down when their partner is paralyzed by fear during a task."
+      },
+      {
+        "id": "tvmaze:862",
+        "title": "This is Not My Finest Hour",
+        "season": 15,
+        "episode": 6,
+        "released": "2009-11-01",
+        "overview": "One team musters up the courage to reveal a personal secret to the others, and another Racer breaks down in tears as the stress of the Race mounts."
+      },
+      {
+        "id": "tvmaze:863",
+        "title": "This is the Worst Thing I've Ever Done in My Life",
+        "season": 15,
+        "episode": 7,
+        "released": "2009-11-08",
+        "overview": "The lack of cooperation hinders one teams efforts at an explosive Detour, and during the series' first ever \"Switchback,\" Teams return to one of the most infamous Roadblocks in the history of the show."
+      },
+      {
+        "id": "tvmaze:864",
+        "title": "We're Not Meant for the Swamp",
+        "season": 15,
+        "episode": 8,
+        "released": "2009-11-15",
+        "overview": "The racers end up knee-deep in Estonian bogs, and two teams are neck and neck in their race to the pit stop."
+      },
+      {
+        "id": "tvmaze:865",
+        "title": "We're Not Working with Anybody, Ever, Anymore!",
+        "season": 15,
+        "episode": 9,
+        "released": "2009-11-22",
+        "overview": "\"We're Not Working With Anybody, Ever, Anymore! \"-Tempers flare when one team goes back on their word and a Team spirals into last place when their taxi is stolen by another Team."
+      },
+      {
+        "id": "tvmaze:866",
+        "title": "It Starts with an \"F,\" That's All I'm Saying",
+        "season": 15,
+        "episode": 10,
+        "released": "2009-11-29",
+        "overview": "One team decides to take a four-hour penalty when they're unable to complete a Roadblock, and another team dodges intoxicated locals while trying to complete their Detour."
+      },
+      {
+        "id": "tvmaze:867",
+        "title": "Amazing Grace, How Sweet the Sound!",
+        "season": 15,
+        "episode": 11,
+        "released": "2009-12-06",
+        "overview": "Million dollars is at the final three teams' fingertips as they count out a maddening amount of poker chips and race to see \"Mr. Las Vegas,\" who holds the final clue to the one million dollar prize."
+      },
+      {
+        "id": "tvmaze:868",
+        "title": "Nanna is Kickin' Your Butt",
+        "season": 16,
+        "episode": 1,
+        "released": "2010-02-14",
+        "overview": "Eleven Teams depart Los Angeles for Chile, where Racers find themselves dangling 120 feet in the air, battling exhaustion and their fear of heights in order to stay alive in the game, and one Team discovers that Brazilian currency will not get them very far in Chile."
+      },
+      {
+        "id": "tvmaze:869",
+        "title": "When the Cow Kicked Me in the Head",
+        "season": 16,
+        "episode": 2,
+        "released": "2010-02-21",
+        "overview": "Roadblock turns into a recipe for pain when one Racer encounters a moody cow, and things turn sour when a newly formed alliance rubs teams the wrong way."
+      },
+      {
+        "id": "tvmaze:870",
+        "title": "Run Like Scalded Dogs!",
+        "season": 16,
+        "episode": 3,
+        "released": "2010-02-28",
+        "overview": "The nine remaining teams travel from Chile to Argentina, but one pair end up in an emergency room before they depart. In Argentina, the duos must rope a steer's horns and then choose between locating hidden treasure in a field or playing polo on a wooden horse."
+      },
+      {
+        "id": "tvmaze:871",
+        "title": "We Are No Longer in the Bible Belt",
+        "season": 16,
+        "episode": 4,
+        "released": "2010-03-07",
+        "overview": "Racers must navigate an unfamiliar and confusing train system without their teammates, take a dive over Hamburg and reunite for a nausea-inducing lesson in German gastronomy."
+      },
+      {
+        "id": "tvmaze:872",
+        "title": "I Think We're Fighting the Germans, Right?",
+        "season": 16,
+        "episode": 5,
+        "released": "2010-03-14",
+        "overview": "World War I reenactment - complete with air attacks, gunfire and explosions - tests the Racers' nerves, and one Team finds that their cocky attitude may cost them dearly when a Blind U-Turn comes into play."
+      },
+      {
+        "id": "tvmaze:873",
+        "title": "Cathy Drone?",
+        "season": 16,
+        "episode": 6,
+        "released": "2010-03-21",
+        "overview": "Racers are less than bubbly after sprinting to the wrong Detour location, and one Racer tests the power of duct tape after their car becomes a casualty of the Race."
+      },
+      {
+        "id": "tvmaze:874",
+        "title": "Anonymous?",
+        "season": 16,
+        "episode": 7,
+        "released": "2010-03-28",
+        "overview": "Teams take a stunning helicopter ride to a remote island paradise where they must race with a giant tortoise and search for a message in a bottle at the bottom of the sea."
+      },
+      {
+        "id": "tvmaze:875",
+        "title": "You're Like Jason Bourne, Right?",
+        "season": 16,
+        "episode": 8,
+        "released": "2010-04-04",
+        "overview": "Teams find that luck doesn't pick sides in a sweat-drenched test of endurance where they must choose to face a 153-step climb or take a 35-foot-high lesson in Chingay."
+      },
+      {
+        "id": "tvmaze:876",
+        "title": "Dumb Did Us In",
+        "season": 16,
+        "episode": 9,
+        "released": "2010-04-11",
+        "overview": "Tempers and tensions flare when Racers place a target on one Team's back, and feuds come to a head when a U-turn comes into play."
+      },
+      {
+        "id": "tvmaze:877",
+        "title": "I Feel Like I'm In, Like, Sicily",
+        "season": 16,
+        "episode": 10,
+        "released": "2010-04-25",
+        "overview": "After noodling their way through their first Roadblock, Teams are forced to complete a second Roadblock, and the fate of two Teams lies in the hands of confused cabbies."
+      },
+      {
+        "id": "tvmaze:878",
+        "title": "They Don't Even Understand Their Own Language",
+        "season": 16,
+        "episode": 11,
+        "released": "2010-05-02",
+        "overview": "The Final 4 teams struggle with the language barrier in Shanghai while sorting through hundreds of golden Buddhas and thousands of Chinese stamps in their pursuit for a spot in the Final 3."
+      },
+      {
+        "id": "tvmaze:879",
+        "title": "Huger Than Huge",
+        "season": 16,
+        "episode": 12,
+        "released": "2010-05-09",
+        "overview": "With the million-dollar prize on the line, Racers come face-to-face with Darth Vader, and Teams drop all pretense of friendliness after a cut in line cuts into another Team's time while an angry confrontation awaits another at the finish line."
+      },
+      {
+        "id": "tvmaze:880",
+        "title": "They Don't Call It The Amazing Race for Nothin'!",
+        "season": 17,
+        "episode": 1,
+        "released": "2010-09-26",
+        "overview": "The 17th edition of the reality series begins in Gloucester, Mass., and the 11 teams then fly from Boston to London. First, the pairs visit Stonehenge to find a clue and then travel to Eastnor Castle, where they use watermelons to knock down a knight. The team to finish first on the initial leg receive an Express Pass that allows them to bypass a future challenge."
+      },
+      {
+        "id": "tvmaze:881",
+        "title": "A Kiss Saves the Day",
+        "season": 17,
+        "episode": 2,
+        "released": "2010-10-03",
+        "overview": "One team considers using their precious Express Pass after playful Ghanaian locals give some teams a headache while they struggle to complete the high-stakes roadblock."
+      },
+      {
+        "id": "tvmaze:882",
+        "title": "In Phil We Trust",
+        "season": 17,
+        "episode": 3,
+        "released": "2010-10-10",
+        "overview": "Challenging detour tests one couple's relationship, while another team's Racer requires medical attention, threatening their position in the competition."
+      },
+      {
+        "id": "tvmaze:883",
+        "title": "We Should Have Brought Gloves and Butt Pads",
+        "season": 17,
+        "episode": 4,
+        "released": "2010-10-17",
+        "overview": "After teams volunteer at a local school in Ghana, THE AMAZING RACE makes it's first-ever trip to the Arctic Circle, where one couple finds themselves in an unfortunate position and contemplate making a game changing decision."
+      },
+      {
+        "id": "tvmaze:884",
+        "title": "Tastes Like a Million Dollars",
+        "season": 17,
+        "episode": 5,
+        "released": "2010-10-24",
+        "overview": "Vegetarian racer struggles with a difficult decision when faced with a Norwegian delicacy, and Teams face their fears of heights during a gut-wrenching Roadblock."
+      },
+      {
+        "id": "tvmaze:885",
+        "title": "Run, Babushka, Run",
+        "season": 17,
+        "episode": 6,
+        "released": "2010-10-31",
+        "overview": "Racers struggle to complete their creative detours before putting in a proper day's work in the fields, where they discover the key to potato farming is manure."
+      },
+      {
+        "id": "tvmaze:886",
+        "title": "I Want to Be in the Circus, That's Where I Belong",
+        "season": 17,
+        "episode": 7,
+        "released": "2010-11-07",
+        "overview": "Teams are clowning around when they learn a traditional Russian circus act, but it's no joke when multiple teams make a critical error and misread a clue, jeopardizing their positions in the Race."
+      },
+      {
+        "id": "tvmaze:887",
+        "title": "Ali Baba in a Suit",
+        "season": 17,
+        "episode": 8,
+        "released": "2010-11-14",
+        "overview": "Following a huge mistake, one Racer makes an important decision that will impact their team beyond the finish line and for the rest of their lives."
+      },
+      {
+        "id": "tvmaze:888",
+        "title": "There's a Lot of Nuts and Bullets",
+        "season": 17,
+        "episode": 9,
+        "released": "2010-11-21",
+        "overview": "Tension among the teams runs high when, for the first time ever, two teams are U-turned and have to complete an extra task, jeopardizing their chances of making it to the final four."
+      },
+      {
+        "id": "tvmaze:889",
+        "title": "I Hate Chinese Food",
+        "season": 17,
+        "episode": 10,
+        "released": "2010-11-28",
+        "overview": "After Racers become violently ill during a challenge, the stress of the Race finally catches up to one team as a Racer threatens to quit."
+      },
+      {
+        "id": "tvmaze:890",
+        "title": "I'm Surrounded by Ninjas",
+        "season": 17,
+        "episode": 11,
+        "released": "2010-12-05",
+        "overview": "The final four teams travel to South Korea where they battle it out on water and ice to make the final three."
+      },
+      {
+        "id": "tvmaze:891",
+        "title": "Hi. I'm Sorry. I'm in a Race.",
+        "season": 17,
+        "episode": 12,
+        "released": "2010-12-12",
+        "overview": "The final three teams soar to new heights over Southern California, competing in the final leg for a shot at the million-dollar prize and, for two teams, the chance to become the first ever all-female team to win the series."
+      },
+      {
+        "id": "tvmaze:892",
+        "title": "Head Down and Hold On",
+        "season": 18,
+        "episode": 1,
+        "released": "2011-02-20",
+        "overview": "The 18th season begins with 11 former teams who failed to win returning for a chance to claim the $1 million prize. The race starts in Palm Springs, Cal., and continues in Sydney, Australia, where the teams swim with sharks and receive a surprise from Phil at the pit stop."
+      },
+      {
+        "id": "tvmaze:893",
+        "title": "I Never Looked So Foolish in My Whole Entire Life",
+        "season": 18,
+        "episode": 2,
+        "released": "2011-02-27",
+        "overview": "Teams dressed as kangaroos continue through Australia where one Racer reverts to old habits as tempers start to flare, and another Team breaks down in tears from utter exhaustion."
+      },
+      {
+        "id": "tvmaze:894",
+        "title": "We Had a Lot of Evil Spirits Apparently",
+        "season": 18,
+        "episode": 3,
+        "released": "2011-03-06",
+        "overview": "While in Japan, one team's hopes are shattered after a car crash jolts them to the back of the pack, and Racers get down and dirty in a pile of frigid mud."
+      },
+      {
+        "id": "tvmaze:895",
+        "title": "This is the Most Stupid Day Ever",
+        "season": 18,
+        "episode": 4,
+        "released": "2011-03-13",
+        "overview": "After losing all sense of direction en route to the airport and their passport twice, a Racer's frustration threatens to get the best of their team."
+      },
+      {
+        "id": "tvmaze:896",
+        "title": "Don't Ruin the Basketball Game",
+        "season": 18,
+        "episode": 5,
+        "released": "2011-03-20",
+        "overview": "The pressure builds when a prehistoric Roadblock pushes one Racer over the edge and a Double U-turn causes panic among the teams as they race to avoid elimination."
+      },
+      {
+        "id": "tvmaze:897",
+        "title": "I Feel Like a Monkey in a Circus Parade",
+        "season": 18,
+        "episode": 6,
+        "released": "2011-03-27",
+        "overview": "Overwhelmed by a swarming sea of people on the congested streets of India, one team narrowly dodges a traffic collision while another's clumsiness threatens to spoil their chances of acing the Detour."
+      },
+      {
+        "id": "tvmaze:898",
+        "title": "You Don't Get Paid Unless You Win",
+        "season": 18,
+        "episode": 7,
+        "released": "2011-04-10",
+        "overview": "Overwhelmed by the crowded streets of India, one team makes a costly blunder while another Racer takes a desperate plunge."
+      },
+      {
+        "id": "tvmaze:899",
+        "title": "I Cannot Deal with Your Psycho Behavior",
+        "season": 18,
+        "episode": 8,
+        "released": "2011-04-17",
+        "overview": "Confronted by a psychological Detour, teams try to avoid making a \"Freudian slip\" in the slick streets of Austria, and a hefty meal proves to be too big for some teams' stomachs."
+      },
+      {
+        "id": "tvmaze:900",
+        "title": "We're Good American People",
+        "season": 18,
+        "episode": 9,
+        "released": "2011-04-24",
+        "overview": "The stress of the Race begins to take its toll when a Double U-Turn is revealed, and one Team struggles to consume a local delicacy while others become acquainted with Swiss hospitality."
+      },
+      {
+        "id": "tvmaze:901",
+        "title": "Too Many Cooks in the Kitchen",
+        "season": 18,
+        "episode": 10,
+        "released": "2011-05-01",
+        "overview": "Teams brave bone-chilling temperatures as they come face-to-face with the world famous Matterhorn, and tempers flare in the most intense argument of the season."
+      },
+      {
+        "id": "tvmaze:902",
+        "title": "This is Where It Ends - Part 1",
+        "season": 18,
+        "episode": 11,
+        "released": "2011-05-08",
+        "overview": "The final four Teams mix it up in Brazil where Racers cry out in pain during a hairy situation as this season comes down to a race to the finish line when one Team will be crowned the winners and receive the 1 million dollar prize."
+      },
+      {
+        "id": "tvmaze:903",
+        "title": "This is Where It Ends - Part 2",
+        "season": 18,
+        "episode": 12,
+        "released": "2011-05-08",
+        "overview": "The final four Teams mix it up in Brazil where Racers cry out in pain during a hairy situation as this season comes down to a race to the finish line when one Team will be crowned the winners and receive the 1 million dollar prize."
+      },
+      {
+        "id": "tvmaze:904",
+        "title": "Kindness of Strangers",
+        "season": 19,
+        "episode": 1,
+        "released": "2011-09-25",
+        "overview": "The Emmy Award-winning THE AMAZING RACE sets off for a new global adventure as Teams depart for Taipei, Taiwan. Plus, one team's position in the game is put in serious jeopardy when they lose their passport less than an hour into the Race."
+      },
+      {
+        "id": "tvmaze:905",
+        "title": "The Sprint of Our Life",
+        "season": 19,
+        "episode": 2,
+        "released": "2011-10-02",
+        "overview": "When Racers discover that for the first time in THE AMAZING RACE history there is a double elimination, they are forced to step up their game. However, costly mistakes jeopardize multiple teams - chances at staying in the Race."
+      },
+      {
+        "id": "tvmaze:906",
+        "title": "Don't Lay Down on Me Now",
+        "season": 19,
+        "episode": 3,
+        "released": "2011-10-09",
+        "overview": "One Team is stranded in Indonesia as they watch their competition race by, and two Teams join forces to push through a mind-numbing mental challenge."
+      },
+      {
+        "id": "tvmaze:907",
+        "title": "This is Gonna Be a Fine Mess",
+        "season": 19,
+        "episode": 4,
+        "released": "2011-10-16",
+        "overview": "Teams struggle with an underwater challenge which threatens their positions in the game, and one team's love for the outdoors comes in handy during a tough climbing challenge."
+      },
+      {
+        "id": "tvmaze:908",
+        "title": "I Feel Like I'm in the Circus",
+        "season": 19,
+        "episode": 5,
+        "released": "2011-10-23",
+        "overview": "Fearing they have broken the rules, one team takes a risk that could cost them the Race. Meanwhile, an unwanted speed bump turns into a dream excursion for Liz and Marie, but will it push them even farther back."
+      },
+      {
+        "id": "tvmaze:909",
+        "title": "We Love Your Country Already; It is Very Spacious",
+        "season": 19,
+        "episode": 6,
+        "released": "2011-10-30",
+        "overview": "After falling to the back of the pack, a disheartened racer is encouraged by the spirit of the local workers, and it's an intense foot race to the first-ever Pit Stop in Malawi."
+      },
+      {
+        "id": "tvmaze:910",
+        "title": "Move Goat",
+        "season": 19,
+        "episode": 7,
+        "released": "2011-11-06",
+        "overview": "Teams race through Malawi where a puzzling patriotic Roadblock causes one team to fall behind. Also, with a Double U-Turn on the line, teams must choose whether to sabotage their fellow Racers for a chance at first place."
+      },
+      {
+        "id": "tvmaze:911",
+        "title": "Super Shady",
+        "season": 19,
+        "episode": 8,
+        "released": "2011-11-13",
+        "overview": "The Race travels to Copenhagen for the first time, where one Racer learns the meaning of two left feet and a double U-turn jeopardizes team positions in the Race."
+      },
+      {
+        "id": "tvmaze:912",
+        "title": "It's Speedo Time",
+        "season": 19,
+        "episode": 9,
+        "released": "2011-11-20",
+        "overview": "After a potentially game-changing error, one team hopes for a lucky break, and donning only a Speedo for their Detour task, Racers get in touch with their inner exhibitionists."
+      },
+      {
+        "id": "tvmaze:913",
+        "title": "Release the Brake",
+        "season": 19,
+        "episode": 10,
+        "released": "2011-11-27",
+        "overview": "Racers put the pedal to the metal and shift into high gear when they take a thrilling test drive, and results are far from sweet when teams also try to recreate classic Belgian waffles."
+      },
+      {
+        "id": "tvmaze:914",
+        "title": "We Are Charlie Chaplin",
+        "season": 19,
+        "episode": 11,
+        "released": "2011-12-04",
+        "overview": "The final four teams make their way to Panama City, where they come face-to-face with their fears as they take in astonishing views of the city skyline."
+      },
+      {
+        "id": "tvmaze:915",
+        "title": "Go Out and Get It Done",
+        "season": 19,
+        "episode": 12,
+        "released": "2011-12-11",
+        "overview": "After racing through 4 continents, 20 cities and nearly 40,000 miles, the final three teams race to Atlanta, Ga., where a smooth landing evades one team as their competition soars. In the end, the winning team is crowned and awarded the $1 million dollar prize."
+      },
+      {
+        "id": "tvmaze:916",
+        "title": "Tears of a Clown",
+        "season": 20,
+        "episode": 1,
+        "released": "2012-02-19",
+        "overview": "As 11 Teams depart Santa Barbara, Calif. for Santa Barbara, Argentina, one team struggles to keep their nerves at bay. Meanwhile, Teams quickly discover winning $1 million may be tougher than expected when they find themselves skydiving from a plane at 10,000 feet."
+      },
+      {
+        "id": "tvmaze:917",
+        "title": "You Know I'm Not as Smart as You",
+        "season": 20,
+        "episode": 2,
+        "released": "2012-02-26",
+        "overview": "Teams race through Buenos Aires, Argentina, where the stress of the Race causes one Team to break down into tears. Meanwhile, chaos ensues when Racers are required to sharpen their numerical skills at the world's largest cattle market."
+      },
+      {
+        "id": "tvmaze:918",
+        "title": "Bust Me Right in the Head with It",
+        "season": 20,
+        "episode": 3,
+        "released": "2012-03-04",
+        "overview": "The Race travels to Paraguay for the first time ever, as Teams struggle to produce during a fruity challenge, and Racers face a harsh reality if they fail to perfect a local balancing act."
+      },
+      {
+        "id": "tvmaze:919",
+        "title": "Taste Your Salami",
+        "season": 20,
+        "episode": 4,
+        "released": "2012-03-11",
+        "overview": "An unexpected beheading occurs as teams polish off a dirty task, and a random act of kindness leaves one team in tears."
+      },
+      {
+        "id": "tvmaze:920",
+        "title": "Uglier Than a Mud Rail Fence",
+        "season": 20,
+        "episode": 5,
+        "released": "2012-03-18",
+        "overview": "Teams scour King Ludwig's quarters in the same castle that served as the inspiration for Sleeping Beauty's castle, and tempers flare during one Team's walk through a snowy labyrinth."
+      },
+      {
+        "id": "tvmaze:921",
+        "title": "This is Wicked Strange",
+        "season": 20,
+        "episode": 6,
+        "released": "2012-03-25",
+        "overview": "Two Teams hit the hay to see how well they stack up and Racers break out the sponges for an oily detour during the series first-ever trip to Azerbaijan."
+      },
+      {
+        "id": "tvmaze:922",
+        "title": "I Didn't Make Her Cry",
+        "season": 20,
+        "episode": 7,
+        "released": "2012-04-08",
+        "overview": "Tears are shed as the claws come out in Tanzania and racers stand in amazement as they train alongside the Masai warriors."
+      },
+      {
+        "id": "tvmaze:923",
+        "title": "Let Them Drink Their Haterade",
+        "season": 20,
+        "episode": 8,
+        "released": "2012-04-15",
+        "overview": "The Race takes an unexpected turn when an early alliance is betrayed, and an unforgiving team savors the opportunity to exact their revenge in a game twist."
+      },
+      {
+        "id": "tvmaze:924",
+        "title": "Bollywood Travolta",
+        "season": 20,
+        "episode": 9,
+        "released": "2012-04-22",
+        "overview": "Gender disparities cause one Team to lose faith when a challenge seems insurmountable, and emotions run high as a Racer must weigh their own well-being against their future in the game."
+      },
+      {
+        "id": "tvmaze:925",
+        "title": "I Need Hair to Be Pretty",
+        "season": 20,
+        "episode": 10,
+        "released": "2012-04-29",
+        "overview": "One determined Racer powers through pain in the wake of a physical misstep, and teams pull out all of the bells and whistles for a larger than life challenge."
+      },
+      {
+        "id": "tvmaze:926",
+        "title": "It's a Great Place to Become Millionaires - Part 1",
+        "season": 20,
+        "episode": 11,
+        "released": "2012-05-06",
+        "overview": "The final four Teams battle for the $1 million prize in a grueling two-hour season finale that starts in Japan, where Racers call upon their track skills for an exhausting Japanese game show, and concludes in Hawaii, where Teams hit the waves to put their rescue mission skills to the test."
+      },
+      {
+        "id": "tvmaze:927",
+        "title": "It's a Great Place to Become Millionaires - Part 2",
+        "season": 20,
+        "episode": 12,
+        "released": "2012-05-06",
+        "overview": "The final four Teams battle for the $1 million prize in a grueling two-hour season finale that starts in Japan, where Racers call upon their track skills for an exhausting Japanese game show, and concludes in Hawaii, where Teams hit the waves to put their rescue mission skills to the test."
+      },
+      {
+        "id": "tvmaze:928",
+        "title": "Double Your Money",
+        "season": 21,
+        "episode": 1,
+        "released": "2012-09-30",
+        "overview": "The pressure hits an all-time high as Teams discover that a new twist will allow one Team to possibly win a $2 million grand prize. Meanwhile, one team's act of kindness comes back to haunt them."
+      },
+      {
+        "id": "tvmaze:929",
+        "title": "Long Hair, Don't Care",
+        "season": 21,
+        "episode": 2,
+        "released": "2012-10-07",
+        "overview": "One Team makes a bold move, but it could cost them the game, while another Racer breaks down amid the frustration of a Roadblock."
+      },
+      {
+        "id": "tvmaze:930",
+        "title": "There's No Crying in Baseball",
+        "season": 21,
+        "episode": 3,
+        "released": "2012-10-14",
+        "overview": "As Teams continue racing through Indonesia, they discover that it's every Team for themselves as they encounter a Double U-Turn, and Teams start to feel the heat of the Race as their heads are set ablaze."
+      },
+      {
+        "id": "tvmaze:931",
+        "title": "Funky Monkey",
+        "season": 21,
+        "episode": 4,
+        "released": "2012-10-21",
+        "overview": "As Team's arrive in Bangladesh, the game gets heated as one Racer's enthusiasm pushes their competition to the breaking point. Meanwhile, one Team performs the unpleasant task of working as \"rat collectors,\"."
+      },
+      {
+        "id": "tvmaze:932",
+        "title": "Chill Out, Freak",
+        "season": 21,
+        "episode": 5,
+        "released": "2012-10-28",
+        "overview": "Teams crumble amidst the intense heat of Bangladesh and emotions propel one Team through the leg after they receive disappointing news from home."
+      },
+      {
+        "id": "tvmaze:933",
+        "title": "Get Your Sexy On",
+        "season": 21,
+        "episode": 6,
+        "released": "2012-11-04",
+        "overview": "Teams endure a steamy detour in Istanbul to keep their race from getting scrubbed. Meanwhile, after finishing last on the previous leg, Josh and Brent must overcome a tasty Speed Bump in order to keep their hopes of racing alive."
+      },
+      {
+        "id": "tvmaze:934",
+        "title": "Off to See the Wizard",
+        "season": 21,
+        "episode": 7,
+        "released": "2012-11-11",
+        "overview": "Teams race to Moscow, Russia, where they find themselves in deep water struggling to stay in sync during a challenge. Meanwhile, one team makes a costly mistake that threatens their spot in the Race."
+      },
+      {
+        "id": "tvmaze:935",
+        "title": "We Was Robbed",
+        "season": 21,
+        "episode": 8,
+        "released": "2012-11-18",
+        "overview": "As the competition heats up in Moscow, James and Abba continue on their quest to recover a lost passport. Meanwhile, an ankle injury takes its toll on one racer and threatens the team's ability to finish a challenge."
+      },
+      {
+        "id": "tvmaze:936",
+        "title": "Fishy Kiss",
+        "season": 21,
+        "episode": 9,
+        "released": "2012-11-25",
+        "overview": "As the Teams arrive in Amsterdam, they come face-to-face with a game-changing Double U-Turn and encounter one of the show's most infamous challenges in this season's \"Switchback\"."
+      },
+      {
+        "id": "tvmaze:937",
+        "title": "Not a Well-Rounded Athlete",
+        "season": 21,
+        "episode": 10,
+        "released": "2012-12-02",
+        "overview": "The final four Teams arrive in Spain and travel to Rafael Nadal's practice courts for a volleying Roadblock. Also, one Team draws blood after getting bullish with a Detour."
+      },
+      {
+        "id": "tvmaze:938",
+        "title": "Take Down That Million - Part 1",
+        "season": 21,
+        "episode": 11,
+        "released": "2012-12-09",
+        "overview": "With the $1 million dollar prize on the line, the final four teams race through France en route to the finish line in New York City, where they'll encounter a terrifying Houdini-inspired Roadblock."
+      },
+      {
+        "id": "tvmaze:939",
+        "title": "Take Down That Million - Part 2",
+        "season": 21,
+        "episode": 12,
+        "released": "2012-12-09",
+        "overview": "With the $1 million dollar prize on the line, the final four teams race through France en route to the finish line in New York City, where they'll encounter a terrifying Houdini-inspired Roadblock."
+      },
+      {
+        "id": "tvmaze:940",
+        "title": "Business in the Front, Party in the Back",
+        "season": 22,
+        "episode": 1,
+        "released": "2013-02-17",
+        "overview": "Teams arrive in paradise where they find themselves skydiving from 10,000 feet in Bora Bora, and in an AMAZING RACE first, three teams throw in the towel during the first sweltering Roadblock of the season."
+      },
+      {
+        "id": "tvmaze:941",
+        "title": "Loose Lips Sink Ships",
+        "season": 22,
+        "episode": 2,
+        "released": "2013-02-24",
+        "overview": "One Team experiences extreme panic when faced with the seas of Bora Bora and another Team injures themselves sprinting to the mat, causing concern for their future in the Race."
+      },
+      {
+        "id": "tvmaze:942",
+        "title": "Like James Bond Again",
+        "season": 22,
+        "episode": 3,
+        "released": "2013-03-03",
+        "overview": "One Team's Race remains in jeopardy as they battle through a debilitating injury, while Racers get down and dirty in New Zealand's Shemozzle Race."
+      },
+      {
+        "id": "tvmaze:943",
+        "title": "I Love Monkeys!",
+        "season": 22,
+        "episode": 4,
+        "released": "2013-03-10",
+        "overview": "The stress of the Race brings one Racer to tears and another Team makes history while trying to avoid elimination."
+      },
+      {
+        "id": "tvmaze:944",
+        "title": "Your Tan is Totally Cool",
+        "season": 22,
+        "episode": 5,
+        "released": "2013-03-17",
+        "overview": "The game gets personal as Teams face a Double U-Turn in Hanoi, Vietnam, and one Team faces crushing news."
+      },
+      {
+        "id": "tvmaze:945",
+        "title": "Scorpion King Hunter",
+        "season": 22,
+        "episode": 6,
+        "released": "2013-03-24",
+        "overview": "Racers take on the daunting challenge of hunting for scorpions in Africa and Chuck and Wynona confront Team YouTube for using the U-Turn against them."
+      },
+      {
+        "id": "tvmaze:946",
+        "title": "Be Safe and Don't Hit a Cow",
+        "season": 22,
+        "episode": 7,
+        "released": "2013-03-31",
+        "overview": "Teams are caught in an African speed trap jeopardizing their future on the Race, and for the first time, Racers put their skills to the test when asked to waterski with crocodiles."
+      },
+      {
+        "id": "tvmaze:947",
+        "title": "My Cheese is Out of Control",
+        "season": 22,
+        "episode": 8,
+        "released": "2013-04-14",
+        "overview": "Teams race through Switzerland where they grapple with giant wheels of cheese in a return to a classic Race challenge \"Switchback,\" and Racers are on the edge when they dangle thousands of feet in the air traversing the north face of Eiger mountain."
+      },
+      {
+        "id": "tvmaze:948",
+        "title": "The Ultimate Fun House",
+        "season": 22,
+        "episode": 9,
+        "released": "2013-04-21",
+        "overview": "The final five teams are in Germany, where they plunge 37 stories through the Berlin sky and take a twisted journey through a psychedelic labyrinth."
+      },
+      {
+        "id": "tvmaze:949",
+        "title": "Working Our Barrels Off",
+        "season": 22,
+        "episode": 10,
+        "released": "2013-04-28",
+        "overview": "With a chance to compete in the finale on the line, the final five teams race through Scotland, where they encounter a double U-turn that puts two teams in jeopardy of elimination."
+      },
+      {
+        "id": "tvmaze:950",
+        "title": "Beacon of Hope - Part 1",
+        "season": 22,
+        "episode": 11,
+        "released": "2013-05-05",
+        "overview": "The four remaining teams start with bog snorkeling in Belfast, Northern Ireland, where one team faces this season's final elimination. The final three Teams then sprint to the finish line in Washington, D.C. in a Race through our nation's capital."
+      },
+      {
+        "id": "tvmaze:951",
+        "title": "Beacon of Hope - Part 2",
+        "season": 22,
+        "episode": 12,
+        "released": "2013-05-05",
+        "overview": "The four remaining teams start with bog snorkeling in Belfast, Northern Ireland, where one team faces this season's final elimination. The final three Teams then sprint to the finish line in Washington, D.C. in a Race through our nation's capital."
+      },
+      {
+        "id": "tvmaze:952",
+        "title": "We're Not in Oklahoma No More",
+        "season": 23,
+        "episode": 1,
+        "released": "2013-09-29",
+        "overview": "With the Double Express Pass on the line, teams depart for their first destination, Iquique, Chile, where one racer must face their fear of heights."
+      },
+      {
+        "id": "tvmaze:953",
+        "title": "Zip It, Bingo",
+        "season": 23,
+        "episode": 2,
+        "released": "2013-10-06",
+        "overview": "Racers strip down and muscle up for a bizarre salt bath in Santiago, Chile. Meanwhile, one team's communication blunder at a bus stop could prove costly."
+      },
+      {
+        "id": "tvmaze:954",
+        "title": "King Arthur Style",
+        "season": 23,
+        "episode": 3,
+        "released": "2013-10-13",
+        "overview": "In Lisbon, Portugal, one team takes a huge risk in the hopes of a big reward, and racers get medieval in a knightly Road Block."
+      },
+      {
+        "id": "tvmaze:955",
+        "title": "Beards in the Wind",
+        "season": 23,
+        "episode": 4,
+        "released": "2013-10-20",
+        "overview": "Teams travel to Svolvaer, Norway where Racers plunge into the Arctic. Also, Tim and Marie face a tough decision when confronted about the Express Pass."
+      },
+      {
+        "id": "tvmaze:956",
+        "title": "Get Our Groove On",
+        "season": 23,
+        "episode": 5,
+        "released": "2013-10-27",
+        "overview": "Teams travel to Gdansk, Poland where racers struggle to keep up the beat during a polka challenge. Meanwhile, a double U-turn jeopardizes each team's chances in the Race."
+      },
+      {
+        "id": "tvmaze:957",
+        "title": "Choir Boy at Heart",
+        "season": 23,
+        "episode": 6,
+        "released": "2013-11-03",
+        "overview": "One team is tempted by the Fast Forward but will their choice pay off? Meanwhile, Racers struggle to stay in tune with the world famous Vienna Boys Choir and an intense dispute breaks out at the mat."
+      },
+      {
+        "id": "tvmaze:958",
+        "title": "Speed Dating is the Worst",
+        "season": 23,
+        "episode": 7,
+        "released": "2013-11-10",
+        "overview": "Teams take a joy ride in Abu Dhabi when they rappel nearly 200 feet and race cars at gut-wrenching speeds."
+      },
+      {
+        "id": "tvmaze:959",
+        "title": "One Hot Camel",
+        "season": 23,
+        "episode": 8,
+        "released": "2013-11-17",
+        "overview": "Teams escape the desert heat in the United Arab Emirates with a rip-roaring white water rafting ride, and two teams come face-to-face with the second double U-turn of the season."
+      },
+      {
+        "id": "tvmaze:960",
+        "title": "Part Like the Red Sea",
+        "season": 23,
+        "episode": 9,
+        "released": "2013-11-24",
+        "overview": "Mistakes abound as the pressure of the Race gets to the final five teams in Bandung, Indonesia, and one team's relationship turns icy when they struggle at a Detour."
+      },
+      {
+        "id": "tvmaze:961",
+        "title": "Cobra in My Teeth",
+        "season": 23,
+        "episode": 10,
+        "released": "2013-12-01",
+        "overview": "The final four teams are in Indonesia where they must stomach a serving of snake, and Racers reach their boiling point during a challenging Road Block."
+      },
+      {
+        "id": "tvmaze:962",
+        "title": "Amazing \"Crazy\" Race - Part 1",
+        "season": 23,
+        "episode": 11,
+        "released": "2013-12-08",
+        "overview": "The final teams start in Tokyo where they'll find themselves rolling through a human bowling competition and stripping down for a phone call at the bottom of a giant fish bowl. Ultimately, the final three Teams will sprint to the finish line in Alaska for the one million dollar prize."
+      },
+      {
+        "id": "tvmaze:963",
+        "title": "Amazing \"Crazy\" Race - Part 2",
+        "season": 23,
+        "episode": 12,
+        "released": "2013-12-08",
+        "overview": "The final teams start in Tokyo where they'll find themselves rolling through a human bowling competition and stripping down for a phone call at the bottom of a giant fish bowl. Ultimately, the final three Teams will sprint to the finish line in Alaska for the one million dollar prize."
+      },
+      {
+        "id": "tvmaze:964",
+        "title": "Back in the Saddle",
+        "season": 24,
+        "episode": 1,
+        "released": "2014-02-23",
+        "overview": "Eleven of the most memorable teams return for another Race around the world, but in a dramatic series first, one team will not make it to the starting line."
+      },
+      {
+        "id": "tvmaze:965",
+        "title": "Baby Bear's Soup",
+        "season": 24,
+        "episode": 2,
+        "released": "2014-03-02",
+        "overview": "Mark and Mallory continue to struggle with communication and one major mistake jeopardizes their chances to keep racing, on the the All-Star edition."
+      },
+      {
+        "id": "tvmaze:966",
+        "title": "Welcome to the Jungle",
+        "season": 24,
+        "episode": 3,
+        "released": "2014-03-09",
+        "overview": "Teams race through the Malaysian jungle where the roaring rapids crush their spirits and their homemade rafts. Plus, after being struck by taxi déjà vu, one team fights to stay in the running."
+      },
+      {
+        "id": "tvmaze:967",
+        "title": "Smarter, Not Harder",
+        "season": 24,
+        "episode": 4,
+        "released": "2014-03-16",
+        "overview": "One racer pours blood and tears into an exhausting Roadblock and another racer suffers a meltdown during an extremely difficult Detour."
+      },
+      {
+        "id": "tvmaze:968",
+        "title": "Can't Make Fish Bite",
+        "season": 24,
+        "episode": 5,
+        "released": "2014-03-23",
+        "overview": "The Race continues in Sri Lanka where teams struggle to get a bite when fishing for their next clue."
+      },
+      {
+        "id": "tvmaze:969",
+        "title": "Down and Dirty",
+        "season": 24,
+        "episode": 6,
+        "released": "2014-03-30",
+        "overview": "The teams are in Sri Lanka, where an exhausting Roadblock drains the racers of all their strength. Also, an epic race through the countryside ends with a footrace to the Pit Stop."
+      },
+      {
+        "id": "tvmaze:970",
+        "title": "The Gladiators Are Here!",
+        "season": 24,
+        "episode": 7,
+        "released": "2014-04-13",
+        "overview": "Teams race to Rome, Italy, where Racers and Roman gladiators square off in a medieval Detour. Plus, three teams strike a deal in order to try to avoid elimination."
+      },
+      {
+        "id": "tvmaze:971",
+        "title": "Donkeylicious",
+        "season": 24,
+        "episode": 8,
+        "released": "2014-04-20",
+        "overview": "The competition gets fierce as the remaining six teams face a double U-Turn, and the Cowboys contemplate a major decision."
+      },
+      {
+        "id": "tvmaze:972",
+        "title": "Accidental Alliance",
+        "season": 24,
+        "episode": 9,
+        "released": "2014-04-27",
+        "overview": "With the final finish line getting closer, tension between two teams rises. Meanwhile, three teams make a final three alliance in hopes of making it to the final leg."
+      },
+      {
+        "id": "tvmaze:973",
+        "title": "Bull Down",
+        "season": 24,
+        "episode": 10,
+        "released": "2014-05-04",
+        "overview": "The Racers are in Spain where another double U-turn threatens the accidental alliance. Meanwhile, one team suffers a potentially game-changing injury."
+      },
+      {
+        "id": "tvmaze:974",
+        "title": "Hei Ho Heidi Ho",
+        "season": 24,
+        "episode": 11,
+        "released": "2014-05-11",
+        "overview": "The final four teams are in Liverpool, England, where they experience a once-in-a-lifetime shoot-out at the historic Anfield Stadium, home of the Liverpool FC. Meanwhile, one team misreads a clue and jeopardizes their chances at making the final three."
+      },
+      {
+        "id": "tvmaze:975",
+        "title": "Do You Believe in Magic?",
+        "season": 24,
+        "episode": 12,
+        "released": "2014-05-18",
+        "overview": "With the $1 million prize on the line, the final teams race through Las Vegas, where the world's greatest illusionist, David Copperfield, designs a final challenge that requires the remaining teams to master the art of illusion."
+      },
+      {
+        "id": "tvmaze:976",
+        "title": "Go Big or Go Home",
+        "season": 25,
+        "episode": 1,
+        "released": "2014-09-26",
+        "overview": "Teams begin their adventure from Times Square in New York City, where host Phil Keoghan introduces a new game-changing element, \"The Save.\" The team that finishes first in the premiere episode will be awarded \"The Save,\" which they can use to rescue themselves if they come in last on a leg and face elimination. Also, Racers take a gut-wrenching leap of faith during the series' first-ever trip to the U.S. Virgin Islands."
+      },
+      {
+        "id": "tvmaze:977",
+        "title": "When You Gotta Go, You Gotta Go",
+        "season": 25,
+        "episode": 2,
+        "released": "2014-10-03",
+        "overview": "The Race continues through London, England, where the Express Pass is on the line, but several teams' hopes of a first-place finish are capsized while boating in a punt in Oxford."
+      },
+      {
+        "id": "tvmaze:978",
+        "title": "Get Your Sheep Together",
+        "season": 25,
+        "episode": 3,
+        "released": "2014-10-10",
+        "overview": "The Race makes its first-ever visit to the Shetland Islands in Scotland, where teams must corral an unruly flock of sheep down a winding obstacle course."
+      },
+      {
+        "id": "tvmaze:979",
+        "title": "Thinly Sliced Anchovies",
+        "season": 25,
+        "episode": 4,
+        "released": "2014-10-17",
+        "overview": "When tasked with a painstaking Detour, the Dentists face the realization that they may need to use \"The Save.\" Meanwhile, one team's lack of communication leads to a massive meltdown on the mat."
+      },
+      {
+        "id": "tvmaze:980",
+        "title": "Morocc' and Roll",
+        "season": 25,
+        "episode": 5,
+        "released": "2014-10-24",
+        "overview": "The racers face a double U-turn in Morocco. Meanwhile, two teams accuse each other of playing dirty."
+      },
+      {
+        "id": "tvmaze:981",
+        "title": "I Feel Like I Just Kissed a Goat",
+        "season": 25,
+        "episode": 6,
+        "released": "2014-10-31",
+        "overview": "The race continues in Morocco, where a Road Block requires a member of each team to walk across a narrow bridge suspended high above the Atlas Mountains."
+      },
+      {
+        "id": "tvmaze:982",
+        "title": "Pretty Fly for a Food Scientist",
+        "season": 25,
+        "episode": 7,
+        "released": "2014-11-07",
+        "overview": "The race continues in Palermo, Sicily, where teams battle to beat the clock in a go-cart race through the mountains. Also, two rival duos form an unlikely alliance."
+      },
+      {
+        "id": "tvmaze:984",
+        "title": "Hot Sexy Knights",
+        "season": 25,
+        "episode": 8,
+        "released": "2014-11-21",
+        "overview": "The race continues in Valletta, Malta, where teams are thrown off balance when they must serve drinks to the knights of Malta. Also, a blind Detour leaves racers on a slippery slope."
+      },
+      {
+        "id": "tvmaze:46273",
+        "title": "You're Taking My Tan Off",
+        "season": 25,
+        "episode": 9,
+        "released": "2014-11-28",
+        "overview": "The race continues in Manila, Philippines, where the four remaining teams get muddy with ornery oxen during a switchback challenge from Season 5."
+      },
+      {
+        "id": "tvmaze:57531",
+        "title": "Smells Like Dirty Tube Socks",
+        "season": 25,
+        "episode": 10,
+        "released": "2014-12-05",
+        "overview": "The race continues in the Philippines where two strong teams make a mistake that could cost them a chance to win the $1 million. At the pit stop, Phil greets the racers with some shocking news."
+      },
+      {
+        "id": "tvmaze:57754",
+        "title": "Hooping It Up",
+        "season": 25,
+        "episode": 11,
+        "released": "2014-12-12",
+        "overview": "The final teams race to the finish line in Los Angeles."
+      },
+      {
+        "id": "tvmaze:92003",
+        "title": "All or Nothing",
+        "season": 25,
+        "episode": 12,
+        "released": "2014-12-19",
+        "overview": "For the first time ever, four teams battle it out in the final leg for the million dollar prize, but one team will face a shocking elimination before making it to the finish line."
+      },
+      {
+        "id": "tvmaze:96501",
+        "title": "Great Way to Start a Relationship",
+        "season": 26,
+        "episode": 1,
+        "released": "2015-02-25",
+        "overview": "Season 26 begins with 11 dating couples, including five pairs who meet for the first time at the starting line at California's Castaic Lake. The pairs fly to Tokyo on the first leg of the race and face a U-Turn."
+      },
+      {
+        "id": "tvmaze:139718",
+        "title": "I Got the Smartest Dude",
+        "season": 26,
+        "episode": 2,
+        "released": "2015-02-27",
+        "overview": "The race continues in Nagano, Japan, where teams take on an Olympic-sized Detour and one pair take a tumble that threatens to jeopardize their chances in the race."
+      },
+      {
+        "id": "tvmaze:142380",
+        "title": "#murphyslaw",
+        "season": 26,
+        "episode": 3,
+        "released": "2015-03-06",
+        "overview": "The race continues in Phuket, Thailand, where one team forgets their fanny pack, which puts them behind. Later, one racer celebrates the end of a leg by popping a very special question."
+      },
+      {
+        "id": "tvmaze:142381",
+        "title": "The Great Amazing Nasty Race",
+        "season": 26,
+        "episode": 4,
+        "released": "2015-03-13",
+        "overview": "The race continues in Bangkok."
+      },
+      {
+        "id": "tvmaze:151056",
+        "title": "Get in That Lederhosen, Baby",
+        "season": 26,
+        "episode": 5,
+        "released": "2015-04-03",
+        "overview": "Racers strap on lederhosen for a trip to Oktoberfest in Bavaria, Germany, and one team finds their race in jeopardy after losing their fanny pack."
+      },
+      {
+        "id": "tvmaze:151433",
+        "title": "Smells Like a Million Bucks",
+        "season": 26,
+        "episode": 6,
+        "released": "2015-04-10",
+        "overview": "The race continues in Monaco, where one team takes a big risk to gain an edge on the competition."
+      },
+      {
+        "id": "tvmaze:151434",
+        "title": "Back in Business",
+        "season": 26,
+        "episode": 7,
+        "released": "2015-04-17",
+        "overview": "The race continues in Namibia."
+      },
+      {
+        "id": "tvmaze:151435",
+        "title": "Moment of Truth",
+        "season": 26,
+        "episode": 8,
+        "released": "2015-04-17",
+        "overview": "The race continues in Namibia."
+      },
+      {
+        "id": "tvmaze:151436",
+        "title": "Can I Get a Hot Tub!",
+        "season": 26,
+        "episode": 9,
+        "released": "2015-04-24",
+        "overview": "The final five teams continue the race in Amsterdam, where they take a dip in a floating hot tub in search of a clue."
+      },
+      {
+        "id": "tvmaze:151437",
+        "title": "Fruits of Our Labor",
+        "season": 26,
+        "episode": 10,
+        "released": "2015-05-01",
+        "overview": "The race continues in Trujillo and Otuzco, Peru, where teams use fitness trackers to find their next clue. Also: Blair and Hayley's communication issues reach a boiling point."
+      },
+      {
+        "id": "tvmaze:151438",
+        "title": "In It to Win It",
+        "season": 26,
+        "episode": 11,
+        "released": "2015-05-08",
+        "overview": "The final four teams race in Peru to earn a spot in the finale."
+      },
+      {
+        "id": "tvmaze:153008",
+        "title": "Monster Truck Heroes",
+        "season": 26,
+        "episode": 12,
+        "released": "2015-05-15",
+        "overview": "Season 26 ends with the final teams flying from Peru to Dallas where they go to great heights at the top of AT&amp;T Stadium, visit a Texas cattle ranch and rappel 500 feet down the Reunion Tower."
+      },
+      {
+        "id": "tvmaze:167636",
+        "title": "A Little Too Much Beefcake",
+        "season": 27,
+        "episode": 1,
+        "released": "2015-09-25",
+        "overview": "Eleven new teams take off on the journey of a lifetime from Venice Beach, Calif. and head for Rio de Janeiro, where teams take a thrilling helicopter ride and face a huge decision at the Fast Forward:"
+      },
+      {
+        "id": "tvmaze:215944",
+        "title": "Get in There and Think Like a Dog",
+        "season": 27,
+        "episode": 2,
+        "released": "2015-10-02",
+        "overview": "The race continues in Buenos Aires where the 10 remaining teams learn a tango with a twist and visit the church where Pope Francis was baptized."
+      },
+      {
+        "id": "tvmaze:219039",
+        "title": "Where My Dogs At?",
+        "season": 27,
+        "episode": 3,
+        "released": "2015-10-09",
+        "overview": "The race continues in San Antonio de Areco, Argentina, where attention to detail becomes paramount during a meaty challenge, and one team faces a penalty after making a costly mistake."
+      },
+      {
+        "id": "tvmaze:250040",
+        "title": "Good Old Fashioned Spit in the Face",
+        "season": 27,
+        "episode": 4,
+        "released": "2015-10-16",
+        "overview": "Racers soar high above Africa's Victoria Falls and encounter a double U-turn, and Team Texas uses an express pass in an effort to eliminate the Green Team."
+      },
+      {
+        "id": "tvmaze:250041",
+        "title": "King of the Jungle",
+        "season": 27,
+        "episode": 5,
+        "released": "2015-10-23",
+        "overview": "The race continues in Zambia, Africa, where racers plunge more than 250 feet over the Zambezi River, feed a trio of crocodiles and walk with lions through a jungle."
+      },
+      {
+        "id": "tvmaze:250042",
+        "title": "My Tongue Doesn't Even Twist That Way",
+        "season": 27,
+        "episode": 6,
+        "released": "2015-10-30",
+        "overview": "Teams travel to Paris where Racers soar high above the French countryside and \"drop mics\" with a popular French rapper."
+      },
+      {
+        "id": "tvmaze:250043",
+        "title": "Full Speed Ahead, Captain!",
+        "season": 27,
+        "episode": 7,
+        "released": "2015-11-06",
+        "overview": "A duo take a sightseeing break, putting their place in the competition at risk; racers face a double-Dutch detour."
+      },
+      {
+        "id": "tvmaze:379145",
+        "title": "Krakow, I'm Gonna Get You",
+        "season": 27,
+        "episode": 8,
+        "released": "2015-11-13",
+        "overview": "- Teams hit the town in Krakow, Poland with local street musicians to earn a hard day's pay."
+      },
+      {
+        "id": "tvmaze:379146",
+        "title": "It's Always the Quiet Ones",
+        "season": 27,
+        "episode": 9,
+        "released": "2015-11-20",
+        "overview": "The race continues in Agra, India."
+      },
+      {
+        "id": "tvmaze:429366",
+        "title": "Bring the Fun, Baby!",
+        "season": 27,
+        "episode": 10,
+        "released": "2015-11-27",
+        "overview": "The race continues in Agra, India."
+      },
+      {
+        "id": "tvmaze:436887",
+        "title": "It's Not Easy Beating Green",
+        "season": 27,
+        "episode": 11,
+        "released": "2015-12-04",
+        "overview": "The race continues in Hong Kong and Macau."
+      },
+      {
+        "id": "tvmaze:466108",
+        "title": "We Got a Chance, Baby!",
+        "season": 27,
+        "episode": 12,
+        "released": "2015-12-11",
+        "overview": "- The final three teams race to Long Island, New York where, after five continents, 10 countries and more than 34,000 miles, one will be crowned winners and awarded the $1 million prize, on the season finale."
+      },
+      {
+        "id": "tvmaze:503679",
+        "title": "I Should've Been a Boy Scout",
+        "season": 28,
+        "episode": 1,
+        "released": "2016-02-12",
+        "overview": "- In a series first, 11 new teams of social media stars depart from their own homes all across the country and head for Mexico City, where they set off fireworks and dig deep at an archaeological Roadblock."
+      },
+      {
+        "id": "tvmaze:503680",
+        "title": "You Look Like Gollum",
+        "season": 28,
+        "episode": 2,
+        "released": "2016-02-19",
+        "overview": "The race continues in Cartagena, Colombia, where teams go mud diving for emeralds in a volcano."
+      },
+      {
+        "id": "tvmaze:503681",
+        "title": "Bros Being Jocks",
+        "season": 28,
+        "episode": 3,
+        "released": "2016-02-26",
+        "overview": "The race continues in Cartagena, Colombia, where claustrophobia threatens to prevent one racer from going deep into catacombs to retrieve a clue."
+      },
+      {
+        "id": "tvmaze:604753",
+        "title": "Get It Trending",
+        "season": 28,
+        "episode": 4,
+        "released": "2016-03-04",
+        "overview": "The race continues in Geneva, Switzerland, where a romance blossoms between two racers. Later, teams get caught in one of the largest-ever footraces to the mat for first place."
+      },
+      {
+        "id": "tvmaze:620327",
+        "title": "We're Only Doing Freaky Stuff Today",
+        "season": 28,
+        "episode": 5,
+        "released": "2016-03-11",
+        "overview": "The race continues in Chamonix, France, where teams climb 15,000 feet in the French Alps. One duo's race is threatened when they drop a clue down a mountain."
+      },
+      {
+        "id": "tvmaze:620328",
+        "title": "Let the Good Times Roll",
+        "season": 28,
+        "episode": 6,
+        "released": "2016-04-01",
+        "overview": "For the first time in The Amazing Race history, teams travel to Yerevan, Armenia, where an express pass is on the line for the winner of the leg."
+      },
+      {
+        "id": "tvmaze:620329",
+        "title": "Welcome to Bloody Fingers 101",
+        "season": 28,
+        "episode": 7,
+        "released": "2016-04-08",
+        "overview": "The race continues in Tbilisi, Georgia, where teams learn to make a traditional candy and go deep into the trenches at an old Georgian winery."
+      },
+      {
+        "id": "tvmaze:620330",
+        "title": "I Have a Wedgie and a Half",
+        "season": 28,
+        "episode": 8,
+        "released": "2016-04-15",
+        "overview": "Teams travel to Dubai where they race camels and swim with sharks."
+      },
+      {
+        "id": "tvmaze:620331",
+        "title": "Salt That Sand!",
+        "season": 28,
+        "episode": 9,
+        "released": "2016-04-22",
+        "overview": "A tight race to the Mat in Bali has teams rowing and swimming to a boat for the pit stop, where losers are eliminated by walking the plank."
+      },
+      {
+        "id": "tvmaze:620332",
+        "title": "Monkey Dance",
+        "season": 28,
+        "episode": 10,
+        "released": "2016-04-29",
+        "overview": "The racers visit Lembongan Island, Indonesia, where they face a double U-turn and a gut-wrenching, 40-foot plunge."
+      },
+      {
+        "id": "tvmaze:620333",
+        "title": "That's Money, Honey",
+        "season": 28,
+        "episode": 11,
+        "released": "2016-05-06",
+        "overview": "The final four teams race for a spot in the finale and a high-stakes foot race to the mat will mark the end of one more team's journey."
+      },
+      {
+        "id": "tvmaze:620334",
+        "title": "The Only First That Matters",
+        "season": 28,
+        "episode": 12,
+        "released": "2016-05-13",
+        "overview": "With the one million dollar prize on the line, the final three teams race from Shenzhen, China, to Santa Barbara, Calif., for the final leg of the Race, and face a gut-wrenching leap of faith: jump off a building more than 150 feet high, and perform the harrowing task of synchronized mountaineering. Phil Keoghan hosts."
+      },
+      {
+        "id": "tvmaze:1001973",
+        "title": "We're Coming for You, Phil!",
+        "season": 29,
+        "episode": 1,
+        "released": "2017-03-30",
+        "overview": "Season 29 begins with 22 strangers meeting at the starting line in Los Angeles and then pairing up to form 11 teams who then fly to the first destination, Panama City."
+      },
+      {
+        "id": "tvmaze:1097542",
+        "title": "Scared Spitless",
+        "season": 29,
+        "episode": 2,
+        "released": "2017-04-06",
+        "overview": "Teams travel to Sao Paulo, Brazil where tensions rise between two teams when one goes back on their word."
+      },
+      {
+        "id": "tvmaze:1097543",
+        "title": "Bucket List Type Stuff",
+        "season": 29,
+        "episode": 3,
+        "released": "2017-04-13",
+        "overview": "Racers travel to Zanzibar, Tanzania where teams build and deliver desks to a local school. Also, tensions rise when teams face a blind double U-turn, and one team's Race may be in jeopardy when they misplace their passports."
+      },
+      {
+        "id": "tvmaze:1097544",
+        "title": "Another One Bites the Dust",
+        "season": 29,
+        "episode": 4,
+        "released": "2017-04-20",
+        "overview": "A U-turn causes tension between two teams in Tanzania."
+      },
+      {
+        "id": "tvmaze:1097545",
+        "title": "Have Faith in Me, Broski",
+        "season": 29,
+        "episode": 5,
+        "released": "2017-04-20",
+        "overview": "Racers take on a record-setting roadblock by helping build a 13-story bonfire in Norway."
+      },
+      {
+        "id": "tvmaze:1097546",
+        "title": "Double U-Turn Ahead",
+        "season": 29,
+        "episode": 6,
+        "released": "2017-04-27",
+        "overview": "Several teams come together and target one set of Racers at the double U-Turn in Italy."
+      },
+      {
+        "id": "tvmaze:1097547",
+        "title": "Have Fun and Get It Done",
+        "season": 29,
+        "episode": 7,
+        "released": "2017-05-04",
+        "overview": "Teams race through Venice, Italy where one team reaches a breaking point in a frantic search for a water taxi."
+      },
+      {
+        "id": "tvmaze:1097548",
+        "title": "Good Job, Donkey",
+        "season": 29,
+        "episode": 8,
+        "released": "2017-05-11",
+        "overview": "While driving to the Detour, one team ends up going the wrong way, and a surprising U-turn causes friction between racers."
+      },
+      {
+        "id": "tvmaze:1101278",
+        "title": "I Thought We Were Playing It Nice",
+        "season": 29,
+        "episode": 9,
+        "released": "2017-05-18",
+        "overview": "Teams battle the scorching heat while transporting shrimp baskets for one mile to a local fisherman, and one Racer approaches their breaking point during the exhausting Roadblock."
+      },
+      {
+        "id": "tvmaze:1101279",
+        "title": "Riding a Bike is Like Riding a Bike",
+        "season": 29,
+        "episode": 10,
+        "released": "2017-05-18",
+        "overview": "Teams battle the scorching heat while transporting shrimp baskets for one mile to a local fisherman, and one Racer approaches their breaking point during the exhausting Roadblock."
+      },
+      {
+        "id": "tvmaze:1113956",
+        "title": "As Easy as Stacking Cups",
+        "season": 29,
+        "episode": 11,
+        "released": "2017-05-25",
+        "overview": "- The final four teams race through Seoul, South Korea to clinch a spot in the finale and a chance to race for the one million dollar prize."
+      },
+      {
+        "id": "tvmaze:1113957",
+        "title": "We're Going to Victory Lane",
+        "season": 29,
+        "episode": 12,
+        "released": "2017-06-01",
+        "overview": "The final three teams race to Chicago where they must complete their last challenges within the city's most iconic landmarks, including Wrigley Field, the home of the World Series champion Chicago Cubs, before they dash to the finish line."
+      },
+      {
+        "id": "tvmaze:1364939",
+        "title": "You're a Champion, Prove It",
+        "season": 30,
+        "episode": 1,
+        "released": "2018-01-03",
+        "overview": "Teams begin their adventure in Washington Square Park in New York City and immediately travel to their first destination, Iceland, where they must traverse a massive canyon high above the Geitargljufur River."
+      },
+      {
+        "id": "tvmaze:1365495",
+        "title": "You're the Best French Fry Ever",
+        "season": 30,
+        "episode": 2,
+        "released": "2018-01-10",
+        "overview": "For the first time ever, teams square off head-to-head in a competition to earn their place on the mat and avoid elimination."
+      },
+      {
+        "id": "tvmaze:1365496",
+        "title": "It's Gonna Be a Fragrant Day",
+        "season": 30,
+        "episode": 3,
+        "released": "2018-01-17",
+        "overview": "Things get slimy at a fishy challenge, and Racers scale buildings and run through the narrow streets of Tangiers, Morocco."
+      },
+      {
+        "id": "tvmaze:1364940",
+        "title": "Gotta Put Your Sole Into It, Part 1",
+        "season": 30,
+        "episode": 4,
+        "released": "2018-01-24",
+        "overview": "One team tries to stay on track after failing to read their clue, and teams face off against one another in the second head-to-head competition of the season."
+      },
+      {
+        "id": "tvmaze:1397742",
+        "title": "Gotta Put Your Sole Into It, Part 2",
+        "season": 30,
+        "episode": 5,
+        "released": "2018-01-24",
+        "overview": "The race continues in Provence, France."
+      },
+      {
+        "id": "tvmaze:1364941",
+        "title": "The Claws Are Out",
+        "season": 30,
+        "episode": 6,
+        "released": "2018-01-31",
+        "overview": "The stakes are high when teams face the dreaded double U-turn and racers struggle to navigate the streets of Prague while delivering kegs to a local party."
+      },
+      {
+        "id": "tvmaze:1364942",
+        "title": "All's Fair in Love and War, Part 1",
+        "season": 30,
+        "episode": 7,
+        "released": "2018-02-07",
+        "overview": "For the first time, Racers swap teammates for an entire leg. Also, the game becomes ruthless with another double U-turn."
+      },
+      {
+        "id": "tvmaze:1364943",
+        "title": "All's Fair in Love and War, Part 2",
+        "season": 30,
+        "episode": 8,
+        "released": "2018-02-07",
+        "overview": "The race continues in Harare, Zimbabwe."
+      },
+      {
+        "id": "tvmaze:1365580",
+        "title": "The First Rule of Amazing Race Club, Part 1",
+        "season": 30,
+        "episode": 9,
+        "released": "2018-02-14",
+        "overview": "For the first time, the Race travels to Bahrain, where one team's game is on the line when one of them misplaces their passport."
+      },
+      {
+        "id": "tvmaze:1365498",
+        "title": "The First Rule of Amazing Race Club, Part 2",
+        "season": 30,
+        "episode": 10,
+        "released": "2018-02-14",
+        "overview": "The race continues in Chiang Mai, Thailand, where scorpions are on the menu"
+      },
+      {
+        "id": "tvmaze:1365581",
+        "title": "It's Just a Million Dollars, No Pressure, Part 1",
+        "season": 30,
+        "episode": 11,
+        "released": "2018-02-21",
+        "overview": "The race continues in Hong Kong."
+      },
+      {
+        "id": "tvmaze:1365499",
+        "title": "It's Just a Million Dollars, No Pressure, Part 2",
+        "season": 30,
+        "episode": 12,
+        "released": "2018-02-21",
+        "overview": "The race concludes in San Francisco."
+      },
+      {
+        "id": "tvmaze:1571761",
+        "title": "You're in Our Race Now",
+        "season": 31,
+        "episode": 1,
+        "released": "2019-04-17",
+        "overview": "The Emmy Award-winning The Amazing Race returns with the first reality showdown among some of the most memorable and competitive players from The Amazing Race, Survivor and Big Brother."
+      },
+      {
+        "id": "tvmaze:1641071",
+        "title": "Knock the Newbie Out of Us",
+        "season": 31,
+        "episode": 2,
+        "released": "2019-04-24",
+        "overview": "Racers have a big decision to make when they face a surprise double U-turn in Laos."
+      },
+      {
+        "id": "tvmaze:1642371",
+        "title": "Here Fishy, Fishy, Fishy",
+        "season": 31,
+        "episode": 3,
+        "released": "2019-05-01",
+        "overview": "Teams travel to Vietnam where they must master synchronized dancing, karaoke singing and fishing for prawns."
+      },
+      {
+        "id": "tvmaze:1645299",
+        "title": "I Took Out a Polar Bear",
+        "season": 31,
+        "episode": 4,
+        "released": "2019-05-08",
+        "overview": "Enemies are made when one team steals another team's taxi in Ho Chi Minh, Vietnam."
+      },
+      {
+        "id": "tvmaze:1647812",
+        "title": "I'm a Bird, I'm a Plane, I'm on The Amazing Race!",
+        "season": 31,
+        "episode": 5,
+        "released": "2019-05-22",
+        "overview": "Teams take a leap of faith when choosing which detour challenge to take on, and a split-second decision may make or break one team's life in the race."
+      },
+      {
+        "id": "tvmaze:1655823",
+        "title": "Who Wants a Rolex?",
+        "season": 31,
+        "episode": 6,
+        "released": "2019-05-22",
+        "overview": "Teams must drum up enough strength for an intense head-to-head battle before checking into the mat."
+      },
+      {
+        "id": "tvmaze:1655953",
+        "title": "Living Fearlessly",
+        "season": 31,
+        "episode": 7,
+        "released": "2019-05-29",
+        "overview": "Teams travel to Switzerland where they free-fall over 400 feet into the Gletscherschlucht Glacier Gorge."
+      },
+      {
+        "id": "tvmaze:1656418",
+        "title": "You're the Apple in My Eye",
+        "season": 31,
+        "episode": 8,
+        "released": "2019-06-05",
+        "overview": "While in Switzerland, teams are surprised with the first ever public U-turn vote, where racers have to vote in front of each other."
+      },
+      {
+        "id": "tvmaze:1659244",
+        "title": "Let's Split!",
+        "season": 31,
+        "episode": 9,
+        "released": "2019-06-12",
+        "overview": "Teams take a bumpy ride in Split, Croatia and try not to get tongue-twisted reciting poetry while in motion."
+      },
+      {
+        "id": "tvmaze:1659723",
+        "title": "Chugga Chugga Choo Choo!",
+        "season": 31,
+        "episode": 10,
+        "released": "2019-06-19",
+        "overview": "The final five teams try not to crack while transporting eggs across town by bicycle in the Netherlands."
+      },
+      {
+        "id": "tvmaze:1659724",
+        "title": "This One is For One Million Dollars",
+        "season": 31,
+        "episode": 11,
+        "released": "2019-06-26",
+        "overview": "With the $1 million on the line, the final four teams Race through London, where they take a helicopter ride to Dover Castle, and through Detroit, where they rappel nearly 500 feet down the Guardian Building. The team to cross the finish line first will be crowned the winners of THE AMAZING RACE."
+      },
+      {
+        "id": "tvmaze:1920008",
+        "title": "One Million Miles",
+        "season": 32,
+        "episode": 1,
+        "released": "2020-10-14",
+        "overview": "The globe-trotting teams begin their adventure, which filmed prior to the global outbreak of the coronavirus, from the iconic Hollywood Bowl in Los Angeles, and travel to their first destination, Trinidad and Tobago. Along the route, teams will travel to France, Germany, Kazakhstan, Brazil and more. The team that crosses the finish line first will be crowned the winners of THE AMAZING RACE and the $1 million prize."
+      },
+      {
+        "id": "tvmaze:1920255",
+        "title": "Red Lipstick Is Not My Color",
+        "season": 32,
+        "episode": 2,
+        "released": "2020-10-21",
+        "overview": "Teams race through Bogotá, Colombia where they encounter the \"Yield,\" which gives them the power to stop another team's race for a designated amount of time."
+      },
+      {
+        "id": "tvmaze:1920256",
+        "title": "We're Makin' Big Moves",
+        "season": 32,
+        "episode": 3,
+        "released": "2020-10-28",
+        "overview": "Teams are in Manaus, Brazil where they have big decisions to make when they encounter the first U-turn of the Race."
+      },
+      {
+        "id": "tvmaze:1950260",
+        "title": "Olé, Olé!",
+        "season": 32,
+        "episode": 4,
+        "released": "2020-11-04",
+        "overview": "Teams race through Asunción, Paraguay when they compete in a series of switchback Detours from season 20, where they must either stack a pyramid of watermelons or perform a traditional Paraguayan bottle dance."
+      },
+      {
+        "id": "tvmaze:1950261",
+        "title": "You Don't Strike Me as a Renaissance Man",
+        "season": 32,
+        "episode": 5,
+        "released": "2020-11-11",
+        "overview": "Teams are in Paris, France where they must whip up some tasty treats and make enough Crème Chantilly for four pies, as well as compete in a series of carnival games."
+      },
+      {
+        "id": "tvmaze:1950262",
+        "title": "I'm Not Even Walking, I'm Falling",
+        "season": 32,
+        "episode": 6,
+        "released": "2020-11-18",
+        "overview": "Teams reach new heights in Berlin, Germany as they walk face-first down the exterior of a building for nearly 200 feet."
+      },
+      {
+        "id": "tvmaze:1956521",
+        "title": "Give Me a Beard Bump",
+        "season": 32,
+        "episode": 7,
+        "released": "2020-11-18",
+        "overview": "Teams travel to Almaty, Kazakhstan where they brave the cold weather while perfecting a choreographed fight scene and decorating a yurt."
+      },
+      {
+        "id": "tvmaze:1956523",
+        "title": "Are You a Rickshaw?",
+        "season": 32,
+        "episode": 8,
+        "released": "2020-11-25",
+        "overview": "In the first ever \"Mega Leg\" in the show's history, teams race through Hyderabad, India where they must complete double the detours and double the road blocks and travel double the distance."
+      },
+      {
+        "id": "tvmaze:1956524",
+        "title": "This is Not Payback, This is Karma",
+        "season": 32,
+        "episode": 9,
+        "released": "2020-11-25",
+        "overview": "The first ever \"Mega Leg\" in RACE history continues through Hyderabad, India where teams compete in double the detours and double the road blocks and travel double the distance."
+      },
+      {
+        "id": "tvmaze:1968422",
+        "title": "Getting Down to the Nitty Gritty",
+        "season": 32,
+        "episode": 10,
+        "released": "2020-12-02",
+        "overview": "The final five teams race through Siem Reap, Cambodia where they face the second and final double U-turn."
+      },
+      {
+        "id": "tvmaze:1972369",
+        "title": "Run on Your Tippy Toes",
+        "season": 32,
+        "episode": 11,
+        "released": "2020-12-09",
+        "overview": "In the first-ever city sprint, the final four teams will have no road blocks, no detours and complete every challenge as a team as fast as they can when they race through Manila, the capital of the Philippines, on the penultimate leg of THE AMAZING RACE."
+      },
+      {
+        "id": "tvmaze:1972370",
+        "title": "Now It's About Winning",
+        "season": 32,
+        "episode": 12,
+        "released": "2020-12-16",
+        "overview": "With the $1 million prize on the line, the final three teams travel to New Orleans where, after visiting 11 countries, 17 cities and travelling more than 33,000 miles, one team will be crowned the winners of THE AMAZING RACE."
+      },
+      {
+        "id": "tvmaze:2214227",
+        "title": "We're Back!",
+        "season": 33,
+        "episode": 1,
+        "released": "2022-01-05",
+        "overview": "THE AMAZING RACE begins its historic 33rd trip around the world when 11 new teams take off from their homes and travel to their first destination, London, England."
+      },
+      {
+        "id": "tvmaze:2214430",
+        "title": "It Can't Be That Easy",
+        "season": 33,
+        "episode": 2,
+        "released": "2022-01-05",
+        "overview": "The 10 remaining teams race around London, England."
+      },
+      {
+        "id": "tvmaze:2247658",
+        "title": "Who Has This One in the Bag?",
+        "season": 33,
+        "episode": 3,
+        "released": "2022-01-12",
+        "overview": "While racing through Scotland in February 2020, teams receive shocking and unprecedented news – for the first time in the show's history, THE AMAZING RACE suspends production due to the COVID-19 pandemic."
+      },
+      {
+        "id": "tvmaze:2247969",
+        "title": "Ready To Restart The Race",
+        "season": 33,
+        "episode": 4,
+        "released": "2022-01-19",
+        "overview": "Host Phil Keoghan gathers the teams in Switzerland to restart the Race nearly 20 months after production was suspended for the pandemic, and the longest pit stop in the show's history."
+      },
+      {
+        "id": "tvmaze:2248324",
+        "title": "Stairway to Hell",
+        "season": 33,
+        "episode": 5,
+        "released": "2022-01-26",
+        "overview": "Teams race through Switzerland, where Racers bungee jump over 700 feet off the Verzasca Dam."
+      },
+      {
+        "id": "tvmaze:2248325",
+        "title": "Say Cheese",
+        "season": 33,
+        "episode": 6,
+        "released": "2022-02-02",
+        "overview": "Racers travel by private jet to Corsica, France, where they go canyoneering through the beautiful landscape of natural rockslides, waterfalls, and rivers."
+      },
+      {
+        "id": "tvmaze:2262170",
+        "title": "Gently Down the Stream",
+        "season": 33,
+        "episode": 7,
+        "released": "2022-02-09",
+        "overview": "Teams continue racing through Corsica, France, where each team member must try a piece of casu martzu, also known as maggot cheese."
+      },
+      {
+        "id": "tvmaze:2262171",
+        "title": "Souvlaki",
+        "season": 33,
+        "episode": 8,
+        "released": "2022-02-16",
+        "overview": "Teams travel to Halkidiki, Greece, where they are tested on their spelling and memory skills."
+      },
+      {
+        "id": "tvmaze:2268188",
+        "title": "Rock Bottom",
+        "season": 33,
+        "episode": 9,
+        "released": "2022-02-23",
+        "overview": "Racers leave no stone unturned while looking for a clue in Thessaloniki, Greece."
+      },
+      {
+        "id": "tvmaze:2273060",
+        "title": "No Room for Error",
+        "season": 33,
+        "episode": 10,
+        "released": "2022-03-02",
+        "overview": "The final four teams race through Setubal, Portugal and Los Angeles to claim the grand prize."
+      },
+      {
+        "id": "tvmaze:2284712",
+        "title": "In the Hands of the Amazing Race Gods",
+        "season": 33,
+        "episode": 11,
+        "released": "2022-03-02",
+        "overview": "After traveling to seven countries, 17 cities and enduring the longest Pit Stop ever due to the COVID-19 pandemic, one team will be crowned the winners of THE AMAZING RACE and win the $1 million prize."
+      },
+      {
+        "id": "tvmaze:2351661",
+        "title": "Many Firsts But Don't Be Last",
+        "season": 34,
+        "episode": 1,
+        "released": "2022-09-21",
+        "overview": "Twelve new teams start their journey on The Amazing Race outside the U.S., in Munich, Germany, and in this season's shocking new twist, one team will be eliminated at the end of every leg."
+      },
+      {
+        "id": "tvmaze:2351720",
+        "title": "Patience, Is the New Me",
+        "season": 34,
+        "episode": 2,
+        "released": "2022-09-28",
+        "overview": "Teams explore the beauty of Austria and must learn a traditional wedding dance, yodel and a song performed on alpine bells."
+      },
+      {
+        "id": "tvmaze:2352632",
+        "title": "It's All In the Details",
+        "season": 34,
+        "episode": 3,
+        "released": "2022-10-05",
+        "overview": "Teams start a Megaleg in Bologna, Italy, where they must cart an 88-pound wheel of parmigiano cheese and build a Ducati Panigale V4 motorcycle."
+      },
+      {
+        "id": "tvmaze:2404464",
+        "title": "Everyone's an Artist",
+        "season": 34,
+        "episode": 4,
+        "released": "2022-10-12",
+        "overview": "Teams continue the megaleg and make their way to Florence, where they chisel out a sculpture from a large block of plaster and crash a fashion photo shoot."
+      },
+      {
+        "id": "tvmaze:2404465",
+        "title": "The Amazing Race of Arabia",
+        "season": 34,
+        "episode": 5,
+        "released": "2022-10-19",
+        "overview": "For the first time in AMAZING RACE history, teams travel to the Kingdom of Jordan. They will ride a train and experience a scene reminiscent of the 1963 Oscar-winning film \"Lawrence of Arabia,\" search the Wadi Rum desert and visit the ancient city of Petra."
+      },
+      {
+        "id": "tvmaze:2404466",
+        "title": "Step By Step",
+        "season": 34,
+        "episode": 6,
+        "released": "2022-10-26",
+        "overview": "A shocking elimination takes place while teams continue their Jordanian journey in the \"white city.\" Teams take part in a traditional folk dance and learn the Arabic alphabet."
+      },
+      {
+        "id": "tvmaze:2414496",
+        "title": "It's Simply Medieval",
+        "season": 34,
+        "episode": 7,
+        "released": "2022-11-02",
+        "overview": "Teams drive to Dordogne, France, the city of 1,001 castles, where they will extract walnut oil, play three medieval games and flex their memory muscles while rappelling down the side of a castle."
+      },
+      {
+        "id": "tvmaze:2414497",
+        "title": "La Ville Rose",
+        "season": 34,
+        "episode": 8,
+        "released": "2022-11-09",
+        "overview": "Teams drive to Toulouse, France, known as the \"Pink City,\" where they must run, tackle and kick their way through a roadblock while training with a champion pro rugby team."
+      },
+      {
+        "id": "tvmaze:2425829",
+        "title": "Vamos a la Playa",
+        "season": 34,
+        "episode": 9,
+        "released": "2022-11-16",
+        "overview": "Teams embark on a megaleg in Malaga, Spain, where racers become grill masters and brave rough waters."
+      },
+      {
+        "id": "tvmaze:2426244",
+        "title": "Don't Look Down",
+        "season": 34,
+        "episode": 10,
+        "released": "2022-11-23",
+        "overview": "Teams continue the megaleg in Ronda, Spain, where they must choose to build an arch brick by brick or dress for success."
+      },
+      {
+        "id": "tvmaze:2426245",
+        "title": "How Am I Going to Survive This?",
+        "season": 34,
+        "episode": 11,
+        "released": "2022-11-30",
+        "overview": "The final four teams race through Iceland to clinch a spot in the finale and a chance to win the $1 million prize."
+      },
+      {
+        "id": "tvmaze:2430883",
+        "title": "The Only Leg That Matters",
+        "season": 34,
+        "episode": 12,
+        "released": "2022-12-07",
+        "overview": "The final three teams travel 3,000 miles to race through Nashville for the final showdown, where they must deliver guitars and play a giant floor piano to win the $1 million prize."
+      },
+      {
+        "id": "tvmaze:2659639",
+        "title": "The Amazing Race Is Back!",
+        "season": 35,
+        "episode": 1,
+        "released": "2023-09-27",
+        "overview": "This Emmy Award-winning and recently nominated THE AMAZING RACE begins its milestone 35th season at the iconic Hollywood Sign, celebrating the famous landmark's 100th anniversary, before heading to their first location: Thailand."
+      },
+      {
+        "id": "tvmaze:2630298",
+        "title": "You Don't See That at Home",
+        "season": 35,
+        "episode": 2,
+        "released": "2023-10-04",
+        "overview": "Teams dive deeper into the countryside of Thailand for the second leg of the race, encountering catfish-infested waters and pomelo-filled rivers."
+      },
+      {
+        "id": "tvmaze:2630299",
+        "title": "No Sleep and a Million Dollar Dream",
+        "season": 35,
+        "episode": 3,
+        "released": "2023-10-11",
+        "overview": "The teams feel the strain of commercial travel and float their way through the Mekong Delta as they are challenged between making rice paper or customizing a scooter by wrapping it in vinyl in Vietnam."
+      },
+      {
+        "id": "tvmaze:2630300",
+        "title": "The Day Keeps Rockin' Here In Vietnam",
+        "season": 35,
+        "episode": 4,
+        "released": "2023-10-18",
+        "overview": "Teams continue racing in Vietnam and face the hustle and bustle of a congested Vietnamese market, where they must properly set up a fish stand and deliver mattresses to a local hotel."
+      },
+      {
+        "id": "tvmaze:2630301",
+        "title": "Yessir, the Pink City",
+        "season": 35,
+        "episode": 5,
+        "released": "2023-10-25",
+        "overview": "Teams travel more than 2,000 miles from Vietnam to India where they must balance traditional pots on their heads while performing a folk dance and assemble a life-size, three-dimensional mural."
+      },
+      {
+        "id": "tvmaze:2630302",
+        "title": "Driving Head On Into Scooters",
+        "season": 35,
+        "episode": 6,
+        "released": "2023-11-01",
+        "overview": "For the first time in THE AMAZING RACE history, the votes for the mandatory U-turn are in and one team must complete both detours in India, bundling up flowers and transporting building materials on rickshaws in the bustling streets of Jaipur."
+      },
+      {
+        "id": "tvmaze:2630303",
+        "title": "Like Two Cats Fighting in a Car",
+        "season": 35,
+        "episode": 7,
+        "released": "2023-11-08",
+        "overview": "Having experienced the U-turn in India, relationships are tested as teams take on their first self-drive leg in Germany. Also, teams rappel down a castle wall and use their taste buds to identify different mustards."
+      },
+      {
+        "id": "tvmaze:2630304",
+        "title": "A Planes, Trains and Automobiles Day",
+        "season": 35,
+        "episode": 8,
+        "released": "2023-11-15",
+        "overview": "For the first time in THE AMAZING RACE history, teams visit the country of Slovenia. Racers will soar to new heights in glider planes, experience roadblock surprises and battle to remain in the race."
+      },
+      {
+        "id": "tvmaze:2662764",
+        "title": "In the Belly of the Earth",
+        "season": 35,
+        "episode": 9,
+        "released": "2023-11-22",
+        "overview": "Teams continue racing in Slovenia, carefully traveling on foot carrying wooden pieces on their back, descending deep into a cave and assembling a giant dragon and scraping off mussels and barnacles in the waters."
+      },
+      {
+        "id": "tvmaze:2662765",
+        "title": "Everyone Loves a Comeback Story",
+        "season": 35,
+        "episode": 10,
+        "released": "2023-11-29",
+        "overview": "Teams travel 1,000 miles from Slovenia to Sweden, where they must face their fears and skydive from 10,000 feet over the Baltic Sea, recreate a midsummer tradition and sort through recyclable items."
+      },
+      {
+        "id": "tvmaze:2662766",
+        "title": "We're Finding Our Pot of Gold",
+        "season": 35,
+        "episode": 11,
+        "released": "2023-12-06",
+        "overview": "Teams travel to Dublin, Ireland, where they must complete four challenges in the penultimate leg including swimming in the Irish Sea, dancing with the legendary Riverdance troupe, scoring a point with the hurling team and reciting quotes from a famed Irish novelist."
+      },
+      {
+        "id": "tvmaze:2674257",
+        "title": "A Sunset, Seattle Scramble",
+        "season": 35,
+        "episode": 12,
+        "released": "2023-12-13",
+        "overview": "The final three teams travel to Seattle, where they must complete three challenges in a scramble leg, a first in AMAZING RACE history. The challenges are inspired by Seattle's art scene and include swinging from a high trapeze, glassblowing and being a roadie for a grunge band. The team that successfully completes these challenges and arrives first will win the $1 million prize."
+      },
+      {
+        "id": "tvmaze:2687440",
+        "title": "You Can't Drive While You're Crying",
+        "season": 36,
+        "episode": 1,
+        "released": "2024-03-13",
+        "overview": "Thirteen new teams embark on the journey of a lifetime when host Phil Keoghan kicks off the 36th season of the CBS Original series THE AMAZING RACE. Teams begin in Puerto Vallarta, Mexico where they participate in a traditional Mexican rodeo and try to lasso their way to the finish line without coming in last."
+      },
+      {
+        "id": "tvmaze:2791248",
+        "title": "Trust But Verify",
+        "season": 36,
+        "episode": 2,
+        "released": "2024-03-20",
+        "overview": "Teams continue the megaleg in Puerto Vallarta, Mexico, where they must choose between detours that get them ready for a fiesta."
+      },
+      {
+        "id": "tvmaze:2793579",
+        "title": "It's Not Over Til Phil Sings",
+        "season": 36,
+        "episode": 3,
+        "released": "2024-03-27",
+        "overview": "Teams climb the stairs to the top of El Peñon de Guatapé in Colombia to find their clue and begin the third leg of the race."
+      },
+      {
+        "id": "tvmaze:2793580",
+        "title": "Those Who Wander Are Not Lost",
+        "season": 36,
+        "episode": 4,
+        "released": "2024-04-03",
+        "overview": "Teams paraglide their way to the start of this leg in Medellín, Colombia where they must choose between detours ‘getting in sync' or ‘decoding a rebus puzzle.'"
+      },
+      {
+        "id": "tvmaze:2797848",
+        "title": "Save The Stress For Later",
+        "season": 36,
+        "episode": 5,
+        "released": "2024-04-10",
+        "overview": "To begin this leg of the Race in Santiago, Chile, teams self-drive in search of Marilyn Monroe's iconic Thunderbird car to receive their next clue."
+      },
+      {
+        "id": "tvmaze:2809342",
+        "title": "Our Alliance Strikes Again",
+        "season": 36,
+        "episode": 6,
+        "released": "2024-04-17",
+        "overview": "Teams compete in double the roadblocks and double the detours on a megaleg in Argentina."
+      },
+      {
+        "id": "tvmaze:2809343",
+        "title": "Walk And Chew Gum Baby",
+        "season": 36,
+        "episode": 7,
+        "released": "2024-04-24",
+        "overview": "Teams must put on their best performance in Montevideo, Uruguay, when they choose between banging out a drum routine with street performers or singing a Spanish tune with professional troubadours at the detour."
+      },
+      {
+        "id": "tvmaze:2818301",
+        "title": "That's What Being Strong Will Do",
+        "season": 36,
+        "episode": 8,
+        "released": "2024-05-01",
+        "overview": "For the first time in THE AMAZING RACE history, teams travel to Barbados where they visit the childhood home of superstar Rihanna."
+      },
+      {
+        "id": "tvmaze:2823946",
+        "title": "My Precious Cacao",
+        "season": 36,
+        "episode": 9,
+        "released": "2024-05-08",
+        "overview": "For the first time, the Race travels to the Dominican Republic, where the final five teams must complete two road blocks."
+      },
+      {
+        "id": "tvmaze:2823947",
+        "title": "The Longest Minute of Your Life",
+        "season": 36,
+        "episode": 10,
+        "released": "2024-05-15",
+        "overview": "In the penultimate leg, the final four teams compete for the chance to make the final three and one racer receives the surprise of a lifetime after their elimination. Then, in the final leg, the remaining three teams get schooled in American history, and after eight countries, 14 cities and 11,711 miles, one team will be crowned the winners of THE AMAZING RACE and win the $1 million prize."
+      },
+      {
+        "id": "tvmaze:3052079",
+        "title": "Double the Stakes, Double the Eliminations",
+        "season": 37,
+        "episode": 1,
+        "released": "2025-03-05",
+        "overview": "Host Phil Keoghan sends 14 teams, the largest cast ever, on the journey of a lifetime. At the first destination, Hong Kong, teams encounter their first surprise twist of the season when they confront the inaugural Fork in the Road, forcing them to choose which direction and route they want to take to the Pit Stop, creating two parallel races where two teams will be eliminated."
+      },
+      {
+        "id": "tvmaze:3147832",
+        "title": "Very Strong Warrior Energy",
+        "season": 37,
+        "episode": 2,
+        "released": "2025-03-12",
+        "overview": "Teams depart for Osaka, Japan, where they encounter an Intersection at the Roadblock, forcing one partner to team up with a member of another team and complete a challenge performing the taiko drums"
+      },
+      {
+        "id": "tvmaze:3155074",
+        "title": "Chaotic, Crazy, That's What We're Used To",
+        "season": 37,
+        "episode": 3,
+        "released": "2025-03-19",
+        "overview": "The stakes are high at the Roadblock! Racers must play the ancient Japanese game of kemari and the first team with both members to successfully complete the game will win the express pass."
+      },
+      {
+        "id": "tvmaze:3167325",
+        "title": "There's No Addresses in the Jungle",
+        "season": 37,
+        "episode": 4,
+        "released": "2025-03-26",
+        "overview": "Racers travel to Bali, Indonesia, where the first team to arrive must make a difficult decision."
+      },
+      {
+        "id": "tvmaze:3167326",
+        "title": "It's Not Personal, It's Business",
+        "season": 37,
+        "episode": 5,
+        "released": "2025-04-02",
+        "overview": "Host Phil Keoghan shocks the teams when he announces a surprise where teams must cast their vote live, and the two teams with the most votes are required to complete both detours."
+      },
+      {
+        "id": "tvmaze:3174197",
+        "title": "It Smells Like the Desert",
+        "season": 37,
+        "episode": 6,
+        "released": "2025-04-09",
+        "overview": "Racers skydive over the city of Dubai, and one team will win the classic game piece the Fast Forward, allowing them to skip all remaining tasks and head straight to the Pit Stop"
+      },
+      {
+        "id": "tvmaze:3180972",
+        "title": "Be One With the Hay",
+        "season": 37,
+        "episode": 7,
+        "released": "2025-04-16",
+        "overview": "For the first time ever, teams travel to Bulgaria where they face a surprise double U-Turn."
+      },
+      {
+        "id": "tvmaze:3180973",
+        "title": "We're Letting Race Brain Win",
+        "season": 37,
+        "episode": 8,
+        "released": "2025-04-23",
+        "overview": "Teams continue traveling through Bulgaria where the Express Pass is up for grabs, and one team makes a critical mistake that could jeopardize their race."
+      },
+      {
+        "id": "tvmaze:3180974",
+        "title": "The Pizza de Résistance",
+        "season": 37,
+        "episode": 9,
+        "released": "2025-04-30",
+        "overview": "Teams travel to Naples, Italy, where they must perfect their pizza-making skills."
+      },
+      {
+        "id": "tvmaze:3180975",
+        "title": "Up the River Without a Joust",
+        "season": 37,
+        "episode": 10,
+        "released": "2025-05-07",
+        "overview": "Racers travel to Strasbourg, France, where they go head-to-head in a water jousting match."
+      },
+      {
+        "id": "tvmaze:3181023",
+        "title": "My Knight in Shining Armor",
+        "season": 37,
+        "episode": 11,
+        "released": "2025-05-14",
+        "overview": "In the penultimate leg of the Race, the remaining four teams travel through Portugal, where they look to earn their place in the final."
+      },
+      {
+        "id": "tvmaze:3180976",
+        "title": "We're in Miami Baby!",
+        "season": 37,
+        "episode": 12,
+        "released": "2025-05-15",
+        "overview": "Teams race to Miami where, after nine countries, 18 cities and more than 29,000 miles, one team will be crowned the winners of THE AMAZING RACE and receive the $1 million prize."
+      },
+      {
+        "id": "tvmaze:3301095",
+        "title": "Two Worlds Colliding",
+        "season": 38,
+        "episode": 1,
+        "released": "2025-09-25",
+        "overview": "The racers kick off the season in Amsterdam, where they face classic game pieces and unexpected twists right off the bat."
+      },
+      {
+        "id": "tvmaze:3301099",
+        "title": "Mom's Gonna Have the Willies",
+        "season": 38,
+        "episode": 2,
+        "released": "2025-10-01",
+        "overview": "Teams depart for Prague, Czech Republic, where they must walk across a narrow plank hundreds of feet above the Zizkov Television Tower to retrieve their next clue."
+      },
+      {
+        "id": "tvmaze:3344160",
+        "title": "Cry and Rally",
+        "season": 38,
+        "episode": 3,
+        "released": "2025-10-08",
+        "overview": "Racers travel to Kutná Hora, Czech Republic, where a new alliance takes control."
+      },
+      {
+        "id": "tvmaze:3344161",
+        "title": "What Would Houdini Do?",
+        "season": 38,
+        "episode": 4,
+        "released": "2025-10-15",
+        "overview": "Racers travel to illusionist Harry Houdini's birthplace, Budapest, Hungary, where a puzzling Fast Forward puts one team to the test; a horse drawn carriage has teams racing against the clock."
+      },
+      {
+        "id": "tvmaze:3383310",
+        "title": "I Wanna Be a Little Angry Right Now",
+        "season": 38,
+        "episode": 5,
+        "released": "2025-10-22",
+        "overview": "Teams travel to Croatia; a frustrating roadblock brings some teams to tears."
+      },
+      {
+        "id": "tvmaze:3388003",
+        "title": "The System Hacked Me",
+        "season": 38,
+        "episode": 6,
+        "released": "2025-10-29",
+        "overview": "The race intensifies in Croatia where one team reconsiders their alliance and another team's Roadblock strategy falls apart."
+      },
+      {
+        "id": "tvmaze:3393030",
+        "title": "It Feels Like Falling the Whole Time",
+        "season": 38,
+        "episode": 7,
+        "released": "2025-11-05",
+        "overview": "Teams skydive through the clouds of Romania and one team must catch up after struggling during a sheep herding challenge."
+      },
+      {
+        "id": "tvmaze:3400593",
+        "title": "Oh Egg, Where Art Thou",
+        "season": 38,
+        "episode": 8,
+        "released": "2025-11-12",
+        "overview": "In Bucharest, two teams strategically use their Express Pass, eager to gain an advantage; navigational frustration reaches a boiling point for another team."
+      },
+      {
+        "id": "tvmaze:3402685",
+        "title": "I'm Not a Big Fan of Olives",
+        "season": 38,
+        "episode": 9,
+        "released": "2025-11-19",
+        "overview": "Phil sends the teams off to race through Athens, Greece."
+      },
+      {
+        "id": "tvmaze:3402686",
+        "title": "It's Hard Not to Feel Hopeless",
+        "season": 38,
+        "episode": 10,
+        "released": "2025-11-26",
+        "overview": "Racers visit Milan, Italy, where one team faces a major setback when they're forced to travel an hour behind the pack; heat exhaustion threatens to end the race for another team."
+      },
+      {
+        "id": "tvmaze:3402687",
+        "title": "The Can't Can't",
+        "season": 38,
+        "episode": 11,
+        "released": "2025-12-03",
+        "overview": "The final four teams race through Moulin Rouge, the Eiffel Tower and other iconic Paris locations."
+      },
+      {
+        "id": "tvmaze:3402688",
+        "title": "One Million Cookies",
+        "season": 38,
+        "episode": 12,
+        "released": "2025-12-10",
+        "overview": "The final three teams race through New York City where they rappel down the Empire State Building and host Phil Keoghan crowns one team the winner."
+      }
+    ]
+  }
+}

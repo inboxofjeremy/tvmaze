@@ -1,0 +1,2652 @@
+{
+  "meta": {
+    "id": "tvmaze:42189",
+    "type": "series",
+    "name": "All Elite Wrestling: Dynamite",
+    "description": "WarnerMedia announced today that it is partnering with All Elite Wrestling (AEW), the new professional wrestling promotion featuring a world-class roster of diverse male and female wrestlers, giving fans a new wrestling experience for the first time in 20 years. WarnerMedia and AEW together will build this powerhouse sporting league from the ground up and will begin airing weekly matches later this year. With this league, AEW is introducing a new generation of wrestlers to fans, offering fun, gripping and authentic athletic matches that will make wrestling more accessible to a broad audience.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/572/1432184.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/572/1432184.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3350762",
+        "title": "#323 - Winter is Coming: Gateway Center Arena in Atlanta, GA",
+        "season": 7,
+        "episode": 50,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1687500",
+        "title": "#1 - Capital One Arena in Washington, DC",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-10-02",
+        "overview": "Also featuring:Riho vs. Nyla Rose for the AEW Women's World ChampionshipHangman Page vs. PACMJF vs. Brandon CutlerCody (w/. Brandi Rhodes) vs. Sammy Guevara"
+      },
+      {
+        "id": "tvmaze:1709522",
+        "title": "#2 - Agganis Arena in Boston, MA",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1709523",
+        "title": "#3 - Liacouras Center in Philadelphia, PA",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1709524",
+        "title": "#4 - Petersen Events Center in Pittsburgh, PA",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1709526",
+        "title": "#5 - Charleston Coliseum in Charleston, WV",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1709527",
+        "title": "#6 - Bojangles' Coliseum in Charlotte, NC",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1732799",
+        "title": "#7 - Municipal Auditorium in Nashville, TN",
+        "season": 1,
+        "episode": 7,
+        "released": "2019-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1732800",
+        "title": "#8 - Indiana Farmers Coliseum in Indianapolis, IN",
+        "season": 1,
+        "episode": 8,
+        "released": "2019-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1732801",
+        "title": "#9 - Sears Center Arena in Hoffman Estates, IL",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1732803",
+        "title": "#10 - State Farm Center in Champaign, IL",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1732804",
+        "title": "#11- Dallas/Fort Worth Metroplex in Garland, TX",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1753553",
+        "title": "#12 - American Bank Center in Corpus Christi, TX",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1753554",
+        "title": "#13 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 1,
+        "released": "2020-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1757366",
+        "title": "#14 - Landers Center in Southhaven, MS",
+        "season": 2,
+        "episode": 2,
+        "released": "2020-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1757367",
+        "title": "#15 - Watsco Center in Miami, FL",
+        "season": 2,
+        "episode": 3,
+        "released": "2020-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1777300",
+        "title": "#16 - The Ship of Jericho in Nassau, Bahamas",
+        "season": 2,
+        "episode": 4,
+        "released": "2020-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1777301",
+        "title": "#17 - Wolstein Center in Cleveland, OH",
+        "season": 2,
+        "episode": 5,
+        "released": "2020-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1793235",
+        "title": "#18 - Von Braun Center in Huntsville, AL",
+        "season": 2,
+        "episode": 6,
+        "released": "2020-02-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1793236",
+        "title": "#19 - H.E.B. Center in Austin, TX",
+        "season": 2,
+        "episode": 7,
+        "released": "2020-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1793237",
+        "title": "#20 - State Farm Arena in Atlanta, GA",
+        "season": 2,
+        "episode": 8,
+        "released": "2020-02-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1793238",
+        "title": "#21 - Silverstein Eye Centers Arena in Kansas City, MO",
+        "season": 2,
+        "episode": 9,
+        "released": "2020-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1793239",
+        "title": "#22 - 1stBank Center in Denver, CO",
+        "season": 2,
+        "episode": 10,
+        "released": "2020-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1793240",
+        "title": "#23 - Maverik Center in West Valley City, UT",
+        "season": 2,
+        "episode": 11,
+        "released": "2020-03-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1793241",
+        "title": "#24 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 12,
+        "released": "2020-03-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1793242",
+        "title": "#25 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 13,
+        "released": "2020-03-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1803475",
+        "title": "#26 - The Nightmare Factory in Norcross, GA",
+        "season": 2,
+        "episode": 14,
+        "released": "2020-04-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1807772",
+        "title": "#27 - The Nightmare Factory in Norcross, GA",
+        "season": 2,
+        "episode": 15,
+        "released": "2020-04-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1807773",
+        "title": "#28 - The Nightmare Factory in Norcross, GA",
+        "season": 2,
+        "episode": 16,
+        "released": "2020-04-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1807774",
+        "title": "#29 - The Nightmare Factory in Norcross, GA",
+        "season": 2,
+        "episode": 17,
+        "released": "2020-04-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1807775",
+        "title": "#30 - The Nightmare Factory in Norcross, GA",
+        "season": 2,
+        "episode": 18,
+        "released": "2020-04-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1812378",
+        "title": "#31 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 19,
+        "released": "2020-05-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1812379",
+        "title": "#32 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 20,
+        "released": "2020-05-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1812380",
+        "title": "#33 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 21,
+        "released": "2020-05-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1812381",
+        "title": "#34 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 22,
+        "released": "2020-05-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1857910",
+        "title": "#35 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 23,
+        "released": "2020-06-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1857911",
+        "title": "#36 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 24,
+        "released": "2020-06-10",
+        "overview": "Cody defends the TNT Championship against Private Party's Marq Quen. The Butcher &amp; The Blade vs. FTR. Inner Circle's Santana, Ortiz, and Jake Hager vs. the Best Friends &amp; Orange Cassidy. Colt Cabana vs. Sammy Guevara. Jericho on commentary."
+      },
+      {
+        "id": "tvmaze:1857912",
+        "title": "#37 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 25,
+        "released": "2020-06-17",
+        "overview": "Inner Circle's Chris Jericho &amp; Sammy Guevara vs. Best Friends; Natural Nightmares challenge the AEW Tag Team champs Hangman Page &amp; Kenny Omega; Cody's TNT Title is on the line; Young Bucks battle Havoc &amp; Sabian; MJF takes on Billy of the Gunn Club."
+      },
+      {
+        "id": "tvmaze:1857913",
+        "title": "#38 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 26,
+        "released": "2020-06-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1857914",
+        "title": "#39 - Fyter Fest (2020) Day 1 in Jacksonville, FL",
+        "season": 2,
+        "episode": 27,
+        "released": "2020-07-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1886811",
+        "title": "#40 - Fyter Fest (2020) Day 2 at Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 28,
+        "released": "2020-07-08",
+        "overview": "match #1 - Hangman Page/Kenny Omega(C) vs. Private Party w/Matt Hardy for AEW World Tag Titlesmatch #2 -  \"the bad boy\" Joey Janela vs. Lance Archer w/Jake \"the snake\" RobertsMatch #3 - the Butcher &amp; the Blade &amp; Lucha Bros. vs FTR &amp; the Young Bucksmatch #4 - Nyla Rose vs. Kenzie Page &amp; Kilynn Kingmatch #5 - Mr. Brodie Lee/Colt Cabana/Stu Grayson vs. SCU(Frankie Kazarian/Scorpio Sky/Christopher Daniels)match #6 - Orange Cassidy vs. Chris Jericho"
+      },
+      {
+        "id": "tvmaze:1886812",
+        "title": "#41 - Fight for the Fallen at Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 29,
+        "released": "2020-07-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1886813",
+        "title": "#42 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 30,
+        "released": "2020-07-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1886814",
+        "title": "#43 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 31,
+        "released": "2020-07-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1905665",
+        "title": "#44 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 32,
+        "released": "2020-08-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1905666",
+        "title": "#45 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 33,
+        "released": "2020-08-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1905667",
+        "title": "#46 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 34,
+        "released": "2020-08-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1905668",
+        "title": "#47 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 35,
+        "released": "2020-08-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1905669",
+        "title": "#48 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 36,
+        "released": "2020-09-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1910500",
+        "title": "#49 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 37,
+        "released": "2020-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1910501",
+        "title": "#50 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 38,
+        "released": "2020-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1910503",
+        "title": "#51 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 39,
+        "released": "2020-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1924494",
+        "title": "#52 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 40,
+        "released": "2020-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1926459",
+        "title": "#53 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 41,
+        "released": "2020-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1926460",
+        "title": "#54 - AEW Anniversary Show: Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 42,
+        "released": "2020-10-14",
+        "overview": "from Daily's Place, Jacksonville, FloridaAEW tag team championship match FTR(c) w/Tully Blanchard vs. Best Friendstag team match Miro &amp; Kip Sabian w/Penelope Ford vs. Sean Maluta &amp; Lee JohnsonAEW TNT Championship match Cody(c) vs. Orange CassidyAEW Women's Championship match Hikaru Shida (c) vs. Big SwoleAEW World Championship match Jon Moxle (c) vs Lance Archer"
+      },
+      {
+        "id": "tvmaze:1926461",
+        "title": "#55 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 43,
+        "released": "2020-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1941122",
+        "title": "#56 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 44,
+        "released": "2020-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1957717",
+        "title": "#57 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 45,
+        "released": "2020-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1957718",
+        "title": "#58 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 46,
+        "released": "2020-11-11",
+        "overview": "match #1 - Brian Cage  w/Taz and Ricky Starks vs. Matt Sydalmatch #2 - a bunkhouse match - the Butcher and the Blade w/the Bunny vs.QT Marshall and Dustin Rhodes2020 inner circle induction ceremony of MJF and Wardlowmatch #3 - Shawn Spears w/Tully Blanchard vs. Scorpio Skymatch #4 - Tay Conti w/Anna Jay vs. Red Velvet w/Brandi Rhodesmatch #5 - Rey Fenix vs. Penta El Zero Miedo"
+      },
+      {
+        "id": "tvmaze:1957719",
+        "title": "#59 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 47,
+        "released": "2020-11-18",
+        "overview": "Kip Sabian w/Penelope Ford vs. Orange CassidyAEW tag champs the Young Bucks vs. Top FlightCody Rhodes/Darby Allin vs. Brian Cage/Ricky Starks w/Tazand the inner circle slays Las VegasPac vs. the Blade"
+      },
+      {
+        "id": "tvmaze:1957720",
+        "title": "#60 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 48,
+        "released": "2020-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1963817",
+        "title": "#61 - Winter is Coming: Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 49,
+        "released": "2020-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1963818",
+        "title": "#62 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 50,
+        "released": "2020-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1963819",
+        "title": "#63 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 51,
+        "released": "2020-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1963820",
+        "title": "#64 - Holiday Bash: Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 52,
+        "released": "2020-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1984285",
+        "title": "#65 - Daily's Place in Jacksonville, FL",
+        "season": 2,
+        "episode": 53,
+        "released": "2020-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1984286",
+        "title": "#66 - New Year's Smash 2021 Night 1: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 1,
+        "released": "2021-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1984287",
+        "title": "#67 - New Year's Smash 2021 Night 2: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 2,
+        "released": "2021-01-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1984288",
+        "title": "#68 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 3,
+        "released": "2021-01-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1984289",
+        "title": "#69 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 4,
+        "released": "2021-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1991582",
+        "title": "#70 - Beach Break: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 5,
+        "released": "2021-02-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1991583",
+        "title": "#71 - Falls Count Anywhere: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 6,
+        "released": "2021-02-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1991584",
+        "title": "#72 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 7,
+        "released": "2021-02-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1991585",
+        "title": "#73 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 8,
+        "released": "2021-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2037116",
+        "title": "#74 - The Crossroads: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 9,
+        "released": "2021-03-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2037117",
+        "title": "#75 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 10,
+        "released": "2021-03-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2037118",
+        "title": "#76 - St. Patrick's Day Slam: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 11,
+        "released": "2021-03-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2037119",
+        "title": "#77 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 12,
+        "released": "2021-03-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2037120",
+        "title": "#78 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 13,
+        "released": "2021-03-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2050211",
+        "title": "#79 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 14,
+        "released": "2021-04-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2050212",
+        "title": "#80 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 15,
+        "released": "2021-04-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2050213",
+        "title": "#81 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 16,
+        "released": "2021-04-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2050214",
+        "title": "#82 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 17,
+        "released": "2021-04-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2055295",
+        "title": "#83 - Blood & Guts: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 18,
+        "released": "2021-05-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2055296",
+        "title": "#84 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 19,
+        "released": "2021-05-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2055297",
+        "title": "#85 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 20,
+        "released": "2021-05-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2055298",
+        "title": "#86 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 21,
+        "released": "2021-05-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2087718",
+        "title": "#87 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 22,
+        "released": "2021-06-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2087719",
+        "title": "#88 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 23,
+        "released": "2021-06-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2087720",
+        "title": "#89 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 24,
+        "released": "2021-06-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2087721",
+        "title": "#90 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 25,
+        "released": "2021-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2087722",
+        "title": "#91 - Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 26,
+        "released": "2021-06-30",
+        "overview": "Sammy Guevara and MJF finally fight; Penta El Zero Miedo and Eddie Kingston vs. AEW World Tag Team Champions Young Bucks; TNT Title: Champion Miro vs. Brian Pillman Jr.; Britt Baker and Rebel face No. 1 ranked Nyla Rose and Vickie Guerrero."
+      },
+      {
+        "id": "tvmaze:2087723",
+        "title": "#92 - Road Rager: James L. Knight Center in Miami, FL",
+        "season": 3,
+        "episode": 27,
+        "released": "2021-07-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2087724",
+        "title": "#93 - Fyter Fest Night 1: H-E-B Center in Cedar Park, TX",
+        "season": 3,
+        "episode": 28,
+        "released": "2021-07-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2087726",
+        "title": "#94 - Fyter Fest Night 2: Curtis Culwell Center in Garland, TX",
+        "season": 3,
+        "episode": 29,
+        "released": "2021-07-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2105594",
+        "title": "#95 - Fight For the Fallen: Bojangles Coliseum in Charlotte, NC",
+        "season": 3,
+        "episode": 30,
+        "released": "2021-07-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2105595",
+        "title": "#96 - Homecoming: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 31,
+        "released": "2021-08-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2105596",
+        "title": "#97 - Petersen Events Center in Pittsburgh, PA",
+        "season": 3,
+        "episode": 32,
+        "released": "2021-08-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2105597",
+        "title": "#98 - Fertitta Center in Houston, TX",
+        "season": 3,
+        "episode": 33,
+        "released": "2021-08-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2105598",
+        "title": "#99 - UWM Panther Arena in Milwaukee, WI",
+        "season": 3,
+        "episode": 34,
+        "released": "2021-08-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2115981",
+        "title": "#100 - NOW Arena in Hoffman Estates, IL",
+        "season": 3,
+        "episode": 35,
+        "released": "2021-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2115982",
+        "title": "#101 - Fifth Third Arena in Cincinnati, OH",
+        "season": 3,
+        "episode": 36,
+        "released": "2021-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2115983",
+        "title": "#102 - Prudential Center in Newark, NJ",
+        "season": 3,
+        "episode": 37,
+        "released": "2021-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2115984",
+        "title": "#103 - Grand Slam: Arthur Ashe Stadium in Queens, NY",
+        "season": 3,
+        "episode": 38,
+        "released": "2021-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2115985",
+        "title": "#104 - Blue Cross Arena in Rochester, NY",
+        "season": 3,
+        "episode": 39,
+        "released": "2021-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2115986",
+        "title": "#105 - Anniversary: The Liacouras Center in Philadelphia, PA",
+        "season": 3,
+        "episode": 40,
+        "released": "2021-10-06",
+        "overview": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years. Featuring Cody &amp; Brandi Rhodes, The Young Bucks, Kenny Omega, Hangman Adam Page, Chris Jericho and Jon Moxley."
+      },
+      {
+        "id": "tvmaze:2147306",
+        "title": "#106 - James L. Knight Center in Miami, FL",
+        "season": 3,
+        "episode": 41,
+        "released": "2021-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2147307",
+        "title": "#107 - Addition Financial Arena in Orlando, FL",
+        "season": 3,
+        "episode": 42,
+        "released": "2021-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2147308",
+        "title": "#108 - Agganis Arena in Boston, MA",
+        "season": 3,
+        "episode": 43,
+        "released": "2021-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2147309",
+        "title": "#109 - Cable Dahmer Arena in Independence, MO",
+        "season": 3,
+        "episode": 44,
+        "released": "2021-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2147310",
+        "title": "#110 - Indiana Farmers Coliseum in Indianapolis, IN",
+        "season": 3,
+        "episode": 45,
+        "released": "2021-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2147311",
+        "title": "#111 - Chartway Arena in Norfolk, VA",
+        "season": 3,
+        "episode": 46,
+        "released": "2021-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2147312",
+        "title": "#112 - Wintrust Arena in Chicago, IL",
+        "season": 3,
+        "episode": 47,
+        "released": "2021-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2165275",
+        "title": "#113 - Gas South Arena in Duluth, GA",
+        "season": 3,
+        "episode": 48,
+        "released": "2021-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2165276",
+        "title": "#114 - UBS Arena in Elmont, NY",
+        "season": 3,
+        "episode": 49,
+        "released": "2021-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2165277",
+        "title": "#115 - Winter is Coming: Curtis Culwell Center in Garland, TX",
+        "season": 3,
+        "episode": 50,
+        "released": "2021-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2165278",
+        "title": "#116 - Holiday Bash: Greensboro Coliseum in Greensboro, NC",
+        "season": 3,
+        "episode": 51,
+        "released": "2021-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2165279",
+        "title": "#117 - New Year's Smash: Daily's Place in Jacksonville, FL",
+        "season": 3,
+        "episode": 52,
+        "released": "2021-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2216233",
+        "title": "#118 - Prudential Center in Newark, NJ",
+        "season": 4,
+        "episode": 1,
+        "released": "2022-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2216234",
+        "title": "#119 - PNC Arena in Raleigh, NC",
+        "season": 4,
+        "episode": 2,
+        "released": "2022-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2228670",
+        "title": "#120 - Entertainment & Sports Arena in Washington, DC",
+        "season": 4,
+        "episode": 3,
+        "released": "2022-01-19",
+        "overview": "CM Punk wrestles Shawn Spears. Cody Rhodes returns. Adam Cole teams with Dr. Britt Baker DMD to face Kris Statlander &amp; Orange Cassidy. Acclaimed vs. Darby Allin &amp; Sting. Debut of House of Black (Brody King &amp; Malakai Black) vs. Varsity Blonds."
+      },
+      {
+        "id": "tvmaze:2228671",
+        "title": "#121 - Beach Break: Wolstein Center in Cleveland, OH",
+        "season": 4,
+        "episode": 4,
+        "released": "2022-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2228672",
+        "title": "#122 - Wintrust Arena in Chicago, IL",
+        "season": 4,
+        "episode": 5,
+        "released": "2022-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2234829",
+        "title": "#123 - Jim Whelan Boardwalk Hall in Atlantic City, NJ",
+        "season": 4,
+        "episode": 6,
+        "released": "2022-02-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2236863",
+        "title": "#124 - Nashville Municipal Auditorium in Nashville, TN",
+        "season": 4,
+        "episode": 7,
+        "released": "2022-02-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2236864",
+        "title": "#125 - Webster Bank Arena in Bridgeport, CT",
+        "season": 4,
+        "episode": 8,
+        "released": "2022-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2255710",
+        "title": "#126 - Daily's Place in Jacksonville, FL",
+        "season": 4,
+        "episode": 9,
+        "released": "2022-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2255711",
+        "title": "#127 - Hertz Arena in Estero, FL",
+        "season": 4,
+        "episode": 10,
+        "released": "2022-03-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2260757",
+        "title": "#128 - St. Patrick's Day Slam: Freeman Coliseum in San Antonio, TX",
+        "season": 4,
+        "episode": 11,
+        "released": "2022-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2260758",
+        "title": "#129 - H-E-B Center in Cedar Park, TX",
+        "season": 4,
+        "episode": 12,
+        "released": "2022-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2266669",
+        "title": "#130 - Colonial Life Arena in Columbia, SC",
+        "season": 4,
+        "episode": 13,
+        "released": "2022-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2266670",
+        "title": "#131 - Agganis Arena in Boston, MA",
+        "season": 4,
+        "episode": 14,
+        "released": "2022-04-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2266671",
+        "title": "#132 - UNO Lakefront Arena in New Orleans, LA",
+        "season": 4,
+        "episode": 15,
+        "released": "2022-04-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2276927",
+        "title": "#133 - Petersen Events Center in Pittsburgh, PA",
+        "season": 4,
+        "episode": 16,
+        "released": "2022-04-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2283491",
+        "title": "#134 - Liacouras Center in Philadelphia, PA",
+        "season": 4,
+        "episode": 17,
+        "released": "2022-04-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2283492",
+        "title": "#135 - Chesapeake Employers Insurance Arena in Baltimore, MD",
+        "season": 4,
+        "episode": 18,
+        "released": "2022-05-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2283493",
+        "title": "#136 - UBS Arena in Elmont, NY",
+        "season": 4,
+        "episode": 19,
+        "released": "2022-05-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2284081",
+        "title": "#137 - Fertitta Center in Houston, TX",
+        "season": 4,
+        "episode": 20,
+        "released": "2022-05-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2284082",
+        "title": "#138 - Michelob Ultra Arena in Las Vegas, NV",
+        "season": 4,
+        "episode": 21,
+        "released": "2022-05-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2286427",
+        "title": "#139 - Forum in Inglewood, CA",
+        "season": 4,
+        "episode": 22,
+        "released": "2022-06-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2309042",
+        "title": "#140 - Cable Dahmer Arena in Independence, MO",
+        "season": 4,
+        "episode": 23,
+        "released": "2022-06-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2309827",
+        "title": "#141 - Road Rager: Chaifetz Arena in St. Louis, MO",
+        "season": 4,
+        "episode": 24,
+        "released": "2022-06-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2309828",
+        "title": "#142 - UW-Milwaukee Panther Arena in Milwaukee, WI",
+        "season": 4,
+        "episode": 25,
+        "released": "2022-06-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2309832",
+        "title": "#143 - Blood & Guts: Little Caesars Arena in Detroit, MI",
+        "season": 4,
+        "episode": 26,
+        "released": "2022-06-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2323703",
+        "title": "#144 - Blue Cross Arena at the War Memorial in Rochester, NY",
+        "season": 4,
+        "episode": 27,
+        "released": "2022-07-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2331262",
+        "title": "#145 - Fyter Fest Week 1: Enmarket Arena in Savannah, GA",
+        "season": 4,
+        "episode": 28,
+        "released": "2022-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2331263",
+        "title": "#146 - Fyter Fest Week 2: Gas South Arena in Duluth, GA",
+        "season": 4,
+        "episode": 29,
+        "released": "2022-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2331264",
+        "title": "#147 - Fight for the Fallen: DCU Center in Worcester, MA",
+        "season": 4,
+        "episode": 30,
+        "released": "2022-07-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2336201",
+        "title": "#148 - Schottenstein Center in Columbus, OH",
+        "season": 4,
+        "episode": 31,
+        "released": "2022-08-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2336202",
+        "title": "#149 - Quake by the Lake: Target Center in Minneapolis, MN",
+        "season": 4,
+        "episode": 32,
+        "released": "2022-08-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2336203",
+        "title": "#150 - Charleston Coliseum in Charleston, WV",
+        "season": 4,
+        "episode": 33,
+        "released": "2022-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2336204",
+        "title": "#151 - Wolstein Center in Cleveland, OH",
+        "season": 4,
+        "episode": 34,
+        "released": "2022-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2336205",
+        "title": "#152 - NOW Arena in Hoffman Estates, IL",
+        "season": 4,
+        "episode": 35,
+        "released": "2022-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2355110",
+        "title": "#153 - KeyBank Center in Buffalo, NY",
+        "season": 4,
+        "episode": 36,
+        "released": "2022-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2355111",
+        "title": "#154 - MVP Arena in Albany, NY",
+        "season": 4,
+        "episode": 37,
+        "released": "2022-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2355112",
+        "title": "#155 - Grand Slam: Arthur Ashe Stadium in Queens, NY",
+        "season": 4,
+        "episode": 38,
+        "released": "2022-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2372691",
+        "title": "#156 - Liacouras Center in Philadelphia, PA",
+        "season": 4,
+        "episode": 39,
+        "released": "2022-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2372692",
+        "title": "#157 - Anniversary: Entertainment & Sports Arena in Washington, DC",
+        "season": 4,
+        "episode": 40,
+        "released": "2022-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2372693",
+        "title": "#158 - Coca-Cola Coliseum in Toronto, ON",
+        "season": 4,
+        "episode": 41,
+        "released": "2022-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2380521",
+        "title": "#159 - Title Tuesday: Heritage Bank Center in Cincinnati, OH",
+        "season": 4,
+        "episode": 42,
+        "released": "2022-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2380522",
+        "title": "#160 - Chartway Arena in Norfolk, VA",
+        "season": 4,
+        "episode": 43,
+        "released": "2022-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2390384",
+        "title": "#161 - Chesapeake Arena in Baltimore, MD",
+        "season": 4,
+        "episode": 44,
+        "released": "2022-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2390385",
+        "title": "#162 - Agganis Arena in Boston, MA",
+        "season": 4,
+        "episode": 45,
+        "released": "2022-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2390387",
+        "title": "#163 - Total Mortgage Arena in Bridgeport, CT",
+        "season": 4,
+        "episode": 46,
+        "released": "2022-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2395555",
+        "title": "#164 - Thanksgiving Eve: Wintrust Arena in Chicago, IL",
+        "season": 4,
+        "episode": 47,
+        "released": "2022-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2408949",
+        "title": "#165 - Indiana Farmers Coliseum in Indianapolis, IN",
+        "season": 4,
+        "episode": 48,
+        "released": "2022-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2409770",
+        "title": "#166 - H-E-B Center in Cedar Park, TX",
+        "season": 4,
+        "episode": 49,
+        "released": "2022-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2409771",
+        "title": "#167 - Winter is Coming: Curtis Culwell Center in Garland, TX",
+        "season": 4,
+        "episode": 50,
+        "released": "2022-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2409772",
+        "title": "#168 - Holiday Bash: Freeman Coliseum in San Antonio, TX",
+        "season": 4,
+        "episode": 51,
+        "released": "2022-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2409773",
+        "title": "#169 - New Year's Smash: 1st Bank Center in Broomfield, CO",
+        "season": 4,
+        "episode": 52,
+        "released": "2022-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2415728",
+        "title": "#170 - Climate Pledge Arena in Seattle, WA",
+        "season": 5,
+        "episode": 1,
+        "released": "2023-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2421996",
+        "title": "#171 - Kia Forum in Los Angeles, CA",
+        "season": 5,
+        "episode": 2,
+        "released": "2023-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2425697",
+        "title": "#172 - Save Mart Center in Fresno, CA",
+        "season": 5,
+        "episode": 3,
+        "released": "2023-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2425698",
+        "title": "#173 - Rupp Arena in Lexington, KY",
+        "season": 5,
+        "episode": 4,
+        "released": "2023-01-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2439182",
+        "title": "#174 - Wright State University Nutter Center in Dayton, OH",
+        "season": 5,
+        "episode": 5,
+        "released": "2023-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2439183",
+        "title": "#175 - Championship Fight Night: El Paso County Coliseum in El Paso, TX",
+        "season": 5,
+        "episode": 6,
+        "released": "2023-02-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2439184",
+        "title": "#176 - Sames Auto Arena in Laredo, TX",
+        "season": 5,
+        "episode": 7,
+        "released": "2023-02-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2439186",
+        "title": "#177 - Footprint Center in Phoenix, AZ",
+        "season": 5,
+        "episode": 8,
+        "released": "2023-02-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2439187",
+        "title": "#178 - Cow Palace in San Francisco, CA",
+        "season": 5,
+        "episode": 9,
+        "released": "2023-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2444805",
+        "title": "#179 - Golden 1 Center in Sacramento, CA",
+        "season": 5,
+        "episode": 10,
+        "released": "2023-03-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2444806",
+        "title": "#180 - Canada Life Centre in Winnipeg, MB",
+        "season": 5,
+        "episode": 11,
+        "released": "2023-03-15",
+        "overview": "MJF has a birthday celebration.Hangman Adam Page and the Dark Order vs the Blackpool Combat ClubOrange Cassidy vs Jeff JarrettTrios championship match - the Elite vs House of Black vs J.A.S."
+      },
+      {
+        "id": "tvmaze:2455091",
+        "title": "#181 - Cable Dahmer Arena in Independence, MO",
+        "season": 5,
+        "episode": 12,
+        "released": "2023-03-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2455092",
+        "title": "#182 - Chaifetz Arena in St. Louis, MO",
+        "season": 5,
+        "episode": 13,
+        "released": "2023-03-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2455093",
+        "title": "#183 - UBS Arena in Long Island, NY",
+        "season": 5,
+        "episode": 14,
+        "released": "2023-04-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2491020",
+        "title": "#184 - UW - Milwaukee Panther Arena in Milwaukee, WI",
+        "season": 5,
+        "episode": 15,
+        "released": "2023-04-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2491021",
+        "title": "#185 - Petersen Events Center in Pittsburgh, PA",
+        "season": 5,
+        "episode": 16,
+        "released": "2023-04-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2491022",
+        "title": "#186 - FLA Live Arena in Sunrise, FL",
+        "season": 5,
+        "episode": 17,
+        "released": "2023-04-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2491023",
+        "title": "#187 - CFG Arena in Baltimore, MD",
+        "season": 5,
+        "episode": 18,
+        "released": "2023-05-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2491024",
+        "title": "#188 - Little Caesars Arena in Detroit, MI",
+        "season": 5,
+        "episode": 19,
+        "released": "2023-05-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2491025",
+        "title": "#189 - Moody Center in Austin, TX",
+        "season": 5,
+        "episode": 20,
+        "released": "2023-05-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2500754",
+        "title": "#190 - MGM Grand Garden Arena in Las Vegas, NV",
+        "season": 5,
+        "episode": 21,
+        "released": "2023-05-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2508059",
+        "title": "#191 - Viejas Arena in San Diego, CA",
+        "season": 5,
+        "episode": 22,
+        "released": "2023-05-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2508061",
+        "title": "#192 - Broadmoor World Arena in Colorado Springs, CO",
+        "season": 5,
+        "episode": 23,
+        "released": "2023-06-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2508063",
+        "title": "#193 - Capital One Arena in Washington, DC",
+        "season": 5,
+        "episode": 24,
+        "released": "2023-06-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2508064",
+        "title": "#194 - Wintrust Arena in Chicago, IL",
+        "season": 5,
+        "episode": 25,
+        "released": "2023-06-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2508065",
+        "title": "#195 - FirstOntario Centre in Hamilton, ON",
+        "season": 5,
+        "episode": 26,
+        "released": "2023-06-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2508066",
+        "title": "#196 - Rogers Place in Edmonton, AB",
+        "season": 5,
+        "episode": 27,
+        "released": "2023-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2508067",
+        "title": "#197 - SaskTel Place in Saskatoon, SK",
+        "season": 5,
+        "episode": 28,
+        "released": "2023-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2548134",
+        "title": "#198 - Blood & Guts: TD Garden in Boston, MA",
+        "season": 5,
+        "episode": 29,
+        "released": "2023-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2561123",
+        "title": "#199 - MVP Arena in Albany, NY",
+        "season": 5,
+        "episode": 30,
+        "released": "2023-07-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2561124",
+        "title": "#200 - Dynamite 200: Yuengling Center in Tampa, FL",
+        "season": 5,
+        "episode": 31,
+        "released": "2023-08-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2568463",
+        "title": "#201 - Nationwide Arena in Columbus, OH",
+        "season": 5,
+        "episode": 32,
+        "released": "2023-08-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2574777",
+        "title": "#202 - Fight for the Fallen: Bridgestone Arena in Nashville, TN",
+        "season": 5,
+        "episode": 33,
+        "released": "2023-08-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2574782",
+        "title": "#203 - Fyter Fest: Gas South Arena in Duluth, GA",
+        "season": 5,
+        "episode": 34,
+        "released": "2023-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2578713",
+        "title": "#204 - NOW Arena in Hoffman Estates, IL",
+        "season": 5,
+        "episode": 35,
+        "released": "2023-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2596832",
+        "title": "#205 - Indiana Farmers Coliseum in Indianapolis, IN",
+        "season": 5,
+        "episode": 36,
+        "released": "2023-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2596834",
+        "title": "#206 - Heritage Bank Center in Cincinnati, OH",
+        "season": 5,
+        "episode": 37,
+        "released": "2023-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2596838",
+        "title": "#207 - Grand Slam: Arthur Ashe Stadium in Queens, NY",
+        "season": 5,
+        "episode": 38,
+        "released": "2023-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2596840",
+        "title": "#208 - 1stBank Center in Broomfield, CO",
+        "season": 5,
+        "episode": 39,
+        "released": "2023-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2618314",
+        "title": "#209 - Anniversary: Stockton Arena in Stockton, CA",
+        "season": 5,
+        "episode": 40,
+        "released": "2023-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2625377",
+        "title": "#210 - Title Tuesday: Cable Dahmer Arena in Independence, MO",
+        "season": 5,
+        "episode": 41,
+        "released": "2023-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2625378",
+        "title": "#211 - Fort Bend Epicenter in Rosenberg, TX",
+        "season": 5,
+        "episode": 42,
+        "released": "2023-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2625379",
+        "title": "#212 - Liacouras Center in Philadelphia, PA",
+        "season": 5,
+        "episode": 43,
+        "released": "2023-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634690",
+        "title": "#213 - KFC Yum! Center in Louisville, KY",
+        "season": 5,
+        "episode": 44,
+        "released": "2023-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634691",
+        "title": "#214 - Moda Center in Portland, OR",
+        "season": 5,
+        "episode": 45,
+        "released": "2023-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634692",
+        "title": "#215 - Toyota Arena in Ontario, CA",
+        "season": 5,
+        "episode": 46,
+        "released": "2023-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634693",
+        "title": "#216 - Thanksgiving Eve: Wintrust Arena in Chicago, IL",
+        "season": 5,
+        "episode": 47,
+        "released": "2023-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634694",
+        "title": "#217 - Target Center in Minneapolis, MN",
+        "season": 5,
+        "episode": 48,
+        "released": "2023-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634695",
+        "title": "#218 - Bell Centre in Montreal, QC",
+        "season": 5,
+        "episode": 49,
+        "released": "2023-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2634696",
+        "title": "#219 - Winter is Coming: College Park Center in Arlington, TX",
+        "season": 5,
+        "episode": 50,
+        "released": "2023-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635875",
+        "title": "#220 - Holiday Bash: Paycom Center in Oklahoma City, OK",
+        "season": 5,
+        "episode": 51,
+        "released": "2023-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2635876",
+        "title": "#221 - New Year's Smash: Addition Financial Arena in Orlando, FL",
+        "season": 5,
+        "episode": 52,
+        "released": "2023-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2687581",
+        "title": "#222 - Prudential Center in Newark, NJ",
+        "season": 6,
+        "episode": 1,
+        "released": "2024-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2687582",
+        "title": "#223 - Homecoming: Daily's Place in Jacksonville, FL",
+        "season": 6,
+        "episode": 2,
+        "released": "2024-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2687583",
+        "title": "#224 - North Charleston Coliseum in North Charleston, SC",
+        "season": 6,
+        "episode": 3,
+        "released": "2024-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2696331",
+        "title": "#225 - Enmarket Arena in Savannah, GA",
+        "season": 6,
+        "episode": 4,
+        "released": "2024-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2696332",
+        "title": "#226 - UNO Lakefront Arena in New Orleans, LA",
+        "season": 6,
+        "episode": 5,
+        "released": "2024-01-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2705727",
+        "title": "#227 - Footprint Center in Phoenix, AZ",
+        "season": 6,
+        "episode": 6,
+        "released": "2024-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720192",
+        "title": "#228 - H-E-B Center in Cedar Park, TX",
+        "season": 6,
+        "episode": 7,
+        "released": "2024-02-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720193",
+        "title": "#229 - BOK Center in Tulsa, OK",
+        "season": 6,
+        "episode": 8,
+        "released": "2024-02-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720194",
+        "title": "#230 - Propst Arena at Von Braun Center in Huntsville, AL",
+        "season": 6,
+        "episode": 9,
+        "released": "2024-02-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720195",
+        "title": "#231 - Gas South Arena in Duluth, GA",
+        "season": 6,
+        "episode": 10,
+        "released": "2024-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720196",
+        "title": "#232 - Big Business: TD Garden Arena in Boston, MA",
+        "season": 6,
+        "episode": 11,
+        "released": "2024-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720197",
+        "title": "#233 - Coca Cola Coliseum in Toronto, ON",
+        "season": 6,
+        "episode": 12,
+        "released": "2024-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720198",
+        "title": "#234 - Centre Videotron in Quebec City, QC",
+        "season": 6,
+        "episode": 13,
+        "released": "2024-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720199",
+        "title": "#235 - DCU Center in Worcester, MA",
+        "season": 6,
+        "episode": 14,
+        "released": "2024-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2720200",
+        "title": "#236 - Charleston Coliseum in Charleston, WV",
+        "season": 6,
+        "episode": 15,
+        "released": "2024-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726491",
+        "title": "#237 - Indiana Farmers Coliseum in Indianapolis, IN",
+        "season": 6,
+        "episode": 16,
+        "released": "2024-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726492",
+        "title": "#238 - Daily's Place in Jacksonville, FL",
+        "season": 6,
+        "episode": 17,
+        "released": "2024-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726493",
+        "title": "#239 - Canada Life Centre in Winnipeg, MB",
+        "season": 6,
+        "episode": 18,
+        "released": "2024-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726494",
+        "title": "#240 - Rogers Place in Edmonton, AB",
+        "season": 6,
+        "episode": 19,
+        "released": "2024-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726495",
+        "title": "#241 - Angel of the Winds Arena in Everett, WA",
+        "season": 6,
+        "episode": 20,
+        "released": "2024-05-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726496",
+        "title": "#242 - Mechanics Bank Arena in Bakersfield, CA",
+        "season": 6,
+        "episode": 21,
+        "released": "2024-05-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726497",
+        "title": "#243 - KIA Forum in Los Angeles, CA",
+        "season": 6,
+        "episode": 22,
+        "released": "2024-05-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726498",
+        "title": "#244 - Blue Arena in Loveland, CO",
+        "season": 6,
+        "episode": 23,
+        "released": "2024-06-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726499",
+        "title": "#245 - Wells Fargo Arena in Des Moines, IA",
+        "season": 6,
+        "episode": 24,
+        "released": "2024-06-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726500",
+        "title": "#246 - EagleBank Arena in Fairfax, VA",
+        "season": 6,
+        "episode": 25,
+        "released": "2024-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726501",
+        "title": "#247 - KeyBank Center in Buffalo, NY",
+        "season": 6,
+        "episode": 26,
+        "released": "2024-06-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726502",
+        "title": "#248 - Beach Break: Wintrust Arena in Chicago, IL",
+        "season": 6,
+        "episode": 27,
+        "released": "2024-07-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726503",
+        "title": "#249 - Scotiabank Saddledome in Calgary, AB",
+        "season": 6,
+        "episode": 28,
+        "released": "2024-07-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726504",
+        "title": "#250 - 250: Simmons Bank Arena in Little Rock, AR",
+        "season": 6,
+        "episode": 29,
+        "released": "2024-07-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726505",
+        "title": "#251 - Blood & Guts: Bridgestone Arena in Nashville, TN",
+        "season": 6,
+        "episode": 30,
+        "released": "2024-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726506",
+        "title": "#252 - Bon Secours Wellness Arena in Greenville, SC",
+        "season": 6,
+        "episode": 31,
+        "released": "2024-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726507",
+        "title": "#253 - LJVM Coliseum in Winston-Salem, NC",
+        "season": 6,
+        "episode": 32,
+        "released": "2024-08-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726508",
+        "title": "#254 - Chartway Arena in Norfolk, VA",
+        "season": 6,
+        "episode": 33,
+        "released": "2024-08-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726509",
+        "title": "#255 - Utilita Arena Cardiff in Cardiff, Wales",
+        "season": 6,
+        "episode": 34,
+        "released": "2024-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726510",
+        "title": "#256 - State Farm Center in Champaign, IL",
+        "season": 6,
+        "episode": 35,
+        "released": "2024-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726511",
+        "title": "#257 - UW Panther Arena in Milwaukee, WI",
+        "season": 6,
+        "episode": 36,
+        "released": "2024-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726512",
+        "title": "#258 - Rupp Arena in Lexington, KY",
+        "season": 6,
+        "episode": 37,
+        "released": "2024-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726513",
+        "title": "#259 - Mohegan Sun Arena in Wilkes-Barre, PA",
+        "season": 6,
+        "episode": 38,
+        "released": "2024-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726514",
+        "title": "#260 - Grand Slam: Arthur Ashe Stadium in Queens, NY",
+        "season": 6,
+        "episode": 39,
+        "released": "2024-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726515",
+        "title": "#261 - 5 Year Anniversary: Peterson Events Center in Pittsburgh, PA",
+        "season": 6,
+        "episode": 40,
+        "released": "2024-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726516",
+        "title": "#262 - Title Tuesday: Spokane Arena in Spokane, WA",
+        "season": 6,
+        "episode": 41,
+        "released": "2024-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726517",
+        "title": "#263 - SAP Center in San Jose, CA",
+        "season": 6,
+        "episode": 42,
+        "released": "2024-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726518",
+        "title": "#264 - Maverik Center in Salt Lake City, UT",
+        "season": 6,
+        "episode": 43,
+        "released": "2024-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726519",
+        "title": "#265 - Fright Night: Wolstein Center in Cleveland, OH",
+        "season": 6,
+        "episode": 44,
+        "released": "2024-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726520",
+        "title": "#266 - SNHU Arena in Manchester, NH",
+        "season": 6,
+        "episode": 45,
+        "released": "2024-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726521",
+        "title": "#267 - Total Mortgage Arena in Bridgeport, CT",
+        "season": 6,
+        "episode": 46,
+        "released": "2024-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726522",
+        "title": "#268 - The Santander Arena in Reading, PA",
+        "season": 6,
+        "episode": 47,
+        "released": "2024-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726523",
+        "title": "#269 - Thanksgiving Eve: Wintrust Arena in Chicago, IL",
+        "season": 6,
+        "episode": 48,
+        "released": "2024-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726524",
+        "title": "#270 - Fishers Event Center in Fishers, IN",
+        "season": 6,
+        "episode": 49,
+        "released": "2024-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726525",
+        "title": "#271 - Winter is Coming: T-Mobile Center in Kansas City, MO",
+        "season": 6,
+        "episode": 50,
+        "released": "2024-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726526",
+        "title": "#272 - Holiday Bash: Entertainment & Sports Arena in Washington, DC",
+        "season": 6,
+        "episode": 51,
+        "released": "2024-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2726527",
+        "title": "#273 - Dynamite on 34th St.: Hammerstein Ballroom in New York, NY",
+        "season": 6,
+        "episode": 52,
+        "released": "2024-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065644",
+        "title": "#274 - Fight for the Fallen: Harrah's Cherokee Center in Asheville, NC",
+        "season": 7,
+        "episode": 1,
+        "released": "2025-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065718",
+        "title": "#275 - F&M Bank Arena in Clarksville, TN",
+        "season": 7,
+        "episode": 2,
+        "released": "2025-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065719",
+        "title": "#276 - Maximum Carnage: Brady Music Center in Cincinnati, OH",
+        "season": 7,
+        "episode": 3,
+        "released": "2025-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065728",
+        "title": "#277 - Knoxville Coliseum in Knoxville, TN",
+        "season": 7,
+        "episode": 4,
+        "released": "2025-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065729",
+        "title": "#278 - Probst Arena in Huntsville, AL",
+        "season": 7,
+        "episode": 5,
+        "released": "2025-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065730",
+        "title": "#279 - Gateway Center in Atlanta, GA",
+        "season": 7,
+        "episode": 6,
+        "released": "2025-02-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065731",
+        "title": "#280 - H-E-B Center in Austin, TX",
+        "season": 7,
+        "episode": 7,
+        "released": "2025-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065732",
+        "title": "#281 - Arizona Financial Theater in Phoenix, AZ",
+        "season": 7,
+        "episode": 8,
+        "released": "2025-02-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065733",
+        "title": "#282 - Frontwave Arena in Oceanside, CA",
+        "season": 7,
+        "episode": 9,
+        "released": "2025-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065734",
+        "title": "#283 - Sacramento Memorial Auditorium in Sacramento, CA",
+        "season": 7,
+        "episode": 10,
+        "released": "2025-03-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3065735",
+        "title": "#284 - Save Mart Center in Fresno, CA",
+        "season": 7,
+        "episode": 11,
+        "released": "2025-03-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3120006",
+        "title": "#285 - Liberty First Credit Union Arena in Omaha, NE",
+        "season": 7,
+        "episode": 12,
+        "released": "2025-03-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3120018",
+        "title": "#286 - Roy Wilkins Auditorium in St. Paul, MN",
+        "season": 7,
+        "episode": 13,
+        "released": "2025-03-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3120019",
+        "title": "#287 - Peoria Civic Center in Peoria, IL",
+        "season": 7,
+        "episode": 14,
+        "released": "2025-04-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3120022",
+        "title": "#288 - Chesapeake Employers Insurance Arena in Baltimore, MD",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-04-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154298",
+        "title": "#289 - Spring Breakthru: MGM Music Hall at Fenway in Boston, MA",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-04-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154299",
+        "title": "#290 - Lakefront Arena in New Orleans, LA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-04-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154300",
+        "title": "#291 - Chartway Arena in Norfolk, VA",
+        "season": 7,
+        "episode": 18,
+        "released": "2025-04-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154301",
+        "title": "#292 - Masonic Temple Theatre in Detroit, MI",
+        "season": 7,
+        "episode": 19,
+        "released": "2025-05-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3154302",
+        "title": "#293 - Beach Break: NOW Arena in Hoffman Estates, IL",
+        "season": 7,
+        "episode": 20,
+        "released": "2025-05-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3169917",
+        "title": "#294 - Rio Rancho Events Center in Albuquerque, NM",
+        "season": 7,
+        "episode": 21,
+        "released": "2025-05-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3184326",
+        "title": "#295 - El Paso County Coliseum in El Paso, TX",
+        "season": 7,
+        "episode": 22,
+        "released": "2025-05-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197156",
+        "title": "#296 - Fyter Fest: Mission Ballroom in Denver, CO",
+        "season": 7,
+        "episode": 23,
+        "released": "2025-06-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197157",
+        "title": "#297 - Summer Blockbuster: Theater of the Clouds at Moda Center in Portland, OR",
+        "season": 7,
+        "episode": 24,
+        "released": "2025-06-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197158",
+        "title": "#298 - Grand Slam: Mexico: Arena México in Mexico City, Mexico",
+        "season": 7,
+        "episode": 25,
+        "released": "2025-06-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197159",
+        "title": "#299 - accesso ShoWare Center in Kent, WA",
+        "season": 7,
+        "episode": 26,
+        "released": "2025-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197160",
+        "title": "#300 - 300: Toyota Arena in Ontario, CA",
+        "season": 7,
+        "episode": 27,
+        "released": "2025-07-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3197161",
+        "title": "#301 - Curtis Culwell Center in Garland, TX",
+        "season": 7,
+        "episode": 28,
+        "released": "2025-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225817",
+        "title": "#302 - Byline Bank Aragon Ballroom in Chicago, IL",
+        "season": 7,
+        "episode": 29,
+        "released": "2025-07-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225818",
+        "title": "#303 - Byline Bank Aragon Ballroom in Chicago, IL",
+        "season": 7,
+        "episode": 30,
+        "released": "2025-07-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225819",
+        "title": "#304 - Byline Bank Aragon Ballroom in Chicago, IL",
+        "season": 7,
+        "episode": 31,
+        "released": "2025-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225821",
+        "title": "#305 -Wolstein Center in Cleveland, OH",
+        "season": 7,
+        "episode": 32,
+        "released": "2025-08-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225822",
+        "title": "#306 - Andrew J Brady Music Center in Cincinnati, OH",
+        "season": 7,
+        "episode": 33,
+        "released": "2025-08-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225823",
+        "title": "#307 - OVO Hydro in Glasgow, Scotland",
+        "season": 7,
+        "episode": 34,
+        "released": "2025-08-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225824",
+        "title": "#308 - 2300 Arena in Philadelphia, PA",
+        "season": 7,
+        "episode": 35,
+        "released": "2025-08-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225825",
+        "title": "#309 - 2300 Arena in Philadelphia, PA",
+        "season": 7,
+        "episode": 36,
+        "released": "2025-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3225826",
+        "title": "#310 - 2300 Arena in Philadelphia, PA",
+        "season": 7,
+        "episode": 37,
+        "released": "2025-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3279022",
+        "title": "#311 - September to Remember: Canada Life Place in London, ON",
+        "season": 7,
+        "episode": 38,
+        "released": "2025-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3307328",
+        "title": "#312 - Petersen Events Center in Pittsburgh, PA",
+        "season": 7,
+        "episode": 39,
+        "released": "2025-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3331421",
+        "title": "#313 - 6th Anniversary: Hard Rock Live at Seminole Hard Rock in Hollywood, FL",
+        "season": 7,
+        "episode": 40,
+        "released": "2025-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3331422",
+        "title": "#314 - Title Tuesday: Daily's Place in Jacksonville, FL",
+        "season": 7,
+        "episode": 41,
+        "released": "2025-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3331423",
+        "title": "#315 - Cable Dahmer Arena in Kansas City, MO",
+        "season": 7,
+        "episode": 42,
+        "released": "2025-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350755",
+        "title": "#316 - Boeing Center at TechPort in San Antonio, TX",
+        "season": 7,
+        "episode": 43,
+        "released": "2025-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350756",
+        "title": "#317 - Fright Night: Bert Ogden Arena in Edinburg, TX",
+        "season": 7,
+        "episode": 44,
+        "released": "2025-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350757",
+        "title": "#318 - Bayou Music Center in Houston, TX",
+        "season": 7,
+        "episode": 45,
+        "released": "2025-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350758",
+        "title": "#319 - Blood and Guts: First Horizon Coliseum in Greensboro, NC",
+        "season": 7,
+        "episode": 46,
+        "released": "2025-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350759",
+        "title": "#320 - Agganis Arena in Boston, MA",
+        "season": 7,
+        "episode": 47,
+        "released": "2025-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350760",
+        "title": "#321 - Thanksgiving Eve: The Pinnacle in Nashville, TN",
+        "season": 7,
+        "episode": 48,
+        "released": "2025-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350761",
+        "title": "#322 - Fishers Event Center in Fishers, IN",
+        "season": 7,
+        "episode": 49,
+        "released": "2025-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350762",
+        "title": "#323 - Winter is Coming: Gateway Center Arena in Atlanta, GA",
+        "season": 7,
+        "episode": 50,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350763",
+        "title": "#324 - Holiday Bash: Co-op Live in Manchester, England",
+        "season": 7,
+        "episode": 51,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350764",
+        "title": "#325 - Dynamite on 34th St: Hammerstein Ballroom in New York, NY",
+        "season": 7,
+        "episode": 52,
+        "released": "2025-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3350765",
+        "title": "#326 - New Year's Smash: Liberty First Credit Union Arena in Omaha, NE",
+        "season": 7,
+        "episode": 53,
+        "released": "2025-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446886",
+        "title": "#327 - BOK Center in Tulsa, OK",
+        "season": 8,
+        "episode": 1,
+        "released": "2026-01-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446887",
+        "title": "#328 - Maximum Carnage: Arizona Financial Theatre in Phoenix, AZ",
+        "season": 8,
+        "episode": 2,
+        "released": "2026-01-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446888",
+        "title": "#329 - Addition Financial Arena in Orlando, FL",
+        "season": 8,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      }
+    ]
+  }
+}

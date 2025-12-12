@@ -1,0 +1,2388 @@
+{
+  "meta": {
+    "id": "tvmaze:28183",
+    "type": "series",
+    "name": "Dateline: Secrets Uncovered",
+    "description": "Real-life mysteries. Investigative reporting. Justice. Dateline is the long-running, award winning newsmagazine bringing viewers stories ranging from compelling mysteries to powerful documentaries and in-depth investigations. Hosted by NBC News' Craig Melvin, each episode of Dateline: Secrets Uncovered incorporates the classic elements of drama and great storytelling: good guys, bad guys, conflict with the highest stakes, suspense and resolution. Hear the chilling tales directly from those most affected and involved, including investigators tasked with cracking the case and the families confronting tragedy. In every story we tell, we help the real people who lived the events share their journeys with you.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/357/894987.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/357/894987.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3463045",
+        "title": "Finding Rita",
+        "season": 2025,
+        "episode": 31,
+        "released": "2025-12-05",
+        "overview": "When a Colorado mother vanishes without a trace, the detective investigating her disappearance discovers a connection to a previous assault; for the first time on television, the survivor of that attack recounts her terrifying ordeal."
+      },
+      {
+        "id": "tvmaze:1252394",
+        "title": "The House on the Lake",
+        "season": 2017,
+        "episode": 1,
+        "released": "2017-07-21",
+        "overview": "Stranger than fiction, a mom suddenly vanished. A dad under suspicion. There was no body, no weapon, no eyewitness and surprises along the way. Now, after all the twists and turns of four murder trials, the final verdict is in."
+      },
+      {
+        "id": "tvmaze:1252395",
+        "title": "Unimaginable",
+        "season": 2017,
+        "episode": 2,
+        "released": "2017-07-28",
+        "overview": "The case made national headlines: A toddler left in the car for seven hours while his dad was at work. Was this a heartbreaking accident? Police said it was murder. Could any parent ever do this on purpose?"
+      },
+      {
+        "id": "tvmaze:1271646",
+        "title": "Betrayed",
+        "season": 2017,
+        "episode": 3,
+        "released": "2017-08-04",
+        "overview": "Melissa Lewis disappeared leaving signs of a struggle and a strange orange mist behind her. Later, her boss went missing and left behind an even bigger mess, including a missing fortune. Two crimes leaving one lingering mystery."
+      },
+      {
+        "id": "tvmaze:1271648",
+        "title": "A Texas Twist",
+        "season": 2017,
+        "episode": 4,
+        "released": "2017-08-11",
+        "overview": "This part of the Lone Star State is largely sheltered from hurricanes, but, as it turned out, not from one unnatural disaster."
+      },
+      {
+        "id": "tvmaze:1271652",
+        "title": "Nightfall",
+        "season": 2017,
+        "episode": 5,
+        "released": "2017-08-18",
+        "overview": "After a young mom is found dead on the side of a country road, 40 miles from her Knoxville home, investigators scramble to figure out how she ended up there."
+      },
+      {
+        "id": "tvmaze:1271650",
+        "title": "Burning Suspicion",
+        "season": 2017,
+        "episode": 6,
+        "released": "2017-08-25",
+        "overview": "At first, the fatal fire that swept through the home of a young couple looked like an accident then investigators took a closer look and what they discovered about the fire, and this couple, left them burning with suspicion."
+      },
+      {
+        "id": "tvmaze:1271654",
+        "title": "Lost and Found",
+        "season": 2017,
+        "episode": 7,
+        "released": "2017-09-01",
+        "overview": "A 4-year-old girl abducted and raised by her kidnapper spends decades trying to get back home, and she finally accomplishes her goal; as it turns out, that ending was only the beginning."
+      },
+      {
+        "id": "tvmaze:1290561",
+        "title": "The Mystery of the Murdered Major",
+        "season": 2017,
+        "episode": 8,
+        "released": "2017-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1290562",
+        "title": "The House in the Woods",
+        "season": 2017,
+        "episode": 9,
+        "released": "2017-09-15",
+        "overview": "A hockey player finds his wife murdered in their home; his daughter says she saw a robber, but the killer's identity turns out to be far more complicated; police have their suspects but her family members have questions of their own."
+      },
+      {
+        "id": "tvmaze:1290563",
+        "title": "Frantic",
+        "season": 2017,
+        "episode": 10,
+        "released": "2017-09-22",
+        "overview": "After Christina, the twenty-three-year-old fashionista, goes out to a high-end shopping mall on a Friday night and vanishes, police question everyone; they know someone is lying, but not who."
+      },
+      {
+        "id": "tvmaze:1341448",
+        "title": "The Player",
+        "season": 2017,
+        "episode": 11,
+        "released": "2017-09-29",
+        "overview": "A double murder reveals a double life; the victims are a well-respected couple whose son plays poker for a living; his alibi is his ace in the hole, but when detectives find key evidence, they think they are holding all the cards."
+      },
+      {
+        "id": "tvmaze:1341449",
+        "title": "The Goldfinger Mystery",
+        "season": 2017,
+        "episode": 12,
+        "released": "2017-10-06",
+        "overview": "A couple who made a fortune in gold is headed for divorce when the wife is murdered; on tape, the husband is not at the crime scene, but police think the video holds the key to unlocking a mystery."
+      },
+      {
+        "id": "tvmaze:1341450",
+        "title": "Secrets in a Small Town, Part 1",
+        "season": 2017,
+        "episode": 13,
+        "released": "2017-10-13",
+        "overview": "A mother's disappearance from a small town in Alabama is discussed."
+      },
+      {
+        "id": "tvmaze:1341451",
+        "title": "Secrets in a Small Town, Part 2",
+        "season": 2017,
+        "episode": 14,
+        "released": "2017-10-13",
+        "overview": "A woman's life ends in mystery on a dead end road; a mother of three, loved by her family and tight-knit community; for years the murder investigation went cold, but secrets have a way of eventually coming out."
+      },
+      {
+        "id": "tvmaze:1341452",
+        "title": "Crossing the Line",
+        "season": 2017,
+        "episode": 15,
+        "released": "2017-10-20",
+        "overview": "Big sky country and a dangerous highway set the scene of a fatal car crash; determining if the tragedy was an accident or a crime and the secrets behind the truth hiding in text messages sent just before a car crossed the line."
+      },
+      {
+        "id": "tvmaze:1341453",
+        "title": "Mystery at Heath Bar Farm",
+        "season": 2017,
+        "episode": 16,
+        "released": "2017-10-27",
+        "overview": "A popular teacher is savagely murdered in her home; there is an arrest, a trial, and a conviction, but when a bombshell comes in after the verdict, the convicted murderer is given a chance at freedom."
+      },
+      {
+        "id": "tvmaze:1342421",
+        "title": "Deadly Triangle",
+        "season": 2017,
+        "episode": 17,
+        "released": "2017-11-03",
+        "overview": "If a killer is still free after 25 years, then maybe they got away with murder; the trail goes cold, never to warm up again, until one day it does."
+      },
+      {
+        "id": "tvmaze:1360149",
+        "title": "Diabolical",
+        "season": 2017,
+        "episode": 18,
+        "released": "2017-11-10",
+        "overview": "A newlywed received terrifying emails with threats of kidnapping and death. The emails appeared to come from an ex-girlfriend. But hiding behind the threats was a cyber-secret. It was a dangerous game with someone playing for keeps."
+      },
+      {
+        "id": "tvmaze:1360150",
+        "title": "The Day She Disappeared",
+        "season": 2017,
+        "episode": 19,
+        "released": "2017-11-17",
+        "overview": "A young mother disappeared one morning. Her husband said she went out for a run and never came home. She was found strangled to death. Was her husband capable of murder? What would the jury decide?"
+      },
+      {
+        "id": "tvmaze:1360152",
+        "title": "Collision",
+        "season": 2017,
+        "episode": 20,
+        "released": "2017-11-24",
+        "overview": "A wife and a mistress vying for the same man end up in a high-speed showdown on a highway; after the man of their dreams, on his motorcycle nearby, gets struck and killed, his wife becomes accused of his murder."
+      },
+      {
+        "id": "tvmaze:1365653",
+        "title": "Heart of Darkness",
+        "season": 2017,
+        "episode": 21,
+        "released": "2017-12-01",
+        "overview": "The FBI gets involved when a Virginia man's wife and son are kidnapped while vacationing in the Philippines, with a terrorist group demanding millions in ransom."
+      },
+      {
+        "id": "tvmaze:1370768",
+        "title": "The Last Dance",
+        "season": 2017,
+        "episode": 22,
+        "released": "2017-12-08",
+        "overview": "Memphis wife and mother Heather Jones embarks on a remarkable weight loss journey, and then disappears."
+      },
+      {
+        "id": "tvmaze:1370769",
+        "title": "Troubled Waters",
+        "season": 2017,
+        "episode": 23,
+        "released": "2017-12-15",
+        "overview": "A California couple's romantic getaway on a boat turns tragic when the young wife and mother is lost at sea. Did she accidentally drown or was it something more sinister? The case goes cold for years — until a gorgeous model with a checkered past goes undercover to find the truth. Josh Mankiewicz reports."
+      },
+      {
+        "id": "tvmaze:1377305",
+        "title": "Tangled",
+        "season": 2017,
+        "episode": 24,
+        "released": "2017-12-22",
+        "overview": "At first it looked like a home invasion gone wrong at the house Ralph Candelario shared with his second wife, but when police learn the antique dealer's first wife had disappeared, they take a closer look."
+      },
+      {
+        "id": "tvmaze:1412809",
+        "title": "Mystery in Orange County",
+        "season": 2018,
+        "episode": 1,
+        "released": "2018-02-16",
+        "overview": "An Army veteran vanishes before her college graduation. A massive search turns up nothing, but detectives do find a clue: a cryptic 911 call that helps uncover the truth and exposes a twisted story of unrequited love."
+      },
+      {
+        "id": "tvmaze:1416267",
+        "title": "Deadly Exchange",
+        "season": 2018,
+        "episode": 2,
+        "released": "2018-02-23",
+        "overview": "German foreign exchange student and soccer player, Diren Dede's dream of studying in America came true when he began his junior year at a Montana high school. When he decides to play a reckless teenage game, the consequences turn deadly."
+      },
+      {
+        "id": "tvmaze:1417954",
+        "title": "Under a Full Moon",
+        "season": 2018,
+        "episode": 3,
+        "released": "2018-03-02",
+        "overview": "When detectives track down the killer of a Las Vegas cocktail waitress and mother, it becomes clear that the investigation has just begun."
+      },
+      {
+        "id": "tvmaze:1423121",
+        "title": "The Face of Evil",
+        "season": 2018,
+        "episode": 4,
+        "released": "2018-03-09",
+        "overview": "When 21 year old student Jamie Hart is found murdered along a Texas road , detectives begin the hunt for her killer."
+      },
+      {
+        "id": "tvmaze:1427567",
+        "title": "The Interrogation",
+        "season": 2018,
+        "episode": 5,
+        "released": "2018-03-16",
+        "overview": "Robert Davis, who was convicted of murdering a woman and her son, claims his confession was coerced and tries to prove he is innocent."
+      },
+      {
+        "id": "tvmaze:1427568",
+        "title": "The Deed",
+        "season": 2018,
+        "episode": 6,
+        "released": "2018-03-26",
+        "overview": "An investigation into the murder of a beloved couple in South Carolina reveals a feud and divides a family."
+      },
+      {
+        "id": "tvmaze:1438760",
+        "title": "Smoke and Mirrors",
+        "season": 2018,
+        "episode": 7,
+        "released": "2018-04-02",
+        "overview": "When a Chicago woman from a big family goes missing, investigators begin to suspect a man in her life is full of secrets."
+      },
+      {
+        "id": "tvmaze:1443143",
+        "title": "The Hometown Hero & the Homecoming Queen",
+        "season": 2018,
+        "episode": 8,
+        "released": "2018-04-09",
+        "overview": "After a woman reports a prowler, police find her Olympic bronze medalist husband dead in their backyard."
+      },
+      {
+        "id": "tvmaze:1443144",
+        "title": "Consumed",
+        "season": 2018,
+        "episode": 9,
+        "released": "2018-04-16",
+        "overview": "When remains are found amid the rubble after a house fire, authorities soon discover the incident was no accident."
+      },
+      {
+        "id": "tvmaze:1456311",
+        "title": "The Client",
+        "season": 2018,
+        "episode": 10,
+        "released": "2018-04-23",
+        "overview": "Before time runs out, detectives race to find a Little Rock, Ark., realtor who went missing after showing a house."
+      },
+      {
+        "id": "tvmaze:1461456",
+        "title": "The Quiet One",
+        "season": 2018,
+        "episode": 11,
+        "released": "2018-04-30",
+        "overview": "Dark secrets come to light as officials investigate what happened to a wife and mother of three who was found dead in her bathtub."
+      },
+      {
+        "id": "tvmaze:1464348",
+        "title": "House of Secrets",
+        "season": 2018,
+        "episode": 12,
+        "released": "2018-05-07",
+        "overview": "A community is left in shock when a Cornell student and star athlete gets caught in the middle of a homicide investigation."
+      },
+      {
+        "id": "tvmaze:1467702",
+        "title": "The House on Sidney's Cove",
+        "season": 2018,
+        "episode": 13,
+        "released": "2018-05-14",
+        "overview": "A wife and mother of three disappears without a trace. Could her home's security cameras hold the key to solving the mystery? Dennis Murphy reports."
+      },
+      {
+        "id": "tvmaze:1484111",
+        "title": "Over the Edge",
+        "season": 2018,
+        "episode": 14,
+        "released": "2018-06-23",
+        "overview": "A romantic interlude on a September night turns tragic when a woman slips over the edge of a cliff and falls to her death; authorities ask whether she fell or was pushed, and it will take 20 years to find the answers."
+      },
+      {
+        "id": "tvmaze:1484112",
+        "title": "Someone Was Watching",
+        "season": 2018,
+        "episode": 15,
+        "released": "2018-06-30",
+        "overview": "In a plot straight out of an Alfred Hitchcock film, a woman peers into a neighbor's yard and catches a glimpse of something unsettling; she sets into motion a chain of events that will divide a family and a jury."
+      },
+      {
+        "id": "tvmaze:1493518",
+        "title": "Ransom",
+        "season": 2018,
+        "episode": 16,
+        "released": "2018-07-07",
+        "overview": "Florida, 2009: Quinn Gray, a homemaker, calls her husband Reid and tells her she's kidnapped."
+      },
+      {
+        "id": "tvmaze:1501651",
+        "title": "Silent Witness",
+        "season": 2018,
+        "episode": 17,
+        "released": "2018-07-13",
+        "overview": "Michelle Young was married to her college sweetheart and pregnant with their second child when she was murdered. In the search for her killer, detectives uncovered a marriage riddled with secrets but cracking this complicated case took years."
+      },
+      {
+        "id": "tvmaze:1495612",
+        "title": "Somebody's Daughter",
+        "season": 2018,
+        "episode": 18,
+        "released": "2018-07-14",
+        "overview": "Detectives often hit dead ends that can stop them cold but, for one young detective, dead ends were just another place to start. She'd beaten the odds in her own life. Now, she was determined to beat them on the job using her head and her heart."
+      },
+      {
+        "id": "tvmaze:1501652",
+        "title": "Suspicion",
+        "season": 2018,
+        "episode": 19,
+        "released": "2018-07-20",
+        "overview": "How well do you really know your neighbors? It's a question at the center of this mystery. The neighbors you're about to meet enjoyed mixing business with pleasure then a murder made them face the reality that a killer was in their midst."
+      },
+      {
+        "id": "tvmaze:1500395",
+        "title": "The Secret",
+        "season": 2018,
+        "episode": 20,
+        "released": "2018-07-21",
+        "overview": "Was he missing or was he hiding? On the surface, it didn't make sense: He had a wife, a good job, a daughter he loved. Investigators were told he also had a secret and they went on an undercover mission to find the truth."
+      },
+      {
+        "id": "tvmaze:1501653",
+        "title": "Buried Secrets",
+        "season": 2018,
+        "episode": 21,
+        "released": "2018-07-27",
+        "overview": "Judy Carlson lived in a painful limbo. Her son disappeared without a trace. Years went by and she may never have known his fate if not for a rookie detective's dogged work but to solve this cold case, the investigator also need the help of a killer."
+      },
+      {
+        "id": "tvmaze:1500394",
+        "title": "Strangers on a Train",
+        "season": 2018,
+        "episode": 22,
+        "released": "2018-07-28",
+        "overview": "She was beautiful, trusting and troubled; the young woman from a prominent family was just turning it around and realizing her promise; then she vanished; when the police seemed unable to find her, her family hatched a plan to solve the mystery."
+      },
+      {
+        "id": "tvmaze:1501654",
+        "title": "Who Killed the Radio Star",
+        "season": 2018,
+        "episode": 23,
+        "released": "2018-08-03",
+        "overview": "Steven B. Williams was a DJ with a golden voice. Then he vanished. It was a mystery that stretched from California to Montana, and the clue to it all? It was wrapped in a napkin, tucked in a cabinet, hidden in a library, but would anyone find it?"
+      },
+      {
+        "id": "tvmaze:1512444",
+        "title": "Mystery on Blood Mountain",
+        "season": 2018,
+        "episode": 24,
+        "released": "2018-08-06",
+        "overview": "After four people turn up dead, investigators chase a serial killer who may be reenacting scenes from a horror movie released in the 1980s."
+      },
+      {
+        "id": "tvmaze:1512445",
+        "title": "Deadly Conspiracy",
+        "season": 2018,
+        "episode": 25,
+        "released": "2018-08-10",
+        "overview": "Jack Jessee was a family man who didn't seem to have an enemy in the world, up until the night he was killed; the case goes cold but a relentless detective is determined to catch Jack's killer."
+      },
+      {
+        "id": "tvmaze:1513450",
+        "title": "Blind Justice",
+        "season": 2018,
+        "episode": 26,
+        "released": "2018-08-13",
+        "overview": "A look at a crime that took place in Florida, where detectives didn't find a motive for murder until they looked into a tropical island thousands of miles away, where a festering grudge was born."
+      },
+      {
+        "id": "tvmaze:1513451",
+        "title": "The Confession",
+        "season": 2018,
+        "episode": 27,
+        "released": "2018-08-17",
+        "overview": "Soon after Angie Dodge's murder, Christopher Tapp admits he is one of her killers; police capture his confession on videotape, but the victim's mom, who once campaigned to put Tapp in prison, fights for his freedom."
+      },
+      {
+        "id": "tvmaze:1515963",
+        "title": "The Great Escape",
+        "season": 2018,
+        "episode": 28,
+        "released": "2018-08-20",
+        "overview": "Dr. Mark Weinberger, a successful surgeon, hides a secret from his medical staff and from his adoring wife; after a malpractice suit and a death, the doctor vanishes, sparking an international manhunt and a family's fight for justice."
+      },
+      {
+        "id": "tvmaze:1518802",
+        "title": "Poison",
+        "season": 2018,
+        "episode": 29,
+        "released": "2018-08-24",
+        "overview": "Larry McNabney has a thriving career and a wife he adores, but then vanishes; at the center of the twisted mystery, three lives tangle together in a love triangle, including one who hides a secret identity."
+      },
+      {
+        "id": "tvmaze:1519847",
+        "title": "The Man Who Talked to Dogs",
+        "season": 2018,
+        "episode": 30,
+        "released": "2018-08-27",
+        "overview": "When a dog trainer with celebrity clientele disappears, investigators track down a suspect with the help of two witnesses."
+      },
+      {
+        "id": "tvmaze:1522074",
+        "title": "Written in Blood",
+        "season": 2018,
+        "episode": 31,
+        "released": "2018-08-31",
+        "overview": "When Karen Pannell is found stabbed to death, a message scrawled in blood seems like a beacon that could lead detectives to her killer; it takes a dogged forensic specialist with a keen eye to unravel the mystery."
+      },
+      {
+        "id": "tvmaze:1526758",
+        "title": "In the Dead of Night",
+        "season": 2018,
+        "episode": 32,
+        "released": "2018-09-03",
+        "overview": "It was Easter Sunday; the Stock family celebrated at home; hours later, gunshots turned their farmhouse into a house of horrors; there was an arrest but one tiny clue didn't fit; this case was far from being solved."
+      },
+      {
+        "id": "tvmaze:1526759",
+        "title": "The Night Lynsie Disappeared",
+        "season": 2018,
+        "episode": 33,
+        "released": "2018-09-07",
+        "overview": "It was a mystery that stumped investigators for years; a college student disappears after a night out clubbing; her mother thought she was at a sleepover with friends and it takes an eagle-eyed detective to find the truth buried in a pile of lies."
+      },
+      {
+        "id": "tvmaze:1530010",
+        "title": "A Gathering Storm",
+        "season": 2018,
+        "episode": 34,
+        "released": "2018-09-10",
+        "overview": "In August 2004, all eyes were on Hurricane Charley as it pounded Punta Gorda, a small town on Florida's Gulf Coast. In the midst of the tempest, one Florida man was holed up in a hotel room, seeking shelter from the storm and hiding from his past."
+      },
+      {
+        "id": "tvmaze:1530011",
+        "title": "Secrets in the Mist",
+        "season": 2018,
+        "episode": 35,
+        "released": "2018-09-14",
+        "overview": "The initial investigation into the 1981 disappearance of Torrance, Cal., resident and mother-of-two Carol Jeanne Lubahn hits a dead end. Thirty years later, however, the police re-open the case and turn to social media for help."
+      },
+      {
+        "id": "tvmaze:1530012",
+        "title": "Vanished",
+        "season": 2018,
+        "episode": 36,
+        "released": "2018-09-17",
+        "overview": "Young nursing student Michelle Le disappears; something draws her out to her car; as her loved ones launch a very public effort to find Michelle, investigators begin their own methodical search, suspecting she may have been murdered."
+      },
+      {
+        "id": "tvmaze:1530013",
+        "title": "Secrets in the Snow",
+        "season": 2018,
+        "episode": 37,
+        "released": "2018-09-21",
+        "overview": "She was a dancer who married a dashing photographer; they seem to have the picture-perfect life -- until the bone-chilling night she disappeared; in a case filled with twists, could the victim help solve her own murder."
+      },
+      {
+        "id": "tvmaze:1537543",
+        "title": "Deadly Connection",
+        "season": 2018,
+        "episode": 38,
+        "released": "2018-09-24",
+        "overview": "Young women out for a little fun with their friends, Kenia Monge and Lydia Tillman don't know each other, but their stories will become forever intertwined, both of them falling prey to a smooth-talking stranger with a terrifying secret."
+      },
+      {
+        "id": "tvmaze:1537544",
+        "title": "The Night Hannah Hill Disappeared",
+        "season": 2018,
+        "episode": 39,
+        "released": "2018-09-28",
+        "overview": "A former homecoming queen taking her first steps into adult life is brutally murdered; the investigation centers on two men and a mysterious black bag that seems to come out of nowhere."
+      },
+      {
+        "id": "tvmaze:1539682",
+        "title": "The Bathtub Mystery",
+        "season": 2018,
+        "episode": 40,
+        "released": "2018-10-01",
+        "overview": "She was a beaming bride; it was a haunting death; Sarah and Ryan were newlyweds when she drowned in the bathtub; did she die of natural causes or was it deliberate; it took three trials to find the truth."
+      },
+      {
+        "id": "tvmaze:1539683",
+        "title": "While They Were Sleeping",
+        "season": 2018,
+        "episode": 41,
+        "released": "2018-10-05",
+        "overview": "It was a brutal and baffling crime: a husband shot dead in his own bed; no one else in the house was hurt, not even his wife, who was sleeping beside him; investigators were suspicious, but there were more surprises in store."
+      },
+      {
+        "id": "tvmaze:1539684",
+        "title": "Down the Back Staircase",
+        "season": 2018,
+        "episode": 42,
+        "released": "2018-10-08",
+        "overview": "It all began when a best selling author found his wife at the base of the stairs; the story makes headlines and has been covered for more than a decade; Michael Peterson answers questions."
+      },
+      {
+        "id": "tvmaze:1539685",
+        "title": "The Devil and Bobbi Parker",
+        "season": 2018,
+        "episode": 43,
+        "released": "2018-10-12",
+        "overview": "It's a mystery with a mind-boggling twist; the deputy warden's wife claimed she was kidnapped by an escaped convict and held captive for more than a decade; but was she really a hostage or a willing accomplice."
+      },
+      {
+        "id": "tvmaze:1547847",
+        "title": "Secrets on Hot Springs Drive",
+        "season": 2018,
+        "episode": 44,
+        "released": "2018-10-15",
+        "overview": "A woman is murdered in a home invasion. Then, her best friend and neighbor is shot the following night. Investigators unearth disturbing secrets that suggest the cases may be linked."
+      },
+      {
+        "id": "tvmaze:1549533",
+        "title": "Inside Man",
+        "season": 2018,
+        "episode": 45,
+        "released": "2018-10-19",
+        "overview": "A convict is offered a deal as tempting as it is dangerous; he must go undercover in a psychiatric hospital to get information from a suspected serial killer in order to win his freedom, but there's no guarantee he'll get out alive."
+      },
+      {
+        "id": "tvmaze:1553818",
+        "title": "The Promise",
+        "season": 2018,
+        "episode": 46,
+        "released": "2018-10-22",
+        "overview": "When Cathy Torrez never comes home after work, her family fears the worst; an intensive search ends after her car is found, with her body in the trunk; it take years to get to the truth."
+      },
+      {
+        "id": "tvmaze:1553819",
+        "title": "Family Affair",
+        "season": 2018,
+        "episode": 47,
+        "released": "2018-10-26",
+        "overview": "The wealthy heir to a legendary hotel is murdered, and the list of possible suspects is long. Investigators soon learned someone close to the victim was also in danger."
+      },
+      {
+        "id": "tvmaze:1553820",
+        "title": "Infatuation",
+        "season": 2018,
+        "episode": 48,
+        "released": "2018-10-29",
+        "overview": "A talented, young art student is murdered. The killer left no fingerprints and no DNA. Police zeroed in on three fellow students, and soon, the dark portrait of a killer begins to emerge."
+      },
+      {
+        "id": "tvmaze:1553821",
+        "title": "The Plot Thickens",
+        "season": 2018,
+        "episode": 49,
+        "released": "2018-11-02",
+        "overview": "Investigators uncover the death of a show business stuntman."
+      },
+      {
+        "id": "tvmaze:1561187",
+        "title": "Return to Manitowoc County",
+        "season": 2018,
+        "episode": 50,
+        "released": "2018-11-05",
+        "overview": "In Wisconsin, Steven Avery and his nephew, Brendan Dassey, are convicted of killing Teresa Halbach in a case that defies easy answers."
+      },
+      {
+        "id": "tvmaze:1563107",
+        "title": "Secrets in Seattle",
+        "season": 2018,
+        "episode": 51,
+        "released": "2018-11-09",
+        "overview": "Fitness executive Nicole Pietz is married to the man of her dreams, then she goes missing after failing to show up for dinner with her husband and friends."
+      },
+      {
+        "id": "tvmaze:1563108",
+        "title": "The Silhouette",
+        "season": 2018,
+        "episode": 52,
+        "released": "2018-11-12",
+        "overview": "Debbie Kelly and Lars Itzo make their marriage of opposites work; then, Debbie is shot dead in the dark of night; investigators ask whether her death is a case of mistaken identity or the bloody end to a marriage gone bad."
+      },
+      {
+        "id": "tvmaze:1563109",
+        "title": "The Knock at the Door",
+        "season": 2018,
+        "episode": 53,
+        "released": "2018-11-16",
+        "overview": "Tara Ord is a beautiful young woman with big dreams, then she vanishes without a trace; it will take years for determined cold case detectives to uncover the long buried clue that blows this case wide open."
+      },
+      {
+        "id": "tvmaze:1568191",
+        "title": "Swept Away",
+        "season": 2018,
+        "episode": 54,
+        "released": "2018-11-19",
+        "overview": "A young man from small town Indiana heads to Japan where he falls for a beautiful woman; then, they are caught up in one of the biggest natural disasters in history."
+      },
+      {
+        "id": "tvmaze:1570488",
+        "title": "Against All Odds",
+        "season": 2018,
+        "episode": 55,
+        "released": "2018-11-23",
+        "overview": "A toddler is shot in the head and left for dead; despite the odds, she stuns everyone with her will to survive, while a detective vows to crack the case, no matter how long it takes."
+      },
+      {
+        "id": "tvmaze:1570489",
+        "title": "The Disappearance of Debbie Hawk",
+        "season": 2018,
+        "episode": 56,
+        "released": "2018-11-26",
+        "overview": "When Debbie Hawk vanishes, her friends and family are left searching for answers; investigators discover that Debbie was planning to divulge secrets and wonder if she has been silenced as a result."
+      },
+      {
+        "id": "tvmaze:1570490",
+        "title": "Deadly Ambush",
+        "season": 2018,
+        "episode": 57,
+        "released": "2018-11-30",
+        "overview": "A U.S. Air Force captain who is deployed overseas for long stretches of time finds himself caught in the crossfire resulting from a love triangle at home."
+      },
+      {
+        "id": "tvmaze:1576114",
+        "title": "Justice For Bonnie",
+        "season": 2018,
+        "episode": 58,
+        "released": "2018-12-03",
+        "overview": "When Bonnie Craig is found dead, police collect DNA but it doesn't match anyone in the system; twelve years later, there is a hit but the man is thousands of miles away; turns out, prosecutors would need more than DNA to convict a killer."
+      },
+      {
+        "id": "tvmaze:1585740",
+        "title": "The Sting",
+        "season": 2019,
+        "episode": 1,
+        "released": "2019-01-05",
+        "overview": "Newlywed Dalia Dippolito returns home from the gym to the awful news that her husband had been killed; in a case where almost nothing is as it seems, investigators want to know if Dalia is diabolical or an unwitting pawn in a hoax gone wrong."
+      },
+      {
+        "id": "tvmaze:1590207",
+        "title": "Dark Valley",
+        "season": 2019,
+        "episode": 2,
+        "released": "2019-01-12",
+        "overview": "When the dashing Gavin Smith vanishes, LA detectives are unsure if they are investigating a crime or a suicide; his wife claims he had gotten lost in drugs and flings; police wonder if the key to finding Gavin is hidden in one of those affairs."
+      },
+      {
+        "id": "tvmaze:1593641",
+        "title": "Black Friday",
+        "season": 2019,
+        "episode": 3,
+        "released": "2019-01-18",
+        "overview": "Ashlea Harris has no shortage of admirers, so when she is found dead after a suspicious fire consumes her apartment, police are baffled; the fire is no accident but the clues to who killed Ashlea may be up in smoke."
+      },
+      {
+        "id": "tvmaze:1597577",
+        "title": "Out There in the Dark",
+        "season": 2019,
+        "episode": 4,
+        "released": "2019-01-25",
+        "overview": "Brandy Daniels believes someone is stalking her, then the single mother is found slumped over in her car, shot dead; investigators spend years navigating the twists and turns searching for her killer."
+      },
+      {
+        "id": "tvmaze:1597578",
+        "title": "The Women & Dirty John",
+        "season": 2019,
+        "episode": 5,
+        "released": "2019-02-01",
+        "overview": "Debra Newell thought she found Mr. Right but her daughters sensed something wrong about John Meehan; they started digging into his past and their search for answers exposed a dangerous con man."
+      },
+      {
+        "id": "tvmaze:1606891",
+        "title": "As Night Fell",
+        "season": 2019,
+        "episode": 6,
+        "released": "2019-02-08",
+        "overview": "A young woman is shot in her home just outside Salt Lake City, Utah. Was it an accident? Or something far more sinister?"
+      },
+      {
+        "id": "tvmaze:1610334",
+        "title": "Good and Evil",
+        "season": 2019,
+        "episode": 7,
+        "released": "2019-02-15",
+        "overview": "When a woman's body is discovered at a trash facility, a detective makes a promise to her mother to get justice. She doesn't know she will come face to face with a serial killer."
+      },
+      {
+        "id": "tvmaze:1613723",
+        "title": "Deadly Trust",
+        "season": 2019,
+        "episode": 8,
+        "released": "2019-02-22",
+        "overview": "Wealthy residents feel safe in their gated community but it is not safe for one millionaire, murdered in his waterfront home; police investigate but the case grows cold; turns out the key to solving it, or two keys, are right at the front door."
+      },
+      {
+        "id": "tvmaze:1613724",
+        "title": "The Shadow",
+        "season": 2019,
+        "episode": 9,
+        "released": "2019-03-01",
+        "overview": "The save the date cards had gone out; Angie Ver Huel went to sleep next to her fiancé, Justin Michael, with big dreams but woke up to a nightmare; someone was running from their bedroom and Justin was dead."
+      },
+      {
+        "id": "tvmaze:1620157",
+        "title": "Internal Affairs",
+        "season": 2019,
+        "episode": 10,
+        "released": "2019-03-08",
+        "overview": "A beautiful, popular graduate student is shot dead outside her apartment in Durham, North Carolina."
+      },
+      {
+        "id": "tvmaze:1620158",
+        "title": "The Trap",
+        "season": 2019,
+        "episode": 11,
+        "released": "2019-03-15",
+        "overview": "A murder occurs in an affluent neighborhood with tree-lined streets; investigators find a riddle, a deception and a piece of pure evil."
+      },
+      {
+        "id": "tvmaze:1628135",
+        "title": "Deadly Twist",
+        "season": 2019,
+        "episode": 12,
+        "released": "2019-03-22",
+        "overview": "Todd Winkler claims self-defense after being arrested for killing his wife, Rachel; investigators travel to Georgia to find out how Todd's first wife died on a camping trip 10 years earlier."
+      },
+      {
+        "id": "tvmaze:1628136",
+        "title": "Mystery on Lockhart Road",
+        "season": 2019,
+        "episode": 13,
+        "released": "2019-03-29",
+        "overview": "After finding his wife and two children dead in his garage, a former Indiana state trooper spends 13 years trying to clear his name."
+      },
+      {
+        "id": "tvmaze:1628137",
+        "title": "Family Business",
+        "season": 2019,
+        "episode": 14,
+        "released": "2019-04-05",
+        "overview": "Investigating whether an explosion in a rice field in Colusa County, California that killed farm manager Roberto Ayala is an accident or murder."
+      },
+      {
+        "id": "tvmaze:1651329",
+        "title": "Devil's Bathtub",
+        "season": 2019,
+        "episode": 15,
+        "released": "2019-05-03",
+        "overview": "Craig and Laura Rideout appear happy but after they separate, an ugly secret is revealed and one of them will soon be dead; clues point to four possible killers and leave investigators wondering if this murder is all in the family."
+      },
+      {
+        "id": "tvmaze:1654674",
+        "title": "Deadly Circumstances",
+        "season": 2019,
+        "episode": 16,
+        "released": "2019-05-10",
+        "overview": "Brittany Eldridge was nearly nine months pregnant when she was found dead in her apartment; investigators focused on two men they believed had a possible motive."
+      },
+      {
+        "id": "tvmaze:1657456",
+        "title": "A Crack in Everything",
+        "season": 2019,
+        "episode": 17,
+        "released": "2019-05-17",
+        "overview": "For the Jennings family, Christmas Eve becomes a waking nightmare after a gunshot rings out, and investigators must determine whether a secret led to suicide or murder."
+      },
+      {
+        "id": "tvmaze:1657457",
+        "title": "A Night of the New Moon",
+        "season": 2019,
+        "episode": 18,
+        "released": "2019-05-24",
+        "overview": "Diana Lovejoy and her husband welcome a baby boy, but their marriage crumbles; a bitter custody battle follows; fearing for her safety, Diane turns to a man skilled in self-defense, but as it turns out, someone else is in grave danger."
+      },
+      {
+        "id": "tvmaze:1660516",
+        "title": "Twisted in Texas",
+        "season": 2019,
+        "episode": 19,
+        "released": "2019-05-31",
+        "overview": "Meghan Verikas is attracted to Leon Jacob, in part, because as a doctor he saves lives; police officers tell her he is trying to hire a hit man, potentially to take hers, but authorities have a plan of their own."
+      },
+      {
+        "id": "tvmaze:1666542",
+        "title": "Tangled Web",
+        "season": 2019,
+        "episode": 20,
+        "released": "2019-06-07",
+        "overview": "Sam and Danielle Dreher appear to have a storybook marriage, but this ending was not happily ever after; when Sam is murdered, investigators discover a twisted tale of secrets, lies and infidelity."
+      },
+      {
+        "id": "tvmaze:1666543",
+        "title": "The Fire Inside",
+        "season": 2019,
+        "episode": 21,
+        "released": "2019-06-14",
+        "overview": "After a house fire in suburban New Jersey, investigators discover a twisted love triangle filled with jealously, love and murder."
+      },
+      {
+        "id": "tvmaze:1673624",
+        "title": "Stealing Paradise",
+        "season": 2019,
+        "episode": 22,
+        "released": "2019-06-21",
+        "overview": "A group of adventurous Americans think they found paradise in a tropical hideaway, the kind of place where people don't ask a lot of questions about their neighbors, until some of those neighbors start to disappear."
+      },
+      {
+        "id": "tvmaze:1673625",
+        "title": "A Shot in the Dark",
+        "season": 2019,
+        "episode": 23,
+        "released": "2019-06-28",
+        "overview": "What happened in Cara Ryan's bedroom is a mystery; she admits she shot her ex-husband, but investigators need to know if it was murder or self-defense; detectives hear several versions of the story, but for a jury, there is only one truth."
+      },
+      {
+        "id": "tvmaze:1673626",
+        "title": "Plot Twist",
+        "season": 2019,
+        "episode": 24,
+        "released": "2019-07-05",
+        "overview": "For a group of stage actors, life seems to be imitating art in the worst way when a young college student is killed; police believe they know who is responsible, but this mystery has a grand finale no one sees coming."
+      },
+      {
+        "id": "tvmaze:1681591",
+        "title": "Deadly Valentine",
+        "season": 2019,
+        "episode": 25,
+        "released": "2019-07-12",
+        "overview": "For a day that ended so tragically, it started with roses; Nathan and Denise Leuthold had known each other since grade school and together they built their family on faith, but in a flash, one of them is dead and the other is under suspicion."
+      },
+      {
+        "id": "tvmaze:1681592",
+        "title": "Haunting",
+        "season": 2019,
+        "episode": 26,
+        "released": "2019-07-19",
+        "overview": "Police believe a pair of double homicides in Nebraska, five years apart, might be connected; investigators working to solve the crimes fear the killer might strike again."
+      },
+      {
+        "id": "tvmaze:1688557",
+        "title": "Someone Was Waiting",
+        "season": 2019,
+        "episode": 27,
+        "released": "2019-07-26",
+        "overview": "When a captivating, sweet natured single mom was found dead in her garage, detectives in Frisco, Texas uncovered a series of potential suspects, all of them connected in different ways to her complicated and secretive life."
+      },
+      {
+        "id": "tvmaze:1690502",
+        "title": "A Deadly Path",
+        "season": 2019,
+        "episode": 28,
+        "released": "2019-08-02",
+        "overview": "After a woman falls to her death while hiking with her husband in Rocky Mountain National Park, rangers question if her death was an accident."
+      },
+      {
+        "id": "tvmaze:1690503",
+        "title": "Deadly Desire",
+        "season": 2019,
+        "episode": 29,
+        "released": "2019-08-09",
+        "overview": "Two beautiful families were living out their dreams but gunshots in a parking lot revealed an ugly truth; investigators uncovered three lives tangled in a love triangle and there were many secrets."
+      },
+      {
+        "id": "tvmaze:1698078",
+        "title": "Murder in Broad Daylight",
+        "season": 2019,
+        "episode": 30,
+        "released": "2019-08-16",
+        "overview": "He dreams of being the next Steve Jobs, a young entrepreneur who wants to change the world; but his world comes crashing down one morning with four gunshots; this is a crime of passion: a fatal triangle involving a husband, a wife and a boss."
+      },
+      {
+        "id": "tvmaze:1698079",
+        "title": "Betrayal of Trust",
+        "season": 2019,
+        "episode": 31,
+        "released": "2019-08-23",
+        "overview": "Deede Keller has a loving family, a tight circle of friends and a new man in her life; when she vanishes, disturbing clues point investigators to a suspect with a dark secret; the case provides a twist that leaves the courtroom astonished."
+      },
+      {
+        "id": "tvmaze:1704160",
+        "title": "Mystery at Ascot Estates",
+        "season": 2019,
+        "episode": 32,
+        "released": "2019-08-30",
+        "overview": "It's Friday the 13th and something sinister is about to happen: a chilling double murder in an upscale home; the evidence seems to tell a clear story until investigators discover a marriage filled with secrets and a story that doesn't add up."
+      },
+      {
+        "id": "tvmaze:1712058",
+        "title": "Broken Bonds",
+        "season": 2019,
+        "episode": 33,
+        "released": "2019-09-06",
+        "overview": "A quiet night is shattered when intruders terrorize a Florida couple and their young son, killing one of them; investigators question the initial story; a tip leads them to another family with dark secrets, and that's when bonds are tested."
+      },
+      {
+        "id": "tvmaze:1715842",
+        "title": "The Girl With the Red Shoes",
+        "season": 2019,
+        "episode": 34,
+        "released": "2019-09-13",
+        "overview": "Annie Kasprzak has a second chance at a happy life after being adopted by her case worker; then, the 15-year-old vanishes; her parents find a note in her room that reveals a secret Annie has been hiding."
+      },
+      {
+        "id": "tvmaze:1715845",
+        "title": "Mystery In Mustang",
+        "season": 2019,
+        "episode": 35,
+        "released": "2019-09-20",
+        "overview": "Fire chief Keith Bryan is shot dead in his home, leaving police to wonder who would want to slay the local hero."
+      },
+      {
+        "id": "tvmaze:1715846",
+        "title": "What Happened To the Beauty Queen?",
+        "season": 2019,
+        "episode": 36,
+        "released": "2019-09-27",
+        "overview": "Beauty queen Nona Dirksmeyer plans a future with the boyfriend she adores, then she is brutally killed; the crime shakes her hometown and exposes someone with a secret past."
+      },
+      {
+        "id": "tvmaze:1722821",
+        "title": "Mystery in Payson Canyon",
+        "season": 2019,
+        "episode": 37,
+        "released": "2019-10-04",
+        "overview": "Kay Mortensen takes pride in preparing for every possible threat, then he is found murdered, and two of his loved ones wind up behind bars."
+      },
+      {
+        "id": "tvmaze:1732771",
+        "title": "Along Came Jodi",
+        "season": 2019,
+        "episode": 38,
+        "released": "2019-10-11",
+        "overview": "Jodi Arias' murder trial captivates the nation, exposing her secrets; however, the trial fails to solve the mystery of who this woman is behind her veil of lies."
+      },
+      {
+        "id": "tvmaze:1732772",
+        "title": "Graduation Night",
+        "season": 2019,
+        "episode": 39,
+        "released": "2019-10-18",
+        "overview": "A graduation party ends with a man's death and leaves two teenagers facing a long fight for justice."
+      },
+      {
+        "id": "tvmaze:1732773",
+        "title": "Secrets and Lies",
+        "season": 2019,
+        "episode": 40,
+        "released": "2019-10-25",
+        "overview": "The fire breaks out before dawn; after the smoke clears, a mother of two young children is found dead; it's the tragic end to a life that held so much promise, but for investigators, it is just the beginning."
+      },
+      {
+        "id": "tvmaze:1750341",
+        "title": "Toxic",
+        "season": 2019,
+        "episode": 41,
+        "released": "2019-11-01",
+        "overview": "Kevin and Morgan Mengel are happy at first, but when the marriage goes bad, he goes missing; police wonder if he simply left, but a family's relentless pursuit leads to a stunning confrontation and, eventually, the truth."
+      },
+      {
+        "id": "tvmaze:1750342",
+        "title": "Deadly Deceit",
+        "season": 2019,
+        "episode": 42,
+        "released": "2019-11-08",
+        "overview": "A family mourns the loss of a young mother in a house fire; authorities rule it an accident; years later, there is another accident and second loved one gone; investigating if this just a string of bad luck or the work of a calculating killer."
+      },
+      {
+        "id": "tvmaze:1757222",
+        "title": "Murder On Nantucket Island",
+        "season": 2019,
+        "episode": 43,
+        "released": "2019-11-15",
+        "overview": "On Nantucket Island, Mass., a couple's connection is instantaneous, but their summer romance takes a tragic turn; it seems like an open-and-shut case, but there's a surprise in store."
+      },
+      {
+        "id": "tvmaze:1757223",
+        "title": "Secrets in Pleasant Grove",
+        "season": 2019,
+        "episode": 44,
+        "released": "2019-11-22",
+        "overview": "A man makes a frantic call to 911 after finding his wife dead in a bathtub, but the couple's daughters lead police to investigate their father."
+      },
+      {
+        "id": "tvmaze:1761233",
+        "title": "Killing in Cobb County",
+        "season": 2019,
+        "episode": 45,
+        "released": "2019-11-29",
+        "overview": "It is a story of obsession that boiled over into a brutal crime. Right away, one woman said she knew what happened. Yet, it took years to bring the alleged killer to trial and the verdict was far from the end of this case."
+      },
+      {
+        "id": "tvmaze:1766200",
+        "title": "A Sister's Search",
+        "season": 2019,
+        "episode": 46,
+        "released": "2019-12-06",
+        "overview": "Aasha Davis moves to Hollywood with big dreams; her sister Lesley follows for support; Lesley goes missing and Aasha is desperate to find her; in a town built on deception, the police come up with a high-stakes plan to smoke out their suspect."
+      },
+      {
+        "id": "tvmaze:1773597",
+        "title": "Under A Halloween Moon",
+        "season": 2019,
+        "episode": 47,
+        "released": "2019-12-13",
+        "overview": "It is just before Halloween; Joel Lovelien and his fiancé head to a local bar packed with people in costume; Joel steps outside and walks into a troubling mystery."
+      },
+      {
+        "id": "tvmaze:1773598",
+        "title": "At Close Range",
+        "season": 2019,
+        "episode": 48,
+        "released": "2019-12-20",
+        "overview": "Keith Reed is a highly-regarded school superintendent; when he doesn't show up at an out-of-town conference, it sets off alarm bells; investigators take a hard look at his love life for clues and make a startling discovery."
+      },
+      {
+        "id": "tvmaze:1777408",
+        "title": "Deep in the Woods",
+        "season": 2019,
+        "episode": 49,
+        "released": "2019-12-27",
+        "overview": "Kelli Bordeaux is just starting what she hopes to be a long career in the military, but fate has other plans; when she vanishes, friends and family launch a frantic search, but it is a stranger hell-bent on justice who uncovers the ugly truth."
+      },
+      {
+        "id": "tvmaze:1785638",
+        "title": "The Other Side of Paradise",
+        "season": 2020,
+        "episode": 1,
+        "released": "2020-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1788362",
+        "title": "Deadly Detour",
+        "season": 2020,
+        "episode": 2,
+        "released": "2020-01-10",
+        "overview": "Diane McIver was a successful businesswoman who enjoyed a lavish lifestyle with her husband. Then she was gone. It was a mystery riddled with privilege and power, but investigators needed to answer a crucial question: was this an accident or murder?"
+      },
+      {
+        "id": "tvmaze:1788363",
+        "title": "The Threat",
+        "season": 2020,
+        "episode": 3,
+        "released": "2020-01-17",
+        "overview": "Divorced mother Joan Lockwood is excited about the next chapter in her life, then five gunshots shatter her plans."
+      },
+      {
+        "id": "tvmaze:1794128",
+        "title": "What They Saw",
+        "season": 2020,
+        "episode": 4,
+        "released": "2020-01-24",
+        "overview": "Detectives believed two young children witnessed the brutal murder of their mother; the prosecution builds their case around what they thought those kids observed, but another version of events may be possible."
+      },
+      {
+        "id": "tvmaze:1794129",
+        "title": "Reckless",
+        "season": 2020,
+        "episode": 5,
+        "released": "2020-01-31",
+        "overview": "A story of teens, text messages and a convoluted search for the truth; Conrad Roy, who had shared a secret with someone close to him, had vanished."
+      },
+      {
+        "id": "tvmaze:1800128",
+        "title": "The Capture",
+        "season": 2020,
+        "episode": 6,
+        "released": "2020-02-07",
+        "overview": "Amanda Lindhout was a journalist braving the world's most dangerous hotspots. Then, she became the story. What she endured from her captors was terrifying. Years later they found her again and secret agents put a daring undercover sting into action."
+      },
+      {
+        "id": "tvmaze:1800129",
+        "title": "Inside the Hunt for El Chapo",
+        "season": 2020,
+        "episode": 7,
+        "released": "2020-02-14",
+        "overview": "For over a decade, El Chapo evaded authorities but one man was determined to catch the infamous kingpin. Former DEA agent Andrew Hogan comes out of the shadows to detail his search and capture with never-before-seen videos and photographs."
+      },
+      {
+        "id": "tvmaze:1800130",
+        "title": "Angels & Demons",
+        "season": 2020,
+        "episode": 8,
+        "released": "2020-02-21",
+        "overview": "Angel's Landing was a community of free-spirits with Lou Castro at its center. Investigators were suspicious of the mysterious deaths happening there. Now, commune members have courageously decided to tell their stories in hopes of helping others."
+      },
+      {
+        "id": "tvmaze:1806393",
+        "title": "The Carrollton Plot",
+        "season": 2020,
+        "episode": 9,
+        "released": "2020-02-28",
+        "overview": "Churchgoing mom shot at point-blank range in her garage; saving her would take a miracle and investigators want to know if this crime was random or if someone wanted her dead."
+      },
+      {
+        "id": "tvmaze:1809227",
+        "title": "The Man Who Wasn't There",
+        "season": 2020,
+        "episode": 10,
+        "released": "2020-03-06",
+        "overview": "In the still of the night, strangers armed with knives destroy the lives built by a hardworking man and his doting wife."
+      },
+      {
+        "id": "tvmaze:1812997",
+        "title": "One Moment",
+        "season": 2020,
+        "episode": 11,
+        "released": "2020-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1830508",
+        "title": "Death Trap",
+        "season": 2020,
+        "episode": 12,
+        "released": "2020-03-20",
+        "overview": "Pizza deliveryman Brian Wells robs a bank with a bomb strapped around his neck, launching one of the strangest cases ever investigated by the FBI."
+      },
+      {
+        "id": "tvmaze:1830509",
+        "title": "A Villainous Plan",
+        "season": 2020,
+        "episode": 13,
+        "released": "2020-03-27",
+        "overview": "A bank executive tries to rob his own bank; investigators think it's an inside job but eventually learn the crime is connected to a spree carried out by men who managed to keep their identities secret, praying on people who did the opposite."
+      },
+      {
+        "id": "tvmaze:1830510",
+        "title": "The Disappearance of Sandi Johnson",
+        "season": 2020,
+        "episode": 14,
+        "released": "2020-04-03",
+        "overview": "The Disappearance of Sandi Johnson: Journalist Craig Melvin explores some of the most chilling stories through first-hand accounts, told by those closest to the issue, which also includes investigators who are entrusted with solving the case and the families confronting tragedy."
+      },
+      {
+        "id": "tvmaze:1847802",
+        "title": "12 Minutes on Elm Street",
+        "season": 2020,
+        "episode": 15,
+        "released": "2020-04-24",
+        "overview": "Cousins Nick Brady and Haile Kifer were best friends; to their family, they seemed like typical teenagers; turns out, the cousins had a secret that led to tragedy."
+      },
+      {
+        "id": "tvmaze:1856828",
+        "title": "In the Middle of the Night",
+        "season": 2020,
+        "episode": 16,
+        "released": "2020-05-01",
+        "overview": "After college student Angie Samota was stabbed to death, police had no shortage of suspects; a crucial clue narrowed their list to one name, but it would be years before technology and a tenacious friend came together to help unravel this mystery."
+      },
+      {
+        "id": "tvmaze:1856838",
+        "title": "Missing Marie",
+        "season": 2020,
+        "episode": 17,
+        "released": "2020-05-08",
+        "overview": "Single mother Marie Singleton falls hard for Andre Jackson, a single dad raising his two kids; the couple marries and seems happy, then Marie vanishes and investigators discover secrets that may be related to her undercover job."
+      },
+      {
+        "id": "tvmaze:1866034",
+        "title": "Deadly Intent",
+        "season": 2020,
+        "episode": 18,
+        "released": "2020-05-15",
+        "overview": "Connie and Larry Hoagland built a life centered on faith and family. Then, a vicious attack threatened it all. Someone wanted Connie dead. But who? After a bomb exploded underneath her car, secrets started to emerge."
+      },
+      {
+        "id": "tvmaze:1870339",
+        "title": "A Bronx Tale",
+        "season": 2020,
+        "episode": 19,
+        "released": "2020-05-22",
+        "overview": "Eric Glisson was convicted of a murder he swore he didn't commit. To prove his innocence, he had to find the real killers, unearthing their long-held secrets. It would take years for the truth to be revealed, but could it set him free?"
+      },
+      {
+        "id": "tvmaze:1870402",
+        "title": "Deadly Denial",
+        "season": 2020,
+        "episode": 20,
+        "released": "2020-05-29",
+        "overview": "Raven Abaroa swooped into Vanessa Pond's life and stole her heart.  Then Vanessa discovered her dream man had a tragic past.  His first wife had been killed.  Was he a grieving widower or somehow involved?  Dark secrets were about to be spilled."
+      },
+      {
+        "id": "tvmaze:1879159",
+        "title": "Mystery in South Beach",
+        "season": 2020,
+        "episode": 21,
+        "released": "2020-06-05",
+        "overview": "Wendy Trapaga is a beaming young bride, and just four days after saying \"I do,\" she is found dead in a parking lot; investigators discover the newlyweds were keeping secrets, and there was also someone else involved with a secret."
+      },
+      {
+        "id": "tvmaze:1883532",
+        "title": "Circle of Friends",
+        "season": 2020,
+        "episode": 22,
+        "released": "2020-06-12",
+        "overview": "In high school, Christian, Erika and Pedro formed a tight trio: best friends who excelled at academics and shared big dreams. When they went to college something changed. It started with a secret romance and ended in tragedy."
+      },
+      {
+        "id": "tvmaze:1888989",
+        "title": "Bad Blood",
+        "season": 2020,
+        "episode": 23,
+        "released": "2020-06-19",
+        "overview": "Nikki Whitehead was a single mom working toward a brighter future. She found love, moved into a nice neighborhood and enrolled in college. Then, tragedy struck. Police searched for answers but one thing was certain. This crime was personal."
+      },
+      {
+        "id": "tvmaze:1889013",
+        "title": "The Farm",
+        "season": 2020,
+        "episode": 24,
+        "released": "2020-06-26",
+        "overview": "Bill and Shirley Carter had raised a family on their sprawling farm in America's heartland. As their golden years approached, tragedy struck and the seeds of a mystery pitting one family member against another had been planted."
+      },
+      {
+        "id": "tvmaze:1893735",
+        "title": "Evil Was Waiting",
+        "season": 2020,
+        "episode": 25,
+        "released": "2020-07-03",
+        "overview": "Vince Goslyn's military career was thriving and he had built a beautiful family; one night, the father of five was gunned down."
+      },
+      {
+        "id": "tvmaze:1903465",
+        "title": "Everything She Knew",
+        "season": 2020,
+        "episode": 26,
+        "released": "2020-07-10",
+        "overview": "Amber Belken, a young woman with big dreams, is found murdered; three people know the truth if Amber was the victim of a robbery gone wrong or if the brutal crime was personal."
+      },
+      {
+        "id": "tvmaze:1903466",
+        "title": "The Landing",
+        "season": 2020,
+        "episode": 27,
+        "released": "2020-07-17",
+        "overview": "Before she disappeared, Heather Elvis was a young woman who was eager to make her mark on the world; investigators discover a lover triangle and think they have their motive."
+      },
+      {
+        "id": "tvmaze:1903468",
+        "title": "Unspeakable",
+        "season": 2020,
+        "episode": 28,
+        "released": "2020-07-24",
+        "overview": "Sandra and Jamie Melgar are high school sweethearts who are celebrating their 32nd anniversary, but the intimate evening turns deadly; to crack the case, investigators must uncover the secrets of an illusion that is worthy of the great Houdini."
+      },
+      {
+        "id": "tvmaze:1906893",
+        "title": "The Watcher",
+        "season": 2020,
+        "episode": 29,
+        "released": "2020-07-31",
+        "overview": "Lauren Giddings was smart, charismatic and a newly-minted law school graduate. She had dreams of becoming a public defender, then she was brutally murdered. Her killer tried to pull off the perfect crime, but a secret recording exposed the truth."
+      },
+      {
+        "id": "tvmaze:1911860",
+        "title": "Unraveled",
+        "season": 2020,
+        "episode": 30,
+        "released": "2020-08-07",
+        "overview": "For an agonizing four days, the fear was paralyzing. A city was under siege. Six people had been gunned down, but how were the killings linked? A retired detective connected the dots, initiating the manhunt for a man with a gun and a grudge."
+      },
+      {
+        "id": "tvmaze:1911861",
+        "title": "The Figure in the Garage",
+        "season": 2020,
+        "episode": 31,
+        "released": "2020-08-14",
+        "overview": "He was a single dad, a former firefighter dedicated to helping others. When he was found dead in his garage, police needed help. A neighbor's security camera footage revealed a hooded figure, but who was it? Someone was hiding a deadly secret."
+      },
+      {
+        "id": "tvmaze:1917795",
+        "title": "A Cold December Morning",
+        "season": 2020,
+        "episode": 32,
+        "released": "2020-08-21",
+        "overview": "Devoted to her faith and her five children, Chanin Starbuck deals with her divorce and tries to start a new life; after she is brutally murdered, the investigation reveals secrets."
+      },
+      {
+        "id": "tvmaze:1917796",
+        "title": "In Cold Blood",
+        "season": 2020,
+        "episode": 33,
+        "released": "2020-08-28",
+        "overview": "A firefighter who is used to rescuing others is in desperate need of help when he finds his wife bloodied and motionless on the bedroom floor."
+      },
+      {
+        "id": "tvmaze:1924956",
+        "title": "Vendetta",
+        "season": 2020,
+        "episode": 34,
+        "released": "2020-09-04",
+        "overview": "Beloved by his colleagues, Mark Hasse was a fearless prosecutor. He worked to put criminals behind bars and making enemies was a hazard of the job. He didn't know it, but a killer was lurking and Mark wasn't the only target."
+      },
+      {
+        "id": "tvmaze:1924957",
+        "title": "Deadly House of Cards",
+        "season": 2020,
+        "episode": 35,
+        "released": "2020-09-11",
+        "overview": "After Johnny Altinger vanished, the trail of clues led investigators to a young director. Detectives worried that the case was a hoax staged by a master storyteller. Turns out, the script was darker than anyone knew."
+      },
+      {
+        "id": "tvmaze:1937782",
+        "title": "Footprint in the Dust",
+        "season": 2020,
+        "episode": 36,
+        "released": "2020-09-18",
+        "overview": "Susie Casey, an outgoing mother of four, is going through a divorce when she vanishes; police investigate three men."
+      },
+      {
+        "id": "tvmaze:1937783",
+        "title": "Death in the Driveway",
+        "season": 2020,
+        "episode": 37,
+        "released": "2020-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1942576",
+        "title": "Toxic Relations",
+        "season": 2020,
+        "episode": 38,
+        "released": "2020-10-02",
+        "overview": "Linda Curry had it all: looks, a great job and a brilliant husband. When she got sick, doctors were stumped. Then, she died and police were as puzzled as the doctors, but not her close friends and family. They just needed someone to listen."
+      },
+      {
+        "id": "tvmaze:1942577",
+        "title": "Secrets of the Snake River",
+        "season": 2020,
+        "episode": 39,
+        "released": "2020-10-09",
+        "overview": "Rachel Anderson was a vivacious single mom whose world revolved around her children. When she failed to show up for work one day, her kids panicked. Might her disappearance have anything to do with those terrifying phone calls she'd been receiving?"
+      },
+      {
+        "id": "tvmaze:1946614",
+        "title": "A Killing in Cottonwood",
+        "season": 2020,
+        "episode": 40,
+        "released": "2020-10-16",
+        "overview": "Karen and Mark Duenas had a special marriage; the teenage sweethearts managed to keep the romance alive even after raising five boys together; a perfectly ordinary night that ends in murder tests the bonds of family."
+      },
+      {
+        "id": "tvmaze:1961946",
+        "title": "The Unusual Suspect",
+        "season": 2020,
+        "episode": 41,
+        "released": "2020-10-23",
+        "overview": "A cold-blooded serial killer lurks in the woods, peeps through windows and stalks his victims in the dead of night."
+      },
+      {
+        "id": "tvmaze:1961947",
+        "title": "The Mystery Man",
+        "season": 2020,
+        "episode": 42,
+        "released": "2020-10-30",
+        "overview": "At first, Mischele Lewis' new boyfriend seems almost too good to be true; she discovers her dream man has secrets; a single mom goes on a dangerous mission to find out the truth."
+      },
+      {
+        "id": "tvmaze:1965421",
+        "title": "The Fugitive Millionaire",
+        "season": 2020,
+        "episode": 43,
+        "released": "2020-11-06",
+        "overview": "The neighbor of a tech giant who is living in paradise is found dead; suddenly, the entrepreneur extraordinaire is on the run, taunting authorities and tantalizing the press."
+      },
+      {
+        "id": "tvmaze:1968410",
+        "title": "Deception",
+        "season": 2020,
+        "episode": 44,
+        "released": "2020-11-13",
+        "overview": "Wendy Ratte, a free-spirited mother of two, was missing. Police investigated: a bitter feud with a neighbor, a possible serial killer. Or, did danger lurk closer to home? It'd take an elaborate, undercover mission to finally crack this case."
+      },
+      {
+        "id": "tvmaze:1969658",
+        "title": "The Comic Book Murder",
+        "season": 2020,
+        "episode": 45,
+        "released": "2020-11-20",
+        "overview": "Barbara George was murdered in her comic store on Friday the 13th. The case went cold and her husband moved away, starting a new life with a new wife. But then there was a new prosecutor with an old connection to the case, and he wanted it solved."
+      },
+      {
+        "id": "tvmaze:1976733",
+        "title": "Up In Flames",
+        "season": 2020,
+        "episode": 46,
+        "released": "2020-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1976734",
+        "title": "The Motive",
+        "season": 2020,
+        "episode": 47,
+        "released": "2020-12-04",
+        "overview": "A football player was shot; his killer left few clues and the case sat cold until someone spilled a secret; what police asked the tipster to do next would make her a target."
+      },
+      {
+        "id": "tvmaze:1984532",
+        "title": "The Mansion on Ocean Boulevard",
+        "season": 2020,
+        "episode": 48,
+        "released": "2020-12-11",
+        "overview": "It was a riveting mystery with two puzzling deaths, both at the same mansion. First, a boy was found near the bottom of the stairs and police ruled it an accident. Then, there was an apparent suicide at the guest house. What was really happening?"
+      },
+      {
+        "id": "tvmaze:1984533",
+        "title": "Evil Intent",
+        "season": 2020,
+        "episode": 49,
+        "released": "2020-12-18",
+        "overview": "Jessica Nelson was a hardworking single mom. Then, one morning, she was found dead in her home. The discovery left her family shattered and their ordeal had just begun. Turns out, the killer was someone they knew."
+      },
+      {
+        "id": "tvmaze:1988542",
+        "title": "Secrets on the Emerald Coast",
+        "season": 2020,
+        "episode": 50,
+        "released": "2020-12-25",
+        "overview": "Marie Carlson was radiant but behind the glow she hid a darkness. For a while, Marie drifted but, then, a pastor and his wife welcomed her into their lives. It was a spiritual awakening which made Marie's disappearance all the more mysterious."
+      },
+      {
+        "id": "tvmaze:1991448",
+        "title": "Something Wicked",
+        "season": 2020,
+        "episode": 51,
+        "released": "2020-12-31",
+        "overview": "Skylar Neese was everything her parents hoped for, but their world turned upside down when she vanished without a trace. At first, police thought she ran away but hints on social media pointed to a more sinister reason for her disappearance."
+      },
+      {
+        "id": "tvmaze:2004277",
+        "title": "Mystery on the Mississippi",
+        "season": 2021,
+        "episode": 1,
+        "released": "2021-01-07",
+        "overview": "When a mother of four dies unexpectedly on Valentine's Day, everyone in town assumes she died of natural causes until a detective suspects someone has gotten away with murder."
+      },
+      {
+        "id": "tvmaze:2004278",
+        "title": "On the Outskirts of Town",
+        "season": 2021,
+        "episode": 2,
+        "released": "2021-01-14",
+        "overview": "Halee Rathgeber enjoyed taking care of others, so it made sense that she hoped to become a nurse. What made no sense was that someone wanted her dead. The crime scene told detectives little, but a jaw-dropping moment in the courtroom spoke volumes."
+      },
+      {
+        "id": "tvmaze:2004279",
+        "title": "The Ultimatum",
+        "season": 2021,
+        "episode": 3,
+        "released": "2021-01-21",
+        "overview": "Michele and Lloyd Neurauter were devoted to their three daughters, even after divorce. When Michele was found dead in her home, police suspected suicide. Then, they uncovered a deadly betrayal too twisted to be true. Except that it was."
+      },
+      {
+        "id": "tvmaze:2045790",
+        "title": "The Good Husband",
+        "season": 2021,
+        "episode": 4,
+        "released": "2021-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2045791",
+        "title": "Double Lives",
+        "season": 2021,
+        "episode": 5,
+        "released": "2021-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2045792",
+        "title": "A Dangerous Man",
+        "season": 2021,
+        "episode": 6,
+        "released": "2021-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2045793",
+        "title": "The Mystery on Bridle Path",
+        "season": 2021,
+        "episode": 7,
+        "released": "2021-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2045794",
+        "title": "The Accused",
+        "season": 2021,
+        "episode": 8,
+        "released": "2021-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2045797",
+        "title": "The Devil in Disguise",
+        "season": 2021,
+        "episode": 9,
+        "released": "2021-03-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2065554",
+        "title": "While He Was Sleeping",
+        "season": 2021,
+        "episode": 10,
+        "released": "2021-03-20",
+        "overview": "When Eric Somuah was found shot in his bed, it was hard to imagine who would want the outgoing salesman dead. One dogged detective refused to give up. His investigation put him on a path filled with twists, turns and an ending few saw coming."
+      },
+      {
+        "id": "tvmaze:2065555",
+        "title": "The Root of All Evil",
+        "season": 2021,
+        "episode": 11,
+        "released": "2021-03-24",
+        "overview": "Marc Despain was a married father of two and a successful real estate appraiser. He was busy building a life, until his ended all too soon. Investigators wondered if money was a motive, or maybe a family rift. His loved ones wanted answers."
+      },
+      {
+        "id": "tvmaze:2065556",
+        "title": "Deadly Betrayal",
+        "season": 2021,
+        "episode": 12,
+        "released": "2021-04-01",
+        "overview": "Lisa and Kevin Knoefel seemed like the perfect couple. They were busy raising three children, and then welcomed a foster child too. When Sabrina admitted to killing Lisa, no one could understand why. This case was about to get very complicated."
+      },
+      {
+        "id": "tvmaze:2065557",
+        "title": "Lethal Weapon",
+        "season": 2021,
+        "episode": 13,
+        "released": "2021-04-08",
+        "overview": "A successful, seemingly healthy doctor collapses at home and is rushed to the ER, leaving friends and colleagues puzzled."
+      },
+      {
+        "id": "tvmaze:2410228",
+        "title": "The Informant",
+        "season": 2022,
+        "episode": 1,
+        "released": "2022-10-05",
+        "overview": "A young woman's chilling story about a girl's abduction and murder helps re-open a case that has haunted a New York town for decades. Dennis Murphy reports."
+      },
+      {
+        "id": "tvmaze:2413942",
+        "title": "Rear Window",
+        "season": 2022,
+        "episode": 2,
+        "released": "2022-10-12",
+        "overview": "Corey Parker had plenty of admirers, but maybe one of them liked her too much. Her murder jolted a sleepy seaside community with the chilling realization that a killer was walking among them."
+      },
+      {
+        "id": "tvmaze:2417723",
+        "title": "Hinckley: Diary of a Dangerous Mind",
+        "season": 2022,
+        "episode": 3,
+        "released": "2022-10-19",
+        "overview": "Pages from the diary of John Hinckley Jr., who was arrested in 1981 for trying to assassinate President Ronald Reagan, are revealed."
+      },
+      {
+        "id": "tvmaze:2420901",
+        "title": "The Stranger",
+        "season": 2022,
+        "episode": 4,
+        "released": "2022-10-26",
+        "overview": "She yearned to make it in Hollywood. Instead, Brittany Tavar made headlines when she vanished. Investigators had plenty of leads - a handsome boarder, the friend turned enemy, or they wondered if the free spirit could have left on her own."
+      },
+      {
+        "id": "tvmaze:2425096",
+        "title": "The Dream House Mystery",
+        "season": 2022,
+        "episode": 5,
+        "released": "2022-11-02",
+        "overview": "Realtor Lindsay Buziak thought she'd land dream clients when a mystery couple say they want to buy a million-dollar home; what seems like a golden opportunity turns deadly when Lindsay is murdered in the ritzy home."
+      },
+      {
+        "id": "tvmaze:2428775",
+        "title": "Vengeance",
+        "season": 2022,
+        "episode": 6,
+        "released": "2022-11-09",
+        "overview": "They were a couple who seemed made for each other. Seemona Sumasar thought she had met Mr. Right, but her instincts proved wrong. Nothing was as it seemed."
+      },
+      {
+        "id": "tvmaze:2433890",
+        "title": "Miles From Nowhere",
+        "season": 2022,
+        "episode": 7,
+        "released": "2022-11-17",
+        "overview": "In the California mountains, a young father calls 911 to report that he has been in a shootout with a car full of strangers; with one man dead and two others injured, authorities wonder if this is self-defense or something else."
+      },
+      {
+        "id": "tvmaze:2437272",
+        "title": "Manner of Death",
+        "season": 2022,
+        "episode": 8,
+        "released": "2022-11-18",
+        "overview": "It was a mystery from day one: a young father's life cut short and how Matt Podolak died was puzzling; the word poison keeps coming up; Matt's brother embarks on a long quest for the truth."
+      },
+      {
+        "id": "tvmaze:2440572",
+        "title": "The Feud",
+        "season": 2022,
+        "episode": 9,
+        "released": "2022-11-30",
+        "overview": "Fences make good neighbours, but this one triggered a deadly fight. Only two men were there and the man who shot first told investigators his story. However, the crime scene was telling another story."
+      },
+      {
+        "id": "tvmaze:2444814",
+        "title": "The Long Road to Freedom",
+        "season": 2022,
+        "episode": 10,
+        "released": "2022-12-07",
+        "overview": "Two Tulsa, Okla., brothers fight for more than 20 years to prove their innocence after they are convicted for separate murders."
+      },
+      {
+        "id": "tvmaze:2449469",
+        "title": "Life Inside",
+        "season": 2022,
+        "episode": 11,
+        "released": "2022-12-14",
+        "overview": "Lester Holt spends two nights locked up inside the largest maximum-security prison in America."
+      },
+      {
+        "id": "tvmaze:2462685",
+        "title": "Deadly Secret",
+        "season": 2022,
+        "episode": 12,
+        "released": "2023-01-05",
+        "overview": "Before the Menendez brothers, the Bobbitts or even O.J., Pamela Smart was television's first true-crime fascination; Smart's husband was found murdered and when police began to investigate, they discovered that she was keeping a big secret."
+      },
+      {
+        "id": "tvmaze:2468332",
+        "title": "Endgame",
+        "season": 2022,
+        "episode": 13,
+        "released": "2023-01-11",
+        "overview": "Rod Covlin calls 911 after his young daughter finds his estranged wife unconscious in the bathtub; soon after her mysterious death, family members would come to suspect what happened was no accident."
+      },
+      {
+        "id": "tvmaze:2478957",
+        "title": "The Waiting Car",
+        "season": 2022,
+        "episode": 14,
+        "released": "2023-01-19",
+        "overview": "When college student Mackenzie Lueck vanishes from a park in Salt Lake City, her friends are dedicated to finding answers; the search makes national headlines, and the investigation reveals a secret that stuns even her closest friends."
+      },
+      {
+        "id": "tvmaze:2478958",
+        "title": "The Woman With No Name",
+        "season": 2022,
+        "episode": 15,
+        "released": "2023-01-25",
+        "overview": "Police are perplexed when they find the body of a young woman but are unable identify her; with the help of amateur investigators and new DNA technology, a dogged investigator finds her killer and her identity."
+      },
+      {
+        "id": "tvmaze:2483452",
+        "title": "The Vow",
+        "season": 2022,
+        "episode": 16,
+        "released": "2023-02-01",
+        "overview": "Two tenacious sisters are determined to fulfill a promise to investigate the mystery surrounding their mother's death"
+      },
+      {
+        "id": "tvmaze:2491184",
+        "title": "At the Bottom of the Pool",
+        "season": 2022,
+        "episode": 17,
+        "released": "2023-02-16",
+        "overview": "When a model and up-and-coming YouTube celebrity is found dead, police question her husband to see if he can provide any answers."
+      },
+      {
+        "id": "tvmaze:2494721",
+        "title": "Unbreakable",
+        "season": 2022,
+        "episode": 18,
+        "released": "2023-02-23",
+        "overview": "The behind-the-scenes story of Rebecca Musser vs. Warren Jeffs, one of the FBI's most notorious fugitives; Rebecca opens up about life in the Fundamentalist Church of Jesus Christ of Latter-Day Saints, and why she decided to leave."
+      },
+      {
+        "id": "tvmaze:2498326",
+        "title": "The Death of Gianni Versace",
+        "season": 2022,
+        "episode": 19,
+        "released": "2023-03-01",
+        "overview": "Gianni Versace's longtime partner, Antonio D'Amico, speaks about the murder of the fashion icon; Versace's murder came amid a monthslong manhunt for Andrew Cunanan, who was accused of committing four other murders throughout the U.S. in 1997."
+      },
+      {
+        "id": "tvmaze:2501680",
+        "title": "Secrets of the Desert",
+        "season": 2022,
+        "episode": 20,
+        "released": "2023-03-09",
+        "overview": "Linda Watson was a single mom raising a beautiful daughter when she disappeared. Then, suddenly, Linda's mom was gone too, along with another friend. Police were convinced the three cases were connected, but unraveling the mystery took years."
+      },
+      {
+        "id": "tvmaze:2506562",
+        "title": "While She Was Sleeping",
+        "season": 2022,
+        "episode": 21,
+        "released": "2023-03-15",
+        "overview": "The murder of socialite Nancy Phister sent shockwaves through Aspen; she was an A-lister in a city known for its opulent ski resorts and famous residents. Nancy had a long list of friends, but she also had foes."
+      },
+      {
+        "id": "tvmaze:2545500",
+        "title": "Trouble at the 7-11 Ranch",
+        "season": 2022,
+        "episode": 22,
+        "released": "2023-05-10",
+        "overview": "Friends think something isn't right after the mysterious disappearance of a Colorado rancher and spend years fighting for answers."
+      },
+      {
+        "id": "tvmaze:2550639",
+        "title": "The Phony Rockefeller",
+        "season": 2022,
+        "episode": 23,
+        "released": "2023-05-17",
+        "overview": "The con artist known as Clark Rockefeller, a high society hustler with a talent for spinning lies, is suspected of murder; to unravel the mystery, cold-case detectives start to retrace his steps through a decades-old trail of deceit."
+      },
+      {
+        "id": "tvmaze:2557787",
+        "title": "A Family's Story",
+        "season": 2022,
+        "episode": 24,
+        "released": "2023-05-24",
+        "overview": "Two years after the disappearance of his wife, Josh Powell kills his two sons and himself. Watch Josh's last in-depth TV interview. Plus, a 911 dispatcher discusses the emergency call placed by a social worker."
+      },
+      {
+        "id": "tvmaze:2562791",
+        "title": "Deadly Liaisons",
+        "season": 2022,
+        "episode": 25,
+        "released": "2023-06-01",
+        "overview": "She was a small-town girl from rural Wisconsin; he was a Chicago superstar, a hometown hero with the legendary Bears; together, they were expecting their first child, but no one was expecting their tale to end in the deadly way that it did."
+      },
+      {
+        "id": "tvmaze:2566087",
+        "title": "Kidnapped",
+        "season": 2022,
+        "episode": 26,
+        "released": "2023-06-07",
+        "overview": "A young woman is abducted in Ecuador and, as her family and investigators raced to save her, she plots to save herself; her daring plan involves a little something hidden at the bottom of her bag, but time is running out."
+      },
+      {
+        "id": "tvmaze:2570424",
+        "title": "Lost in Sin City",
+        "season": 2022,
+        "episode": 27,
+        "released": "2023-06-14",
+        "overview": "A small-town girl moved to Las Vegas where she found a new career and new love. Soon after, however, she vanished and within days police would find her body. Finding who killed her would be a tougher mystery to crack."
+      },
+      {
+        "id": "tvmaze:2575695",
+        "title": "The Family Secret",
+        "season": 2022,
+        "episode": 28,
+        "released": "2023-06-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2580450",
+        "title": "Bringing Brooke Home",
+        "season": 2022,
+        "episode": 29,
+        "released": "2023-06-28",
+        "overview": "Brooke Wilberger was 19 when she was kidnapped; her family begged for her return, but months passed before police got their first break, a similar attack more than 1,000 miles away."
+      },
+      {
+        "id": "tvmaze:2589506",
+        "title": "The pink skirt plot",
+        "season": 2022,
+        "episode": 30,
+        "released": "2023-06-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2595831",
+        "title": "Night of the summer solstice",
+        "season": 2022,
+        "episode": 31,
+        "released": "2023-07-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2600098",
+        "title": "Murder in the house of Gucci",
+        "season": 2022,
+        "episode": 32,
+        "released": "2023-07-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2744203",
+        "title": "The Investigation",
+        "season": 2024,
+        "episode": 1,
+        "released": "2024-01-10",
+        "overview": "A Philadelphia murder reveals decades of misconduct in the city's criminal justice system and raises questions about whether police caught the right person."
+      },
+      {
+        "id": "tvmaze:2744855",
+        "title": "The Story Of Somebody",
+        "season": 2024,
+        "episode": 2,
+        "released": "2024-01-17",
+        "overview": "When Courtney Copeland is shot and killed, his mother investigates whether police detectives did enough to try to solve the case."
+      },
+      {
+        "id": "tvmaze:2751311",
+        "title": "Recipe for Murder",
+        "season": 2024,
+        "episode": 3,
+        "released": "2024-01-24",
+        "overview": "Keith Morrison reports on a dramatic undercover operation in Palm Beach, Fla., to save a wife and mother who has no idea she is in danger."
+      },
+      {
+        "id": "tvmaze:2760719",
+        "title": "The Case of the Missing D.A.",
+        "season": 2024,
+        "episode": 4,
+        "released": "2024-01-31",
+        "overview": "A district attorney in Pennsylvania went missing in 2005 under mysterious circumstances seven years after he investigated sex-abuse allegations made against Penn State football coach Jerry Sandusky."
+      },
+      {
+        "id": "tvmaze:2766043",
+        "title": "After the Party",
+        "season": 2024,
+        "episode": 5,
+        "released": "2024-02-07",
+        "overview": "Four years after a 28-year-old dies after hosting a New Year's Eve party, a jury must decide if it was suicide or murder."
+      },
+      {
+        "id": "tvmaze:2770211",
+        "title": "Robert Durst: The Lost Years",
+        "season": 2024,
+        "episode": 6,
+        "released": "2024-02-14",
+        "overview": "Friends of accused murderer Robert Durst talk about his arrest in New Orleans and his previous whereabouts over 30 years."
+      },
+      {
+        "id": "tvmaze:2777724",
+        "title": "Twisted Tale",
+        "season": 2024,
+        "episode": 7,
+        "released": "2024-02-21",
+        "overview": "When a woman returns two days after being reported abducted, authorities believe it's a hoax until a similar crime forces them to take another look."
+      },
+      {
+        "id": "tvmaze:2786060",
+        "title": "The Summer of Manson",
+        "season": 2024,
+        "episode": 8,
+        "released": "2024-02-28",
+        "overview": "New interviews with insiders reveal how career criminal Charles Manson convinced his followers to kill innocent victims and deliver him the fame he craved."
+      },
+      {
+        "id": "tvmaze:2792459",
+        "title": "Dreams & Nightmares: The Meek Mill Story",
+        "season": 2024,
+        "episode": 9,
+        "released": "2024-03-06",
+        "overview": "Rapper Meek Mill discusses controversies surrounding the criminal justice system, the parole system, wrongful convictions, challenges faced by law enforcement, alleged police abuse, and other topics."
+      },
+      {
+        "id": "tvmaze:2796954",
+        "title": "Broken Circle",
+        "season": 2024,
+        "episode": 10,
+        "released": "2024-03-13",
+        "overview": "An investigation of abuse allegations against one of the owners of the religious reform school Circle of Hope."
+      },
+      {
+        "id": "tvmaze:2802466",
+        "title": "The Rise and Fall of Oscar Pistorius",
+        "season": 2024,
+        "episode": 11,
+        "released": "2024-03-20",
+        "overview": "Oscar Pistorius shoots and kills his girlfriend just eight months after competing in the London Olympics, telling police that he believed she was an intruder, and he was acting in self-defense."
+      },
+      {
+        "id": "tvmaze:2807364",
+        "title": "Mystery on Horseshoe Drive",
+        "season": 2024,
+        "episode": 12,
+        "released": "2024-03-27",
+        "overview": "A man is shot and killed while picking up his daughter for a court-ordered visit."
+      },
+      {
+        "id": "tvmaze:2813111",
+        "title": "Jonestown: An American Tragedy",
+        "season": 2024,
+        "episode": 13,
+        "released": "2024-04-03",
+        "overview": "An in-depth look at the journalists who exposed the dangers of cult leader Rev. Jim Jones."
+      },
+      {
+        "id": "tvmaze:2826689",
+        "title": "Shattered Bonds",
+        "season": 2024,
+        "episode": 14,
+        "released": "2024-04-10",
+        "overview": "A car belonging to a missing man erupts in a blaze, leading to clues regarding his whereabouts."
+      },
+      {
+        "id": "tvmaze:2826690",
+        "title": "The People v. OJ Simpson: What the Jury Never Heard",
+        "season": 2024,
+        "episode": 15,
+        "released": "2024-04-17",
+        "overview": "It was called the trial of the century and, decades after the polarizing case, questions remain; hear answers and insights through interviews done over the years, rare footage and revealing conversations with key players who offer new details."
+      },
+      {
+        "id": "tvmaze:2826691",
+        "title": "The Call",
+        "season": 2024,
+        "episode": 16,
+        "released": "2024-04-24",
+        "overview": "A dancer is murdered in her Virginia home; after interviewing a series of suspects, detectives realize the case is much more complicated than previously thought."
+      },
+      {
+        "id": "tvmaze:2846864",
+        "title": "Secrets by the Bay",
+        "season": 2024,
+        "episode": 17,
+        "released": "2024-05-01",
+        "overview": "A San Diego mother suddenly vanishes in 2014. Nearly two years later, her body is found in San Diego Bay, but medical examiners say she has only been dead for a month or two."
+      },
+      {
+        "id": "tvmaze:2936429",
+        "title": "The Jacket",
+        "season": 2024,
+        "episode": 18,
+        "released": "2024-06-05",
+        "overview": "When 18-year-old Anjelica AJ Hadsell disappears, the investigation into her inner circle reveals a sinister betrayal."
+      },
+      {
+        "id": "tvmaze:2936430",
+        "title": "House of horrors",
+        "season": 2024,
+        "episode": 19,
+        "released": "2024-06-12",
+        "overview": "When Nichole Payne and her son Taylor are found dead in their home, investigators wonder if this is a murder-suicide or if someone wants it to look that way. The mystery takes nearly a decade to unravel."
+      },
+      {
+        "id": "tvmaze:2936431",
+        "title": "Episode 20",
+        "season": 2024,
+        "episode": 20,
+        "released": "2024-06-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2936432",
+        "title": "Out of the Shadows",
+        "season": 2024,
+        "episode": 21,
+        "released": "2024-06-26",
+        "overview": "A mysterious murder of a newlywed, and a case that takes unexpected turns. Starting with a widow, the investigation unfolds to reveal startling connections that lead to the unsettling possibility of a serial killer being involved."
+      },
+      {
+        "id": "tvmaze:2936433",
+        "title": "Murder in Kitchen one",
+        "season": 2024,
+        "episode": 22,
+        "released": "2024-07-03",
+        "overview": "Detectives in Portland, Oregon, discover a puzzling connection between the 2018 murder of chef Dan Brophy and a blog post written years earlier, titled How to Murder Your Husband."
+      },
+      {
+        "id": "tvmaze:2942517",
+        "title": "Far from Spider Lake",
+        "season": 2024,
+        "episode": 23,
+        "released": "2024-07-10",
+        "overview": "A 40 year old Minnesota woman is shot to death in her bed while her husband and teenage daughter are home, leaving investigators to wonder who would want her dead."
+      },
+      {
+        "id": "tvmaze:2946672",
+        "title": "Devil's Bargain",
+        "season": 2024,
+        "episode": 24,
+        "released": "2024-07-17",
+        "overview": "Lead investigators and family members speak about the murder of Colorado mother Kelsey Berreth, whose disappearance made national headlines after she was last seen grocery shopping on Thanksgiving in 2018."
+      },
+      {
+        "id": "tvmaze:2955921",
+        "title": "Before Daylight",
+        "season": 2024,
+        "episode": 25,
+        "released": "2024-07-24",
+        "overview": "A college student is found murdered in a residential neighbourhood; as police search for the truth, they are stunned to learn that one of their own might be involved."
+      },
+      {
+        "id": "tvmaze:2981234",
+        "title": "A Wanted Man",
+        "season": 2024,
+        "episode": 26,
+        "released": "2024-07-31",
+        "overview": "The mystery of a surgeon's whereabouts remains unanswered for five years after he disappears while on vacation with his wife, leaving behind financial ruin and mounting malpractice suits."
+      },
+      {
+        "id": "tvmaze:2981235",
+        "title": "Evil Paid a Visit",
+        "season": 2024,
+        "episode": 27,
+        "released": "2024-08-07",
+        "overview": "The episode is about the rape of Donna Palomba, a Connecticut mother, in her home, and the years-long battle for justice that followed. The episode explores the challenges faced by victims of crime and the efforts of investigators to bring perpetrators to justice"
+      },
+      {
+        "id": "tvmaze:2981236",
+        "title": "A Monster at Large",
+        "season": 2024,
+        "episode": 28,
+        "released": "2024-08-14",
+        "overview": "When Susan Woods doesn't show up for work, she is soon discovered dead in her bathtub. As police search for answers, they find a trail of victims"
+      },
+      {
+        "id": "tvmaze:2985005",
+        "title": "The Premonition",
+        "season": 2024,
+        "episode": 29,
+        "released": "2024-08-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3029872",
+        "title": "The Phone Call",
+        "season": 2024,
+        "episode": 30,
+        "released": "2024-08-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3029871",
+        "title": "The Last Weekend",
+        "season": 2024,
+        "episode": 31,
+        "released": "2024-11-06",
+        "overview": "A trumpet player's family learns his body was abandoned in the remote Colorado Rockies."
+      },
+      {
+        "id": "tvmaze:3046591",
+        "title": "Fire & Ice",
+        "season": 2024,
+        "episode": 32,
+        "released": "2024-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3046592",
+        "title": "The Streets of Laredo",
+        "season": 2024,
+        "episode": 33,
+        "released": "2024-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3046593",
+        "title": "Down the Basement Stairs",
+        "season": 2024,
+        "episode": 34,
+        "released": "2024-11-27",
+        "overview": "When young mother and paramedic Annamarie Cochrane Rintala is found dead at the bottom of her basement stairs, it takes four trials and 13 years before justice is served."
+      },
+      {
+        "id": "tvmaze:3052140",
+        "title": "The Secret in Black Rock Canyon",
+        "season": 2024,
+        "episode": 35,
+        "released": "2024-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3058790",
+        "title": "The Ultimate Betrayal",
+        "season": 2024,
+        "episode": 36,
+        "released": "2024-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3077756",
+        "title": "The Last Mile",
+        "season": 2024,
+        "episode": 37,
+        "released": "2024-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3077757",
+        "title": "Part of the Plan",
+        "season": 2024,
+        "episode": 38,
+        "released": "2024-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3084391",
+        "title": "A Promise to Gloria",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-01-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3084396",
+        "title": "The Breakup",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3084402",
+        "title": "The Night Kelsie Disappeared",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3106145",
+        "title": "What Happened in the Basement?",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3113049",
+        "title": "The Necklace",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-02-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3117704",
+        "title": "A Haunting Stretch of Road",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3127272",
+        "title": "A Girl Named Egypt",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-02-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3140631",
+        "title": "A Cool Desert Morning",
+        "season": 2025,
+        "episode": 8,
+        "released": "2025-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3159814",
+        "title": "The Sisterhood",
+        "season": 2025,
+        "episode": 9,
+        "released": "2025-03-05",
+        "overview": "After the cause of the death of Stacy Feldman in her Denver home is ruled as undetermined, friends and family join forces to piece together what happened. Insiders close to the case speak out about the seven-year battle for justice."
+      },
+      {
+        "id": "tvmaze:3159815",
+        "title": "Horror at the Lake",
+        "season": 2025,
+        "episode": 10,
+        "released": "2025-03-12",
+        "overview": "After Florida teacher Denise Hallowell is found murdered in her home, investigators examine her family's tumultuous past in their desperate search for a killer."
+      },
+      {
+        "id": "tvmaze:3159816",
+        "title": "The Blue Blanket Mystery",
+        "season": 2025,
+        "episode": 11,
+        "released": "2025-03-19",
+        "overview": "After New Jersey mother Michelle Lodzinski reports that her 5-year-old son has vanished from a carnival, detectives embark on a decades-long investigation until a family member identifies a key piece of evidence pointing to a potential suspect."
+      },
+      {
+        "id": "tvmaze:3165582",
+        "title": "The Road Trip",
+        "season": 2025,
+        "episode": 12,
+        "released": "2025-03-26",
+        "overview": "When Dr. Teresa Sievers is found murdered in her kitchen, detectives struggle to find any leads until an unexpected tip changes everything; the woman who helped investigators speaks out."
+      },
+      {
+        "id": "tvmaze:3242893",
+        "title": "The Shadow in the Window",
+        "season": 2025,
+        "episode": 13,
+        "released": "2025-06-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3254753",
+        "title": "Dangerous Secret",
+        "season": 2025,
+        "episode": 14,
+        "released": "2025-06-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3293553",
+        "title": "Secrets in Pleasant Prairie",
+        "season": 2025,
+        "episode": 15,
+        "released": "2025-06-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3293554",
+        "title": "The End of the Affair",
+        "season": 2025,
+        "episode": 16,
+        "released": "2025-07-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3300320",
+        "title": "The Room Downstairs",
+        "season": 2025,
+        "episode": 17,
+        "released": "2025-07-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3305240",
+        "title": "The Murdaugh Murders: Inside the Investigation",
+        "season": 2025,
+        "episode": 18,
+        "released": "2025-07-16",
+        "overview": "Lead detectives break their silence on the investigation into once-prominent South Carolina attorney Alex Murdaugh."
+      },
+      {
+        "id": "tvmaze:3313373",
+        "title": "10 Minutes to Sunset",
+        "season": 2025,
+        "episode": 19,
+        "released": "2025-07-23",
+        "overview": "When a pediatric dentist is found dead, police uncover a complex plot and their suspect leads investigators on an international manhunt; the lead detective speaks out for the first time."
+      },
+      {
+        "id": "tvmaze:3318782",
+        "title": "The Sleepover",
+        "season": 2025,
+        "episode": 20,
+        "released": "2025-07-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3324327",
+        "title": "The Hands of a Killer",
+        "season": 2025,
+        "episode": 21,
+        "released": "2025-08-06",
+        "overview": "When former Arkansas State Senator Linda Collins is found fatally stabbed outside her home, detectives investigate if her murder is connected to her political career or her personal life; the victim's children speak out about the case."
+      },
+      {
+        "id": "tvmaze:3336468",
+        "title": "The Day the Music Died",
+        "season": 2025,
+        "episode": 22,
+        "released": "2025-08-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3336469",
+        "title": "Righteous Obsession",
+        "season": 2025,
+        "episode": 23,
+        "released": "2025-08-20",
+        "overview": "The investigation into a deadly home invasion involving a local business owner takes a turn when an unlikely witness comes forward; new details emerge from exclusive interviews and never-before-seen police interviews."
+      },
+      {
+        "id": "tvmaze:3342096",
+        "title": "On the Hunt for the zombie hunter",
+        "season": 2025,
+        "episode": 24,
+        "released": "2025-08-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3363552",
+        "title": "Footprints in the Snow",
+        "season": 2025,
+        "episode": 25,
+        "released": "2025-09-03",
+        "overview": "The missing-persons case of 12-year-old Jonelle Matthews in Colorado remains a mystery for more than three decades until detectives narrow in on a suspect whose bizarre behavior after her disappearance hints at something much more sinister."
+      },
+      {
+        "id": "tvmaze:3363553",
+        "title": "The girl with the Hibiscus Tattoo",
+        "season": 2025,
+        "episode": 26,
+        "released": "2025-09-10",
+        "overview": "A group of women help bring down a smooth talking serial predator turned killer who lured young women with promises of fame and fortune."
+      },
+      {
+        "id": "tvmaze:3438710",
+        "title": "Secrets of the Sliding Door",
+        "season": 2025,
+        "episode": 27,
+        "released": "2025-11-04",
+        "overview": "A beloved Staten Island teacher is found dead in the home she shared with her husband; an unknown number in her cell phone leads investigators to reveal troubles in her seemingly idylliclife -- and to ultimately unearth her killer"
+      },
+      {
+        "id": "tvmaze:3438711",
+        "title": "Bethany Vanished",
+        "season": 2025,
+        "episode": 28,
+        "released": "2025-11-11",
+        "overview": "Dateline investigates the mysterious disappearance of Bethany Decker from Ashburn, Virginia in 2011, leaving behind her toddler son and expecting a second child."
+      },
+      {
+        "id": "tvmaze:3463035",
+        "title": "Secrets in Silver Lakes",
+        "season": 2025,
+        "episode": 29,
+        "released": "2025-11-12",
+        "overview": "A young father's murder at work leads investigators to deep secrets about sex, friendship, religion and family."
+      },
+      {
+        "id": "tvmaze:3463036",
+        "title": "The Bad Man",
+        "season": 2025,
+        "episode": 30,
+        "released": "2025-11-19",
+        "overview": "Nearly 40 years after young wife and mother Cathy Krauseneck is found murdered with an axe in her upstate New York home, a new team of investigators joins the cold case to uncover the killer."
+      },
+      {
+        "id": "tvmaze:3463045",
+        "title": "Finding Rita",
+        "season": 2025,
+        "episode": 31,
+        "released": "2025-12-05",
+        "overview": "When a Colorado mother vanishes without a trace, the detective investigating her disappearance discovers a connection to a previous assault; for the first time on television, the survivor of that attack recounts her terrifying ordeal."
+      }
+    ]
+  }
+}

@@ -1,0 +1,1940 @@
+{
+  "meta": {
+    "id": "tvmaze:6441",
+    "type": "series",
+    "name": "NFL Films Presents",
+    "description": "NFL Films Presents is devoted to producing commercials, television programs, feature films, and documentaries on the National Football League, as well as other unrelated major events and awards shows. It is currently owned by the NFL and produces most of its videotaped content except its live game coverage, which is handled separately by the individual networks.\"",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016520.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016520.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3455531",
+        "title": "Jason Garrett's QB Quest Part 1",
+        "season": 2025,
+        "episode": 13,
+        "released": "2025-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791090",
+        "title": "Football Institutions",
+        "season": 1999,
+        "episode": 2,
+        "released": "1999-08-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791091",
+        "title": "Pitch and Catch",
+        "season": 1999,
+        "episode": 3,
+        "released": "1999-08-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791092",
+        "title": "Revving Up for the Season",
+        "season": 1999,
+        "episode": 4,
+        "released": "1999-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791093",
+        "title": "The Great Debate",
+        "season": 1999,
+        "episode": 5,
+        "released": "1999-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791094",
+        "title": "Not Exactly How We Drew It Up",
+        "season": 1999,
+        "episode": 6,
+        "released": "1999-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791095",
+        "title": "Law and Order",
+        "season": 1999,
+        "episode": 7,
+        "released": "1999-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791096",
+        "title": "Hype",
+        "season": 1999,
+        "episode": 8,
+        "released": "1999-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791071",
+        "title": "Texas Shootout",
+        "season": 2008,
+        "episode": 4,
+        "released": "2008-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791072",
+        "title": "Here's The Catch",
+        "season": 2008,
+        "episode": 5,
+        "released": "2008-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791073",
+        "title": "The Long Road",
+        "season": 2008,
+        "episode": 6,
+        "released": "2008-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791074",
+        "title": "Do You Believe In Miracles?",
+        "season": 2008,
+        "episode": 7,
+        "released": "2008-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791075",
+        "title": "Sparks Will Fly",
+        "season": 2008,
+        "episode": 8,
+        "released": "2008-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791076",
+        "title": "Clockwork Orange",
+        "season": 2008,
+        "episode": 9,
+        "released": "2008-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791077",
+        "title": "Reborn and Reenergized",
+        "season": 2008,
+        "episode": 10,
+        "released": "2008-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791078",
+        "title": "Dream Jobs",
+        "season": 2008,
+        "episode": 11,
+        "released": "2008-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791079",
+        "title": "Barry Switzer",
+        "season": 2008,
+        "episode": 12,
+        "released": "2008-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791080",
+        "title": "Many Happy Returns",
+        "season": 2008,
+        "episode": 13,
+        "released": "2008-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791081",
+        "title": "Letters and Dreams",
+        "season": 2008,
+        "episode": 14,
+        "released": "2008-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791082",
+        "title": "Shuffle the Deck",
+        "season": 2008,
+        "episode": 15,
+        "released": "2008-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791083",
+        "title": "Not Exactly How We Drew It Up",
+        "season": 2008,
+        "episode": 16,
+        "released": "2008-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791084",
+        "title": "Lessons From Football",
+        "season": 2008,
+        "episode": 17,
+        "released": "2008-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791085",
+        "title": "Best of 2008",
+        "season": 2008,
+        "episode": 18,
+        "released": "2008-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791086",
+        "title": "Utter Confusion",
+        "season": 2008,
+        "episode": 19,
+        "released": "2009-01-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791087",
+        "title": "Warren Sapp",
+        "season": 2008,
+        "episode": 20,
+        "released": "2009-01-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791088",
+        "title": "Sounds of the Season",
+        "season": 2008,
+        "episode": 21,
+        "released": "2009-01-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791089",
+        "title": "It Is What It Is",
+        "season": 2008,
+        "episode": 22,
+        "released": "2009-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379068",
+        "title": "Looking Back and Looking Ahead (Pilot)",
+        "season": 2013,
+        "episode": 1,
+        "released": "2013-09-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379069",
+        "title": "New York Giants",
+        "season": 2013,
+        "episode": 2,
+        "released": "2013-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379070",
+        "title": "Saluting the Champs",
+        "season": 2013,
+        "episode": 3,
+        "released": "2013-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379071",
+        "title": "Steve Gleason",
+        "season": 2013,
+        "episode": 4,
+        "released": "2013-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379072",
+        "title": "Horsin' Around",
+        "season": 2013,
+        "episode": 5,
+        "released": "2013-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379073",
+        "title": "A Lot to Talk About",
+        "season": 2013,
+        "episode": 6,
+        "released": "2013-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379074",
+        "title": "Sweet Moves",
+        "season": 2013,
+        "episode": 7,
+        "released": "2013-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379075",
+        "title": "Luck and Skill",
+        "season": 2013,
+        "episode": 8,
+        "released": "2013-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379076",
+        "title": "After Sandy",
+        "season": 2013,
+        "episode": 9,
+        "released": "2013-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379077",
+        "title": "Pioneers and Promos",
+        "season": 2013,
+        "episode": 10,
+        "released": "2013-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379078",
+        "title": "Portraits of Pride",
+        "season": 2013,
+        "episode": 11,
+        "released": "2013-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379079",
+        "title": "History Lessons",
+        "season": 2013,
+        "episode": 12,
+        "released": "2013-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379080",
+        "title": "All American Stories",
+        "season": 2013,
+        "episode": 13,
+        "released": "2013-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:379081",
+        "title": "Fathers and Sons",
+        "season": 2015,
+        "episode": 16,
+        "released": "2015-10-15",
+        "overview": "We meet a favorite son from Albany, NY and learn how the Patriots Julian Edelman inherited his father's work ethic."
+      },
+      {
+        "id": "tvmaze:396844",
+        "title": "Playing with Fire",
+        "season": 2015,
+        "episode": 17,
+        "released": "2015-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:404059",
+        "title": "Fun and Games",
+        "season": 2015,
+        "episode": 18,
+        "released": "2015-10-27",
+        "overview": "Nicknames; mascots; coin toss; million dollar kick; one-game wonders; Les Richter; the playoffs."
+      },
+      {
+        "id": "tvmaze:426176",
+        "title": "Troy Polamalu in American Samoa",
+        "season": 2015,
+        "episode": 19,
+        "released": "2015-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:446295",
+        "title": "Authority Figures",
+        "season": 2015,
+        "episode": 20,
+        "released": "2015-11-10",
+        "overview": "We meet a judge and his bailiff who used to be NFL teammates. We catch up with a former NFL coach who is back in the game at the high school level. Lastly, we examine Bill Belichick press conferences."
+      },
+      {
+        "id": "tvmaze:477043",
+        "title": "The Long and Short of It",
+        "season": 2015,
+        "episode": 21,
+        "released": "2015-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:510966",
+        "title": "Football Families",
+        "season": 2015,
+        "episode": 22,
+        "released": "2015-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:510972",
+        "title": "Losing Hurts",
+        "season": 2015,
+        "episode": 23,
+        "released": "2015-12-05",
+        "overview": "Actor Aaron Paul's sad day is caught on camera. We also find out why the Miami Dolphins make musician Darius Rucker cry."
+      },
+      {
+        "id": "tvmaze:510973",
+        "title": "We Got a Lot to Say",
+        "season": 2015,
+        "episode": 24,
+        "released": "2015-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:551244",
+        "title": "Gone But Not Forgotten",
+        "season": 2015,
+        "episode": 25,
+        "released": "2015-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:558686",
+        "title": "Greatest Games of 2015",
+        "season": 2016,
+        "episode": 1,
+        "released": "2016-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:579757",
+        "title": "What a Ride",
+        "season": 2016,
+        "episode": 2,
+        "released": "2016-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:935167",
+        "title": "Sounds of the Season",
+        "season": 2016,
+        "episode": 3,
+        "released": "2016-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:935168",
+        "title": "The Super Bowl Recap",
+        "season": 2016,
+        "episode": 4,
+        "released": "2016-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:935169",
+        "title": "You Outkicked Your Coverage",
+        "season": 2016,
+        "episode": 5,
+        "released": "2016-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:942932",
+        "title": "Toughness",
+        "season": 2016,
+        "episode": 6,
+        "released": "2016-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1300438",
+        "title": "Looking Back and Looking Ahead",
+        "season": 2017,
+        "episode": 1,
+        "released": "2017-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1300439",
+        "title": "Saluting the Champs",
+        "season": 2017,
+        "episode": 2,
+        "released": "2017-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1300440",
+        "title": "Looking Back/Looking Ahead",
+        "season": 2017,
+        "episode": 3,
+        "released": "2017-09-16",
+        "overview": "Katie Nolan sits down with soccer star and Tom Brady fan, Harry Kane. Stories from Super Bowl LI you haven't heard. Coaches wired for sound in training camp."
+      },
+      {
+        "id": "tvmaze:1302708",
+        "title": "Touchdown in Israel: Part 1",
+        "season": 2017,
+        "episode": 4,
+        "released": "2017-09-23",
+        "overview": "Katie Nolan joins 18 Pro Football Hall of Famers and Patriots owner Robert Kraft for an unforgettable trip to Israel."
+      },
+      {
+        "id": "tvmaze:1302711",
+        "title": "Touchdown in Israel: Part 2",
+        "season": 2017,
+        "episode": 5,
+        "released": "2017-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399102",
+        "title": "Quarterbaks and Collectibles",
+        "season": 2017,
+        "episode": 6,
+        "released": "2017-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399103",
+        "title": "Crazy Careers and Comedians",
+        "season": 2017,
+        "episode": 7,
+        "released": "2017-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399104",
+        "title": "Saving Starfish",
+        "season": 2017,
+        "episode": 8,
+        "released": "2017-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399105",
+        "title": "Worth the Wait",
+        "season": 2017,
+        "episode": 9,
+        "released": "2017-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399106",
+        "title": "Fun and Games",
+        "season": 2017,
+        "episode": 10,
+        "released": "2017-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399107",
+        "title": "Legendary Stories",
+        "season": 2017,
+        "episode": 11,
+        "released": "2017-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399108",
+        "title": "Jim Mora",
+        "season": 2017,
+        "episode": 12,
+        "released": "2017-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399109",
+        "title": "Back to School",
+        "season": 2017,
+        "episode": 13,
+        "released": "2017-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399110",
+        "title": "Big Red",
+        "season": 2017,
+        "episode": 14,
+        "released": "2017-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1392140",
+        "title": "Long Journeys",
+        "season": 2017,
+        "episode": 15,
+        "released": "2017-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399111",
+        "title": "For the Love of the Game",
+        "season": 2017,
+        "episode": 16,
+        "released": "2017-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399112",
+        "title": "The Circle of Life",
+        "season": 2017,
+        "episode": 17,
+        "released": "2017-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1392141",
+        "title": "Greatest Games",
+        "season": 2017,
+        "episode": 18,
+        "released": "2018-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1392142",
+        "title": "Style and Substance",
+        "season": 2017,
+        "episode": 19,
+        "released": "2018-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399113",
+        "title": "Memories",
+        "season": 2017,
+        "episode": 20,
+        "released": "2018-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399114",
+        "title": "Sounds of the Season",
+        "season": 2017,
+        "episode": 21,
+        "released": "2018-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1399115",
+        "title": "Gearing Up for the Big Game",
+        "season": 2017,
+        "episode": 22,
+        "released": "2018-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1407857",
+        "title": "Super Bowl Recap",
+        "season": 2017,
+        "episode": 23,
+        "released": "2018-02-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1524060",
+        "title": "Looking Back and Looking Ahead",
+        "season": 2018,
+        "episode": 1,
+        "released": "2018-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1529055",
+        "title": "Saluting the Champs",
+        "season": 2018,
+        "episode": 2,
+        "released": "2018-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1534763",
+        "title": "Giving and Receiving",
+        "season": 2018,
+        "episode": 3,
+        "released": "2018-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1536465",
+        "title": "Call Me Coach",
+        "season": 2018,
+        "episode": 4,
+        "released": "2018-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1539403",
+        "title": "Better Together",
+        "season": 2018,
+        "episode": 5,
+        "released": "2018-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1544617",
+        "title": "Here's the Catch",
+        "season": 2018,
+        "episode": 6,
+        "released": "2018-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1546935",
+        "title": "Promise",
+        "season": 2018,
+        "episode": 7,
+        "released": "2018-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1553213",
+        "title": "The Defensive Line",
+        "season": 2018,
+        "episode": 8,
+        "released": "2018-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1553214",
+        "title": "Surprise",
+        "season": 2018,
+        "episode": 9,
+        "released": "2018-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1565258",
+        "title": "Sweet Feet & Great Hands",
+        "season": 2018,
+        "episode": 10,
+        "released": "2018-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1565259",
+        "title": "In Their Blood",
+        "season": 2018,
+        "episode": 11,
+        "released": "2018-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1569171",
+        "title": "Question and Answers",
+        "season": 2018,
+        "episode": 12,
+        "released": "2018-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1569172",
+        "title": "Hungry for Football",
+        "season": 2018,
+        "episode": 13,
+        "released": "2018-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1574511",
+        "title": "Best Foot Forward",
+        "season": 2018,
+        "episode": 14,
+        "released": "2018-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1576591",
+        "title": "Fathers & Sons",
+        "season": 2018,
+        "episode": 15,
+        "released": "2018-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1582005",
+        "title": "Football in Italy",
+        "season": 2018,
+        "episode": 16,
+        "released": "2018-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1582006",
+        "title": "Never a Dull Moment",
+        "season": 2018,
+        "episode": 17,
+        "released": "2018-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1584461",
+        "title": "Greatest Games of 2018",
+        "season": 2019,
+        "episode": 1,
+        "released": "2019-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1585956",
+        "title": "Reflections",
+        "season": 2019,
+        "episode": 2,
+        "released": "2019-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1585957",
+        "title": "Memories",
+        "season": 2019,
+        "episode": 3,
+        "released": "2019-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1593111",
+        "title": "Sounds of the Season",
+        "season": 2019,
+        "episode": 4,
+        "released": "2019-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1600325",
+        "title": "Gearing Up for the Big Game",
+        "season": 2019,
+        "episode": 5,
+        "released": "2019-01-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1600326",
+        "title": "Super Bowl Recap",
+        "season": 2019,
+        "episode": 6,
+        "released": "2019-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1715926",
+        "title": "Saluting the Champs",
+        "season": 2019,
+        "episode": 7,
+        "released": "2019-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1715927",
+        "title": "Back in Time",
+        "season": 2019,
+        "episode": 8,
+        "released": "2019-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1721958",
+        "title": "Secret Weapons",
+        "season": 2019,
+        "episode": 9,
+        "released": "2019-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1721959",
+        "title": "The Running Game",
+        "season": 2019,
+        "episode": 10,
+        "released": "2019-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1728211",
+        "title": "Here's the Catch",
+        "season": 2019,
+        "episode": 11,
+        "released": "2019-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1731298",
+        "title": "Inspiration",
+        "season": 2019,
+        "episode": 12,
+        "released": "2019-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1744059",
+        "title": "Strange But True?",
+        "season": 2019,
+        "episode": 13,
+        "released": "2019-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1750693",
+        "title": "In the Trenches",
+        "season": 2019,
+        "episode": 14,
+        "released": "2019-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1750694",
+        "title": "Crazy Legs",
+        "season": 2019,
+        "episode": 15,
+        "released": "2019-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1922691",
+        "title": "Gearing Up for the Big Game",
+        "season": 2019,
+        "episode": 22,
+        "released": "2020-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1922692",
+        "title": "Super Bowl Recap",
+        "season": 2019,
+        "episode": 23,
+        "released": "2020-02-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1931775",
+        "title": "Football Honors",
+        "season": 2020,
+        "episode": 1,
+        "released": "2020-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1931776",
+        "title": "Saluting the Champs",
+        "season": 2020,
+        "episode": 2,
+        "released": "2020-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1941316",
+        "title": "Happy 100th Birthday",
+        "season": 2020,
+        "episode": 3,
+        "released": "2020-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1941317",
+        "title": "Heroes & Hustle",
+        "season": 2020,
+        "episode": 4,
+        "released": "2020-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1949124",
+        "title": "Getting Started",
+        "season": 2020,
+        "episode": 5,
+        "released": "2020-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1949125",
+        "title": "Consistency and Chaos",
+        "season": 2020,
+        "episode": 6,
+        "released": "2020-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1949126",
+        "title": "Football Lifers",
+        "season": 2020,
+        "episode": 7,
+        "released": "2020-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1954632",
+        "title": "The Defense Never Rests",
+        "season": 2020,
+        "episode": 8,
+        "released": "2020-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972061",
+        "title": "Big Night at Big Charlie's",
+        "season": 2020,
+        "episode": 9,
+        "released": "2020-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972062",
+        "title": "Transformation",
+        "season": 2020,
+        "episode": 10,
+        "released": "2020-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1972063",
+        "title": "Skilled & Smart",
+        "season": 2020,
+        "episode": 11,
+        "released": "2020-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1976869",
+        "title": "My First Favorite Player",
+        "season": 2020,
+        "episode": 12,
+        "released": "2020-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1976871",
+        "title": "Sights and Sounds of Success",
+        "season": 2020,
+        "episode": 13,
+        "released": "2020-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1976870",
+        "title": "Then and Now",
+        "season": 2020,
+        "episode": 14,
+        "released": "2020-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1984185",
+        "title": "Intensity",
+        "season": 2020,
+        "episode": 15,
+        "released": "2020-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1999626",
+        "title": "The Camden Comeback",
+        "season": 2020,
+        "episode": 16,
+        "released": "2020-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1999627",
+        "title": "Fun and Games",
+        "season": 2020,
+        "episode": 17,
+        "released": "2020-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1999628",
+        "title": "Greatest Games of 2020 & Great Memories",
+        "season": 2020,
+        "episode": 18,
+        "released": "2021-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2005460",
+        "title": "Men Who Made the Season",
+        "season": 2020,
+        "episode": 19,
+        "released": "2021-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2063902",
+        "title": "First & Favorites",
+        "season": 2020,
+        "episode": 20,
+        "released": "2021-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2063903",
+        "title": "Sights and Sounds of the Season",
+        "season": 2020,
+        "episode": 21,
+        "released": "2021-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2063904",
+        "title": "Gearing Up for the Big Game",
+        "season": 2020,
+        "episode": 22,
+        "released": "2021-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2063905",
+        "title": "Super Bowl Recap",
+        "season": 2020,
+        "episode": 23,
+        "released": "2021-02-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2189728",
+        "title": "Looking Back and Looking Ahead",
+        "season": 2021,
+        "episode": 1,
+        "released": "2021-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2189729",
+        "title": "Saluting the Champs",
+        "season": 2021,
+        "episode": 2,
+        "released": "2021-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2189730",
+        "title": "Letter Perfect",
+        "season": 2021,
+        "episode": 3,
+        "released": "2021-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2189731",
+        "title": "So Sweet",
+        "season": 2021,
+        "episode": 4,
+        "released": "2021-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2189732",
+        "title": "A Runner's World",
+        "season": 2021,
+        "episode": 5,
+        "released": "2021-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2189733",
+        "title": "They're Back",
+        "season": 2021,
+        "episode": 6,
+        "released": "2021-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2219124",
+        "title": "Kicking and Rapping",
+        "season": 2021,
+        "episode": 7,
+        "released": "2021-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2219125",
+        "title": "A Way With Words",
+        "season": 2021,
+        "episode": 8,
+        "released": "2021-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2219126",
+        "title": "Winning Rhythm",
+        "season": 2021,
+        "episode": 9,
+        "released": "2021-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2219127",
+        "title": "Back to School",
+        "season": 2021,
+        "episode": 10,
+        "released": "2021-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2261967",
+        "title": "Let's Go Buffalo",
+        "season": 2021,
+        "episode": 11,
+        "released": "2021-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2219128",
+        "title": "Relationships",
+        "season": 2021,
+        "episode": 12,
+        "released": "2021-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2261959",
+        "title": "Honor",
+        "season": 2021,
+        "episode": 13,
+        "released": "2021-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2261960",
+        "title": "Loyalty to the Game",
+        "season": 2021,
+        "episode": 14,
+        "released": "2021-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2261961",
+        "title": "Unique and Inspiring",
+        "season": 2021,
+        "episode": 15,
+        "released": "2021-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2261962",
+        "title": "Voices of the Game",
+        "season": 2021,
+        "episode": 16,
+        "released": "2021-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2261963",
+        "title": "Long-Snappers and Holders",
+        "season": 2021,
+        "episode": 17,
+        "released": "2022-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2261964",
+        "title": "Remembering Fallen Heroes",
+        "season": 2021,
+        "episode": 18,
+        "released": "2022-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2261965",
+        "title": "A Raider, a Seagull & a Goalpost",
+        "season": 2021,
+        "episode": 19,
+        "released": "2022-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2261966",
+        "title": "Greatest Games",
+        "season": 2021,
+        "episode": 20,
+        "released": "2022-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2387400",
+        "title": "Sights and Sounds of the Season",
+        "season": 2021,
+        "episode": 21,
+        "released": "2022-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2387399",
+        "title": "Memories",
+        "season": 2021,
+        "episode": 22,
+        "released": "2022-02-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2387401",
+        "title": "Super Bowl Recap",
+        "season": 2021,
+        "episode": 23,
+        "released": "2022-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2395064",
+        "title": "Looking Back, Looking Ahead",
+        "season": 2022,
+        "episode": 1,
+        "released": "2022-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2403463",
+        "title": "Saluting The Champs",
+        "season": 2022,
+        "episode": 2,
+        "released": "2022-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2403464",
+        "title": "Paths to Success",
+        "season": 2022,
+        "episode": 3,
+        "released": "2022-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2403465",
+        "title": "Versatility",
+        "season": 2022,
+        "episode": 4,
+        "released": "2022-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2416568",
+        "title": "Keep Running",
+        "season": 2022,
+        "episode": 5,
+        "released": "2022-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2416569",
+        "title": "Toughness",
+        "season": 2022,
+        "episode": 6,
+        "released": "2022-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2425850",
+        "title": "Young & Fun",
+        "season": 2022,
+        "episode": 7,
+        "released": "2022-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2425851",
+        "title": "All in the Family",
+        "season": 2022,
+        "episode": 8,
+        "released": "2022-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2429033",
+        "title": "Persistence",
+        "season": 2022,
+        "episode": 9,
+        "released": "2022-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2434478",
+        "title": "Fun & Games",
+        "season": 2022,
+        "episode": 10,
+        "released": "2022-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2434479",
+        "title": "Phish Stories or the Real Deal",
+        "season": 2022,
+        "episode": 11,
+        "released": "2022-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2444978",
+        "title": "Ray Didinger",
+        "season": 2022,
+        "episode": 12,
+        "released": "2022-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2444979",
+        "title": "Livin' On the Edge",
+        "season": 2022,
+        "episode": 13,
+        "released": "2022-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2447682",
+        "title": "Committed to the Game",
+        "season": 2022,
+        "episode": 14,
+        "released": "2022-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2456270",
+        "title": "Football, Basketball & Back to School",
+        "season": 2022,
+        "episode": 15,
+        "released": "2022-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2456271",
+        "title": "'Tis the Season",
+        "season": 2022,
+        "episode": 16,
+        "released": "2022-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2462141",
+        "title": "Coaching With Emotion",
+        "season": 2022,
+        "episode": 17,
+        "released": "2023-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2473471",
+        "title": "Ricky Watters",
+        "season": 2022,
+        "episode": 18,
+        "released": "2023-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2473472",
+        "title": "Talking Football",
+        "season": 2022,
+        "episode": 19,
+        "released": "2023-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2478282",
+        "title": "Greatest Games of 2022 and the Greatest Play Ever",
+        "season": 2022,
+        "episode": 20,
+        "released": "2023-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2481582",
+        "title": "Sights and Sounds of the Season",
+        "season": 2022,
+        "episode": 21,
+        "released": "2023-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2489526",
+        "title": "Memories",
+        "season": 2022,
+        "episode": 22,
+        "released": "2023-02-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2494826",
+        "title": "Super Bowl Recap",
+        "season": 2022,
+        "episode": 23,
+        "released": "2023-02-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2640088",
+        "title": "Looking Back, Looking Ahead",
+        "season": 2023,
+        "episode": 1,
+        "released": "2023-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2640089",
+        "title": "Saluting the Champs",
+        "season": 2023,
+        "episode": 2,
+        "released": "2023-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2645428",
+        "title": "Hit Parade",
+        "season": 2023,
+        "episode": 3,
+        "released": "2023-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2652897",
+        "title": "Bringing the Noise",
+        "season": 2023,
+        "episode": 4,
+        "released": "2023-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2652898",
+        "title": "Precision & Timing",
+        "season": 2023,
+        "episode": 5,
+        "released": "2023-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2667098",
+        "title": "Bulldogs",
+        "season": 2023,
+        "episode": 6,
+        "released": "2023-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2667099",
+        "title": "It's About Time",
+        "season": 2023,
+        "episode": 7,
+        "released": "2023-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2679190",
+        "title": "Good Guys & GOATS",
+        "season": 2023,
+        "episode": 8,
+        "released": "2023-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2692000",
+        "title": "Too Much Fun",
+        "season": 2023,
+        "episode": 9,
+        "released": "2023-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2692001",
+        "title": "Picture Perfect",
+        "season": 2023,
+        "episode": 10,
+        "released": "2023-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2692002",
+        "title": "Warrick Dunn",
+        "season": 2023,
+        "episode": 11,
+        "released": "2023-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2692003",
+        "title": "Curious & Competitive",
+        "season": 2023,
+        "episode": 12,
+        "released": "2023-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2705174",
+        "title": "Unusual Paths",
+        "season": 2023,
+        "episode": 13,
+        "released": "2023-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2712880",
+        "title": "Second Acts",
+        "season": 2023,
+        "episode": 14,
+        "released": "2023-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2712881",
+        "title": "Jerome Bettis—Super Senior",
+        "season": 2023,
+        "episode": 15,
+        "released": "2023-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2717902",
+        "title": "Strong & Smart",
+        "season": 2023,
+        "episode": 16,
+        "released": "2023-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2728743",
+        "title": "Lahainaluna High School",
+        "season": 2023,
+        "episode": 17,
+        "released": "2023-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2728744",
+        "title": "Highlights for Highbrows 2.0",
+        "season": 2023,
+        "episode": 18,
+        "released": "2024-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2736364",
+        "title": "Football Potpourri",
+        "season": 2023,
+        "episode": 19,
+        "released": "2024-01-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2748513",
+        "title": "Greatest Games",
+        "season": 2023,
+        "episode": 20,
+        "released": "2024-01-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2759297",
+        "title": "Sights and Sounds of the Season",
+        "season": 2023,
+        "episode": 21,
+        "released": "2024-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2765492",
+        "title": "Memories",
+        "season": 2023,
+        "episode": 22,
+        "released": "2024-02-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2765493",
+        "title": "Super Bowl Recap",
+        "season": 2023,
+        "episode": 23,
+        "released": "2024-02-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3007052",
+        "title": "Looking Back, Looking Ahead",
+        "season": 2024,
+        "episode": 1,
+        "released": "2024-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3007053",
+        "title": "Saluting The Champs",
+        "season": 2024,
+        "episode": 2,
+        "released": "2024-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3007054",
+        "title": "The Beauty of Football",
+        "season": 2024,
+        "episode": 3,
+        "released": "2024-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3007055",
+        "title": "San Francisco Quarterback Roundtable",
+        "season": 2024,
+        "episode": 4,
+        "released": "2024-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3013826",
+        "title": "Underdogs",
+        "season": 2024,
+        "episode": 5,
+        "released": "2024-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3030482",
+        "title": "Pound The Rock",
+        "season": 2024,
+        "episode": 6,
+        "released": "2024-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3030483",
+        "title": "Renaissance",
+        "season": 2024,
+        "episode": 7,
+        "released": "2024-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3035280",
+        "title": "Nice to Meet You",
+        "season": 2024,
+        "episode": 8,
+        "released": "2024-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3041697",
+        "title": "In the Trenches",
+        "season": 2024,
+        "episode": 9,
+        "released": "2024-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3053860",
+        "title": "Pioneers",
+        "season": 2024,
+        "episode": 10,
+        "released": "2024-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3053861",
+        "title": "Crossing That Line",
+        "season": 2024,
+        "episode": 11,
+        "released": "2024-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3081317",
+        "title": "Hiding in Plain Sight",
+        "season": 2024,
+        "episode": 12,
+        "released": "2024-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3081318",
+        "title": "What Are the Odds",
+        "season": 2024,
+        "episode": 13,
+        "released": "2024-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3081319",
+        "title": "Leap of Faith",
+        "season": 2024,
+        "episode": 14,
+        "released": "2024-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3081320",
+        "title": "The Ultimate Comeback",
+        "season": 2024,
+        "episode": 15,
+        "released": "2024-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3085955",
+        "title": "For Love of the Game",
+        "season": 2024,
+        "episode": 16,
+        "released": "2024-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3094833",
+        "title": "The Game of Chess",
+        "season": 2024,
+        "episode": 17,
+        "released": "2025-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3104876",
+        "title": "In Search of the Perfect Throwing Motion",
+        "season": 2024,
+        "episode": 18,
+        "released": "2025-01-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3115719",
+        "title": "8 Man in Marin County",
+        "season": 2024,
+        "episode": 19,
+        "released": "2025-01-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3122975",
+        "title": "A Season with Calais Campbell",
+        "season": 2024,
+        "episode": 20,
+        "released": "2025-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3135824",
+        "title": "Memories",
+        "season": 2024,
+        "episode": 21,
+        "released": "2025-01-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3135825",
+        "title": "Sounds of the Season",
+        "season": 2024,
+        "episode": 22,
+        "released": "2025-02-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3135826",
+        "title": "Super Bowl Recap",
+        "season": 2024,
+        "episode": 23,
+        "released": "2025-02-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378799",
+        "title": "Looking Back & Looking Ahead",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378800",
+        "title": "Staying Power",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378801",
+        "title": "Hidden Gems",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378802",
+        "title": "Passion",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378803",
+        "title": "Kittles in Cabo",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378804",
+        "title": "In Charge",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3406703",
+        "title": "Bernie",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438569",
+        "title": "Backer Beauty",
+        "season": 2025,
+        "episode": 8,
+        "released": "2025-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438570",
+        "title": "Love of the Game",
+        "season": 2025,
+        "episode": 9,
+        "released": "2025-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3438571",
+        "title": "Football on the Emerald Isle",
+        "season": 2025,
+        "episode": 10,
+        "released": "2025-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450515",
+        "title": "The Arctic Challenge",
+        "season": 2025,
+        "episode": 11,
+        "released": "2025-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450516",
+        "title": "Focused",
+        "season": 2025,
+        "episode": 12,
+        "released": "2025-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3455531",
+        "title": "Jason Garrett's QB Quest Part 1",
+        "season": 2025,
+        "episode": 13,
+        "released": "2025-12-03",
+        "overview": ""
+      }
+    ]
+  }
+}

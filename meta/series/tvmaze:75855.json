@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:75855",
+    "type": "series",
+    "name": "Jesse Watters Primetime",
+    "description": "Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/511/1279741.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/511/1279741.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3458399",
+        "title": "Episode 246",
+        "season": 2025,
+        "episode": 246,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

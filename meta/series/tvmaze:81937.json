@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:81937",
+    "type": "series",
+    "name": "The Weekend View",
+    "description": "The Weekend View will focus on the biggest stories in entertainment and the buzziest news topping social media feeds. With all-new \"Hot Topics,\" the co-hosts will give their one-of-a-kind takes with their signature candor and humor. Plus, \"The Weekend View\" will include \"Behind the Table\" segments with executive producer Brian Teta and the co-hosts as they dive deeper into pop-culture stories from the week.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/552/1380204.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/552/1380204.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3463120",
+        "title": "Dec 6, 2025",
+        "season": 1,
+        "episode": 40,
+        "released": "2025-12-06",
+        "overview": "Schumer On Weight Loss Rumors - Kathryn Hahn Gets Real About Marriage - Dobrev's Post Break-up \"Revenge Yacht\" Trip - Kourtney K. Won't Parent Like Mom Kris - Can Gossip Set You Free from Friend Drama? - Behind the Table: Who are the Loves of Your Life?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1372 @@
+{
+  "meta": {
+    "id": "tvmaze:42175",
+    "type": "series",
+    "name": "90 Day Fiancé: The Other Way",
+    "description": "90 Day Fiancé: The Other Way will follow couples where the American is giving up everything and moving across the globe to be with the person they love. Racing against a ticking clock, these six Americans face the challenges of relocating internationally, overcoming major culture shocks, winning over soon-to-be foreign in-laws, and most importantly, trying to make it down the aisle. Will uprooting their lives in the United States pay off or be the biggest mistake ever?",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/589/1473324.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/589/1473324.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449239",
+        "title": "Gutted",
+        "season": 7,
+        "episode": 14,
+        "released": "2025-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1655750",
+        "title": "All in the Name of Love",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-06-03",
+        "overview": "Four Americans who have found love abroad brace to leave home permanently. Corey must follow his love to Ecuador, single mom, Tiffany, takes her son to South Africa, grandmother, Jenny, prepares to be with her soulmate in India and Paul is Brazil bound."
+      },
+      {
+        "id": "tvmaze:1664888",
+        "title": "Embargos and Ultimatums",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-06-03",
+        "overview": "Evelin gives Corey a life-changing ultimatum. Tiffany comes clean to her family about Ronald's dark past. Paul learns that he can't bring Karine to the States. Jenny's friends think moving to India is the worst decision of her life."
+      },
+      {
+        "id": "tvmaze:1664893",
+        "title": "It's Go Time",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-06-10",
+        "overview": "Corey breaks the news to his parents that he's moving to Ecuador; Laura is leaving her son behind to move to Qatar; Karine is disappointed in Paul; Sumit faces his parents as Jenny flies to India."
+      },
+      {
+        "id": "tvmaze:1666992",
+        "title": "Big Expectations",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-06-17",
+        "overview": "Jenny arrives in India but does Sumit have cold feet? Paul finally arrives in Brazil and surprises Karine. Laura drops a bomb on her brother, revealing some big news. Tiffany is off to South Africa, hoping she's made the right decision for her son."
+      },
+      {
+        "id": "tvmaze:1668473",
+        "title": "No Looking Back",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-06-24",
+        "overview": "Corey begins to second guess his life-changing move to Ecuador. Sumit wants to transform Jenny into a traditional Indian woman. Tiffany and Daniel pick up Ronald from rehab, while Jihoon hopes he can get his parents to change their mind about Deavan."
+      },
+      {
+        "id": "tvmaze:1674976",
+        "title": "Another World",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-07-01",
+        "overview": "Corey's arrival in Ecuador is not as he expected; Deavan is off to a rocky start with Jihoon's parents; Laura takes drastic measures to improve her sex life with Aladin; and Paul receives upsetting news regarding his permanent residency in Brazil."
+      },
+      {
+        "id": "tvmaze:1677225",
+        "title": "Broken Promises",
+        "season": 1,
+        "episode": 7,
+        "released": "2019-07-08",
+        "overview": "Ronald puts Tiffany's trust to the test. Sumit has been keeping a secret from Jenny. Facing deportation, Paul seeks legal advice. Laura has second thoughts about leaving her son behind. Deavan fails to impress Jihoon's parents."
+      },
+      {
+        "id": "tvmaze:1677226",
+        "title": "Chickening Out",
+        "season": 1,
+        "episode": 8,
+        "released": "2019-07-15",
+        "overview": "Laura finally arrives in Qatar. Tiffany confronts Ronald about his bachelor party. Deavan takes Jihoon's parents out on the town. Corey attempts to win over Evelin's family with some magic tricks. Jenny and Sumit receive crushing news."
+      },
+      {
+        "id": "tvmaze:1682814",
+        "title": "Ripped Apart",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-07-22",
+        "overview": "As the wedding approaches, Tiffany's son Daniel expresses doubts about South Africa; Sumit is summoned home by his parents; Paul and Karine embark on a daunting journey up the Amazon; Jihoon's proposal backfires; and Evelin is over Corey's attitude."
+      },
+      {
+        "id": "tvmaze:1682899",
+        "title": "Rolling the Dice",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-07-29",
+        "overview": "Ronald has to confront his demons. Laura's new sex toy offends Aladin. Corey and Evelin have a very different vision for their future. Paul faces Karine's parents with upsetting news, while Sumit leaves Jenny to go home to his parents."
+      },
+      {
+        "id": "tvmaze:1686938",
+        "title": "Blind Trust",
+        "season": 1,
+        "episode": 11,
+        "released": "2019-08-05",
+        "overview": "Tiffany's big day has arrived but Ronald's sobriety is on her mind. Deavan breaks unfortunate news to Jihoon. Laura is seeing another side of Aladin. Paul discovers that Karine is talking to another man. Corey is forced to face his past with Evelin."
+      },
+      {
+        "id": "tvmaze:1690200",
+        "title": "Baby, Come Back",
+        "season": 1,
+        "episode": 12,
+        "released": "2019-08-12",
+        "overview": "Jenny goes out at night without Sumit. Deavan doubts Jihoon is responsible enough to support their family. Tiffany &amp; Ronald go apartment shopping and worry about safety. Karine is concerned that Paul can't financially take care of her and the baby."
+      },
+      {
+        "id": "tvmaze:1695594",
+        "title": "Breaking Point",
+        "season": 1,
+        "episode": 13,
+        "released": "2019-08-19",
+        "overview": "After Sumit returns home to Jenny they get a huge surprise. Karine has reached her breaking point. Corey discovers even more about Evelin's past. Deavan questions if Jihoon can support their family, while Laura is feeling homesick in Qatar."
+      },
+      {
+        "id": "tvmaze:1696183",
+        "title": "The Great Unknown",
+        "season": 1,
+        "episode": 14,
+        "released": "2019-08-26",
+        "overview": "Tiffany and Ronald surprise everyone with big news. Laura pleads with her son to come to her wedding. Deavan leaves for South Korea, but worries Jihoon isn't prepared. Corey asks Evelin to cut off her ex, while Karine and her mom leave Paul behind."
+      },
+      {
+        "id": "tvmaze:1705731",
+        "title": "Walking a Tight Rope",
+        "season": 1,
+        "episode": 15,
+        "released": "2019-09-02",
+        "overview": "Deavan's arrival in South Korea is not as she expected. Ronald's gambling causes issues with Tiffany. Paul tries to get back in Karine's good graces before she goes into labor. Corey's receives shocking news. Jenny's daughter confronts Sumit."
+      },
+      {
+        "id": "tvmaze:1705732",
+        "title": "Fool's Gold",
+        "season": 1,
+        "episode": 16,
+        "released": "2019-09-09",
+        "overview": "Jihoon reveals a huge secret about his past to Deavan. Jenny and Sumit's relationship reaches a boiling point. Paul and Karine become parents. Tensions build when Laura's son arrives in Tunisia and meets Aladin."
+      },
+      {
+        "id": "tvmaze:1710156",
+        "title": "Shattered Dreams",
+        "season": 1,
+        "episode": 17,
+        "released": "2019-09-16",
+        "overview": "Jenny is devastated when she hears shocking news about Sumit. Laura is torn between Liam and Aladin. Corey is conflicted about returning to Evelin in Ecuador. Paul's mother arrives in Brazil. Tiffany is traumatized about giving birth in South Africa."
+      },
+      {
+        "id": "tvmaze:1715566",
+        "title": "Torn",
+        "season": 1,
+        "episode": 18,
+        "released": "2019-09-23",
+        "overview": "Sumit reveals his truth. Deavan discovers more troubling information about Jihoon's past. Corey returns to Ecuador with less than a month on his visa to convince Evelin to wed. Liam gives Aladin an ultimatum."
+      },
+      {
+        "id": "tvmaze:1719666",
+        "title": "Falling Apart",
+        "season": 1,
+        "episode": 19,
+        "released": "2019-09-30",
+        "overview": "Jenny and Sumit face each for the first time since she found out he's married. The issues between Laura, her son, and Aladin come to a head. Paul's Mom gives him a wake-up call. Tiffany makes a difficult decision for her family."
+      },
+      {
+        "id": "tvmaze:1722713",
+        "title": "Never Let Me Go",
+        "season": 1,
+        "episode": 20,
+        "released": "2019-10-07",
+        "overview": "A distraught Jenny no longer feels at home in India. Deavan struggles during her traditional Korean wedding ceremony. Evelin must decide if she wants to marry Corey. Tiffany worries about Ronald's recovery when she and Daniel leave South Africa."
+      },
+      {
+        "id": "tvmaze:1730265",
+        "title": "Tell All: Part 1",
+        "season": 1,
+        "episode": 21,
+        "released": "2019-10-14",
+        "overview": "In Part 1 of 90 Day Fiance: The Other Way the Couples Tell All, we take a deep dive into the details of their most intense moments this season and get surprising updates on where things stand now."
+      },
+      {
+        "id": "tvmaze:1730266",
+        "title": "Tell All: Part 2",
+        "season": 1,
+        "episode": 22,
+        "released": "2019-10-21",
+        "overview": "In the second part of this exciting Tell All, host Shaun Robinson dives back in with the couples and continues to uncover surprising updates on where their relationships stand now."
+      },
+      {
+        "id": "tvmaze:1851861",
+        "title": "Home Is Where the Heart Is",
+        "season": 2,
+        "episode": 1,
+        "released": "2020-06-08",
+        "overview": "Brittany breaks the news to her father she's moving to Jordan. Jenny tells her daughters she's returning to India for the third time. Kenny sells his house to be with his love in Mexico. Ariela's move to Ethiopia is complicated in more ways than one."
+      },
+      {
+        "id": "tvmaze:1888528",
+        "title": "The Truth Will Set You Free",
+        "season": 2,
+        "episode": 2,
+        "released": "2020-06-08",
+        "overview": "Brittany learns Yazan's family wants them married immediately, but she's hiding a big secret. Sumit's friends are concerned about Jenny's return. Ari's doctor is worried about her giving birth in Ethiopia. Armando has to come clean to his family."
+      },
+      {
+        "id": "tvmaze:1878818",
+        "title": "Heart My Broken",
+        "season": 2,
+        "episode": 3,
+        "released": "2020-06-15",
+        "overview": "Deavan has serious doubts before moving back to South Korea. Kenny has an emotional family dinner. Ari's family confronts her about Biniyam's motives. Jenny takes a leap of faith to be with Sumit. Brittany is Jordan-bound with a shocking secret."
+      },
+      {
+        "id": "tvmaze:1881237",
+        "title": "My Life in 7 Suitcases",
+        "season": 2,
+        "episode": 4,
+        "released": "2020-06-22",
+        "overview": "Ari leaves her life behind to be with Biniyam in Ethiopia, but her mom has standards. Jenny is shocked when she arrives at her new home in India. Chaos erupts when Brittany arrives in Jordan. Jihoon reveals he is keeping another secret from Deavan."
+      },
+      {
+        "id": "tvmaze:1888529",
+        "title": "Wing and a Prayer",
+        "season": 2,
+        "episode": 5,
+        "released": "2020-06-29",
+        "overview": "Brittany already has doubts about her decision. Biniyam's friends are worried he's made the same mistake twice. Deavan and Jihoon's new apartment is not what they expected. Tim reveals the real reason he's moving to Colombia."
+      },
+      {
+        "id": "tvmaze:1893843",
+        "title": "Don't Grumpy Stop",
+        "season": 2,
+        "episode": 6,
+        "released": "2020-07-06",
+        "overview": "Deavan is upset by Jihoon's lack of preparation. Tim packs up his house, hoping this move will save his relationship. Ari arrives in Ethiopia and is shocked over her new apartment. Jenny puts pressure on Sumit."
+      },
+      {
+        "id": "tvmaze:1898460",
+        "title": "I'm Not Your Baby",
+        "season": 2,
+        "episode": 7,
+        "released": "2020-07-13",
+        "overview": "Bini's apartment options shock Ari and her mom. Armando prepares for Kenny's arrival. Jenny is out of patience with Sumit's excuses on his divorce papers. Deavan is done with Jihoon's lies. Brittany's visit with Yazan's parents doesn't go as planned."
+      },
+      {
+        "id": "tvmaze:1901629",
+        "title": "Rude Awakening",
+        "season": 2,
+        "episode": 8,
+        "released": "2020-07-20",
+        "overview": "Brittany feels alone after clashing with Yazan's parents. Kenny &amp; Armando are finally reunited. Jenny meets Sumit's lawyer and learns the truth about his divorce. Tim moves to Colombia to win back Melyza. Distraught, Jihoon turns to his mom for help."
+      },
+      {
+        "id": "tvmaze:1904781",
+        "title": "Crossing the Line",
+        "season": 2,
+        "episode": 9,
+        "released": "2020-07-27",
+        "overview": "Tim gets the welcome from Melyza that he feared. Ari's mom goes on the offensive. Brittany and Yazan turn to an ally for help. Kenny and Armando's first trip into town together worries them both. Tired of Jihoon's lies, Deavan presses for the truth."
+      },
+      {
+        "id": "tvmaze:1906375",
+        "title": "Forgiven, Not Forgotten",
+        "season": 2,
+        "episode": 10,
+        "released": "2020-08-03",
+        "overview": "Bini's family grills Ari about her commitment to staying in Ethiopia. Deavan gives Jihoon a shocking ultimatum. Tim seeks forgiveness from Melyza's mom. Running out of options, Sumit reaches out to his brother."
+      },
+      {
+        "id": "tvmaze:1910294",
+        "title": "Fight, Pray, Love",
+        "season": 2,
+        "episode": 11,
+        "released": "2020-08-10",
+        "overview": "Kenny wants Armando to answer an important question. Tim braces for a sit-down with Melyza's father. Brittany is shocked when Yazan gives her an ultimatum, and joy turns into terrifying chaos as Deavan and Jihoon move into their new apartment."
+      },
+      {
+        "id": "tvmaze:1912421",
+        "title": "The Parent Trap",
+        "season": 2,
+        "episode": 12,
+        "released": "2020-08-17",
+        "overview": "Deavan's mom unleashes her fury. Sumit tells Jenny his parents are ready to meet. Kenny pressures Armando to announce their engagement to his family. Ari and Bini clash over religion. Brittany is scared to face Yazan's parents again."
+      },
+      {
+        "id": "tvmaze:1914037",
+        "title": "Sticks and Stones",
+        "season": 2,
+        "episode": 13,
+        "released": "2020-08-24",
+        "overview": "Armando's first attempt at PDA ends badly. Ari questions living in Ethiopia after her mom leaves. Deavan attempts to improve her relationship with Jihoon's mom. Tim has a troubling job interview. Brittany and Yazan clash over her social media."
+      },
+      {
+        "id": "tvmaze:1918561",
+        "title": "The Truth Hurts",
+        "season": 2,
+        "episode": 14,
+        "released": "2020-08-31",
+        "overview": "Ari hits her breaking point. Elicia doesn't want to leave Korea without Deavan. Armando prepares for Kenny and his family to meet. Brittany continues to lie to Yazan. Tim drops a bomb on Melyza. Sumit goes to confront his parents about Jenny."
+      },
+      {
+        "id": "tvmaze:1924699",
+        "title": "Ready or Not",
+        "season": 2,
+        "episode": 15,
+        "released": "2020-10-11",
+        "overview": "Sumit pleads with his parents to accept Jenny. Brittany arrives in Chicago hoping to finalize her divorce. Melyza reveals her secret. Armando is reluctant to tell his family about his engagement. Ari and Bini are shaken by unexpected news."
+      },
+      {
+        "id": "tvmaze:1944942",
+        "title": "The Consequences of Truth",
+        "season": 2,
+        "episode": 16,
+        "released": "2020-10-18",
+        "overview": "Ari struggles with the news about her pregnancy. Deavan and Jihoon make a big move. Yazan starts to question his relationship with Brittany. Melyza reveals her secret to Tim. Armando's family reacts to his engagement to Kenny."
+      },
+      {
+        "id": "tvmaze:1949012",
+        "title": "Bris-fully Ignorant",
+        "season": 2,
+        "episode": 17,
+        "released": "2020-10-25",
+        "overview": "Ari makes a dramatic choice about her son's future. Deavan has suspicions about Jihoon's job. Kenny and Armando disagree on parenting style. Sumit faces criminal charges in court, and Brittany finally gets news about her divorce."
+      },
+      {
+        "id": "tvmaze:1953166",
+        "title": "Are You Done Yelling?",
+        "season": 2,
+        "episode": 18,
+        "released": "2020-11-01",
+        "overview": "Yazan begs for his brother's help. Sumit finally goes to court for his divorce. Kenny and Armando apply for a marriage license. Parenting decisions set Ari and Bini at odds. Deavan finds questionable photos on Jihoon's phone. Tim's mom comes for a visit."
+      },
+      {
+        "id": "tvmaze:1958178",
+        "title": "Fight or Flight?",
+        "season": 2,
+        "episode": 19,
+        "released": "2020-11-08",
+        "overview": "Brittany's return to Jordan doesn't go as planned, while Jenny and Sumit are sure nothing can stop them now. Tim's mom's arrival stirs up tensions. Bini's long work hours make Ari suspicious. Deavan and Jihoon face a tragedy and form a new family bond."
+      },
+      {
+        "id": "tvmaze:1965244",
+        "title": "Not on My Watch",
+        "season": 2,
+        "episode": 20,
+        "released": "2020-11-15",
+        "overview": "Jihoon dreads the return of Deavan's mom. Kenny and Armando fight for their right to marry. Jenny worries Sumit is getting cold feet. Ari's parents question her choices. Brittany and Yazan finally reunite. Tim gets advice on a big decision."
+      },
+      {
+        "id": "tvmaze:1969136",
+        "title": "The Cost of Love",
+        "season": 2,
+        "episode": 21,
+        "released": "2020-11-22",
+        "overview": "Brittany learns the truth about Yazan. Tim makes a fateful decision. Ari is unprepared for her son's baptism, and Deavan worries her mother will never approve of Jihoon. Jenny and Sumit finally sit down together with his parents."
+      },
+      {
+        "id": "tvmaze:1971355",
+        "title": "Never Stop Fighting",
+        "season": 2,
+        "episode": 22,
+        "released": "2020-11-29",
+        "overview": "Sumit is backed into a corner. Kenny and Armando receive some surprising news. Ari's life takes an unexpected turn. Deavan's wedding day doesn't go how she imagined it would. Brittany makes a dramatic choice for love."
+      },
+      {
+        "id": "tvmaze:2137164",
+        "title": "Love Makes You Crazy",
+        "season": 3,
+        "episode": 1,
+        "released": "2021-08-29",
+        "overview": "Ellie is selling it all to start a new life with Victor in Providencia. Corey is hiding a big secret from Evelin. Sumit takes Jenny to an astrologer for guidance. Ari invites an unwelcome guest. Steven is scared to tell Alina the truth about his past."
+      },
+      {
+        "id": "tvmaze:2154567",
+        "title": "Testing Trust",
+        "season": 3,
+        "episode": 2,
+        "released": "2021-09-05",
+        "overview": "Ellie has surprising news to tell her friends. Ari's ex-husband makes a big impression. Steven quits his job, while Alina prepares for her move. Kenny and Armando finally start planning their wedding. Jenny has only one option left to stay in India."
+      },
+      {
+        "id": "tvmaze:2163729",
+        "title": "Fight for Love",
+        "season": 3,
+        "episode": 3,
+        "released": "2021-09-12",
+        "overview": "Ellie heads to Colombia without a plan. Jenny hopes to get answers with the Hare Krishnas. Kenny has been keeping a secret. Bini confronts Ari's ex-husband. Evelin drops a bomb on her sisters. Alina decides to test Steven's faithfulness."
+      },
+      {
+        "id": "tvmaze:2164207",
+        "title": "From Soup to Nuts",
+        "season": 3,
+        "episode": 4,
+        "released": "2021-09-19",
+        "overview": "Corey faces the wrath of Evelin's sisters. Alina and Steven's reunion is less than ideal. Ellie gets an unexpected call. Armando is on a mission to tell his family big news. Ari learns Bini's sisters still don't trust her. Jenny demands Sumit take action."
+      },
+      {
+        "id": "tvmaze:2170184",
+        "title": "Facing Fears",
+        "season": 3,
+        "episode": 5,
+        "released": "2021-09-26",
+        "overview": "Armando reckons with disappointment. Ellie is heartbroken to see her new home devastated. Steven gets cold feet about pushing up the wedding. Corey confesses multiple secrets. Bini takes Ari to a holy site. Sumit reveals to his family that he's engaged."
+      },
+      {
+        "id": "tvmaze:2180826",
+        "title": "Proceed With Caution",
+        "season": 3,
+        "episode": 6,
+        "released": "2021-10-03",
+        "overview": "Ellie agrees to stay and help Victor rebuild their home. Steven reveals the truth about his dating history. Ari and Bini receive troubling news. Jenny and Sumit seek outside help to deal with his parents. Kenny and Armando say goodbye to Armando's family."
+      },
+      {
+        "id": "tvmaze:2180827",
+        "title": "The Other Women",
+        "season": 3,
+        "episode": 7,
+        "released": "2021-10-10",
+        "overview": "Sumit's mom makes a suggestion that Jenny didn't see coming. Alina rethinks everything after Steven's confession. Corey finally comes clean to Evelin about his relationship with Jenny. Kenny and Armando receive exciting news. Ari and Avi leave for the US."
+      },
+      {
+        "id": "tvmaze:2180828",
+        "title": "Selective Virtues",
+        "season": 3,
+        "episode": 8,
+        "released": "2021-10-17",
+        "overview": "Alina's mom wants Alina to come back to Russia. Kenny is taken aback by Armando's request. Sumit's parents move in. Ari questions her choice to come back to the US. Ellie confronts Victor about his affair. Evelin tells Corey she wants a divorce."
+      },
+      {
+        "id": "tvmaze:2180829",
+        "title": "Fish or Cut Bait",
+        "season": 3,
+        "episode": 9,
+        "released": "2021-10-24",
+        "overview": "Jenny is stunned by an admission from Sumit. Alina exposes Steven's lies. Ari starts to question Bini's commitment. Kenny struggles with homesickness and missing his kids. Corey fights for Evelin's love, but Evelin discovers more lies."
+      },
+      {
+        "id": "tvmaze:2180830",
+        "title": "Stop the Excuses",
+        "season": 3,
+        "episode": 10,
+        "released": "2021-10-31",
+        "overview": "Steven and Alina hit a breaking point. Kenny is denied his wedding wish. Tempers flare between Ellie and Victor. Sumit's parents test Jenny. Ari gives Bini a final ultimatum. Corey and Evelin work to reconcile their relationship."
+      },
+      {
+        "id": "tvmaze:2206926",
+        "title": "Written in the Stars",
+        "season": 3,
+        "episode": 11,
+        "released": "2021-11-07",
+        "overview": "Ari is unsure if Bini will join her in Kenya. Corey goes all out to win back Evelin. The family astrologer reveals Jenny and Sumit's fate. Alina worries if Steven will marry her. Armando's anxiety spikes waiting to see if his dad will show up."
+      },
+      {
+        "id": "tvmaze:2206927",
+        "title": "Cold Feet",
+        "season": 3,
+        "episode": 12,
+        "released": "2021-11-14",
+        "overview": "Janice pressures Bini for the truth. Evelin has a new idea for the wedding, and Corey is not happy. Out of excuses to not get married, Sumit reveals his real fears."
+      },
+      {
+        "id": "tvmaze:2206929",
+        "title": "Don't Overthink It",
+        "season": 3,
+        "episode": 13,
+        "released": "2021-11-21",
+        "overview": "Ari demands another sacrifice from Bini. Alina and Steven are running out of time. Victor is ready to call it quits with Ellie. Sumit confesses his betrayal to Jenny. Corey is dealt another blow to his wedding plans. Armando faces his fears."
+      },
+      {
+        "id": "tvmaze:2216881",
+        "title": "Love Is Love",
+        "season": 3,
+        "episode": 14,
+        "released": "2021-11-28",
+        "overview": "Corey worries that Evelin will stand him up at the altar; Steven surprises Alina with unexpected wedding guests; Ari and Bini are at a crossroads; Jenny and Sumit finally take a big step forward; Kenny and Armando say \"I do.\""
+      },
+      {
+        "id": "tvmaze:2221113",
+        "title": "Tell All",
+        "season": 3,
+        "episode": 15,
+        "released": "2021-12-05",
+        "overview": "From around the globe, The Other Way couples gather to revisit their highs and lows. Steven makes a startling admission, and Sumit prepares to make a confession of his own. Ari storms off stage. Kenny's kids quarrel with Armando and his mom."
+      },
+      {
+        "id": "tvmaze:2478030",
+        "title": "To Love and Be Wise Is Impossible",
+        "season": 4,
+        "episode": 1,
+        "released": "2023-01-29",
+        "overview": "Kris prepares to meet her fiancée in person; Gabe gears up to mix business and pleasure in Colombia; Daniele preps for a reunion with Yohan in the Dominican Republic; after a two-year engagement, Jen has hopes for an Indian wedding."
+      },
+      {
+        "id": "tvmaze:2478616",
+        "title": "To Have Peace There Must Be Strife",
+        "season": 4,
+        "episode": 2,
+        "released": "2023-02-05",
+        "overview": "Nicole heads to Egypt to salvage her marriage; Kris and Jeymi have last minute nerves before meeting; Daniele is not impressed by Yohan's new business; Isabel fears telling her parents that Gabe is trans."
+      },
+      {
+        "id": "tvmaze:2481615",
+        "title": "If You Can't Jump, You Plunge",
+        "season": 4,
+        "episode": 3,
+        "released": "2023-02-19",
+        "overview": "Nicole has a rocky reunion with Mahmoud; Gabe embarks on his new Colombian life; Kris and Jeymi finally meet; Rishi keeps a secret from Jen; Daniele frets over finances; Debbie prepares to move to Morocco for a much younger man."
+      },
+      {
+        "id": "tvmaze:2481616",
+        "title": "The Eyes Do Not See What the Mind Does Not Want",
+        "season": 4,
+        "episode": 4,
+        "released": "2023-02-26",
+        "overview": "Kris' health problems worry Jeymi; Debbie pursues a prenup; Gabe and Isabel fear telling her family he's transgender; Jen's mistrust of Rishi grows; the culture clash continues between Nicole and Mahmoud."
+      },
+      {
+        "id": "tvmaze:2481617",
+        "title": "Lies Have Got No Legs",
+        "season": 4,
+        "episode": 5,
+        "released": "2023-03-05",
+        "overview": "Nicole regrets meeting Mahmoud's friends; Gabe has business blues; Debbie heads to Morocco despite warnings from her kids; Jeymi worries when Kris wants a weapon; Rishi's friend drops a truth bomb on Jen; Daniele and Yohan clash."
+      },
+      {
+        "id": "tvmaze:2481618",
+        "title": "Love Is One Thing, Knowledge Is Another",
+        "season": 4,
+        "episode": 6,
+        "released": "2023-03-12",
+        "overview": "Jen plays the part of an Indian housewife; Kris may need to return to the U.S.; Debbie and Oussama have a romantic reunion; Daniele and Yohan tackle issues with honesty; Gabe ponders more life-altering surgery; Nicole and Mahmoud's wardrobe war."
+      },
+      {
+        "id": "tvmaze:2500799",
+        "title": "Drop by Drop the River Rises",
+        "season": 4,
+        "episode": 7,
+        "released": "2023-03-19",
+        "overview": "Isabel fears having to choose between Gabe and her father; Mahmoud's family questions Nicole; Visa woes put Jen's time in India in jeopardy; Jeymi's friends seed doubts about Kris; Debbie and Oussama don't see eye to eye on their future."
+      },
+      {
+        "id": "tvmaze:2504717",
+        "title": "For Every Joy There Is a Price To Be Paid",
+        "season": 4,
+        "episode": 8,
+        "released": "2023-03-26",
+        "overview": "Nicole's frustrations come to a head; Daniele bids NYC a final farewell; Kris and Jeymi have a romantic getaway; Jen makes a reluctant return to the family farm; Debbie and Oussama start over; Gabe gathers the courage to come out to Isabel's parents."
+      },
+      {
+        "id": "tvmaze:2509934",
+        "title": "A Beautiful Thing Is Never Perfect",
+        "season": 4,
+        "episode": 9,
+        "released": "2023-04-02",
+        "overview": "Gabe fears fallout after coming out to Isabel's parents; Yohan fumes over news about Daniele's ex; Rishi's risque pic leaves Jen reeling; Mahmoud's brother throws him a relationship lifeline; Kris and Jeymi tie the knot."
+      },
+      {
+        "id": "tvmaze:2514187",
+        "title": "One Hand Does Not Clap",
+        "season": 4,
+        "episode": 10,
+        "released": "2023-04-09",
+        "overview": "Nicole makes a like-minded friend; Jen and Rishi reunite in India; Gabe has a heart-to-heart with Isabel's dad; financial fears send Kris back to the U.S.; Oussama romances Debbie with a poem; Yohan threatens consequences if Daniele sees her ex."
+      },
+      {
+        "id": "tvmaze:2519927",
+        "title": "The Tongue Has No Bone, but It Cuts Deep",
+        "season": 4,
+        "episode": 11,
+        "released": "2023-04-16",
+        "overview": "Jen confronts Rishi about his flirty DMs; Kris and Jeymi battle over love and finances; Gabe's plans to marry Isabel are put on hold; Oussama takes Debbie to his hometown; Yohan's surprise birthday doesn't go as planned."
+      },
+      {
+        "id": "tvmaze:2524590",
+        "title": "The Glow Soon Becomes Ashes",
+        "season": 4,
+        "episode": 12,
+        "released": "2023-04-23",
+        "overview": "Kris and Jeymi blame each other for their problems; Gabe's sister pushes for a prenup; Jen and her friends hatch a risky plan; Daniele reunites with a former flame; Nicole's patience wears thin; Oussama's true intentions are revealed."
+      },
+      {
+        "id": "tvmaze:2529022",
+        "title": "Winds Do Not Blow As the Ships Wish",
+        "season": 4,
+        "episode": 13,
+        "released": "2023-04-30",
+        "overview": "Isabel goes head-to-head with Gabe's sister; Yohan embarrasses Daniele in front of her ex; Rishi gets blindsided; Mahmoud contemplates Nicole's desire to leave Egypt; Oussama breaks Debbie's heart."
+      },
+      {
+        "id": "tvmaze:2535328",
+        "title": "Never Say I Regret, Always Say I Learned",
+        "season": 4,
+        "episode": 14,
+        "released": "2023-05-07",
+        "overview": "A family fight leaves Gabe and Isabel's wedding in jeopardy. Kris and Jeymi have an explosive reunion. Daniele and Yohan's marriage is on the rocks. Oussama asks Debbie to hear him out. Jen and Rishi's relationship reaches a breaking point."
+      },
+      {
+        "id": "tvmaze:2534805",
+        "title": "Where There Is Love There Is Life + Tell-All Part 1",
+        "season": 4,
+        "episode": 15,
+        "released": "2023-05-14",
+        "overview": "Nicole admits to snooping. Jen begs Rishi to let her go. Gabe heads to his wedding without his sister. Kris and Jeymi have an altercation. Then, on an explosive Tell All, tempers flare, secrets are revealed and new revelations leave everyone stunned."
+      },
+      {
+        "id": "tvmaze:2534806",
+        "title": "Tell-All Part 2",
+        "season": 4,
+        "episode": 16,
+        "released": "2023-05-21",
+        "overview": "Mahmoud reaches a breaking point, shocking everyone and leaving Nicole in tears. Isabel's jealousy threatens her marriage with Gabe. Rishi pleads with his family to accept his relationship with Jen. A cheating scandal is exposed."
+      },
+      {
+        "id": "tvmaze:2545519",
+        "title": "Tell-All Part 3",
+        "season": 4,
+        "episode": 17,
+        "released": "2023-05-28",
+        "overview": "Mahmoud crosses a line with Nicole. Gabe confronts his sister, Monica. Jen reveals that she may have slipped her number to someone in the studio. An ex threatens Daniele and Yohan's marriage. The cast picks sides in Kris and Jeymi's relationship drama."
+      },
+      {
+        "id": "tvmaze:2571092",
+        "title": "Far Trek: The Next Generation",
+        "season": 5,
+        "episode": 1,
+        "released": "2023-07-10",
+        "overview": "After two years of round-the-clock video calls with Mary, Brandan is moving to the Philippines. Before moving to the Netherlands, Julio wants Kirsten to meet his mum. Holly and Wayne imagine their wedding night. Kenny and Armando consider a change."
+      },
+      {
+        "id": "tvmaze:2593944",
+        "title": "Long Distance Medium",
+        "season": 5,
+        "episode": 2,
+        "released": "2023-07-17",
+        "overview": "Holly and Wayne's reunion goes awry. Kimberly and TJ's spiritual connection will be tested once she's physically living with his family. Armando begins to challenge Kenny. Kirsten arrives in New York. Mary accuses Brandan of breaking her trust."
+      },
+      {
+        "id": "tvmaze:2593945",
+        "title": "How I Haven't Met Your Mother",
+        "season": 5,
+        "episode": 3,
+        "released": "2023-07-24",
+        "overview": "Brandan and Mary finally meet face to face. Kirsten learns Julio has kept her a secret. Wayne's security innovations don't impress Holly's mum. Armando is done with Kenny always getting his way. Kimberly's first night with TJ goes from bad to worse."
+      },
+      {
+        "id": "tvmaze:2597057",
+        "title": "Mad About What You Said",
+        "season": 5,
+        "episode": 4,
+        "released": "2023-07-31",
+        "overview": "Brandan's first night with Mary is not what he imagined. Wayne offends Holly. Daniele and Yohan make a fresh start. Kirsten sees a new side of Julio. Armando and his mum bump heads. Kimberly and TJ's argument spirals."
+      },
+      {
+        "id": "tvmaze:2597058",
+        "title": "My So-Called Wi-Fi",
+        "season": 5,
+        "episode": 5,
+        "released": "2023-08-07",
+        "overview": "Brandan discovers Mary's lie. Daniele's friends grill Daniele and Yohan about their relationship. Julio second-guesses his move to the Netherlands. Armando reveals old wounds. Tensions run high between Kimberly and TJ's brother."
+      },
+      {
+        "id": "tvmaze:2612600",
+        "title": "Who's the Bossiest",
+        "season": 5,
+        "episode": 6,
+        "released": "2023-08-14",
+        "overview": "Yash tells Kimberly that marrying his brother will ruin everyone's lives; Kenny and Armando are at a crossroads; Kirsten heads home, and Julio pinky promises to see her in three months in the Netherlands; Holly takes a self-defense class."
+      },
+      {
+        "id": "tvmaze:2618457",
+        "title": "Tales From the Crypto",
+        "season": 5,
+        "episode": 7,
+        "released": "2023-08-21",
+        "overview": "Holly makes a discovery about Wayne's finances. Kenny faces a decision about his future with Armando. Brandan loses patience with Mary's insecurities. Kirsten considers an ultimatum."
+      },
+      {
+        "id": "tvmaze:2623945",
+        "title": "Mistrust, She Wrote",
+        "season": 5,
+        "episode": 8,
+        "released": "2023-08-28",
+        "overview": "Mary's lack of trust has Brandan questioning everything. Holly sees a new side of Wayne. Daniele and Yohan take a big step toward building their family. Shekinah's friends worry about her track record as she prepares to move to Turkey for Sarper."
+      },
+      {
+        "id": "tvmaze:2630380",
+        "title": "Sarper and the City",
+        "season": 5,
+        "episode": 9,
+        "released": "2023-09-04",
+        "overview": "Sarper claims he is ready to give up his bad boy lifestyle for Shekinah. An attempt at reconciliation between Kimberly and TJ's family goes wrong. Brandan and Mary stress over money. Kirsten confronts Julio about postponing his move."
+      },
+      {
+        "id": "tvmaze:2633977",
+        "title": "In-Laws and Order",
+        "season": 5,
+        "episode": 10,
+        "released": "2023-09-11",
+        "overview": "Kimberly is having second thoughts when her parents arrive in India. Shekinah flies to Turkey despite her family's warnings. Kenny pushes Armando's boundaries. Wayne makes another alarming revelation. Yohan tries a new approach with Daniele."
+      },
+      {
+        "id": "tvmaze:2633978",
+        "title": "Breaking Bed",
+        "season": 5,
+        "episode": 11,
+        "released": "2023-09-18",
+        "overview": "Shekinah is disturbed by what she finds at Sarper's apartment. TJ's relationship decision stuns Kim. Holly stresses about the wedding. Brandan and Mary make a life-altering discovery. Daniele and Yohan disagree on the way forward."
+      },
+      {
+        "id": "tvmaze:2643989",
+        "title": "Little Post, Big World",
+        "season": 5,
+        "episode": 12,
+        "released": "2023-09-25",
+        "overview": "Shekinah accuses Sarper of trying to keep her a secret. Yohan reveals his true intentions. Kenny and Armando each make a surprising decision as they leave Mexico City. Kimberly fights for her relationship wtih TJ."
+      },
+      {
+        "id": "tvmaze:2653399",
+        "title": "Say Yes to the Mess",
+        "season": 5,
+        "episode": 13,
+        "released": "2023-10-02",
+        "overview": "Holly's fairytale wedding is not picture perfect. Kim and TJ's families call for peace. Sarper and Shekinah clash at the gym. Brandan doesn't get the response he expected to his marriage proposal."
+      },
+      {
+        "id": "tvmaze:2653400",
+        "title": "Be-hitched",
+        "season": 5,
+        "episode": 14,
+        "released": "2023-10-09",
+        "overview": "Kim gets sick right as the wedding festivities begin. Daniele and Yohan's arguments hit a new low. Holly and Wayne reflect on their wedding night. Even the neighbours can hear Brandan and Mary fighting."
+      },
+      {
+        "id": "tvmaze:2659200",
+        "title": "Family Manners",
+        "season": 5,
+        "episode": 15,
+        "released": "2023-10-16",
+        "overview": "Sarper unsuccessfully tries to win over Shekinah's sister; Kim feels left out at her own wedding; Brandan asks for permission to Mary from her grandfather; Daniele realizes she and Yohan have different ideas on what their marriage means for them."
+      },
+      {
+        "id": "tvmaze:2662866",
+        "title": "Fuller House",
+        "season": 5,
+        "episode": 16,
+        "released": "2023-10-23",
+        "overview": "Tensions rise when Mary meets Brandan's mom face-to-face; Sarper attempts to make amends with Shekinah's sister; Kimberly and TJ's traditional Indian wedding continues; Kenny and Armando search for an egg donor."
+      },
+      {
+        "id": "tvmaze:2667985",
+        "title": "Big Bank Theory",
+        "season": 5,
+        "episode": 17,
+        "released": "2023-10-30",
+        "overview": "Daniele confronts Yohan about suspicious bank activity. Shekinah and Sarper go bed shopping. TJ tells Kim she is now a head of the household. Holly is lonely in South Africa. Brandan is caught between Mary and his mum."
+      },
+      {
+        "id": "tvmaze:2672997",
+        "title": "The XX XY Files",
+        "season": 5,
+        "episode": 18,
+        "released": "2023-11-06",
+        "overview": "Sarper reveals a secret about his past. Kenny and Armando meet with a potential surrogate. Brandan's mum tells Mary and Brandan that she's worried about the couple's future. Holly reaches a breaking point."
+      },
+      {
+        "id": "tvmaze:2677799",
+        "title": "Owing Pains",
+        "season": 5,
+        "episode": 19,
+        "released": "2023-11-13",
+        "overview": "Kim believes she's ready for what's next as TJ's wife until her first lesson with his mom; Shekinah learns that Sarper wants to have a baby; Mary has second thoughts about marrying Brandan; Yohan blindsides Daniele with a life-changing decision."
+      },
+      {
+        "id": "tvmaze:2683175",
+        "title": "Gimme A Break-Up",
+        "season": 5,
+        "episode": 20,
+        "released": "2023-11-20",
+        "overview": "Yohan moves out. Sarper tells Shekinah to book a flight home. Kenny and Armando take the first step towards having a baby. Holly runs off when Wayne admits he has regrets. Nature overtakes Brandan and Mary's big day."
+      },
+      {
+        "id": "tvmaze:2683176",
+        "title": "Stranger Things Have Happened",
+        "season": 5,
+        "episode": 21,
+        "released": "2023-11-27",
+        "overview": "Shekinah packs her bags and heads to a hotel. Kimberly and TJ each reach a breaking point. The uninvited guests wreak chaos at Brandan and Mary's wedding. Daniele makes a new decision about her marriage to Yohan."
+      },
+      {
+        "id": "tvmaze:2691733",
+        "title": "Tell All Part 1",
+        "season": 5,
+        "episode": 22,
+        "released": "2023-12-04",
+        "overview": "Shaun Robinson dives deep with the cast of The Other Way Season 5. They are joined by four 90 Day Fiancé veterans who have lots of opinions about all the couples' relationships, and they aren't shy about sharing them."
+      },
+      {
+        "id": "tvmaze:2692500",
+        "title": "Tell All Part 2",
+        "season": 5,
+        "episode": 23,
+        "released": "2023-12-11",
+        "overview": "On Part 2 of the jam-packed The Other Way Tell All, no topic is off limits. From finances and family to love and infidelity, not only do the tough questions get asked, they get answered -- and the revelations are shocking."
+      },
+      {
+        "id": "tvmaze:2704496",
+        "title": "Tell-All Part 3",
+        "season": 5,
+        "episode": 24,
+        "released": "2023-12-18",
+        "overview": "Your 90 Day favorites invite you into their homes as they watch the latest episode of The Other Way! Emily and Kobe, David and Annie, Robert and Anny, and Jen and Myra are watching along, and no one is holding back!"
+      },
+      {
+        "id": "tvmaze:2894519",
+        "title": "My Best Friend's Meddling",
+        "season": 6,
+        "episode": 1,
+        "released": "2024-07-01",
+        "overview": "Corona puts her dreams on hold for love in Iceland. Josh fears he will disappoint his wife once he's in China. Shekinah is ready for a new look and a commitment from Sarper. As James and Meitalia prepare to move to Indonesia, his secrets are revealed."
+      },
+      {
+        "id": "tvmaze:2934673",
+        "title": "What Women Don't Want",
+        "season": 6,
+        "episode": 2,
+        "released": "2024-07-08",
+        "overview": "James reveals he doesn't want kids, despite promising Tatha and her family they would have them. Shekinah prepares to give Sarper a taste of his own medicine. Statler and Dempsey's life on the road is off to a bumpy start before they even have the van."
+      },
+      {
+        "id": "tvmaze:2934676",
+        "title": "Can Buy Me Love?",
+        "season": 6,
+        "episode": 3,
+        "released": "2024-07-15",
+        "overview": "Shekinah shocks Sarper with a memento from her past. Corona is ready for Iceland, but Ingi isn't ready to propose. Statler and Dempsey come up short on money for the van. Josh arrives in China to a harsh reality."
+      },
+      {
+        "id": "tvmaze:2953281",
+        "title": "10 Things I Hate About Moving",
+        "season": 6,
+        "episode": 4,
+        "released": "2024-07-22",
+        "overview": "Statler fears she's repeating mistakes of her past. Josh is frustrated when Lily keeps bringing up their money issues. Sarper has an unusual way of proving his love to Shekinah. Tatha's sister tells Tatha that she and James are making a mistake."
+      },
+      {
+        "id": "tvmaze:2953282",
+        "title": "High Infidelity",
+        "season": 6,
+        "episode": 5,
+        "released": "2024-07-29",
+        "overview": "Shekinah meets up with Sarper's ex to learn the truth. Corona gets an icy welcome from Ingi. Lily takes Josh for a traditional ear massage. Tatha's parents pressure her about giving them grandchildren."
+      },
+      {
+        "id": "tvmaze:2953283",
+        "title": "One Fine Bidet",
+        "season": 6,
+        "episode": 6,
+        "released": "2024-08-05",
+        "overview": "Shekinah confronts Sarper about his ex. The three promises James made to Meitalia's parents come back to haunt him. Josh's jealousy issues frustrate Lily. Statler and Dempsey's reunion is overshadowed by Statler's anxiety."
+      },
+      {
+        "id": "tvmaze:2953950",
+        "title": "A Risky Business",
+        "season": 6,
+        "episode": 7,
+        "released": "2024-08-12",
+        "overview": "Chaos ensues after James and Tatha tell her family they're staying in Indonesia. Joanne and Sean plan how to reveal they've been married for 2 years. Corona tells Ingi she's been hiding her anger from him. Statler is stunned by the look of the campervan."
+      },
+      {
+        "id": "tvmaze:2953951",
+        "title": "Much Ado About Everything",
+        "season": 6,
+        "episode": 8,
+        "released": "2024-08-19",
+        "overview": "Joanne reveals the truth to her mom before leaving for Ireland. James and Tatha end up in tears when things get lost in translation. Lily's sister presses Josh on his lack of income. Statler and Dempsey face a frigid first night in their van."
+      },
+      {
+        "id": "tvmaze:2980849",
+        "title": "Some Kind of Awful",
+        "season": 6,
+        "episode": 9,
+        "released": "2024-08-26",
+        "overview": "Corona has a surprising first encounter with Ingi's parents. Joanne and her sons leave for Ireland to meet Sean. Statler and Dempsey hit the open road. An argument between Sarper and Shekinah ruins their birthday"
+      },
+      {
+        "id": "tvmaze:2980850",
+        "title": "(Dis)Enchanted",
+        "season": 6,
+        "episode": 10,
+        "released": "2024-09-02",
+        "overview": "Corona's family grills Ingi on his intentions. Statler is shocked to find out Dempsey has money put away, while she's in debt. Lily asks Josh if he wants to end their marriage. Sarper reflects on his actions as Shekinah opens up about her past."
+      },
+      {
+        "id": "tvmaze:2989723",
+        "title": "Eat, Play, Lie",
+        "season": 6,
+        "episode": 11,
+        "released": "2024-09-09",
+        "overview": "Dempsey reaches a breaking point while Statler battles a panic attack at sea. Shekinah gives Sarper a stern ultimatum. James makes a heartbreaking admission to Tatha. Sean bonds with Joanne's sons but feels the pressure of keeping secrets"
+      },
+      {
+        "id": "tvmaze:2989724",
+        "title": "No Hard Feelings?",
+        "season": 6,
+        "episode": 12,
+        "released": "2024-09-16",
+        "overview": "Joanne and Sean finally come clean about their marriage, Shekinah and Sarper turn to a therapist for help, as Statler's panic attack continues, Dempsey is ready to call it quits, and Josh's lack of intimacy leaves Lily feeling unloved."
+      },
+      {
+        "id": "tvmaze:3002880",
+        "title": "There's Something About JoJo",
+        "season": 6,
+        "episode": 13,
+        "released": "2024-09-23",
+        "overview": "Joanne's kids are stunned when they learn more about her hopes for the future. Corona's dream of becoming a midwife is in jeopardy. Meitalia gives James a timeline for having children. Josh surprises Lily with a romantic gesture."
+      },
+      {
+        "id": "tvmaze:3002881",
+        "title": "Reality Frights",
+        "season": 6,
+        "episode": 14,
+        "released": "2024-09-30",
+        "overview": "Shekinah moves back in with Sarper and uncovers a lie. Corona is on a deadline to decide about her future. Statler and Dempsey attempt to rebuild their relationship. Josh and Lily clash in front of Josh's brother."
+      },
+      {
+        "id": "tvmaze:3006223",
+        "title": "Fools Rushed In",
+        "season": 6,
+        "episode": 15,
+        "released": "2024-10-07",
+        "overview": "James tells Meitalia they are running out of money. Shekinah goes under the knife. Josh's brother tries to help him and Lily see eye-to-eye. Joanne's son pokes holes in her plan to move to Ireland."
+      },
+      {
+        "id": "tvmaze:3027893",
+        "title": "Daughter of the Bride",
+        "season": 6,
+        "episode": 16,
+        "released": "2024-10-14",
+        "overview": "Lily's daughter puts Josh in the hot seat. Statler hits a roadblock on her first day back to work. Meitalia makes James tell her parents that he doesn't want kids. Sarper is tested during Shekinah's post-op recovery."
+      },
+      {
+        "id": "tvmaze:3013753",
+        "title": "Donna Mia",
+        "season": 6,
+        "episode": 17,
+        "released": "2024-10-21",
+        "overview": "Corona learns Ingi's true feelings about marriage. Sean and Joanne's mom, Donna, finally meet, and she has questions. James fears Tatha's sister will drive a wedge between them. Lily's daughter, Vivian, worries about her mom's lack of a sex life."
+      },
+      {
+        "id": "tvmaze:3025530",
+        "title": "Bride and Prejudice",
+        "season": 6,
+        "episode": 18,
+        "released": "2024-10-28",
+        "overview": "Josh urges Lily to move forward with their wedding ceremony, so she sets a test for him. Attempts to make up after their first fight go awry for Corona and Ingi. James and Tatha's elaborate, traditional Indonesian wedding is full of surprises."
+      },
+      {
+        "id": "tvmaze:3034188",
+        "title": "(500) Days of Bummer",
+        "season": 6,
+        "episode": 19,
+        "released": "2024-11-04",
+        "overview": "James insists they need to return to the United States, and the realization that Tatha must choose between her husband and her family hits back hard. Sarper hatches a plan to keep Shekinah in Turkey. Statler and Dempsey reach the ultimate crossroads in their relationship."
+      },
+      {
+        "id": "tvmaze:3034189",
+        "title": "He's Just Not That into U.S.",
+        "season": 6,
+        "episode": 20,
+        "released": "2024-11-11",
+        "overview": "Corona is torn between her dream job and her dream man. Lily has doubts about her future with Josh. Joanne and Sean are back to square one. Shekinah is thrilled by the traditional Turkish engagement ceremony."
+      },
+      {
+        "id": "tvmaze:3042583",
+        "title": "Tell-All Part 1",
+        "season": 6,
+        "episode": 21,
+        "released": "2024-11-18",
+        "overview": "The cast of The Other Way sits down with Shaun Robinson in New York City, with more couples together in person than ever before. A friend from Sarper's past joins the stage, everyone debates Josh and Lily's sex life, and an outburst from a couple shocks all."
+      },
+      {
+        "id": "tvmaze:3047545",
+        "title": "Tell-All Part 2",
+        "season": 6,
+        "episode": 22,
+        "released": "2024-11-25",
+        "overview": "The Tell All continues with more drama and reveals from this season's couples. Corona shares some inside details about Ingi, Shekinah and Joanne's mom, Donna, have a showdown, and Tatha discusses James' past with the rest of the cast."
+      },
+      {
+        "id": "tvmaze:3318337",
+        "title": "C'est La Vie",
+        "season": 7,
+        "episode": 1,
+        "released": "2025-09-08",
+        "overview": "Chloe trades Boston luxury for Johny's pirate life in Aruba. Manon risks it all returning to France for Anthony. Luke heads to Colombia to wed Madelein. Also, Jenny and Sumit face a new challenge living under his parents' roof."
+      },
+      {
+        "id": "tvmaze:3345861",
+        "title": "Hasta La Vista",
+        "season": 7,
+        "episode": 2,
+        "released": "2025-09-15",
+        "overview": "Jenny and Sumit's family business is off to a rocky start. Luke's bachelor party gets racy. Johny hopes Chloe is ready to settle down. Greta frets about living with Matthew and his parents in the UK. Anthony and Manon clash as they head to France."
+      },
+      {
+        "id": "tvmaze:3363577",
+        "title": "Naya Safar",
+        "season": 7,
+        "episode": 3,
+        "released": "2025-09-22",
+        "overview": "Johny worries Chloe isn't ready for life in Aruba. Madelein blocks Luke days before his move to Colombia. Tensions are high as Anthony and Manon board their flight. Greta is annoyed that Matthew hasn't found a place yet. Jenny and Sumit haggle for a deal."
+      },
+      {
+        "id": "tvmaze:3363578",
+        "title": "Bon Bini",
+        "season": 7,
+        "episode": 4,
+        "released": "2025-09-29",
+        "overview": "Luke and Madelein's wedding hangs by a thread, Manon struggles with life in tight quarters, Chloe's Aruba dream gets off to a rough start, and Greta makes a heartbreaking farewell before starting anew in the UK."
+      },
+      {
+        "id": "tvmaze:3363579",
+        "title": "A Dog's Breakfast",
+        "season": 7,
+        "episode": 5,
+        "released": "2025-10-06",
+        "overview": "Luke embarrasses Madelein in front of their wedding planner. Greta and Matthew share an awkward reunion in the UK. Manon confronts her parents about her childhood. Sumit's extended family disapproves of Jenny. Chloe pressures Johny to quit his job."
+      },
+      {
+        "id": "tvmaze:3363580",
+        "title": "Seems a Bit Dodgy",
+        "season": 7,
+        "episode": 6,
+        "released": "2025-10-13",
+        "overview": "Madelein erupts when Luke comes clean about his bachelor party. Greta feels disconnected from Matthew. Sumit consoles Jenny about the fight with his aunt. After 12 years together, Pattiya plans to move down under to be with Dylan."
+      },
+      {
+        "id": "tvmaze:3363581",
+        "title": "Déjà Vu",
+        "season": 7,
+        "episode": 7,
+        "released": "2025-10-20",
+        "overview": "Pattiya and Dylan reunite in Australia, Jenny's yoga session takes an unexpected turn, Anthony questions Manon's ambitions, Chloe spies on Johny at work, and Madelein doubles down."
+      },
+      {
+        "id": "tvmaze:3404234",
+        "title": "Forsa!",
+        "season": 7,
+        "episode": 8,
+        "released": "2025-10-27",
+        "overview": "Anthony is at odds with Manon's plan to baptize Ben. Pattiya wakes up to an unwelcome visitor. Greta and Matthew look for a place of their own. Chloe squares off with Johny's best friend."
+      },
+      {
+        "id": "tvmaze:3427368",
+        "title": "No Más!",
+        "season": 7,
+        "episode": 9,
+        "released": "2025-11-03",
+        "overview": "Luke tries to win Madelein back. Manon faces off against her family. Chloe's mom arrives in Aruba with a lot of questions and an ultimatum."
+      },
+      {
+        "id": "tvmaze:3427369",
+        "title": "Mind the Gap",
+        "season": 7,
+        "episode": 10,
+        "released": "2025-11-10",
+        "overview": "Jenny and Sumit face a major setback at their family café. Dylan finally admits Pattiya's money troubles are why he hasn't proposed. Greta stuns Matthew with her stance on kids. And Luke's friend Brian issues a warning: don't marry Madelein."
+      },
+      {
+        "id": "tvmaze:3427370",
+        "title": "Kicking the Ant's Nest",
+        "season": 7,
+        "episode": 11,
+        "released": "2025-11-17",
+        "overview": "Jenny loses the café's very first customer. Pattiya is floored after a revealing dinner with Dylan and his mother. Anthony and Manon clash while house hunting. Chloe and Johny are stunned by her mom's unexpected offer."
+      },
+      {
+        "id": "tvmaze:3436550",
+        "title": "Khali Pyala",
+        "season": 7,
+        "episode": 12,
+        "released": "2025-11-24",
+        "overview": "Manon melts down when Anthony takes her on a date to a goat farm. Chloe confides in her mom about Johny's infidelity. A frenemy doubts Sumit's business skills. Luke tries to win Madelein back."
+      },
+      {
+        "id": "tvmaze:3449238",
+        "title": "J'ai Un Rêve",
+        "season": 7,
+        "episode": 13,
+        "released": "2025-12-01",
+        "overview": "Pattiya and Dylan's romantic camping adventure goes awry. Chloe's mom offers her a first-class ticket back to the US. Greta blindsides Matthew. Manon is mortified by Anthony's attempt at romance. Luke wonders if he's the right man for Madelein."
+      },
+      {
+        "id": "tvmaze:3449239",
+        "title": "Gutted",
+        "season": 7,
+        "episode": 14,
+        "released": "2025-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459343",
+        "title": "Lo Siento",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464826",
+        "title": "Crikey!",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464827",
+        "title": "TBA",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-29",
+        "overview": ""
+      }
+    ]
+  }
+}

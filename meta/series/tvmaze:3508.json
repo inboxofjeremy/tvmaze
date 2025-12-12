@@ -1,0 +1,3116 @@
+{
+  "meta": {
+    "id": "tvmaze:3508",
+    "type": "series",
+    "name": "Gogglebox",
+    "description": "Gogglebox is a British observational documentary television show which has aired on Channel 4 since 2013. The show focuses on families, friends and couples from around the country in their living rooms watching the last week's of British television.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/599/1499032.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/599/1499032.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      },
+      {
+        "id": "tvmaze:3464761",
+        "title": "Gogglebox Festive Special",
+        "season": 26,
+        "episode": null,
+        "released": "2026-01-01",
+        "overview": "A bumper, super-stuffed edition as Britain's sharpest armchair critics review this year's Christmas TV."
+      },
+      {
+        "id": "tvmaze:595148",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2013-03-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595149",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2013-03-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595150",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2013-03-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595151",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2013-03-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595152",
+        "title": "Episode 1",
+        "season": 2,
+        "episode": 1,
+        "released": "2013-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595153",
+        "title": "Episode 2",
+        "season": 2,
+        "episode": 2,
+        "released": "2013-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595154",
+        "title": "Episode 3",
+        "season": 2,
+        "episode": 3,
+        "released": "2013-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595155",
+        "title": "Episode 4",
+        "season": 2,
+        "episode": 4,
+        "released": "2013-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595156",
+        "title": "Episode 5",
+        "season": 2,
+        "episode": 5,
+        "released": "2013-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595157",
+        "title": "Episode 6",
+        "season": 2,
+        "episode": 6,
+        "released": "2013-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595158",
+        "title": "Episode 7",
+        "season": 2,
+        "episode": 7,
+        "released": "2013-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595159",
+        "title": "Episode 8",
+        "season": 2,
+        "episode": 8,
+        "released": "2013-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595160",
+        "title": "Episode 9",
+        "season": 2,
+        "episode": 9,
+        "released": "2013-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595161",
+        "title": "Episode 10",
+        "season": 2,
+        "episode": 10,
+        "released": "2013-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595162",
+        "title": "Episode 11",
+        "season": 2,
+        "episode": 11,
+        "released": "2013-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595163",
+        "title": "Episode 12",
+        "season": 2,
+        "episode": 12,
+        "released": "2013-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595164",
+        "title": "Episode 13",
+        "season": 2,
+        "episode": 13,
+        "released": "2013-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595165",
+        "title": "Episode 1",
+        "season": 3,
+        "episode": 1,
+        "released": "2014-03-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595166",
+        "title": "Episode 2",
+        "season": 3,
+        "episode": 2,
+        "released": "2014-03-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595167",
+        "title": "Episode 3",
+        "season": 3,
+        "episode": 3,
+        "released": "2014-03-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595168",
+        "title": "Episode 4",
+        "season": 3,
+        "episode": 4,
+        "released": "2014-03-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595169",
+        "title": "Episode 5",
+        "season": 3,
+        "episode": 5,
+        "released": "2014-04-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595170",
+        "title": "Episode 6",
+        "season": 3,
+        "episode": 6,
+        "released": "2014-04-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595171",
+        "title": "Episode 7",
+        "season": 3,
+        "episode": 7,
+        "released": "2014-04-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595172",
+        "title": "Episode 8",
+        "season": 3,
+        "episode": 8,
+        "released": "2014-04-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595173",
+        "title": "Episode 9",
+        "season": 3,
+        "episode": 9,
+        "released": "2014-05-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595174",
+        "title": "Episode 10",
+        "season": 3,
+        "episode": 10,
+        "released": "2014-05-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595175",
+        "title": "Episode 11",
+        "season": 3,
+        "episode": 11,
+        "released": "2014-05-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595176",
+        "title": "Episode 12",
+        "season": 3,
+        "episode": 12,
+        "released": "2014-05-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595177",
+        "title": "Episode 1",
+        "season": 4,
+        "episode": 1,
+        "released": "2014-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595178",
+        "title": "Episode 2",
+        "season": 4,
+        "episode": 2,
+        "released": "2014-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595179",
+        "title": "Episode 3",
+        "season": 4,
+        "episode": 3,
+        "released": "2014-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595180",
+        "title": "Episode 4",
+        "season": 4,
+        "episode": 4,
+        "released": "2014-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595181",
+        "title": "Episode 5",
+        "season": 4,
+        "episode": 5,
+        "released": "2014-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595182",
+        "title": "Episode 6",
+        "season": 4,
+        "episode": 6,
+        "released": "2014-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595183",
+        "title": "Episode 7",
+        "season": 4,
+        "episode": 7,
+        "released": "2014-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595184",
+        "title": "Episode 8",
+        "season": 4,
+        "episode": 8,
+        "released": "2014-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595185",
+        "title": "Episode 9",
+        "season": 4,
+        "episode": 9,
+        "released": "2014-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595186",
+        "title": "Episode 10",
+        "season": 4,
+        "episode": 10,
+        "released": "2014-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595187",
+        "title": "Episode 11",
+        "season": 4,
+        "episode": 11,
+        "released": "2014-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595188",
+        "title": "Episode 12",
+        "season": 4,
+        "episode": 12,
+        "released": "2014-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595189",
+        "title": "Episode 1",
+        "season": 5,
+        "episode": 1,
+        "released": "2015-02-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595190",
+        "title": "Episode 2",
+        "season": 5,
+        "episode": 2,
+        "released": "2015-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595191",
+        "title": "Episode 3",
+        "season": 5,
+        "episode": 3,
+        "released": "2015-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595192",
+        "title": "Episode 4",
+        "season": 5,
+        "episode": 4,
+        "released": "2015-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595193",
+        "title": "Episode 5",
+        "season": 5,
+        "episode": 5,
+        "released": "2015-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595194",
+        "title": "Episode 6",
+        "season": 5,
+        "episode": 6,
+        "released": "2015-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595195",
+        "title": "Episode 7",
+        "season": 5,
+        "episode": 7,
+        "released": "2015-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595196",
+        "title": "Episode 8",
+        "season": 5,
+        "episode": 8,
+        "released": "2015-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595197",
+        "title": "Episode 9",
+        "season": 5,
+        "episode": 9,
+        "released": "2015-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595198",
+        "title": "Episode 10",
+        "season": 5,
+        "episode": 10,
+        "released": "2015-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595199",
+        "title": "Episode 11",
+        "season": 5,
+        "episode": 11,
+        "released": "2015-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:595200",
+        "title": "Episode 12",
+        "season": 5,
+        "episode": 12,
+        "released": "2015-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:229558",
+        "title": "Episode 1",
+        "season": 6,
+        "episode": 1,
+        "released": "2015-09-11",
+        "overview": "In this episode the viewers offer their opinions on the biggest and best shows of the last week. In this episode 'Strictly Come Dancing', 'First Dates', 'Time Crashers' and 'Lady Chatterley's Lover' are all scrutinised."
+      },
+      {
+        "id": "tvmaze:229620",
+        "title": "Episode 2",
+        "season": 6,
+        "episode": 2,
+        "released": "2015-09-18",
+        "overview": "In this episode the viewers offer their opinions on the biggest and best shows of the last week."
+      },
+      {
+        "id": "tvmaze:340357",
+        "title": "Episode 3",
+        "season": 6,
+        "episode": 3,
+        "released": "2015-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:340358",
+        "title": "Episode 4",
+        "season": 6,
+        "episode": 4,
+        "released": "2015-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:340359",
+        "title": "Episode 5",
+        "season": 6,
+        "episode": 5,
+        "released": "2015-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:340360",
+        "title": "Episode 6",
+        "season": 6,
+        "episode": 6,
+        "released": "2015-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:399266",
+        "title": "Episode 7",
+        "season": 6,
+        "episode": 7,
+        "released": "2015-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:399267",
+        "title": "Episode 8",
+        "season": 6,
+        "episode": 8,
+        "released": "2015-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:510265",
+        "title": "Episode 9",
+        "season": 6,
+        "episode": 9,
+        "released": "2015-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:510266",
+        "title": "Episode 10",
+        "season": 6,
+        "episode": 10,
+        "released": "2015-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:510267",
+        "title": "Episode 11",
+        "season": 6,
+        "episode": 11,
+        "released": "2015-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:510268",
+        "title": "Episode 12",
+        "season": 6,
+        "episode": 12,
+        "released": "2015-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:510269",
+        "title": "Episode 13",
+        "season": 6,
+        "episode": 13,
+        "released": "2015-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:533056",
+        "title": "Episode 14",
+        "season": 6,
+        "episode": 14,
+        "released": "2015-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:533057",
+        "title": "Episode 15",
+        "season": 6,
+        "episode": 15,
+        "released": "2015-12-18",
+        "overview": "Britain's favourite TV commenters share their views on the biggest shows of the week."
+      },
+      {
+        "id": "tvmaze:600114",
+        "title": "Episode 1",
+        "season": 7,
+        "episode": 1,
+        "released": "2016-02-19",
+        "overview": "The week's TV is reviewed by the most opininoated viewers from across the UK."
+      },
+      {
+        "id": "tvmaze:619966",
+        "title": "Episode 2",
+        "season": 7,
+        "episode": 2,
+        "released": "2016-02-26",
+        "overview": "The week's TV is reviewed by the most opininoated viewers from across the UK."
+      },
+      {
+        "id": "tvmaze:621889",
+        "title": "Episode 3",
+        "season": 7,
+        "episode": 3,
+        "released": "2016-03-04",
+        "overview": "The week's TV is reviewed by the most opininoated viewers from across the UK."
+      },
+      {
+        "id": "tvmaze:632404",
+        "title": "Episode 4",
+        "season": 7,
+        "episode": 4,
+        "released": "2016-03-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:646613",
+        "title": "Episode 5",
+        "season": 7,
+        "episode": 5,
+        "released": "2016-03-18",
+        "overview": "Britain's favourite opinionated TV viewers share their insights on the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:659478",
+        "title": "Episode 6",
+        "season": 7,
+        "episode": 6,
+        "released": "2016-03-25",
+        "overview": "Britain's favourite opinionated TV viewers share their insights on the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:669005",
+        "title": "Episode 7",
+        "season": 7,
+        "episode": 7,
+        "released": "2016-04-01",
+        "overview": "The week's TV is reviewed by the most opininoated viewers from across the UK."
+      },
+      {
+        "id": "tvmaze:679101",
+        "title": "Episode 8",
+        "season": 7,
+        "episode": 8,
+        "released": "2016-04-08",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:691468",
+        "title": "Episode 9",
+        "season": 7,
+        "episode": 9,
+        "released": "2016-04-15",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:703886",
+        "title": "Episode 10",
+        "season": 7,
+        "episode": 10,
+        "released": "2016-04-22",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:726490",
+        "title": "Episode 11",
+        "season": 7,
+        "episode": 11,
+        "released": "2016-04-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:739963",
+        "title": "Episode 12",
+        "season": 7,
+        "episode": 12,
+        "released": "2016-05-06",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:761207",
+        "title": "Episode 13",
+        "season": 7,
+        "episode": 13,
+        "released": "2016-05-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:775442",
+        "title": "Episode 14",
+        "season": 7,
+        "episode": 14,
+        "released": "2016-05-20",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:790841",
+        "title": "Episode 15",
+        "season": 7,
+        "episode": 15,
+        "released": "2016-05-27",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:803574",
+        "title": "Episode 16",
+        "season": 7,
+        "episode": 16,
+        "released": "2016-06-03",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:817439",
+        "title": "Episode 17",
+        "season": 7,
+        "episode": 17,
+        "released": "2016-06-10",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:835254",
+        "title": "The Best Bits",
+        "season": 7,
+        "episode": 18,
+        "released": "2016-07-01",
+        "overview": "A special programme providing a chance to revisit some of the best and funniest moments from the most recent series of Gogglebox, featuring Britain's Got Talent's 100 Voices of Gospel, BBC drama Happy Valley, Channel 4's First Dates, BBC2's Caravanner of the Year, Channel 4 comedy-drama Flowers and Sky 1's Dogs Might Fly. Gogglebox households deliver sharp, insightful, passionate and sometimes emotional critiques of all of the above and more, sparking debate and giving viewers the chance to watch those 'we said that!' moments again."
+      },
+      {
+        "id": "tvmaze:921749",
+        "title": "Episode 1",
+        "season": 8,
+        "episode": 1,
+        "released": "2016-09-23",
+        "overview": "Britain's favourite opinionated TV viewers return for a brand new series to share more sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:929465",
+        "title": "Episode 2",
+        "season": 8,
+        "episode": 2,
+        "released": "2016-09-30",
+        "overview": "Britain's favourite opinionated TV viewers share more sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:945114",
+        "title": "Episode 3",
+        "season": 8,
+        "episode": 3,
+        "released": "2016-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:945213",
+        "title": "Episode 4",
+        "season": 8,
+        "episode": 4,
+        "released": "2016-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:948706",
+        "title": "Episode 5",
+        "season": 8,
+        "episode": 5,
+        "released": "2016-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:979280",
+        "title": "Episode 6",
+        "season": 8,
+        "episode": 6,
+        "released": "2016-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:979990",
+        "title": "Episode 7",
+        "season": 8,
+        "episode": 7,
+        "released": "2016-11-11",
+        "overview": "What do Britain's favourite opinionated viewers think of the US election news, \"Planet Earth II,\" \"Strictly Come Dancing,\" \"Operation Gold Rush\" and \"Random Acts\"?"
+      },
+      {
+        "id": "tvmaze:979995",
+        "title": "Episode 8",
+        "season": 8,
+        "episode": 8,
+        "released": "2016-11-18",
+        "overview": "Including I'm a Celebrity, Get Me Out of Here!, Strictly Come Dancing, The Secret Life of the Zoo, The Next Great Magician, Married at First Sight, The Festival of Remembrance, and the News."
+      },
+      {
+        "id": "tvmaze:988398",
+        "title": "Episode 9",
+        "season": 8,
+        "episode": 9,
+        "released": "2016-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:988488",
+        "title": "Episode 10",
+        "season": 8,
+        "episode": 10,
+        "released": "2016-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:991571",
+        "title": "Episode 11",
+        "season": 8,
+        "episode": 11,
+        "released": "2016-12-09",
+        "overview": "Britain's favourite opinionated TV viewers share more sharp, insightful, passionate and sometimes emotional critiques of Brits Icon: Robbie Williams, Skeg Vegas, Tattoo Fixers, Planet Earth II, The Big Life Fix, Rillington Place, Fawlty Towers and I'm a Celebrity, Get Me Out of Here!."
+      },
+      {
+        "id": "tvmaze:996045",
+        "title": "Episode 12",
+        "season": 8,
+        "episode": 12,
+        "released": "2016-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1001410",
+        "title": "The Best Bits",
+        "season": 8,
+        "episode": 13,
+        "released": "2016-12-25",
+        "overview": "A special programme providing a chance to revisit some of the best and funniest moments from the most recent series of Gogglebox, including Planet Earth II, Strictly Come Dancing, Poldark, Victoria and the US election news. The nation's favourite households - including loveable Leon and June, hairdressers Christopher and Stephen, and the hilarious Michaels family - deliver sharp, insightful, passionate and sometimes emotional critiques of the week's popular and topical TV shows, sparking debates and giving the audience the chance to rewatch those 'we said that!' moments."
+      },
+      {
+        "id": "tvmaze:1073635",
+        "title": "Episode 1",
+        "season": 9,
+        "episode": 1,
+        "released": "2017-02-24",
+        "overview": "What do Britain's favourite TV viewers think of The Jump, Dragons' Den, Death in Paradise, Jon Richardson: How to Survive the End of the World and SS-GB?"
+      },
+      {
+        "id": "tvmaze:1073636",
+        "title": "Episode 2",
+        "season": 9,
+        "episode": 2,
+        "released": "2017-03-03",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows, including Mary Berry Everyday, The Nightly Show, The Secret Life of the Zoo, Little Big Shots, Incredible Medicine, The Secret Chef - and the Oscars and squirrels on the News."
+      },
+      {
+        "id": "tvmaze:1073637",
+        "title": "Episode 3",
+        "season": 9,
+        "episode": 3,
+        "released": "2017-03-10",
+        "overview": "Britain's favourite opinionated TV viewers share more of their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows, including \"The Voice,\" \"Mutiny,\" \" Mastermind,\" \"The Replacement,\" \"Five Gold Rings,\" \"Top Gear\" and the News."
+      },
+      {
+        "id": "tvmaze:1073638",
+        "title": "Episode 4",
+        "season": 9,
+        "episode": 4,
+        "released": "2017-03-17",
+        "overview": "Britain's favourite opinionated TV viewers share more of their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows, including \"Schofield's South African Adventure,\" \"Ant and Dec's Saturday Night Takeaway,\" \"Dogs Behaving Badly,\" \"Robot Wars,\" \"Down the Mighty River with Steve Backshall,\" \"University Challenge,\" \"The Replacement,\" \"The Great Pottery Throw Down\" and the news."
+      },
+      {
+        "id": "tvmaze:1073639",
+        "title": "Episode 5",
+        "season": 9,
+        "episode": 5,
+        "released": "2017-03-24",
+        "overview": "Britain's favourite opinionated TV viewers share more of their sharp, insightful, passionate and sometimes emotional critiques on \"The Voice,\" \"Three Wives,\" \"One Husband,\" \"Broadchurch,\" \"Star Wars: The Empire Strikes Back,\" \"Rivers with Jeremy Paxman,\" \"Dame Vera Lynn: Happy 100th Birthday,\" and the news."
+      },
+      {
+        "id": "tvmaze:1073640",
+        "title": "Episode 6",
+        "season": 9,
+        "episode": 6,
+        "released": "2017-03-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1111392",
+        "title": "Episode 7",
+        "season": 9,
+        "episode": 7,
+        "released": "2017-04-07",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and emotional critiques of \"Kitchen 999: Emergency Chefs,\" the final of \"The Voice,\" \"Alone with the In-Laws,\" \"Line of Duty,\" \"Life Story,\" \"One Born Every Minute\" and the news."
+      },
+      {
+        "id": "tvmaze:1126366",
+        "title": "Episode 8",
+        "season": 9,
+        "episode": 8,
+        "released": "2017-04-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1140082",
+        "title": "Episode 9",
+        "season": 9,
+        "episode": 9,
+        "released": "2017-04-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1140083",
+        "title": "Episode 10",
+        "season": 9,
+        "episode": 10,
+        "released": "2017-04-28",
+        "overview": "What do Britain's favourite viewers think of Bigheads, Britain's Got Talent, Line of Duty, Little Boy Blue, Joanna Lumley's Postcards, The Island with Bear Grylls, and the News?"
+      },
+      {
+        "id": "tvmaze:1150269",
+        "title": "Episode 11",
+        "season": 9,
+        "episode": 11,
+        "released": "2017-05-05",
+        "overview": "Britain's favourite opinionated TV viewers share more of their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1150270",
+        "title": "Episode 12",
+        "season": 9,
+        "episode": 12,
+        "released": "2017-05-12",
+        "overview": "Britain's favourite opinionated TV viewers share more of their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows, including \"Tonight at the London Palladium,\" Theresa May's appearance on \"The One Show,\" \"Britain's Got Talent,\" \"King Charles III,\" \"First Dates\" and \"Amazing Hotels: Life Beyond the Lobby.\""
+      },
+      {
+        "id": "tvmaze:1172603",
+        "title": "Episode 13",
+        "season": 9,
+        "episode": 13,
+        "released": "2017-05-19",
+        "overview": "Britain's favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1173593",
+        "title": "Episode 14",
+        "season": 9,
+        "episode": 14,
+        "released": "2017-05-26",
+        "overview": "The show includes \"Twin Peaks,\" \"Britain's Got Talent,\" \"First Dates,\" \"Mexico: Earth's Festival of Life,\" Andrew Neil's interview with Theresa May, and the News."
+      },
+      {
+        "id": "tvmaze:1186658",
+        "title": "Episode 15",
+        "season": 9,
+        "episode": 15,
+        "released": "2017-06-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1280232",
+        "title": "Episode 1",
+        "season": 10,
+        "episode": 1,
+        "released": "2017-09-08",
+        "overview": "Britain's favourite opinionated TV viewers return for a new series, to share more of their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1285205",
+        "title": "Episode 2",
+        "season": 10,
+        "episode": 2,
+        "released": "2017-09-15",
+        "overview": "Britain's favourite opinionated TV viewers share more of their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1289293",
+        "title": "Episode 3",
+        "season": 10,
+        "episode": 3,
+        "released": "2017-09-22",
+        "overview": "Britain's favourite opinionated TV viewers share more of their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1289294",
+        "title": "Episode 4",
+        "season": 10,
+        "episode": 4,
+        "released": "2017-09-29",
+        "overview": "What do the Goggleboxers think of Strictly Come Dancing, Antiques Roadshow, Call the Cleaners, Doctor Foster, Thelma &amp; Louise, Jeremy Corbyn on The Andrew Marr Show, and the News?"
+      },
+      {
+        "id": "tvmaze:1318983",
+        "title": "Episode 5",
+        "season": 10,
+        "episode": 5,
+        "released": "2017-10-06",
+        "overview": "Britain's favourite opinionated TV viewers share more of their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1318984",
+        "title": "Episode 6",
+        "season": 10,
+        "episode": 6,
+        "released": "2017-10-13",
+        "overview": "Britain's favourite opinionated TV viewers share more of their sharp, insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1318985",
+        "title": "Episode 7",
+        "season": 10,
+        "episode": 7,
+        "released": "2017-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1318986",
+        "title": "Episode 8",
+        "season": 10,
+        "episode": 8,
+        "released": "2017-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1336591",
+        "title": "Episode 9: Celebrity Special for SU2C",
+        "season": 10,
+        "episode": 9,
+        "released": "2017-11-03",
+        "overview": "Some very famous faces join Britain's favourite opinionated viewers for a special episode of Gogglebox for this year's Stand Up To Cancer. From Saturday night entertainment juggernauts to the week's biggest news stories, from hard-hitting documentary series to gritty drama, Gogglebox offers sharp, insightful, funny and sometimes emotional critiques of popular and topical TV shows, sparking debates and giving the audience the chance to share those 'we said that!' moments."
+      },
+      {
+        "id": "tvmaze:1349136",
+        "title": "Episode 10",
+        "season": 10,
+        "episode": 10,
+        "released": "2017-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1353517",
+        "title": "Episode 11",
+        "season": 10,
+        "episode": 11,
+        "released": "2017-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1357681",
+        "title": "Episode 12",
+        "season": 10,
+        "episode": 12,
+        "released": "2017-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1361171",
+        "title": "Episode 13",
+        "season": 10,
+        "episode": 13,
+        "released": "2017-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1361172",
+        "title": "Episode 14",
+        "season": 10,
+        "episode": 14,
+        "released": "2017-12-08",
+        "overview": "What do the Goggleboxers think of The King's Speech, Strictly, The X Factor Final, Blue Planet II, I'm a Celebrity, The Real Marigold on Tour and Paul Hollywood"
+      },
+      {
+        "id": "tvmaze:1361173",
+        "title": "Episode 15",
+        "season": 10,
+        "episode": 15,
+        "released": "2017-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1409992",
+        "title": "Episode 1",
+        "season": 11,
+        "episode": 1,
+        "released": "2018-02-23",
+        "overview": "What do Britain's sharpest armchair critics think of The Wine Show, All Together Now, Troy: Fall of a City, This Morning, 24 Hours in Police Custody, 24 Hours in A&amp;E and The Job Interview?"
+      },
+      {
+        "id": "tvmaze:1411161",
+        "title": "Episode 2",
+        "season": 11,
+        "episode": 2,
+        "released": "2018-03-02",
+        "overview": "What do Britain's sharpest armchair critics think of Saturday Night Takeaway, Celebrity Haunted Mansion, Point Break, Britain's Brightest Family, Portrait Artist of the Year and Troy: Fall of a City?"
+      },
+      {
+        "id": "tvmaze:1413953",
+        "title": "Episode 3",
+        "season": 11,
+        "episode": 3,
+        "released": "2018-03-09",
+        "overview": "Including All Together Now, Dancing on Ice, The Great Celebrity Bake Off for Stand Up To Cancer, Wild Britain, The World's Most Extraordinary Homes and Do the Right Thing with Eamonn and Ruth"
+      },
+      {
+        "id": "tvmaze:1413954",
+        "title": "Episode 4",
+        "season": 11,
+        "episode": 4,
+        "released": "2018-03-16",
+        "overview": "What do Britain's sharpest armchair critics think of Match of the Day, Sir Bruce: A Celebration, Crufts, Amazing Hotels: Life Beyond the Lobby, One Born Every Minute and Troy: Fall of a City?"
+      },
+      {
+        "id": "tvmaze:1413955",
+        "title": "Episode 5",
+        "season": 11,
+        "episode": 5,
+        "released": "2018-03-23",
+        "overview": "What do Britain's sharpest armchair critics think of Seven Year Switch, the Winter Paralympics, Jane McDonald &amp; Friends, The Andrew Marr Show, The World's Ugliest Pets and MAKE! Craft Britain?"
+      },
+      {
+        "id": "tvmaze:1413956",
+        "title": "Episode 6",
+        "season": 11,
+        "episode": 6,
+        "released": "2018-03-30",
+        "overview": "What do Britain's sharpest armchair critics think of Sport Relief, Top Gear, The Bodyguard, Come Home and Great Indian Railway Journeys?"
+      },
+      {
+        "id": "tvmaze:1413957",
+        "title": "Episode 7",
+        "season": 11,
+        "episode": 7,
+        "released": "2018-04-06",
+        "overview": "Natural World: Attenborough's Wonder of Eggs, The Generation Game, The Silence Of The Lambs, Come Home, First Dates and The Yorkshire Vet Casebook all get a grilling from Britain's sharpest armchair critics."
+      },
+      {
+        "id": "tvmaze:1413958",
+        "title": "Episode 8",
+        "season": 11,
+        "episode": 8,
+        "released": "2018-04-13",
+        "overview": "What do Britain's sharpest armchair critics think of Match of the Day, The Andrew Marr Show, Sex Robots and Us, The Sky at Night, Change Your Tune, Marcella and Made in Yorkshire?"
+      },
+      {
+        "id": "tvmaze:1446984",
+        "title": "Episode 9",
+        "season": 11,
+        "episode": 9,
+        "released": "2018-04-20",
+        "overview": "What do Britain's sharpest armchair critics think of The Shining, Britain's Got Talent, Antiques Roadshow, The Queen's Green Planet, Buy It Now and The Yorkshire Vet?"
+      },
+      {
+        "id": "tvmaze:1452092",
+        "title": "Episode 10",
+        "season": 11,
+        "episode": 10,
+        "released": "2018-04-27",
+        "overview": "What do Britain's sharpest armchair critics think of The Button, The Queen's Birthday Party, Britain's Got Talent, University Challenge, This Morning and Top of the Shop?"
+      },
+      {
+        "id": "tvmaze:1452093",
+        "title": "Episode 11",
+        "season": 11,
+        "episode": 11,
+        "released": "2018-05-04",
+        "overview": "What do Britain's sharpest armchair critics think of My Year with the Tribe, Only Connect, Love in the Countryside, Britain's Best Home Cook and Britain's Got Talent?"
+      },
+      {
+        "id": "tvmaze:1452094",
+        "title": "Episode 12",
+        "season": 11,
+        "episode": 12,
+        "released": "2018-05-11",
+        "overview": "What do Britain's sharpest armchair critics think of Portillo's Hidden History of Britain, Who Wants to Be a Millionaire?, Spice World: The Movie, Love in the Countryside and Britain's Got Talent?"
+      },
+      {
+        "id": "tvmaze:1452095",
+        "title": "Episode 13",
+        "season": 11,
+        "episode": 13,
+        "released": "2018-05-18",
+        "overview": "What do Britain's sharpest armchair critics think of The £100k Drop, Eurovision, Heart Transplant: A Chance to Live, Million Pound Menu, The Andrew Marr Show, BGT, Buy It Now and the film Poltergeist?"
+      },
+      {
+        "id": "tvmaze:1452096",
+        "title": "Episode 14",
+        "season": 11,
+        "episode": 14,
+        "released": "2018-05-25",
+        "overview": "What do Britain's sharpest armchair critics think of The Royal Wedding, All Round to Mrs Brown's, A Very English Scandal, The Handmaid's Tale and Jamie's Quick &amp; Easy Food?"
+      },
+      {
+        "id": "tvmaze:1452097",
+        "title": "Episode 15",
+        "season": 11,
+        "episode": 15,
+        "released": "2018-06-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1484938",
+        "title": "Episode 16",
+        "season": 11,
+        "episode": 16,
+        "released": "2018-06-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1516420",
+        "title": "Episode 1",
+        "season": 12,
+        "episode": 1,
+        "released": "2018-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1526004",
+        "title": "Episode 2",
+        "season": 12,
+        "episode": 2,
+        "released": "2018-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1530245",
+        "title": "Episode 3",
+        "season": 12,
+        "episode": 3,
+        "released": "2018-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1530246",
+        "title": "Episode 4",
+        "season": 12,
+        "episode": 4,
+        "released": "2018-09-28",
+        "overview": "Britain's sharpest armchair critics share their insightful, passionate and sometimes emotional critiques of the week's biggest and best shows, including Strictly Come Dancing, The Andrew Marr Show, Antiques Roadshow, Bodyguard, The Yorkshire Vet, Gareth Malone's All Star Music Quiz, and The Circle."
+      },
+      {
+        "id": "tvmaze:1530247",
+        "title": "Episode 5",
+        "season": 12,
+        "episode": 5,
+        "released": "2018-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1530248",
+        "title": "Episode 6",
+        "season": 12,
+        "episode": 6,
+        "released": "2018-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1530249",
+        "title": "Episode 7",
+        "season": 12,
+        "episode": 7,
+        "released": "2018-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1530250",
+        "title": "Episode 8",
+        "season": 12,
+        "episode": 8,
+        "released": "2018-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1549639",
+        "title": "Episode 9",
+        "season": 12,
+        "episode": 9,
+        "released": "2018-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1556129",
+        "title": "Episode 10",
+        "season": 12,
+        "episode": 10,
+        "released": "2018-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1562775",
+        "title": "Episode 11",
+        "season": 12,
+        "episode": 11,
+        "released": "2018-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1565550",
+        "title": "Episode 12",
+        "season": 12,
+        "episode": 12,
+        "released": "2018-11-23",
+        "overview": "Britain's sharpest armchair critics share their insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1569486",
+        "title": "Episode 13",
+        "season": 12,
+        "episode": 13,
+        "released": "2018-11-30",
+        "overview": "Britain's sharpest armchair critics share their insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1573450",
+        "title": "Episode 14",
+        "season": 12,
+        "episode": 14,
+        "released": "2018-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1574756",
+        "title": "Episode 15",
+        "season": 12,
+        "episode": 15,
+        "released": "2018-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1579090",
+        "title": "Episode 16: The Best of 2018",
+        "season": 12,
+        "episode": 16,
+        "released": "2018-12-24",
+        "overview": "Favourite opinionated TV viewers share their sharp, insightful, passionate and sometimes emotional critiques of the year's biggest and best shows, including Killing Eve, A Very English Scandal, Panorama: Inside No 10, Bodyguard, Strictly Come Dancing, The Haunting of Hill House, The Great British Bake Off, Naked Attraction, The Last Leg, Britain's Got Talent, The Andrew Marr Show, Antiques Roadshow, The X Factor and the royal wedding. This is a chance to see some of the best moments of the past year of Gogglebox: 2018 in review from the country's best-loved households."
+      },
+      {
+        "id": "tvmaze:1608796",
+        "title": "Episode 1",
+        "season": 13,
+        "episode": 1,
+        "released": "2019-02-22",
+        "overview": "Britain's sharpest armchair critics return for a 13th series, to share more of their insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1612033",
+        "title": "Episode 2",
+        "season": 13,
+        "episode": 2,
+        "released": "2019-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1617439",
+        "title": "Episode 3",
+        "season": 13,
+        "episode": 3,
+        "released": "2019-03-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1617440",
+        "title": "Episode 4",
+        "season": 13,
+        "episode": 4,
+        "released": "2019-03-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1617441",
+        "title": "Episode 5",
+        "season": 13,
+        "episode": 5,
+        "released": "2019-03-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1617442",
+        "title": "Episode 6",
+        "season": 13,
+        "episode": 6,
+        "released": "2019-03-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1617443",
+        "title": "Episode 7",
+        "season": 13,
+        "episode": 7,
+        "released": "2019-04-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1617444",
+        "title": "Episode 8",
+        "season": 13,
+        "episode": 8,
+        "released": "2019-04-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1617445",
+        "title": "Episode 9",
+        "season": 13,
+        "episode": 9,
+        "released": "2019-04-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1617446",
+        "title": "Episode 10",
+        "season": 13,
+        "episode": 10,
+        "released": "2019-04-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1650670",
+        "title": "Episode 11",
+        "season": 13,
+        "episode": 11,
+        "released": "2019-05-03",
+        "overview": "Britain's sharpest armchair critics share more of their insightful, passionate and sometimes emotional critiques of the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1653089",
+        "title": "Episode 12",
+        "season": 13,
+        "episode": 12,
+        "released": "2019-05-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1653090",
+        "title": "Episode 13",
+        "season": 13,
+        "episode": 13,
+        "released": "2019-05-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1657684",
+        "title": "Episode 14",
+        "season": 13,
+        "episode": 14,
+        "released": "2019-05-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1659276",
+        "title": "Episode 15",
+        "season": 13,
+        "episode": 15,
+        "released": "2019-05-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1707225",
+        "title": "Episode 1",
+        "season": 14,
+        "episode": 1,
+        "released": "2019-09-13",
+        "overview": "The fly-on-the-wall series turning the cameras on TV's most vocal armchair critics returns, as the show's regular gaggle of families, friends and viewing party acquaintances share their insightful, passionate and sometimes emotional critiques. They begin by casting their gaze at EastEnders, Britain's Got Talent: The Champions, Peaky Blinders, Expedition with Steve Backshall, Gordon Ramsay: Uncharted and First Dates Hotel."
+      },
+      {
+        "id": "tvmaze:1713836",
+        "title": "Episode 2",
+        "season": 14,
+        "episode": 2,
+        "released": "2019-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1717340",
+        "title": "Episode 3",
+        "season": 14,
+        "episode": 3,
+        "released": "2019-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1720605",
+        "title": "Episode 4",
+        "season": 14,
+        "episode": 4,
+        "released": "2019-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1720606",
+        "title": "Episode 5",
+        "season": 14,
+        "episode": 5,
+        "released": "2019-10-11",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week. Programmes under scrutiny include Celebrity First Dates Hotel for SU2C, Britain's Got Talent: The Champions, The Circle Vote Night, Strictly Come Dancing and This Morning, plus the movie A Quiet Place."
+      },
+      {
+        "id": "tvmaze:1720607",
+        "title": "Episode 6",
+        "season": 14,
+        "episode": 6,
+        "released": "2019-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1720608",
+        "title": "Episode 7: Celebrity Special for SU2C",
+        "season": 14,
+        "episode": 7,
+        "released": "2019-10-25",
+        "overview": "Some very famous faces join the series' opinionated viewers in a special episode for this year's Stand Up to Cancer appeal. Jack Whitehall and his parents Michael and Hilary, Steve Pemberton and Reece Shearsmith, and Yungblud and Jack Saunders take to their sofas. Plus, returning from the recent Celebrity series, are Nick and Liv Grimshaw, Denise Van Outen and Eddie Boxshall, and Martin and Roman Kemp."
+      },
+      {
+        "id": "tvmaze:1720609",
+        "title": "Episode 8",
+        "season": 14,
+        "episode": 8,
+        "released": "2019-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1750082",
+        "title": "Episode 9",
+        "season": 14,
+        "episode": 9,
+        "released": "2019-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1757258",
+        "title": "Episode 10",
+        "season": 14,
+        "episode": 10,
+        "released": "2019-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1760861",
+        "title": "Episode 11",
+        "season": 14,
+        "episode": 11,
+        "released": "2019-11-22",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week. The programme captures their instant reactions and lively discussions from the comfort of their own homes, as they watch Prince Andrew &amp; the Epstein Scandal: The Newsnight Interview, The War of the Worlds, I'm a Celebrity... Get Me Out of Here!, Johnson v Corbyn: The ITV Debate, Mountain Vets, Into the Wind and Good Morning Britain."
+      },
+      {
+        "id": "tvmaze:1760862",
+        "title": "Episode 12",
+        "season": 14,
+        "episode": 12,
+        "released": "2019-11-29",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week. The programme captures their instant reactions and lively discussions from the comfort of their own homes."
+      },
+      {
+        "id": "tvmaze:1761158",
+        "title": "Episode 13",
+        "season": 14,
+        "episode": 13,
+        "released": "2019-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1772709",
+        "title": "Episode 14",
+        "season": 14,
+        "episode": 14,
+        "released": "2019-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1801632",
+        "title": "Episode 1",
+        "season": 15,
+        "episode": 1,
+        "released": "2020-02-21",
+        "overview": "The fly-on-the-wall series turning the cameras on TV's most vocal armchair critics returns, as the show's regular gaggle of families, friends and viewing party acquaintances settle down to share their insightful, passionate and sometimes emotional critiques on what they have been watching during the week from the comfort of their own sofas."
+      },
+      {
+        "id": "tvmaze:1801633",
+        "title": "Episode 2",
+        "season": 15,
+        "episode": 2,
+        "released": "2020-02-28",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week. The programme captures their instant reactions and lively discussions from the comfort of their own homes."
+      },
+      {
+        "id": "tvmaze:1806751",
+        "title": "Episode 3",
+        "season": 15,
+        "episode": 3,
+        "released": "2020-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1816361",
+        "title": "Episode 4",
+        "season": 15,
+        "episode": 4,
+        "released": "2020-03-13",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, turning their attention to shows including Dragons' Den, Crufts and Antiques Roadshow. ITV drama Liar, Netflix's The Stranger and Channel 4's new dating show Five Guys a Week come under scrutiny, while news coverage of Harry and Meghan and the coronavirus are also appraised."
+      },
+      {
+        "id": "tvmaze:1816520",
+        "title": "Episode 5",
+        "season": 15,
+        "episode": 5,
+        "released": "2020-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1816521",
+        "title": "Episode 6",
+        "season": 15,
+        "episode": 6,
+        "released": "2020-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1816522",
+        "title": "Episode 7",
+        "season": 15,
+        "episode": 7,
+        "released": "2020-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1816523",
+        "title": "Episode 8",
+        "season": 15,
+        "episode": 8,
+        "released": "2020-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1816524",
+        "title": "Episode 9",
+        "season": 15,
+        "episode": 9,
+        "released": "2020-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1847074",
+        "title": "Episode 10",
+        "season": 15,
+        "episode": 10,
+        "released": "2020-04-24",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions to Killing Eve, Netflix show Too Hot to Handle, The Yorkshire Vet, The Andrew Marr Show interview with Michael Gove, Celebrity SAS: Who Dares Wins, and BBC news coverage of face masks."
+      },
+      {
+        "id": "tvmaze:1849922",
+        "title": "Episode 11",
+        "season": 15,
+        "episode": 11,
+        "released": "2020-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1849923",
+        "title": "Episode 12",
+        "season": 15,
+        "episode": 12,
+        "released": "2020-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1858721",
+        "title": "Episode 13",
+        "season": 15,
+        "episode": 13,
+        "released": "2020-05-15",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1862211",
+        "title": "Episode 14",
+        "season": 15,
+        "episode": 14,
+        "released": "2020-05-22",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1865035",
+        "title": "Episode 15",
+        "season": 15,
+        "episode": 15,
+        "released": "2020-05-29",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:1905174",
+        "title": "Episode 1",
+        "season": 16,
+        "episode": 1,
+        "released": "2020-09-11",
+        "overview": "On the box this time, (Un)well off Netflix, When Harry Met Sally, Countdown, Britain's Got Talent, Mary Berry's Simple Comforts, Elephant Hospital, and BBC News on young people and Covid."
+      },
+      {
+        "id": "tvmaze:1928269",
+        "title": "Episode 2",
+        "season": 16,
+        "episode": 2,
+        "released": "2020-09-18",
+        "overview": "Britain's armchair critics share more of their critiques of the week's biggest and best shows. They've been watching Who Wants To Be A Millionaire?, (Un)well, Extinction: The Facts, Des, The Third Day, BBC News on the R number, and Breakfast with Michael Gove on Brexit."
+      },
+      {
+        "id": "tvmaze:1928270",
+        "title": "Episode 3",
+        "season": 16,
+        "episode": 3,
+        "released": "2020-09-25",
+        "overview": "Shows under review include Get Organized with The Home Edit, Ratched, EastEnders, The Andrew Marr Show with Keir Starmer, Yorkshire Tea vs PG Tips: Battle of the Brews, The Great British Bake Off, The Third Day and Politics Live with the Prime Minster's address to the House of Commons."
+      },
+      {
+        "id": "tvmaze:1928271",
+        "title": "Episode 4",
+        "season": 16,
+        "episode": 4,
+        "released": "2020-10-02",
+        "overview": "The celebrated armchair critics share their critiques on shows including Ratched, Council House Britain, Family Fortunes, This Morning, Jamie: Keep Cooking Family Favourites, First Dates and BBC News coverage of royal finances, students and the moment the Prime Minister appeared to be confused by his own rules."
+      },
+      {
+        "id": "tvmaze:1928272",
+        "title": "Episode 5",
+        "season": 16,
+        "episode": 5,
+        "released": "2020-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1928273",
+        "title": "Episode 6",
+        "season": 16,
+        "episode": 6,
+        "released": "2020-10-16",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions to The Haunting Of Bly Manor, Britain's Got Talent, Only Connect, Made in Chelsea, Autumn at Jimmy's Farm, First Dates, BBC News' reportage of new Covid-19 data, and ITV News' coverage of Donald Trump's latest rally."
+      },
+      {
+        "id": "tvmaze:1928274",
+        "title": "Episode 7: Celebrity Special for SU2C",
+        "season": 16,
+        "episode": 7,
+        "released": "2020-10-23",
+        "overview": "Mo Gilligan and Babatunde Aleshe are among the famous faces hitting the couch for a special episode for this year's Stand Up to Cancer appeal. From Saturday night entertainment juggernauts to the week's biggest news stories, from hard-hitting documentary series to gritty drama, the contributors offers sharp, insightful, funny, and sometimes emotional critiques of popular and topical TV shows."
+      },
+      {
+        "id": "tvmaze:1928275",
+        "title": "Episode 8",
+        "season": 16,
+        "episode": 8,
+        "released": "2020-10-30",
+        "overview": "The armchair critics share their opinions on shows including This Morning, The Million Pound Cube, Strictly Come Dancing, The Undoing, The Yorkshire Vet, First Dates, BBC news reports on the US election and a BBC Breakfast report on the Welsh shopping ban."
+      },
+      {
+        "id": "tvmaze:1960281",
+        "title": "Episode 9",
+        "season": 16,
+        "episode": 9,
+        "released": "2020-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1966164",
+        "title": "Episode 10",
+        "season": 16,
+        "episode": 10,
+        "released": "2020-11-13",
+        "overview": "Britain's sharpest armchair critics have been watching Strictly Come Dancing, I'm A Celebrity... A Jungle Story, 24 Hours in Police Custody, Nigella's Cook, Eat, Repeat, and Naked Attraction."
+      },
+      {
+        "id": "tvmaze:1969829",
+        "title": "Episode 11",
+        "season": 16,
+        "episode": 11,
+        "released": "2020-11-20",
+        "overview": "Programmes under review include James May: Oh Cook, Strictly Come Dancing, The Crown, I'm A Celebrity... Get Me Out Of Here!, Nigella's Cook, Eat, Repeat, Naked Attraction, and news coverage of Dominic Cummings and Donald Trump."
+      },
+      {
+        "id": "tvmaze:1973216",
+        "title": "Episode 12",
+        "season": 16,
+        "episode": 12,
+        "released": "2020-11-27",
+        "overview": "This time Britain's sharpest armchair critics have been watching The Crown, We Are The Champions, Strictly Come Dancing, The Undoing, and The Great British Bake Off."
+      },
+      {
+        "id": "tvmaze:1976506",
+        "title": "Episode 13",
+        "season": 16,
+        "episode": 13,
+        "released": "2020-12-04",
+        "overview": "The armchair critics share their opinions on programmes including I'm a Celebrity, Get Me Out of Here!, Michael McIntyre's The Wheel, Tiny World, The Undoing, This Morning, Good Morning Britain and First Dates. They also comment on the issue of lockdown tiers as reported on BBC News."
+      },
+      {
+        "id": "tvmaze:1976507",
+        "title": "Episode 14",
+        "season": 16,
+        "episode": 14,
+        "released": "2020-12-11",
+        "overview": "The armchair critics share their opinions on shows including Mariah Carey's Magical Christmas Special, I'm a Celebrity Get Me Out of Here!, Coronation Street, Swamp People: Serpent Invasion, Nigella's Cook, Eat, Repeat, Tiny World, news coverage of the Brexit stalemate and the Covid vaccine. They also comment on Health Secretary Matt Hancock's recent TV appearances."
+      },
+      {
+        "id": "tvmaze:2031458",
+        "title": "Episode 1",
+        "season": 17,
+        "episode": 1,
+        "released": "2021-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2031459",
+        "title": "Episode 2",
+        "season": 17,
+        "episode": 2,
+        "released": "2021-03-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2031460",
+        "title": "Episode 3",
+        "season": 17,
+        "episode": 3,
+        "released": "2021-03-12",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, as cameras capture their instant reactions prompted by the week's biggest and best shows, be they entertainment juggernauts, hard-hitting documentaries, news reports or gritty dramas."
+      },
+      {
+        "id": "tvmaze:2031461",
+        "title": "Episode 4",
+        "season": 17,
+        "episode": 4,
+        "released": "2021-03-19",
+        "overview": "On the box this week, The Circle, CBeebies Bedtime Story, Escape from Pretoria, Baywatch, This Morning (bathroom hacks), Naked Attraction, and BBC News (Prince Philip)."
+      },
+      {
+        "id": "tvmaze:2031462",
+        "title": "Episode 5",
+        "season": 17,
+        "episode": 5,
+        "released": "2021-03-26",
+        "overview": "What do the Goggleboxers think of Line of Duty, Ant &amp; Dec's Saturday Night Takeaway, This Is My House, The Proof Is Out There, Formula 1: Drive to Survive, Countdown and This Morning?"
+      },
+      {
+        "id": "tvmaze:2031463",
+        "title": "Episode 6",
+        "season": 17,
+        "episode": 6,
+        "released": "2021-04-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2059515",
+        "title": "Episode 7",
+        "season": 17,
+        "episode": 7,
+        "released": "2021-04-09",
+        "overview": "The armchair critics voice their opinions on shows including Made in Chelsea, Dragons' Den, Line of Duty, Louis Theroux: Shooting Joe Exotic, The Invisible Man and The Graham Norton Show. Plus, they share their observations on news reports concerning beer and the coronavirus."
+      },
+      {
+        "id": "tvmaze:2059516",
+        "title": "Episode 8",
+        "season": 17,
+        "episode": 8,
+        "released": "2021-04-16",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, as cameras capture their instant reactions to Line of Duty, Naked Attraction, I Can See Your Voice, Alan Carr's Epic Gameshow, Running Wild with Bear Grylls, Escape to the Farm with Kate Humble, and news coverage of Prince Philip's death and and lockdown reopening."
+      },
+      {
+        "id": "tvmaze:2066251",
+        "title": "Episode 9",
+        "season": 17,
+        "episode": 9,
+        "released": "2021-04-23",
+        "overview": "The armchair critics share their opinions on recently aired shows, including watching Game of Talents, Line of Duty, Catfish UK: The TV Show, Four in a Bed, Paranormal Activity and Cher &amp; the Loneliest Elephant. Plus, they share their observations of the coverage of the funeral of HRH the Duke of Edinburgh and Good Morning Britain's report of an altercation between Labour leader Keir Starmer and a pub landlord."
+      },
+      {
+        "id": "tvmaze:2077774",
+        "title": "Episode 10",
+        "season": 17,
+        "episode": 10,
+        "released": "2021-04-30",
+        "overview": "The armchair critics share their opinions on shows including Line of Duty, Snackmasters, Alan Carr's Epic Gameshow, Mastermind, Baby Surgeons: Delivering Miracles, The Art of the Joy of Sex and Dr Pimple Popper. Plus, they observe BBC news coverage of the apparent spat between Dominic Cummings and Boris Johnson."
+      },
+      {
+        "id": "tvmaze:2083595",
+        "title": "Episode 11",
+        "season": 17,
+        "episode": 11,
+        "released": "2021-05-07",
+        "overview": "The armchair critics share their opinions on programmes including Line of Duty, I Can See Your Voice, Beat the Chasers, Sex and the City, My Octopus Teacher, Catfish UK: The TV Show and The Earth at Night in Color. Plus, they offer comment on ITV's coverage of the apparent ease of access to the Prime Minister's personal telephone number."
+      },
+      {
+        "id": "tvmaze:2083596",
+        "title": "Episode 12",
+        "season": 17,
+        "episode": 12,
+        "released": "2021-05-14",
+        "overview": "The armchair critics share their opinions on shows including SAS: Who Dares Wins, Dragons' Den, Three Families, Headspace: Guide to Sleep, Secret Crush, Lego Masters USA and This Morning. They also proffer their thoights on a BBC News report about taking holidays abroad as the pandemic rules on travel are relaxed."
+      },
+      {
+        "id": "tvmaze:2087935",
+        "title": "Episode 13",
+        "season": 17,
+        "episode": 13,
+        "released": "2021-05-21",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, as cameras capture their instant reactions prompted by the week's biggest and best shows, including Tom Allen's Quizness, Mare of Easttown, Gregg Wallace's Big Weekend Away, Mamma Mia! Here We Go Again, Dung Dynasty, Running Wild with Bear Grylls, The Andrew Marr Show, and ITV News."
+      },
+      {
+        "id": "tvmaze:2142793",
+        "title": "Episode 14",
+        "season": 17,
+        "episode": 14,
+        "released": "2021-08-06",
+        "overview": "A special episode featuring the best moments from 2021's Gogglebox episodes, as some of the nation's sharpest and best-loved TV critics hit the sofa for the best telly on the box."
+      },
+      {
+        "id": "tvmaze:2163732",
+        "title": "Episode 1",
+        "season": 18,
+        "episode": 1,
+        "released": "2021-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2164092",
+        "title": "Episode 2",
+        "season": 18,
+        "episode": 2,
+        "released": "2021-09-24",
+        "overview": "The armchair critics share their opinions on The Great British Bake Off, Vigil, Changing Rooms, Sex Actually with Alice Levine, This Morning and Michel Roux's French Country Cooking. They also offer their opinions on the gas crisis and the relaxation of travel restrictions, as reported by the BBC and ITV."
+      },
+      {
+        "id": "tvmaze:2178734",
+        "title": "Episode 3",
+        "season": 18,
+        "episode": 3,
+        "released": "2021-10-01",
+        "overview": "The armchair critics share their opinions on Strictly Come Dancing, Vigil, Serengeti II, Come Dine with Me, Ambulance, Hotel Paranormal, Andrew Marr's interview with Keir Starmer, and ITV news coverage of the petrol crisis, with cameras capturing their instant reactions and the lively discussions."
+      },
+      {
+        "id": "tvmaze:2184158",
+        "title": "Episode 4",
+        "season": 18,
+        "episode": 4,
+        "released": "2021-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2190514",
+        "title": "Celebrity Special SU2C 2021",
+        "season": 18,
+        "episode": 5,
+        "released": "2021-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2195034",
+        "title": "Episode 6",
+        "season": 18,
+        "episode": 6,
+        "released": "2021-10-22",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions to programmes including You, Coronation Street, Strictly Come Dancing, Celebrity Trash Monsters: What's Your Waste Size?, Ashley Banjo: Britain in Black and White, The Love Trap, Killers of the Cosmos and The Mating Game."
+      },
+      {
+        "id": "tvmaze:2200475",
+        "title": "Episode 7",
+        "season": 18,
+        "episode": 7,
+        "released": "2021-10-29",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows. Programmes this time include A Nightmare on Elm Street 3: Dream Warriors, Sex, Love &amp; Goop, Coronation Street, Strictly Come Dancing, The Cube, Celebrity Ghost Trip, Dom Delivers, and This Morning"
+      },
+      {
+        "id": "tvmaze:2203911",
+        "title": "Episode 8",
+        "season": 18,
+        "episode": 8,
+        "released": "2021-11-05",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, critiquing The Outlaws, Family Fortunes, You, Celebrity Yorkshire Auction House and The Mating Game. They also offer their thoiughts on ITV News of COP26 and other stories."
+      },
+      {
+        "id": "tvmaze:2214983",
+        "title": "Episode 9",
+        "season": 18,
+        "episode": 9,
+        "released": "2021-11-12",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, focusing their attentions on Sitting on a Fortune, Close to Me, You, Nadiya's Fast Flavours, Animal, UFO Witness, This Morning's Spin-a-Win feature and the ITV News."
+      },
+      {
+        "id": "tvmaze:2218049",
+        "title": "Episode 10",
+        "season": 18,
+        "episode": 10,
+        "released": "2021-11-19",
+        "overview": "The armchair critics share their opinions on The Graham Norton Show, Mary Berry: Love to Cook, Who Wants to Be a Millionaire? Celebrity Special, Celebrity Antiques Road Trip, Strictly Come Dancing, The Lakes with Simon Reeve, Sex Unzipped, and This Morning."
+      },
+      {
+        "id": "tvmaze:2222069",
+        "title": "Episode 11",
+        "season": 18,
+        "episode": 11,
+        "released": "2021-11-26",
+        "overview": "The armchair critics share their opinions on I'm a Celebrity Get Me Out of Here!, Tiger King 2, An Audience with Adele, Michael McIntyre's The Wheel, Close to Me, Inside Beverly Hills: The Land of the Rich and Famous, BBC/ITV News (Austria) and Newsnight (The PM)."
+      },
+      {
+        "id": "tvmaze:2223551",
+        "title": "Episode 12",
+        "season": 18,
+        "episode": 12,
+        "released": "2021-12-03",
+        "overview": "The armchair critics share their opinions on shows including I'm a Celebrity, Get Me Out of Here!, True Story, Miriam and Alan: Lost in Scotland, Tiger King 2, Close to Me and Inside Beverly Hills: The Land of the Rich and Famous. Plus, news coverage of the illegal Channel crossings and the emergence of the Omicron variant of the coronavirus."
+      },
+      {
+        "id": "tvmaze:2235045",
+        "title": "Episode 13",
+        "season": 18,
+        "episode": 13,
+        "released": "2021-12-10",
+        "overview": "On Gogglebox this time: Strictly Come Dancing, Selling Sunset, Mariah's Christmas: The Magic Continues, True Story, How to Make It on OnlyFans and ITV News (No.10 Xmas Party)"
+      },
+      {
+        "id": "tvmaze:2240336",
+        "title": "Gogglebox 2021",
+        "season": 18,
+        "episode": 14,
+        "released": "2021-12-25",
+        "overview": "Highlights of the past year's episodes, featuring memorable appearances by the Siddiquis, Giles and Mary, Jenny and Lee, Ellie and Izzi, Marcus and Mica, and Amira and Iqra as they share their opinions and lively discussions based on the best and worst TV of 2021. The shows featured include I Can See Your Voice, Mastermind, Nadiya, Ready to Mingle, Line of Duty, The Mating Game, Petrol News, Sex Actually with Alice Levine, Strictly Come Dancing, Squid Game, An Audience with Adele, Headspace Guide to Sleep, Vigil, Life Drawing Live, Sex, Love &amp; Goop, and Coronation Street."
+      },
+      {
+        "id": "tvmaze:2275470",
+        "title": "Episode 1",
+        "season": 19,
+        "episode": 1,
+        "released": "2022-02-18",
+        "overview": "The armchair critics scrutinise The Masked Singer, Trigger Point, Pam &amp; Tommy, First Dates: Valentine's, Dancing on Ice, Dragons' Den, Mary Beard's Forgotten Art, and offer their take of a BBC News report on the rising cost of living."
+      },
+      {
+        "id": "tvmaze:2277749",
+        "title": "Episode 2",
+        "season": 19,
+        "episode": 2,
+        "released": "2022-02-25",
+        "overview": "The armchair critics share their opinions on programmes including Love Is Blind, Starstruck, Cheaters, Celebrity Help! My House Is Haunted, Bradley &amp; Barney Walsh: Breaking Dad, Teen First Dates and Sophie Raworth's Sunday Morning interview with Boris Johnson. Plus, an appraisal of the coverage of the coronavirus on BBC News."
+      },
+      {
+        "id": "tvmaze:2284754",
+        "title": "Episode 3",
+        "season": 19,
+        "episode": 3,
+        "released": "2022-03-04",
+        "overview": "The armchair critics share their opinions on shows including Peaky Blinders, Love Is Blind, Coronation Street, Celebrity Hunted, Starstruck and Celebrity Mastermind. On a more serious note, they share their thoughts on the BBC's coverage of the outbreak of war in Ukraine."
+      },
+      {
+        "id": "tvmaze:2285353",
+        "title": "Episode 4",
+        "season": 19,
+        "episode": 4,
+        "released": "2022-03-11",
+        "overview": "The armchair critics share their opinions on shows including Killing Eve, The Apprentice, Our House, Naked Attraction, Ant &amp; Dec's Saturday Night Takeaway, Celebrity Hunted and Dragons' Den, with cameras capturing their instant reactions."
+      },
+      {
+        "id": "tvmaze:2285354",
+        "title": "Episode 5",
+        "season": 19,
+        "episode": 5,
+        "released": "2022-03-18",
+        "overview": "The armchair critics share their opinions on shows including Crufts 2022, This Is Going to Hurt, Formula 1: Drive to Survive, This Is My House for Red Nose Day, Byron Baes, Marcus Wareing's Tales from a Kitchen Garden, Haunted Hospitals, and BBC News coverage of the war in Ukraine."
+      },
+      {
+        "id": "tvmaze:2285355",
+        "title": "Episode 6",
+        "season": 19,
+        "episode": 6,
+        "released": "2022-03-25",
+        "overview": "The armchair critics share their opinions on programmes including Dynasties II, Pieces of Her, Celebrity Mastermind, Joanna Lumley's Great Cities of the World, Is It Cake?, TOTP: 1992 Biggest Hits and Hospital: Road to Recovery. Plus, Good Morning Britain's reports on the P&amp;O dispute and BBC News coverage of President Putin's rally."
+      },
+      {
+        "id": "tvmaze:2285356",
+        "title": "Episode 7",
+        "season": 19,
+        "episode": 7,
+        "released": "2022-04-01",
+        "overview": "The armchair critics share their opinions on shows including Bridgerton, Gordon Ramsay's Future Food Stars, Dynasties II, The Great Big Tiny Design Challenge with Sandi Toksvig, Starstruck, Joanna Lumley's Great Cities of the World and This Morning. Plus, ITV News coverage of Will Smith attack of Chris Rock at the Oscars."
+      },
+      {
+        "id": "tvmaze:2285357",
+        "title": "Episode 8",
+        "season": 19,
+        "episode": 8,
+        "released": "2022-04-08",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2285358",
+        "title": "Episode 9",
+        "season": 19,
+        "episode": 9,
+        "released": "2022-04-15",
+        "overview": "The armchair critics share their opinions on shows including SAS: Who Dares Wins, Bridgerton, Freeze the Fear with Wim Hof, The 1% Club, Get Organized with the Home Edit, Made in Chelsea. Plus ITV news coverage of Rishi Sunak and the BBC's coverage of `Partygate\" fines."
+      },
+      {
+        "id": "tvmaze:2285359",
+        "title": "Episode 10",
+        "season": 19,
+        "episode": 10,
+        "released": "2022-04-22",
+        "overview": "The armchair critics share their opinions on Britain's Got Talent, The Thief, His Wife and the Canoe, Romeo and Duet, Freeze the Fear with Wim Hof, The Great Celebrity Bake Off for Stand Up To Cancer, Roar, Stacey Dooley Sleeps Over, and Expedition Bigfoot."
+      },
+      {
+        "id": "tvmaze:2313223",
+        "title": "Episode 11",
+        "season": 19,
+        "episode": 11,
+        "released": "2022-04-29",
+        "overview": "The armchair critics share their opinions on shows including Britain's Got Talent, Bridgerton, Romeo and Duet, The 1% Club, Inside the Force: 24/7, Piers Morgan Uncensored, Formula 1: Drive to Survive, and BBC News."
+      },
+      {
+        "id": "tvmaze:2318661",
+        "title": "Episode 12",
+        "season": 19,
+        "episode": 12,
+        "released": "2022-05-06",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions to Britain's Got Talent, One Night Stand, Gordon Ramsay's Future Food Stars, Great British History Hunters, Freeze The Fear with Wim Hof, This Came Out of Me, Boris Johnson's appearance on Good Morning Britain, and BBC News."
+      },
+      {
+        "id": "tvmaze:2323291",
+        "title": "Episode 13",
+        "season": 19,
+        "episode": 13,
+        "released": "2022-05-13",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions to Heartstopper, Made in Chelsea, The Circle, Ross Kemp: Shipwreck Treasure Hunter, Bee Czar, Gordon Ramsay's Future Food Stars, and BBC News coverage of the local elections."
+      },
+      {
+        "id": "tvmaze:2325044",
+        "title": "Episode 14",
+        "season": 19,
+        "episode": 14,
+        "released": "2022-05-20",
+        "overview": "The armchair critics share their opinions on the Eurovision Song Contest, Beat the Chasers, The Queen's Platinum Jubilee Celebration, Lovestruck High, The Repair Shop, Drag Me to Hell, and ITV News coverage of the Jubilee pudding."
+      },
+      {
+        "id": "tvmaze:2327031",
+        "title": "Episode 15",
+        "season": 19,
+        "episode": 15,
+        "released": "2022-05-27",
+        "overview": "The armchair critics share their opinions on Hunted, Bake Off: The Professionals, Made in Chelsea, Love in the Jungle, Top of the Pops 1992, Dickinson's Real Deal, Britain's Got Talent, and BBC News coverage of the Prime Minister's apparent involvement in Partygate."
+      },
+      {
+        "id": "tvmaze:2332908",
+        "title": "Episode 16",
+        "season": 19,
+        "episode": 16,
+        "released": "2022-06-03",
+        "overview": "The armchair critics share their opinions on programmes including Starstruck, The Home Edit, Made in Chelsea, Celebrity Help My House Is Haunted, SAS, This Is Going to Hurt, Dynasties II and Pam &amp; Tommy."
+      },
+      {
+        "id": "tvmaze:2380974",
+        "title": "Episode 1",
+        "season": 20,
+        "episode": 1,
+        "released": "2022-09-09",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2393200",
+        "title": "Episode 2",
+        "season": 20,
+        "episode": 2,
+        "released": "2022-09-16",
+        "overview": "Britain's sharpest armchair critics return for a new series, sharing their insightful and passionate takes on the week's biggest and best TV shows. This week they watched Frozen Planet II, Ninja Warrior UK: Race For Glory, Who Wants to Be a Millionaire?, Married at First Sight UK, BBC News Special (announcement of the Queen's death), HM The King (the King's address) and ITV News (Princes William and Harry on walkabout)."
+      },
+      {
+        "id": "tvmaze:2393226",
+        "title": "Episode 3",
+        "season": 20,
+        "episode": 3,
+        "released": "2022-09-23",
+        "overview": "The armchair critics share their opinions on the State Funeral of HM Queen Elizabeth II. They also offer insightful and passionate takes on The Masked Dancer, Frozen Planet II, Bad Sisters, The Grand Tour: A Scandi Flick, Secret Crush and BBC News."
+      },
+      {
+        "id": "tvmaze:2396637",
+        "title": "Episode 4",
+        "season": 20,
+        "episode": 4,
+        "released": "2022-09-30",
+        "overview": "The Goggleboxers watch Strictly Come Dancing, Coronation Street, Antiques Roadshow, Frozen Planet II, Kings of Pain, Help! My House Is Haunted, Only Connect, and ITV News on the mini-budget"
+      },
+      {
+        "id": "tvmaze:2402151",
+        "title": "Episode 5",
+        "season": 20,
+        "episode": 5,
+        "released": "2022-10-07",
+        "overview": "On the box this time: Bad Sisters, Nadiya's Everyday Baking, The Kardashians, Super/Natural, Emma Willis: Delivering Babies, A Trip to Infinity, BBC News (energy cap), and BBC News (Kwasi U-turn)"
+      },
+      {
+        "id": "tvmaze:2414237",
+        "title": "Episode 6",
+        "season": 20,
+        "episode": 6,
+        "released": "2022-10-14",
+        "overview": "The armchair critics share their opinions on shows including Strictly Come Dancing, Our Dementia Choir Sings Again with Vicky McClure, First Dates Hotel, My Possessed Pet, This Morning, The Ex-Wife and Sue Perkins: Perfectly Legal. Plus, thoughts on ITV News' of possible power shortages."
+      },
+      {
+        "id": "tvmaze:2418048",
+        "title": "Episode 7",
+        "season": 20,
+        "episode": 7,
+        "released": "2022-10-22",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions to I Can See Your Voice, Emmerdale, Strictly Come Dancing, Unbreakable, The Ex-Wife, Bargain Hunt, and news coverage of the new Chancellor."
+      },
+      {
+        "id": "tvmaze:2421605",
+        "title": "Celebrity Special SU2C 2022",
+        "season": 20,
+        "episode": 8,
+        "released": "2022-10-28",
+        "overview": "A special celebrity edition in support of Stand Up to Cancer, with Tom Daley and Dustin Lance Black, Charlotte Church and Luke Evans, and Gordon and Tilly Ramsay joining the regular cast. Programmes appraised include The Watcher, I Can See Your Voice, Love Is Blind, Only Connect, personal stories in Channel 4's Stand Up to Cancer strand, and ITV News coverage on the transition of power in Downing Street to Rishi Sunak."
+      },
+      {
+        "id": "tvmaze:2424646",
+        "title": "Episode 9",
+        "season": 20,
+        "episode": 9,
+        "released": "2022-11-04",
+        "overview": "The armchair critics share their opinions on various show from the past week, including Michael McIntyre's The Wheel, Jamie's £1 Wonders, Top Gear, Guillermo del Toro's Cabinet of Curiosities, Drink Masters, Wild Croc Territory, plus the woman marrying a ghost on This Morning and BBC News reporting on the new 50p coin."
+      },
+      {
+        "id": "tvmaze:2424735",
+        "title": "Episode 10",
+        "season": 20,
+        "episode": 10,
+        "released": "2022-11-11",
+        "overview": "The regular gaggle of family and friends appraise I'm a Celebrity, Get Me Out of Here!, Hollyoaks, Stanley Tucci: Searching for Italy, Queens for the Night, Alexander Armstrong In South Korea, University Challenge, and the BBC news coverage of Cop 27."
+      },
+      {
+        "id": "tvmaze:2432642",
+        "title": "Episode 11",
+        "season": 20,
+        "episode": 11,
+        "released": "2022-11-18",
+        "overview": "The regular gaggle of family and friends share their thoughts on shows including I'm a Celebrity, Get Me Out of Here!, The Great British Bake Off, The Crown, Family Fortunes, Mammals, Love Is Blind and This Morning."
+      },
+      {
+        "id": "tvmaze:2432909",
+        "title": "Episode 12",
+        "season": 20,
+        "episode": 12,
+        "released": "2022-11-25",
+        "overview": "The sofa-critics watch The Crown, I'm a Celebrity... Get Me Out Of Here!, You Won't Believe This, Down to Earth with Zac Efron, This Morning with Marie Kondo, The Hidden Lives of Pets, and ITV News and the World Cup."
+      },
+      {
+        "id": "tvmaze:2438952",
+        "title": "Episode 13",
+        "season": 20,
+        "episode": 13,
+        "released": "2022-12-02",
+        "overview": "On the box this time The Traitors, I'm a Celebrity... Get Me Out of Here!, Michael McIntyre's The Wheel, Planet Sex with Cara Delevingne, Mammals, You Won't Believe This and Help! My House Is Haunted"
+      },
+      {
+        "id": "tvmaze:2438982",
+        "title": "Episode 14",
+        "season": 20,
+        "episode": 14,
+        "released": "2022-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2488018",
+        "title": "Episode 1",
+        "season": 21,
+        "episode": 1,
+        "released": "2023-02-24",
+        "overview": "The armchair critics are back to tuck into their takeaways while sharing their thoughts on the best of week's TV and streaming output. Shows include Starstruck, The Piano, You, Rick Stein's Cornwall, Stacey Dooley Sleeps Over USA, 24 Hours in A&amp;E, a This Morning feature about the world's longest tongue and ITV News reporting on cheese."
+      },
+      {
+        "id": "tvmaze:2498614",
+        "title": "Episode 2",
+        "season": 21,
+        "episode": 2,
+        "released": "2023-03-03",
+        "overview": "It's Coronation Street and Love Island this week, plus Sex Actually with Alice Levine, Starstruck, Cheat, Dancing on Ice, and Catfish UK"
+      },
+      {
+        "id": "tvmaze:2502312",
+        "title": "Episode 3",
+        "season": 21,
+        "episode": 3,
+        "released": "2023-03-10",
+        "overview": "The armchair critics review Jamie's £1 Wonders, Married at First Sight Australia, Only Connect, Sex Actually with Alice Levine, Fall, Naked and Afraid, BBC News and ITV News."
+      },
+      {
+        "id": "tvmaze:2507220",
+        "title": "Episode 4",
+        "season": 21,
+        "episode": 4,
+        "released": "2023-03-17",
+        "overview": "The armchair critics review Wild Isles, Starstruck, The Apprentice, MILF Manor, The Piano and Married at First Sight Australia. They also share their thoughts on an unusual edition Match of the Day and, rather conveniently, the ITV News on Gary Lineker."
+      },
+      {
+        "id": "tvmaze:2510904",
+        "title": "Episode 5",
+        "season": 21,
+        "episode": 5,
+        "released": "2023-03-24",
+        "overview": "The armchair critics share their opinions on Wild Isles, Rise and Fall, Challenge Anneka, Race Across the World, The Great Celebrity Bake Off for Stand Up to Cancer, This Morning and recent BBC News coverage."
+      },
+      {
+        "id": "tvmaze:2520918",
+        "title": "Episode 6",
+        "season": 21,
+        "episode": 6,
+        "released": "2023-03-31",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, including Great Expectations, Rise and Fall, Wild Isles, Dance 100, Tempting Fortune, Married at First Sight Australia and Project Icon: The UK's Next Music Star. They also watch the news coverage of an asteroid passing between the Earth and the moon."
+      },
+      {
+        "id": "tvmaze:2520919",
+        "title": "Episode 7",
+        "season": 21,
+        "episode": 7,
+        "released": "2023-04-07",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by The Great Celebrity Bake Off for Stand Up To Cancer, Race Across the World, Love Is Blind, The Dog Academy, Beef, Outlast, and ITV News coverage of Donald Trump's indictment."
+      },
+      {
+        "id": "tvmaze:2520920",
+        "title": "Episode 8",
+        "season": 21,
+        "episode": 8,
+        "released": "2023-04-14",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions to In With a Shout, Gordon Ramsay's Future Food Stars, Rise and Fall, Saving Our Wild Isles, Last Woman on Earth with Sarah Pascoe, Obsession and Dr Down Below."
+      },
+      {
+        "id": "tvmaze:2520921",
+        "title": "Episode 9",
+        "season": 21,
+        "episode": 9,
+        "released": "2023-04-21",
+        "overview": "The Goggleboxers have been watching Britain's Got Talent, Scared of the Dark, Obsession, Family Fortunes, Love Is Blind, Inside the Factory and BBC News (nurses strikes)"
+      },
+      {
+        "id": "tvmaze:2535687",
+        "title": "Episode 10",
+        "season": 21,
+        "episode": 10,
+        "released": "2023-04-28",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2541357",
+        "title": "Episode 11",
+        "season": 21,
+        "episode": 11,
+        "released": "2023-05-05",
+        "overview": "The armchair critics share their insightful and passionate takes on TV shows including I'm a Celebrity South Africa, Citadel, The 1% Club, Celebrity Hunted, Britain's Got Talent, Reunion Hotel, and Canal Boat Diaries."
+      },
+      {
+        "id": "tvmaze:2541358",
+        "title": "Episode 12",
+        "season": 21,
+        "episode": 12,
+        "released": "2023-05-12",
+        "overview": "The armchair critics share their opinions on a selection of the week's TV, with cameras capturing their lively discussions as they sit down to watch the coronation ceremony and concert, The 1% Club, The Greatest Auction, Made in Chelsea and the local elections results on BBC News."
+      },
+      {
+        "id": "tvmaze:2541359",
+        "title": "Episode 13",
+        "season": 21,
+        "episode": 13,
+        "released": "2023-05-19",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2558628",
+        "title": "Episode 14",
+        "season": 21,
+        "episode": 14,
+        "released": "2023-05-26",
+        "overview": "Casualty, Queer Eye and Below Deck Sailing Yacht are on the 'Box this time. And FUBAR, Open House: The Great Sex Experiment, Big Beasts and BBC News (Phillip Schofield)."
+      },
+      {
+        "id": "tvmaze:2562213",
+        "title": "Episode 15",
+        "season": 21,
+        "episode": 15,
+        "released": "2023-06-02",
+        "overview": "The armchair critics share their opinions on shows including Sitting on a Fortune, Casualty, Britain's Got Talent, MerPeople, James May: Oh Cook!, The Greatest Auction and Top of the Pops 1994. Plus, reflections on the stories making the ITV News."
+      },
+      {
+        "id": "tvmaze:2562214",
+        "title": "Episode 16",
+        "season": 21,
+        "episode": 16,
+        "released": "2023-06-09",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2639217",
+        "title": "Episode 1",
+        "season": 22,
+        "episode": 1,
+        "released": "2023-09-08",
+        "overview": "Britain's sharpest armchair critics return for a new series with Gordon, Gino &amp; Fred: Viva España, EastEnders, Top Guns: Inside the RAF, Beat the Chasers and The Yorkshire Vet"
+      },
+      {
+        "id": "tvmaze:2643800",
+        "title": "Episode 2",
+        "season": 22,
+        "episode": 2,
+        "released": "2023-09-15",
+        "overview": "The Goggleboxers watched: My Mum, Your Dad, Welcome to Wrexham, Love &amp; Death, Animals Up Close with Bertie Gregory, Puzzling with Lucy Worsley, This Morning and BBC News (escaped prisoner)"
+      },
+      {
+        "id": "tvmaze:2649800",
+        "title": "Episode 3",
+        "season": 22,
+        "episode": 3,
+        "released": "2023-09-22",
+        "overview": "Britain's top telly critics have been watching: Celebrity Race Across the World; Married at First Sight UK; My Mum, Your Dad; Alan Carr's Picture Slam; and Chris Packham: Is It Time to Break the Law?"
+      },
+      {
+        "id": "tvmaze:2654824",
+        "title": "Episode 4",
+        "season": 22,
+        "episode": 4,
+        "released": "2023-09-29",
+        "overview": "Britain's top armchair critics have been watching The Great British Bake Off, Strictly Come Dancing, Celebrity SAS: Who Dares Wins, Sex Education, Blankety Blank and Love &amp; Death."
+      },
+      {
+        "id": "tvmaze:2654825",
+        "title": "Episode 5",
+        "season": 22,
+        "episode": 5,
+        "released": "2023-10-06",
+        "overview": "The armchair critics share their opinions on Michael McIntyre's The Wheel, Love is Blind, Strictly Come Dancing, Boiling Point, HELP! My House is Haunted, All Creatures Great and Small and Sunday with Laura Kuenssberg."
+      },
+      {
+        "id": "tvmaze:2654826",
+        "title": "Episode 6",
+        "season": 22,
+        "episode": 6,
+        "released": "2023-10-13",
+        "overview": "This week's top TV includes Big Brother: The Launch, Don't Look Down for SU2C, Antiques Roadshow, Coronation Street, Big Little Journeys and Beat the Chasers Celebrity Special."
+      },
+      {
+        "id": "tvmaze:2666985",
+        "title": "Episode 7",
+        "season": 22,
+        "episode": 7,
+        "released": "2023-10-20",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2666986",
+        "title": "Episode 8",
+        "season": 22,
+        "episode": 8,
+        "released": "2023-10-27",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2683568",
+        "title": "Episode 9",
+        "season": 22,
+        "episode": 9,
+        "released": "2023-11-10",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2683569",
+        "title": "Episode 10",
+        "season": 22,
+        "episode": 10,
+        "released": "2023-11-17",
+        "overview": "The Goggleboxers have been watching The Crown, Survivor, 007: Road to a Million, The Good Ship Murder, Shoplifters: Caught Red Handed, and ITV News (cabinet reshuffle)"
+      },
+      {
+        "id": "tvmaze:2692412",
+        "title": "Episode 11",
+        "season": 22,
+        "episode": 11,
+        "released": "2023-11-24",
+        "overview": "The armchair critics share their opinions on shows including The Challenge, I'm a Celebrity Get Me Out of Here!, The Crown, Deal or No Deal, Planet Earth III, Made in Chelsea and Saving Lives at Sea."
+      },
+      {
+        "id": "tvmaze:2694161",
+        "title": "Episode 12",
+        "season": 22,
+        "episode": 12,
+        "released": "2023-12-01",
+        "overview": "The armchair critics sit down to watch Squid Game: The Challenge - the real-life version of the Netflix hit - and get hot under the collar with Channel 4's swinging drama The Couple Next Door. Plus, The Toy Hospital, Survivor, Vinnie Jones in the Country, Tony Robinson's Marvellous Machines and Lorraine."
+      },
+      {
+        "id": "tvmaze:2705602",
+        "title": "Episode 13",
+        "season": 22,
+        "episode": 13,
+        "released": "2023-12-08",
+        "overview": "The armchair critics share their opinions on shows including Squid Game: The Challenge, The Couple Next Door, Strictly Come Dancing, The Graham Norton Show, Planet Earth III, Matt Baker: Travels with Mum &amp; Dad and Jingle All the Way."
+      },
+      {
+        "id": "tvmaze:2725708",
+        "title": "Episode 14",
+        "season": 22,
+        "episode": 14,
+        "released": "2023-12-24",
+        "overview": "This bumper extended edition of the best of 2023 includes: Planet Earth III, Strictly Come Dancing, The Crown, First Dates, Coronation Street and HELP! My House Is Haunted."
+      },
+      {
+        "id": "tvmaze:2769783",
+        "title": "Episode 1",
+        "season": 23,
+        "episode": 1,
+        "released": "2024-02-16",
+        "overview": "The Goggleboxers watch Saltburn, Gladiators, First Dates: Be My Valentine, Trigger Point, This Morning, The Repair Shop, Bring the Drama, and BBC News on Joe Biden"
+      },
+      {
+        "id": "tvmaze:2769784",
+        "title": "Episode 2",
+        "season": 23,
+        "episode": 2,
+        "released": "2024-02-23",
+        "overview": "The Goggleboxers watch Wheel of Fortune, Trigger Point, Boarders, Michael McIntyre's Big Show, Love Is Blind, BBC News and The Pet Psychic: What's Your Dog Thinking?"
+      },
+      {
+        "id": "tvmaze:2784160",
+        "title": "Episode 3",
+        "season": 23,
+        "episode": 3,
+        "released": "2024-03-01",
+        "overview": "This time, the Goggleboxers watch One Day, Married at First Sight Australia, The Apprentice, Boarders, The Rescue, and ITV News on the energy price cap and controversial Conservative MP Lee Anderson"
+      },
+      {
+        "id": "tvmaze:2792487",
+        "title": "Episode 4",
+        "season": 23,
+        "episode": 4,
+        "released": "2024-03-08",
+        "overview": "The armchair critics share their opinions on shows including Trigger Point, One Day, Married at First Sight Australia, Sort Your Life Out, Into the Congo with Ben Fogle and Earthsounds. They also appraise a feature about rumpology aired on This Morning and BBC news reports on the Rochdale by-election."
+      },
+      {
+        "id": "tvmaze:2796603",
+        "title": "Episode 5",
+        "season": 23,
+        "episode": 5,
+        "released": "2024-03-15",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2802435",
+        "title": "Episode 6",
+        "season": 23,
+        "episode": 6,
+        "released": "2024-03-22",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:2806571",
+        "title": "Episode 7",
+        "season": 23,
+        "episode": 7,
+        "released": "2024-03-29",
+        "overview": "The Goggleboxers watch The Apprentice, Hunted, Corrie, The Underdog: Josh Must Win, Anton &amp; Giovanni's Adventures in Spain, Bridge of Lies, and the News, on the Princess of Wales' cancer diagnosis"
+      },
+      {
+        "id": "tvmaze:2809218",
+        "title": "Episode 8",
+        "season": 23,
+        "episode": 8,
+        "released": "2024-04-05",
+        "overview": "The Goggleboxers tune in to Gladiators, Is It Cake?, Casualty, The 1% Club, The Yorkshire Farm, This Morning, BBC News on the cost of living, and more."
+      },
+      {
+        "id": "tvmaze:2809219",
+        "title": "Episode 9",
+        "season": 23,
+        "episode": 9,
+        "released": "2024-04-12",
+        "overview": "On the 'Box this week: Race Across the World, The Apprentice, Ripley, MasterChef, Hunted, Celebrity Bridge of Lies, The Assembly and BBC News (Hardest Geezer)"
+      },
+      {
+        "id": "tvmaze:2831743",
+        "title": "Episode 10",
+        "season": 23,
+        "episode": 10,
+        "released": "2024-04-19",
+        "overview": "This week, Britain's sharpest armchair critics have mostly been watching: Jamie's Air Fryer Meals, Baby Reindeer, Teen First Dates, The Circle, Wildlife Rescue, Expedition X and ITV News (Dogfather)"
+      },
+      {
+        "id": "tvmaze:2838376",
+        "title": "Episode 11",
+        "season": 23,
+        "episode": 11,
+        "released": "2024-04-26",
+        "overview": "What did the Goggleboxers make of Britain's Got Talent, Baby Reindeer, Red Eye, Love Triangle, In with a Shout, The Yorkshire Vet and This Morning (bras)?"
+      },
+      {
+        "id": "tvmaze:2847543",
+        "title": "Episode 12",
+        "season": 23,
+        "episode": 12,
+        "released": "2024-05-03",
+        "overview": "On the Gogglebox this week: The Piano, The 1% Club, Inside Windsor Castle, Jack Osbourne's Night of Terror, MILF Manor and ITV News (nightlife &amp; Tory MP defection)"
+      },
+      {
+        "id": "tvmaze:2856873",
+        "title": "Episode 13",
+        "season": 23,
+        "episode": 13,
+        "released": "2024-05-10",
+        "overview": "This time the Goggleboxers watched: Britain's Got Talent, I Kissed a Girl, Beat the Chasers Celebrity Special, MILF Manor, Marcus Wareing Simply Provence and The Yorkshire Vet."
+      },
+      {
+        "id": "tvmaze:2871551",
+        "title": "Episode 14",
+        "season": 23,
+        "episode": 14,
+        "released": "2024-05-17",
+        "overview": "This time on the 'Box: Eurovision Song Contest, Bridgerton, Love Triangle Australia, Double the Money, Marcus Wareing Simply Provence and BBC News (northern lights)."
+      },
+      {
+        "id": "tvmaze:2871552",
+        "title": "Episode 15",
+        "season": 23,
+        "episode": 15,
+        "released": "2024-05-24",
+        "overview": "This week on the 'Box: Bridgerton, Britain's Got Talent, Inside No. 9, My Strange Addiction: Still Addicted?, Top of the Pops 1984, The Piano, and The War on Britain's Motorists: Dispatches."
+      },
+      {
+        "id": "tvmaze:2871553",
+        "title": "Episode 16",
+        "season": 23,
+        "episode": 16,
+        "released": "2024-05-31",
+        "overview": "Britain's sharpest armchair critics share their insightful and passionate takes on the best TV shows of the latest series"
+      },
+      {
+        "id": "tvmaze:3002006",
+        "title": "Episode 1",
+        "season": 24,
+        "episode": 1,
+        "released": "2024-09-13",
+        "overview": "The armchair critics settle down to a selection of the past week's TV shows, focusing their attentions on Slow Horses, Celebrity Race Across the World, Dating Naked, The Teacher, 90 Day Fiancé, Police Interceptors, and news reports about Kier Starmer and the stranded Boeing Starliner astronauts."
+      },
+      {
+        "id": "tvmaze:3002009",
+        "title": "Episode 2",
+        "season": 24,
+        "episode": 2,
+        "released": "2024-09-20",
+        "overview": "The armchair critics share their opinions of shows including Celebrity Race Across the World, Nightsleeper, Married at First Sight UK, Selling Sunset, Nadiya's Cook Once, Eat Twice, Jack Whitehall: Fatherhood with My Father and Haunted Hospitals."
+      },
+      {
+        "id": "tvmaze:3009042",
+        "title": "Episode 3",
+        "season": 24,
+        "episode": 3,
+        "released": "2024-09-27",
+        "overview": "The armchair critics review shows including Strictly Come Dancing, Celebrity SAS: Who Dares Wins, My Mum, Your Dad, A Very Royal Scandal and The Yorkshire Vet. They also comment on a This Morning feature on gurning, a BBC News report on a naked museum and ITV News coverage of the Labour Party Conference."
+      },
+      {
+        "id": "tvmaze:3017917",
+        "title": "Episode 4",
+        "season": 24,
+        "episode": 4,
+        "released": "2024-10-04",
+        "overview": "The armchair critics settle down to a selection of the past week's TV shows, with cameras capturing their instant reactions - the good, the bad and the bewildered."
+      },
+      {
+        "id": "tvmaze:3017918",
+        "title": "Episode 5",
+        "season": 24,
+        "episode": 5,
+        "released": "2024-10-11",
+        "overview": "The armchair critics settle down to a selection of the past week's TV shows, with cameras capturing their instant reactions - the good, the bad and the bewildered."
+      },
+      {
+        "id": "tvmaze:3017919",
+        "title": "Episode 6",
+        "season": 24,
+        "episode": 6,
+        "released": "2024-10-18",
+        "overview": "The armchair critics settle down to a selection of the past week's TV shows, with cameras capturing their instant reactions - the good, the bad and the bewildered."
+      },
+      {
+        "id": "tvmaze:3041729",
+        "title": "Episode 7",
+        "season": 24,
+        "episode": 7,
+        "released": "2024-11-01",
+        "overview": "The armchair critics review Sweetpea, Michael McIntyre's The Wheel, Will You Marry Me?, Deal or No Deal, I Love a Mama's Boy, National Parks from Above, This Morning and ITV News coverage."
+      },
+      {
+        "id": "tvmaze:3046148",
+        "title": "Episode 8",
+        "season": 24,
+        "episode": 8,
+        "released": "2024-11-08",
+        "overview": "The armchair critics share their thoughts on shows including Married at First Sight UK, The Chase Celebrity Special, Love Triangle Australia, James May and the Dull Men and This Morning's feature on a male midlife makeover. ITV news coverage of the announcement of new Conservative Party leader is also considered."
+      },
+      {
+        "id": "tvmaze:3052144",
+        "title": "Episode 9",
+        "season": 24,
+        "episode": 9,
+        "released": "2024-11-15",
+        "overview": "The armchair critics settle down to a selection of the past week's TV shows, with cameras capturing their instant reactions - the good, the bad and the bewildered."
+      },
+      {
+        "id": "tvmaze:3052146",
+        "title": "Episode 10",
+        "season": 24,
+        "episode": 10,
+        "released": "2024-11-22",
+        "overview": "The armchair critics settle down to a selection of the past week's TV shows, with cameras capturing their instant reactions - the good, the bad and the bewildered."
+      },
+      {
+        "id": "tvmaze:3052147",
+        "title": "Episode 11",
+        "season": 24,
+        "episode": 11,
+        "released": "2024-11-29",
+        "overview": "I'm a Celebrity... Get Me Out of Here!, The Day of the Jackal, RuPaul's Drag Race UK and University Challenge are all on the 'Box this time. And Vinnie Jones in the Country too."
+      },
+      {
+        "id": "tvmaze:3076153",
+        "title": "Episode 12",
+        "season": 24,
+        "episode": 12,
+        "released": "2024-12-06",
+        "overview": "The armchair critics settle down to a selection of the past week's TV shows, with cameras capturing their instant reactions - the good, the bad and the bewildered."
+      },
+      {
+        "id": "tvmaze:3081723",
+        "title": "Episode 13",
+        "season": 24,
+        "episode": 13,
+        "released": "2024-12-13",
+        "overview": "The armchair critics settle down to a selection of the past week's TV shows, with cameras capturing their instant reactions - the good, the bad and the bewildered."
+      },
+      {
+        "id": "tvmaze:3087181",
+        "title": "Gogglebox 2024",
+        "season": 24,
+        "episode": 14,
+        "released": "2024-12-24",
+        "overview": "Regular Gogglebox critics including Giles and Mary, Pete and Sophie, Jenny and Lee, and the Siddiqui family hang up their Christmas stockings, for an extended edition of the TV review show providing a very merry look back at the best critiques of the current series."
+      },
+      {
+        "id": "tvmaze:3135357",
+        "title": "Episode 1",
+        "season": 25,
+        "episode": 1,
+        "released": "2025-02-14",
+        "overview": "A brand new series begins. What do Britain's sharpest armchair critics think of our biggest and best TV programmes?"
+      },
+      {
+        "id": "tvmaze:3143487",
+        "title": "Episode 2",
+        "season": 25,
+        "episode": 2,
+        "released": "2025-02-21",
+        "overview": "The armchair critics share their opinions on shows including Gladiators, The White Lotus, The Apprentice, Celebrity Bear Hunt, The Fear Clinic: Face Your Phobia, Batch from Scratch: Cooking for Less and Alan Titchmarsh's Underdog to Superdog."
+      },
+      {
+        "id": "tvmaze:3147741",
+        "title": "Episode 3",
+        "season": 25,
+        "episode": 3,
+        "released": "2025-02-28",
+        "overview": "The armchair critics share their opinions on programmes including Britain's Got Talent, Celebrity Hunted, Coronation Street, Michael McIntyre's Big Show, One Question, Boarders and The Fear Clinic: Face Your Phobia. Plus, perspectives on US President Donald Trump, in reports appearing on BBC News and ITV News."
+      },
+      {
+        "id": "tvmaze:3154231",
+        "title": "Episode 4",
+        "season": 25,
+        "episode": 4,
+        "released": "2025-03-07",
+        "overview": "The armchair critics share their opinions on shows including Married at First Sight Australia, Wheel of Fortune, The Americas, Fear, Griff's Great Australian Rail Trip and Help! My House Is Haunted. Plus, reflections on BBC News's coverage of the confrontation between President Trump and President Zelenskyy and ITV News's coverage of Zelenskyy's visit to the UK."
+      },
+      {
+        "id": "tvmaze:3163290",
+        "title": "Episode 5",
+        "season": 25,
+        "episode": 5,
+        "released": "2025-03-14",
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?"
+      },
+      {
+        "id": "tvmaze:3166226",
+        "title": "Episode 6",
+        "season": 25,
+        "episode": 6,
+        "released": "2025-03-21",
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?"
+      },
+      {
+        "id": "tvmaze:3186052",
+        "title": "Episode 7",
+        "season": 25,
+        "episode": 7,
+        "released": "2025-03-28",
+        "overview": "With Adolescence, 99 to Beat, Coronation Street, David Blaine: Do Not Attempt, Big Night of Musicals by The National Lottery and Building Britain's Superhomes."
+      },
+      {
+        "id": "tvmaze:3192240",
+        "title": "Episode 8",
+        "season": 25,
+        "episode": 8,
+        "released": "2025-04-04",
+        "overview": "What didthe armchair critics make of Adolescence, Tribe with Bruce Parry, and Bad Dog Academy? Also Tempting Fortune, The Yorkshire Vet, Million Dollar Secret and ITV News (Greenland/Wrestling)."
+      },
+      {
+        "id": "tvmaze:3199846",
+        "title": "Episode 9",
+        "season": 25,
+        "episode": 9,
+        "released": "2025-04-11",
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?"
+      },
+      {
+        "id": "tvmaze:3199933",
+        "title": "Episode 10",
+        "season": 25,
+        "episode": 10,
+        "released": "2025-04-18",
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?"
+      },
+      {
+        "id": "tvmaze:3204954",
+        "title": "Episode 11",
+        "season": 25,
+        "episode": 11,
+        "released": "2025-04-25",
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?"
+      },
+      {
+        "id": "tvmaze:3209835",
+        "title": "Episode 12",
+        "season": 25,
+        "episode": 12,
+        "released": "2025-05-02",
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?"
+      },
+      {
+        "id": "tvmaze:3231278",
+        "title": "Episode 13",
+        "season": 25,
+        "episode": 13,
+        "released": "2025-05-09",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:3236198",
+        "title": "Episode 14",
+        "season": 25,
+        "episode": 14,
+        "released": "2025-05-16",
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?"
+      },
+      {
+        "id": "tvmaze:3236627",
+        "title": "Episode 15",
+        "season": 25,
+        "episode": 15,
+        "released": "2025-05-23",
+        "overview": "What do Britain's sharpest armchair critics think of our biggest and best TV programmes?"
+      },
+      {
+        "id": "tvmaze:3260686",
+        "title": "Episode 16",
+        "season": 25,
+        "episode": 16,
+        "released": "2025-05-30",
+        "overview": "The armchair critics share their opinions on what they have been watching during the week, with cameras capturing their instant reactions and the lively discussions that are prompted by the week's biggest and best shows."
+      },
+      {
+        "id": "tvmaze:3357034",
+        "title": "Episode 1",
+        "season": 26,
+        "episode": 1,
+        "released": "2025-09-05",
+        "overview": "A brand new series begins with Coronation Street, Educating Yorkshire, The Great British Bake Off, The Inheritance, Stranded on Honeymoon Island, The Guest and The Dog House."
+      },
+      {
+        "id": "tvmaze:3357035",
+        "title": "Episode 2",
+        "season": 26,
+        "episode": 2,
+        "released": "2025-09-12",
+        "overview": "This time, Britain's sharpest armchair critics watched The Inheritance, You Bet! On Tour, KPopped, Emmerdale, The Guest, 90 Day Fiancé UK, This Morning (roast dinner) and ITV News (Angela Rayner)."
+      },
+      {
+        "id": "tvmaze:3357036",
+        "title": "Episode 3",
+        "season": 26,
+        "episode": 3,
+        "released": "2025-09-19",
+        "overview": "This time, the Goggleboxers watch: The Inheritance, Long Lost Family, Unknown Number: The High School Catfish, The Yorkshire Vet, Dish It Out and Street Cops: Catching the Yobs."
+      },
+      {
+        "id": "tvmaze:3357037",
+        "title": "Episode 4",
+        "season": 26,
+        "episode": 4,
+        "released": "2025-09-26",
+        "overview": "What do the Goggleboxers think of Married at First Sight UK, Slow Horses, Win Win, Made in Chelsea, Dolphins Up Close with Bertie Gregory, Waterloo Road and Top Guns: The Next Generation?"
+      },
+      {
+        "id": "tvmaze:3357038",
+        "title": "Episode 5",
+        "season": 26,
+        "episode": 5,
+        "released": "2025-10-03",
+        "overview": "What do Britain's favourite telly watchers think of Strictly Come Dancing, Educating Yorkshire, The Girlfriend, Dragons' Den, Below Deck and Only Connect?"
+      },
+      {
+        "id": "tvmaze:3357039",
+        "title": "Episode 6",
+        "season": 26,
+        "episode": 6,
+        "released": "2025-10-10",
+        "overview": "This time the Goggleboxers watch: The Celebrity Traitors, Love Is Blind, Coronation Street, The Girlfriend, Nightmares of Nature, The Reluctant Traveller and Yorkshire Air 999."
+      },
+      {
+        "id": "tvmaze:3357040",
+        "title": "Episode 7",
+        "season": 26,
+        "episode": 7,
+        "released": "2025-10-17",
+        "overview": "What's the view on the week's top TV? Including: Strictly, Victoria Beckham (on Netflix), Blue Lights, Slow Horses, Antiques Roadshow, Eva Longoria: Searching for Spain and Police Interceptors."
+      },
+      {
+        "id": "tvmaze:3357041",
+        "title": "Episode 8",
+        "season": 26,
+        "episode": 8,
+        "released": "2025-10-24",
+        "overview": "This time on the 'Box, The Celebrity Traitors, Strictly Come Dancing, Hollyoaks, Dragons' Den, Beat the Chasers, Celebrity Help! My House Is Haunted and BBC News (Prince Andrew)"
+      },
+      {
+        "id": "tvmaze:3428053",
+        "title": "Episode 9",
+        "season": 26,
+        "episode": 9,
+        "released": "2025-10-31",
+        "overview": "Britain's top armchair critics watched The Celebrity Traitors, Trigger Point, Michael McIntyre's The Wheel, Bake Off, Love Is Blind, DIY SOS and BBC News (clocks)"
+      },
+      {
+        "id": "tvmaze:3433008",
+        "title": "Episode 10",
+        "season": 26,
+        "episode": 10,
+        "released": "2025-11-07",
+        "overview": "The Celebrity Traitors is on this time. There's Game of Wool: Britain's Best Knitter. And Trigger Point, Hunted, Squid Game: The Challenge, Hamza's Hidden Wild Isles and ITV News (Andrew Windsor)."
+      },
+      {
+        "id": "tvmaze:3440482",
+        "title": "Episode 11",
+        "season": 26,
+        "episode": 11,
+        "released": "2025-11-14",
+        "overview": "The armchair critics share their opinions of shows including Celebrity Race Across the World, All's Fair, Squid Game: The Challenge, The 1% Club, Come Dine with Me: Teens and Police Interceptors. Plus, BBC News reports on Elon Musk and ITV and BBC News coverage of the Panorama-Donald Trump scandal."
+      },
+      {
+        "id": "tvmaze:3440483",
+        "title": "Episode 12",
+        "season": 26,
+        "episode": 12,
+        "released": "2025-11-21",
+        "overview": "The Goggleboxers watch I'm a Celebrity..., Squid Game: The Challenge, All Her Fault, Celebrity Race Across the World, Alan Carr's Picture Slam, Knife Edge and Emmerdale."
+      },
+      {
+        "id": "tvmaze:3451374",
+        "title": "Episode 13",
+        "season": 26,
+        "episode": 13,
+        "released": "2025-11-28",
+        "overview": "The series continues with Stranger Things, Strictly Come Dancing, Celebrity Scam Interceptors, Malice, Songs of Praise, CBeebies Bedtime Stories and Animals on Drugs."
+      },
+      {
+        "id": "tvmaze:3457149",
+        "title": "Episode 14",
+        "season": 26,
+        "episode": 14,
+        "released": "2025-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3464756",
+        "title": "Gogglebox 2025",
+        "season": 26,
+        "episode": 15,
+        "released": "2025-12-25",
+        "overview": "What did the Goggleboxers watch in 2025? This bumper edition takes a very merry look back at the best TV of the year."
+      }
+    ]
+  }
+}

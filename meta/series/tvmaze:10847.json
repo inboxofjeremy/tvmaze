@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:10847",
+    "type": "series",
+    "name": "FOX NFL Sunday",
+    "description": "Fox NFL Sunday is an American sports-talk television program on Fox that debuted on September 4, 1994, and serves as the pre-game show for the network's National Football League game telecasts under the NFL on Fox brand. An audio simulcast of the program airs on sister radio network Fox Sports Radio, which is distributed by Premiere Radio Networks. As of 2014, the program has won four Emmy Awards. Fox NFL Sunday debuted on September 4, 1994, when Fox inaugurated its NFL game broadcasts through the network's recently acquired broadcast rights to the National Football Conference; it was originally hosted by James Brown, Terry Bradshaw, Howie Long and Jimmy Johnson (both Brown and Bradshaw had joined the network from CBS to help helm Fox's NFL coverage). The program was notable in being the first hour-long NFL pregame show on a broadcast television network; network pregame programs that existed beforehand, such as CBS' The NFL Today or NBC's NFL Live!, aired as 30-minute broadcasts. Fox's show also adopted a looser, more irreverent approach than its predecessors in order to also appeal to the network's younger-skewing audiences. During Johnson's initial season on Fox NFL Sunday, he would often join the show from his home in Florida. There was much speculation that Jimmy Johnson would return to coaching during the first year of the program's run. Prior to the end of the year, Johnson made an \"announcement,\" saying he was happy with his new career in broadcasting. But in 1996, he left the program to become head coach of the Miami Dolphins; Ronnie Lott was brought in to succeed him, and stayed with the program for two seasons.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016516.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016516.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3451245",
+        "title": "Week 14",
+        "season": 32,
+        "episode": 15,
+        "released": "2025-12-07",
+        "overview": "Hosts Curt Menefee and Terry Bradshaw; with analysts Howie Long, Jimmy Johnson and Michael Strahan."
+      }
+    ]
+  }
+}

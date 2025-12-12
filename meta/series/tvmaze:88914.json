@@ -1,0 +1,1076 @@
+{
+  "meta": {
+    "id": "tvmaze:88914",
+    "type": "series",
+    "name": "Le calendrier de l'avent",
+    "description": "In this reality TV show with the feel of a Christmas tale, Katherine Levac gives a charming single woman 24 days to find love.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/603/1507731.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/603/1507731.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3470180",
+        "title": "11 décembre",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-11",
+        "overview": "On this December 11th, Catherine and some of her suitors dress up for a photo shoot in a photo booth."
+      },
+      {
+        "id": "tvmaze:3470181",
+        "title": "12 décembre",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470182",
+        "title": "13 décembre",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470183",
+        "title": "14 décembre",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470184",
+        "title": "15 décembre",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470185",
+        "title": "16 décembre",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470186",
+        "title": "17 décembre",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470187",
+        "title": "18 décembre",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470188",
+        "title": "19 décembre",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470189",
+        "title": "20 décembre",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470190",
+        "title": "21 décembre",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470191",
+        "title": "22 décembre",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470192",
+        "title": "23 décembre",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470193",
+        "title": "24 décembre",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470180",
+        "title": "11 décembre",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-11",
+        "overview": "On this December 11th, Catherine and some of her suitors dress up for a photo shoot in a photo booth."
+      },
+      {
+        "id": "tvmaze:3470181",
+        "title": "12 décembre",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470182",
+        "title": "13 décembre",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470183",
+        "title": "14 décembre",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470184",
+        "title": "15 décembre",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470185",
+        "title": "16 décembre",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470186",
+        "title": "17 décembre",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470187",
+        "title": "18 décembre",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470188",
+        "title": "19 décembre",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470189",
+        "title": "20 décembre",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470190",
+        "title": "21 décembre",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470191",
+        "title": "22 décembre",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470192",
+        "title": "23 décembre",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470193",
+        "title": "24 décembre",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470179",
+        "title": "10 décembre",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-12-10",
+        "overview": "Upon opening the door, Catherine sees Christmas cards written by five new suitors in an attempt to seduce her."
+      },
+      {
+        "id": "tvmaze:3470180",
+        "title": "11 décembre",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-11",
+        "overview": "On this December 11th, Catherine and some of her suitors dress up for a photo shoot in a photo booth."
+      },
+      {
+        "id": "tvmaze:3470181",
+        "title": "12 décembre",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470182",
+        "title": "13 décembre",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470183",
+        "title": "14 décembre",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470184",
+        "title": "15 décembre",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470185",
+        "title": "16 décembre",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470186",
+        "title": "17 décembre",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470187",
+        "title": "18 décembre",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470188",
+        "title": "19 décembre",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470189",
+        "title": "20 décembre",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470190",
+        "title": "21 décembre",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470191",
+        "title": "22 décembre",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470192",
+        "title": "23 décembre",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470193",
+        "title": "24 décembre",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470179",
+        "title": "10 décembre",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-12-10",
+        "overview": "Upon opening the door, Catherine sees Christmas cards written by five new suitors in an attempt to seduce her."
+      },
+      {
+        "id": "tvmaze:3470180",
+        "title": "11 décembre",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-11",
+        "overview": "On this December 11th, Catherine and some of her suitors dress up for a photo shoot in a photo booth."
+      },
+      {
+        "id": "tvmaze:3470181",
+        "title": "12 décembre",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470182",
+        "title": "13 décembre",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470183",
+        "title": "14 décembre",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470184",
+        "title": "15 décembre",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470185",
+        "title": "16 décembre",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470186",
+        "title": "17 décembre",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470187",
+        "title": "18 décembre",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470188",
+        "title": "19 décembre",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470189",
+        "title": "20 décembre",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470190",
+        "title": "21 décembre",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470191",
+        "title": "22 décembre",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470192",
+        "title": "23 décembre",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470193",
+        "title": "24 décembre",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470179",
+        "title": "10 décembre",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-12-10",
+        "overview": "Upon opening the door, Catherine sees Christmas cards written by five new suitors in an attempt to seduce her."
+      },
+      {
+        "id": "tvmaze:3470180",
+        "title": "11 décembre",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-11",
+        "overview": "On this December 11th, Catherine and some of her suitors dress up for a photo shoot in a photo booth."
+      },
+      {
+        "id": "tvmaze:3470181",
+        "title": "12 décembre",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470182",
+        "title": "13 décembre",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470183",
+        "title": "14 décembre",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470184",
+        "title": "15 décembre",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470185",
+        "title": "16 décembre",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470186",
+        "title": "17 décembre",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470187",
+        "title": "18 décembre",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470188",
+        "title": "19 décembre",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470189",
+        "title": "20 décembre",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470190",
+        "title": "21 décembre",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470191",
+        "title": "22 décembre",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470192",
+        "title": "23 décembre",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470193",
+        "title": "24 décembre",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470179",
+        "title": "10 décembre",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-12-10",
+        "overview": "Upon opening the door, Catherine sees Christmas cards written by five new suitors in an attempt to seduce her."
+      },
+      {
+        "id": "tvmaze:3470180",
+        "title": "11 décembre",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-11",
+        "overview": "On this December 11th, Catherine and some of her suitors dress up for a photo shoot in a photo booth."
+      },
+      {
+        "id": "tvmaze:3470181",
+        "title": "12 décembre",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470182",
+        "title": "13 décembre",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470183",
+        "title": "14 décembre",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470184",
+        "title": "15 décembre",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470185",
+        "title": "16 décembre",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470186",
+        "title": "17 décembre",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470187",
+        "title": "18 décembre",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470188",
+        "title": "19 décembre",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470189",
+        "title": "20 décembre",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470190",
+        "title": "21 décembre",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470191",
+        "title": "22 décembre",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470192",
+        "title": "23 décembre",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470193",
+        "title": "24 décembre",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470179",
+        "title": "10 décembre",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-12-10",
+        "overview": "Upon opening the door, Catherine sees Christmas cards written by five new suitors in an attempt to seduce her."
+      },
+      {
+        "id": "tvmaze:3470180",
+        "title": "11 décembre",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-11",
+        "overview": "On this December 11th, Catherine and some of her suitors dress up for a photo shoot in a photo booth."
+      },
+      {
+        "id": "tvmaze:3470181",
+        "title": "12 décembre",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470182",
+        "title": "13 décembre",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470183",
+        "title": "14 décembre",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470184",
+        "title": "15 décembre",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470185",
+        "title": "16 décembre",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470186",
+        "title": "17 décembre",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470187",
+        "title": "18 décembre",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470188",
+        "title": "19 décembre",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470189",
+        "title": "20 décembre",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470190",
+        "title": "21 décembre",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470191",
+        "title": "22 décembre",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470192",
+        "title": "23 décembre",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470193",
+        "title": "24 décembre",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470179",
+        "title": "10 décembre",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-12-10",
+        "overview": "Upon opening the door, Catherine sees Christmas cards written by five new suitors in an attempt to seduce her."
+      },
+      {
+        "id": "tvmaze:3470180",
+        "title": "11 décembre",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-11",
+        "overview": "On this December 11th, Catherine and some of her suitors dress up for a photo shoot in a photo booth."
+      },
+      {
+        "id": "tvmaze:3470181",
+        "title": "12 décembre",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470182",
+        "title": "13 décembre",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470183",
+        "title": "14 décembre",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470184",
+        "title": "15 décembre",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470185",
+        "title": "16 décembre",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470186",
+        "title": "17 décembre",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470187",
+        "title": "18 décembre",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470188",
+        "title": "19 décembre",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470189",
+        "title": "20 décembre",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470190",
+        "title": "21 décembre",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470191",
+        "title": "22 décembre",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470192",
+        "title": "23 décembre",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470193",
+        "title": "24 décembre",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-12-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470179",
+        "title": "10 décembre",
+        "season": 1,
+        "episode": 10,
+        "released": "2025-12-10",
+        "overview": "Upon opening the door, Catherine sees Christmas cards written by five new suitors in an attempt to seduce her."
+      },
+      {
+        "id": "tvmaze:3470180",
+        "title": "11 décembre",
+        "season": 1,
+        "episode": 11,
+        "released": "2025-12-11",
+        "overview": "On this December 11th, Catherine and some of her suitors dress up for a photo shoot in a photo booth."
+      },
+      {
+        "id": "tvmaze:3470181",
+        "title": "12 décembre",
+        "season": 1,
+        "episode": 12,
+        "released": "2025-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470182",
+        "title": "13 décembre",
+        "season": 1,
+        "episode": 13,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470183",
+        "title": "14 décembre",
+        "season": 1,
+        "episode": 14,
+        "released": "2025-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470184",
+        "title": "15 décembre",
+        "season": 1,
+        "episode": 15,
+        "released": "2025-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470185",
+        "title": "16 décembre",
+        "season": 1,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470186",
+        "title": "17 décembre",
+        "season": 1,
+        "episode": 17,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470187",
+        "title": "18 décembre",
+        "season": 1,
+        "episode": 18,
+        "released": "2025-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470188",
+        "title": "19 décembre",
+        "season": 1,
+        "episode": 19,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470189",
+        "title": "20 décembre",
+        "season": 1,
+        "episode": 20,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470190",
+        "title": "21 décembre",
+        "season": 1,
+        "episode": 21,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470191",
+        "title": "22 décembre",
+        "season": 1,
+        "episode": 22,
+        "released": "2025-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470192",
+        "title": "23 décembre",
+        "season": 1,
+        "episode": 23,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470193",
+        "title": "24 décembre",
+        "season": 1,
+        "episode": 24,
+        "released": "2025-12-24",
+        "overview": ""
+      }
+    ]
+  }
+}

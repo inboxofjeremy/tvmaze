@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "id": "tvmaze:88415",
+    "type": "series",
+    "name": "Rise of the 49ers",
+    "description": "San Francisco 49ers dynasty, during the 1980s and early 1990s, a struggling football team transforms into the sport's most dazzling and successful franchise, becoming the talk of the league.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/598/1496661.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/598/1496661.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442242",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442243",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442244",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3442245",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-02-02",
+        "overview": ""
+      }
+    ]
+  }
+}

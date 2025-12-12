@@ -1,0 +1,1228 @@
+{
+  "meta": {
+    "id": "tvmaze:76568",
+    "type": "series",
+    "name": "Sheriff Country",
+    "description": "Sheriff Country focuses on straight-shooting sheriff Mickey Fox, the stepsister of Cal Fire's division chief Sharon Leone, who investigates criminal activity as she patrols the streets of small-town Edgewater while contending with her ex-con father, Wes, who is an off-the-grid marijuana grower, and a mysterious incident involving her wayward daughter.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479864.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479864.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429746",
+        "title": "Glory Days",
+        "season": 1,
+        "episode": 7,
+        "released": "2025-12-05",
+        "overview": "While investigating a brutal assault at Edgewater High, Sheriff Mickey Fox uncovers a disturbing web of secrets, lies and abuse of power at the school."
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3301105",
+        "title": "Pilot",
+        "season": 1,
+        "episode": 1,
+        "released": "2025-10-17",
+        "overview": "When a young boy is caught stealing food, Mickey uncovers a disturbing case of child abuse that leads to a high-stakes rescue and a cliffside standoff that could cost lives."
+      },
+      {
+        "id": "tvmaze:3301106",
+        "title": "Firewall",
+        "season": 1,
+        "episode": 2,
+        "released": "2025-10-24",
+        "overview": "Mickey investigates a harrowing missing persons case all while trying to protect her daughter, whose connection to a crime scene raises unsettling questions; Mickey's sister arrives to support her niece during this deeply emotional time."
+      },
+      {
+        "id": "tvmaze:3387987",
+        "title": "The Sixth Man",
+        "season": 1,
+        "episode": 3,
+        "released": "2025-10-31",
+        "overview": "When a daring daylight robbery shakes the heart of Edgewater, Sheriff Mickey Fox must navigate rising tensions, personal entanglements and a town quick to judge."
+      },
+      {
+        "id": "tvmaze:3393033",
+        "title": "Out of Office",
+        "season": 1,
+        "episode": 4,
+        "released": "2025-11-07",
+        "overview": "When Skye becomes the prime suspect in a murder case, Mickey is forced to step down amid the investigation and launch her own off-the-books search for the truth; Mickey risks everything to try and clear her daughter's name."
+      },
+      {
+        "id": "tvmaze:3400606",
+        "title": "Expecting Trouble",
+        "season": 1,
+        "episode": 5,
+        "released": "2025-11-14",
+        "overview": "A high-stakes transport mission puts Sheriff Mickey Fox and Deputy Boone on edge as they race against time to protect a vulnerable witness."
+      },
+      {
+        "id": "tvmaze:3424215",
+        "title": "Exit Interview",
+        "season": 1,
+        "episode": 6,
+        "released": "2025-11-21",
+        "overview": "When a body is discovered along the Eel River, Sheriff Mickey Fox and her team launch a homicide investigation that rattles the heart of Edgewater; Wes risks everything to uncover the truth about the murder."
+      },
+      {
+        "id": "tvmaze:3429746",
+        "title": "Glory Days",
+        "season": 1,
+        "episode": 7,
+        "released": "2025-12-05",
+        "overview": "While investigating a brutal assault at Edgewater High, Sheriff Mickey Fox uncovers a disturbing web of secrets, lies and abuse of power at the school."
+      },
+      {
+        "id": "tvmaze:3440500",
+        "title": "Death & Taxes",
+        "season": 1,
+        "episode": 8,
+        "released": "2025-12-12",
+        "overview": "As cannabis growers in Edgewater scramble to pay their taxes in cash, a violent robbery leaves a man in critical condition and exposes the vulnerability of the legal cannabis trade; Mickey navigates a tense meal with her stepsister."
+      },
+      {
+        "id": "tvmaze:3443616",
+        "title": "Crucible, Part 1",
+        "season": 1,
+        "episode": 9,
+        "released": "2025-12-19",
+        "overview": "A father and son flee a secluded ranch run by one of Edgewater's most powerful families; Mickey investigates disturbing allegations of abuse and uncovers dangerous secrets, which leads to a tense standoff and confrontation."
+      },
+      {
+        "id": "tvmaze:3443617",
+        "title": "TBA",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-02-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449396",
+        "title": "TBA",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449397",
+        "title": "TBA",
+        "season": 1,
+        "episode": 12,
+        "released": "2026-03-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449398",
+        "title": "TBA",
+        "season": 1,
+        "episode": 13,
+        "released": "2026-03-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449399",
+        "title": "TBA",
+        "season": 1,
+        "episode": 14,
+        "released": "2026-03-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449400",
+        "title": "TBA",
+        "season": 1,
+        "episode": 15,
+        "released": "2026-04-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449401",
+        "title": "TBA",
+        "season": 1,
+        "episode": 16,
+        "released": "2026-04-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449402",
+        "title": "TBA",
+        "season": 1,
+        "episode": 17,
+        "released": "2026-04-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449403",
+        "title": "TBA",
+        "season": 1,
+        "episode": 18,
+        "released": "2026-04-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449404",
+        "title": "TBA",
+        "season": 1,
+        "episode": 19,
+        "released": "2026-05-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3449405",
+        "title": "TBA",
+        "season": 1,
+        "episode": 20,
+        "released": "2026-05-08",
+        "overview": ""
+      }
+    ]
+  }
+}

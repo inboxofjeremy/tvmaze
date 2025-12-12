@@ -1,0 +1,1372 @@
+{
+  "meta": {
+    "id": "tvmaze:2370",
+    "type": "series",
+    "name": "Penn & Teller: Fool Us",
+    "description": "Penn &amp; Teller: Fool Us is a British-American television show. Hosted by Jonathan Ross its first two seasons and Alyson Hannigan starting its third, Fool Us was filmed at Fountain Studios in London, England (Seasons 1) and the Rio All-Suites Hotel in Las Vegas (Season 2 onward). Fool Us is a magic competition in which magicians perform tricks in front of American magician-comedian duo Penn &amp; Teller. If Penn &amp; Teller cannot figure out how a trick was done, the magician or magicians who performed it win a five-star trip to Las Vegas to perform as the opening act in Penn &amp; Teller's world-famous show, also at the Rio Hotel &amp; Casino.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/481/1203390.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/481/1203390.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3441165",
+        "title": "Can a Bison Buffalo Penn & Teller?",
+        "season": 11,
+        "episode": 20,
+        "released": "2025-12-05",
+        "overview": "The magicians featured in the episode include Marco Grandia, Sylvain Juzan, Alexander Merk and Keona. Special guest Mac King helps Penn &amp; Teller with a trick."
+      },
+      {
+        "id": "tvmaze:184109",
+        "title": "Teller Sucks... Helium",
+        "season": 1,
+        "episode": 1,
+        "released": "2011-06-18",
+        "overview": "Acts performing tonight include High Jinx, Jon Allen, Daniel Massey and mind-reader and mentalist Graham Jolley."
+      },
+      {
+        "id": "tvmaze:184110",
+        "title": "Stab a Card, Any Card",
+        "season": 1,
+        "episode": 2,
+        "released": "2011-06-25",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller. The magicians featured in the episode include Mark Shorland, Mathieu Bich, Young &amp; Strange and Daniel Madison."
+      },
+      {
+        "id": "tvmaze:184111",
+        "title": "Solid Goldfish",
+        "season": 1,
+        "episode": 3,
+        "released": "2011-07-02",
+        "overview": "Acts performing tonight include Piff the Magic Dragon and Mr Piffles, Soma, Alan Hudson and Damien O'Brien."
+      },
+      {
+        "id": "tvmaze:184112",
+        "title": "Teller is a Blockhead",
+        "season": 1,
+        "episode": 4,
+        "released": "2011-07-09",
+        "overview": "Acts performing tonight include Romany, Daniel Kramer, Alan Rorrison and Richard Bellars."
+      },
+      {
+        "id": "tvmaze:184113",
+        "title": "Penn Gets Nailed",
+        "season": 1,
+        "episode": 5,
+        "released": "2011-07-16",
+        "overview": "Acts performing tonight include Cubic Act, Nick Einhorn, Michael Vincent and Morgan &amp; West."
+      },
+      {
+        "id": "tvmaze:184114",
+        "title": "The Magic of Polyester",
+        "season": 1,
+        "episode": 6,
+        "released": "2011-07-23",
+        "overview": "Acts performing tonight include Gazzo, Brynolf &amp; Ljung, Keelan Leyser &amp; Charlotte Marie, and Colin McLeod."
+      },
+      {
+        "id": "tvmaze:184115",
+        "title": "A Bellyful of Needles",
+        "season": 1,
+        "episode": 7,
+        "released": "2011-07-30",
+        "overview": "Acts performing tonight include Shawn Farquhar, Etienne Pradier, Chris Dugdale and Manuel Martinez."
+      },
+      {
+        "id": "tvmaze:184116",
+        "title": "Water Tanks for the Memories",
+        "season": 1,
+        "episode": 8,
+        "released": "2011-08-28",
+        "overview": "Acts performing tonight include Lee Hathaway, Laura London and Jack Taperell. Paul Daniels sons Paul and Martin also perform on stage."
+      },
+      {
+        "id": "tvmaze:184117",
+        "title": "Phone-y Business",
+        "season": 2,
+        "episode": 1,
+        "released": "2015-07-06",
+        "overview": "The magicians featured in the episode include Jon Armstrong, Xavier, Greg Dow aka The Shocker and Steve Brundage."
+      },
+      {
+        "id": "tvmaze:184118",
+        "title": "The Invisi-Ball Thread",
+        "season": 2,
+        "episode": 2,
+        "released": "2015-07-13",
+        "overview": "Aspiring magicians who perform their best tricks include Leon and Romy, Mike Hammer, Shin Lim and Peter Boie."
+      },
+      {
+        "id": "tvmaze:184119",
+        "title": "Shoot to Kill",
+        "season": 2,
+        "episode": 3,
+        "released": "2015-07-20",
+        "overview": "Aspiring magicians who perform their best tricks include Brian Brushwood, Simon Pierro, John Lovick, and Kyle Knight and Mistie."
+      },
+      {
+        "id": "tvmaze:185276",
+        "title": "Knife of the Party",
+        "season": 2,
+        "episode": 4,
+        "released": "2015-07-27",
+        "overview": "Austin Janik, Amazing Allison, Mac King and Norman Ng attempt to fool the Penn &amp; Teller with their tricks."
+      },
+      {
+        "id": "tvmaze:189653",
+        "title": "Mission Impossi-Ball",
+        "season": 2,
+        "episode": 5,
+        "released": "2015-08-03",
+        "overview": "Bill Cook, Wes Barker, Matt Holtzclaw and David Regal attempt to fool Penn &amp; Teller with their tricks."
+      },
+      {
+        "id": "tvmaze:200230",
+        "title": "Now That's Bunny!",
+        "season": 2,
+        "episode": 6,
+        "released": "2015-08-10",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Jay Sankey, Greg Wilson, Trigg Watson and Jen Kramer. British television and radio personality Jonathan Ross (\"Friday Night with Jonathan Ross\") serves as host."
+      },
+      {
+        "id": "tvmaze:201472",
+        "title": "Penn's Favorite Card Trick",
+        "season": 2,
+        "episode": 7,
+        "released": "2015-08-17",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Kostya Kimlat, Frederick Falk, Chris Funk and Nate Dendy. British television and radio personality Jonathan Ross (\"Friday Night with Jonathan Ross\") serves as host."
+      },
+      {
+        "id": "tvmaze:202882",
+        "title": "Teller Plays with a Full Deck",
+        "season": 2,
+        "episode": 8,
+        "released": "2015-08-24",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Blake Vogt, Joshua Jay, Levent and Ben Seidman. British television and radio personality Jonathan Ross (\"Friday Night with Jonathan Ross\") serves as host."
+      },
+      {
+        "id": "tvmaze:204500",
+        "title": "Star Spangled Magic",
+        "season": 2,
+        "episode": 9,
+        "released": "2015-08-31",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Riley Siegler, Jade, Ran'd Shine and David Roth. British television and radio personality Jonathan Ross (\"Friday Night with Jonathan Ross\") serves as host."
+      },
+      {
+        "id": "tvmaze:209161",
+        "title": "Where There's Smoke There's Magic",
+        "season": 2,
+        "episode": 10,
+        "released": "2015-09-14",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Joel &amp; Spidey, Rick Lax, Marcus Eddie and Bruce Gold. British television and radio personality Jonathan Ross (\"Friday Night with Jonathan Ross\") serves as host."
+      },
+      {
+        "id": "tvmaze:211854",
+        "title": "Teller Deflowers a Shadow",
+        "season": 2,
+        "episode": 11,
+        "released": "2015-09-21",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Scott &amp; Puck, Eric Jones, Mark Calabrese and Paul Vigil. British television and radio personality Jonathan Ross (\"Friday Night with Jonathan Ross\") serves as host."
+      },
+      {
+        "id": "tvmaze:215937",
+        "title": "Penn & Teller Ring Someone's Neck",
+        "season": 2,
+        "episode": 12,
+        "released": "2015-09-28",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Victor &amp; Diamond, Francis Menotti, Nash Fung and Chad Juros. British television and radio personality Jonathan Ross (\"Friday Night with Jonathan Ross\") serves as host."
+      },
+      {
+        "id": "tvmaze:245998",
+        "title": "An Egg-cellent Trick",
+        "season": 2,
+        "episode": 13,
+        "released": "2015-10-05",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Derek Hughes, Reuben Moreland, Suzanne and Jared Kopf. British television and radio personality Jonathan Ross (\"Friday Night with Jonathan Ross\") serves as host."
+      },
+      {
+        "id": "tvmaze:845129",
+        "title": "Won't Get Fooled Again... ?",
+        "season": 3,
+        "episode": 1,
+        "released": "2016-07-13",
+        "overview": "The magicians featured in the episode include Shawn Farquhar, Michael Kent, Nathan Burton and Nathan Coe Marsh."
+      },
+      {
+        "id": "tvmaze:852253",
+        "title": "Jesse Eisenberg Gets Carded",
+        "season": 3,
+        "episode": 2,
+        "released": "2016-07-20",
+        "overview": "Magicians Brett Loudermilk, Dan Harlan, Ryan Joyce, and Kyle Eschen try to fool the veteran duo with their tricks. Actor Jesse Eisenberg performs a trick with Penn &amp; Teller."
+      },
+      {
+        "id": "tvmaze:861790",
+        "title": "Penn & Teller Have a Blast",
+        "season": 3,
+        "episode": 3,
+        "released": "2016-07-27",
+        "overview": "Magicians Robert Ramirez, Dominik, Joel Ward, and Mahdi Gilbert try to fool the veteran duo with their tricks."
+      },
+      {
+        "id": "tvmaze:867962",
+        "title": "Penn Plays with Fire",
+        "season": 3,
+        "episode": 4,
+        "released": "2016-08-03",
+        "overview": "Magicians David &amp; Leeman, Jibrizy, Rick Maisel, and Felix Bodden try to fool the veteran duo with their tricks."
+      },
+      {
+        "id": "tvmaze:874042",
+        "title": "You Dirty Rathead!",
+        "season": 3,
+        "episode": 5,
+        "released": "2016-08-10",
+        "overview": "Magicians Alex Ramon, Greg Frewin, Vinny Grosso, and Arthur Trace try to fool the veteran duo with their tricks."
+      },
+      {
+        "id": "tvmaze:880531",
+        "title": "Penn & Teller Snake Their Chances",
+        "season": 3,
+        "episode": 6,
+        "released": "2016-08-17",
+        "overview": "Magicians Elliot Zimet, Paul Gertner, Matthew Disero, and Rokas try to fool the veteran duo with their tricks."
+      },
+      {
+        "id": "tvmaze:886130",
+        "title": "Juggle, Juggle, Penn's in Trouble",
+        "season": 3,
+        "episode": 7,
+        "released": "2016-08-24",
+        "overview": "Magicians Vitaly Beckman, Simon Coronel, Mac King, and Kevin Viner try to fool the veteran duo with their tricks."
+      },
+      {
+        "id": "tvmaze:893374",
+        "title": "Here's Moxie!",
+        "season": 3,
+        "episode": 8,
+        "released": "2016-08-31",
+        "overview": "Magicians Matthew Laslo, Zabrecky, David Garrard, and Wayne Hoffman try to fool the veteran duo with their tricks. Penn's daughter, Moxie Jillette, helps David Garrard with a trick."
+      },
+      {
+        "id": "tvmaze:899914",
+        "title": "The Great Escape",
+        "season": 3,
+        "episode": 9,
+        "released": "2016-09-02",
+        "overview": "Magicians Xavier Mortimer, Fielding West, Caleb Wiles, and Kevin Hall the Magic Maniac try to fool the veteran duo with their tricks."
+      },
+      {
+        "id": "tvmaze:905499",
+        "title": "To Tea or Not to Tea?",
+        "season": 3,
+        "episode": 10,
+        "released": "2016-09-07",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Timon, Kyle Marlett, The Evasons and Chef Anton. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:905500",
+        "title": "Penn & Teller Get Trapped",
+        "season": 3,
+        "episode": 11,
+        "released": "2016-09-09",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Christopher Tracy &amp; Jim Leach, Neil Croswell, Ben Young and Henok. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:905501",
+        "title": "Penn & Teller Rip for Your Pleasure",
+        "season": 3,
+        "episode": 12,
+        "released": "2016-09-14",
+        "overview": "PENN &amp; TELLER BRING MAGIC TO THE CW - Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Joseph Reohm, Brent Braun, Chris Rose and Charles Bach. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:905502",
+        "title": "Can Penn & Teller Fool Penn & Teller?",
+        "season": 3,
+        "episode": 13,
+        "released": "2016-09-16",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Anthony Asimov, Angela Funovits, Ivan Amodei and Vince Charming. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1119249",
+        "title": "Penn & Teller Teach You a Trick",
+        "season": 4,
+        "episode": 1,
+        "released": "2017-07-13",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Richard Turner, Young &amp; Strange, Kayla Drescher and Mike Super. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1233373",
+        "title": "Penn, Teller and a Mind Reading Chicken",
+        "season": 4,
+        "episode": 2,
+        "released": "2017-07-20",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Jonathan Burns, Jo De Rijck, David Caserta and Jimmy Ichihana. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1242369",
+        "title": "Teller Flips a Bird",
+        "season": 4,
+        "episode": 3,
+        "released": "2017-07-27",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Misty Lee, Shin Lim, Andi Gradwin and Hatfields. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1249920",
+        "title": "50/50 Chance",
+        "season": 4,
+        "episode": 4,
+        "released": "2017-08-03",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Matt Johnson, Siegfried Tieber, Jason Fields, and Jessica Jane Peterson. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1259411",
+        "title": "Does This Trick Ring a Bell?",
+        "season": 4,
+        "episode": 5,
+        "released": "2017-08-10",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Dyno Staats, Aiden Sinclair, Axel Adler and David Parr. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1261727",
+        "title": "Something Fishy This Way Comes",
+        "season": 4,
+        "episode": 6,
+        "released": "2017-08-17",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Dan Sperry, Naathan Phan, Jean-Pierre Parent and Richard Forget. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1267141",
+        "title": "A Big Round of Applause for Alyson",
+        "season": 4,
+        "episode": 7,
+        "released": "2017-08-24",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Riccardo Berdini, Yan Markson, Ondrej Psenicka, and Glenn Morphew. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1277347",
+        "title": "I Dream of Genie Tube",
+        "season": 4,
+        "episode": 8,
+        "released": "2017-09-07",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Dennis Watkins, Jeff McBride, Kevin Li and Sergio Starman. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1280933",
+        "title": "Penn & Teller Are Full of Hot Air",
+        "season": 4,
+        "episode": 9,
+        "released": "2017-09-14",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Liberty, Jorge Blass, Paul Gertner and Sergio Starman. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1285729",
+        "title": "Monkey Business",
+        "season": 4,
+        "episode": 10,
+        "released": "2017-09-21",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Sean-Paul and Juliana Fay, Jason Andrews, Eric Mead and Reza Borchardt. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1290189",
+        "title": "Penn Does the Heavy Lifting",
+        "season": 4,
+        "episode": 11,
+        "released": "2017-09-25",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Stewart MacDonald, Kyle Littleton, Lion Fludd and Fred &amp; Bobbie Becker. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1290190",
+        "title": "Penn & Teller & Dracula",
+        "season": 4,
+        "episode": 12,
+        "released": "2017-09-28",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Javi Benitez, Mike Bliss, Ekaterina and Ran Gafner. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1327147",
+        "title": "Hanging Out with Penn & Teller",
+        "season": 4,
+        "episode": 13,
+        "released": "2017-11-30",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Patrik Kuffs, Lamanske, Adam Wilber and Hector. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1452688",
+        "title": "Penn the Magic Dragon",
+        "season": 5,
+        "episode": 1,
+        "released": "2018-06-25",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Matt Marcy, The Sentimentalists, Andrew Evans, Dom Chambers and Piff the Magic Dragon. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1481385",
+        "title": "The Rematch",
+        "season": 5,
+        "episode": 2,
+        "released": "2018-07-02",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Vinny Grosso, Morgan &amp; West, Paul Gertner &amp; Eric Jones. Alyson Hannigan (\"How I Met Your Mother\") serves as host.ALL these magicians have previously fooled Penn and Teller and return to attempt fooling them again."
+      },
+      {
+        "id": "tvmaze:1482989",
+        "title": "Penn & Teller Get Loopy",
+        "season": 5,
+        "episode": 3,
+        "released": "2018-07-09",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Ryan Chandler, Ryan Hayashi, Dirk Losander &amp; Ed Ripley. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1483297",
+        "title": "Here Comes the Magic",
+        "season": 5,
+        "episode": 4,
+        "released": "2018-07-16",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Danny Cole, Kostya Kimlat, Hakan Berg &amp; John Michael Hinton. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1493617",
+        "title": "Psych!!",
+        "season": 5,
+        "episode": 5,
+        "released": "2018-07-23",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Emily Victoria, Patrick Folkerts, Migz, and Seth Grabel. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1495641",
+        "title": "Penn & Teller Against the World",
+        "season": 5,
+        "episode": 6,
+        "released": "2018-07-30",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The international magicians featured in the episode include Taijyi Fujryama, Pit Hartling, Helen Coghlan and Menny Lindenfeld. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1500246",
+        "title": "Imagine (Magic) Dragons",
+        "season": 5,
+        "episode": 7,
+        "released": "2018-08-06",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Erik Tait, Rebecca Herrera, TanBA and Ian Stewart. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1502777",
+        "title": "Here Lie Penn & Teller",
+        "season": 5,
+        "episode": 8,
+        "released": "2018-08-13",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Damien James, Kelvin Chow, Joshua Lozoff and Murray Sawchuck. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1508698",
+        "title": "Teller's Gambling Problem",
+        "season": 5,
+        "episode": 9,
+        "released": "2018-08-20",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Will Bradshaw, Eric Dittelman, Christian Engblom and Compagnie des Dragonfly. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1512487",
+        "title": "Penn & Teller Keep You in Suspense",
+        "season": 5,
+        "episode": 10,
+        "released": "2018-08-27",
+        "overview": "- Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Simon Pierro, Nicholas Wallace, Darcy Oake and Alex Geiser. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1514594",
+        "title": "The Fool Us Zone",
+        "season": 5,
+        "episode": 11,
+        "released": "2018-09-03",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Tyler Twombly, Dr. Michael Rubinstein, Anastasia Synn, and Adam Cheyer. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1525015",
+        "title": "Never Trust a Magician",
+        "season": 5,
+        "episode": 12,
+        "released": "2018-09-24",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Alexandra Duvivier, Christine Barger, Jamie Allan and Christopher Grace. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1529387",
+        "title": "Let's Hear It for the Kids",
+        "season": 5,
+        "episode": 13,
+        "released": "2018-10-01",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Kiko Pastur, Jason Palter, Michael Gee, and Bryan Saint. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1634503",
+        "title": "David Copperfield vs. Penn & Teller",
+        "season": 6,
+        "episode": 1,
+        "released": "2019-06-17",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians David Copperfield, Jan Reinder, Ondřej Pšenička, and Giancarlo Bernini try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1642334",
+        "title": "They're Baaack!",
+        "season": 6,
+        "episode": 2,
+        "released": "2019-06-24",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Javi Benitez, Rebecca Herrera, Helen Coghlan, and Danny Cole try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1642336",
+        "title": "Penn & Teller vs. Inventors",
+        "season": 6,
+        "episode": 3,
+        "released": "2019-07-01",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Arkadia, Harry Keaton, Jandro, and Derek Selinger try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1642337",
+        "title": "Penn & Teller Cure the Common Code",
+        "season": 6,
+        "episode": 4,
+        "released": "2019-07-08",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Anna DeGuzman, Raffaele Scircoli, Allen Abbott, and Axel Hecklau try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1675632",
+        "title": "Penn & Teller Hit the Streets",
+        "season": 6,
+        "episode": 5,
+        "released": "2019-07-15",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Adrian Carratala, Kevin Blake, Ryan Stock &amp; AmberLynn, and Christopher Castellini try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1678139",
+        "title": "Duck! It's Alyson!",
+        "season": 6,
+        "episode": 6,
+        "released": "2019-07-22",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Jimmy Ichihana, Herbert (Sebastien Dethise) &amp; Alyson, Eric Samuels, and Rabby Yang try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1681667",
+        "title": "Are You Better Magicians Than a 6th Grader?",
+        "season": 6,
+        "episode": 7,
+        "released": "2019-07-29",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Hans Petter Secker, Xulio Merino, Zoe LaFleur, and Josh Farley try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1684456",
+        "title": "2nd Chance Foolers",
+        "season": 6,
+        "episode": 8,
+        "released": "2019-08-05",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Marcus Eddie, Kevin Li, Blake &amp; Jana, and Robert Ramirez try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1687380",
+        "title": "Magic Meatballs",
+        "season": 6,
+        "episode": 9,
+        "released": "2019-08-19",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Anca &amp; Lucca, Tom Stone, Jon &amp; Owen - The Passing Zone, and Horret Wu try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1690618",
+        "title": "Magical Moxie",
+        "season": 6,
+        "episode": 10,
+        "released": "2019-08-26",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Wolfgang Moser, Johnny Magic, Pere Rafart, and Giacomo Bertini try to fool the veteran duo with their illusions. Special guest Moxie Jillette, Penn's daughter, helps Penn &amp; Teller with their trick as \"Moxie, the Vegas Voltara.\""
+      },
+      {
+        "id": "tvmaze:1702510",
+        "title": "The Mind Noodler",
+        "season": 6,
+        "episode": 11,
+        "released": "2019-09-09",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Scott Green, Mike \"The Mind Noodler\" Donnelly, Doc Dixon, and Sangsoon Kim try to fool the veteran duo with their illusions. Special guest appearance by Mo'Nique."
+      },
+      {
+        "id": "tvmaze:1712081",
+        "title": "Magic is Bad for Your Health",
+        "season": 6,
+        "episode": 12,
+        "released": "2019-09-23",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Lucy Darling (a persona of Carisa Hendrix), Nestor Hato, Alfonso Rituerto, and Keelan Leyser &amp; Matt Daniel-Baker try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1712106",
+        "title": "Virtual Reality",
+        "season": 6,
+        "episode": 13,
+        "released": "2019-09-30",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Woody Aragon, Denny Corby, Sinbad Max, and John Walton try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1827401",
+        "title": "Third Time's A Charm",
+        "season": 7,
+        "episode": 1,
+        "released": "2020-06-22",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Magicians Shawn Farquhar, Helen Coghlan, Ondřej Pšenička, and Paul Gertner try to fool the veteran duo with their illusions."
+      },
+      {
+        "id": "tvmaze:1883737",
+        "title": "Teller Vs. Penn",
+        "season": 7,
+        "episode": 2,
+        "released": "2020-06-29",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Eric Leclerc, Dev Sherman, Conan Liu and Rubén Vilagrand. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1888402",
+        "title": "The Home Game",
+        "season": 7,
+        "episode": 3,
+        "released": "2020-07-06",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Caleb Wiles, D.K., Wes Iseli and Alana. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1891940",
+        "title": "Teller Talks!!!",
+        "season": 7,
+        "episode": 4,
+        "released": "2020-07-13",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Miranda Allen, Iñaki Zabaletta, Keith Kong and Guilherme Silveira. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1897354",
+        "title": "Watermelon Surgery",
+        "season": 7,
+        "episode": 5,
+        "released": "2020-07-20",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Guy Bavli, Javier Botía, B.S. Reddy and Chad Allen. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1903078",
+        "title": "P&t In 3d... Glasses",
+        "season": 7,
+        "episode": 6,
+        "released": "2020-08-03",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Hans Klok, Michael Bourada, Hedné, and Vincenzo Ravina. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Special guest appearance by Rich Sommer."
+      },
+      {
+        "id": "tvmaze:1909349",
+        "title": "Penn's Stupid Rope Trick",
+        "season": 7,
+        "episode": 7,
+        "released": "2020-08-17",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Sora, Jaana Felicitas, Mario Lopez, and Clinton W. Gray. Alyson Hannigan (\"How I Met Your Mother\") serves as host. Special guest appearance by Debbie Gibson."
+      },
+      {
+        "id": "tvmaze:1911600",
+        "title": "Brad Sherwood's Nuts",
+        "season": 7,
+        "episode": 8,
+        "released": "2020-08-24",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Mike Hammer, Lea Kyle, Dante, and Takamiz Usui. Special guest appearance by Brad Sherwood."
+      },
+      {
+        "id": "tvmaze:1914234",
+        "title": "The Placebo Effect",
+        "season": 7,
+        "episode": 9,
+        "released": "2020-08-31",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Daniel K, Yukihiro Katayama, Andrew Evans, and David Stone. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:1931743",
+        "title": "Deep Fake Penn",
+        "season": 7,
+        "episode": 10,
+        "released": "2020-10-05",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Boris Wild, Ramo &amp; Alegria, Jonio, and Dr. Ricardo Rosenkranz."
+      },
+      {
+        "id": "tvmaze:1937537",
+        "title": "Say Hello To My Little Ball Pit Troll",
+        "season": 7,
+        "episode": 11,
+        "released": "2020-10-12",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Jandro, David Parr, Magical Katrina, and Daniel Roy."
+      },
+      {
+        "id": "tvmaze:1942046",
+        "title": "Lord Of The Ring",
+        "season": 7,
+        "episode": 12,
+        "released": "2020-10-19",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Anna Ferris Simpson, Pierre Ulric, Garrett Thomas, and Francis Menotti."
+      },
+      {
+        "id": "tvmaze:1946637",
+        "title": "Jaws of Death",
+        "season": 7,
+        "episode": 13,
+        "released": "2020-10-26",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Blaise Serra, Leon Etienne, Xavier Mortimer, and Sylvain Juzan."
+      },
+      {
+        "id": "tvmaze:1963213",
+        "title": "Magic with a Property Brother",
+        "season": 7,
+        "episode": 14,
+        "released": "2020-11-16",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host.  The magicians featured in the episode include Ali Cook, Tony Clark, Till Haunschild, and Tony Montana. Special guest Jonathan Scott helps Penn &amp; Teller with a trick."
+      },
+      {
+        "id": "tvmaze:1960618",
+        "title": "Penn & Teller Go For The Juggler",
+        "season": 7,
+        "episode": 15,
+        "released": "2021-01-08",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Noah Sonie, Malin Nilsson, Peter Samelson, and Michael Karl. Special guest Kevin Pollak helps Penn &amp; Teller with a trick."
+      },
+      {
+        "id": "tvmaze:1992732",
+        "title": "Teller Versus Penn: The Rematch",
+        "season": 7,
+        "episode": 16,
+        "released": "2021-01-15",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Jonathan Burns, Eric Chien, Jeremiah Zuo, and Sabine van Diemen."
+      },
+      {
+        "id": "tvmaze:1997408",
+        "title": "Jedi Mind Tricks",
+        "season": 7,
+        "episode": 17,
+        "released": "2021-01-22",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Chris Capehart, Yan Yan Ma, Topas, and Jason and Stacy Alan."
+      },
+      {
+        "id": "tvmaze:2005390",
+        "title": "Teller Gets Smashed",
+        "season": 7,
+        "episode": 18,
+        "released": "2021-01-29",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Jeki Yoo, Matthew Pomeroy &amp; Natasha Lamb, Peter Wood, and Lewis Starnes."
+      },
+      {
+        "id": "tvmaze:2009455",
+        "title": "Penn & Teller Go For A Spin",
+        "season": 7,
+        "episode": 19,
+        "released": "2021-02-05",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Dania Diaz, Greg Gleason, Cameron Braxton, &amp; Florian Sainvet."
+      },
+      {
+        "id": "tvmaze:2018009",
+        "title": "Niagara Fools",
+        "season": 7,
+        "episode": 20,
+        "released": "2021-02-19",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Greg Frewin, Dyna Staats, Matt Marcy, and Guilherme Silveira."
+      },
+      {
+        "id": "tvmaze:2024223",
+        "title": "Back To The Future",
+        "season": 7,
+        "episode": 21,
+        "released": "2021-02-26",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Abby Segal, Noel Qualter, Christoph Kuch, and Ray Lum. Special guests Amanda Seyfried &amp; Thomas Sadoski help Penn &amp; Teller with a trick."
+      },
+      {
+        "id": "tvmaze:2030221",
+        "title": "P&T Get The Finger",
+        "season": 7,
+        "episode": 22,
+        "released": "2021-03-05",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Sanjeev Vinodh, Doc Dixon, David Merlin (aka Psycho Jack), and Jorg Alexander."
+      },
+      {
+        "id": "tvmaze:2035050",
+        "title": "Turn That Frown Upside Down",
+        "season": 7,
+        "episode": 23,
+        "released": "2021-03-12",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Tyler Twombly, Josephine Lee, Lionel, and Aaron Hickok. Special guest Marilu Henner helps Penn &amp; Teller with a trick."
+      },
+      {
+        "id": "tvmaze:2039643",
+        "title": "The Magic Toilet",
+        "season": 7,
+        "episode": 24,
+        "released": "2021-03-19",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Mac King, David Shareef, Alejandro Navas, and Vitaly Beckman."
+      },
+      {
+        "id": "tvmaze:2042549",
+        "title": "Penn & Tarot",
+        "season": 7,
+        "episode": 25,
+        "released": "2021-03-26",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Simon Coronel, John Morton, Alberto Giorgi, and Makoto Halverson."
+      },
+      {
+        "id": "tvmaze:2046113",
+        "title": "Teller's Wonderland",
+        "season": 7,
+        "episode": 26,
+        "released": "2021-04-02",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Ryan and Johnny Hayashi, Nathaniel Segal, Jandro, and Bill Goodwin. Special guest Moxie Jillette, Penn's daughter, helps Penn &amp; Teller with a trick."
+      },
+      {
+        "id": "tvmaze:2049870",
+        "title": "Magic R App",
+        "season": 7,
+        "episode": 27,
+        "released": "2021-04-09",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Moritz Mueller, Michael Feldman, Magical Bones, and Seth Raphael."
+      },
+      {
+        "id": "tvmaze:2053671",
+        "title": "Penn & Teller Double Down",
+        "season": 7,
+        "episode": 28,
+        "released": "2021-04-16",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. Alyson Hannigan (\"How I Met Your Mother\") serves as host. The magicians featured in the episode include Tattoo (Gloria Estefan helps Penn &amp; Teller with this trick), Siegfried Tieber, Rick Wilcox, and Willi Auerback."
+      },
+      {
+        "id": "tvmaze:2113530",
+        "title": "Penn & Teller's Worst Nightmare",
+        "season": 8,
+        "episode": 1,
+        "released": "2021-10-01",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The live studio audience and the TV audience watch along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Jandro, Piff the Magic Dragon, Helen Coghlan, and Paul Gertner. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2113618",
+        "title": "Magic with a Wolf",
+        "season": 8,
+        "episode": 2,
+        "released": "2021-10-08",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. Scott Wolf (\"Nancy Drew\") joins Penn &amp; Teller, and magicians featured in the episode include The Shocker (aka Greg Dow), Magic Maxl, Jeki Yoo, and Ben Seidman. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2178712",
+        "title": "Happy Birthday!",
+        "season": 8,
+        "episode": 3,
+        "released": "2021-10-15",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Amanda Nepo, Shoot Ogawa, Ale Belotto &amp; Giulia Musso, and Mark Clearview, with special guest appearance by Judy Gold. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2185214",
+        "title": "Monkeys, Donuts and X-Men",
+        "season": 8,
+        "episode": 4,
+        "released": "2021-10-22",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Anchal Kumawat, Mark Doetsch, Michael O'Brien, and Adrian Cárratalá. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2194818",
+        "title": "Teller Gets Whacked!",
+        "season": 8,
+        "episode": 5,
+        "released": "2021-11-05",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Alex Ramon, Micah, Cameron Young, and Matthew Teague. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2199575",
+        "title": "Penn & Tizzle",
+        "season": 8,
+        "episode": 6,
+        "released": "2021-11-12",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Leroya Sanford, Joshua Jay, Gabriel Gascon, and Luca Volpe. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2205199",
+        "title": "Rock Paper Magic!",
+        "season": 8,
+        "episode": 7,
+        "released": "2021-11-19",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Hayden Childress, Hans, Benjamin Barnes, and Jay &amp; Joss. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2210397",
+        "title": "Magic Cubed",
+        "season": 8,
+        "episode": 8,
+        "released": "2021-12-03",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Sydney Weaver, Steven Palmore (Jazzman \"S\"), Danny Ray, and Bobby Torkova. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2211593",
+        "title": "Chocolate Magic",
+        "season": 8,
+        "episode": 9,
+        "released": "2022-01-07",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Tori Noquez, Alex Boyer, Andi Gladwin, and Topas, with a special guest appearance by Heather McDonald. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2242887",
+        "title": "The Penn-Tagram",
+        "season": 8,
+        "episode": 10,
+        "released": "2022-01-14",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Mellow, Paige Thompson, Stanley Zhou, and Jonathon Lachance. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2245822",
+        "title": "Stabba Dabba Deck",
+        "season": 8,
+        "episode": 11,
+        "released": "2022-01-21",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Zak Mirz, John-Henry, Andy Deemer, and Thomas Solomon, with a special guest appearance by comedian Carrot Top. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2248873",
+        "title": "P&T's Big Game Halftime Show",
+        "season": 8,
+        "episode": 12,
+        "released": "2022-01-28",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Rick Smith Jr. &amp; Rokas, Lindsey Noel, Jason Suran, and Roddy McGhie. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2270566",
+        "title": "Penn on Fire",
+        "season": 8,
+        "episode": 13,
+        "released": "2022-02-25",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include John Fitzsimmons, David Corsaro, Diego &amp; Elena, and Bentley Burns. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2273530",
+        "title": "Ghostbusters",
+        "season": 8,
+        "episode": 14,
+        "released": "2022-03-04",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Sean-Paul &amp; Juliana Fay, Disguido, Dr. Scott Kahn, and Star Newman, with special guest appearances by Marilyn McCoo and Billy Davis, Jr. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2357508",
+        "title": "Single-Handed Three-Legged Twin Bullet Catch",
+        "season": 9,
+        "episode": 1,
+        "released": "2022-10-14",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Jon Mobley, The Van Hargen Twins, Axel Adler, and Chris Canfield. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2404438",
+        "title": "Sleight of Foot",
+        "season": 9,
+        "episode": 2,
+        "released": "2022-10-21",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Theron Christensen, Jaana Felicitas, Benjamin Barnes, and Brian Curry. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2411310",
+        "title": "Four Fools and Counting...",
+        "season": 9,
+        "episode": 3,
+        "released": "2022-10-28",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Yann Yuro, Helen Coghlan, Jason Michaels, and Alexander Boyce. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2414485",
+        "title": "Alyson's Smart Ass",
+        "season": 9,
+        "episode": 4,
+        "released": "2022-11-04",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Dani Daortiz (with special guest Donny Osmond), Knight &amp; Gayle, Jonah Babins &amp; Ben Train, and Jason Fields. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2418665",
+        "title": "Teller and the Big Dummy",
+        "season": 9,
+        "episode": 5,
+        "released": "2022-11-11",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Apollo Riego, Rachel Wax, Kolos, and Peter Wood. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2421553",
+        "title": "Magic Socks Big Time",
+        "season": 9,
+        "episode": 6,
+        "released": "2022-11-18",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Gabriella Lester, Howard Blackwell, Horret Wu, and Dr. Michael Rubinstein. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2429591",
+        "title": "That (Bleeping) Teller!",
+        "season": 9,
+        "episode": 7,
+        "released": "2022-12-02",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Luka Vidovic, Connor McDonald &amp; Kenshin Amagi, Marc Desouza, and Kevin Micoud. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2440016",
+        "title": "Penn & Teller Animal Style",
+        "season": 9,
+        "episode": 8,
+        "released": "2023-01-20",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Jo De Rijck, Nick Paul, Sachin KM, and Christopher T &amp; Sam. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2463610",
+        "title": "Tic Tac Time Travel",
+        "season": 9,
+        "episode": 9,
+        "released": "2023-01-27",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Dustin Dean, Alan Hudson, Dr. Kruti Parekh, and Kyle Purnell. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2471148",
+        "title": "The Evil Magic Octopus",
+        "season": 9,
+        "episode": 10,
+        "released": "2023-02-03",
+        "overview": "PENN &amp; TELLER'S AGE APPROPRIATE ESCAPE! - Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Damien James (aka Mr. Cuddles), Mantas, Andy Gershenzon, and Alejandro Linian. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2479354",
+        "title": "Full Frontal Magic",
+        "season": 9,
+        "episode": 11,
+        "released": "2023-02-10",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out.  Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas.  The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Hector Mancha (assisted by special guest Alex Garfin of Superman &amp; Lois), Adam Parisi, Ben Zabin, and Robert Strong. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2488600",
+        "title": "P & T Could Die Any Minute",
+        "season": 9,
+        "episode": 12,
+        "released": "2023-03-31",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Jandro, Ben Krantz, Judge Gary Brown, and Puck. Special guest Moxie Jillette, Penn's daughter, helps Penn &amp; Teller with their trick. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2488601",
+        "title": "Chicken Trickin",
+        "season": 9,
+        "episode": 13,
+        "released": "2023-04-07",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Seren &amp; Nathan, Caleb Morgan, Alfonso Rituerto, and Dr. Ricardo Rosenkranz. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2510798",
+        "title": "Alyson Might Throw Up",
+        "season": 9,
+        "episode": 14,
+        "released": "2023-04-14",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller, who will get to see the trick only once and have to immediately try to work it out. Anyone who succeeds wins the right to perform with Penn &amp; Teller in their celebrated show at the Rio Hotel &amp; Casino in Las Vegas. The TV audience watches along with Penn &amp; Teller as they try to figure out the secrets. The magicians featured in the episode include Raymi, Kat Hudson, and Javier Natera. Special guests Piff the Magic Dragon and Mac King help Penn &amp; Teller with a trick. Alyson Hannigan (\"How I Met Your Mother\") serves as host."
+      },
+      {
+        "id": "tvmaze:2594977",
+        "title": "Who's Your Daddy?!",
+        "season": 10,
+        "episode": 1,
+        "released": "2023-10-27",
+        "overview": "Aspiring magicians are invited to perform their best trick to try and fool the world-famous team of Penn &amp; Teller. The magicians featured in the episode include Moxie Jillette, Daxien, The Cosmic Romantics, and David Schwartz."
+      },
+      {
+        "id": "tvmaze:2642222",
+        "title": "2 Dead in Tonight's Episode",
+        "season": 10,
+        "episode": 2,
+        "released": "2023-11-03",
+        "overview": "Aspiring magicians perform their best trick to try and fool Penn &amp; Teller. Magicians featured include Alexandra, Artem, Anthony Dempsey and Rune Carlsen."
+      },
+      {
+        "id": "tvmaze:2642223",
+        "title": "Magic is Sexy",
+        "season": 10,
+        "episode": 3,
+        "released": "2023-11-10",
+        "overview": "Aspiring magicians perform their best trick to try and fool Penn &amp; Teller. Magicians featured include Cash, Aleš Hrdlička, Henry &amp; Klauss, and Jonah Babins &amp; Ben Train."
+      },
+      {
+        "id": "tvmaze:2675437",
+        "title": "We Have a Raccoon Problem",
+        "season": 10,
+        "episode": 4,
+        "released": "2023-11-17",
+        "overview": "Aspiring magicians perform their best trick to try and fool Penn &amp; Teller."
+      },
+      {
+        "id": "tvmaze:2675457",
+        "title": "The Bill-In-Penn's-Head Trick",
+        "season": 10,
+        "episode": 5,
+        "released": "2023-12-01",
+        "overview": "The magicians featured in the episode include Joe Monti, Ding Yang, Matt Baker and Arturo Fuenzalida."
+      },
+      {
+        "id": "tvmaze:2675458",
+        "title": "Badass Brooke",
+        "season": 10,
+        "episode": 6,
+        "released": "2023-12-08",
+        "overview": "The magicians featured in the episode include Ramo and Alegria, Bryan Saint, Sion and Vilgot Michelin."
+      },
+      {
+        "id": "tvmaze:2675459",
+        "title": "The Princess and the Wizard",
+        "season": 10,
+        "episode": 7,
+        "released": "2023-12-22",
+        "overview": "The magicians featured in the episode include Benjamin Barnes, Hara, Helen Coghlan and Daniel K."
+      },
+      {
+        "id": "tvmaze:2675460",
+        "title": "The Smallest Biggest Magic Trick Ever",
+        "season": 10,
+        "episode": 8,
+        "released": "2024-01-12",
+        "overview": "The magicians featured in the episode include Blake Vogt, Marc DeSouza, AnnaRose and Willy Monroe."
+      },
+      {
+        "id": "tvmaze:2675461",
+        "title": "Penn & Teller vs. A Magic Hamster",
+        "season": 10,
+        "episode": 9,
+        "released": "2024-01-19",
+        "overview": "The magicians featured in the episode include Jo De Rijck, Adrian Vega, Nao Murata and Jonathan Steigman."
+      },
+      {
+        "id": "tvmaze:2675462",
+        "title": "A Magical Punch in the Face",
+        "season": 10,
+        "episode": 10,
+        "released": "2024-01-26",
+        "overview": "The magicians featured in the episode include Sanjeev Vinodh, Mortenn Christiansen, Giancarlo Bernini and Jeffrey Wang."
+      },
+      {
+        "id": "tvmaze:2741405",
+        "title": "The Youngest Act in Fool Us History",
+        "season": 10,
+        "episode": 11,
+        "released": "2024-02-02",
+        "overview": "The magicians featured in the episode include Giancarlo Bernini, Rachel Ling Gordon, Mr Triton and Joe Diamond."
+      },
+      {
+        "id": "tvmaze:2748506",
+        "title": "It's Snot Magic!",
+        "season": 10,
+        "episode": 12,
+        "released": "2024-02-16",
+        "overview": "The magicians featured in the episode include Jimmy Ichihana, Brendon Peel &amp; Li Lau, Jin Hyoung Han, and Dana Pleasant."
+      },
+      {
+        "id": "tvmaze:2748507",
+        "title": "Game of Drones",
+        "season": 10,
+        "episode": 13,
+        "released": "2024-02-23",
+        "overview": "The magicians featured in the episode include Wes Barker, Henry Evans, Gonzalo Albiñana and Keona."
+      },
+      {
+        "id": "tvmaze:2748508",
+        "title": "Brought to You by the Letter P",
+        "season": 10,
+        "episode": 14,
+        "released": "2024-03-01",
+        "overview": "Featured magicians include Jacob Schenström, Ondřej Pšenička, John Lewit and Chris Capeheart."
+      },
+      {
+        "id": "tvmaze:2774686",
+        "title": "Dan Quayle Gets Shot by a T-Shirt Cannon",
+        "season": 10,
+        "episode": 15,
+        "released": "2024-03-15",
+        "overview": "The magicians featured in the episode include Kimoon Do, Matt The Mind Noodler, Brielle and Bruno Tarnecci."
+      },
+      {
+        "id": "tvmaze:2792727",
+        "title": "Magicians Like to Spoon",
+        "season": 10,
+        "episode": 16,
+        "released": "2024-03-22",
+        "overview": "The magicians featured in the episode include Ben Jackson, Juan Luis Rubiales, Harry Keaton and Shoot Ogawa."
+      },
+      {
+        "id": "tvmaze:2799433",
+        "title": "It Takes Balls to be a Magician",
+        "season": 10,
+        "episode": 17,
+        "released": "2024-03-29",
+        "overview": "The magicians featured in the episode include Javi Rufo, Emma Olson, Sean Ridgeway and Jim Vines."
+      },
+      {
+        "id": "tvmaze:2803319",
+        "title": "Shut Up - You Fooled Us!",
+        "season": 10,
+        "episode": 18,
+        "released": "2024-04-05",
+        "overview": "The magicians featured in the episode include Jason &amp; Stacy Alan, Markobi, Luis Olmedo and Alyx Hilshey."
+      },
+      {
+        "id": "tvmaze:2807465",
+        "title": "Magic is for the Birds",
+        "season": 10,
+        "episode": 19,
+        "released": "2024-04-19",
+        "overview": "The magicians featured in the episode include Emily Robinson-Hardy, C.Y., Nick Diffatte and Cody Stone. For the ending magic, jazz pianist Mike Jones performs jazz with Penn on bass, while magicians Eric Mead and Shoji actually create card tricks."
+      },
+      {
+        "id": "tvmaze:2816002",
+        "title": "Now Teller Won't Shut Up",
+        "season": 10,
+        "episode": 20,
+        "released": "2024-04-26",
+        "overview": "The magicians featured in the episode include Nikola Arkane, Rubi, Vinny Grosso and Gonzalo Mateos."
+      },
+      {
+        "id": "tvmaze:3063524",
+        "title": "The Penn & Teller 50th Anniversary Special",
+        "season": 11,
+        "episode": 1,
+        "released": "2025-01-24",
+        "overview": "The magicians featured in the episode include Young &amp; Strange, Piff and a secret weapon, Piero Venesia, and an amazing first-time- ever two-act trick by Penn and Teller. Mac King assists Piff the Magic Dragon with his trick."
+      },
+      {
+        "id": "tvmaze:3108084",
+        "title": "A Magician Gives Brooke the Bird",
+        "season": 11,
+        "episode": 2,
+        "released": "2025-01-31",
+        "overview": "Featured magicians include Blake Vogt, Hernan Maccagno, Ella Nicholson and Friedrich Roitzsch."
+      },
+      {
+        "id": "tvmaze:3115602",
+        "title": "Magic is in the Air",
+        "season": 11,
+        "episode": 3,
+        "released": "2025-02-07",
+        "overview": "The magicians featured in the episode include Magic Singh, Nikolai Striebel, Dreygon, and Sara Rodriguez. Piff the Magic Dragon helps Penn &amp; Teller and Brooke with a trick."
+      },
+      {
+        "id": "tvmaze:3123330",
+        "title": "No More Mister Knife Guy",
+        "season": 11,
+        "episode": 4,
+        "released": "2025-02-14",
+        "overview": "The magicians featured in the episode include Juan Luis Rubiales, Anja, Luke Osey, and Joshua Kenneth."
+      },
+      {
+        "id": "tvmaze:3129642",
+        "title": "Nerd Magic",
+        "season": 11,
+        "episode": 5,
+        "released": "2025-02-21",
+        "overview": "The magicians featured in the episode include Francesco Della Bona, Liam Abner, Tom Crosbie, and Ben Daggers. Jandro helps Penn &amp; Teller fool Brooke."
+      },
+      {
+        "id": "tvmaze:3139938",
+        "title": "Burning Down the House",
+        "season": 11,
+        "episode": 6,
+        "released": "2025-02-28",
+        "overview": "The magicians featured in the episode include Spencer Scurr, Markus Tervo, Adrian Vega, and Simone Turkington."
+      },
+      {
+        "id": "tvmaze:3147833",
+        "title": "Penn Gets Shut Up",
+        "season": 11,
+        "episode": 7,
+        "released": "2025-03-07",
+        "overview": "The magicians featured in the episode include Patrick Livingstone, Duo Hikmah, Sho Takashige, and Amanda Lindsey. Moxie Jillette performs her magic ending the episode."
+      },
+      {
+        "id": "tvmaze:3161292",
+        "title": "The Domino Effect",
+        "season": 11,
+        "episode": 8,
+        "released": "2025-03-14",
+        "overview": "The magicians featured in the episode include Clark Payne, Zabrecky, Laser Kiwi, and Peter Samelson."
+      },
+      {
+        "id": "tvmaze:3155076",
+        "title": "House of Cards",
+        "season": 11,
+        "episode": 9,
+        "released": "2025-03-21",
+        "overview": "The magicians featured in the episode include Harry Gorillagician, Nicholas Ribs, Michael Dardant, and Shawn Preston."
+      },
+      {
+        "id": "tvmaze:3170660",
+        "title": "Gotcha!",
+        "season": 11,
+        "episode": 10,
+        "released": "2025-03-28",
+        "overview": "The magicians featured in the episode include Vitaly Beckman, AnnaRose Einarsen, Goncalo Gil, and Ren X."
+      },
+      {
+        "id": "tvmaze:3174192",
+        "title": "Penn and Teller Get Ducked",
+        "season": 11,
+        "episode": 11,
+        "released": "2025-04-04",
+        "overview": "The magicians featured in the episode include John Michael Hinton with his wife Maribeth, Billy Hsueh, Shimshi with his daughter Shalom, and Bernardo Sedlacek."
+      },
+      {
+        "id": "tvmaze:3182048",
+        "title": "The Eight Stooges",
+        "season": 11,
+        "episode": 12,
+        "released": "2025-04-11",
+        "overview": "Featured magicians include Jack Kelly, Mortenn Christiansen, Robin Sheikh and Magic Samk."
+      },
+      {
+        "id": "tvmaze:3370576",
+        "title": "The Eyes Have It",
+        "season": 11,
+        "episode": 13,
+        "released": "2025-10-10",
+        "overview": "Featured magicians include Michael Pharoah, Xulio Merino, Topas and Toby Rudolph."
+      },
+      {
+        "id": "tvmaze:3379757",
+        "title": "Teller Gets a Talk Show",
+        "season": 11,
+        "episode": 14,
+        "released": "2025-10-17",
+        "overview": "Magicians featured include Hollie England, Giancarlo Scalia, Francis Menotti and Gabriel Werlen."
+      },
+      {
+        "id": "tvmaze:3388002",
+        "title": "Waiter, There's a Confetti In My Magic",
+        "season": 11,
+        "episode": 15,
+        "released": "2025-10-24",
+        "overview": "Featured magicians include Laurent Piron, Mark Clearview, Glenn West and Abby Segal."
+      },
+      {
+        "id": "tvmaze:3392660",
+        "title": "The Psychic Gorilla",
+        "season": 11,
+        "episode": 16,
+        "released": "2025-10-31",
+        "overview": "Featured magicians include Jaana Felicitas, Nikolai Striebel, Evan Northrup, Marc Weide and Vincent."
+      },
+      {
+        "id": "tvmaze:3400609",
+        "title": "I Now Pronounce You Magic and Wife",
+        "season": 11,
+        "episode": 17,
+        "released": "2025-11-07",
+        "overview": "Featured magicians include Paco Agrado, The Cosmic Romantics, Kingsley Xu and Damien Dubi."
+      },
+      {
+        "id": "tvmaze:3407494",
+        "title": "It's Magic. Literally.",
+        "season": 11,
+        "episode": 18,
+        "released": "2025-11-14",
+        "overview": "Featured magicians include Trigg Watson, Daniel Harel, Danny Urbanus and Jon Mobley."
+      },
+      {
+        "id": "tvmaze:3428070",
+        "title": "The Most Shocking and Bizarre Magic Trick Ever!",
+        "season": 11,
+        "episode": 19,
+        "released": "2025-11-21",
+        "overview": "The magicians featured in the episode include Shock &amp; Bizzare, Alexander Krist, Jo De Rijck and Gotaishi."
+      },
+      {
+        "id": "tvmaze:3441165",
+        "title": "Can a Bison Buffalo Penn & Teller?",
+        "season": 11,
+        "episode": 20,
+        "released": "2025-12-05",
+        "overview": "The magicians featured in the episode include Marco Grandia, Sylvain Juzan, Alexander Merk and Keona. Special guest Mac King helps Penn &amp; Teller with a trick."
+      }
+    ]
+  }
+}

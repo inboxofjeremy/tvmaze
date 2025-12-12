@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:61603",
+    "type": "series",
+    "name": "Password",
+    "description": "Password is a reboot of the 1960s game show in which two teams, composed of a celebrity player and a contestant, attempt to convey mystery words to each other using only single-word clues in order to win a cash prize.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/513/1283049.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/513/1283049.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3425934",
+        "title": "Holiday Special: Jonathan Groff & Jimmy Fallon",
+        "season": 3,
+        "episode": null,
+        "released": "2025-12-08",
+        "overview": "Ring in the holiday season with this merry, special holiday edition. Celebrity guest Jonathan Groff spreads some cheer, pairing up with contestants to compete against Jimmy Fallon and his teammate in a festive edition of the iconic word game."
+      }
+    ]
+  }
+}

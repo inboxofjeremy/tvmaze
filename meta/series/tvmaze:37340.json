@@ -1,0 +1,1324 @@
+{
+  "meta": {
+    "id": "tvmaze:37340",
+    "type": "series",
+    "name": "Lakefront Luxury",
+    "description": "Lakefront Luxury is the ultimate escape from the hustle and bustle of the daily grind with stunning views, gorgeous waterfronts, and serene sunsets. With unlimited budgets and endless wish-lists, each episode takes you on a tour of three opulent properties, along with potential buyers, as they weigh their options and ultimately decide which home is the one for them.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/543/1358207.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/543/1358207.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3433223",
+        "title": "David & Maxine",
+        "season": 5,
+        "episode": 13,
+        "released": "2025-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3433224",
+        "title": "Tina & Tony",
+        "season": 5,
+        "episode": 14,
+        "released": "2025-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1486283",
+        "title": "Mike and Shelley's Lakefront Legacy",
+        "season": 1,
+        "episode": 1,
+        "released": "2018-03-10",
+        "overview": "Shelley and Mike are looking to make their lifelong dream of owning a lakefront property a reality. Family is of the utmost importance, and Mike believes that having a home on the water will bring their family of six closer together."
+      },
+      {
+        "id": "tvmaze:1577680",
+        "title": "Terri and Richard's Sunset Search",
+        "season": 1,
+        "episode": 2,
+        "released": "2018-03-17",
+        "overview": "Terri and Richard want to escape the hustle and bustle of the city with their large family. By day, they want a place that will allow them to enjoy their love of watersports; by night, a place to sit and relax and soak in the gorgeous sunset views."
+      },
+      {
+        "id": "tvmaze:1577681",
+        "title": "Brent and Destiny's Waterfront Investment",
+        "season": 1,
+        "episode": 3,
+        "released": "2018-03-24",
+        "overview": "Best friends and business partners, Brent and Destiny, are looking to invest in a lux waterfront vacation home together. The two are looking for a move-in ready property that will allow them to relax and unwind with their family and friends."
+      },
+      {
+        "id": "tvmaze:1577682",
+        "title": "Laura and Dale's City Escape",
+        "season": 1,
+        "episode": 4,
+        "released": "2018-03-31",
+        "overview": "Laura and Dale want to leave the chaos and stress of the city behind and find their dream home on the lake. Being avid entertainers, they need a space that will accommodate their out of town guests and allow Dale to dock his boat close to home."
+      },
+      {
+        "id": "tvmaze:1577688",
+        "title": "Chris and Arlene's Dream Retreat",
+        "season": 1,
+        "episode": 5,
+        "released": "2018-04-07",
+        "overview": "Arlene and Chris are self-confessed ‘city people with country flair', looking for a vacation home on the water to escape to with their family and friends."
+      },
+      {
+        "id": "tvmaze:1577689",
+        "title": "Angie & Melissa's Family Sanctuary",
+        "season": 1,
+        "episode": 6,
+        "released": "2018-04-14",
+        "overview": "Years after selling her first lakefront property, Angie, along with her daughter Melissa, is looking for another spot on the water to enjoy with family and friends. With the help of real estate agent, Daryl Idiens, Angie hopes to find another magical spot on the water where she can create all-new memories with her kids and grand kids."
+      },
+      {
+        "id": "tvmaze:1577690",
+        "title": "Randy & Cathy's Resort Hideaway",
+        "season": 1,
+        "episode": 7,
+        "released": "2018-04-21",
+        "overview": "After falling in love on the beach nearly four decades ago, Randy and Cathy are looking to return to the water and purchase a waterfront property of their very own to enjoy with family and friends. Tasked with finding the ultimate indoor entertainment space for Cathy, and the stunning views and privacy that Randy is looking for, real estate agent Sabrina Staunton has three properties that she's hoping will tick off all the boxes on their wish-list."
+      },
+      {
+        "id": "tvmaze:1577691",
+        "title": "Sharon & Tali's Party Palace",
+        "season": 1,
+        "episode": 8,
+        "released": "2018-04-28",
+        "overview": "Mother-daughter duo Sharon and Tali are on the hunt for the perfect waterfront property to entertain their huge group of family and friends. With a big kitchen at the top of Sharon's wish-list, and a boathouse and separate party space for Tali to hang out with her friends, realtor Shawn Woof must find the ideal space that will make them both happy."
+      },
+      {
+        "id": "tvmaze:1577693",
+        "title": "Hayley & Daniel's Artist Haven",
+        "season": 1,
+        "episode": 9,
+        "released": "2018-05-05",
+        "overview": "Free-spirited musicians Hayley and Daniel are constantly looking for inspiration, and they hope that a lakefront escape away from the city will provide them with a serene and relaxing space to create. At the top of their wish-list is a separate studio space to record in, so it's up to real estate agent Scott Cooper to find the perfect spot on the water for this artistic couple."
+      },
+      {
+        "id": "tvmaze:1577695",
+        "title": "Phil & Danielle's Outdoor Refuge",
+        "season": 1,
+        "episode": 10,
+        "released": "2018-05-12",
+        "overview": "Phil and Dannielle are looking to make a permanent move to the lake. As avid lovers of the outdoors, they are looking for a property that offers stunning scenic views from the dock where they can sit back and relax and be able to truly enjoy nature at its finest. Real estate agent Scott Cooper has three stunning properties lined up for them to tour, but will he be able to deliver the escape they're looking for?"
+      },
+      {
+        "id": "tvmaze:2578609",
+        "title": "Catherine and Neil's Legacy Lake House",
+        "season": 2,
+        "episode": 1,
+        "released": "2019-03-14",
+        "overview": "Catherine and Neil are in the market for a family lake house. A place to build memories with their two children. They'll tour three incredible waterfront properties, including one that's perched on top of a giant rock."
+      },
+      {
+        "id": "tvmaze:2578610",
+        "title": "Jim and Jill's Athlete Retreat",
+        "season": 2,
+        "episode": 2,
+        "released": "2019-03-21",
+        "overview": "Jim and Jill are looking for a lakeside getaway for their large and sporty family. With five active boys, they'll need all the space they can get. They'll be visiting some massive properties with luxe boathouses, tennis courts, and miles of private hiking trails."
+      },
+      {
+        "id": "tvmaze:2578611",
+        "title": "Rory & Karly's Waterfront First",
+        "season": 2,
+        "episode": 3,
+        "released": "2019-03-28",
+        "overview": "Rory and Karly dream of raising their kids in a house on the lake. And they're searching for their very first waterfront property. But he likes modern. She wants rustic. Will this couple come to a compromise, or will they need two lake houses?"
+      },
+      {
+        "id": "tvmaze:2578612",
+        "title": "Don & Agnes' Forever Home",
+        "season": 2,
+        "episode": 4,
+        "released": "2019-04-04",
+        "overview": "Don and Agnes are ready to retire and trade in their Nine-to-Fives for a full-time life on the lake. But they've got a long list of requirements for their forever home on the water. They'll see the finest in lakefront living, from beautiful boathouses to Scandinavian saunas."
+      },
+      {
+        "id": "tvmaze:2578613",
+        "title": "Andrew and Andrea's Lakeside Party Place",
+        "season": 2,
+        "episode": 5,
+        "released": "2019-04-11",
+        "overview": "Andrew and Andrea are successful entrepreneurs searching for a deluxe waterfront property. A place to throw some legendary lakeside gatherings. Their options include a palatial estate and a gigantic property that's hosted a world-famous rock group."
+      },
+      {
+        "id": "tvmaze:2578614",
+        "title": "Sandra & Eric's Waterfront Workplace",
+        "season": 2,
+        "episode": 6,
+        "released": "2019-04-18",
+        "overview": "Sandra is a successful entrepreneur who dreams of living and working by the water. She'll be checking out some truly mind-blowing and extreme waterfront properties, featuring everything from private lighthouses to personal helicopter landing pads."
+      },
+      {
+        "id": "tvmaze:2578615",
+        "title": "Matt & Melanie's Turnkey Dream Home",
+        "season": 2,
+        "episode": 7,
+        "released": "2019-04-25",
+        "overview": "Matt and Melanie are a successful couple, looking for an upmarket lakehouse to enjoy with their young twins. And they don't want a fixer-upper. They want a turnkey solution with amenities for the whole family, from a private sandy beach to inground trampolines."
+      },
+      {
+        "id": "tvmaze:2578616",
+        "title": "Amy & Trisha's Sibling Getaway",
+        "season": 2,
+        "episode": 8,
+        "released": "2019-05-02",
+        "overview": "Amy and Trisha are sisters looking to share a luxury lakehouse. But they've got different needs. One sister is a soon-to-be empty nester, while the other has her first baby on the way. They'll tour some truly stunning homes as they attempt to strike the perfect balance."
+      },
+      {
+        "id": "tvmaze:2578618",
+        "title": "Jessica's Gallery on the Water",
+        "season": 2,
+        "episode": 9,
+        "released": "2019-05-09",
+        "overview": "Jessica is an art dealer and collector, specializing in ancient and tribal artifacts. She's on the hunt for the perfect place to unwind by the water. The challenge is in finding a rustic retreat that can also house her unconventional collection."
+      },
+      {
+        "id": "tvmaze:2578619",
+        "title": "Mish and Phi's Escape From the Limelight",
+        "season": 2,
+        "episode": 10,
+        "released": "2019-05-16",
+        "overview": "Mish and Phi are professional actors looking to live full-time on the water. They're searching for a large lakeside escape to enjoy their active lifestyle. For this couple, money is no object and small is not an option."
+      },
+      {
+        "id": "tvmaze:2578620",
+        "title": "Liz &  Jake",
+        "season": 3,
+        "episode": 1,
+        "released": "2023-06-03",
+        "overview": "Liz and Jake are a power couple--both working in the tech industry. They are recently engaged and are looking for a lakefront property to host their wedding nuptials..and move into. Their venue/forever home tours include a home with a cliffside outdoor entertainment area and a \"Great Gatsby\" style home with an infinity pool."
+      },
+      {
+        "id": "tvmaze:2578621",
+        "title": "Kendra & Byram",
+        "season": 3,
+        "episode": 2,
+        "released": "2023-06-03",
+        "overview": "Byram and Kendra are not only husband and wife, they are also music producers who have worked with many artists, most notably, Drake. They are looking for an awesome lakefront property that they can live in, record music in and entertain clients in the music industry. Which property will be music to their ears? The property that soars about the trees, the one with the vaulted ceilings or the one with the separate guest house?"
+      },
+      {
+        "id": "tvmaze:2578622",
+        "title": "Kimberly & Donald",
+        "season": 3,
+        "episode": 3,
+        "released": "2023-06-10",
+        "overview": "When Kimberly and Donald got married, they became one big, blended family--the modern day Brady Bunch. Now that their adult children will start having children of their own, they are searching for a big home on the lake. Their perfect lakefront home journey will feature a modern home with separate apartment, a French chateau and a traditional home with amazing grounds."
+      },
+      {
+        "id": "tvmaze:2578624",
+        "title": "Lee & Greg",
+        "season": 3,
+        "episode": 4,
+        "released": "2023-06-10",
+        "overview": "Lee &amp;amp; Greg are empty nesters and looking forward to a new chapter in their lives. They are looking for a lakefront property that their adult children can come and visit. This fun-loving couple's search for their dream lake home includes a property with a large separate guest house and a property with an amazing view...and an outdoor shower."
+      },
+      {
+        "id": "tvmaze:2578625",
+        "title": "Mike & Linda",
+        "season": 3,
+        "episode": 5,
+        "released": "2023-06-17",
+        "overview": "Married for 16 years with two children, Mike and Linda, are looking for a lakefront property to call a family home. Mike and Linda are real estate investors and are looking for a property that is also a good investment. Their search for the perfect lakefront home will feature three completely different custom builds: a unique home and resort, a concrete home and a log home."
+      },
+      {
+        "id": "tvmaze:2578626",
+        "title": "Peter & Gillian",
+        "season": 3,
+        "episode": 6,
+        "released": "2023-06-17",
+        "overview": "Peter and Gillian are a couple that likes to give back. They are searching for a lakefront property to call home and host charity events in. Their search for a house on the lake will begin with an arrival via a boat plane and include tours of an upscale farmhouse and resort-like property with its own pub."
+      },
+      {
+        "id": "tvmaze:2578650",
+        "title": "Shirley & Chris",
+        "season": 3,
+        "episode": 7,
+        "released": "2023-06-24",
+        "overview": "Active retirees, Shirley and Chris are having their adult children and grandchildren move back home. In turn, they are looking for a large lakefront home for their entire family to live together all under one roof. This fun couple will look at a large home that features multiple separate bedroom suites and a walking trail. The couple will look at another property with a beach-inspired design, a gorgeous dining area, and a huge game room. The last house the couple considers is an eco-friendly home with its own solar station and stunning lake views."
+      },
+      {
+        "id": "tvmaze:2578651",
+        "title": "Rachel & Tony",
+        "season": 3,
+        "episode": 8,
+        "released": "2023-06-24",
+        "overview": "Rachel and Tony are making a huge change in their lives. After getting a new lease on life, this adventurous couple has decided to live life to the fullest and purchase a lakefront property that makes the two of them feel like they are always on vacation. Their dream home journey begins at a beautiful, custom-built home with soaring ceilings and wooden beams. Next up is an ultra-modern property with floor-to-ceiling windows, concrete floors and incredible views. Finally, they view a traditional, open-concept home with a stunning gourmet kitchen and hidden butler's pantry. Which luxurious lakefront home will they choose?"
+      },
+      {
+        "id": "tvmaze:2701751",
+        "title": "James & Cristina",
+        "season": 4,
+        "episode": 1,
+        "released": "2023-12-02",
+        "overview": "James, Cristina, and their children are packing up, leaving the stress and noise of city life behind, and looking for a quiet and peaceful life on a lake. Their house hunting journey first takes them to an open concept, Arts and Crafts style property with an incredible outdoor entertaining area. Next up is a modern home with resort-inspired outdoor space, which includes a kitchen and pool with a swim-up bar. And finally, they visit a heritage home with a cobblestone driveway, a classically elegant interior, and an exquisite outdoor living area. Which home will give this family the quiet life that they're looking for?"
+      },
+      {
+        "id": "tvmaze:2701752",
+        "title": "Diana & Laith",
+        "season": 4,
+        "episode": 2,
+        "released": "2023-12-02",
+        "overview": "Diana is a real estate agent in the city and Laith is in the pharmaceutical industry. This couple has traveled the world and now wishes to own their own travel destination--a home on the lake. With the tables turned Diana will now be a buyer as she and Laith look at three unique properties. The first is an amazing log-inspired home with soaring ceilings, log beams and an amazing chef's kitchen. The second home has a more traditional design with a beautiful wine cellar and a boathouse with guest quarters. The last house has a completely different look with an ultra-modern, open-concept aesthetic and a huge walk-in closet."
+      },
+      {
+        "id": "tvmaze:2701753",
+        "title": "Curtis & Emma",
+        "season": 4,
+        "episode": 3,
+        "released": "2023-12-09",
+        "overview": "Curtis is a wealth management consultant and Emma runs a successful dance studio, but what each really wants is a serene life by the water. Leaving the hustle and bustle of the big city life doesn't mean that they'll be completely isolated--their new home needs to include a place to entertain Curtis' financial clients and Emma's dance students. Their search for the perfect property takes them to a modern retreat on a quiet canal, a contemporary home with an amazing outdoor cabana space, and a large traditional style property with a magnificent two-sided stone fireplace. One of these luxurious houses will become Curtis and Emma's serene retreat."
+      },
+      {
+        "id": "tvmaze:2701754",
+        "title": "Rick & Kerri",
+        "season": 4,
+        "episode": 4,
+        "released": "2023-12-09",
+        "overview": "Rick and Kerri are currently selling their existing home and the smaller lake house they own in order to purchase a new, larger lake house that they can call their forever home. They are beginning their search for the perfect lake house by looking for an open-concept, modern home that is situated high above the trees and offers breathtaking views. Next on their list is a 10,000 sq ft home with two magnificent great rooms featuring soaring ceilings. Lastly, they are considering a beautiful traditional home that is built into an escarpment and boasts an impeccably designed exterior complete with a large boathouse and sauna. While any of these three houses would be a great option, Rick and Kerri are determined to find the perfect, luxurious lake house of their dreams!"
+      },
+      {
+        "id": "tvmaze:2701755",
+        "title": "Ken & Georgia",
+        "season": 4,
+        "episode": 5,
+        "released": "2023-12-16",
+        "overview": "Fine wine is a big part of Ken and Georgia's life. Ken is a wine aficionado and has made a career in the science of wine production, while Georgia has a wine-focused podcast. After 40 years of marriage, this couple is taking the fruits of their labor and treating themselves to their lake home forever. The couple has three options to choose from: a French-inspired home with a gourmet kitchen and wine cellar, a massive home with an expansive great room and wine storage, and a luxury home with a modern vibe that is situated high above the lake to offer an unforgettable million-dollar view. Which of these majestic lakefront properties will Ken and Georgia choose?"
+      },
+      {
+        "id": "tvmaze:2701756",
+        "title": "Amanda & Joe",
+        "season": 4,
+        "episode": 6,
+        "released": "2023-12-16",
+        "overview": "Amanda and Joe are passionate about fitness and are searching for their dream home that has enough space for a home gym. During their search for a lakefront property, they come across a beautiful traditional home situated on five and a half acres, which features an operational lavender farm, a stunning gourmet kitchen with an oversized island, and a separate area that they can use for their home gym. Their next viewing is a beautiful French-inspired country home with a wraparound porch, stunning outdoor areas, and a large loft space that can be utilized for their workouts. Lastly, they will view a modern-designed home that has vaulted ceilings and a custom-built shed that can be transformed into their ideal home gym."
+      },
+      {
+        "id": "tvmaze:2701757",
+        "title": "Praveeni & Sachien",
+        "season": 4,
+        "episode": 7,
+        "released": "2023-12-23",
+        "overview": "Praveeni and Sashien love the finer things in life, especially the opulent look of high-end hotels. This couple is currently seeking a lakefront property that embodies their travel lifestyle. The first property is a contemporary home with an open-concept great room, a gourmet kitchen, a beautiful ensuite, and wine storage. The second home is a 6000 sq ft property that features a stunning and enormous piece of granite situated in the middle of the great room, with a gas fireplace built on top of it. The last home is more traditional and rustic in style, yet still offers a lavish experience with its chef's kitchen, breathtaking views, and a sports court. Which of these fine homes will help Praveeni and Sashien feel like they're in a hotel by the lake?"
+      },
+      {
+        "id": "tvmaze:2701758",
+        "title": "Irv & Sheryl",
+        "season": 4,
+        "episode": 8,
+        "released": "2023-12-23",
+        "overview": "Irv and Sheryl, who have recently retired, are currently on the lookout for a permanent home by the water, where they can relax and enjoy quality time with their children and future grandchildren."
+      },
+      {
+        "id": "tvmaze:2722529",
+        "title": "Joshua & Krystal",
+        "season": 4,
+        "episode": 9,
+        "released": "2023-12-30",
+        "overview": "Krystal and Josh are music producers with a young child. They are looking to move out of the city and find a peaceful getaway where they can live and produce their own music. Krystal and Josh's options include a contemporary home on an island with an incredible gourmet kitchen and amazing views, a sleek and modern custom-designed home on four tiers of land with its own beach and incredible views, and a more traditional home with timber ceilings and a unique wine feature. But which property will be music to their ears?"
+      },
+      {
+        "id": "tvmaze:2722530",
+        "title": "June & Patrick",
+        "season": 4,
+        "episode": 10,
+        "released": "2023-12-30",
+        "overview": "June and Patrick, along with their large and active blended family, are on the lookout for their dream lake house, where June, who is a pilot, can dock her floatplane. Their search takes flight with a traditionally designed property that offers a breathtaking view, a game room on the lower level, and a well-equipped gym. They then visit a stunning timber home with a professional sports court set amidst beautiful surroundings. Lastly, they explore a gorgeous house with expansive two-story windows, stunning views, and an oversized dock that could be the perfect spot for parking a floatplane. All three houses are stunning, but which one will become June and Patrick's forever home?"
+      },
+      {
+        "id": "tvmaze:2722531",
+        "title": "Dennis & Melanie",
+        "season": 4,
+        "episode": 11,
+        "released": "2024-01-06",
+        "overview": "Dennis and Melanie are two professionals who are on the hunt for a lake house that can serve as both their home and workspace. Melanie is looking for a space that can accommodate her dance business, while Dennis wants the perfect man cave. During their search, they tour three different properties. The first home is a beautiful modern open-concept house with high-end finishes and a great lower-level gym. The second property is a massive 9,000-square-foot house situated on naturally rocky terrain, and the last one has a bright contemporary feel to it and boasts an impressive indoor theater. Which property will be the perfect one for Dennis and Melanie?"
+      },
+      {
+        "id": "tvmaze:2722532",
+        "title": "Jordan & Aurelio",
+        "season": 4,
+        "episode": 12,
+        "released": "2024-01-06",
+        "overview": "Jordan and Aurelio are in search of a new home that can accommodate their growing family in the future. They have a few big-ticket items on their wish list, including a gourmet kitchen, a home office, a dedicated children's room, and a gym. During their search, they come across three luxurious properties. The first one is a traditional home with an awe-inspiring floor-to-ceiling fireplace and breathtaking views. The second one is more rustic, with a fieldstone fireplace, an elevated gazebo that houses a hot tub, and a fabulous extended dock. The last property is a timber house with vaulted ceilings, a loft area, and stunning views. No matter which home they choose, Jordan and Aurelio's future looks very bright and luxurious."
+      },
+      {
+        "id": "tvmaze:2781365",
+        "title": "Sherry & Glen",
+        "season": 4,
+        "episode": 13,
+        "released": "2024-02-24",
+        "overview": "Glen and Sherry have recently become empty nesters and are looking forward to this new stage of life. They are looking to make a permanent move to a lakefront property with space for guests and possible income potential. The search takes them to an incredible house on an island, with a sports court and oversized butler's pantry; a modern home with an 'upside down' floor plan; and a more traditional property with spectacular natural granite landscaping."
+      },
+      {
+        "id": "tvmaze:2781368",
+        "title": "Keith & Chantal",
+        "season": 4,
+        "episode": 14,
+        "released": "2024-02-24",
+        "overview": "Chantal and Keith's dream is to own a lakefront house, but their picky nature has stopped them from settling for anything less than perfect. Overall, they have seen 300 properties but have yet to find \"the one.\" Their 301st tour takes them to a grand estate with a castle-like interior and indoor pool. House number 302 is a sprawling home with a large living room, six-car garage, home theater, and outdoor resort. Finally, the 303rd home is an art deco-inspired house with large bay window views of the lake, a private library that walks out to a secret garden, and gorgeous grounds. Will any of these luxurious homes meet Chantal and Keith's high expectations?"
+      },
+      {
+        "id": "tvmaze:2789492",
+        "title": "Joey & Tatiana",
+        "season": 4,
+        "episode": 15,
+        "released": "2024-03-02",
+        "overview": "Joey and Tatiana are boat captains looking for the perfect lakefront property to entertain friends. One of their must haves? A boat house, of course. The first property on their search is situated on an island with a modern and open-concept design. The lower level features a private spa with a jet pool, hot tub, and sauna. The next house to make a splash is situated on a peninsula with wraparound views of the lake. The home features a more rustic interior with massive beams in the great room. The final house on the tour is a mix of both modern and traditional. This A-frame property features a gourmet kitchen and a media room framed with timber peaked beams. Will Joey and Tatiana cruise to their perfect lake house?"
+      },
+      {
+        "id": "tvmaze:2789493",
+        "title": "Deb & Wolfe",
+        "season": 4,
+        "episode": 16,
+        "released": "2024-03-02",
+        "overview": "Deb and Wolfe were friends many years ago, and after reuniting 40 years later, they fell in love and married. Now, the couple is looking for a lakefront home where they can enjoy time with their blended family and still have space for Deb's newly found fashion influencer career. The first property on their search is a unique timber home with a redesigned contemporary, gourmet kitchen, a spa-like primary ensuite, and a large property with an amazing lakefront. The next home has a modern feel, with soaring ceilings and an incredible loft space where their grandkids can play. Finally, they visit a more traditional home that looks like a resort. The home features a multi-zoned great room, a gorgeous primary bedroom, and a breezeway connected to an elevated 3-season room."
+      },
+      {
+        "id": "tvmaze:2793953",
+        "title": "Amanda And Shawn",
+        "season": 4,
+        "episode": 17,
+        "released": "2024-03-09",
+        "overview": "Amanda and Shawn are best friends and work colleagues. They are looking to pool their money together to buy a vacation lakefront property that gives them each their own space. First, they view a fully restored house that was built in the 1960s. The property has a beautiful lava rock fireplace, amazing views, and separate sleeping quarters. The next property is a multi-level lake house with room for entertaining and separate and private spaces across the four distinct levels. Finally, the friends view a gorgeous and secluded chalet, which is situated on a peninsula. Like chalets in Europe, this property boasts gorgeous views, soaring ceilings, and a 270-degree view of the lake."
+      },
+      {
+        "id": "tvmaze:2793954",
+        "title": "Michelle And Phil",
+        "season": 4,
+        "episode": 18,
+        "released": "2024-03-09",
+        "overview": "Newly engaged couple Michelle and Phil are looking for a lakefront home where they can entertain family and friends. Phil, a chef, is looking for a property with a great kitchen. The first house the couple visits is a modern and contemporary new build. The gourmet kitchen has a hidden butler's pantry, and the property is situated on a unique canal. The second house is a more rustic log cabin home with an elevated exterior and multiple entertaining zones. The last home on this couple's journey is a traditional A-frame build with high ceilings, amazing lake views, and a pub-style entertaining area. Will Michelle and Phil find their ideal entertainment hub?"
+      },
+      {
+        "id": "tvmaze:2798697",
+        "title": "Cathy & Mark",
+        "season": 4,
+        "episode": 19,
+        "released": "2024-03-16",
+        "overview": "After retiring from technical jobs, Cathy and Mark are caretakers of Cathy's brother and are looking for a lakefront house that gives them room to focus on their art and a space for Cathy's brother to call his own."
+      },
+      {
+        "id": "tvmaze:2798698",
+        "title": "Darka & Bruce",
+        "season": 4,
+        "episode": 20,
+        "released": "2024-03-16",
+        "overview": "Bruce and Darka have recently retired; they are also active scuba divers and want to find a lakefront property that will accommodate their passion for the sport, as well as entertaining friends and family."
+      },
+      {
+        "id": "tvmaze:2805932",
+        "title": "Karem & Sarah",
+        "season": 4,
+        "episode": 21,
+        "released": "2024-03-23",
+        "overview": "Best friends and single moms Karem and Sarah are searching for a new home to purchase together. They have three properties in mind: a spacious 5-bedroom house with a resort-style exterior, a larger property with 22-foot ceilings and a unique waterfront, and lastly, a smaller but cozy 5-bedroom house with a traditional feel and stunning views of the water. Which property will be the perfect oasis for these two best friends?"
+      },
+      {
+        "id": "tvmaze:2805933",
+        "title": "Frances & Shawn",
+        "season": 4,
+        "episode": 22,
+        "released": "2024-03-30",
+        "overview": "Husband and wife Frances and Shawn, who are both working professionals, have four active sons and are currently searching for their dream property that can accommodate all six family members. This couple visit three properties: a rustic house with a wall of windows and phenomenal lake views, a rustic property with a river rock wood-burning fireplace and granite pathways, and a modern house with a Japanese cedar exterior and a chic black and white interior. Which of these three houses will be Frances and Shawn's perfect family home?"
+      },
+      {
+        "id": "tvmaze:2879265",
+        "title": "Jeremy & Jonathan",
+        "season": 4,
+        "episode": 23,
+        "released": "2024-06-15",
+        "overview": "Urban professionals Jeremy and Jonathan have been living in an upscale condo in the downtown core. Their lack of living space and love for the water has prompted them to search for a lakefront property with lots of room. They have three options to choose from: a 7-bedroom Cape Cod style lake house, a rustic property nestled into a huge rock wall with 16 acres of land and multiple hiking trails, and lastly, a new-build with high-end finishes. Which of these homes will be their perfect getaway from the hustle and bustle of city life?"
+      },
+      {
+        "id": "tvmaze:2879266",
+        "title": "Kelly & Michael",
+        "season": 4,
+        "episode": 24,
+        "released": "2024-06-15",
+        "overview": "Husband and wife Kelly and Michael are both professional bodybuilders who work together and train together. Now that they are empty nesters, they are looking for the perfect lake home that has space to entertain and work out. First on their tour is an incredible modern home with five bedrooms. The great room has a glass wine cellar, a glass wall that offers magnificent views of the lake, and an outdoor living room space. The second house they view is also a modern build, with incredible features that include a floating staircase, a 30-foot-high great room with a wall of windows, and a double-sided fireplace. The resort-like outdoor space on this property has a kitchen, dining room, pergola, and even a putting green. The final property is a one-of-a-kind designed home with an out-of-this-world main room that features a two-story atrium with an elliptical railing and a hidden pop-up fireplace."
+      },
+      {
+        "id": "tvmaze:2890656",
+        "title": "Chelsea & Spencer",
+        "season": 4,
+        "episode": 25,
+        "released": "2024-06-22",
+        "overview": "Chelsea and Spencer are looking to purchase lakefront property to enjoy with friends, family--and their dog, Henry. The first property on their search is a new build that sits on 5 acres, with an amazing chef's kitchen and an oversized primary bedroom with a vaulted ceiling. Next up is a more rustic property--a Scandinavian-style log home. This unique lake house has gorgeous, oversized raw timber beams and a classic stone fireplace. It also comes with a private beach. The last property they view is a more modern house with a sleek, open-concept kitchen, a great room with vaulted ceilings, and spectacular views of the lake. Will Henry approve of their choice of home?"
+      },
+      {
+        "id": "tvmaze:2890657",
+        "title": "Argentina & Paolo",
+        "season": 4,
+        "episode": 26,
+        "released": "2024-06-22",
+        "overview": "Argentina and Paolo are searching for lakefront property that can accommodate their blended family. The first property they visit is a modern, open-concept home with black accents. It features a sleek kitchen and a primary bedroom with a glass window wall. The second lake house they visit has a more traditional feel. The interior ceiling beams and framing are all made of exposed, raw timber. This property features a large 3-season room that opens to magnificent views, an oversized fire pit, and an outdoor sauna. The last home they view offers a mix of both modern and traditional finishes with premium features. It has 6 bedrooms, each with an ensuite. The lower level of the house has an incredible games and recreation space, and outside, there is a fantastic outdoor kitchen. Which luxurious lake house will this blended family choose?"
+      },
+      {
+        "id": "tvmaze:2902815",
+        "title": "Jack & Laura",
+        "season": 4,
+        "episode": 27,
+        "released": "2024-06-29",
+        "overview": "Young professionals Jack and Laura have sold their home in the city and are searching for a lakeside escape. The first home on their search is a beautiful rustic home that has a kitchen with a unique gemstone countertop, a saltwater pool, and over 100 feet of water frontage. The second home they visit has a luxurious open-concept kitchen and sits on 9 acres of property with a private pond. The last home Jack and Laura tour is a smaller and more modern home with an open-concept main room with a twist on mid-century design. This home also has a secret door leading to a wet room. Which home will be the serene escape that Jack and Laura are longing for?"
+      },
+      {
+        "id": "tvmaze:2902816",
+        "title": "Janet & Tom",
+        "season": 4,
+        "episode": 28,
+        "released": "2024-06-29",
+        "overview": "Retired couple, Janet and Tom, are searching for a lakefront property to enjoy one of their favorite pastimes–fishing. Their search starts with a stunning 8900 sq ft house with two outdoor waterfalls, a modern kitchen, and multiple entertainment areas. The second house they visit is a rustic property with a vaulted wood ceiling, a sauna, and an indoor cinema room. The third house is a mix of modern and traditional architecture, sitting on 115 acres with 2400 feet of waterfrontage. Will this active couple find the home of their dreams?"
+      },
+      {
+        "id": "tvmaze:2917893",
+        "title": "Froy & Lori",
+        "season": 4,
+        "episode": 29,
+        "released": "2024-07-06",
+        "overview": "Empty nesters Froy and Lori are searching for a larger vacation home to accommodate their extended family. They view a spacious rustic home with a gourmet kitchen and a 3-slip dock, a 6000 square foot luxury log home with a hot tub waterfall feature, and a modern home with a temperature-controlled wine display and waterfront views. Which house will Froy and Lori choose?"
+      },
+      {
+        "id": "tvmaze:2917894",
+        "title": "Carlo & Cat",
+        "season": 4,
+        "episode": 30,
+        "released": "2024-07-06",
+        "overview": "Empty nesters Carlo and Cat are looking for a home with amazing lake views, a large kitchen, and space for their dogs. On the hunt for their dream lakefront property, they view a modern farmhouse with a large kitchen, a games room, a wine cellar, and a boathouse. The second house they view is a contemporary home with a chef's kitchen, sauna, and a descending trail to the lake. The last home on their tour is a 5-bedroom ranch-style home with lake views, a wine cellar, a movie theater, and a boathouse."
+      },
+      {
+        "id": "tvmaze:2922783",
+        "title": "Natalie & Joseph",
+        "season": 4,
+        "episode": 31,
+        "released": "2024-07-13",
+        "overview": "Joseph and Natalie are searching for a lakefront home for their active family. They are looking for a house with easy water access for the kids and a gourmet kitchen for themselves. This couple starts their search with a six-bedroom, 6,000-square-foot traditional house with a great room and a primary ensuite. The next house is an 8,200-square-foot traditional estate with formal dining and living rooms, a fully equipped kitchen, and an indoor sports court. The last house viewed is a modern build with an atrium-like great room, a modern kitchen, and a beautiful sandy beach. Can Joseph and Natalie find their dream home on the lake?"
+      },
+      {
+        "id": "tvmaze:2922787",
+        "title": "Aimee & Sabby",
+        "season": 4,
+        "episode": 32,
+        "released": "2024-07-13",
+        "overview": "Aimee and Sabby love to travel and are on the hunt for a lakefront property that feels like a permanent vacation. They are considering three homes: a rustic 1960s build with a stone fireplace, a modern new build with a sleek kitchen and resort-like outdoor space, and a contemporary home with an open concept great room and a long dock."
+      },
+      {
+        "id": "tvmaze:3089634",
+        "title": "Kelly & Tim",
+        "season": 5,
+        "episode": 1,
+        "released": "2025-01-18",
+        "overview": "Kelly and Tim are selling their primary and vacation houses to buy a waterfront forever home. They are considering an 8,000 square-foot, 8-bedroom rustic home, a 6-bedroom house with high wood ceilings and lake views, and a country-inspired home with a great room and unique kitchen. Which one will be their forever home?"
+      },
+      {
+        "id": "tvmaze:3089635",
+        "title": "Daniel & Kerry",
+        "season": 5,
+        "episode": 2,
+        "released": "2025-01-18",
+        "overview": "Daniel and Kerry are looking for a luxurious vacation house close to home. They both love rustic homes and first view a home with traditional touches on an expansive waterfront, followed by a custom-built shaved log home with unbelievable features. However, their wish for rustic is tested when they visit a modern build with incredible amenities. Will Daniel and Kerry stick to rustic or choose more modern luxury?"
+      },
+      {
+        "id": "tvmaze:3107240",
+        "title": "Lena & Sam",
+        "season": 5,
+        "episode": 3,
+        "released": "2025-01-25",
+        "overview": "Best friends Lena and Sam are on the hunt for a vacation home that their two families can share. Together they view a French-inspired home with European touches, a remodeled mid- century with two primary bedroom suites and a family friendly home with incredible views and lots of space for the kids to play. Which home will be the perfect match for these two families?"
+      },
+      {
+        "id": "tvmaze:3107241",
+        "title": "Chris & Jodi",
+        "season": 5,
+        "episode": 4,
+        "released": "2025-01-25",
+        "overview": "Chris and Jodi may both want a luxurious house on a lake, but Chris wants a property with income potential, while she can't imagine how they'd share the space. The couple views a rustic home with two separate living spaces, a modern home with additional living space on the lower level and a gorgeous, renovated home with incredible features and rentable cabins. Will these stunning properties prove to Jodi that she can have both lakefront luxury and a rental income?"
+      },
+      {
+        "id": "tvmaze:3112235",
+        "title": "Conan & Melissa",
+        "season": 5,
+        "episode": 5,
+        "released": "2025-02-01",
+        "overview": "Creative couple Conan and Melissa are looking for a luxury property with a studio space. Their search takes them to a century home with tons of character, a large home that's been designed to look like a castle and a stunning house with luxurious wooden finishes. All three homes offer space they can use for a studio, but which one is right for Conan and Melissa's creative dreams?"
+      },
+      {
+        "id": "tvmaze:3112236",
+        "title": "Edward & Jennifer",
+        "season": 5,
+        "episode": 6,
+        "released": "2025-02-01",
+        "overview": "After 25 years of marriage Edward and Jennifer are ready to commit to their forever lakefront home. They visit an opulent canal-side home with incredible views, a roomy lakeside retreat and a Scandinavian-inspired house with soaring ceilings and modern finishes. Which home will be Edward and Jennifer's forever home?"
+      },
+      {
+        "id": "tvmaze:3115746",
+        "title": "Amy & Paul",
+        "season": 5,
+        "episode": 7,
+        "released": "2025-02-08",
+        "overview": "Amy and Paul are searching for the perfect home for their blended family. They tour an opulent estate with a grand foyer and double staircase, a custom build with a large loft space, and a modern farmhouse with opulent features. Can this blended family find the perfect multi-generational home?"
+      },
+      {
+        "id": "tvmaze:3115747",
+        "title": "Greg & Katherine",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-02-08",
+        "overview": "Olympic medal-winning athlete, Greg and his partner, Katherine are looking to sell their two properties in the city and purchase their dream home on the lake. Their search takes them to a large contemporary home, a 5,000 square foot home with 30-foot tall ceilings and rustic touches, and a large 6-eroom home with natural finishes. Can Greg and Katherine find the Olympic sized home of their dreams?"
+      },
+      {
+        "id": "tvmaze:3127134",
+        "title": "David & Julia",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-02-15",
+        "overview": "Julia and David are looking for a lakefront home where Julia can be inspired when writing her books and David has easy water access to enjoy swimming. Together, they view a modern home with a grand entrance, great views and a pool, a 5-bedroom traditional home with natural finishes and a large, updated home with phenomenal views. Which property will provide both Julia and David everything they hope for?"
+      },
+      {
+        "id": "tvmaze:3127135",
+        "title": "Frankie & Jacques",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-02-15",
+        "overview": "Frankie and Jacques love entertaining friends and family for epic game nights and are looking for a home on the water, where they can jump off a dock and into the lake after a competitive game or two. They visit a home with a large property and saltwater pool, a stunning new build with a large loft space for entertaining, and a 4-bedroom home with an incredible game area with a wet bar."
+      },
+      {
+        "id": "tvmaze:3129286",
+        "title": "Derek & Joanne",
+        "season": 5,
+        "episode": 11,
+        "released": "2025-02-22",
+        "overview": "Derek and Joanne are looking to move from a gold course to a waterfront property. Their house search takes them to three unique properties - the first one that is built into a huge boulder, the second that's build on top of natural granite and the third that's built in a peninsula and features an indoor/outdoor dining space. Which stunning house will tempt Derek and Joanne away from the greens and onto the water?"
+      },
+      {
+        "id": "tvmaze:3129287",
+        "title": "Calvin & Justin",
+        "season": 5,
+        "episode": 12,
+        "released": "2025-02-22",
+        "overview": "Calvin and Justin love the water and even own a boat - but they don't yet own a lakefront home where they can park it. Their property search takes them to a unique entertainer's dream home, a resort-like retreat with two separate living spaces and a luxurious home with stunning lake views from every room in the home. Which lakefront home will be perfect for Calvin and Justin (and their boat)?"
+      },
+      {
+        "id": "tvmaze:3433223",
+        "title": "David & Maxine",
+        "season": 5,
+        "episode": 13,
+        "released": "2025-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3433224",
+        "title": "Tina & Tony",
+        "season": 5,
+        "episode": 14,
+        "released": "2025-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440452",
+        "title": "Basil & Belinda",
+        "season": 5,
+        "episode": 15,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440453",
+        "title": "Alex & Cheryl",
+        "season": 5,
+        "episode": 16,
+        "released": "2025-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440454",
+        "title": "Alain & Sara",
+        "season": 5,
+        "episode": 18,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440455",
+        "title": "Julia & Matteo",
+        "season": 5,
+        "episode": 19,
+        "released": "2025-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440456",
+        "title": "Jessica & Zach",
+        "season": 5,
+        "episode": 20,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440457",
+        "title": "Eric & Lisa",
+        "season": 5,
+        "episode": 21,
+        "released": "2025-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468857",
+        "title": "Andrea & Ted",
+        "season": 5,
+        "episode": 22,
+        "released": "2026-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3468858",
+        "title": "Jason & Michael",
+        "season": 5,
+        "episode": 23,
+        "released": "2026-01-03",
+        "overview": ""
+      }
+    ]
+  }
+}

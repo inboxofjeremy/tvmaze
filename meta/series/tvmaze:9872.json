@@ -1,0 +1,1396 @@
+{
+  "meta": {
+    "id": "tvmaze:9872",
+    "type": "series",
+    "name": "Rick Steves' Europe",
+    "description": "Rick Steves has been the \"travel guinea pig\" for American Public Television since Travels in Europe with Rick Steves debuted in April of 1991. He continues his travels under a new title, but it's obviously the same format. Rick shows some out-of-the-way places the average traveler misses, offers countless travel tips, and always enjoys being immersed in the adventure.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/599/1498907.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/599/1498907.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3424381",
+        "title": "London: Yesterday and Today",
+        "season": 13,
+        "episode": 11,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424381",
+        "title": "London: Yesterday and Today",
+        "season": 13,
+        "episode": 11,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424381",
+        "title": "London: Yesterday and Today",
+        "season": 13,
+        "episode": 11,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424381",
+        "title": "London: Yesterday and Today",
+        "season": 13,
+        "episode": 11,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424381",
+        "title": "London: Yesterday and Today",
+        "season": 13,
+        "episode": 11,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424381",
+        "title": "London: Yesterday and Today",
+        "season": 13,
+        "episode": 11,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424381",
+        "title": "London: Yesterday and Today",
+        "season": 13,
+        "episode": 11,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424381",
+        "title": "London: Yesterday and Today",
+        "season": 13,
+        "episode": 11,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525238",
+        "title": "Portugal's Heartland",
+        "season": 1,
+        "episode": 1,
+        "released": "2000-09-03",
+        "overview": "Like no other European capital, Portugal's Lisbon has an old time charm — it feels like San Francisco but older, grittier... and less expensive."
+      },
+      {
+        "id": "tvmaze:525239",
+        "title": "Paris: Regal and Intimate",
+        "season": 1,
+        "episode": 2,
+        "released": "2000-09-10",
+        "overview": "In Paris, amidst all of its grandeur, the little joys of life are still embraced. In this first of two episodes on Paris, we'll cruise the Seine River, visit Napoleon's tomb, and take in the Louvre. Then we'll feel the pulse of Paris — shopping in village-like neighborhoods, attending church in a grand pipe organ loft, and celebrating the mother of all revolutions with a big, patriotic Bastille Day bang."
+      },
+      {
+        "id": "tvmaze:525241",
+        "title": "South England: Dover to Land's End",
+        "season": 1,
+        "episode": 3,
+        "released": "2000-09-17",
+        "overview": "This time we're kicking off a South England adventure, starting at the White Cliffs of Dover and following the coast to Land's End."
+      },
+      {
+        "id": "tvmaze:525242",
+        "title": "Heart of England and South Wales",
+        "season": 1,
+        "episode": 4,
+        "released": "2000-09-24",
+        "overview": "Like the Continent, Great Britain is a delight to explore. We're starting in the Cotswolds, two hours west of London. From there we circle south to Wells, Glastonbury, Stonehenge and into South Wales."
+      },
+      {
+        "id": "tvmaze:525243",
+        "title": "Caesar's Rome",
+        "season": 1,
+        "episode": 5,
+        "released": "2000-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525244",
+        "title": "Germany's Black Forest and Cologne",
+        "season": 1,
+        "episode": 6,
+        "released": "2000-10-08",
+        "overview": "Europe's our playground—and Germany's in the heart of the fun. After a stop at historic Cologne we ride the train to the resort spa of Baden Baden, then hop south through the highlights of the Black Forest."
+      },
+      {
+        "id": "tvmaze:525245",
+        "title": "Scotland's Islands and Highlands",
+        "season": 1,
+        "episode": 7,
+        "released": "2000-10-15",
+        "overview": "Crowning Britain in the Northwest of Europe, Scotland welcomes visitors. From the town of Oban, we cruise to the Isles of Mull and Iona, then follow the Caledonian Canal to Glencoe, Loch Ness and onto Culloden."
+      },
+      {
+        "id": "tvmaze:525246",
+        "title": "Surprising Bulgaria",
+        "season": 1,
+        "episode": 8,
+        "released": "2000-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525247",
+        "title": "Rome: Baroque, After Dark",
+        "season": 1,
+        "episode": 9,
+        "released": "2000-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525248",
+        "title": "Eastern Turkey",
+        "season": 1,
+        "episode": 10,
+        "released": "2000-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525249",
+        "title": "UK London: Royal and Rambunctious",
+        "season": 1,
+        "episode": 11,
+        "released": "2000-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525250",
+        "title": "Slovenia and Croatia",
+        "season": 1,
+        "episode": 12,
+        "released": "2000-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525251",
+        "title": "The Best of Sicily",
+        "season": 1,
+        "episode": 13,
+        "released": "2000-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525252",
+        "title": "Travel Skills (1)",
+        "season": 1,
+        "episode": 14,
+        "released": "2000-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525253",
+        "title": "Travel Skills (2)",
+        "season": 1,
+        "episode": 15,
+        "released": "2000-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525254",
+        "title": "Travel Skills (3)",
+        "season": 1,
+        "episode": 16,
+        "released": "2000-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525255",
+        "title": "Rick Steves' Exotic Europe",
+        "season": 1,
+        "episode": 17,
+        "released": "2001-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525257",
+        "title": "Venice: Serene, Decadent, and Still Kicking",
+        "season": 2,
+        "episode": 1,
+        "released": "2002-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525258",
+        "title": "Venice Side-Trips: The Best of Veneto",
+        "season": 2,
+        "episode": 2,
+        "released": "2002-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525259",
+        "title": "Florence: City of Art",
+        "season": 2,
+        "episode": 3,
+        "released": "2002-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525260",
+        "title": "Siena and Assisi: Italy's Grand Hill Towns",
+        "season": 2,
+        "episode": 4,
+        "released": "2002-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525261",
+        "title": "Cinque Terre: Italy's Hidden Riviera",
+        "season": 2,
+        "episode": 5,
+        "released": "2002-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525262",
+        "title": "Amsterdam and Dutch Side-Trips",
+        "season": 2,
+        "episode": 6,
+        "released": "2002-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525263",
+        "title": "Prague and the Czech Republic",
+        "season": 2,
+        "episode": 7,
+        "released": "2002-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525264",
+        "title": "Dublin and Mystical Sidetrips",
+        "season": 2,
+        "episode": 8,
+        "released": "2002-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525265",
+        "title": "South Ireland: Waterford to the Ring of Kerry",
+        "season": 2,
+        "episode": 9,
+        "released": "2002-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525266",
+        "title": "The Best of West Ireland: Dingle, Galway, and the Aran Islands",
+        "season": 2,
+        "episode": 10,
+        "released": "2002-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525267",
+        "title": "Berlin: Resilient, Reunited, and Reborn",
+        "season": 2,
+        "episode": 11,
+        "released": "2002-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525268",
+        "title": "Germany's Romantic Rhine and Rothenburg",
+        "season": 2,
+        "episode": 12,
+        "released": "2002-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525269",
+        "title": "Munich and the Foothills of the Alps",
+        "season": 2,
+        "episode": 13,
+        "released": "2002-11-30",
+        "overview": "Baroque palaces and lively markets in Munich, Germany; a visit to a Bavarian village; castles of ``Mad'' King Ludwig."
+      },
+      {
+        "id": "tvmaze:525270",
+        "title": "Switzerland's Jungfrau Region: Best of the Alps",
+        "season": 2,
+        "episode": 14,
+        "released": "2002-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525272",
+        "title": "South Ireland: Waterford to the Ring of Kerry",
+        "season": 2,
+        "episode": 15,
+        "released": "2003-02-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525273",
+        "title": "Rick Steves' Castles & Mountains",
+        "season": 2,
+        "episode": 16,
+        "released": "2003-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525274",
+        "title": "Spain: The Majesty of Madrid",
+        "season": 3,
+        "episode": 1,
+        "released": "2004-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525275",
+        "title": "Spain, highlights of Castile: Toledo and Salamanca",
+        "season": 3,
+        "episode": 2,
+        "released": "2004-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525276",
+        "title": "France's Normandy: War-Torn Yet Full of Life",
+        "season": 3,
+        "episode": 3,
+        "released": "2004-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525277",
+        "title": "Belfast and the Best of Northern Ireland",
+        "season": 3,
+        "episode": 4,
+        "released": "2004-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525278",
+        "title": "London: Mod and Trad",
+        "season": 3,
+        "episode": 5,
+        "released": "2004-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525279",
+        "title": "Highlights of Paris: Eiffel and Monet to Crème Brûlée",
+        "season": 3,
+        "episode": 6,
+        "released": "2004-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525280",
+        "title": "Belgium: Bruges and Brussels",
+        "season": 3,
+        "episode": 7,
+        "released": "2004-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525281",
+        "title": "France's Provence: Legendary Light, Wind and Wine",
+        "season": 3,
+        "episode": 8,
+        "released": "2004-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525282",
+        "title": "French Riviera: Uniquely Chic",
+        "season": 3,
+        "episode": 9,
+        "released": "2004-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525283",
+        "title": "Poland Rediscovered: Krakow, Auschwitz and Warsaw",
+        "season": 3,
+        "episode": 10,
+        "released": "2004-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525284",
+        "title": "Budapest: The Best of Hungary",
+        "season": 3,
+        "episode": 11,
+        "released": "2004-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525285",
+        "title": "Portugal: Lisbon and the Algarve",
+        "season": 3,
+        "episode": 12,
+        "released": "2004-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525286",
+        "title": "Rick Steves' Classic Europe",
+        "season": 3,
+        "episode": 13,
+        "released": "2004-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525287",
+        "title": "Spain: Sevilla and Andalusia",
+        "season": 3,
+        "episode": 14,
+        "released": "2004-11-27",
+        "overview": "Sevilla is the flamboyant city of Carmen and Don Juan, where bullfighting is still politically correct and little girls dream of growing up to become flamenco dancers. Sevilla has soul — and we feel it in its lacy Moorish palace, massive cathedral, lavish royal tombs, labyrinthine Jewish quarter, and its people-filled streets."
+      },
+      {
+        "id": "tvmaze:525288",
+        "title": "Rick Steves' Spain/Iberia.",
+        "season": 3,
+        "episode": 15,
+        "released": "2005-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525289",
+        "title": "France's Alsace",
+        "season": 3,
+        "episode": 16,
+        "released": "2005-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525290",
+        "title": "England's Bath and York",
+        "season": 4,
+        "episode": 1,
+        "released": "2006-10-07",
+        "overview": "Roman hot springs; cruising canals; Gothic church; Viking history."
+      },
+      {
+        "id": "tvmaze:525291",
+        "title": "North Wales: Feisty and Poetic",
+        "season": 4,
+        "episode": 2,
+        "released": "2006-10-14",
+        "overview": "Mount Snowdon; medieval castles; Victorian promenades; slate mine; sheep-herding dog"
+      },
+      {
+        "id": "tvmaze:525292",
+        "title": "Edinburgh",
+        "season": 4,
+        "episode": 3,
+        "released": "2006-10-21",
+        "overview": "Edinburgh Castle; the new Scottish Parliament Building; Her Majesty's Yacht Britannia."
+      },
+      {
+        "id": "tvmaze:525293",
+        "title": "Naples and Pompeii",
+        "season": 4,
+        "episode": 4,
+        "released": "2006-10-28",
+        "overview": "Back-street fish markets; pizza; climbing Mount Vesuvius; the ruins of Pompeii."
+      },
+      {
+        "id": "tvmaze:525294",
+        "title": "Italy's Amalfi Coast",
+        "season": 4,
+        "episode": 5,
+        "released": "2006-11-04",
+        "overview": "The Amalfi Coast: Positano resort; Sorrento; ancient Greek temples at Paestum; the Blue Grotto"
+      },
+      {
+        "id": "tvmaze:525295",
+        "title": "Milan and Lake Como",
+        "season": 4,
+        "episode": 6,
+        "released": "2006-11-11",
+        "overview": "Fashion in Milan, Italy; cruising Lake Como; lakeside village of Varenna."
+      },
+      {
+        "id": "tvmaze:525296",
+        "title": "Tuscany's Dolce Vita",
+        "season": 4,
+        "episode": 7,
+        "released": "2006-11-18",
+        "overview": "Hunting for truffles; artichoke festival; farmhouse feast; a ride through cypress groves."
+      },
+      {
+        "id": "tvmaze:525297",
+        "title": "Italy's Great Hill Towns",
+        "season": 4,
+        "episode": 8,
+        "released": "2006-11-25",
+        "overview": "Italy's classic hill towns include San Gimignano, Cortona, Orvieto and Civita di Bagnoregio."
+      },
+      {
+        "id": "tvmaze:525298",
+        "title": "Vienna",
+        "season": 4,
+        "episode": 9,
+        "released": "2006-12-02",
+        "overview": "The palace of Maria Theresa; Hapsburg crown jewels; a picnic on the Danube."
+      },
+      {
+        "id": "tvmaze:525300",
+        "title": "Salzburg and Surroundings",
+        "season": 4,
+        "episode": 10,
+        "released": "2006-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525301",
+        "title": "Burgundy: Profoundly French",
+        "season": 5,
+        "episode": 1,
+        "released": "2008-03-08",
+        "overview": "Fine living in Burgundy, France; canal barge; medieval hospice; modern monastery."
+      },
+      {
+        "id": "tvmaze:525302",
+        "title": "France's Dordogne",
+        "season": 5,
+        "episode": 2,
+        "released": "2008-10-11",
+        "overview": "A canoe ride through the Dordogne River Valley; goose farm; lamp-lit castle; country market; Albi, home of Toulouse Lautrec; Carcassonne."
+      },
+      {
+        "id": "tvmaze:525303",
+        "title": "Barcelona and Catalunya",
+        "season": 5,
+        "episode": 3,
+        "released": "2008-10-18",
+        "overview": "The festivity of Barcelona; Montserrat; pilgrimage along the Costa Brava; Salvador Dali's home and mausoleum/museum."
+      },
+      {
+        "id": "tvmaze:525304",
+        "title": "Little Europe: Five Microcountries",
+        "season": 5,
+        "episode": 4,
+        "released": "2008-11-01",
+        "overview": "Vatican City, the world's smallest country; Monaco; San Marino, Italy; Liechtenstein; Andorra."
+      },
+      {
+        "id": "tvmaze:525305",
+        "title": "Great Swiss Cities",
+        "season": 5,
+        "episode": 5,
+        "released": "2008-11-08",
+        "overview": "Luzern, Bern, Zurich and Lausanne; art created by inmates of an asylum; Swiss innovations such as drug policies and underground arsenals"
+      },
+      {
+        "id": "tvmaze:525306",
+        "title": "Vienna and the Danube",
+        "season": 5,
+        "episode": 6,
+        "released": "2008-11-15",
+        "overview": "Vienna's gardens, art and fine music; a trip along the Danube River; hiking through the Baroque Melk Abbey."
+      },
+      {
+        "id": "tvmaze:525307",
+        "title": "Czech Republic Beyond Prague",
+        "season": 5,
+        "episode": 7,
+        "released": "2008-11-22",
+        "overview": "Art Nouveau; peat bathing in Olomouc, Moravský Krumlov, Trebon and Konopiste; Holocaust memorial in Terezen."
+      },
+      {
+        "id": "tvmaze:525308",
+        "title": "Athens and Sidetrips",
+        "season": 5,
+        "episode": 8,
+        "released": "2008-11-29",
+        "overview": "The Parthenon, Agora and National Archaeological Museum in Athens; the ruins of the oracle at Delphi; traffic-free Isle of Hydra."
+      },
+      {
+        "id": "tvmaze:525309",
+        "title": "Greece's Peloponnese",
+        "season": 5,
+        "episode": 9,
+        "released": "2008-11-29",
+        "overview": "Old port town of Nafplio; the ruins of Olympia; preserved theater at Epidauros; ancient capital of Mycenae; Mani Peninsula."
+      },
+      {
+        "id": "tvmaze:525310",
+        "title": "Copenhagen",
+        "season": 5,
+        "episode": 10,
+        "released": "2008-12-06",
+        "overview": "Copenhagen's Viking history; Europe's first pedestrian boulevard; palace treasury; bike ride through a hippie squatter community; Tivoli Gardens."
+      },
+      {
+        "id": "tvmaze:525312",
+        "title": "Denmark Beyond Copenhagen",
+        "season": 5,
+        "episode": 11,
+        "released": "2008-12-13",
+        "overview": "The open-air museum in Aarhus; royal burial church and Viking ship museum in Roskilde."
+      },
+      {
+        "id": "tvmaze:525313",
+        "title": "Istanbul",
+        "season": 5,
+        "episode": 12,
+        "released": "2008-12-20",
+        "overview": "The Grand Bazaar and spice market in Istanbul; the fall of the ancient capital of Byzantium; Hagia Sophia; Blue Mosque; Topkapi Palace."
+      },
+      {
+        "id": "tvmaze:525314",
+        "title": "Iran, Yesterday and Today",
+        "season": 5,
+        "episode": 13,
+        "released": "2008-12-27",
+        "overview": "As he's done with previous programs on Israel, Egypt, and Eastern Turkey, Rick takes us beyond Europe to a place that's rich with history...and mystery. Visiting Tehran, Esfahan, Shiraz, Persepolis, and Abyaneh (a small village), we'll get a rare present-day look at of some of civilization's most important historical sites, and a sense of Iran's 21st-century culture. From architecture and art to faith and everyday living, \"Iran, Yesterday and Today\" offers a rare, candid, and humanizing look at a great if perplexing nation."
+      },
+      {
+        "id": "tvmaze:525315",
+        "title": "Iran: Tehran and Sidetrips",
+        "season": 5,
+        "episode": 14,
+        "released": "2009-01-03",
+        "overview": "As he's done with previous programs on Israel, Egypt, and eastern Turkey, Rick takes us beyond Europe to a place that's rich with history…and mystery. In this first of two half-hour shows on Iran, Rick dodges traffic in Tehran, enjoys the tranquility of a nearby village (Abyaneh), and encounters both anti-American propaganda and a warm welcome from everyday Iranians. This episode of Rick Steves' Europe was created with footage from the first half of the one-hour television special, \"Rick Steves' Iran: Yesterday and Today.\""
+      },
+      {
+        "id": "tvmaze:525316",
+        "title": "Iran's Historic Capitals",
+        "season": 5,
+        "episode": 15,
+        "released": "2009-01-10",
+        "overview": "Iran's rich history goes back millennia, to the days when Persepolis was home to the \"king of kings.\" In this episode, we explore three historic capitals of Iran: Persepolis, with its splendid monuments; Shiraz, with the tombs of Iran's most beloved poets; and Esfahan, with its extraordinary mosques and endearing people. This episode of Rick Steves' Europe was created with footage from the second half of the one-hour television special, \"Rick Steves' Iran: Yesterday and Today.\""
+      },
+      {
+        "id": "tvmaze:525317",
+        "title": "Andalucía: The Best of Southern Spain",
+        "season": 6,
+        "episode": 1,
+        "released": "2010-10-02",
+        "overview": "Join Rick as he weaves Andalucía's rich mix of culture, cuisine, history, and natural wonders into a 60-minute special. The hour includes the major cities of Sevilla, Córdoba, and Granada; flamenco, sherry, and horses; dramatic white-washed hill towns; and fun in the Costa del Sol sun — plus a dash of Britain in Gibraltar. Content includes segments from three half-hour episodes of Rick Steves' Europe: S06E05 \"Granada, Córdoba, and Spain's Costa del Sol,\" S06E06 \"Andalucía, Gibraltar, and Tangier,\" and S03E13 \"Sevilla\" — woven together with additional footage."
+      },
+      {
+        "id": "tvmaze:525318",
+        "title": "Croatia: Adriatic Delights",
+        "season": 6,
+        "episode": 2,
+        "released": "2010-10-09",
+        "overview": "Dalmation Coast; hiking through Plitvice Lakes National Park; Zagreb; Istrian Peninsula."
+      },
+      {
+        "id": "tvmaze:525319",
+        "title": "Dubrovnik and Balkan Side Trips",
+        "season": 6,
+        "episode": 3,
+        "released": "2010-10-16",
+        "overview": "Dubrovnik on the Adriatic Sea coast; Mostar, Bosnia and Herzegovina; Montenegro's Bay of Kotor."
+      },
+      {
+        "id": "tvmaze:525320",
+        "title": "Best of Slovenia",
+        "season": 6,
+        "episode": 4,
+        "released": "2010-10-23",
+        "overview": "Little Slovenia's capital of Ljubljana; mountain resort of Lake Bled in the Julian Alps."
+      },
+      {
+        "id": "tvmaze:525321",
+        "title": "Granada, Cordoba, and Spain's Costa Del Sol",
+        "season": 6,
+        "episode": 5,
+        "released": "2010-10-30",
+        "overview": "Andalucía's Moorish heritage sparkles in the historic capitals of Granada and Córdoba. And the pride of the Reconquista and the power of Queen Isabel and King Ferdinand enliven the region's great sights. Tasting the smooth sherry and marveling at prancing stallions, we find the passion in Andalusian culture. And we top it off with fun in the Spanish sun on the Costa del Sol."
+      },
+      {
+        "id": "tvmaze:525323",
+        "title": "Andalucia, Gibraltar and Tangier",
+        "season": 6,
+        "episode": 6,
+        "released": "2010-11-07",
+        "overview": "Exploring Andalucía, we experience the quintessence of Spanish culture. Starting up high, in Spain's whitewashed hill towns, we roll down to the coast to enjoy the windsurfing mecca of Tarifa. Then we catch a bit of Britain on the Rock of Gibraltar, and sail to Africa for a Moroccan finale in Tangier."
+      },
+      {
+        "id": "tvmaze:525324",
+        "title": "Oslo",
+        "season": 6,
+        "episode": 7,
+        "released": "2010-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525325",
+        "title": "Norway's West: Fjords, Mountains and Bergen",
+        "season": 6,
+        "episode": 8,
+        "released": "2010-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525326",
+        "title": "Stockholm",
+        "season": 6,
+        "episode": 9,
+        "released": "2010-11-28",
+        "overview": "Cultural highlights of Stockholm, Sweden's capital, include gourmet reindeer and vodka; sailing the archipelago."
+      },
+      {
+        "id": "tvmaze:525327",
+        "title": "Helsinki and Tallinn: Baltic Sisters",
+        "season": 6,
+        "episode": 10,
+        "released": "2010-12-05",
+        "overview": "Helsinki, Finland's Neoclassical old town has a modern flair for design; two-hour boat ride to Tallinn, Estonia."
+      },
+      {
+        "id": "tvmaze:525328",
+        "title": "Northern Spain and the Camino de Santiago",
+        "season": 6,
+        "episode": 11,
+        "released": "2010-12-12",
+        "overview": "Tracing the trail of pilgrims, from the French border to Santiago de Compostela; running with the bulls in Pamplona; Celtic culture of Galicia."
+      },
+      {
+        "id": "tvmaze:525329",
+        "title": "Basque Country",
+        "season": 6,
+        "episode": 12,
+        "released": "2010-12-19",
+        "overview": "The ancient Basque Country capital of Gernika; Guggenheim Museum Bilbao."
+      },
+      {
+        "id": "tvmaze:525330",
+        "title": "Rome: Ancient Glory",
+        "season": 7,
+        "episode": 1,
+        "released": "2012-10-06",
+        "overview": "Part one of three shows on the Eternal City, this episode resurrects the rubble and brings back to life the capital of the ancient world. Focusing on the grandeur of classical Rome, we'll admire the groundbreaking architecture at the Colosseum and Pantheon, and the empire's exquisite art at the Capitoline Museum. Then we'll head out on a bike ride along the ancient Appian Way and take in nearby marvels of Roman engineering."
+      },
+      {
+        "id": "tvmaze:525331",
+        "title": "Rome: Baroque Brilliance",
+        "season": 7,
+        "episode": 2,
+        "released": "2012-10-13",
+        "overview": "This second of three shows on Rome reveals a city busy with life and bursting with Baroque. We'll ramble through the venerable heart of Rome, admire breathtaking Bernini statues, ponder sunbeams inside St. Peter's Basilica at the Vatican, and mix and mingle with the Romans during an early-evening stroll. Following an exquisite Roman dinner, we'll join locals after dark, lacing together the Eternal City's most romantic nightspots."
+      },
+      {
+        "id": "tvmaze:525332",
+        "title": "Rome: Back Street Riches",
+        "season": 7,
+        "episode": 3,
+        "released": "2012-10-20",
+        "overview": "In this third of three shows on the Eternal City, we'll explore this grand metropolis — so rich in art and culture — on a more intimate scale, delving into its back lanes and unheralded corners. Venturing through the crusty Trastevere district, visiting the historic Jewish Ghetto, and enjoying art treasures in a string of rarely visited churches, we uncover charms of hidden Rome that compete with its marquee sights."
+      },
+      {
+        "id": "tvmaze:525334",
+        "title": "Florence: Heart of the Renaissance",
+        "season": 7,
+        "episode": 4,
+        "released": "2012-10-27",
+        "overview": "Part 1 of 2 in Florence, Italy, highlights Michelangelo's David, Botticelli's Birth of Venus and Ghiberti's Gates of Paradise."
+      },
+      {
+        "id": "tvmaze:525335",
+        "title": "Florentine Delights and Tuscan Side Trips",
+        "season": 7,
+        "episode": 5,
+        "released": "2012-11-03",
+        "overview": "The visit to Florence, Italy, concludes with a look at the city's artistic treasures. Also: side-trips to the cities of Pisa and Lucca."
+      },
+      {
+        "id": "tvmaze:525336",
+        "title": "Paris: Regal and Intimate",
+        "season": 7,
+        "episode": 6,
+        "released": "2012-11-10",
+        "overview": "Part 1 of a two-part tour of Paris includes a Seine River cruise and visits to Napoleon's tomb and the Louvre. Also: Bastille Day celebrations are highlighted."
+      },
+      {
+        "id": "tvmaze:525337",
+        "title": "Paris: Embracing Life and Art",
+        "season": 7,
+        "episode": 7,
+        "released": "2012-11-17",
+        "overview": "Conclusion. In Paris, stops include the Cluny Museum; Sainte-Chapelle; and Père Lachaise Cemetery. Also: the Parisian café scene."
+      },
+      {
+        "id": "tvmaze:525338",
+        "title": "London: Historic and Dynamic",
+        "season": 7,
+        "episode": 8,
+        "released": "2012-11-24",
+        "overview": "A tour of London stops at Westminster Abbey, the British Library and Winston Churchill's secret WWII headquarters. Also: tripling the calories of an English scone at teatime; taking in the evening scene in Soho."
+      },
+      {
+        "id": "tvmaze:525339",
+        "title": "North England's Lake District and Durham",
+        "season": 7,
+        "episode": 9,
+        "released": "2012-12-01",
+        "overview": "Exploring England's Lake District, which is home to lakes, waterfalls, a slate mine and stony summits. Also: Hadrian's Wall; the Durham Cathedral."
+      },
+      {
+        "id": "tvmaze:525340",
+        "title": "Venice: City of Dreams",
+        "season": 7,
+        "episode": 10,
+        "released": "2012-12-08",
+        "overview": "Part 1 of 2. A tour of Venice, Italy, highlights the masterpieces of the Venetian Renaissance. Also: cruising the Grand Canal."
+      },
+      {
+        "id": "tvmaze:525341",
+        "title": "Venice and Its Lagoon",
+        "season": 7,
+        "episode": 11,
+        "released": "2012-12-15",
+        "overview": "The Venice, Italy, tour concludes. Included: art treasures; hidden wonders."
+      },
+      {
+        "id": "tvmaze:1033536",
+        "title": "European Travel Skills (1)",
+        "season": 7,
+        "episode": 12,
+        "released": "2012-12-22",
+        "overview": "Rick Steves offers practical advice on how to have a fun and affordable trip to Europe. Sites include Germany, Italy, the Swiss Alps, Paris and London."
+      },
+      {
+        "id": "tvmaze:1058315",
+        "title": "European Travel Skills (2)",
+        "season": 7,
+        "episode": 13,
+        "released": "2012-12-29",
+        "overview": "Rick Steves offers practical advice on how to have a fun and affordable trip to Europe. Sites include Germany, Italy, the Swiss Alps, Paris and London."
+      },
+      {
+        "id": "tvmaze:1071201",
+        "title": "European Travel Skills (3)",
+        "season": 7,
+        "episode": 14,
+        "released": "2013-01-05",
+        "overview": "Rick Steves offers practical advice on how to have a fun and affordable trip to Europe. Sites include Germany, Italy, the Swiss Alps, Paris and London."
+      },
+      {
+        "id": "tvmaze:525342",
+        "title": "Western Turkey",
+        "season": 8,
+        "episode": 1,
+        "released": "2014-10-11",
+        "overview": "The streets of ancient Ephesus; natural spa at Pamukkale; lunch in a Turkish pizzeria; cruising the Mediterranean on a traditional Turkish gulet."
+      },
+      {
+        "id": "tvmaze:525343",
+        "title": "Central Turkey",
+        "season": 8,
+        "episode": 2,
+        "released": "2014-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525344",
+        "title": "France's Loire: Château Country",
+        "season": 8,
+        "episode": 3,
+        "released": "2014-10-25",
+        "overview": "Touring four castles -- Chenonceau, Chambord, Cheverny and Villandry; feeding hunting dogs; local cuisine; a princely garden."
+      },
+      {
+        "id": "tvmaze:525345",
+        "title": "Paris Side Trips",
+        "season": 8,
+        "episode": 4,
+        "released": "2014-11-01",
+        "overview": "Exploring Versailles; Vaux le Vicomte; Fontainebleau; the glass and statuary of Chartres cathedral."
+      },
+      {
+        "id": "tvmaze:525346",
+        "title": "The Best of Israel",
+        "season": 8,
+        "episode": 5,
+        "released": "2014-11-08",
+        "overview": "We start in Jerusalem, alive with religious tradition and passion — Christian, Muslim, and Jewish. We then visit cosmopolitan Tel Aviv, with its in-love-with-life beaches; ponder the sad fortress of Masada; and join pilgrims at biblical sights around the Sea of Galilee. We'll also pay our respects at the Yad Vashem Holocaust memorial, drop into an Orthodox Jewish neighborhood, and savor the local cuisine."
+      },
+      {
+        "id": "tvmaze:525347",
+        "title": "Palestine",
+        "season": 8,
+        "episode": 6,
+        "released": "2014-11-15",
+        "overview": "This time we're venturing beyond Europe to visit the West Bank of the Jordan River — a land its residents call Palestine. After visiting Jerusalem, we harvest olives near Ramallah, follow pilgrims to the site of Jesus' birth in Bethlehem, approach Abraham's tomb — as both Jews and Muslims do — in Hebron, join friends for dinner, and bob in the Dead Sea. We'll also learn about walls, Israeli settlements, and the challenges facing this region."
+      },
+      {
+        "id": "tvmaze:525348",
+        "title": "Italy's Riviera: Cinque Terre",
+        "season": 8,
+        "episode": 7,
+        "released": "2014-11-22",
+        "overview": "Five port towns along the Italian Riviera include Vernazza, Corniglia, Manarola, Riomaggiore, Monterosso."
+      },
+      {
+        "id": "tvmaze:525349",
+        "title": "Italy's Veneto: Verona, Padua, and Ravenna",
+        "season": 8,
+        "episode": 8,
+        "released": "2014-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525350",
+        "title": "Amsterdam",
+        "season": 8,
+        "episode": 9,
+        "released": "2014-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:525351",
+        "title": "The Netherlands Beyond Amsterdam",
+        "season": 8,
+        "episode": 10,
+        "released": "2014-12-13",
+        "overview": "The sights outside of Amsterdam, from Haarlem to Rotterdam and Delft to the Zuiderzee."
+      },
+      {
+        "id": "tvmaze:525352",
+        "title": "Prague",
+        "season": 8,
+        "episode": 11,
+        "released": "2014-12-20",
+        "overview": "Prague's massive castle, statue-lined bridge, Jewish Quarter and 20th-century history."
+      },
+      {
+        "id": "tvmaze:525353",
+        "title": "Berlin",
+        "season": 8,
+        "episode": 12,
+        "released": "2014-12-27",
+        "overview": "A reunited Berlin entertains more visitors than ever before."
+      },
+      {
+        "id": "tvmaze:955396",
+        "title": "Germany's Hamburg and the Luther Trail",
+        "season": 9,
+        "episode": 1,
+        "released": "2016-10-08",
+        "overview": "Hamburg, Germany's mighty port city, has risen from the ashes of World War II with a gleaming new skyline and a brisk creative energy. From there, we visit the great historic sights of Martin Luther and the Reformation (Erfurt, Wittenberg, and Wartburg Castle) before finishing in the capital of Franconia: wine-loving Würzburg."
+      },
+      {
+        "id": "tvmaze:955397",
+        "title": "Germany's Dresden and Leipzig",
+        "season": 9,
+        "episode": 2,
+        "released": "2016-10-15",
+        "overview": "Saxony, part of the former East Germany, remains a secret to most travelers. We'll visit the two great cities of the region: the capital city of Dresden, with the opulent palaces and art treasures of the Wettin dynasty, and Leipzig, with its Bach heritage, a massive monument to the day Europe beat Napoleon, and museums remembering its communist heritage."
+      },
+      {
+        "id": "tvmaze:955398",
+        "title": "Germany's Frankfurt and Nürnberg",
+        "season": 9,
+        "episode": 3,
+        "released": "2016-10-22",
+        "overview": "Skyscraper-studded Frankfurt — with so much commerce it's nicknamed \"Bankfurt\" — has a delightful-to-explore old center. We'll also visit Nürnberg, a capital for both the First Reich (the Holy Roman Empire) and the Third. From its towering castle and playful fountains to its Nazi Documentation Center and maze of underground bomb shelters, Nürnberg is a fascinating study in contrasts."
+      },
+      {
+        "id": "tvmaze:955399",
+        "title": "Bulgaria",
+        "season": 9,
+        "episode": 4,
+        "released": "2016-10-29",
+        "overview": "Bulgaria, so mysterious to most Americans, has a vivid identity as a crossroads of the Balkans. We'll trace the country's complex history, from ancient Thracian tombs to medieval Orthodox Christian monasteries to Soviet monuments. And we'll enjoy an intimate taste of contemporary culture: the yellow brick road of Sofia; the gregarious craftspeople of the medieval capital, Veliko Tarnovo; and the thriving pedestrian zones of cosmopolitan Plovdiv."
+      },
+      {
+        "id": "tvmaze:955400",
+        "title": "Romania",
+        "season": 9,
+        "episode": 5,
+        "released": "2016-11-05",
+        "overview": "We'll tour Romania's vibrant capital, Bucharest, with its \"Little Paris of the East\" architecture and lingering reminders of a brutal communist dictator. Then we'll head into Transylvania, where we'll visit fortified churches, cobbled merchant towns like Sighișoara, and castles made famous by an imported German king and the real-life Dracula. Finally we'll explore Maramureș, where everyday life still feels like an open-air folk museum."
+      },
+      {
+        "id": "tvmaze:955401",
+        "title": "Assisi and Italian Country Charm",
+        "season": 9,
+        "episode": 6,
+        "released": "2016-11-12",
+        "overview": "In the Italian countryside, we'll connect with rustic, traditional culture: enjoying an agriturismo (farmhouse inn), seeing how prosciutto and pecorino cheese are made, and hiking to the bottom of deep and ancient wine cellars. We'll end in Assisi — the hometown of St. Francis — which retains its spiritual aura to this day. Like pilgrims, we'll explore its stony center before trekking to its awe-inspiring basilica, built on the tomb of the beloved saint."
+      },
+      {
+        "id": "tvmaze:955402",
+        "title": "Siena and Tuscany's Wine Country",
+        "season": 9,
+        "episode": 7,
+        "released": "2016-11-19",
+        "overview": "Siena, once a proud and independent city-state, retains its confidence and unique traditions. We'll enjoy a front-row seat at its wild horse race — the venerable Palio di Siena — and marvel at cultural treasures from the days when it rivaled Florence for the leadership of Tuscany. Then we'll head into wine country for a little dolce vita under the Tuscan sun."
+      },
+      {
+        "id": "tvmaze:955403",
+        "title": "West England",
+        "season": 9,
+        "episode": 8,
+        "released": "2016-11-26",
+        "overview": "The quintessence of charming England is the \"West Country\": quaint Cotswold villages with their fine churches, manor homes, and gastropubs; Wells, England's smallest cathedral town; and the New Age capital of Glastonbury, with its legends of the Holy Grail and King Arthur. We'll finish by pondering the dramatic prehistoric stone circles of Stonehenge and Avebury."
+      },
+      {
+        "id": "tvmaze:955404",
+        "title": "Southeast England",
+        "season": 9,
+        "episode": 9,
+        "released": "2016-12-03",
+        "overview": "Arcing along the southeast coast of England, we'll travel from Canterbury (with its famous cathedral) to Dover (stoutly fortified from Roman times to the Battle of Britain). Then we'll hike the trails that top the towering chalk cliffs of the South Downs, wander into the beachy resort of Brighton (England's Coney Island), and push on to Portsmouth, whose naval heritage has left it with the best collection of historic sailing ships anywhere."
+      },
+      {
+        "id": "tvmaze:955405",
+        "title": "England's Cornwall",
+        "season": 9,
+        "episode": 10,
+        "released": "2016-12-10",
+        "overview": "The far southwest of England is a world unto itself, with a persistent Cornish culture. We'll explore a world of flowers springing from towering hedges, a tin-mining heritage going back to biblical times, salty pirates' towns and fishing villages, and the Land's End of England. Then, side-tripping deep into the vast and mysterious Dartmoor National Park, we'll hike to forgotten stone circles and chase wild ponies."
+      },
+      {
+        "id": "tvmaze:1630065",
+        "title": "The Heart of England",
+        "season": 10,
+        "episode": 1,
+        "released": "2018-10-15",
+        "overview": "The heartland of England has sights that put the \"Great\" in Britain — its venerable universities, its royal heritage, and reminders of its industrial might. At Oxford and Cambridge, we'll see where kings and prime ministers studied. At Blenheim Palace — Winston Churchill's birthplace — we'll connect with English aristocracy. At Ironbridge Gorge, we fire up memories of the Industrial Revolution. And all along the way, we'll be driving on the left and polishing our pub etiquette."
+      },
+      {
+        "id": "tvmaze:1630067",
+        "title": "Lisbon",
+        "season": 10,
+        "episode": 2,
+        "released": "2018-10-22",
+        "overview": "Lisbon, built with the riches of Portugal's New World discoveries, has a rustic charm. We'll remember great navigators, eat lots of cod, enjoy pastries hot out of the oven, stroll the city's back lanes and its reinvigorated waterfront, marvel at an exquisite church built with spice taxes, and enjoy some soulful fado music. Then we'll side-trip to Sintra to explore the fanciful castles of Portuguese royalty and climb hilltop ramparts with grand views."
+      },
+      {
+        "id": "tvmaze:1630068",
+        "title": "Portugal's Heartland",
+        "season": 10,
+        "episode": 3,
+        "released": "2018-10-29",
+        "overview": "Portugal has an oversized history, fascinating culture, and boatloads of sardines. Saving the capital city of Lisbon for another episode, we'll dance on the beach at Nazaré, marvel at a medieval abbey in Batalha, visit a royal library and revel with university students in Coimbra, savor port wine with the people who made it along the Douro River, and get to know Portugal's gritty and fascinating second city, Porto."
+      },
+      {
+        "id": "tvmaze:1630069",
+        "title": "Travel Skills: Cruising",
+        "season": 10,
+        "episode": 4,
+        "released": "2018-11-05",
+        "overview": "Setting sail on the Mediterranean, we'll explore the ins and outs and pros and cons of cruising. We'll learn how to get the most out of a cruise and exercise our independence to make smart use of limited time on shore by planning well, avoiding lines, and eating quick-but-local meals on the go. Along with the joys and efficiencies of cruising, we'll consider the downsides, including the inevitable congestion and commercialism that comes with mass tourism."
+      },
+      {
+        "id": "tvmaze:1630070",
+        "title": "Greek Islands: Santorini, Mykonos, and Rhodes",
+        "season": 10,
+        "episode": 5,
+        "released": "2018-11-12",
+        "overview": "We'll island-hop through the Aegean, sampling three classic Greek getaways — Santorini, Mykonos, and Rhodes — and basking in their dramatic beauty. We'll tour ancient ruins, trace the vestiges of the Crusaders, sample rustic cuisine, savor classic Greek-island views, and compare beaches — from the ultimate party beach to idyllic quiet hideaways. And we'll see how a cruise ship can be an efficient way to link up great island stopovers."
+      },
+      {
+        "id": "tvmaze:1630071",
+        "title": "European Festivals I",
+        "season": 10,
+        "episode": 6,
+        "released": "2018-11-19",
+        "overview": "In this first of two episodes on Europe's greatest festivals, we'll cheer with the masses at Siena's crazy Palio horse race, toss a caber at a Scottish Highland Games, don a mask for Carnevale in Venice, and celebrate Easter in Greece. Dropping in on some of the Continent's top parties, we discover that each one is a celebration of traditional culture, and all of them are full of opportunities to sing and dance, feast on traditional food, and party with locals."
+      },
+      {
+        "id": "tvmaze:1630072",
+        "title": "European Festivals II",
+        "season": 10,
+        "episode": 7,
+        "released": "2018-11-26",
+        "overview": "In this second of two episodes on Europe's greatest festivals, we'll dance with Spaniards at Sevilla's April Fair, celebrate Bastille Day in Paris, run with the bulls at Pamplona, and hoist a frothy stein at Munich's Oktoberfest. And we'll celebrate a traditional family Christmas, browsing the holiday market in Nürnberg and sledding down alpine slopes by torchlight in Switzerland. With the entire Continent as our playground, fun is our mission."
+      },
+      {
+        "id": "tvmaze:1630073",
+        "title": "The Best of Sicily",
+        "season": 10,
+        "episode": 8,
+        "released": "2018-12-03",
+        "overview": "This tour of Sicilian highlights starts in Palermo, where we'll sing with the merchants in the markets, join locals in their passeggiata, drop in on a contessa, and marvel at the Romanesque cathedral of Monreale. Then we'll sip wine on the slopes of Mount Etna, munch cannoli, ponder Greek temples at Agrigento, admire Roman mosaics at the Villa of Casale, and marvel at the view from the Greek theater in Taormina."
+      },
+      {
+        "id": "tvmaze:1630074",
+        "title": "Sicilian Delights",
+        "season": 10,
+        "episode": 9,
+        "released": "2018-12-10",
+        "overview": "Sicily serves up a full-bodied and tasty travel experience. We'll dine on fresh seafood at the fisherman's harbor in Cefalù, ponder ancient Greek greatness in Siracusa, commune with monks — alive and departed — in a Capuchin crypt, sleep in an olive orchard at an agriturismo, and eat our way through a classic Sicilian banquet with a famous chef."
+      },
+      {
+        "id": "tvmaze:1630075",
+        "title": "Scotland's Highlands",
+        "season": 10,
+        "episode": 10,
+        "released": "2018-12-17",
+        "overview": "The Highlands stoke kilted dreams of Scotland…where legends of Bonnie Prince Charlie swirl around lonely castles. We visit the \"Weeping Glen\" of Glencoe, bustling Inverness, and the battlefield at Culloden. Then we'll make a pilgrimage to the spiritual capital of a major clan, and go prehistoric at Stone Age burial grounds and Iron Age island forts. Venturing along the Caledonian Canal and watching for Nessie at Loch Ness, we work up an appetite for modern Scottish cuisine and enjoy traditional folk music."
+      },
+      {
+        "id": "tvmaze:1630076",
+        "title": "Scotland's Islands",
+        "season": 10,
+        "episode": 11,
+        "released": "2018-12-24",
+        "overview": "We'll begin on the tranquil Isle of Iona, where Christianity first reached the shores of Scotland. Then we'll visit another of the Inner Hebrides, road-tripping across the Isle of Skye, where we'll explore Iron Age forts, peat fields, a venerable distillery, thatched crofter huts, and the dramatic Trotternish Peninsula. Finally, we'll sail to Orkney — more Nordic than Celtic — with its stony remnants of a thriving Iron Age civilization and evocative reminders of the 20th-century wartime harbor at Scapa Flow."
+      },
+      {
+        "id": "tvmaze:1630077",
+        "title": "Glasgow and Scottish Passions",
+        "season": 10,
+        "episode": 12,
+        "released": "2018-12-31",
+        "overview": "Glasgow, once an industrial powerhouse, offers a fun look at Scotland's vibrantly gritty urban side — full of edgy street art, trendy dining, and the striking architecture of Charles Rennie Mackintosh. Leaving town, we'll tap into Scottish passions as we tour historic Stirling Castle and nearby battlefields, sample a dram at the land's most beloved distilleries on the Speyside Whisky Trail, watch a sheepdog demonstration, and struggle to lift the Manhood Stone at a Highland Games."
+      },
+      {
+        "id": "tvmaze:1974857",
+        "title": "Austrian and Italian Alps",
+        "season": 11,
+        "episode": 1,
+        "released": "2020-10-08",
+        "overview": "In the Alps of Austria and Italy, we celebrate both nature and culture. After conquering the Zugspitze, we tour Innsbruck, visit a remote farm in Austria, and join in a Tirolean village festival. Then we cross the Alps into Italy and tour a uniquely well-preserved medieval castle before joyriding deep into the rugged Dolomite Mountains. After an unforgettable hike, we catch our breath in Europe's largest high-altitude meadow, then enjoy some more alpine folk music."
+      },
+      {
+        "id": "tvmaze:1974858",
+        "title": "Swiss Alps",
+        "season": 11,
+        "episode": 2,
+        "released": "2020-10-24",
+        "overview": "Switzerland draws travelers from around the world for its legendary mountains. From the Matterhorn to the Jungfrau to Appenzell, we savor both the country's jaw-dropping alpine beauty and the rich and resilient culture of its people. As we lace together that dramatic mountain wonder with scenic train rides, breathtaking lifts, and unforgettable hikes, we also enjoy alpine life — from exploring glaciers to making cheese the old-fashioned way."
+      },
+      {
+        "id": "tvmaze:1974859",
+        "title": "French Alps and Lyon",
+        "season": 11,
+        "episode": 3,
+        "released": "2020-10-31",
+        "overview": "After exploring the proud cuisine capital of Lyon — which, at least in its own mind, rivals Paris — we head for Chamonix, in the shadow of Europe's tallest peak: Mont Blanc. With the classic alpine resort as our springboard, we make some high-altitude cheese, then ride the lift up to Aiguille du Midi and over to the border of Italy. And we hike the Tour du Mont Blanc — the trail that circles that iconic mountain."
+      },
+      {
+        "id": "tvmaze:1974860",
+        "title": "Germany's Fascist Story",
+        "season": 11,
+        "episode": 4,
+        "released": "2020-11-07",
+        "overview": "Traveling across Germany, we learn how fascism rose and then fell, taking millions of people with it. Visiting actual locations — from Munich to Nürnberg to Berlin — we trace the roots of Nazism in the aftermath of World War I, when masses of angry people were enchanted by Hitler. We explore the totalitarian society Hitler built, and see the consequences: genocide and total war. Learning from Germany's fascist story, we can recognize that hateful ideology as well as the tricks of wannabe dictators in our own age."
+      },
+      {
+        "id": "tvmaze:1974861",
+        "title": "Egypt's Cairo",
+        "season": 11,
+        "episode": 5,
+        "released": "2020-11-14",
+        "overview": "Teeming Cairo, straddling the Nile, is the capital of Egypt and one of the leading cities of the Muslim world. With 20 million people, greater Cairo pulses with energy. We explore the back streets on a tuk-tuk, drop in on a mosque, haggle with a gauntlet of eager merchants, bake some pita bread, help chisel a tombstone, marvel at King Tut's gold, greet the ancient Sphinx, and climb into the center of the greatest pyramid."
+      },
+      {
+        "id": "tvmaze:1975032",
+        "title": "Egypt's Nile, Alexandria, and Luxor",
+        "season": 11,
+        "episode": 6,
+        "released": "2020-11-21",
+        "overview": "Exploring the Nile Valley from north to south, we see the highlights of Egypt. In the fabled city of Alexandria, we venture through a market wonderland, smoke a shisha, and stroll a Mediterranean promenade. In Luxor, we explore the pharaohs' tombs and temples before sailing on a timeless felucca. Then we kick back on a riverboat cruise, enjoying iconic views of palm trees, minarets, and rustic villages. Our finale: Ramses II's magnificent temple at Abu Simbel."
+      },
+      {
+        "id": "tvmaze:1975033",
+        "title": "Ethiopia: A Development Story",
+        "season": 11,
+        "episode": 7,
+        "released": "2020-11-30",
+        "overview": "Venturing beyond Europe, and with local experts as his guides, Rick uses Ethiopia as a classroom for understanding global hunger and extreme poverty — and how to beat it. Together, we witness the importance of water, education, empowering women, and nutrition during a child's first thousand days. And we see firsthand the impact of globalization and climate change. Our souvenir: A vivid appreciation of how ending hunger is possible — and how smart and modern development aid is the key."
+      },
+      {
+        "id": "tvmaze:1975034",
+        "title": "Why We Travel",
+        "season": 11,
+        "episode": 8,
+        "released": "2020-12-07",
+        "overview": "In times of crisis and challenge, we ask ourselves: What is the true value of travel? Is it just hedonism…or something more powerful? After a lifetime of exploring Europe — and inspiring Americans to see Europe as the springboard for world exploration — Rick Steves shares his reasons why. This special episode is a sonnet to travel — an introspective love story, set in Europe, that vividly celebrates the rewards of exploring our world and the joy that awaits those who travel."
+      },
+      {
+        "id": "tvmaze:2667605",
+        "title": "Art of Prehistoric Europe",
+        "season": 12,
+        "episode": 1,
+        "released": "2023-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2667606",
+        "title": "Art of Ancient Greece",
+        "season": 12,
+        "episode": 2,
+        "released": "2023-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2667607",
+        "title": "Ancient Roman Art",
+        "season": 12,
+        "episode": 3,
+        "released": "2023-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2667608",
+        "title": "Art of the Roman Empire",
+        "season": 12,
+        "episode": 4,
+        "released": "2023-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2667609",
+        "title": "Art of the Early Middle Ages",
+        "season": 12,
+        "episode": 5,
+        "released": "2023-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2686598",
+        "title": "Art of the High Middle Ages",
+        "season": 12,
+        "episode": 6,
+        "released": "2023-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2699315",
+        "title": "Art of the Florentine Renaissance",
+        "season": 12,
+        "episode": 7,
+        "released": "2023-11-17",
+        "overview": "The \"rebirth\" of Florence is powered by Leonardo da Vinci, Rafael and Michelangelo, whose David sculpture and painting of the Sistine takes the Florentine Renaissance to new heights."
+      },
+      {
+        "id": "tvmaze:2699316",
+        "title": "Art of the Renaissance Beyond Florence",
+        "season": 12,
+        "episode": 8,
+        "released": "2023-11-24",
+        "overview": "Lacy architecture and ethereal paintings by El Greco in Spain and Portugal; in Germany and Belgium, technologies enable Durer's mass-produced engravings, Jan van Eyck's oil paintings, Brueghel's peasants at play and the futuristic visions of Bosch."
+      },
+      {
+        "id": "tvmaze:2686599",
+        "title": "Baroque Art",
+        "season": 12,
+        "episode": 9,
+        "released": "2023-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2708265",
+        "title": "Art of the Neoclassical and Romantic Ages",
+        "season": 12,
+        "episode": 10,
+        "released": "2023-12-03",
+        "overview": "Europe's Neoclassical buildings of columns and domes, dramatic Romantic paintings depicting extreme emotions and nature; touring castles."
+      },
+      {
+        "id": "tvmaze:2708266",
+        "title": "Art of the Impressionists and Beyond",
+        "season": 12,
+        "episode": 11,
+        "released": "2023-12-10",
+        "overview": "Impressionist works, including Monet's lilies, Renoir's ladies, Degas' snapshots and Rodin's statues; tracing the travels of Van Gogh through his art; wild and crazy buildings in Spain"
+      },
+      {
+        "id": "tvmaze:2708267",
+        "title": "Art of the 20th Century",
+        "season": 12,
+        "episode": 12,
+        "released": "2023-12-17",
+        "overview": "The wild, colorful, surreal and fun art of the 20th century, from Spain to Hungary to Glasgow to Oslo; the works of Pablo Picasso."
+      },
+      {
+        "id": "tvmaze:3391528",
+        "title": "Iceland's Reykjavík and the Golden Circle",
+        "season": 13,
+        "episode": 1,
+        "released": "2025-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3391529",
+        "title": "Iceland's Ring Road",
+        "season": 13,
+        "episode": 2,
+        "released": "2025-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424373",
+        "title": "Kraków: Poland's Historic Capital",
+        "season": 13,
+        "episode": 3,
+        "released": "2025-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424374",
+        "title": "Poland's Warsaw and Gdańsk",
+        "season": 13,
+        "episode": 4,
+        "released": "2025-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424375",
+        "title": "Italy's Highlights",
+        "season": 13,
+        "episode": 5,
+        "released": "2025-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424376",
+        "title": "Burgundy: Gourmet Barge Cruise",
+        "season": 13,
+        "episode": 6,
+        "released": "2025-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424377",
+        "title": "Paris of the Parisians",
+        "season": 13,
+        "episode": 7,
+        "released": "2025-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424378",
+        "title": "Istanbul: Capital of Emperors and Sultans",
+        "season": 13,
+        "episode": 8,
+        "released": "2025-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424379",
+        "title": "Istanbul: Turkish Delights",
+        "season": 13,
+        "episode": 9,
+        "released": "2025-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424380",
+        "title": "London: A Royal Tour",
+        "season": 13,
+        "episode": 10,
+        "released": "2025-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3424381",
+        "title": "London: Yesterday and Today",
+        "season": 13,
+        "episode": 11,
+        "released": "2025-12-10",
+        "overview": ""
+      }
+    ]
+  }
+}

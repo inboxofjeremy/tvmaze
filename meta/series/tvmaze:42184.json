@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "id": "tvmaze:42184",
+    "type": "series",
+    "name": "Primal",
+    "description": "Primal is about the unlikely friendship between a dinosaur on the brink his species' extinction, and a caveman at the dawn of his species' evolution, who become each other's only hope for survival in a primitive landscape.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/213/533527.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/213/533527.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1705705",
+        "title": "Spear and Fang",
+        "season": 1,
+        "episode": 1,
+        "released": "2019-10-07",
+        "overview": "Tragedy forces a caveman and a dinosaur to rely upon each other for their survival."
+      },
+      {
+        "id": "tvmaze:1705706",
+        "title": "River of Snakes",
+        "season": 1,
+        "episode": 2,
+        "released": "2019-10-08",
+        "overview": "Man and beast are challenged to find a way to exist together."
+      },
+      {
+        "id": "tvmaze:1705707",
+        "title": "A Cold Death",
+        "season": 1,
+        "episode": 3,
+        "released": "2019-10-09",
+        "overview": "In the harshness of the primordial winter a herd of woolly mammoths hunt for the murderers of one of their own."
+      },
+      {
+        "id": "tvmaze:1705708",
+        "title": "Terror Under the Blood Moon",
+        "season": 1,
+        "episode": 4,
+        "released": "2019-10-10",
+        "overview": "The horrors of the red night challenges Spear and Fang for their very survival."
+      },
+      {
+        "id": "tvmaze:1705709",
+        "title": "Rage of the Ape-Men",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-10-11",
+        "overview": "An oasis of peace only leads to a brutal attack from a vicious tribe of ape-like men."
+      },
+      {
+        "id": "tvmaze:1832021",
+        "title": "Plague of Madness",
+        "season": 1,
+        "episode": 6,
+        "released": "2020-04-01",
+        "overview": "Spear and Fang take on an infection with zombified dinosaurs."
+      },
+      {
+        "id": "tvmaze:1922832",
+        "title": "Scent of Prey",
+        "season": 1,
+        "episode": 7,
+        "released": "2020-10-04",
+        "overview": "Spear struggles to nurse Fang back to health and escape the scavengers of the primordial world."
+      },
+      {
+        "id": "tvmaze:1944566",
+        "title": "Coven of the Damned",
+        "season": 1,
+        "episode": 8,
+        "released": "2020-10-18",
+        "overview": "A tribe of mysterious, primitive women seek to further their coven by using dark magic on Spear and Fang."
+      },
+      {
+        "id": "tvmaze:1944567",
+        "title": "The Night Feeder",
+        "season": 1,
+        "episode": 9,
+        "released": "2020-10-25",
+        "overview": "A horrific unseen terror stalks the night as well as our heroes, Spear and Fang."
+      },
+      {
+        "id": "tvmaze:1944568",
+        "title": "Slave of the Scorpion",
+        "season": 1,
+        "episode": 10,
+        "released": "2020-11-01",
+        "overview": "Spear and Fang are confronted by a far more developed human than they've ever encountered before."
+      },
+      {
+        "id": "tvmaze:2356374",
+        "title": "Sea of Despair",
+        "season": 2,
+        "episode": 1,
+        "released": "2022-07-21",
+        "overview": "Spear and Fang venture into the unknown to rescue Mira from her captors."
+      },
+      {
+        "id": "tvmaze:2357766",
+        "title": "Shadow of Fate",
+        "season": 2,
+        "episode": 2,
+        "released": "2022-07-21",
+        "overview": "Spear and Fang get separated in a strange new land."
+      },
+      {
+        "id": "tvmaze:2357767",
+        "title": "Dawn of Man",
+        "season": 2,
+        "episode": 3,
+        "released": "2022-07-28",
+        "overview": "The quest to find Mira leads Spear and Fang to the village of fearsome warriors."
+      },
+      {
+        "id": "tvmaze:2357768",
+        "title": "The Red Mist",
+        "season": 2,
+        "episode": 4,
+        "released": "2022-08-04",
+        "overview": "Spear and Fang fight to save Mira from the warrior clan that enslaved her."
+      },
+      {
+        "id": "tvmaze:2357769",
+        "title": "The Primal Theory",
+        "season": 2,
+        "episode": 5,
+        "released": "2022-08-11",
+        "overview": "A night of horrors reveals the true nature of man's origin."
+      },
+      {
+        "id": "tvmaze:2357770",
+        "title": "Vidarr",
+        "season": 2,
+        "episode": 6,
+        "released": "2022-08-18",
+        "overview": "Spear, Fang, and Mira are hunted by the last survivors of a village decimated by their carnage."
+      },
+      {
+        "id": "tvmaze:2357771",
+        "title": "The Colossaeus",
+        "season": 2,
+        "episode": 7,
+        "released": "2022-08-25",
+        "overview": "Spear, Fang, and Mira's journey home is threatened after encountering a mysterious threat at sea."
+      },
+      {
+        "id": "tvmaze:2357772",
+        "title": "The Colossaeus, Part II",
+        "season": 2,
+        "episode": 8,
+        "released": "2022-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2357773",
+        "title": "The Colossaeus, Part III",
+        "season": 2,
+        "episode": 9,
+        "released": "2022-09-08",
+        "overview": "Spear, Fang and Mira lead a daring escape from the Colossaeus and the Queen bent on their destruction."
+      },
+      {
+        "id": "tvmaze:2357774",
+        "title": "Echoes of Eternity",
+        "season": 2,
+        "episode": 10,
+        "released": "2022-09-15",
+        "overview": "An old vengeance returns to wreak havoc."
+      },
+      {
+        "id": "tvmaze:3447124",
+        "title": "TBA",
+        "season": 3,
+        "episode": 1,
+        "released": "2026-01-11",
+        "overview": ""
+      }
+    ]
+  }
+}

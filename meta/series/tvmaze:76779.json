@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:76779",
+    "type": "series",
+    "name": "The Big Money Show",
+    "description": "Taylor Riggs, Brian Brenberg and Jackie DeAngelis host an informative and fast-paced hour filled with business topics that impact everyone from Wall Street to the average person.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/518/1295479.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/518/1295479.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3456671",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

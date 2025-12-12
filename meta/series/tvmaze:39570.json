@@ -1,0 +1,932 @@
+{
+  "meta": {
+    "id": "tvmaze:39570",
+    "type": "series",
+    "name": "Body Cam",
+    "description": "Body Cam gives viewers their own eyewitness look at the life-or-death instant decisions of policework, as told by officers' own body camera footage. Offering an immersive portrayal of life on the streets, Body Cam engages a unique storytelling technique combining the body camera footage with first-hand accounts to virtually place viewers in harrowing moments as the suspense builds and the tension rises. Each episode tells multiple stories of those who vowed to protect and serve in unflinching detail, offering viewers their own personal perspective of officers in life-threatening circumstances. From domestic disputes to ambushes and traffic stops gone dangerously awry, Body Cam profiles just how quickly seemingly routine situations can escalate into tragic altercations.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/549/1373198.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/549/1373198.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450536",
+        "title": "Danger Zone",
+        "season": 10,
+        "episode": 3,
+        "released": "2025-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1560315",
+        "title": "Officer Down",
+        "season": 1,
+        "episode": 1,
+        "released": "2018-11-27",
+        "overview": "Officers find themselves pitted against a lone gunman holed up in a suburban home; the nerve of a rookie cop is tested when a routine stop on the highway goes horribly wrong."
+      },
+      {
+        "id": "tvmaze:1571223",
+        "title": "Shots Fired",
+        "season": 1,
+        "episode": 2,
+        "released": "2018-12-04",
+        "overview": "A domestic dispute turns into a hostage situation with children's lives at stake; an apparent vehicle accident turns into a shocking multiple murder with armed killers on the run; a disturbance at a liquor store leaves an officer fighting for his life."
+      },
+      {
+        "id": "tvmaze:1574818",
+        "title": "Cover Me",
+        "season": 1,
+        "episode": 3,
+        "released": "2018-12-11",
+        "overview": "Two police officers respond to a domestic disturbance that ends in tragedy. A terrifying house fire turns into a murder investigation. The search for a known sex offender builds to a shocking conclusion."
+      },
+      {
+        "id": "tvmaze:1575607",
+        "title": "Disorderly Conduct",
+        "season": 1,
+        "episode": 4,
+        "released": "2018-12-18",
+        "overview": "A police officer tracks down an armed carjacker and comes under heavy fire. A stabbing in broad daylight forces the police to take decisive action. A routine traffic stop results in an officer being shot and fighting for his life."
+      },
+      {
+        "id": "tvmaze:1580077",
+        "title": "Worst Case Scenario",
+        "season": 1,
+        "episode": 5,
+        "released": "2019-01-01",
+        "overview": "A relationship breakup turns deadly; a minor traffic stop puts a child's life at stake; a killer on the run leaves a State Trooper fighting for his life."
+      },
+      {
+        "id": "tvmaze:1585380",
+        "title": "Standoff",
+        "season": 1,
+        "episode": 6,
+        "released": "2019-01-08",
+        "overview": "A man with an AK-47 steals a cop car taking fire at police during a 16-mile citywide chase; a home invasion call escalates into something far more terrifying."
+      },
+      {
+        "id": "tvmaze:1585381",
+        "title": "The Chase",
+        "season": 1,
+        "episode": 7,
+        "released": "2019-01-15",
+        "overview": "A dangerous felon has stolen a truck and will ram anything in his path; On a freezing winter night a lone officer is attacked by a crazed half naked man; At a County Jail, a gunman fires at unarmed officers, leaving one fighting for his life."
+      },
+      {
+        "id": "tvmaze:1593830",
+        "title": "High Stakes",
+        "season": 1,
+        "episode": 8,
+        "released": "2019-01-29",
+        "overview": "A Detective leads his heavily armed team on a search warrant but ends up in the firing line himself; A routine traffic stop turns violent as the suspect makes a risky getaway; A knife wielding man draws police into a dangerous foot chase."
+      },
+      {
+        "id": "tvmaze:1599406",
+        "title": "Up Against the Clock",
+        "season": 1,
+        "episode": 9,
+        "released": "2019-02-05",
+        "overview": "Police are hunting two suspects, responsible for a string of armed robberies; an undercover cop foils a double murder for hire plot; a known felon tries to force an officer off the road, stopping at nothing to escape arrest."
+      },
+      {
+        "id": "tvmaze:1599407",
+        "title": "Under Siege",
+        "season": 1,
+        "episode": 10,
+        "released": "2019-02-12",
+        "overview": "On New Year's Eve, a domestic dispute ends in tragedy when two deputies are trapped with a gun-wielding suspect. In Iowa, a high-speed pursuit comes to a gruesome end."
+      },
+      {
+        "id": "tvmaze:1762070",
+        "title": "My Name Is Death",
+        "season": 2,
+        "episode": 1,
+        "released": "2019-12-03",
+        "overview": "Officers confront a knife-wielding suspect. In Florida, a man who flees into the woods is outsmarted by a K9 Officer. In Indiana, a gunman wages war on police, caught on surveillance cameras, until SWAT closes in."
+      },
+      {
+        "id": "tvmaze:1767855",
+        "title": "90 Minutes",
+        "season": 2,
+        "episode": 2,
+        "released": "2019-12-10",
+        "overview": "Police pursue a father &amp; son. An officer joins the chase and his life changes when he comes face to face with the armed suspects. In Ohio, a man threatens himself and his family. An officer negotiates over a video call, leading to a stand-off."
+      },
+      {
+        "id": "tvmaze:1772688",
+        "title": "Knife's Edge",
+        "season": 2,
+        "episode": 3,
+        "released": "2019-12-17",
+        "overview": "In Ohio, a man shoots his ex; in Utah, police are called to a house where a woman and children have escaped a suspect armed with a machete; in California, a therapist is attacked by a former patient."
+      },
+      {
+        "id": "tvmaze:1777415",
+        "title": "Code 30",
+        "season": 2,
+        "episode": 4,
+        "released": "2020-01-07",
+        "overview": "In New York, a domestic disturbance takes a violent turn which changes a police chief's life; in Florida, an officer is separated from his K-9 while chasing two suspects; in Indiana, an officer stares down the barrel of a suspect's gun."
+      },
+      {
+        "id": "tvmaze:1777416",
+        "title": "Hunted",
+        "season": 2,
+        "episode": 5,
+        "released": "2020-01-14",
+        "overview": "In Texas, police set a trap for a would-be killer; a high-speed chase leads police into a Florida swamp, where a police dog locates the suspect who now needs to be rescued."
+      },
+      {
+        "id": "tvmaze:1790233",
+        "title": "On the Edge",
+        "season": 2,
+        "episode": 6,
+        "released": "2020-01-21",
+        "overview": "Arkansas police stop a knifeman enraged over a midnight pot roast; in Delray Beach, Fla., officers must rescue two children teetering on a ledge with their mother who is high on drugs; in Utah, a trespasser attacks an officer with his own baton."
+      },
+      {
+        "id": "tvmaze:1790267",
+        "title": "In the Crosshairs",
+        "season": 2,
+        "episode": 7,
+        "released": "2020-01-28",
+        "overview": "Arkansas officers are pinned down by a deadly gunman for four hours; after a high-speed chase of a stolen pick-up, Oklahoma City officers fear an ambush when a suspect bails; a naked driver waving a gun leads Wisconsin police to a dangerous standoff."
+      },
+      {
+        "id": "tvmaze:1792998",
+        "title": "Long Shot",
+        "season": 2,
+        "episode": 8,
+        "released": "2020-02-04",
+        "overview": "An Arizona mother triggers a desperate search for her son, who is armed and suicidal; an Ohio officer fights for his life when a suspect overpowers him; a Wisconsin man shoots his co-workers and police must find him to stop the threat."
+      },
+      {
+        "id": "tvmaze:1797726",
+        "title": "Armed & Dangerous",
+        "season": 2,
+        "episode": 9,
+        "released": "2020-02-11",
+        "overview": "In California police face off against a knife-wielding bodybuilder; a wanted criminal draws an officer into a brawl in a sex shop, and a fleeing suspect drives a car directly at officers to escape."
+      },
+      {
+        "id": "tvmaze:1797727",
+        "title": "Flight Risk",
+        "season": 2,
+        "episode": 10,
+        "released": "2020-02-18",
+        "overview": "A suspected drug dealer in Georgia won't go down without a fight; police in Ohio fear for their lives when faced with an ambush from a hidden gunman; after a high-speed chase, a fleeing driver has one more surprise for Macomb County Deputies."
+      },
+      {
+        "id": "tvmaze:1876936",
+        "title": "Taken by Surprise",
+        "season": 3,
+        "episode": 1,
+        "released": "2021-01-26",
+        "overview": "In Georgia, Police officers respond to a 'trouble unknown' call suspecting a possible medical emergency. Moments after arriving on scene, they are ambushed by an armed assailant and find themselves battling for survival in a life or death stand-off."
+      },
+      {
+        "id": "tvmaze:1879591",
+        "title": "Kidnapped",
+        "season": 3,
+        "episode": 2,
+        "released": "2021-01-26",
+        "overview": "All police units desperately try and catch the suspects who snatched a baby from the hands of its mother and return the child; officer makes a routine traffic stop and ends up fighting for his life when he suffers a severe reaction."
+      },
+      {
+        "id": "tvmaze:2037541",
+        "title": "Run for Cover",
+        "season": 3,
+        "episode": 3,
+        "released": "2021-01-26",
+        "overview": "A woman is trapped in her burning home, and her only hope of rescue lies with a local deputy. A trainee officer in the middle of a high-speed pursuit pushes his skill to the limit. A gunman in Ohio sets a trap for officers trying to rescue a family."
+      },
+      {
+        "id": "tvmaze:2037542",
+        "title": "Deception",
+        "season": 3,
+        "episode": 4,
+        "released": "2021-01-26",
+        "overview": "In Florida, after a high-speed chase, a sheriff's K9 is let loose on its first pursuit; deputies in an Arkansas jail face a battle when inmates turn violent; in Georgia, officers head into the woods to hunt down a violent felon."
+      },
+      {
+        "id": "tvmaze:2037543",
+        "title": "In Harm's Way",
+        "season": 3,
+        "episode": 5,
+        "released": "2021-01-26",
+        "overview": "In Pueblo, an armed suspect fires at the police before embarking on a dangerous pursuit. In La Vista, a man locks himself in his garage, but as police try to get in, it suddenly catches fire, and they don't know if this is a rescue mission or an ambush."
+      },
+      {
+        "id": "tvmaze:2037544",
+        "title": "Blink of an Eye",
+        "season": 3,
+        "episode": 6,
+        "released": "2021-01-26",
+        "overview": "In Colorado, a routine traffic stop turns deadly for a new Deputy. Officers in Georgia battle the flaming wreckage of a crashed car, with a woman's life on the line. And in Louisiana, a high-speed car chase leads to a deadly gun battle."
+      },
+      {
+        "id": "tvmaze:2037545",
+        "title": "Moments from Death",
+        "season": 3,
+        "episode": 7,
+        "released": "2021-01-26",
+        "overview": "Constables in Texas are pushed to their limits when a high-speed car chase takes a dangerous turn and leaves the driver fighting for their lives. A routine call-out in rural Florida turns into a heavily-armed stand-off with SWAT officers."
+      },
+      {
+        "id": "tvmaze:2037546",
+        "title": "Lie in Wait",
+        "season": 3,
+        "episode": 8,
+        "released": "2021-01-26",
+        "overview": "A late-night report of grand theft auto leads to a brutal attack on an officer; An SUV crashes through the wall of a house and causes a devastating explosion; A man shoots two women before training the gun on the detective who tries to rescue them."
+      },
+      {
+        "id": "tvmaze:2037547",
+        "title": "Fight or Flight",
+        "season": 3,
+        "episode": 9,
+        "released": "2021-01-26",
+        "overview": "In Lyndhurst, Ohio, Police hunt down two bank robbers who will do anything to avoid capture. Nearby, in Lousiville, a heavily armed resident turns his sleepy suburb into a warzone."
+      },
+      {
+        "id": "tvmaze:2037553",
+        "title": "Race Against Time",
+        "season": 3,
+        "episode": 10,
+        "released": "2021-01-26",
+        "overview": "Police must break into an apartment to save the lives of two women as their machete-wielding attacker leads officers on a dangerous pursuit. In Wisconsin, a winter storm causes a multi vehicle pile-up with emergency services battling to free the injured."
+      },
+      {
+        "id": "tvmaze:2113538",
+        "title": "Life in Ruins",
+        "season": 4,
+        "episode": 1,
+        "released": "2021-06-15",
+        "overview": "In Ohio, SWAT tears down a house to arrest two brothers wanted for murder. In Washington, a high-speed pursuit ends when a crash entangles an officer's car in live electrical cables. In Texas, a DWI driver hits a goods train carrying explosive chemicals."
+      },
+      {
+        "id": "tvmaze:2113539",
+        "title": "Taken",
+        "season": 4,
+        "episode": 2,
+        "released": "2021-06-22",
+        "overview": "In Colorado, an unpredictable armed ex-convict takes his family hostage and threatens to kill them and himself. In Florida, a gas station robbery leads to a life-threatening attack on a police officer and a night-time manhunt in the woods."
+      },
+      {
+        "id": "tvmaze:2114229",
+        "title": "Seconds from Death",
+        "season": 4,
+        "episode": 3,
+        "released": "2021-06-29",
+        "overview": "An armed robber starts a deadly shootout on a city bus in Maryland. A California police officer races to drag a man from a wheelchair stuck on a train level crossing. In Ohio, police officers attempt to rescue a woman trapped inside a raging house fire."
+      },
+      {
+        "id": "tvmaze:2118933",
+        "title": "No Surrender",
+        "season": 4,
+        "episode": 4,
+        "released": "2021-07-06",
+        "overview": "A car crash ignites a fireball that threatens a Maryland officer making a traffic stop. In Ohio, an armed burglar hides in a closet, and officers must smoke him out. In Texas, an officer confronts a wanted felon who suddenly pulls a gun on him."
+      },
+      {
+        "id": "tvmaze:2122706",
+        "title": "Smoking Gun",
+        "season": 4,
+        "episode": 5,
+        "released": "2021-07-13",
+        "overview": "In Florida, a man is shot dead with a single bullet to the chest. It looks like a murder, but the inquiry takes a surprising turn. In Oklahoma, a high-speed pursuit turns rescue mission as the chase ends in a fiery crash."
+      },
+      {
+        "id": "tvmaze:2127052",
+        "title": "Flash Point",
+        "season": 4,
+        "episode": 6,
+        "released": "2021-07-20",
+        "overview": "An undercover agent buying drugs and guns from Florida gangs finds himself at the wrong end of the barrel. A young mom and her kids are about to be swept away by a sudden torrent, and a truck plows recklessly through rural Ohio."
+      },
+      {
+        "id": "tvmaze:2131405",
+        "title": "Near Miss",
+        "season": 4,
+        "episode": 7,
+        "released": "2021-07-27",
+        "overview": "A Washington State car chase ends with a shootout and a K9 fighting for its life. Pensacola police officers attempt CPR on a drowned 3-year-old girl, and a convoy of Ohio police cruisers screams through downtown Columbus in pursuit of their own car."
+      },
+      {
+        "id": "tvmaze:2134352",
+        "title": "Man Down",
+        "season": 4,
+        "episode": 8,
+        "released": "2021-08-03",
+        "overview": "In Indiana, an armed gunman terrorizes a VFW bingo hall. In Ohio, a shoplifter with a taser leaves a path of destruction in her wake. In northern Kentucky, a routine arrest spins out of control, leaving an officer fighting for his life."
+      },
+      {
+        "id": "tvmaze:2137166",
+        "title": "Manhunt",
+        "season": 4,
+        "episode": 9,
+        "released": "2021-08-10",
+        "overview": "In Colorado, a terrifying home invasion leads to a car chase and gunfight with police, resulting in a fatality; in New Mexico, a known criminal holds up a convenience store and then takes officers on a life-threatening car chase."
+      },
+      {
+        "id": "tvmaze:2142297",
+        "title": "Crisis",
+        "season": 4,
+        "episode": 10,
+        "released": "2021-08-17",
+        "overview": "In Utah, a traffic stop escalates to a runaway car dragging a police officer at high speeds. In Georgia, a woman gives birth during a car crash, but nobody can find the baby. In Oklahoma, an attempted break-in leads to a van hijacking and a car chase."
+      },
+      {
+        "id": "tvmaze:2313011",
+        "title": "Firing Line",
+        "season": 5,
+        "episode": 1,
+        "released": "2022-04-26",
+        "overview": "A suspect's car going 45 miles per hour drags a Pembroke Pines PD officer behind it; a domestic dispute turns into a shootout, leaving one officer fighting for his life; a routine traffic stop turns into a car chase."
+      },
+      {
+        "id": "tvmaze:2313317",
+        "title": "The End of the Road",
+        "season": 5,
+        "episode": 2,
+        "released": "2022-05-03",
+        "overview": "In Wisconsin, Rhinelander PD attempts to foil a murder for hire by going undercover and meeting the suspect as a hitman. In Colorado, law enforcement from two counties tries to stop a runaway semi-truck before it devastates the little town of Brush."
+      },
+      {
+        "id": "tvmaze:2321018",
+        "title": "Wrong Turn",
+        "season": 5,
+        "episode": 3,
+        "released": "2022-05-10",
+        "overview": "In Ohio, police try to rescue a woman trapped in a sinking car which puts an officer's life in danger. In Florida, a high-speed pursuit ends in a swamp, where the suspect shoots at police and escapes. Specialist units set out to locate the criminal."
+      },
+      {
+        "id": "tvmaze:2322016",
+        "title": "On the Brink",
+        "season": 5,
+        "episode": 4,
+        "released": "2022-05-17",
+        "overview": "In Ohio, officers respond when a man brandishes a knife in a store; in Georgia, police launch a manhunt after a suspect escapes in his truck, leaving an officer down."
+      },
+      {
+        "id": "tvmaze:2328456",
+        "title": "Fired Up",
+        "season": 5,
+        "episode": 5,
+        "released": "2022-05-31",
+        "overview": "Police race to an armed robbery and face a hail of shotgun pellets; a gas explosion lifts the roof off an apartment building, engulfing officers in a fireball; in Georgia, a man fights for his life in a wrecked SUV."
+      },
+      {
+        "id": "tvmaze:2334207",
+        "title": "Red Alert",
+        "season": 5,
+        "episode": 6,
+        "released": "2022-06-07",
+        "overview": "A K-9 unit tracks an armed murder suspect through an Oklahoma residential area, where he ambushes police; in Texas, police officers respond when a couple falls into an icy lake, and one officer risks his own life to go into the water."
+      },
+      {
+        "id": "tvmaze:2335231",
+        "title": "The Sting",
+        "season": 5,
+        "episode": 7,
+        "released": "2022-06-14",
+        "overview": "An undercover FBI investigation uncovers a plot to murder lawyers and politicians; in Florida, a man throws himself into alligator-infested waters to evade arrest."
+      },
+      {
+        "id": "tvmaze:2343056",
+        "title": "Get Out",
+        "season": 5,
+        "episode": 8,
+        "released": "2022-06-21",
+        "overview": "In Wisconsin, police respond to a burglary in progress, but the suspects flee; a woman in Texas makes a desperate call to 911 from inside a burning building; the streets turn deadly when the driver of a stolen vehicle tries to get away."
+      },
+      {
+        "id": "tvmaze:2343407",
+        "title": "In the Shadows",
+        "season": 5,
+        "episode": 9,
+        "released": "2022-06-28",
+        "overview": "Police chase a known criminal through the dangerous Ocala National Forest; in Michigan, a spree of home invasions escalates into a three-day manhunt."
+      },
+      {
+        "id": "tvmaze:2352966",
+        "title": "The Fugitive",
+        "season": 5,
+        "episode": 10,
+        "released": "2022-07-12",
+        "overview": "Following a high-speed pursuit, officers dive for cover as a car races through their crime scene; a suspect hides on a dense mangrove island to evade police."
+      },
+      {
+        "id": "tvmaze:2417422",
+        "title": "In the Line of Fire",
+        "season": 6,
+        "episode": 1,
+        "released": "2022-10-18",
+        "overview": "In North Carolina, after a home invasion gone wrong, a fleeing burglar takes a heavily pregnant woman as a human shield. Officers in Ohio meet a hail of bullets during a high-speed chase. In California, an officer faces a knife-wielding teenage girl."
+      },
+      {
+        "id": "tvmaze:2414486",
+        "title": "Reckless",
+        "season": 6,
+        "episode": 2,
+        "released": "2022-10-25",
+        "overview": "In Ohio, officers arrive at an armed robbery in progress with the store manager held hostage. In New York, Police fight to rescue the lives of a young mother and her baby when a drunk driver hits them. In Michigan, a female officer goes undercover."
+      },
+      {
+        "id": "tvmaze:2424773",
+        "title": "Talk to Me",
+        "season": 6,
+        "episode": 3,
+        "released": "2022-11-01",
+        "overview": "In Florida, the discovery of a murder victim shocks even hardened officers. After a stand-off, police in Connecticut chase down an armed domestic abuser, and in Nevada, an officer climbs over a fence to save a woman hanging above a freeway."
+      },
+      {
+        "id": "tvmaze:2427684",
+        "title": "Collision Course",
+        "season": 6,
+        "episode": 4,
+        "released": "2022-11-08",
+        "overview": "In Tennessee, a stolen squad car hits an officer and leaves him for dead. In Florida, deputies witness an armed carjacking. In LA, a light plane crashes onto rail tracks, and officers try to free the pilot as a train speeds towards the wreck."
+      },
+      {
+        "id": "tvmaze:2430171",
+        "title": "Feeling Lucky?",
+        "season": 6,
+        "episode": 5,
+        "released": "2022-11-15",
+        "overview": "In Wisconsin, a burglar in handcuffs escapes police custody in a squad car and goes into hiding. In Oklahoma, a simple conversation ends up in a shoot-out at a gas station with an officer down."
+      },
+      {
+        "id": "tvmaze:2430282",
+        "title": "Catch Me!",
+        "season": 6,
+        "episode": 6,
+        "released": "2022-11-22",
+        "overview": "In California, a body in the woods triggers a high-speed chase. In Utah, the search for a reckless motorcyclist turns dangerous when he steals a squad car with access to the guns. In Illinois, officers race to save a couple trapped in their burning home."
+      },
+      {
+        "id": "tvmaze:2434386",
+        "title": "Family Ties",
+        "season": 6,
+        "episode": 7,
+        "released": "2022-11-29",
+        "overview": "In Michigan, the family of a shooter begs him to give himself up. In Florida, a day cruise goes disastrously wrong and rescuers race to save two drowning families. In Detroit, suspects stealing marijuana flee at high speed through the city."
+      },
+      {
+        "id": "tvmaze:2437337",
+        "title": "7 Seconds",
+        "season": 6,
+        "episode": 8,
+        "released": "2022-12-06",
+        "overview": "In Ohio, a hostage situation turns into a deadly firefight. A routine traffic stop in Georgia escalates into a high-speed chase. In Texas, a fleeing suspect crashes into a truck, and officers must fight the resulting inferno to help an innocent victim."
+      },
+      {
+        "id": "tvmaze:2446501",
+        "title": "Breathe",
+        "season": 6,
+        "episode": 9,
+        "released": "2022-12-13",
+        "overview": "In New Mexico, officers chasing a robbery suspect go down in a hail of bullets from a heavily armed suspect. In Ohio, a father threatens to blow up his children and an entire neighborhood with over 25,000 pounds of explosives."
+      },
+      {
+        "id": "tvmaze:2445563",
+        "title": "Split Second",
+        "season": 6,
+        "episode": 10,
+        "released": "2022-12-20",
+        "overview": "In Florida, police tracking carjackers find themselves pursuing two separate suspects. A home invasion in Michigan takes a deadly turn when the suspect takes the homeowners and their child hostage and opens fire on officers."
+      },
+      {
+        "id": "tvmaze:2558536",
+        "title": "One Shot",
+        "season": 7,
+        "episode": 1,
+        "released": "2023-06-06",
+        "overview": "An ex-con kidnaps a baby at gunpoint in Utah; during a high-speed chase, the suspect calls 911 and threatens to kill the child, firing at officers to prove he is serious; he offers the police a trade: the baby's life for his freedom."
+      },
+      {
+        "id": "tvmaze:2566029",
+        "title": "Into the Darkness",
+        "season": 7,
+        "episode": 2,
+        "released": "2023-06-13",
+        "overview": "In Washington State, an off-duty officer spots a wanted criminal in an elementary school. Officers in Georgia chase a woman on a violent rampage in her car. In Florida, a stolen car crashes, and the suspect flees into an alligator-infested marsh."
+      },
+      {
+        "id": "tvmaze:2566030",
+        "title": "Baby Driver",
+        "season": 7,
+        "episode": 3,
+        "released": "2023-06-20",
+        "overview": "Police race through the night, pursuing an armed car thief; when an officer comes to the aid of a suspect's dogs, his act of kindness gets shot down in a hail of bullets; a couple's beef turns an officer's day on its head."
+      },
+      {
+        "id": "tvmaze:2567576",
+        "title": "Don't Let Me Die",
+        "season": 7,
+        "episode": 4,
+        "released": "2023-06-27",
+        "overview": "In Wisconsin, officers cautiously approach a dangerous driver's wrecked car. Refusing to exit the vehicle, the driver suddenly opens fire on them. In Washington State, a community rallies to protect two officers shot in the line of duty."
+      },
+      {
+        "id": "tvmaze:2579347",
+        "title": "Failure to Comply",
+        "season": 7,
+        "episode": 5,
+        "released": "2023-07-11",
+        "overview": "In Florida, a father kidnaps his own child. A wanted fugitive in Georgia fires six shots at a police officer, igniting panic in the neighbourhood. And in Ohio, a suspect attempts to evade police by escaping into a kids' daycare centre."
+      },
+      {
+        "id": "tvmaze:2591143",
+        "title": "Deadly Intent",
+        "season": 7,
+        "episode": 6,
+        "released": "2023-07-18",
+        "overview": "A shooter with an AR-15 opens fire on 300 clubbers in Orlando, Fla.; hiding in the bathroom, he takes multiple hostages; it's a race against time to save their lives; in Washington, a thief steals a shotgun from a Walmart, and K9 officers track him."
+      },
+      {
+        "id": "tvmaze:2591144",
+        "title": "Unforeseen",
+        "season": 7,
+        "episode": 7,
+        "released": "2023-07-25",
+        "overview": "In Florida, a felon breaks into an elementary school, causing a code red alert; a traffic stop in Arizona escalates when the suspects steal an ambulance; officers in Utah respond to reports of a man threatening staff with a gun at a drive-thru."
+      },
+      {
+        "id": "tvmaze:2601072",
+        "title": "The Unexpected",
+        "season": 7,
+        "episode": 8,
+        "released": "2023-08-01",
+        "overview": "In Wisconsin, a suspected hit-and-run takes a dangerous turn when a witness opens fire leaving two officers down. In Georgia, a mother and her children hide in a closet after a gang leader barricades himself in their apartment."
+      },
+      {
+        "id": "tvmaze:2601073",
+        "title": "Armed Response",
+        "season": 7,
+        "episode": 9,
+        "released": "2023-08-08",
+        "overview": "In Tennessee, officers arrive at an office where two women and a child are held hostage by a gunman; for 14 hours, officers attempt to secure their release; in Illinois, officers join a multi-state search for an armed bank robber."
+      },
+      {
+        "id": "tvmaze:2612880",
+        "title": "No Hiding Place",
+        "season": 7,
+        "episode": 10,
+        "released": "2023-08-15",
+        "overview": "In Utah, a wanted felon, who has threatened his family's life, is on the run. As officers close in on him, he makes a desperate move, breaking into a family's home and taking them hostage. Officers work through the night to secure their release."
+      },
+      {
+        "id": "tvmaze:2783806",
+        "title": "Race Against Time",
+        "season": 8,
+        "episode": 1,
+        "released": "2024-02-27",
+        "overview": "In Wisconsin, a terrified woman wakes up in her car and finds it's been stolen by a thief, sparking a high-speed police pursuit. A home invasion in Utah turns into a fire rescue, when a man sets the house alight with the terrified homeowners still inside."
+      },
+      {
+        "id": "tvmaze:2778063",
+        "title": "Nowhere to Hide",
+        "season": 8,
+        "episode": 2,
+        "released": "2024-03-05",
+        "overview": "In California, an argument in a bar leads to a deadly hostage situation. In New Mexico, a shoplifter unexpectedly fires upon an officer before going on the run. In Wisconsin, a suspect disappears into the frozen wilderness after flipping his car."
+      },
+      {
+        "id": "tvmaze:2787267",
+        "title": "Line of Duty",
+        "season": 8,
+        "episode": 3,
+        "released": "2024-03-12",
+        "overview": "In Florida, when a thief goes on the run, he draws officers and their K-9 into a deadly ambush. In Wisconsin, a traffic stop becomes a manhunt. An officer must ram a suspect head-on to get him off the road, putting her own life on the line."
+      },
+      {
+        "id": "tvmaze:2792729",
+        "title": "Digging for Trouble",
+        "season": 8,
+        "episode": 4,
+        "released": "2024-03-19",
+        "overview": "In Vermont, a dad wielding an excavator attacks officers to stop them from arresting his son. In Wisconsin, a police pastor on a ride-along gets caught up in a high-speed chase. In an Indiana motel, a wanted man opens fire on police."
+      },
+      {
+        "id": "tvmaze:2802179",
+        "title": "Hunter and the Hunted",
+        "season": 8,
+        "episode": 5,
+        "released": "2024-03-26",
+        "overview": "In New Mexico, a desperate mother clings to her car when a carjacker steals it with her babies inside. Just before dawn in Arizona, a SWAT team must locate an individual spotted inside a pawn shop packed with guns."
+      },
+      {
+        "id": "tvmaze:2804918",
+        "title": "Desperate Measures",
+        "season": 8,
+        "episode": 6,
+        "released": "2024-04-02",
+        "overview": "In Oklahoma, officers negotiate with a delusional father who's armed and dangerous. In Florida, officers chase a joyrider determined to evade capture. In Arizona, State Troopers are called out to rescue a driver trapped in torrential waters."
+      },
+      {
+        "id": "tvmaze:2808305",
+        "title": "Psycho 1",
+        "season": 8,
+        "episode": 7,
+        "released": "2024-04-09",
+        "overview": "In New Mexico, a carjacker shoots an officer before going on the run, leading officers into a deadly confrontation. In Oklahoma, police respond to a domestic violence call to find a mysteriously empty house. Can they hunt down this dangerous suspect?"
+      },
+      {
+        "id": "tvmaze:2818440",
+        "title": "He Shot Me!",
+        "season": 8,
+        "episode": 8,
+        "released": "2024-04-16",
+        "overview": "In New Mexico, a female officer pulls over a truck, but when she approaches, shots ring out. In Ohio, officers surround a house where men take a victim at gunpoint. The suspects escape with a 2nd hostage, and a full-scale manhunt ensues."
+      },
+      {
+        "id": "tvmaze:2827413",
+        "title": "A Hail of Bullets",
+        "season": 8,
+        "episode": 9,
+        "released": "2024-04-23",
+        "overview": "In Georgia, a county commissioner begins firing at police officers in a retirement village. In Florida, officers search for a wanted fugitive suspected of carrying a machete. In Wisconsin, a hostage situation results in an intense police standoff."
+      },
+      {
+        "id": "tvmaze:2833849",
+        "title": "Tunnel Vision",
+        "season": 8,
+        "episode": 10,
+        "released": "2024-04-30",
+        "overview": "In Wyoming, officers come under fire trying to arrest a wanted man in his home. In Marion County, Florida, a suspect flees after a car chase and then scales a tree to evade capture. In Orlando, an officer risks his life to save a baby from a blaze."
+      },
+      {
+        "id": "tvmaze:2995663",
+        "title": "Crying Wolf",
+        "season": 9,
+        "episode": 1,
+        "released": "2024-09-17",
+        "overview": "In New Mexico, an inmate faking a heart attack jumps a prison guard. The suspect escapes in the van, taking two fellow inmates with him and sparking a manhunt. In Nebraska, a family enjoying their July 4th faces a firework attack by a random family."
+      },
+      {
+        "id": "tvmaze:2995664",
+        "title": "K-9 Down",
+        "season": 9,
+        "episode": 2,
+        "released": "2024-09-24",
+        "overview": "In Wisconsin, a K-9 saves officers' lives by taking down an armed fugitive but gets shot in the head. In Connecticut, a patrolman comes under fire during a store robbery. In Oklahoma, a head-on collision with a deputy leads to a full-scale manhunt."
+      },
+      {
+        "id": "tvmaze:3008505",
+        "title": "Condition Critical",
+        "season": 9,
+        "episode": 3,
+        "released": "2024-10-01",
+        "overview": "In Texas, an officer is shot multiple times during a foot chase. The race is on as backup tries to locate the injured officer and track down the assailant. In Washington State, a fugitive carjacks several vehicles, causing destruction on the roads."
+      },
+      {
+        "id": "tvmaze:3019754",
+        "title": "Fire and Fury",
+        "season": 9,
+        "episode": 4,
+        "released": "2024-10-15",
+        "overview": "In California, a man holds his child hostage. While officers negotiate with him, he sets the house on fire. And in Florida, criminals break into a jewelry store. The race is on to catch them before they escape with over $70,000 worth of jewelry."
+      },
+      {
+        "id": "tvmaze:3025844",
+        "title": "Fight, Flight or Flee",
+        "season": 9,
+        "episode": 5,
+        "released": "2024-10-22",
+        "overview": "In Ohio, cops face a hostage situation with a dangerous fugitive willing to go to extremes. In Maryland, armed robbers are caught in the act and run from the law. In Indiana, police risk it all to save circus animals inside a burning truck."
+      },
+      {
+        "id": "tvmaze:3041711",
+        "title": "\"Mayday, Mayday\"",
+        "season": 9,
+        "episode": 6,
+        "released": "2024-11-12",
+        "overview": "In Oregon, a man vandalizes \"The Goonies\" house before stealing a yacht. When the yacht capsizes, it becomes a dramatic rescue mission. In Texas, a shootout with police leaves one officer critically injured while the suspect flees in his cruiser."
+      },
+      {
+        "id": "tvmaze:3046848",
+        "title": "Chief Down",
+        "season": 9,
+        "episode": 7,
+        "released": "2024-11-19",
+        "overview": "In Virginia, a police chief is shot by a petty shoplifter and, with life-threatening injuries, must face off the shooter alone. And in New Mexico, a violent armed robbery leads to a high-speed car chase with deputies coming under fire."
+      },
+      {
+        "id": "tvmaze:3050233",
+        "title": "Deadly Disappearance",
+        "season": 9,
+        "episode": 8,
+        "released": "2024-11-26",
+        "overview": "In Oregon, a murder suspect flees from the courthouse, sparking a manhunt. In Arizona, an art heist has officers reaching new heights. In Wisconsin, a carjacker attacks a superstore shopper before taking off and causing a three-county-wide pursuit."
+      },
+      {
+        "id": "tvmaze:3074809",
+        "title": "Bank Blast",
+        "season": 9,
+        "episode": 9,
+        "released": "2024-12-10",
+        "overview": "In Ohio, officers and firefighters rush to save lives after a gas explosion in a tower block. Fifty miles across state, a carjacker pulls a mom out of her vehicle, taking off with her kids in the back. In Wisconsin, a bizarre theft of a snowplow."
+      },
+      {
+        "id": "tvmaze:3078323",
+        "title": "Ultimate Conman",
+        "season": 9,
+        "episode": 10,
+        "released": "2024-12-17",
+        "overview": "In Arkansas, police chase a stolen U-Haul, leading to a devastating crash and an explosive find. In New Mexico, a fugitive escapes and vanishes inside a hospital. In Washington, a violent carjacking sparks a high-scale pursuit that ends up in the deep."
+      },
+      {
+        "id": "tvmaze:3423766",
+        "title": "Show Me Your Hands",
+        "season": 10,
+        "episode": 1,
+        "released": "2025-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3446862",
+        "title": "Race Against Time",
+        "season": 10,
+        "episode": 2,
+        "released": "2025-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3450536",
+        "title": "Danger Zone",
+        "season": 10,
+        "episode": 3,
+        "released": "2025-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452040",
+        "title": "Danger in the Woods",
+        "season": 10,
+        "episode": 4,
+        "released": "2025-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3452041",
+        "title": "White House of Horror",
+        "season": 10,
+        "episode": 5,
+        "released": "2025-12-17",
+        "overview": ""
+      }
+    ]
+  }
+}

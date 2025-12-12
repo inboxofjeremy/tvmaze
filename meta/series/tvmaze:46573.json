@@ -1,0 +1,1012 @@
+{
+  "meta": {
+    "id": "tvmaze:46573",
+    "type": "series",
+    "name": "Ghosts",
+    "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it's also inhabited by spirits of previous residents -- whom only Samantha can see and hear. Ghosts spins the funny, heartfelt story about a newfound dream that reveals connection and self-discovery aren't just for the living.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/590/1475093.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/590/1475093.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400602",
+        "title": "The Proposal",
+        "season": 5,
+        "episode": 7,
+        "released": "2025-12-04",
+        "overview": "Sam helps Eric plan the perfect proposal for Bela, until an encounter with Sasappis plants doubt in Bela's mind."
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2130305",
+        "title": "Pilot",
+        "season": 1,
+        "episode": 1,
+        "released": "2021-10-07",
+        "overview": "Samantha and Jay throw both caution and money to the wind when they decide to convert a rundown country estate they inherited into a bed and breakfast – only to find it's inhabited by the many opinionated spirits of deceased residents who now call it home."
+      },
+      {
+        "id": "tvmaze:2178326",
+        "title": "Hello!",
+        "season": 1,
+        "episode": 2,
+        "released": "2021-10-07",
+        "overview": "Sam thinks she's crazy because she sees ghosts and tries to ignore them."
+      },
+      {
+        "id": "tvmaze:2178630",
+        "title": "Viking Funeral",
+        "season": 1,
+        "episode": 3,
+        "released": "2021-10-14",
+        "overview": "When Thorfinn's bones are discovered on the property, he asks Sam to conduct the traditional Viking funeral he's always wanted; Sam and Jay are torn when they learn that the bones could be sold to a museum for a lot of much-needed cash."
+      },
+      {
+        "id": "tvmaze:2183787",
+        "title": "Dinner Party",
+        "season": 1,
+        "episode": 4,
+        "released": "2021-10-21",
+        "overview": "Sam and Jay invite Henry and Margaret to a dinner party to woo them into allowing the bed and breakfast; the ghosts are desperately eager to be included on the guest list."
+      },
+      {
+        "id": "tvmaze:2190802",
+        "title": "Halloween",
+        "season": 1,
+        "episode": 5,
+        "released": "2021-10-28",
+        "overview": "The ghosts try to help Sam and Jay protect their home from the neighborhood kids who annually vandalize the house on Halloween."
+      },
+      {
+        "id": "tvmaze:2190803",
+        "title": "Pete's Wife",
+        "season": 1,
+        "episode": 6,
+        "released": "2021-11-04",
+        "overview": "Pete convinces Sam to invite his living wife to the mansion, only to discover she's been keeping a dark secret from him; Sasappis gets angry with Thorfinn for binge-watching their favorite show without him; Trevor learns he may have a daughter."
+      },
+      {
+        "id": "tvmaze:2194280",
+        "title": "Flower's Article",
+        "season": 1,
+        "episode": 7,
+        "released": "2021-11-11",
+        "overview": "When Sam is commissioned to write an article about Flower and her friends holding up a bank during their commune days, Flower begs Sam not to accept the job because she's embarrassed about a part of the story she's never revealed."
+      },
+      {
+        "id": "tvmaze:2211438",
+        "title": "D&D",
+        "season": 1,
+        "episode": 8,
+        "released": "2021-11-18",
+        "overview": "After Jay is kicked out of a Dungeons &amp; Dragons game with his city friends, Sam agrees to facilitate a new one between him and the ghosts; Isaac confronts his feelings for Nigel, a ghost from whom he's been keeping a gigantic secret."
+      },
+      {
+        "id": "tvmaze:2214913",
+        "title": "Alberta's Fan",
+        "season": 1,
+        "episode": 9,
+        "released": "2021-12-02",
+        "overview": "Alberta is thrilled when a super-fan visits the mansion; Thor convinces Hetty to go on a walk that would hopefully spark a special memory."
+      },
+      {
+        "id": "tvmaze:2219019",
+        "title": "Possession",
+        "season": 1,
+        "episode": 10,
+        "released": "2021-12-09",
+        "overview": "Hetty accidentally possesses Jay's body just as he and Sam are to about show Woodstone Mansion to a renowned wedding planner."
+      },
+      {
+        "id": "tvmaze:2229143",
+        "title": "Sam's Mom",
+        "season": 1,
+        "episode": 11,
+        "released": "2022-01-06",
+        "overview": "Sam and Jay travel to where Sam's mother died to see if she's now a ghost; Sasappis divulges a secret to his fellow ghosts."
+      },
+      {
+        "id": "tvmaze:2230306",
+        "title": "Jay's Sister",
+        "season": 1,
+        "episode": 12,
+        "released": "2022-01-13",
+        "overview": "When Jay's sister comes to visit after being dumped by her boyfriend, they're shocked to discover that she's communicating with someone they know on a dating app."
+      },
+      {
+        "id": "tvmaze:2242364",
+        "title": "The Vault",
+        "season": 1,
+        "episode": 13,
+        "released": "2022-01-20",
+        "overview": "Just as Sam and Jay are set to host a friend's wedding that could get their bed-and-breakfast business off the ground, the ghost of Hetty's husband tries to ruin it."
+      },
+      {
+        "id": "tvmaze:2268431",
+        "title": "Ghostwriter",
+        "season": 1,
+        "episode": 14,
+        "released": "2022-02-24",
+        "overview": "Sasappis offers to help Sam complete the bed and breakfast website so they can start taking reservations; Pete bonds with Jay over basketball, until Jay makes a new living friend; Flower attempts to be Pete's new basketball buddy."
+      },
+      {
+        "id": "tvmaze:2273389",
+        "title": "Thorapy",
+        "season": 1,
+        "episode": 15,
+        "released": "2022-03-03",
+        "overview": "When Sam and Jay have the ghosts bunk together to free up rooms for guests at the bed-and-breakfast, they learn that Thorfinn has been having night terrors, which inspires Sam to enlist a therapist to help him."
+      },
+      {
+        "id": "tvmaze:2283470",
+        "title": "Trevor's Pants",
+        "season": 1,
+        "episode": 16,
+        "released": "2022-03-31",
+        "overview": "The secret about Trevor's missing pants is finally revealed when his wealthy former friend comes to Woodstone Mansion to buy the timepiece Sam and Jay found on Elias Woodstone's corpse; Thor decides to tell Flower how he feels about her."
+      },
+      {
+        "id": "tvmaze:2298021",
+        "title": "Attic Girl",
+        "season": 1,
+        "episode": 17,
+        "released": "2022-04-14",
+        "overview": "An '80s \"mean girl\" ghost named Stephanie, who died on her prom night, is awakened in the attic, triggering Sam to confront what happened on her own prom night; Alberta discovers she has another special gift."
+      },
+      {
+        "id": "tvmaze:2304522",
+        "title": "Farnsby & B",
+        "season": 1,
+        "episode": 18,
+        "released": "2022-04-21",
+        "overview": "As Sam and Jay await the arrival of their first official bed-and-breakfast guests, they face obstacles triggered by a Norse curse placed upon them by Thorfinn; Isaac takes a huge, centuries-in-the-making step in his personal life."
+      },
+      {
+        "id": "tvmaze:2351599",
+        "title": "Spies",
+        "season": 2,
+        "episode": 1,
+        "released": "2022-09-29",
+        "overview": "Sam enlists the ghosts to help secure a good review from an overly critical couple staying at the bed-and-breakfast; Isaac tries to integrate Nigel into his friend group."
+      },
+      {
+        "id": "tvmaze:2394192",
+        "title": "Alberta's Podcast",
+        "season": 2,
+        "episode": 2,
+        "released": "2022-10-06",
+        "overview": "Sam decides to host a podcast exploring the mystery surrounding Alberta's death; Hetty develops an unusual relationship with a broken washing machine."
+      },
+      {
+        "id": "tvmaze:2394585",
+        "title": "Jay's Friends",
+        "season": 2,
+        "episode": 3,
+        "released": "2022-10-13",
+        "overview": "Sam becomes alarmed when the ghosts suggest Jay's new friends may be part of a cult run by a charismatic leader named Micah; Pete changes his attitude after Sasappis criticizes his unceasing cheerfulness."
+      },
+      {
+        "id": "tvmaze:2394586",
+        "title": "The Tree",
+        "season": 2,
+        "episode": 4,
+        "released": "2022-10-20",
+        "overview": "Sasappis convinces Sam and Jay to try and save an old tree on the Woodstone property that the neighbors want to cut down; Thor attempts to become more environmentally friendly to get Flower's attention."
+      },
+      {
+        "id": "tvmaze:2394587",
+        "title": "Halloween 2: The Ghost of Hetty's Past",
+        "season": 2,
+        "episode": 5,
+        "released": "2022-10-27",
+        "overview": "A séance at Sam and Jay's last-minute Halloween party conjures up a spirit from Hetty's past; Isaac worries Nigel will be turned off by his ghost power."
+      },
+      {
+        "id": "tvmaze:2411473",
+        "title": "The Baby Bjorn",
+        "season": 2,
+        "episode": 6,
+        "released": "2022-11-03",
+        "overview": "Sam meets a Viking ghost at the Farnsbys' house who has an unexpected connection to Thorfinn; Trevor devises a new method for the ghosts to trade favors."
+      },
+      {
+        "id": "tvmaze:2414552",
+        "title": "Dumb Deaths",
+        "season": 2,
+        "episode": 7,
+        "released": "2022-11-10",
+        "overview": "When a TV documentary crew comes to Woodstone Mansion to shoot an episode of \"Dumb Deaths\"; Pete confronts a hard truth about the day he died."
+      },
+      {
+        "id": "tvmaze:2429657",
+        "title": "The Liquor License",
+        "season": 2,
+        "episode": 8,
+        "released": "2022-12-08",
+        "overview": "Alberta's expertise from her past comes in handy when Sam and Jay run into some complications during their Woodstone whiskey tasting soiree; Trevor devises a ghost fraternity, which inspires a revelation from Isaac's past."
+      },
+      {
+        "id": "tvmaze:2431989",
+        "title": "The Christmas Spirit, Part One",
+        "season": 2,
+        "episode": 9,
+        "released": "2022-12-15",
+        "overview": "When Jay's sister Bela returns to Woodstone Mansion for a holiday visit and brings a male friend, Samantha makes it her mission to spark a holiday romance between them."
+      },
+      {
+        "id": "tvmaze:2434815",
+        "title": "The Christmas Spirit, Part Two",
+        "season": 2,
+        "episode": 10,
+        "released": "2022-12-15",
+        "overview": "Sam and Thorfinn get caught in the crossfire as the scheme Jay's sister and the ghosts conjure up goes awry; Isaac's marriage to Beatrice sheds light on how apprehensive he has been in communicating his feelings to Nigel."
+      },
+      {
+        "id": "tvmaze:2431990",
+        "title": "The Perfect Assistant",
+        "season": 2,
+        "episode": 11,
+        "released": "2023-01-05",
+        "overview": "Sam and Jay are thrilled when they find a highly qualified assistant, but their new employee comes with some surprising baggage; Thorfinn tries to help his son deal with a bully."
+      },
+      {
+        "id": "tvmaze:2450496",
+        "title": "The Family Business",
+        "season": 2,
+        "episode": 12,
+        "released": "2023-01-12",
+        "overview": "Sam gives relationship advice to her and Jay's assistant, Freddie, ignoring Hetty's warning not to get too close to \"the help\"; Sasappis strikes up a romance with Jessica, the ghost who lives in Freddie's car."
+      },
+      {
+        "id": "tvmaze:2468634",
+        "title": "Ghost Hunter",
+        "season": 2,
+        "episode": 13,
+        "released": "2023-02-02",
+        "overview": "Sam and Jay's assistant, Freddie, purchase ghost-hunting equipment when suspicious activity leads him to theorize the bed-and-breakfast is haunted; Sasappis risks losing his relationship with Jessica when Freddie sells his car."
+      },
+      {
+        "id": "tvmaze:2475807",
+        "title": "Trevor's Body",
+        "season": 2,
+        "episode": 14,
+        "released": "2023-02-09",
+        "overview": "Trevor receives disturbing news about his parents when they come to collect his newly discovered remains; Isaac and Nigel's relationship hits a roadblock."
+      },
+      {
+        "id": "tvmaze:2476069",
+        "title": "A Date to Remember",
+        "season": 2,
+        "episode": 15,
+        "released": "2023-02-16",
+        "overview": "Sam and Jay help Thorfinn create a perfect first date with Flower; Hetty feels slighted by the ghosts' new housemate, Nigel."
+      },
+      {
+        "id": "tvmaze:2484300",
+        "title": "Isaac's Book",
+        "season": 2,
+        "episode": 16,
+        "released": "2023-03-02",
+        "overview": "Sam struggles to keep Isaac's spirits up after she hits a wall trying to publish a biography about him; Trevor and Hetty conspire to keep their relationship hidden; Thor tries to prove to Flower that he can control his anger."
+      },
+      {
+        "id": "tvmaze:2488637",
+        "title": "Weekend from Hell",
+        "season": 2,
+        "episode": 17,
+        "released": "2023-03-09",
+        "overview": "Elias Woodstone returns to Woodstone seeking Hetty's forgiveness so he can stay out of hell for good; Jay struggles to repeat an inspired culinary creation that he came up with after walking through Flower."
+      },
+      {
+        "id": "tvmaze:2498605",
+        "title": "Alberta's Descendant",
+        "season": 2,
+        "episode": 18,
+        "released": "2023-03-30",
+        "overview": "Alberta is thrilled when a living relative, Alicia, visits Woodstone to learn more about her; Nigel uses his knowledge of Trevor and Hetty's secret tryst to try to blackmail Hetty."
+      },
+      {
+        "id": "tvmaze:2502908",
+        "title": "Ghost Father of the Bride",
+        "season": 2,
+        "episode": 19,
+        "released": "2023-04-13",
+        "overview": "After learning that Pete's daughter, Laura, is getting married, Sam, at Pete's behest, tries to convince her to hold her wedding at the Woodstone bed-and-breakfast; Alberta and Isaac team up to solve the mystery of what happened to Crash's head."
+      },
+      {
+        "id": "tvmaze:2498918",
+        "title": "Woodstone's Hottest Couple",
+        "season": 2,
+        "episode": 20,
+        "released": "2023-04-27",
+        "overview": "When teen ghost Stephanie, who lives in the attic, awakens to find that her crush, Trevor, is now dating Hetty, she decides to sabotage all of the relationships at Woodstone."
+      },
+      {
+        "id": "tvmaze:2505981",
+        "title": "Whodunnit",
+        "season": 2,
+        "episode": 21,
+        "released": "2023-05-04",
+        "overview": "Sam, Jay and the ghosts go into detective mode when Sam's podcast editor gives her one last episode to wrap up Alberta's murder; Trevor, Flower and Pete discover an email from a Nigerian prince asking for help."
+      },
+      {
+        "id": "tvmaze:2505984",
+        "title": "The Heir",
+        "season": 2,
+        "episode": 22,
+        "released": "2023-05-11",
+        "overview": "When a woman shows up claiming to be the rightful heir to Woodstone Mansion, Sam and Jay enlist the help of a lawyer; Isaac tries to decide how to spend half of Sam's advance on his autobiography; an event could dramatically change life at the manor."
+      },
+      {
+        "id": "tvmaze:2687414",
+        "title": "The Owl",
+        "season": 3,
+        "episode": 1,
+        "released": "2024-02-15",
+        "overview": "Sam, Jay and the remaining ghosts unravel the mystery of which ghost passed into the afterlife; Sam and Jay must relocate an owl to do construction on the barn to turn it into Jay's restaurant."
+      },
+      {
+        "id": "tvmaze:2744895",
+        "title": "Man of Your Dreams",
+        "season": 3,
+        "episode": 2,
+        "released": "2024-02-22",
+        "overview": "Sam learns that one of the ghosts' powers is to enter the dreams of the living and influence their decisions; two of the ghosts think they've learned the secret to moving on."
+      },
+      {
+        "id": "tvmaze:2744896",
+        "title": "He Sees Dead People",
+        "season": 3,
+        "episode": 3,
+        "released": "2024-02-29",
+        "overview": "When Jay's sister and her boyfriend visit Woodstone Mansion, Eric reveals a major change that took place after his near-death experience there over Christmas."
+      },
+      {
+        "id": "tvmaze:2744897",
+        "title": "Halloween 3: The Guest Who Wouldn't Leave",
+        "season": 3,
+        "episode": 4,
+        "released": "2024-03-07",
+        "overview": "Pete's ex-wife, Carol, shows up at Woodstone Mansion during Sam and Jay's Halloween party, where they're trying to impress some cool friends; the ghosts hope to bring Flower back with a seance."
+      },
+      {
+        "id": "tvmaze:2748537",
+        "title": "The Silent Partner",
+        "season": 3,
+        "episode": 5,
+        "released": "2024-03-14",
+        "overview": "A big investor backs out of Sam and Jay's restaurant, leaving them to turn to the one ghost who has money -- Isaac."
+      },
+      {
+        "id": "tvmaze:2748538",
+        "title": "Hello, Brother",
+        "season": 3,
+        "episode": 6,
+        "released": "2024-04-04",
+        "overview": "Trevor's brother, Jeremy, checks into Woodstone after discovering a loophole in the Woodstone Rewards Points program."
+      },
+      {
+        "id": "tvmaze:2768888",
+        "title": "The Polterguest",
+        "season": 3,
+        "episode": 7,
+        "released": "2024-04-11",
+        "overview": "Alberta hits it off with a poltergeist who is attached to a newly arrived Woodstone guest; Isaac and Nigel have separate bachelor parties."
+      },
+      {
+        "id": "tvmaze:2748539",
+        "title": "Holes Are Bad",
+        "season": 3,
+        "episode": 8,
+        "released": "2024-04-18",
+        "overview": "When Sam and Jay leave the ghosts home alone for the weekend in an attempt to have a romantic getaway, shocking revelations are made about two of Woodstone's beloved spirits."
+      },
+      {
+        "id": "tvmaze:2809352",
+        "title": "The Traveling Agent",
+        "season": 3,
+        "episode": 9,
+        "released": "2024-04-25",
+        "overview": "Pete discovers a power that he never knew he had, one that brings him closer to his buddy Jay."
+      },
+      {
+        "id": "tvmaze:2818302",
+        "title": "Isaac's Wedding",
+        "season": 3,
+        "episode": 10,
+        "released": "2024-05-02",
+        "overview": "Isaac's wedding day jitters are exacerbated by the arrival of a surprise guest."
+      },
+      {
+        "id": "tvmaze:2941340",
+        "title": "Patience",
+        "season": 4,
+        "episode": 1,
+        "released": "2024-10-17",
+        "overview": "While Sam and the ghosts race to find him, Isaac comes face to face with Puritan ghost Patience for the first time since she was lost in the dirt."
+      },
+      {
+        "id": "tvmaze:3001594",
+        "title": "Sam's Dad",
+        "season": 4,
+        "episode": 2,
+        "released": "2024-10-24",
+        "overview": "When Sam's dad comes to Woodstone for a visit, Patience puts their father-daughter relationship to the test; Isaac must deal with the fallout from his breakup with Nigel; Thor and Flower handle an awkward situation with Nancy."
+      },
+      {
+        "id": "tvmaze:3010060",
+        "title": "Halloween 4: The Witch",
+        "season": 4,
+        "episode": 3,
+        "released": "2024-10-31",
+        "overview": "The ghosts, seeking some excitement during a low-key Halloween, join Patience in putting Sam on a witch trial."
+      },
+      {
+        "id": "tvmaze:3010061",
+        "title": "The Work Retreat",
+        "season": 4,
+        "episode": 4,
+        "released": "2024-11-07",
+        "overview": "Trevor, who has catfished his way into a remote financial analyst job, is in hot water when he's summoned to a mandatory in-person work retreat; Hetty and Sass start a rumor about Pete."
+      },
+      {
+        "id": "tvmaze:3010062",
+        "title": "A Star Is Dead",
+        "season": 4,
+        "episode": 5,
+        "released": "2024-11-14",
+        "overview": "Alberta offers to help Sam prepare for an audition for a community theater production; Sass finds a new reason to interfere in Jay's dreams."
+      },
+      {
+        "id": "tvmaze:3010063",
+        "title": "The Primary Source",
+        "season": 4,
+        "episode": 6,
+        "released": "2024-12-05",
+        "overview": "When Sam's book publisher requires source material for her biography on Isaac, she and Jay take a field trip to find a diary he claims he hid when he was alive."
+      },
+      {
+        "id": "tvmaze:3035595",
+        "title": "Sad Farnsby",
+        "season": 4,
+        "episode": 7,
+        "released": "2024-12-12",
+        "overview": "When Sam accidentally creates a rift between Sam and Jay's neighbors, the Farnsbys, Henry Farnsby moves into Woodstone B&amp;B; Isaac and Nigel battle over a belated wedding present."
+      },
+      {
+        "id": "tvmaze:3031773",
+        "title": "A Very Arondekar Christmas Part 1",
+        "season": 4,
+        "episode": 8,
+        "released": "2024-12-19",
+        "overview": "A leaky water heater mishap threatens to ruin holiday plans as Sam and Jay prepare to host Jay's hard-to-please dad, difficult-to-impress mom and sister Bela."
+      },
+      {
+        "id": "tvmaze:3031774",
+        "title": "A Very Arondekar Christmas Part 2",
+        "season": 4,
+        "episode": 9,
+        "released": "2024-12-19",
+        "overview": "A leaky water heater mishap threatens to ruin holiday plans as Sam and Jay prepare to host Jay's hard-to-please dad, difficult-to-impress mom and sister Bela."
+      },
+      {
+        "id": "tvmaze:3052081",
+        "title": "The Not-So-Silent Partner",
+        "season": 4,
+        "episode": 10,
+        "released": "2025-01-30",
+        "overview": "Sam and Jay are forced to cover when Mark demands to meet the silent investor in Jay's restaurant who has been holding up construction."
+      },
+      {
+        "id": "tvmaze:3107639",
+        "title": "Thorapy 2: Abandonment Issues",
+        "season": 4,
+        "episode": 11,
+        "released": "2025-02-06",
+        "overview": "Thor returns to therapy to work through his angst over being abandoned by his Viking shipmates. Also, Jay's sister, Bela, attempts to help him with the restaurant."
+      },
+      {
+        "id": "tvmaze:3122833",
+        "title": "It's the End of the World as We Know It and What Were We Talking About?",
+        "season": 4,
+        "episode": 12,
+        "released": "2025-02-13",
+        "overview": "Flower interferes with the opening of Jay's restaurant based on a prophecy from her old cult leader."
+      },
+      {
+        "id": "tvmaze:3122834",
+        "title": "Ghostfellas",
+        "season": 4,
+        "episode": 13,
+        "released": "2025-02-20",
+        "overview": "Jay angers a local restaurateur when he uses a recipe at his restaurant that was given to him by Pete."
+      },
+      {
+        "id": "tvmaze:3128174",
+        "title": "Alexander Hamilton and the Ruffle Kerfuffle",
+        "season": 4,
+        "episode": 14,
+        "released": "2025-02-27",
+        "overview": "When Jay becomes obsessed with the success of a fellow chef, Isaac serves up a cautionary tale about his own rivalry with Alexander Hamilton. Also, Elias Woodstone returns from hell with a limited-time offer for the ghosts."
+      },
+      {
+        "id": "tvmaze:3128175",
+        "title": "The Bachelorette Party",
+        "season": 4,
+        "episode": 15,
+        "released": "2025-03-06",
+        "overview": "When Alberta's descendant hosts a bachelorette party at Woodstone Mansion, Alberta becomes suspicious of her fiancé. Also, Jay is excited about a positive review on his restaurant."
+      },
+      {
+        "id": "tvmaze:3128176",
+        "title": "St. Hetty's Day",
+        "season": 4,
+        "episode": 16,
+        "released": "2025-03-13",
+        "overview": "Hetty's ghost power is revealed when Jay's cousin Sunil visits Woodstone Mansion on St. Patrick's Day."
+      },
+      {
+        "id": "tvmaze:3164170",
+        "title": "His Girl Shiki",
+        "season": 4,
+        "episode": 17,
+        "released": "2025-04-03",
+        "overview": "Pete makes good on his promise to find someone for Sasappis by bringing in a wisecracking 1940s screenwriter who also has the ability to roam."
+      },
+      {
+        "id": "tvmaze:3139947",
+        "title": "Smooching and Smushing",
+        "season": 4,
+        "episode": 18,
+        "released": "2025-04-10",
+        "overview": "Jay, Sam and the ghosts attempt to fix the ghost trap in hopes of getting Sasappis across the ghost boundary to visit his longtime crush, Shiki."
+      },
+      {
+        "id": "tvmaze:3180968",
+        "title": "Pinkus Returns",
+        "season": 4,
+        "episode": 19,
+        "released": "2025-04-17",
+        "overview": "When Trevor's former co-worker, Pinkus, and his daughter, Abby, show up at Woodstone Mansion, Trevor gets the surprise of his afterlife."
+      },
+      {
+        "id": "tvmaze:3180969",
+        "title": "I Know What You Did Thirty-Seven Summers Ago",
+        "season": 4,
+        "episode": 20,
+        "released": "2025-04-24",
+        "overview": "When Sam and Jay host a fundraiser for the mayor to earn a favor for Jay's restaurant, they learn of his bizarre connection to one of Woodstone's ghosts."
+      },
+      {
+        "id": "tvmaze:3180970",
+        "title": "Kyle",
+        "season": 4,
+        "episode": 21,
+        "released": "2025-05-01",
+        "overview": "Sam and Jay's relationship is tested when Kyle, a handsome living who shares Sam's ability to see ghosts, arrives at Woodstone B&amp;B."
+      },
+      {
+        "id": "tvmaze:3180971",
+        "title": "The Devil Went Down to Woodstone",
+        "season": 4,
+        "episode": 22,
+        "released": "2025-05-08",
+        "overview": "Sam and Jay host a big party for the launch of Sam and Isaac's vampire book."
+      },
+      {
+        "id": "tvmaze:3301120",
+        "title": "Soul Custody",
+        "season": 5,
+        "episode": 1,
+        "released": "2025-10-16",
+        "overview": "Sam, Jay and the ghosts attempt to extricate Jay from his deal with Elias Woodstone, the devil; Isaac helps Patience through a crisis of confidence; Pete and Alberta navigate the fallout from their kiss."
+      },
+      {
+        "id": "tvmaze:3379716",
+        "title": "Viking Wedding",
+        "season": 5,
+        "episode": 2,
+        "released": "2025-10-23",
+        "overview": "Sam and Jay try to impress their trendy city friends; a misplaced bookcase threatens Thor's ability to deliver an important speech; Isaac rallies the ghosts to help the couple navigate a tough customer service ordeal."
+      },
+      {
+        "id": "tvmaze:3387983",
+        "title": "Halloween 5: The Mummy",
+        "season": 5,
+        "episode": 3,
+        "released": "2025-10-30",
+        "overview": "Sam and Jay's Halloween takes a spooky turn when they accidentally unleash a mummy ghost."
+      },
+      {
+        "id": "tvmaze:3393031",
+        "title": "Bring Your Daughter to Work Day",
+        "season": 5,
+        "episode": 4,
+        "released": "2025-11-06",
+        "overview": "Trevor finds a way to spend more time with his newly discovered daughter, Abby, by getting her at job at Jay's restaurant."
+      },
+      {
+        "id": "tvmaze:3400594",
+        "title": "T Daddy",
+        "season": 5,
+        "episode": 5,
+        "released": "2025-11-13",
+        "overview": "Trevor's relationship with his daughter is strained when he pushes her to follow a career in finance over poetry; Jay confronts labor unrest at the restaurant."
+      },
+      {
+        "id": "tvmaze:3400595",
+        "title": "Planes, Shanes and Automobiles",
+        "season": 5,
+        "episode": 6,
+        "released": "2025-11-20",
+        "overview": "Sam and Pete get on each other's nerves during a book tour road trip; things reach a breaking point when an airline strike threatens their ability to get home in time for Thanksgiving."
+      },
+      {
+        "id": "tvmaze:3400602",
+        "title": "The Proposal",
+        "season": 5,
+        "episode": 7,
+        "released": "2025-12-04",
+        "overview": "Sam helps Eric plan the perfect proposal for Bela, until an encounter with Sasappis plants doubt in Bela's mind."
+      },
+      {
+        "id": "tvmaze:3400603",
+        "title": "The Life and Times of Esther Greene",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-12-11",
+        "overview": "Now a successful podcaster, Todd Pearlman returns to profile Sam and Isaac's book, but becomes obsessed with Jay; Pete tries to get to the bottom of why Alberta changed her name, forcing her to admit a hidden truth."
+      },
+      {
+        "id": "tvmaze:3400604",
+        "title": "It's a Wonderful Christmas Carol: Part One",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3400605",
+        "title": "It's a Wonderful Christmas Carol: Part Two",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-12-18",
+        "overview": "Sam's big Christmas Eve TV interview with Walter Storm takes an unexpected turn; Sam gets a glimpse of what her life would be like if she could never see the ghosts."
+      },
+      {
+        "id": "tvmaze:3442981",
+        "title": "TBA",
+        "season": 5,
+        "episode": 11,
+        "released": "2026-02-26",
+        "overview": ""
+      }
+    ]
+  }
+}

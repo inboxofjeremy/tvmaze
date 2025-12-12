@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "id": "tvmaze:70960",
+    "type": "series",
+    "name": "Trivial Pursuit",
+    "description": "The all-time classic trivia game Trivial Pursuit is reimagined in a question-packed entertainment format. Gameplay takes place on a giant version of the iconic Trivial Pursuit game board, as contestants battle it out over a range of play-along question categories to win wedges and beat each other to the center. The victor then takes on a dramatic finale against the clock to claim the big money jackpot.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/536/1341517.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/536/1341517.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2921880",
+        "title": "The Pursuit",
+        "season": 1,
+        "episode": 1,
+        "released": "2024-10-03",
+        "overview": "Hosted by LeVar Burton, players compete in 3 rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000"
+      },
+      {
+        "id": "tvmaze:3008254",
+        "title": "Checkmate",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-10-10",
+        "overview": "A chess master faces off against trivia masters in three rounds of trivia in the six, iconic Trivial Pursuit categories in the hopes of winning $20,000."
+      },
+      {
+        "id": "tvmaze:3014739",
+        "title": "Battle of the Teachers",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-10-17",
+        "overview": "Teachers and others battle in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000."
+      },
+      {
+        "id": "tvmaze:3020635",
+        "title": "Squidword",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-10-24",
+        "overview": "A math teacher looks to take advantage of his squid tattoo in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000."
+      },
+      {
+        "id": "tvmaze:3027900",
+        "title": "The T.P. Open",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-10-31",
+        "overview": "A tennis enthusiast looks to win big on center court while competing in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000."
+      },
+      {
+        "id": "tvmaze:3031275",
+        "title": "Take That, Coach K!",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-11-07",
+        "overview": "A college basket hopeful looks to slam dunk the competition in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000."
+      },
+      {
+        "id": "tvmaze:3035673",
+        "title": "NXT Superstars",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-11-14",
+        "overview": "The superstars of NXT Wrestling drop by to tag team some trivia with host LeVar Burton while players compete for the $20,000 prize."
+      },
+      {
+        "id": "tvmaze:3041700",
+        "title": "Miss Trivial Pursuit",
+        "season": 1,
+        "episode": 8,
+        "released": "2024-11-21",
+        "overview": "A former beauty queen looks to take home the crown in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000."
+      },
+      {
+        "id": "tvmaze:3058770",
+        "title": "Easy Rider",
+        "season": 1,
+        "episode": 9,
+        "released": "2024-12-02",
+        "overview": "A motorcycle enthusiast looks to ride home with $20,000 competing in three rounds of trivia in the six iconic Trivial Pursuit categories."
+      },
+      {
+        "id": "tvmaze:3058774",
+        "title": "Bar Trivia",
+        "season": 1,
+        "episode": 10,
+        "released": "2024-12-05",
+        "overview": "A lawyer takes on opponents in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000."
+      },
+      {
+        "id": "tvmaze:3064484",
+        "title": "Bend and Snap",
+        "season": 1,
+        "episode": 11,
+        "released": "2024-12-12",
+        "overview": "Trivia whizzes compete in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000."
+      },
+      {
+        "id": "tvmaze:3069043",
+        "title": "Is There a Doctor in the House?",
+        "season": 1,
+        "episode": 12,
+        "released": "2024-12-19",
+        "overview": "A doctor tests her patience as she competes in three rounds of trivia in the six iconic Trivial Pursuit categories in the hopes of winning $20,000."
+      },
+      {
+        "id": "tvmaze:3078316",
+        "title": "Trivial Dispute",
+        "season": 1,
+        "episode": 13,
+        "released": "2024-12-26",
+        "overview": "Hosted by LeVar Burton (\"Reading Rainbow,\" \"Roots\"), a paralegal, project manager, and professor compete in three rounds of trivia in the six iconic Trivial Pursuit categories for a chance at winning $20,000."
+      },
+      {
+        "id": "tvmaze:3448077",
+        "title": "TBA",
+        "season": 2,
+        "episode": 1,
+        "released": "2026-01-22",
+        "overview": ""
+      }
+    ]
+  }
+}

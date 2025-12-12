@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:76886",
+    "type": "series",
+    "name": "The Hill",
+    "description": "The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/518/1296745.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/518/1296745.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3462764",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

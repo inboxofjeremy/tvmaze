@@ -1,0 +1,668 @@
+{
+  "meta": {
+    "id": "tvmaze:46213",
+    "type": "series",
+    "name": "Power Book IV: Force",
+    "description": "Tommy Egan cuts all ties and puts New York in his rearview mirror for good when he arrives in Chicago and sets his sights on becoming the biggest drug dealer the Second City has ever seen.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/474/1187423.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/474/1187423.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "While some relationships are mended, other brewing tensions reach their boiling point, setting the stage for unlikely allies."
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": "While some relationships are mended, other brewing tensions reach their boiling point, setting the stage for unlikely allies."
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3444208",
+        "title": "The Last Dance",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-12-05",
+        "overview": "Diamond and Jenard strengthen their relationship over a common enemy; while Tommy ties up a loose end."
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2214822",
+        "title": "A Short Fuse and a Long Memory",
+        "season": 1,
+        "episode": 1,
+        "released": "2022-02-06",
+        "overview": "On his journey to LA, Tommy stops in Chicago, only to discover shocking news about his family; Tommy must decide whether to force his skeletons back in the closet, or put down roots in the Windy City."
+      },
+      {
+        "id": "tvmaze:2271405",
+        "title": "King of the Goddamn Hill",
+        "season": 1,
+        "episode": 2,
+        "released": "2022-02-13",
+        "overview": "When JP receives an unexpected warning, Tommy comes to his aid; determined to lend a helping hand, Tommy approaches a local dealer to propose a business arrangement, but their introduction takes a turn for the worse."
+      },
+      {
+        "id": "tvmaze:2271406",
+        "title": "Fire Starter",
+        "season": 1,
+        "episode": 3,
+        "released": "2022-02-20",
+        "overview": "Tommy finds himself face to face with a ghost from his past; the reunion unearths a discovery when Tommy stumbles across hidden product; Tommy brokers a sit-down between rivals and learns the true nature of the feud."
+      },
+      {
+        "id": "tvmaze:2276924",
+        "title": "Storm Clouds",
+        "season": 1,
+        "episode": 4,
+        "released": "2022-02-27",
+        "overview": "Tommy's former foe-turned-friend is at the mercy of a notorious criminal organization that resurfaces to reclaim what's theirs; the group is led by an enemy from Tommy's life back in New York who is still out for blood."
+      },
+      {
+        "id": "tvmaze:2284802",
+        "title": "Take Me Home",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-03-06",
+        "overview": "Tommy is offered a profitable solution that may be the answer to his troubles from an unlikely source; intrigued, Tommy is informed he must first address a problem threatening the new venture before it begins."
+      },
+      {
+        "id": "tvmaze:2284806",
+        "title": "This is Who We Are",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-03-13",
+        "overview": "Tommy and his new business partner recruit soldiers to take over the drug game in Chicago; Tommy finds a lucrative location for distribution that doesn't fit with his partner's vision for a more upscale clientele."
+      },
+      {
+        "id": "tvmaze:2291497",
+        "title": "Outrunning a Ghost",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-03-20",
+        "overview": "Tommy's new product is spreading like wildfire across Chicago. The current success isn't good enough for Tommy. He wants to own the entire city and is determined to figure out how to do so, no matter the cost."
+      },
+      {
+        "id": "tvmaze:2291498",
+        "title": "He Ain't Heavy",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-03-27",
+        "overview": "Tommy and his crew can barely keep up with the demand and they need more help to increase their supply; More shocking details about Tommy's family surface, and he realizes the news could potentially affect his business."
+      },
+      {
+        "id": "tvmaze:2300459",
+        "title": "Trust",
+        "season": 1,
+        "episode": 9,
+        "released": "2022-04-10",
+        "overview": "Vic faces a devastating loss; Walter is ready to go to war and sends for heavy hitters; Tommy soon realizes he needs more power but is turned down by one of his closest allies and is forced to turn to an unlikely resource."
+      },
+      {
+        "id": "tvmaze:2309510",
+        "title": "Family Business",
+        "season": 1,
+        "episode": 10,
+        "released": "2022-04-17",
+        "overview": "Decisions are made by those closest to Tommy, which could leave him powerless; when the gangs face off, truths come to light, shifting the power of the drug game; this battle may be over, but the war is far from won."
+      },
+      {
+        "id": "tvmaze:2555478",
+        "title": "Tommy's Back",
+        "season": 2,
+        "episode": 1,
+        "released": "2023-09-01",
+        "overview": "Tommy and Diamond hustle to keep CBI's game ahead of Jenard's new faction in the streets, while Tommy makes solo moves to avenge Liliana's death. All the while, Tommy hasn't forgotten his ultimate goal to become a kingpin."
+      },
+      {
+        "id": "tvmaze:2619731",
+        "title": "Great Consequence",
+        "season": 2,
+        "episode": 2,
+        "released": "2023-09-08",
+        "overview": "Jenard's crew seeks revenge as Tommy learns of a rivalry between Miguel and the Serbs that he and Diamond leverage to CBI's advantage. Meanwhile, the Feds pursue a task force with Tommy at the center of the investigation."
+      },
+      {
+        "id": "tvmaze:2619732",
+        "title": "War & Ice Cream",
+        "season": 2,
+        "episode": 3,
+        "released": "2023-09-15",
+        "overview": "Tommy and Diamond expand their business to prisons, the Feds put together a task force to take down CBI, and Jenard struggles to maintain control; Tommy faces off with Walter and gets closer to avenging Liliana's death."
+      },
+      {
+        "id": "tvmaze:2619733",
+        "title": "The Devil's in the Details",
+        "season": 2,
+        "episode": 4,
+        "released": "2023-09-22",
+        "overview": "Tommy and Diamond keep dangerous secrets from each other, Jenard clashes with his crew, and Vic teams up with Claudia one last time; D-Mac ends up entangled deeper in the drug game than he ever intended."
+      },
+      {
+        "id": "tvmaze:2619734",
+        "title": "Crown Vic",
+        "season": 2,
+        "episode": 5,
+        "released": "2023-09-29",
+        "overview": "Heightened police presence threatens Tommy and Diamond's bottom line, and they form a coalition with a rival gang; Jenard hits rock bottom, and the Flynn family loyalties are tested with devastating results."
+      },
+      {
+        "id": "tvmaze:2655077",
+        "title": "Here There Be Monsters",
+        "season": 2,
+        "episode": 6,
+        "released": "2023-10-06",
+        "overview": "Tommy and Diamond expand their coalition by bringing Vic and Jenard into CBI; Mirković warns Tommy against encroaching on Serb territory, and makes good on his threat with catastrophic results."
+      },
+      {
+        "id": "tvmaze:2660945",
+        "title": "Chicago Is Heating Up!",
+        "season": 2,
+        "episode": 7,
+        "released": "2023-10-13",
+        "overview": "Tommy and Diamond continue gaining territory behind Miguel's back, but Diamond is pulled in other directions; Jenard gets more than he bargained for; Tommy puts Vic's loyalty to the test."
+      },
+      {
+        "id": "tvmaze:2660946",
+        "title": "Dead Reckoning",
+        "season": 2,
+        "episode": 8,
+        "released": "2023-10-20",
+        "overview": "Tommy makes bold moves to connect CBI directly with the cartel as he hustles to stay ahead of the many adversaries out for his blood; Diamond is forced to make a decision that has dire consequences."
+      },
+      {
+        "id": "tvmaze:2669996",
+        "title": "No Loose Ends",
+        "season": 2,
+        "episode": 9,
+        "released": "2023-11-03",
+        "overview": "Tommy and Diamond suspect a snitch and put their inner circle to the test. Mireya gives Tommy a key piece of information. The war between Miguel and Mirkovic comes to a head."
+      },
+      {
+        "id": "tvmaze:2669997",
+        "title": "Power Powder Respect",
+        "season": 2,
+        "episode": 10,
+        "released": "2023-11-10",
+        "overview": "Tommy orchestrates the grand finale of his long game to take over Chicago's drug world. When he is faced with devastating personal sacrifices, he finds that he might just lose more than he ever stood to gain."
+      },
+      {
+        "id": "tvmaze:3363995",
+        "title": "Do or Die",
+        "season": 3,
+        "episode": 1,
+        "released": "2025-11-07",
+        "overview": "With some of his biggest obstacles off the map, Tommy faces new opportunities and challenges in his quest to take over the Chicago drug game."
+      },
+      {
+        "id": "tvmaze:3433470",
+        "title": "A Seat at the Table",
+        "season": 3,
+        "episode": 2,
+        "released": "2025-11-14",
+        "overview": "Tommy's ambition sets him on a dangerous path, testing his alliances and endangering those close to him."
+      },
+      {
+        "id": "tvmaze:3433471",
+        "title": "There's Always a Price to Pay",
+        "season": 3,
+        "episode": 3,
+        "released": "2025-11-21",
+        "overview": "As Tommy does damage control with allies, Diamond and Jenard devise a plan to deal with D-Mac, and Vic plots his next move."
+      },
+      {
+        "id": "tvmaze:3440544",
+        "title": "Time To See The King",
+        "season": 3,
+        "episode": 4,
+        "released": "2025-11-28",
+        "overview": "Tommy finds a way to protect D-Mac, and Jenard mends fences to please Shanti."
+      },
+      {
+        "id": "tvmaze:3444208",
+        "title": "The Last Dance",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-12-05",
+        "overview": "Diamond and Jenard strengthen their relationship over a common enemy; while Tommy ties up a loose end."
+      },
+      {
+        "id": "tvmaze:3444210",
+        "title": "Asset Forfeiture",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-12-12",
+        "overview": "Tommy and Diamond disagree on business, while Jenard takes the opportunity to introduce another hustle to CBI; Stacy does damage control to salvage her campaign, and Mireya contemplates her future."
+      },
+      {
+        "id": "tvmaze:3444211",
+        "title": "Lines in the Sand",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448772",
+        "title": "Build Back Better",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448773",
+        "title": "TBA",
+        "season": 3,
+        "episode": 9,
+        "released": "2026-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448774",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-01-16",
+        "overview": ""
+      }
+    ]
+  }
+}

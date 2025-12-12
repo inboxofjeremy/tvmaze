@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:10598",
+    "type": "series",
+    "name": "Varney & Company",
+    "description": "Varney &amp; Company is hosted by veteran business journalist Stuart Varney, noted for his distinctive British accent, hosts this weekday morning program on which he and his guests discuss the implications of political news on the business world, and also how the news of the day affects personal finances. The company Varney keeps includes regular contributors Charles Payne, Sandra Smith and Elizabeth MacDonald, who weigh in on such issues as government spending, health care and bailouts.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/35/89265.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/35/89265.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3456606",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

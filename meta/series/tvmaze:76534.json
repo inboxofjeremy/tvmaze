@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:76534",
+    "type": "series",
+    "name": "Morning in America",
+    "description": "Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/519/1297794.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/519/1297794.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3462697",
+        "title": "Episode 248",
+        "season": 2025,
+        "episode": 248,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

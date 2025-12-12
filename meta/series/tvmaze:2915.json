@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:2915",
+    "type": "series",
+    "name": "Motorhead Garage",
+    "description": "The most widely repsected, and original stars of 'how-to mechanic TV,'' Sam Memmolo and Dave Bowman, formerly of Two Guys Garage, Shade Tree Mechanic, and Crank and Chrome, are the hosts of the \"Motorhead Garage\" weekly series. All rides are represented throughout. You will see amazing installations in Sam and Dave's garage, and as they take their skills on-location visiting companies nationwide, and Canada. The format is the top platform for Industry Innovators to be represented in front of more viewers at one time, than any other media. Each episode goes in-depth with industry pros, focusing on all types of rides, including 'reefers', hot rods, off road, and race cars. Each segment tailors specifically to one, or more important industry aspect, including latest innovations, specialty parts, motors, anything to do with mechanics, extreme outfitting, vehicle electronics, aftermarket cosmetics, and accessories. Sam and Dave go hands-on turning wrenches along with each specialist who visits their Motorhead Garage!",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/15/39914.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/15/39914.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3454459",
+        "title": "Protect Your Investment",
+        "season": 13,
+        "episode": 49,
+        "released": "2025-12-07",
+        "overview": ""
+      }
+    ]
+  }
+}

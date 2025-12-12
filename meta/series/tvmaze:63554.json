@@ -1,0 +1,972 @@
+{
+  "meta": {
+    "id": "tvmaze:63554",
+    "type": "series",
+    "name": "Firebuds",
+    "description": "Set in a fantastical world where talking vehicles live, work and play with the humans who drive them, Firebuds follows a boy named Bo and his fire engine best friend Flash as they team up with their first responder friends to help others in their community with problems big and small.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047493.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/418/1047493.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3456095",
+        "title": "The Tag Along Turtle",
+        "season": 3,
+        "episode": 23,
+        "released": "2025-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456096",
+        "title": "Noche Buena Buds",
+        "season": 3,
+        "episode": 24,
+        "released": "2025-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2374691",
+        "title": "Car in a Tree",
+        "season": 1,
+        "episode": 1,
+        "released": "2022-09-21",
+        "overview": "The Firebuds must save Piston after he gets stuck in a tree."
+      },
+      {
+        "id": "tvmaze:2380644",
+        "title": "Dalmatian Day",
+        "season": 1,
+        "episode": 2,
+        "released": "2022-09-21",
+        "overview": "The Firebuds have to round up four loose Dalmatian puppies at the fire station open house."
+      },
+      {
+        "id": "tvmaze:2380645",
+        "title": "Hubcap Heist",
+        "season": 1,
+        "episode": 3,
+        "released": "2022-09-21",
+        "overview": "Bo and the Firebuds must stop a pair of wily art thieves."
+      },
+      {
+        "id": "tvmaze:2380646",
+        "title": "Food Truck Fiasco",
+        "season": 1,
+        "episode": 4,
+        "released": "2022-09-21",
+        "overview": "The Firebuds help Fernando the Food Truck get to his café in time for the lunch rush."
+      },
+      {
+        "id": "tvmaze:2380647",
+        "title": "Treehouse Trouble",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-09-21",
+        "overview": "The Firebuds work together to build a backyard treehouse"
+      },
+      {
+        "id": "tvmaze:2380648",
+        "title": "The Getaway Car That Got Away",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-09-21",
+        "overview": "The Firebuds track down a getaway car that they accidentally helped get away."
+      },
+      {
+        "id": "tvmaze:2380649",
+        "title": "Picnic Pile-Up",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-09-21",
+        "overview": "Violet and Axl's picnic with their families get interrupted by a surprise emergency."
+      },
+      {
+        "id": "tvmaze:2380650",
+        "title": "Duo Dash",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-09-21",
+        "overview": "Axl is nervous about doing well in her school's Duo Dash Speed Race."
+      },
+      {
+        "id": "tvmaze:2380651",
+        "title": "The Not-So Haunted House",
+        "season": 1,
+        "episode": 9,
+        "released": "2022-09-21",
+        "overview": "The Firebuds host a not-so-haunted house for little cars, but Iggy and Rod crash the party."
+      },
+      {
+        "id": "tvmaze:2380652",
+        "title": "Halloween Heroes",
+        "season": 1,
+        "episode": 10,
+        "released": "2022-09-21",
+        "overview": "The Firebuds stop a Halloween candy bandit."
+      },
+      {
+        "id": "tvmaze:2399594",
+        "title": "Sleepover Stakeout",
+        "season": 1,
+        "episode": 11,
+        "released": "2022-09-21",
+        "overview": "Jayden plans a sleepover stakeout to catch the thief of his new invention."
+      },
+      {
+        "id": "tvmaze:2399595",
+        "title": "Rescue Club",
+        "season": 1,
+        "episode": 12,
+        "released": "2022-09-21",
+        "overview": "Carly wants to join the school's Rescue Club, even though she's not a rescue vehicle like the Firebuds."
+      },
+      {
+        "id": "tvmaze:2399596",
+        "title": "Cliffhanger",
+        "season": 1,
+        "episode": 13,
+        "released": "2022-09-21",
+        "overview": "The Firebuds must rescue Iggy and Rod after their recklessness lands them on the narrow ledge of a cliff."
+      },
+      {
+        "id": "tvmaze:2399597",
+        "title": "The Very First Fire",
+        "season": 1,
+        "episode": 14,
+        "released": "2022-09-21",
+        "overview": "Bo and the Firebuds take on their very first fire at the park playground."
+      },
+      {
+        "id": "tvmaze:2399598",
+        "title": "Marsh Mayhem",
+        "season": 1,
+        "episode": 15,
+        "released": "2022-09-21",
+        "overview": "Kid reporter, June, gets famous at school after reporting a sighting of an urban legend."
+      },
+      {
+        "id": "tvmaze:2399599",
+        "title": "The Art of Friendship",
+        "season": 1,
+        "episode": 16,
+        "released": "2022-09-21",
+        "overview": "The Firebuds create a giant mobile to cheer up kids in the hospital."
+      },
+      {
+        "id": "tvmaze:2399600",
+        "title": "Lights Out",
+        "season": 1,
+        "episode": 17,
+        "released": "2022-09-21",
+        "overview": "The Firebuds rally their community to exchange emergency supplies during a blackout."
+      },
+      {
+        "id": "tvmaze:2399601",
+        "title": "Handle with Car",
+        "season": 1,
+        "episode": 18,
+        "released": "2022-09-21",
+        "overview": "The Firebuds help relocate fragile lizard eggs to a preserve."
+      },
+      {
+        "id": "tvmaze:2399602",
+        "title": "Transmission Impossible",
+        "season": 1,
+        "episode": 19,
+        "released": "2022-09-21",
+        "overview": "When Gearbox Grove's 100th Van-iversity cake is stolen by Wayne and Wiley Riley, the Firebuds must rescue it."
+      },
+      {
+        "id": "tvmaze:2399603",
+        "title": "Carkour",
+        "season": 1,
+        "episode": 20,
+        "released": "2022-09-21",
+        "overview": "Piston tries to learn carkour to impress his hero."
+      },
+      {
+        "id": "tvmaze:2399604",
+        "title": "Care-A-Van Club",
+        "season": 1,
+        "episode": 21,
+        "released": "2022-09-21",
+        "overview": "Violet meets her hero and tries to rescue his kitten."
+      },
+      {
+        "id": "tvmaze:2399605",
+        "title": "Mud About You",
+        "season": 1,
+        "episode": 22,
+        "released": "2022-09-21",
+        "overview": "Bo and Flash go out and look for rescues after a storm lifts."
+      },
+      {
+        "id": "tvmaze:2399606",
+        "title": "River Rescue",
+        "season": 1,
+        "episode": 23,
+        "released": "2022-09-21",
+        "overview": "Bo fails to watch a young wee-hicle, and they both end up stuck on a raft in the creek."
+      },
+      {
+        "id": "tvmaze:2399607",
+        "title": "Big Tread",
+        "season": 1,
+        "episode": 24,
+        "released": "2022-09-21",
+        "overview": "Piston must overcome his fears of mythical monster trucks to save his lost friends."
+      },
+      {
+        "id": "tvmaze:2418078",
+        "title": "Hanukkah Hullabaloo",
+        "season": 1,
+        "episode": 25,
+        "released": "2022-11-28",
+        "overview": "Bo decides to decorate his house to celebrate Hanukkah, but things get out of control."
+      },
+      {
+        "id": "tvmaze:2418079",
+        "title": "The Christmas Car-Sled Race",
+        "season": 1,
+        "episode": 26,
+        "released": "2022-11-28",
+        "overview": "Bo wants to win the annual Christmas car-sled race after seeing his dad admire the prize."
+      },
+      {
+        "id": "tvmaze:2434911",
+        "title": "Call of the Siren",
+        "season": 1,
+        "episode": 27,
+        "released": "2022-12-09",
+        "overview": "When Axl uses her siren to part traffic for non-emergencies, she struggles to get the other cars on the road to trust her judgment."
+      },
+      {
+        "id": "tvmaze:2434912",
+        "title": "Jamal's Jam",
+        "season": 1,
+        "episode": 28,
+        "released": "2022-12-09",
+        "overview": "Jayden joins his dad at work."
+      },
+      {
+        "id": "tvmaze:2434917",
+        "title": "Bayani Cookout",
+        "season": 1,
+        "episode": 29,
+        "released": "2022-12-16",
+        "overview": "Bo discovers he has more in common with Grandpa Lolo Ben than he thought."
+      },
+      {
+        "id": "tvmaze:2434918",
+        "title": "Rest of the Best",
+        "season": 1,
+        "episode": 30,
+        "released": "2022-12-16",
+        "overview": "After staying up all night, Bo and Flash botch an attempt to rescue Coach D."
+      },
+      {
+        "id": "tvmaze:2452003",
+        "title": "Piston's Driving School",
+        "season": 1,
+        "episode": 31,
+        "released": "2023-01-13",
+        "overview": "Piston gives driving lessons to three wild wee-hicles."
+      },
+      {
+        "id": "tvmaze:2452004",
+        "title": "Jazzyland",
+        "season": 1,
+        "episode": 32,
+        "released": "2023-01-13",
+        "overview": "Jayden struggles to play pretend with his imaginative little sister and the Firebuds."
+      },
+      {
+        "id": "tvmaze:2475928",
+        "title": "Puppy Pursuit",
+        "season": 1,
+        "episode": 33,
+        "released": "2023-02-03",
+        "overview": "Bo forgets to feed his puppy, which causes the hungry pup to travel to the local dog bone factory, where he gets caught."
+      },
+      {
+        "id": "tvmaze:2475929",
+        "title": "The Ice Cream Truck Bandits",
+        "season": 1,
+        "episode": 34,
+        "released": "2023-02-03",
+        "overview": "Wayne and Wiley go on an ice cream truck robbing spree."
+      },
+      {
+        "id": "tvmaze:2493146",
+        "title": "Cleft Hood",
+        "season": 1,
+        "episode": 35,
+        "released": "2023-03-10",
+        "overview": "Axl takes it upon herself to track a wee-hicle down and convince him to return to the hospital for his cleft hood surgery."
+      },
+      {
+        "id": "tvmaze:2493147",
+        "title": "The Case of the Disappearing Doghouse",
+        "season": 1,
+        "episode": 36,
+        "released": "2023-03-10",
+        "overview": "The Buds discover who is stealing the doghouses around town."
+      },
+      {
+        "id": "tvmaze:2509239",
+        "title": "All That Jazzy",
+        "season": 1,
+        "episode": 37,
+        "released": "2023-03-15",
+        "overview": "After watching a dance performance, Jazzy vows to prove she is ready to be a lead dancer."
+      },
+      {
+        "id": "tvmaze:2509240",
+        "title": "Iguana Hold Your Hand",
+        "season": 1,
+        "episode": 38,
+        "released": "2023-03-15",
+        "overview": "Piston loves all animals until he meets Pow's pet iguana, Bessie."
+      },
+      {
+        "id": "tvmaze:2530402",
+        "title": "Shelter Island",
+        "season": 1,
+        "episode": 39,
+        "released": "2023-05-04",
+        "overview": "When a flood hits Gearbox Grove, the Firebuds join Food First Responders Chef Al and Chef Pavani and Duke the Duckbus on their mission to deliver meals to evacuees at the town recreation center."
+      },
+      {
+        "id": "tvmaze:2530403",
+        "title": "Escape from Shelter Island",
+        "season": 1,
+        "episode": 40,
+        "released": "2023-05-04",
+        "overview": "As water levels rise at the shelter, the Firebuds must find a way for the evacuees to escape."
+      },
+      {
+        "id": "tvmaze:2551498",
+        "title": "The Super Safety Show",
+        "season": 1,
+        "episode": 41,
+        "released": "2023-05-31",
+        "overview": "Iggy and Rod's jealousy of the Firebuds leads to an emergency."
+      },
+      {
+        "id": "tvmaze:2551499",
+        "title": "Job-O-Rama Day",
+        "season": 1,
+        "episode": 42,
+        "released": "2023-05-31",
+        "overview": "Violet can't decide which of her moms' jobs to present at a school event."
+      },
+      {
+        "id": "tvmaze:2574930",
+        "title": "Star Vehicle",
+        "season": 1,
+        "episode": 43,
+        "released": "2023-05-31",
+        "overview": "The Firebuds are putting on a school play and recycling truck Smush wants to play the starring role."
+      },
+      {
+        "id": "tvmaze:2574931",
+        "title": "Firebuds Fever",
+        "season": 1,
+        "episode": 44,
+        "released": "2023-05-31",
+        "overview": "Sick at home with a cold, Jayden must help the Firebuds with a rescue."
+      },
+      {
+        "id": "tvmaze:2574932",
+        "title": "The Birthday Blaze",
+        "season": 1,
+        "episode": 45,
+        "released": "2023-05-31",
+        "overview": "Flash goes to extreme lengths to get Bo the best birthday gift ever."
+      },
+      {
+        "id": "tvmaze:2574933",
+        "title": "Everybody Loves Axl",
+        "season": 1,
+        "episode": 46,
+        "released": "2023-05-31",
+        "overview": "After a clip of Axl makes her popular online, the Firebuds find that her showboating gets in the way of their rescues."
+      },
+      {
+        "id": "tvmaze:2574934",
+        "title": "The Four Door Troubadours",
+        "season": 1,
+        "episode": 47,
+        "released": "2023-05-31",
+        "overview": "The Firebuds help a pair of traveling musicians put on a benefit concert."
+      },
+      {
+        "id": "tvmaze:2574935",
+        "title": "Moto-Polo",
+        "season": 1,
+        "episode": 48,
+        "released": "2023-05-31",
+        "overview": "Flash becomes captain of the school's Moto-Polo team and learns what it takes to be a great leader."
+      },
+      {
+        "id": "tvmaze:2574936",
+        "title": "Roller Coaster Rescue",
+        "season": 1,
+        "episode": 49,
+        "released": "2023-05-31",
+        "overview": "The Buds pull off a desperate rescue."
+      },
+      {
+        "id": "tvmaze:2574937",
+        "title": "The Night Shift",
+        "season": 1,
+        "episode": 50,
+        "released": "2023-05-31",
+        "overview": "The gang get together for a sleepover at the HQ."
+      },
+      {
+        "id": "tvmaze:2703301",
+        "title": "Hello, Halo!",
+        "season": 2,
+        "episode": 1,
+        "released": "2023-11-01",
+        "overview": "The Firebuds invite the new kid-helicopter in town for a day of rescue drills."
+      },
+      {
+        "id": "tvmaze:2703302",
+        "title": "What's Up, Woodpecker?",
+        "season": 2,
+        "episode": 2,
+        "released": "2023-11-01",
+        "overview": "The Firebuds hike through the woods in search of a rare woodpecker and save its habitat."
+      },
+      {
+        "id": "tvmaze:2703303",
+        "title": "Sugar Crash",
+        "season": 2,
+        "episode": 3,
+        "released": "2023-11-02",
+        "overview": "The Firebuds must stop a candy factory heist."
+      },
+      {
+        "id": "tvmaze:2703304",
+        "title": "The Cut N' Chrome Caper",
+        "season": 2,
+        "episode": 4,
+        "released": "2023-11-02",
+        "overview": "The Firebuds must team up with Iggy and Rod to catch a thief at the Cut N' Chrome shop."
+      },
+      {
+        "id": "tvmaze:2703305",
+        "title": "Mayhem at the Museum",
+        "season": 2,
+        "episode": 5,
+        "released": "2023-11-03",
+        "overview": "Wiley Riley crashes the Firebuds' science museum sleepover to steal a rare meteorite."
+      },
+      {
+        "id": "tvmaze:2703306",
+        "title": "Wrong Way Rescue",
+        "season": 2,
+        "episode": 6,
+        "released": "2023-11-03",
+        "overview": "The Firebuds must save a young car stuck in reverse."
+      },
+      {
+        "id": "tvmaze:2703307",
+        "title": "Apple Pie Peril",
+        "season": 2,
+        "episode": 7,
+        "released": "2023-11-10",
+        "overview": "The Firebuds help Chef Pavani make an apple pie for her harvest festival."
+      },
+      {
+        "id": "tvmaze:2703308",
+        "title": "Hike & Seek",
+        "season": 2,
+        "episode": 8,
+        "released": "2023-11-10",
+        "overview": "While on a nature drive, the Firebuds must rescue a young car who gets lost in the woods during a storm."
+      },
+      {
+        "id": "tvmaze:2703309",
+        "title": "Blizzard Buds",
+        "season": 2,
+        "episode": 9,
+        "released": "2023-11-30",
+        "overview": "The Firebuds brave a blizzard to reunite a family for Christmas."
+      },
+      {
+        "id": "tvmaze:2703310",
+        "title": "Parade Escapade",
+        "season": 2,
+        "episode": 10,
+        "released": "2023-11-30",
+        "overview": "The Firebuds take part in the Motopolis New Year's Day parade."
+      },
+      {
+        "id": "tvmaze:2739655",
+        "title": "Annie Spokely",
+        "season": 2,
+        "episode": 11,
+        "released": "2023-12-15",
+        "overview": "The Firebuds get a rescue call from an old western town."
+      },
+      {
+        "id": "tvmaze:2739656",
+        "title": "Ingrid on Ice",
+        "season": 2,
+        "episode": 12,
+        "released": "2023-12-15",
+        "overview": "The Firebuds help a kid ice cream truck make friends at the skating pond."
+      },
+      {
+        "id": "tvmaze:2776696",
+        "title": "Science Fair Snafu",
+        "season": 2,
+        "episode": 13,
+        "released": "2024-01-12",
+        "overview": "Wayne disguises himself as a science fair judge and tricks Jayden into making him an invention."
+      },
+      {
+        "id": "tvmaze:2776697",
+        "title": "The Scavenger Hunt",
+        "season": 2,
+        "episode": 14,
+        "released": "2024-01-12",
+        "overview": "The Firebuds take part in a first responder scavenger hunt."
+      },
+      {
+        "id": "tvmaze:2776698",
+        "title": "Balancing Act",
+        "season": 2,
+        "episode": 15,
+        "released": "2024-02-09",
+        "overview": "Violet tries to impress her visiting birth mum, a circus acrobat."
+      },
+      {
+        "id": "tvmaze:2776699",
+        "title": "Monster Truck Piston",
+        "season": 2,
+        "episode": 16,
+        "released": "2024-02-09",
+        "overview": "Piston gets new monster truck tires and helps the Firebuds stop a theft."
+      },
+      {
+        "id": "tvmaze:2796278",
+        "title": "Skitty Kitty",
+        "season": 2,
+        "episode": 17,
+        "released": "2024-03-08",
+        "overview": "Violet must care for a mischievous cat while the Firebuds track down thieves at a flea market."
+      },
+      {
+        "id": "tvmaze:2796279",
+        "title": "Heat Wave",
+        "season": 2,
+        "episode": 18,
+        "released": "2024-03-08",
+        "overview": "The Firebuds visit a desert roadside attraction on an extremely hot day."
+      },
+      {
+        "id": "tvmaze:2835475",
+        "title": "Wayne's Trains and Automobiles",
+        "season": 2,
+        "episode": 19,
+        "released": "2024-03-22",
+        "overview": "The Firebuds rescue a train after Wayne tries to steal the train's cargo."
+      },
+      {
+        "id": "tvmaze:2835476",
+        "title": "Jazzy Buds",
+        "season": 2,
+        "episode": 20,
+        "released": "2024-03-22",
+        "overview": "Jazzy forms her own rescue team called \"Jazzy-Buds.\""
+      },
+      {
+        "id": "tvmaze:2851528",
+        "title": "The Drive Along",
+        "season": 2,
+        "episode": 21,
+        "released": "2024-05-03",
+        "overview": "The Firebuds join Axl's \"trambulance\" dad on a ride along."
+      },
+      {
+        "id": "tvmaze:2851529",
+        "title": "Rescue Club Rangers",
+        "season": 2,
+        "episode": 22,
+        "released": "2024-05-03",
+        "overview": "The Firebuds try to earn Rescue Club badges by completing a forest rescue course."
+      },
+      {
+        "id": "tvmaze:2851530",
+        "title": "Fire Tower Frenzy",
+        "season": 2,
+        "episode": 23,
+        "released": "2024-05-10",
+        "overview": "The Firebuds visit a mountaintop fire tower to help look out for forest fires."
+      },
+      {
+        "id": "tvmaze:2851531",
+        "title": "What's Cookin'",
+        "season": 2,
+        "episode": 24,
+        "released": "2024-05-10",
+        "overview": "Flash teams up with Chef Fernando and Chef Al in a bake-and-race competition for charity."
+      },
+      {
+        "id": "tvmaze:2851532",
+        "title": "Woodland Wiley",
+        "season": 2,
+        "episode": 25,
+        "released": "2024-05-17",
+        "overview": "The Firebuds take back a mirror Wiley steals while learning outdoor skills in the woods."
+      },
+      {
+        "id": "tvmaze:2851533",
+        "title": "P.I. Piston",
+        "season": 2,
+        "episode": 26,
+        "released": "2024-05-17",
+        "overview": "Piston solves the mystery of the disappearing instruments during music class."
+      },
+      {
+        "id": "tvmaze:2851534",
+        "title": "Mayor for the Day",
+        "season": 2,
+        "episode": 27,
+        "released": "2024-05-24",
+        "overview": "Piston wins a chance to be mayor for the day but gets carried away making Gearbox Grove the safest town ever."
+      },
+      {
+        "id": "tvmaze:2851535",
+        "title": "Dozer Disaster",
+        "season": 2,
+        "episode": 28,
+        "released": "2024-05-24",
+        "overview": "The Firebuds try to save a grove of trees from being bulldozed."
+      },
+      {
+        "id": "tvmaze:2851536",
+        "title": "Haywire Halo",
+        "season": 2,
+        "episode": 29,
+        "released": "2024-05-31",
+        "overview": "The Firebuds perform their first aerial rescue during a mountain hike."
+      },
+      {
+        "id": "tvmaze:2851537",
+        "title": "Smorgasburger",
+        "season": 2,
+        "episode": 30,
+        "released": "2024-05-31",
+        "overview": "Flash wants to open a booster shake stand at a food truck festival."
+      },
+      {
+        "id": "tvmaze:2918990",
+        "title": "Windy Wheels",
+        "season": 2,
+        "episode": 31,
+        "released": "2024-06-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2918991",
+        "title": "Full-Time Flash",
+        "season": 2,
+        "episode": 32,
+        "released": "2024-06-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2918992",
+        "title": "Bubba Trouble",
+        "season": 2,
+        "episode": 33,
+        "released": "2024-06-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2918993",
+        "title": "Scarlett & Skid",
+        "season": 2,
+        "episode": 34,
+        "released": "2024-06-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2918994",
+        "title": "Alpine Adventure",
+        "season": 2,
+        "episode": 35,
+        "released": "2024-06-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2978248",
+        "title": "Guac and Roll",
+        "season": 2,
+        "episode": 36,
+        "released": "2024-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2978249",
+        "title": "All-Terrain Trek",
+        "season": 2,
+        "episode": 37,
+        "released": "2024-07-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2978250",
+        "title": "The Camp Fire!",
+        "season": 2,
+        "episode": 38,
+        "released": "2024-07-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2978968",
+        "title": "The Haunted HQ",
+        "season": 2,
+        "episode": 39,
+        "released": "2024-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2978969",
+        "title": "All Souls' Surprise",
+        "season": 2,
+        "episode": 40,
+        "released": "2024-07-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2978970",
+        "title": "Bamboozled Bo",
+        "season": 2,
+        "episode": 41,
+        "released": "2024-08-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2978971",
+        "title": "Food in a Flash",
+        "season": 2,
+        "episode": 42,
+        "released": "2024-08-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3273983",
+        "title": "Mothers' Day Mess",
+        "season": 2,
+        "episode": 43,
+        "released": "2025-05-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3273984",
+        "title": "Hey, Dude",
+        "season": 2,
+        "episode": 44,
+        "released": "2025-05-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3325318",
+        "title": "Scarlett & Skid Strike Back",
+        "season": 3,
+        "episode": 1,
+        "released": "2025-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3353713",
+        "title": "Meet the Aquabuds",
+        "season": 3,
+        "episode": 2,
+        "released": "2025-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3369521",
+        "title": "Stuffy at Sea",
+        "season": 3,
+        "episode": 3,
+        "released": "2025-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3369523",
+        "title": "Drift Away",
+        "season": 3,
+        "episode": 4,
+        "released": "2025-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3369524",
+        "title": "My Van Vinny",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3369525",
+        "title": "Training Tower Tumult",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3369526",
+        "title": "Mechanic Panic",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3369527",
+        "title": "2Fast2Fiery",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3369528",
+        "title": "Rainbow Island Part I",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3369529",
+        "title": "Rainbow Island Part II",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378226",
+        "title": "You Can Rely On Ripley",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378227",
+        "title": "Whale Worries",
+        "season": 3,
+        "episode": 12,
+        "released": "2025-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378228",
+        "title": "Escape Garage",
+        "season": 3,
+        "episode": 13,
+        "released": "2025-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3378229",
+        "title": "Halloween Hospital",
+        "season": 3,
+        "episode": 14,
+        "released": "2025-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3384847",
+        "title": "Flash Fire",
+        "season": 3,
+        "episode": 15,
+        "released": "2025-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3384848",
+        "title": "Trash Time",
+        "season": 3,
+        "episode": 16,
+        "released": "2025-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3395729",
+        "title": "Arty Party",
+        "season": 3,
+        "episode": 17,
+        "released": "2025-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3395730",
+        "title": "Dog Gone Disaster",
+        "season": 3,
+        "episode": 18,
+        "released": "2025-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3398837",
+        "title": "Father's Day Hoedown",
+        "season": 3,
+        "episode": 19,
+        "released": "2025-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3398838",
+        "title": "Big Brother BBQ",
+        "season": 3,
+        "episode": 20,
+        "released": "2025-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3406719",
+        "title": "Big Wave Day",
+        "season": 3,
+        "episode": 21,
+        "released": "2025-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3406720",
+        "title": "Sunken Duncan",
+        "season": 3,
+        "episode": 22,
+        "released": "2025-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456095",
+        "title": "The Tag Along Turtle",
+        "season": 3,
+        "episode": 23,
+        "released": "2025-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3456096",
+        "title": "Noche Buena Buds",
+        "season": 3,
+        "episode": 24,
+        "released": "2025-12-04",
+        "overview": ""
+      }
+    ]
+  }
+}

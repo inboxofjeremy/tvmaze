@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:9166",
+    "type": "series",
+    "name": "Bloomberg Technology",
+    "description": "The only daily news program focused exclusively on technology, innovation and the future of business from San Francisco. Hosted by Emily Chang.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/79/198192.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/79/198192.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3458604",
+        "title": "Episode 245",
+        "season": 2025,
+        "episode": 245,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

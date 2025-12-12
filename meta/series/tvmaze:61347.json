@@ -1,0 +1,276 @@
+{
+  "meta": {
+    "id": "tvmaze:61347",
+    "type": "series",
+    "name": "The Read",
+    "description": "A series of four creative performance readings of iconic British novels. Each episode is directed by emerging talent from the New Creatives scheme.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/477/1192814.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/477/1192814.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      },
+      {
+        "id": "tvmaze:2304688",
+        "title": "The Lonely Londoners",
+        "season": 1,
+        "episode": 1,
+        "released": "2022-04-10",
+        "overview": "The Lonely Londoners portrays the experience of a group of Caribbean immigrants, known as the Windrush Generation, who arrived in London in the late 1940s and 50s searching for work and a prosperous future. Instead, they have to face the harsh realities of living hand to mouth, of racism, of bleak British weather and bleaker prospects. And though friendships and family flourish among these lonely Londoners, can they learn to survive?The Lonely Londoners is performed by Danielle Vitalis and directed by Yero Tim-Bui who juxtapose modern imagery and fascinating archive footage to reflect on how Sam Selvon's 1956 novel shaped the London of today."
+      },
+      {
+        "id": "tvmaze:2334938",
+        "title": "On the Black Hill",
+        "season": 1,
+        "episode": 2,
+        "released": "2022-06-05",
+        "overview": "Based on the novel published in 1982 by Bruce Chatwin, On the Black Hill is about identical twin brothers who grow up on a farm in rural Wales and never leave home. They till the rough soil and sleep in the same bed, touched only occasionally by the advances of the 20th century. By depicting the lives of Benjamin and Lewis, and their interactions with their small local community, Chatwin comments movingly on the larger questions of human experience.On the Black Hill is a novel that portrays themes of unrequited love, sexual repression and confusion, social, religious and cultural repression, hate, and the historic social values of rural Britain."
+      },
+      {
+        "id": "tvmaze:2422341",
+        "title": "The Day of the Sardine",
+        "season": 1,
+        "episode": 3,
+        "released": "2022-11-06",
+        "overview": "The Read is a series of four creative performance readings of iconic British novels. Each episode is directed by exciting, emerging talent from BBC Arts' and Art Council England's successful New Creatives scheme. The Read gives audiences the chance to discover or reconnect with the novels through some outstanding British performances, the best of literature brought to life on screen.Set in a working-class community in Newcastle upon Tyne at the very beginning of the 1960s, The Day of the Sardine is a powerful novel of disaffection, which charts a young man's uneasy passage into adulthood. Harsh, and at times comic, the story of its protagonist, Arthur Haggerston, takes place against the background of a young workforce absorbed into tedious, repressive employment where the only outlet comes from street violence and gang warfare.As Arthur reflects on his search for a moral framework within the anarchy of modern society, he speaks for all of us, poetically and passionately, in a way that feels as true today as the period in which the tale is set."
+      },
+      {
+        "id": "tvmaze:2517711",
+        "title": "A Vision of Loveliness",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-04-02",
+        "overview": "Bafta-nominated actor Liv Hill (Three Girls, Jellyfish, The Great, The Serpent Queen) performs A Vision of Loveliness from the novel by Louise Levene, a darkly comic work that reveals the seedy underbelly of London in the 1960s, rich with period detail. We follow a young woman's rise through the social ranks of her peculiar world. A Vision of Loveliness is a novel grounded in the grubby glamour of the 1960s, but it speaks sharply to the societal, financial and aesthetic pressures of being a woman today."
+      },
+      {
+        "id": "tvmaze:2646527",
+        "title": "A Kestrel for a Knave",
+        "season": 2,
+        "episode": 1,
+        "released": "2023-09-17",
+        "overview": "Christopher Eccleston narrates Barry Hines's heartbreaking coming-of-age tale in this fresh take on a classic British novel. It's the story of teenager Billy Casper, whose life can be described as bleak. Bullied at home and at school, he finds solace in a love of falconry. He devours books to help him learn how to rear a young hawk, which becomes a distraction from the challenges of life at home with his mum and brother Jed. But a miscalculation while running an errand for his brother has drastic consequences for his new-found hobby.Filmed at Oldham Colliseum Theatre, Eccleston brilliantly guides the viewer through the heartbreaking cadence of Billy's life."
+      },
+      {
+        "id": "tvmaze:2784193",
+        "title": "Frankenstein",
+        "season": 2,
+        "episode": 2,
+        "released": "2024-03-03",
+        "overview": "Alex Kingston breathes life into Mary Shelley's timeless gothic horror story.Young, gifted scientist Victor Frankenstein unwittingly creates a monster. Written more than 200 years ago, the classic masterpiece still resonates today as a tragic romance that examines the battle between ambition and morality."
+      },
+      {
+        "id": "tvmaze:2859506",
+        "title": "The Remains of the Day",
+        "season": 2,
+        "episode": 3,
+        "released": "2024-05-12",
+        "overview": "Heartbreak and longing are centre stage as BAFTA-winning actor Steve Pemberton narrates Kazuo Ishiguro's contemporary classic."
+      },
+      {
+        "id": "tvmaze:3044805",
+        "title": "1984",
+        "season": 3,
+        "episode": 1,
+        "released": "2024-11-17",
+        "overview": "A bleak dystopian future plays out before us as Royal Television Society award-winning actor Sacha Dhawan narrates George Orwell's profoundly impactful and thought-provoking classic."
+      },
+      {
+        "id": "tvmaze:3103287",
+        "title": "A Christmas Carol",
+        "season": 3,
+        "episode": 2,
+        "released": "2024-12-22",
+        "overview": "Anne-Marie Duff performs an intimate reading of Charles Dickens's timeless classic. Can the ghostly interventions salvage Scrooge's soul?"
+      },
+      {
+        "id": "tvmaze:3103288",
+        "title": "Wuthering Heights",
+        "season": 3,
+        "episode": 3,
+        "released": "2025-01-05",
+        "overview": "Emily Brontë's timeless classic set against the haunting backdrop of the Yorkshire Moors and narrated by award-winning actor Vinette Robinson."
+      },
+      {
+        "id": "tvmaze:3129336",
+        "title": "Dr Jekyll and Mr Hyde: The Read with Reece Shearsmith",
+        "season": 3,
+        "episode": 4,
+        "released": "2025-02-02",
+        "overview": "Who is the real monster? Robert Louis Stevenson's defining gothic horror explores alter egos in this captivating narration that reimagines the 19th-century classic."
+      },
+      {
+        "id": "tvmaze:3459100",
+        "title": "Persuasion",
+        "season": 4,
+        "episode": 1,
+        "released": "2025-12-18",
+        "overview": "Bafta and Olivier Award-winning actor Monica Dolan gives a captivating reading of Jane Austen's much-loved novel."
+      },
+      {
+        "id": "tvmaze:3459101",
+        "title": "The Lion, the Witch and the Wardrobe",
+        "season": 4,
+        "episode": 2,
+        "released": "2025-12-25",
+        "overview": "Step into the magical world of Narnia with CS Lewis's beloved fantasy classic brimming with adventure, courage and Turkish Delight."
+      }
+    ]
+  }
+}

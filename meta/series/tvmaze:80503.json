@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "id": "tvmaze:80503",
+    "type": "series",
+    "name": "The Perfect Line",
+    "description": "The Perfect Line is a trivia game that includes questions about from world events, pop culture, sports, science and other topics. Contestants are given a category and then arrange events, items or people order — such as arranging six actors in the order of their worldwide box office gross. Winners are able to create \"the perfect line\" via that correct order, and try not to be eliminated after every round. The last person standing plays a final round for a chance at $10,000.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/586/1466438.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/586/1466438.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      },
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      },
+      {
+        "id": "tvmaze:3457403",
+        "title": "Cold Hard Cash",
+        "season": 1,
+        "episode": 88,
+        "released": "2025-12-10",
+        "overview": "Players Christina, Darryl, Wynne and Ivette."
+      },
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      },
+      {
+        "id": "tvmaze:3457403",
+        "title": "Cold Hard Cash",
+        "season": 1,
+        "episode": 88,
+        "released": "2025-12-10",
+        "overview": "Players Christina, Darryl, Wynne and Ivette."
+      },
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      },
+      {
+        "id": "tvmaze:3457403",
+        "title": "Cold Hard Cash",
+        "season": 1,
+        "episode": 88,
+        "released": "2025-12-10",
+        "overview": "Players Christina, Darryl, Wynne and Ivette."
+      },
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      },
+      {
+        "id": "tvmaze:3457403",
+        "title": "Cold Hard Cash",
+        "season": 1,
+        "episode": 88,
+        "released": "2025-12-10",
+        "overview": "Players Christina, Darryl, Wynne and Ivette."
+      },
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      },
+      {
+        "id": "tvmaze:3457403",
+        "title": "Cold Hard Cash",
+        "season": 1,
+        "episode": 88,
+        "released": "2025-12-10",
+        "overview": "Players Christina, Darryl, Wynne and Ivette."
+      },
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      },
+      {
+        "id": "tvmaze:3457403",
+        "title": "Cold Hard Cash",
+        "season": 1,
+        "episode": 88,
+        "released": "2025-12-10",
+        "overview": "Players Christina, Darryl, Wynne and Ivette."
+      },
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      },
+      {
+        "id": "tvmaze:3457403",
+        "title": "Cold Hard Cash",
+        "season": 1,
+        "episode": 88,
+        "released": "2025-12-10",
+        "overview": "Players Christina, Darryl, Wynne and Ivette."
+      },
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      },
+      {
+        "id": "tvmaze:3457403",
+        "title": "Cold Hard Cash",
+        "season": 1,
+        "episode": 88,
+        "released": "2025-12-10",
+        "overview": "Players Christina, Darryl, Wynne and Ivette."
+      },
+      {
+        "id": "tvmaze:3457404",
+        "title": "What's the Deal",
+        "season": 1,
+        "episode": 89,
+        "released": "2025-12-11",
+        "overview": "Players Adres, John, Tracey and Ashly."
+      },
+      {
+        "id": "tvmaze:3457405",
+        "title": "On the Scene",
+        "season": 1,
+        "episode": 90,
+        "released": "2025-12-12",
+        "overview": "Players Aaliyah, Daniela, Michael and Linda."
+      }
+    ]
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "id": "tvmaze:8752",
+    "type": "series",
+    "name": "Craft in America",
+    "description": "We have a deep sense of longing for the handmade. Perhaps because each of us, in our own way, has had a craft experience. Sometimes it's an object passed down to us, or one that crosses our path, and connects us to others in traditions, heritage, and rituals. Craft is all around us. You'll find it wherever you look – hiding in plain sight. Craft in America offers you a place to explore these connections and to inspire your own creativity. Join us on this voyage of discovery.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/514/1287261.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/514/1287261.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      },
+      {
+        "id": "tvmaze:481275",
+        "title": "Memory",
+        "season": 1,
+        "episode": 1,
+        "released": "2007-05-30",
+        "overview": "Take a tour through craft's history in America beginning with the pioneers of the field to the intimate stories of some of our country's most prominent craft artists. Memory observes how past is prologue, and looks to the dynamic of cultural history and personal heritage in creating objects. Featured artists include Sam Maloof, Garry Knox Bennett, Mary Jackson, Tom Joyce, and Pat Courtney Gold."
+      },
+      {
+        "id": "tvmaze:481276",
+        "title": "Landscape",
+        "season": 1,
+        "episode": 2,
+        "released": "2007-05-30",
+        "overview": "Craft artists depend on their natural environment for both materials and inspiration. This hour looks at the processes through which natural materials become finished works of craft, and what deeper messages may be contained therein. Featured artists include Jan Yager, Kit Carson, David Gurney, George &amp; Mira Nakashima, Richard Notkin, and Timberline Lodge."
+      },
+      {
+        "id": "tvmaze:481277",
+        "title": "Community",
+        "season": 1,
+        "episode": 3,
+        "released": "2007-05-30",
+        "overview": "Throughout time, craft work has been a community activity. Gifted artists and passionate newcomers alike reveal the deeply held belief that craft is about more than just the making of an object. Featured artists include Jamex &amp; Einar de la Torre, Preston Singletary, Pilchuck Glass School, Sarah Jaeger, Ken Loeber, Dona Look, Mississippi Cultural Crossroads, Penland School, Denise &amp; Sam Wallace."
+      },
+      {
+        "id": "tvmaze:481278",
+        "title": "Origins",
+        "season": 2,
+        "episode": 1,
+        "released": "2009-10-07",
+        "overview": "The American craft tradition did not just appear, fully-formed and mature. The artists in Origins tie their work to early craft techniques and demonstrate how they are involved in passing these techniques to others in a continuum of creativity. Featured artists include Philip Simmons, Mark Hewitt, Teri Greeves, Jim Bassler, Paul Stankard, and Vernon, Pam, and Travis Owens."
+      },
+      {
+        "id": "tvmaze:481279",
+        "title": "Process",
+        "season": 2,
+        "episode": 2,
+        "released": "2009-10-07",
+        "overview": "What inspires a person to choose a career in craft? How does one acquire the knowledge and necessary skills? From self-taught artists to those who pursue formal study, from avocation to college, from apprenticeships to craft schools. Featured artists include the 92nd St Y, Dave &amp; Roberta Williamson, Cary Esser, Nikki Lewis, KCAI, N. Bennet St. School, Tom Killion, and Julie Chen."
+      },
+      {
+        "id": "tvmaze:481280",
+        "title": "Messages",
+        "season": 3,
+        "episode": 1,
+        "released": "2011-05-24",
+        "overview": "Many artists use their craft to share personal and political opinions. Craft has the ability to entice viewers to consider topics that they might find difficult. By expressing their ideas through their work, artists add meaning to the objects they create. Featured artists include glass artist Beth Lipman, santero Charles M. Carrillo, bead artist Joyce J. Scott; and jeweler &amp; sculptor Thomas Mann."
+      },
+      {
+        "id": "tvmaze:481281",
+        "title": "Family",
+        "season": 3,
+        "episode": 2,
+        "released": "2011-10-17",
+        "overview": "Family explores the creative environments and personal dynamics of four families of craft artists and asks: Is talent inherited? What is it like to live in a household where objects are made by hand? Meet the featured artists (the Lees, Marionis, Moulthrops and Sorrells)."
+      },
+      {
+        "id": "tvmaze:481282",
+        "title": "Threads",
+        "season": 4,
+        "episode": 1,
+        "released": "2012-05-11",
+        "overview": "Explore textiles and quilts by Faith Ringgold, Consuelo Jimenez Underwood, Terese Agnew and Randall Darwall.THREADS explores the needle arts including weaving, storytelling through quilts and textiles that speak to the creativity of the human spirit. Featuring fiber artists Terese Agnew, Randall Darwall, Faith Ringgold, Consuelo Jimenez Underwood."
+      },
+      {
+        "id": "tvmaze:481283",
+        "title": "Crossroads",
+        "season": 4,
+        "episode": 2,
+        "released": "2012-11-16",
+        "overview": "Explore the intersection of craft where change and innovation evolve from global influences.How do borders and personal crossroads affect an artist? How do science and craft interact? How do other cultures influence American style and technique? This episode explores the intersections of craft, culture, and technology. Featured artists include Tanya Aguiñiga, Lia Cook, Clary Illian, Warren MacKenzie, and Jeff Oestreich."
+      },
+      {
+        "id": "tvmaze:481284",
+        "title": "Forge",
+        "season": 5,
+        "episode": 1,
+        "released": "2013-10-25",
+        "overview": "See the work of metalsmiths who create powerful art - from delicate jewelry to monumental sculpture.FORGE profiles exceptional artists forging metal magically transformed by fire. Follow Chloe Darke as she begins her career as a silversmith at Old Newbury Crafters; Iraqi war veterans Tom Pullin and Jeremiah Holland as they turn to art as an antidote to the harsh realities of war; Join sculptor Albert Paley as he prepares for Paley on Park Avenue, the most ambitious project of his 50 year career."
+      },
+      {
+        "id": "tvmaze:481285",
+        "title": "Holiday",
+        "season": 5,
+        "episode": 2,
+        "released": "2013-12-20",
+        "overview": "Embrace familiar and new winter celebrations, part of our American experience with the handmade.Embrace traditions, both familiar and new – all part of our American experience with the handmade. Featuring ceramic artist Susan Garson, Garcia Art Glass, paper artist Kathleen Trenchard, ceramic artist Veronica Castillo, National Gingerbread House Competition at Grove Park Inn, Biltmore House, woodcarver Harley Refsal, and John C. Campbell Folk School."
+      },
+      {
+        "id": "tvmaze:481286",
+        "title": "Industry",
+        "season": 6,
+        "episode": 1,
+        "released": "2014-05-02",
+        "overview": "Explore the business of the handmade and the important connection between consumer and maker.Industry: Handmade in the Creative Economy. Featuring Gee's Bend quilters Lucy Mingo &amp; Mary Ann Pettway, quilter Joe Cunningham, boat builder Graham McKay &amp; Lowell's Boat Shop, artist Bethanne Knudson &amp; Libby O'Bryan &amp; The Oriole Mill, jewelry artist Shane Yamane, Etsy."
+      },
+      {
+        "id": "tvmaze:481287",
+        "title": "Service",
+        "season": 6,
+        "episode": 2,
+        "released": "2014-11-02",
+        "overview": "Explore creativity, healing and our nation's soldiers and veterans.Documenting craft and the military and the power of the handmade to inspire and heal. Featuring papermaker Pam DeLuco, saddler Eugene Burks Jr., and ceramic artists Ehren Tool, Judas Recendez and Peter Voulkos."
+      },
+      {
+        "id": "tvmaze:481288",
+        "title": "Music",
+        "season": 7,
+        "episode": 1,
+        "released": "2015-11-20",
+        "overview": "Focus on the makers of finely crafted handmade instruments - guitar, ukulele, trumpet, banjo and timpani - and the renowned musicians who play them, including Joan Baez, Jake Shimabukuro, Rhiannon Giddens, Scotty Barnhart, Tony Ellis and Joseph Pereira."
+      },
+      {
+        "id": "tvmaze:481289",
+        "title": "Celebration",
+        "season": 7,
+        "episode": 2,
+        "released": "2015-12-11",
+        "overview": "This episode explores craft artists, objects and traditions of various holidays, featuring Lion Dancers and float builders of San Francisco's Chinese New Year Parade, ceramic artists in Detroit making festive pieces at Pewabic Pottery and Motawi Tileworks, Kwanzaa celebrations in Chicago and Oakland, and woodblock Christmas cards made by Yoshiko Yamamoto in Washington state."
+      },
+      {
+        "id": "tvmaze:855095",
+        "title": "Teachers",
+        "season": 8,
+        "episode": 1,
+        "released": "2016-09-15",
+        "overview": "Artists committed to sharing their skills and passion for craft with students of all ages. Featuring Navajo weavers Barbara Teller Ornelas and Lynda Teller Pete at Idyllwild Arts, glass artist Mark Mitsuda at Punahou School, glass artist Therman Statom, and ceramic artist Linda Sikora at Alfred University School of Art and Design."
+      },
+      {
+        "id": "tvmaze:1097553",
+        "title": "Nature",
+        "season": 8,
+        "episode": 2,
+        "released": "2017-04-21",
+        "overview": "Artists celebrate the beauty and future of the American landscape; featured artists include Patrick Dougherty, Mary Merkel-Hess, Michelle Holzapfel, Catherine Alice Michaelis and Preston Singletary."
+      },
+      {
+        "id": "tvmaze:1275687",
+        "title": "Borders",
+        "season": 9,
+        "episode": 1,
+        "released": "2017-09-22",
+        "overview": "Explore the relationships and influences Mexican and American craft artists have on each other.BORDERS explores the connections between Mexico and the United States through craft. Featuring master altar maker Ofelia Esparza and the Day of the Dead celebration; master weaver J. Isaac Vásquez Garcia and family; weaver Jim Bassler, potter Veralee Bassler and the colorful Guelaguetza parade; and artist Kiff Slemmons and maestro Francisco Toledo at Taller Arte Papel."
+      },
+      {
+        "id": "tvmaze:1286030",
+        "title": "Neighbors",
+        "season": 9,
+        "episode": 2,
+        "released": "2017-09-29",
+        "overview": "Travel to and from the U.S. and Mexico to see how aesthetics cross and re-cross both countries."
+      },
+      {
+        "id": "tvmaze:1568753",
+        "title": "California",
+        "season": 10,
+        "episode": 1,
+        "released": "2018-12-21",
+        "overview": "CALIFORNIA explores the diverse craft traditions and innovations of the Golden State.Explore the diverse craft traditions and innovations in the Golden State. Featuring Pomo basket weaver Corine Pearce, silversmith Randy Stromsoe, the Arts and Crafts architecture of Greene and Greene, stained glass artists at Judson Studios, cabinetmakers James Ipekjian and Jack Ipekjian, and textile artist Deborah Cross."
+      },
+      {
+        "id": "tvmaze:1568754",
+        "title": "Visionaries",
+        "season": 10,
+        "episode": 2,
+        "released": "2018-12-21",
+        "overview": "VISIONARIES delves into stories of craft artists and influencers who, by sheer genius, inspire succeeding generations.Documenting the ways in which artists and influencers inspire new generations to envision the limitless possibilities of craft. Featuring textile designer and founder of LongHouse Reserve Jack Lenor Larsen, curator Helen Molesworth and Black Mountain College, fiber artist Kay Sekimachi, collector Forrest L. Merrill, and book artist Felicia Rice."
+      },
+      {
+        "id": "tvmaze:1762060",
+        "title": "Quilts",
+        "season": 11,
+        "episode": 1,
+        "released": "2019-12-27",
+        "overview": "Learn about contemporary quilters as we celebrate the role quilts play in our country's story.Learn about contemporary quilters from diverse traditions as we celebrate the important role quilts have played in our country's story. Featuring Susan Hudson, Victoria Findlay Wolfe, Michael A. Cummings, Judith Content, the International Quilt Museum, and special guest Ken Burns."
+      },
+      {
+        "id": "tvmaze:1762061",
+        "title": "Identity",
+        "season": 11,
+        "episode": 2,
+        "released": "2019-12-27",
+        "overview": "Artists explore issues of gender, race and culture, offering true expressions of their experiences.Artists explore issues of gender, race, culture and place, offering true expressions of their experience in this world. Featuring potter Diego Romero, photographer Cara Romero, furniture maker Wendy Maruyama, and sculptor Cristina Córdova."
+      },
+      {
+        "id": "tvmaze:1965257",
+        "title": "Storytellers",
+        "season": 12,
+        "episode": 1,
+        "released": "2020-12-11",
+        "overview": "Meet artists who use narrative to communicate personal and universal truths."
+      },
+      {
+        "id": "tvmaze:1965258",
+        "title": "Democracy",
+        "season": 12,
+        "episode": 2,
+        "released": "2020-12-11",
+        "overview": "Explore how craft is intertwined with our nation's defining principles."
+      },
+      {
+        "id": "tvmaze:2227757",
+        "title": "Harmony",
+        "season": 13,
+        "episode": 1,
+        "released": "2021-12-10",
+        "overview": "HARMONY bridges the art forms of music and craft, celebrating the joy of music and the creation of handcrafted instruments. Featuring accordion maker Marc Savoy and the Savoy family, bow maker Susan Lipkins, luthier Doug Naselroad and the Appalachian Artisan Center Culture of Recovery Program, and artist Richard Jolley, whose monumental sculpture inspired a violin concerto."
+      },
+      {
+        "id": "tvmaze:2227758",
+        "title": "Jewelry",
+        "season": 13,
+        "episode": 2,
+        "released": "2021-12-10",
+        "overview": "JEWELRY explores the history, artistry, and impact of personal adornment. Featuring: classic jeweler Tom Herman; Harriete Estel Berman who creates jewelry with recycled materials; the coeditors of Ornament Magazine; the legacy of modernist jeweler Art Smith; nature-inspired artist Gabrielle Gould; and Navajo/Hopi master jeweler Jesse Monongya."
+      },
+      {
+        "id": "tvmaze:2429587",
+        "title": "Inspiration",
+        "season": 14,
+        "episode": 1,
+        "released": "2022-11-01",
+        "overview": "INSPIRATION reveals the magic and influence of craft. Featuring the Saar family (Betye Saar, Alison Saar, and Maddy Leeser), Simon Rodia and Watts Towers, Diedrick Brackens, Ayumi Horie, Suzanne Thao, Mandora Young, Tousue Vang, Chef Yia Vang, and Mary Little."
+      },
+      {
+        "id": "tvmaze:2429588",
+        "title": "Home",
+        "season": 14,
+        "episode": 2,
+        "released": "2022-11-01",
+        "overview": "HOME visits artists whose environments are filled with meaning and metaphor. Featuring Syd Carpenter, Helen Drutt, Wharton Esherick, Biskakone Greg Johnson, North House Folk School, and Sim Van der Ryn."
+      },
+      {
+        "id": "tvmaze:2442989",
+        "title": "Inspiration",
+        "season": 14,
+        "episode": 3,
+        "released": "2022-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2442990",
+        "title": "Home",
+        "season": 14,
+        "episode": 4,
+        "released": "2022-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2708295",
+        "title": "Play",
+        "season": 15,
+        "episode": 1,
+        "released": "2023-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2708294",
+        "title": "Miniatures",
+        "season": 15,
+        "episode": 2,
+        "released": "2023-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3084445",
+        "title": "Science",
+        "season": 16,
+        "episode": 1,
+        "released": "2024-12-27",
+        "overview": "Investigating the unexpected intersection between art and the sciences, spanning technology, engineering, biology, math and the climate emergency."
+      },
+      {
+        "id": "tvmaze:3304149",
+        "title": "Collectors",
+        "season": 16,
+        "episode": 2,
+        "released": "2024-12-27",
+        "overview": "From Chicano art to teapots and wooden spoons, a look at the essential role that craft collectors play in the community and how their support furthers artists at all stages of their careers."
+      },
+      {
+        "id": "tvmaze:3304153",
+        "title": "East",
+        "season": 17,
+        "episode": 1,
+        "released": "2025-12-19",
+        "overview": "\"EAST\" explores the intersection of history, culture, and contemporary craft in the eastern region of the U.S. As a nation of immigrants, these American stories, from a fabric flower factory to a silversmith to a potter and more, highlight the diverse expressions behind modern craft."
+      },
+      {
+        "id": "tvmaze:3304155",
+        "title": "West",
+        "season": 17,
+        "episode": 2,
+        "released": "2025-12-19",
+        "overview": "\"WEST\" celebrates the continuum of heritage and the handmade, taking inspiration from the landscape, history, and culture of the American West. Working across cowboy arts, Hawaiian indigenous practices, and Native American handwork, the artists show how traditional craft can be revived, reworked and reinvented in the art of today."
+      }
+    ]
+  }
+}

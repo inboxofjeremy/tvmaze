@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:9069",
+    "type": "series",
+    "name": "Special Report",
+    "description": "Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/518/1295155.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/518/1295155.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3458354",
+        "title": "Episode 247",
+        "season": 2025,
+        "episode": 247,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

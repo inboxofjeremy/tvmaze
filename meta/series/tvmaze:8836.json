@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:8836",
+    "type": "series",
+    "name": "FOX NFL Kickoff",
+    "description": "FOX NFL Kickoff provides a preview of the day's NFL action, including interviews with NFL newsmakers, reports from NFL game venues, breaking news and updates.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016515.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/406/1016515.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3451244",
+        "title": "Week 14",
+        "season": 9,
+        "episode": 12,
+        "released": "2025-12-07",
+        "overview": "A preview of the day's NFL action, including interviews with NFL newsmakers, reports from NFL game venues, breaking news and updates."
+      }
+    ]
+  }
+}

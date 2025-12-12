@@ -1,0 +1,524 @@
+{
+  "meta": {
+    "id": "tvmaze:63192",
+    "type": "series",
+    "name": "Tracker",
+    "description": "Tracker features lone-wolf survivalist Colter Shaw, who roams the country as a \"reward seeker,\" using his expert tracking skills to help private citizens and law enforcement to solve all manner of mysteries while contending with his own fractured family.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479867.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/591/1479867.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429748",
+        "title": "Eurydice",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-07",
+        "overview": "When a grieving mother becomes the prime suspect in her missing daughter's murder, Colter sets out to find the true culprit and prove her innocence."
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2545245",
+        "title": "Klamath Falls",
+        "season": 1,
+        "episode": 1,
+        "released": "2024-02-11",
+        "overview": "Colter's handlers, Velma and Teddi Bruin, send him to Klamath Falls, Ore., to investigate the disappearance of 14-year-old Gil Brown who is suspected to have been taken by his birth dad with a criminal background. While pursuing a lead at a local burger joint based on intel from tech genius Bobby Exley, Colter finds himself in some trouble of his own requiring help from legal mind Reenie Greene."
+      },
+      {
+        "id": "tvmaze:2687412",
+        "title": "Missoula",
+        "season": 1,
+        "episode": 2,
+        "released": "2024-02-18",
+        "overview": "Colter tracks down a missing young man who has been pulled into a deadly cult and doesn't want to be found."
+      },
+      {
+        "id": "tvmaze:2702956",
+        "title": "Springland",
+        "season": 1,
+        "episode": 3,
+        "released": "2024-02-25",
+        "overview": "As Colter helps a young woman locate her free-spirited sister, he digs deeper into how her last days may lead to a dark secret she unearthed in this tight-knit town."
+      },
+      {
+        "id": "tvmaze:2705236",
+        "title": "Mt. Shasta",
+        "season": 1,
+        "episode": 4,
+        "released": "2024-03-03",
+        "overview": "Colter races against the clock to find the missing teenage son of Reenie's close friend Erika."
+      },
+      {
+        "id": "tvmaze:2768189",
+        "title": "St. Louis",
+        "season": 1,
+        "episode": 5,
+        "released": "2024-03-17",
+        "overview": "The odds are stacked against Colter as he is tasked by a convicted murderer's teenage daughter to track down a missing witness who could prove her dad's innocence."
+      },
+      {
+        "id": "tvmaze:2770634",
+        "title": "Lexington",
+        "season": 1,
+        "episode": 6,
+        "released": "2024-03-24",
+        "overview": "Colter reluctantly teams up with his nemesis, fellow reward seeker Billie Matalon, to track down a missing racehorse."
+      },
+      {
+        "id": "tvmaze:2793888",
+        "title": "Chicago",
+        "season": 1,
+        "episode": 7,
+        "released": "2024-03-31",
+        "overview": "Colter, Bobby and Reenie race against time to track down a talented MMA fighter who disappeared while trying to solve her family's trouble with their visas."
+      },
+      {
+        "id": "tvmaze:2783286",
+        "title": "Camden",
+        "season": 1,
+        "episode": 8,
+        "released": "2024-04-14",
+        "overview": "Colter tracks down a dockworker who went missing two weeks before his wedding."
+      },
+      {
+        "id": "tvmaze:2809358",
+        "title": "Aurora",
+        "season": 1,
+        "episode": 9,
+        "released": "2024-04-21",
+        "overview": "When a widower offers a reward to find his only daughter who disappeared three years ago and is presumed dead, Colter agrees to help track her down."
+      },
+      {
+        "id": "tvmaze:2818341",
+        "title": "Into the Wild",
+        "season": 1,
+        "episode": 10,
+        "released": "2024-04-28",
+        "overview": "Colter journeys into the wilderness of Idaho to track down the owner of an aerial outfitting company's missing adult children, and friends of Reenie's father, who were last seen in a plane that took off during bad weather."
+      },
+      {
+        "id": "tvmaze:2822471",
+        "title": "Beyond the Campus Walls",
+        "season": 1,
+        "episode": 11,
+        "released": "2024-05-05",
+        "overview": "When a grad student goes missing after a house party, his friends and family believe he buckled under the pressure of his research grant; Colter uncovers a dangerous -- and deadly -- conspiracy."
+      },
+      {
+        "id": "tvmaze:2822472",
+        "title": "Off the Books",
+        "season": 1,
+        "episode": 12,
+        "released": "2024-05-12",
+        "overview": "Colter is forced to team up with his estranged brother, who enlists his help to track down a former army buddy who's gone missing after several weeks of paranoid behavior."
+      },
+      {
+        "id": "tvmaze:2822473",
+        "title": "The Storm",
+        "season": 1,
+        "episode": 13,
+        "released": "2024-05-19",
+        "overview": "Colter investigates the disappearance of two amateur storm chasers that the local police have written off as an accidental drowning; Colter's expert tracking skills lead him to uncover the seedy underbelly of a small town resort."
+      },
+      {
+        "id": "tvmaze:2941522",
+        "title": "Out of the Past",
+        "season": 2,
+        "episode": 1,
+        "released": "2024-10-13",
+        "overview": "The disappearance of a family in the backwoods of Arkansas leads Colter to a shocking discovery; Reenie opens up her new law firm and enlists Velma's help in setting up shop."
+      },
+      {
+        "id": "tvmaze:2941523",
+        "title": "Ontological Shock",
+        "season": 2,
+        "episode": 2,
+        "released": "2024-10-20",
+        "overview": "When Colter suddenly disappears during his search for a missing father, Reenie recruits his brother, Russell, for help."
+      },
+      {
+        "id": "tvmaze:2956421",
+        "title": "Bloodlines",
+        "season": 2,
+        "episode": 3,
+        "released": "2024-10-27",
+        "overview": "Colter and rival rewardist Billie Matalon team up to find a missing high school baseball star."
+      },
+      {
+        "id": "tvmaze:2956422",
+        "title": "Noble Rot",
+        "season": 2,
+        "episode": 4,
+        "released": "2024-11-03",
+        "overview": "Reenie gets Colter to take a case involving a woman missing from a high-end wellness retreat."
+      },
+      {
+        "id": "tvmaze:2985472",
+        "title": "Preternatural",
+        "season": 2,
+        "episode": 5,
+        "released": "2024-11-10",
+        "overview": "Colter takes a job locating a missing teen with a unique spiritual gift in an inhospitable mining town."
+      },
+      {
+        "id": "tvmaze:2985473",
+        "title": "Trust Fall",
+        "season": 2,
+        "episode": 6,
+        "released": "2024-11-17",
+        "overview": "While searching for missing campers, Colter meets a retired police officer who believes a serial killer is on the loose."
+      },
+      {
+        "id": "tvmaze:2985474",
+        "title": "Man's Best Friend",
+        "season": 2,
+        "episode": 7,
+        "released": "2024-11-24",
+        "overview": "When Colter finds a lost dog at a gas station in Denver and the dog is subsequently stolen from his truck, Colter makes it his mission to track him down and reunite him with his family."
+      },
+      {
+        "id": "tvmaze:2985475",
+        "title": "The Night Movers",
+        "season": 2,
+        "episode": 8,
+        "released": "2024-12-01",
+        "overview": "Colter is tasked with tracking down a man who seemingly died in a car accident months earlier; Colter catches a break in his white whale case."
+      },
+      {
+        "id": "tvmaze:2985476",
+        "title": "The Disciple",
+        "season": 2,
+        "episode": 9,
+        "released": "2025-02-16",
+        "overview": "A new lead in Colter's white whale case, the disappearance of Gina Picket, brings him and retired cop Keaton back together to track down a serial killer."
+      },
+      {
+        "id": "tvmaze:2985477",
+        "title": "Nightingale",
+        "season": 2,
+        "episode": 10,
+        "released": "2025-02-23",
+        "overview": "After Colter is hired to find a missing singer linked to a violent crime, he discovers his target is a stoic survivalist, not unlike himself."
+      },
+      {
+        "id": "tvmaze:3139989",
+        "title": "Shades of Gray",
+        "season": 2,
+        "episode": 11,
+        "released": "2025-03-02",
+        "overview": "While tracking the son of a prominent New Jersey cupcake chain founder, Colter gets thrust into the middle of a violent mafia war."
+      },
+      {
+        "id": "tvmaze:3147835",
+        "title": "Monster",
+        "season": 2,
+        "episode": 12,
+        "released": "2025-03-09",
+        "overview": "Colter is hired to find a mother in Ohio who went missing after tucking her son in for the night."
+      },
+      {
+        "id": "tvmaze:3155180",
+        "title": "Neptune",
+        "season": 2,
+        "episode": 13,
+        "released": "2025-03-16",
+        "overview": "Colter travels to New York City to find a woman who vanished in the dressing room of an upscale clothing store."
+      },
+      {
+        "id": "tvmaze:3159973",
+        "title": "Exodus",
+        "season": 2,
+        "episode": 14,
+        "released": "2025-03-23",
+        "overview": "When a teenage musician vanishes in New Orleans, Colter teams up with a local detective and uncovers a chilling mystery involving dark magic."
+      },
+      {
+        "id": "tvmaze:3167327",
+        "title": "The Grey Goose",
+        "season": 2,
+        "episode": 15,
+        "released": "2025-03-30",
+        "overview": "Colter recruits fellow rewardist Billie Matalon to infiltrate a women's prison in order to gain access to critical information that would help track down an escaped prisoner and her hostage."
+      },
+      {
+        "id": "tvmaze:3180977",
+        "title": "The Mercy Seat",
+        "season": 2,
+        "episode": 16,
+        "released": "2025-04-13",
+        "overview": "Colter helps an old friend with a search and rescue mission for two missing sisters in the snowy Montana wilderness. Meanwhile, Reenie gets a visit from a new client that challenges her morality."
+      },
+      {
+        "id": "tvmaze:3180978",
+        "title": "Memories",
+        "season": 2,
+        "episode": 17,
+        "released": "2025-04-20",
+        "overview": "Randy enlists Colter's services for his ex after her best friend goes missing following a night on the town in Reno."
+      },
+      {
+        "id": "tvmaze:3180979",
+        "title": "Collision",
+        "season": 2,
+        "episode": 18,
+        "released": "2025-04-27",
+        "overview": "Colter heads to Willow Creek, Mich., after a worried mother hires him to track down her beauty queen daughter, Riley, who vanished while driving home from work. While investigating at the garden center where Riley works, Colter looks into her modeling past and uncovers that she was hiding a major secret."
+      },
+      {
+        "id": "tvmaze:3180980",
+        "title": "Rules of the Game",
+        "season": 2,
+        "episode": 19,
+        "released": "2025-05-04",
+        "overview": "When Reenie's client, Leo Sharf, hires Colter to track down his missing assistant before his company launch, the case takes a personal turn and Reenie becomes entangled in a deadly vendetta threatening both of their lives. Also, Colter visits his sister, Dory."
+      },
+      {
+        "id": "tvmaze:3180981",
+        "title": "Echo Ridge",
+        "season": 2,
+        "episode": 20,
+        "released": "2025-05-11",
+        "overview": "Colter returns to Echo Ridge to investigate a diner owner's disappearance, only to uncover a kidnapping ring and a shocking family secret."
+      },
+      {
+        "id": "tvmaze:3301111",
+        "title": "The Process",
+        "season": 3,
+        "episode": 1,
+        "released": "2025-10-19",
+        "overview": "As Colter grapples with the shocking truth surrounding his father's death, Russell joins forces with his brother to help track down the missing wife and daughter of one of Reenie's clients."
+      },
+      {
+        "id": "tvmaze:3339153",
+        "title": "Leverage",
+        "season": 3,
+        "episode": 2,
+        "released": "2025-10-26",
+        "overview": "After discovering they've disrupted a sinister underground operation called The Process, Colter and Russell must race to find the source behind these chained events and end it once and for all."
+      },
+      {
+        "id": "tvmaze:3368304",
+        "title": "First Fire",
+        "season": 3,
+        "episode": 3,
+        "released": "2025-11-02",
+        "overview": "On Halloween night, when a nurse is murdered and arsonist Heston Koontz disappears from a psychiatric facility, Colter follows a trail of unsettling clues to uncover the truth."
+      },
+      {
+        "id": "tvmaze:3395407",
+        "title": "No Man's Land",
+        "season": 3,
+        "episode": 4,
+        "released": "2025-11-09",
+        "overview": "When a man disappears in a lawless desert town, Colter's investigation uncovers a hidden relationship that draws him into a dangerous power struggle – and leaves him facing the hard conditions of the wilderness."
+      },
+      {
+        "id": "tvmaze:3395408",
+        "title": "The Old Ways",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-11-16",
+        "overview": "Four teens vanish in the Santa Cruz Mountains, and Colter's search uncovers a hidden agenda."
+      },
+      {
+        "id": "tvmaze:3423047",
+        "title": "Angel",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-11-23",
+        "overview": "When a crime scene cleaner disappears, Colter discovers her fascination with true crime, which may have led her into dangerous territory; Colter uncovers a group of amateur sleuths whose hunt for a killer puts everyone at risk."
+      },
+      {
+        "id": "tvmaze:3424218",
+        "title": "Eat the Rich",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-11-30",
+        "overview": "When chasing down leads about his father's past, Colter meets a man desperate to find his daughter who vanished while working a courier route; Colter is pulled into an orbit of a wealthy family and their ruthless fixer."
+      },
+      {
+        "id": "tvmaze:3429748",
+        "title": "Eurydice",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-12-07",
+        "overview": "When a grieving mother becomes the prime suspect in her missing daughter's murder, Colter sets out to find the true culprit and prove her innocence."
+      },
+      {
+        "id": "tvmaze:3429749",
+        "title": "Good Trouble",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-14",
+        "overview": "When Colter's old friend Keaton asks for help finding his former partner, they uncover a trail of bodies and a conspiracy that runs deeper than they could've imagined."
+      },
+      {
+        "id": "tvmaze:3429750",
+        "title": "TBA",
+        "season": 3,
+        "episode": 10,
+        "released": "2026-03-01",
+        "overview": ""
+      }
+    ]
+  }
+}

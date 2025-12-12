@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:83807",
+    "type": "series",
+    "name": "The Weekend Primetime",
+    "description": "A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/566/1416665.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/566/1416665.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3434633",
+        "title": "Episode 63",
+        "season": 2025,
+        "episode": 63,
+        "released": "2025-12-07",
+        "overview": "New questions are emerging about another boat strike, this one on October 16. It targeted suspected drug runners. But unlike the double-tap September strike where two survivors were killed, two survivors in the October attack were rescued by U.S. forces and quickly repatriated to Colombia and Ecuador.Defense Secretary Pete Hegseth remains in crisis mode for a September attack on an alleged drug boat in the Caribbean, and the revelation of a second strike to eliminate survivors. There are serious questions whether Hegseth will be the first member of the second Trump administration to get the chop."
+      }
+    ]
+  }
+}

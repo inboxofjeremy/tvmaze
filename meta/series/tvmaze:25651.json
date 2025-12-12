@@ -1,0 +1,1956 @@
+{
+  "meta": {
+    "id": "tvmaze:25651",
+    "type": "series",
+    "name": "Abandoned Engineering",
+    "description": "As the saying goes – they probably seemed like good ideas at the time. The world is peppered with examples of incredible engineering projects and buildings designed to make life easier for those that used them, amaze those that came to see them, and make money for those that ordered, designed and built them. They were the stuff of dreams. Often enormous engineering problems had to be resolved, obstacles overcome and new innovations employed just to get them built in the first place. Alas, a great number of these remarkable structures have now been abandoned, cast aside like enormous expensive out-of-date toys, never to be used in the ways for which they were intended. Each and every one of these extraordinary places is home to a wealth of powerful and compelling stories. We'll see and hear about some of the most spectacular examples of abandoned engineering the world has eve...",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/476/1190506.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/476/1190506.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:3450702",
+        "title": "The Nazi's Last Stand",
+        "season": 15,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "Nazi towers in Berlin that were defended to the bitter end by child soldiers, a Chicago institution that was the largest of its kind, and an odd vision in the Malaysian jungle."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:3450702",
+        "title": "The Nazi's Last Stand",
+        "season": 15,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "Nazi towers in Berlin that were defended to the bitter end by child soldiers, a Chicago institution that was the largest of its kind, and an odd vision in the Malaysian jungle."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:3450702",
+        "title": "The Nazi's Last Stand",
+        "season": 15,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "Nazi towers in Berlin that were defended to the bitter end by child soldiers, a Chicago institution that was the largest of its kind, and an odd vision in the Malaysian jungle."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:3450702",
+        "title": "The Nazi's Last Stand",
+        "season": 15,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "Nazi towers in Berlin that were defended to the bitter end by child soldiers, a Chicago institution that was the largest of its kind, and an odd vision in the Malaysian jungle."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:3450702",
+        "title": "The Nazi's Last Stand",
+        "season": 15,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "Nazi towers in Berlin that were defended to the bitter end by child soldiers, a Chicago institution that was the largest of its kind, and an odd vision in the Malaysian jungle."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:3450702",
+        "title": "The Nazi's Last Stand",
+        "season": 15,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "Nazi towers in Berlin that were defended to the bitter end by child soldiers, a Chicago institution that was the largest of its kind, and an odd vision in the Malaysian jungle."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:3450702",
+        "title": "The Nazi's Last Stand",
+        "season": 15,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "Nazi towers in Berlin that were defended to the bitter end by child soldiers, a Chicago institution that was the largest of its kind, and an odd vision in the Malaysian jungle."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:3450702",
+        "title": "The Nazi's Last Stand",
+        "season": 15,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "Nazi towers in Berlin that were defended to the bitter end by child soldiers, a Chicago institution that was the largest of its kind, and an odd vision in the Malaysian jungle."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      },
+      {
+        "id": "tvmaze:1083895",
+        "title": "Silent Cities",
+        "season": 1,
+        "episode": 1,
+        "released": "2017-02-18",
+        "overview": "Empty buildings and infrastructures are full of the echoes of real people and vanished lives, leaving many questions unanswered and mysteries unsolved. We explore the worlds strangest engineering projects that created empty silent cities. We ask why a ruined cold war air base has become a no-go area and how a tiny Japanese mining island become the most over-crowded place on the planet. We find out if the street layout of the Soviet Union's model city become a matter of life or death for its population. And how did Nazi Germany create a huge mind control facility at a holiday resort?"
+      },
+      {
+        "id": "tvmaze:1083928",
+        "title": "Mission: Space",
+        "season": 1,
+        "episode": 2,
+        "released": "2017-02-25",
+        "overview": "We aim for the stars and find out why unwanted battleship guns allow the United States to gain vital information about the borders of space. We ask how the shattered remains of a secret Nazi base became the first on the path to a new world, with the development of the ground-breaking V2 rocket. We explore a forgotten structure deep in the Arizona desert to ask if it is the true home of America's space programme. And we reveal the bizarre link between a discarded oil drum and a Cold War struggle to survive in zero gravity."
+      },
+      {
+        "id": "tvmaze:1089417",
+        "title": "Lost Bridges",
+        "season": 1,
+        "episode": 3,
+        "released": "2017-03-04",
+        "overview": "Soaring across some of the widest rivers and deepest valleys on the planet, bridges have always been at the cutting edge of engineering. We travel high into the mountains of the Colorado desert to find out why a hidden engineering masterpiece could disappear at any time. We ask why a stretch of overgrown concrete in a Czech reservoir is known as 'Hitler's bridge'. We find out how the highest bridge in the world collapsed in less than one minute. Finally, we uncover the story behind Cape Town's invisible bridge, which never carried a single vehicle."
+      },
+      {
+        "id": "tvmaze:1107166",
+        "title": "Ghost Ships",
+        "season": 1,
+        "episode": 4,
+        "released": "2017-03-11",
+        "overview": "Exploring ship graveyards, including Scapa Flow in Orkney, where German warships were scuttled after the First World War, and Mallows Bay, home to 200 wrecks colonised by wildlife."
+      },
+      {
+        "id": "tvmaze:1107167",
+        "title": "Quest for Power",
+        "season": 1,
+        "episode": 5,
+        "released": "2017-03-18",
+        "overview": "How Europe's most advanced power station became a film set. Plus, the structures made by scientific pioneer Nikola Tesla in his thwarted quest to prove the US with free electricity."
+      },
+      {
+        "id": "tvmaze:1130737",
+        "title": "Roads to Nowhere",
+        "season": 1,
+        "episode": 6,
+        "released": "2017-04-06",
+        "overview": "Hear how a crumbling hill in the Peak District and dunes in California caused the closure of two roads. Learn why a route used by the French Resistance shut in 2003."
+      },
+      {
+        "id": "tvmaze:1457970",
+        "title": "Hitler's Army Powerhouse",
+        "season": 2,
+        "episode": 1,
+        "released": "2018-05-08",
+        "overview": "A dark past explains why the Pölitz Synthetic Fuel Plant in Northern Poland is now a derelict industrial site littered with tunnels, bunkers and huge crumbling concrete structures lost in dense forest. The site was built in 1937 as part of Nazi Germany's drive to become self-sufficient on fuel, but it was no ordinary refinery. It used the latest technology at the time, at great expense, to turn coal into oil. In 1945 an Allied air raid pulverised the plant, severely wounding the German war machine and leaving the site in ruins.Other structures examined in the first episode include the incredible vertical Phoenix Shot Tower in Baltimore, which was built to provide America's own ammunition, the former American spy instillation called Teufelsberg (or \"Devil's Mountain\") in Berlin which waged the Cold War against the Soviet Union, and the now derelict Rubjerg Knude Lighthouse which was built on Europe's second-fastest moving sand dune in Denmark."
+      },
+      {
+        "id": "tvmaze:1457971",
+        "title": "Britain's Sea Fort Complex",
+        "season": 2,
+        "episode": 2,
+        "released": "2018-05-15",
+        "overview": "A strange group of rusting structures off the coast of England, a dilapidated mediaeval-style castle in the heart of urban America and one of the biggest machines ever built lying forgotten in a German field. Once these extraordinary places and objects were at the cutting edge of design and construction, but now they stand disused, sometimes contaminated and sometimes dangerous. But who was it that built these mysterious structures? What incredible stories surround them? What secrets do they hold? And why were they abandoned?Seven huge steel boxes rise 80-feet out of the water off the coast of England at the mouth of the River Thames. Now rusting and derelict, The Red Sands Sea Fort was originally built as a first line of defence to deter the Nazi threat to London. Successfully helping the Allies to victory in 1945, the project is one of the most extraordinary engineering successes of World War II.Also in this episode, a sinister-looking deserted Cold War concrete pyramid in North Dakota; a vast empty complex located in the heart of a Philadelphia; and a 4,000-tonne corroding mass of steel, left to rot in a field in Eastern Germany."
+      },
+      {
+        "id": "tvmaze:1467902",
+        "title": "The Italian Dam Disaster",
+        "season": 2,
+        "episode": 3,
+        "released": "2018-05-22",
+        "overview": "Hear the fateful story of the disused Vajont Dam in Italy, the site of a tragic disaster in 1963 which resulted in the deaths of around 2,000 people."
+      },
+      {
+        "id": "tvmaze:1467903",
+        "title": "Battle of Britain Technology Facility",
+        "season": 2,
+        "episode": 4,
+        "released": "2018-05-29",
+        "overview": "Learn about the strange-looking, derelict military facilities in Farnborough, which were once wind tunnels that played a vital role in WWII."
+      },
+      {
+        "id": "tvmaze:1467904",
+        "title": "The Abandoned Nazi Railway",
+        "season": 2,
+        "episode": 5,
+        "released": "2018-06-05",
+        "overview": "The Canfranc Railway Station is an elaborate abandoned Nazi railway station built near a town of only 500 people in the Pyrenees in Spain. But why was it built there and what secrets does it hold?Also examined in this episode is the Salton Sea Navy Base in California - a military post in the middle of the desert in the American west, the Kola Superdeep borehole - a wrecked record-holding Arctic facility in Russia that goes deep, deep underground, and a huge tower looming over an industrial area in Belgium. All of these extraordinary places and objects were at the cutting edge of design and construction, but now they stand disused, sometimes contaminated and sometimes dangerous."
+      },
+      {
+        "id": "tvmaze:1474720",
+        "title": "America's Jungle City",
+        "season": 2,
+        "episode": 6,
+        "released": "2018-06-12",
+        "overview": "This week, find out why Fordlandia Rubber Town, a symbol of the American dream first established by Henry Ford in the 1920s, is now left rotting in the Amazonian rainforest. Also, what secrets do the enormous monoliths scattered across a secret forest complex in Eastern Poland hold? And what secrets does a fortified corridor of death with a Cold war past stretching for miles across Hötensleben, Germany hold? And a bizarre structure in South Western France built to speed trade was once at the forefront of design, now lies disused and abandoned, but why?"
+      },
+      {
+        "id": "tvmaze:1474727",
+        "title": "Germany's Lost Warship",
+        "season": 2,
+        "episode": 7,
+        "released": "2018-06-19",
+        "overview": "The Georg Thiele was a technological masterpiece, but it is a shipwreck, lost to the sea in a Norwegian Fjord after running aground during a naval battle in WWII.Also in this episode, a mysterious concrete giant which echoes the Communist era atop a mountain peak in Bulgaria, a fantastical structure built in the middle of an American river, and one of the world's first and finest Artic feats of engineering, The Miles Glacier Bridge in Alaska, which, when it was first built in the early 1900s, was known as the Million Dollar Bridge."
+      },
+      {
+        "id": "tvmaze:1479441",
+        "title": "Lost Highway in the Rainforest",
+        "season": 2,
+        "episode": 8,
+        "released": "2018-06-26",
+        "overview": "A lost highway in the Brazilian jungle, a forgotten bunker system in the French Alps and a man-made island in the shadow of the Statue of Liberty. Who built them, and why?"
+      },
+      {
+        "id": "tvmaze:1619628",
+        "title": "The Desert Ghost Fleet",
+        "season": 3,
+        "episode": 1,
+        "released": "2019-03-26",
+        "overview": "A mysterious group of rusting ships stranded in an arid desert; a monstrous defensive line on the snow-covered peaks of the Italian Alps; a ghostly collection of ornate buildings deep in the German woodland; the sunken remains of a unique maritime vessel with a story to tell... Once these extraordinary places and objects were at the cutting edge of design and construction, but now they stand disused, sometimes contaminated and sometimes dangerous. But who was it that built these mysterious structures? What secrets do they hold, and why were they abandoned?"
+      },
+      {
+        "id": "tvmaze:1626309",
+        "title": "The Underwater Prison",
+        "season": 3,
+        "episode": 2,
+        "released": "2019-04-02",
+        "overview": "An abandoned Soviet prison and forced labour camp submerged beneath the water, the eerie remains of a tunnel leading deep into the heart of Blue Ridge Mountains, strange concrete towers hidden away in Finland's snow-covered countryside, and a colossal rusting relic standing proud on the coast of southern Spain."
+      },
+      {
+        "id": "tvmaze:1630031",
+        "title": "Nightmare on Blood Mountain",
+        "season": 3,
+        "episode": 3,
+        "released": "2019-04-09",
+        "overview": "In this episode, concrete channels hidden in a mountaintop forest, a collapsing bridge, a marooned military base and the upright rusting carcass of ship - but why have they all been abandoned?"
+      },
+      {
+        "id": "tvmaze:1630032",
+        "title": "Sabotage in the Mountains",
+        "season": 3,
+        "episode": 4,
+        "released": "2019-04-16",
+        "overview": "The towering remains of a mountainside structure with an explosive past…a deserted and disintegrating cityscape in the heart of Detroit…a former top-secret Soviet facility still shrouded in mystery off the coast of Estonia…a strange hulking mass of concrete lost in the Polish countryside."
+      },
+      {
+        "id": "tvmaze:1636528",
+        "title": "Germany's D-Day Fortress",
+        "season": 3,
+        "episode": 5,
+        "released": "2019-04-23",
+        "overview": "A devastated cliff-top ruin in a pock-marked landscape that helped turn the tide of war, an extraordinary tall ‘tower of death' in the middle of a busy city, an eerie concrete structure stranded at sea that came to a gruesome end, and a mysterious heavy metal monster abandoned in a remote field."
+      },
+      {
+        "id": "tvmaze:1637538",
+        "title": "Hitler's Wonder Weapons Bunker",
+        "season": 3,
+        "episode": 6,
+        "released": "2019-04-30",
+        "overview": "Hidden tunnels that saw a city prosper, a sunken wreck with a remarkable past, a concrete wartime dome and a mysterious cold war building all feature."
+      },
+      {
+        "id": "tvmaze:1638783",
+        "title": "A Ghost Town in Spain",
+        "season": 3,
+        "episode": 7,
+        "released": "2019-05-07",
+        "overview": "A village ruin, a ghostly fleet of ships, a bridge to nowhere hidden in a forest and strange metal structures in a wood all feature."
+      },
+      {
+        "id": "tvmaze:1641772",
+        "title": "England's Abandoned Village",
+        "season": 3,
+        "episode": 8,
+        "released": "2019-05-14",
+        "overview": "An eerie, empty country village which hides a sad secret, a mysterious tower battered by the elements and scarred by war, a desolate and forgotten ravaged town decaying in the desert, and a disused railway deep beneath the streets of a city. But why were they abandoned?"
+      },
+      {
+        "id": "tvmaze:1674059",
+        "title": "The World's Strangest Ghost Town",
+        "season": 4,
+        "episode": 1,
+        "released": "2019-06-27",
+        "overview": "A settlement in Argentina destroyed by floods, a town in the US that has been erased, and a Soviet dream-town that turned into a nuclear nightmare."
+      },
+      {
+        "id": "tvmaze:1674060",
+        "title": "Palace of Death",
+        "season": 4,
+        "episode": 2,
+        "released": "2019-07-04",
+        "overview": "A seemingly endless concrete line stretching through the French countryside, which sits as a monument to a discarded engineering advancement."
+      },
+      {
+        "id": "tvmaze:1676954",
+        "title": "Guernsey Nazi Towers",
+        "season": 4,
+        "episode": 3,
+        "released": "2019-07-11",
+        "overview": "A little-known dark past explains the vast monolithic structures that dominate the small British island of Guernsey."
+      },
+      {
+        "id": "tvmaze:1677247",
+        "title": "Bodie USA",
+        "season": 4,
+        "episode": 4,
+        "released": "2019-07-18",
+        "overview": "A maze of tunnels filled with haunting remains snake their way beneath the streets of Paris. A town in the USA built on greed. A ring of unique fortifications battered by a mighty weapon. A strange formation of domed structures hovering over the waters off the Florida coastline. But how and why were they ever built at all, and why are they now left abandoned?"
+      },
+      {
+        "id": "tvmaze:1678097",
+        "title": "Tunnel to the Underworld",
+        "season": 4,
+        "episode": 5,
+        "released": "2019-07-25",
+        "overview": "A ghostly town in West Virginia that fell victim to the pace of change when steam trains were rendered obsolete. A colossal dry dock structure on the American west coast may now be crumbling but has written itself into military folklore. An elaborate underground complex in Italy that had been abandoned for nearly 2000 years, continues to mystify explorers today. And an island paradise in Costa Rica hiding a grim history of violence within an old, abandoned prison. But how and why were they ever built at all, and why are they now left abandoned?"
+      },
+      {
+        "id": "tvmaze:1680271",
+        "title": "Escobar's Ruin",
+        "season": 4,
+        "episode": 6,
+        "released": "2019-08-01",
+        "overview": "Features a ruined compound in Colombia which was once home to Pablo Escobar and alien-looking structures with no apparent purpose, isolated in an empty English marshland in Denge, near Dungeness in Kent. But how and why were they ever built at all, and why are they now left abandoned?"
+      },
+      {
+        "id": "tvmaze:1731021",
+        "title": "Villa De Vecchi Rhodes",
+        "season": 4,
+        "episode": 7,
+        "released": "2019-10-24",
+        "overview": "A formerly luxurious and strategic mountain-top villa on the island of Rhodes in the Mediterranean that's been ravaged by acts of revenge by locals since 1955. A structure covered in symbols and signs that spirals down into the depths of the unknown. The rust covered carcass of a vast industrial relic deep in the woods of West Virginia, and lone towers battling the might of the ocean at the ends of the earth. But how and why were they ever built, and why are they now left abandoned?"
+      },
+      {
+        "id": "tvmaze:1739238",
+        "title": "Pyramiden Norway",
+        "season": 4,
+        "episode": 8,
+        "released": "2019-10-31",
+        "overview": "A strange-looking deserted town with an almost supernatural atmosphere on a remote Norwegian archipelago in the Arctic Ocean was in fact an ambitious Soviet mining outpost with a tragic history. Also, a collection of imposing buildings on the southern tip of Australia, the remains of curious-looking basins emerging from the waves in the shadow of the Golden Gate Bridge and the ruins of a monumental construction project in southern Germany that was a ruthless regime's deadly prototype."
+      },
+      {
+        "id": "tvmaze:1739239",
+        "title": "Behind the Berlin Wall",
+        "season": 4,
+        "episode": 9,
+        "released": "2019-11-07",
+        "overview": "Once they were at the heart of the Communist empire, now they lie abandoned leaving only memories of a time before the fall of the Berlin Wall. Now, each haunted shell is ready to reveal its own story. Still standing today, a fierce-looking prison and an innocuous looking office building in Berlin were actually the headquarters of a feared and ruthless organisation - the Stazi. Also, a covert Communist base hid Cold War submarines for Tito, the former leader of Yugoslavia on the island of Vis. A seemingly innocuous sports centre hides a sinister underground bunker. And the former HQ of the Soviet Army in East Germany was a forbidden Soviet city within a city - the vast site in the East of Berlin is still abandoned today but its architecture still impresses and even the statues of Lenin still stand in this visually remarkable, place from another time."
+      },
+      {
+        "id": "tvmaze:1748590",
+        "title": "Bannack USA",
+        "season": 4,
+        "episode": 10,
+        "released": "2019-11-14",
+        "overview": "A sprawling Wild West ghost town sits peaceful and abandoned in Montana, USA, but is still haunted by tales of murder, corruption and buried treasure. Also, a cold, dark, underground mountain network that cost the lives of thousands... the crumbling ruins of an English industry that turned poison into profit... a peaceful village that was shattered by the terrors of war."
+      },
+      {
+        "id": "tvmaze:1758822",
+        "title": "Buckner Building Alaska",
+        "season": 4,
+        "episode": 11,
+        "released": "2019-11-21",
+        "overview": "A vast snowcovered monster in the icy wilderness of southern Alaska, a ruined super structure that overshadows everything around it in and a landscape of confusing and surprising structures that once represented a bold statement of Spain's plans for the future. Plus, a long, winding formation that was once supposed to help defend Hitler's Third Reich. And in Budapest, Hungary, the stripped skeleton of an industrial relic lies rusting away."
+      },
+      {
+        "id": "tvmaze:1758823",
+        "title": "1936 Olympic Village Berlin",
+        "season": 4,
+        "episode": 12,
+        "released": "2019-11-28",
+        "overview": "A ghostly house in a tropical paradise that's still feared by the locals... a pioneering complex marked by both glory and tragedy that's soon to be lost forever... a shipping juggernaut that met a dramatic end in the violent waters off South Africa... and towering remains from an industrial age."
+      },
+      {
+        "id": "tvmaze:1788618",
+        "title": "Disaster in the Desert",
+        "season": 5,
+        "episode": 1,
+        "released": "2020-01-21",
+        "overview": "Scorched remains that speak of imprisonment and torture... the desert town that faced a disaster of biblical proportions... a rusting cab leway leading to a deadly site in the mountains of southern Africa... vast coastal ruins that reveal a past once wiped from history."
+      },
+      {
+        "id": "tvmaze:1791572",
+        "title": "The Valkyrie Assassin",
+        "season": 5,
+        "episode": 2,
+        "released": "2020-01-28",
+        "overview": "The underground base with the power to destroy a nation… the site linked with an attempt to kill a vicious dictator… an ancient world discovered in the open American wilderness... the tropical island with a history of violence."
+      },
+      {
+        "id": "tvmaze:1791576",
+        "title": "Escape from Devil's Island",
+        "season": 5,
+        "episode": 3,
+        "released": "2020-02-04",
+        "overview": "Including an exploration of the claustrophobic prison cells of Devil's Island; Vemork, a vast mountainside complex that held the power to change the world; Salton Sea, where a string of crumbling towns are linked by a toxic secret; and Ralsko, a sprawling secretive base that's been left standing on deadly ground."
+      },
+      {
+        "id": "tvmaze:1797860",
+        "title": "Top Secret Nuclear Arsenal",
+        "season": 5,
+        "episode": 4,
+        "released": "2020-02-11",
+        "overview": "Including an exploration of a secretive underground base that concealed the power to destroy nations; Willamette Falls, a sprawling industrial relic clinging to the edge of an unforgiving waterfall; strange constructions, separated by a century, but joined together by war; and Pilgrim's Rest, a hauntingly silent town lost deep in hills of South Africa."
+      },
+      {
+        "id": "tvmaze:1797861",
+        "title": "A Nation Torn Apart",
+        "season": 5,
+        "episode": 5,
+        "released": "2020-02-18",
+        "overview": "Including an exploration of a marooned iron-clad structure in Portland, off the coast of England, that hides a dramatic story of war and resilience; Pratt Cotton Gin Mill, a vast facility in the heart of America's deep south that helped tear apart a nation; and a Mediterranean island fortress at Spinalonga, Greece, that became the scene of a dark conspiracy."
+      },
+      {
+        "id": "tvmaze:1800259",
+        "title": "Ghosts of the Swamp",
+        "season": 5,
+        "episode": 6,
+        "released": "2020-02-25",
+        "overview": "Including an exploration of forgotten relics from the defence of America's homeland, at Fort Jackson, USA, concealed by the banks of the Mississippi River; a concrete behemoth at Lorient Sub Base, on the coast of France, that proved invulnerable to enemy bombardment; and a ghostly ruin at Gwrych that is now home to a haunting presence."
+      },
+      {
+        "id": "tvmaze:1812530",
+        "title": "Death Behind Bars",
+        "season": 5,
+        "episode": 7,
+        "released": "2020-03-03",
+        "overview": "An American prison for the violent and deranged with links to an infamous cult leader, and a cavernous tunnel network in France offering shelter from unrelenting bombardment."
+      },
+      {
+        "id": "tvmaze:1817218",
+        "title": "Behind Enemy Lines",
+        "season": 5,
+        "episode": 8,
+        "released": "2020-03-10",
+        "overview": "An Albanian village home to Allied secret agents, devastated for resisting the Nazi war machine, and a notorious asylum in America that enforced labotomies on a large scale."
+      },
+      {
+        "id": "tvmaze:1888854",
+        "title": "The Lost Pirate City",
+        "season": 6,
+        "episode": 1,
+        "released": "2020-07-09",
+        "overview": "What happened to an infamous pirate city in Jamaica? Also, a grim gulag in Croatia, a wartime subterranean complex in Scotland and a plantation in the Deep South of America caught up in the troubled aftermath of the American Civil War."
+      },
+      {
+        "id": "tvmaze:1891738",
+        "title": "Forbidden Island",
+        "season": 6,
+        "episode": 2,
+        "released": "2020-07-16",
+        "overview": "Examining a ghost island that once belonged to one a secretive country on the fringes of Europe. Also, a haunting site in the UK with evidence of strange burial practices, crumbling Caribbean ruins, and a sleeping industrial giant born from the ashes of America's most divisive war."
+      },
+      {
+        "id": "tvmaze:1898027",
+        "title": "Blast Zone",
+        "season": 6,
+        "episode": 3,
+        "released": "2020-07-23",
+        "overview": "Within a dense Polish woodland sits a forgotten complex with an explosive history. Also, grand coastal defences in Ghana reveal a tortured past, a decaying giant that had once promised to kick-start Serbia's industrial revolution, and a site built to keep America functioning in the aftermath of a nuclear war."
+      },
+      {
+        "id": "tvmaze:1899096",
+        "title": "North of the Wall",
+        "season": 6,
+        "episode": 4,
+        "released": "2020-07-30",
+        "overview": "A complex of stone building near Hadrian's Wall that were built to keep Northern hoards at bay! Also, a top secret military facility in the American Midwest, A series of vast structures in Lithuania and a collection of decaying locomotives in the heart of Ethiopia."
+      },
+      {
+        "id": "tvmaze:1903260",
+        "title": "The World's Strangest Disaster Zones",
+        "season": 6,
+        "episode": 5,
+        "released": "2020-08-06",
+        "overview": "A two-hour special featuring a deserted Caribbean city, an American ghost town still burning, a Japanese no-go zone, an Arctic settlement facing a terrifying future, a sprawling Taiwanese facility that drew liquid gold down from the hills, and a once great lake that's now a barren desert."
+      },
+      {
+        "id": "tvmaze:1954546",
+        "title": "Defenders of Liberty",
+        "season": 6,
+        "episode": 6,
+        "released": "2020-11-03",
+        "overview": "A now silent site that played a pivotal role in defending the United States throughout the 20th century. Plus, a sprawling facility in Taiwan, a crumbling Italian fortress and a ghostly Ukrainian mansion."
+      },
+      {
+        "id": "tvmaze:1954548",
+        "title": "Space Plane",
+        "season": 6,
+        "episode": 7,
+        "released": "2020-11-10",
+        "overview": "A juggernaut of Soviet engineering which was crucial to the international space race. Deserted Scottish coastal defences, an complex that is a crucial part of American history and an ancient Greek settlement that was shaped by years of violence."
+      },
+      {
+        "id": "tvmaze:1967599",
+        "title": "Disaster On The 38th Parallel",
+        "season": 6,
+        "episode": 8,
+        "released": "2020-11-17",
+        "overview": "The mysterious Cachtice Castle home to Elizabeth Bathory, said to have killed over 600 girls and a mysterious structure on the 38th parallel."
+      },
+      {
+        "id": "tvmaze:1967600",
+        "title": "Bunker Nation",
+        "season": 6,
+        "episode": 9,
+        "released": "2020-11-24",
+        "overview": "A small isolated country littered with strange concrete mushrooms, a fort built on America's eastern seaboard, a Spanish village engulfed by tragedy and a secret Japanese facility that was once at the forefront of weapons technology."
+      },
+      {
+        "id": "tvmaze:1975263",
+        "title": "The Human Zoo",
+        "season": 6,
+        "episode": 10,
+        "released": "2020-12-01",
+        "overview": "An impressive compound commandeered and repurposed by a brutal regime and an eerie complex off the coast of Ireland that became the biggest of its kind."
+      },
+      {
+        "id": "tvmaze:1975264",
+        "title": "Spike Island",
+        "season": 6,
+        "episode": 11,
+        "released": "2020-12-08",
+        "overview": "A creepy collection of buildings, monuments hidden in a Parisian park and an eerie graveyard of discarded ships strewn along the banks of a mighty river."
+      },
+      {
+        "id": "tvmaze:1984750",
+        "title": "Hollywood Heroes",
+        "season": 7,
+        "episode": 1,
+        "released": "2021-01-13",
+        "overview": "Eerily familiar ruins amidst shifting desert sands, legendary film sets with surprising pasts and real locations that inspired Hollywood. Within these decaying structures are the echoes of history, each haunted shell with its own unique story."
+      },
+      {
+        "id": "tvmaze:1990004",
+        "title": "Stalin's Subway",
+        "season": 7,
+        "episode": 2,
+        "released": "2021-01-20",
+        "overview": "A secretive facility in North Wales which produced horrific weapons. The Scattered ruins of an engineering disaster in the USA. A subterranean network in Ukraine. And an island prison built to stop deadly epidemics in their tracks."
+      },
+      {
+        "id": "tvmaze:2005679",
+        "title": "Disaster at the Maya Hotel",
+        "season": 7,
+        "episode": 3,
+        "released": "2021-01-27",
+        "overview": "Ruins of a vast industrial ghost town in the United States, a windswept, Scottish island and the remains of a resort in Japan that watched a city burn. Within these decaying structures are the echoes of history; each haunted shell now ready to tell its unique story."
+      },
+      {
+        "id": "tvmaze:2015486",
+        "title": "Murder Underground",
+        "season": 7,
+        "episode": 4,
+        "released": "2021-02-03",
+        "overview": "An engineering masterpiece carved into the cliff-face, and a long-range beacon that transmitted one of the most infamous messages in American history."
+      },
+      {
+        "id": "tvmaze:2026894",
+        "title": "El Dorado Canyon",
+        "season": 7,
+        "episode": 5,
+        "released": "2021-02-10",
+        "overview": "An American desert canyon where fortunes were made and lives were lost, and an island fortress in Scotland with an Achilles heel."
+      },
+      {
+        "id": "tvmaze:2026895",
+        "title": "The Mafia Bunker",
+        "season": 7,
+        "episode": 6,
+        "released": "2021-02-17",
+        "overview": "An iron monster lost in the Alaskan tundra, a Crusader fort thrown into a modern conflict, and a prison built to house a mafia kingpin."
+      },
+      {
+        "id": "tvmaze:2031180",
+        "title": "Episode 7",
+        "season": 7,
+        "episode": 7,
+        "released": "2021-02-24",
+        "overview": "A real-life concrete jungle in America's ‘Rust Belt', mountainside tunnels dug to defend an empire in peril, a toxic facility hidden deep in a Soviet-controlled backcountry, and an industrial facility that brought energy to a remote corner of the world."
+      },
+      {
+        "id": "tvmaze:2031181",
+        "title": "Episode 8",
+        "season": 7,
+        "episode": 8,
+        "released": "2021-03-03",
+        "overview": "A Middle Eastern region littered with ruins - the site of an extraordinary deception, an industrial relic in Buffalo that was the source of an unlikely American icon, the relics of a once thriving city-state in Tanzania, and a strange facility in Taiwan that struck fear into the hearts of those who knew its true purpose."
+      },
+      {
+        "id": "tvmaze:2040207",
+        "title": "Episode 9",
+        "season": 7,
+        "episode": 9,
+        "released": "2021-03-10",
+        "overview": "Eerie ruins hiding in the forested hills of Arkansas, USA, and a disintegrating gulag in Albania that housed enemies of the state."
+      },
+      {
+        "id": "tvmaze:2040208",
+        "title": "Catastrophe and Cover Up",
+        "season": 7,
+        "episode": 10,
+        "released": "2021-03-17",
+        "overview": "A volcanic island just off Taiwan containing chilling ruins from its darkest era, a strange site filled with rusting metal cages and a miniature railway that lies forgotten in the woods of Arkansas USA, an Eastern European town that lived through a radioactive nightmare, and a United States Air Force base in Britain with a top-secret agenda."
+      },
+      {
+        "id": "tvmaze:2047612",
+        "title": "Dead Sea Disaster",
+        "season": 7,
+        "episode": 11,
+        "released": "2021-03-24",
+        "overview": "A fairy-tale castle that staged one of the strangest stories of the Second World War, a haunting complex on an old American Frontier, beach resorts in the Middle East that are slowly being swallowed up by the very land they were built on, and a mysterious underground maze hidden beneath Liverpool."
+      },
+      {
+        "id": "tvmaze:2047613",
+        "title": "Global Icons",
+        "season": 7,
+        "episode": 12,
+        "released": "2021-03-31",
+        "overview": "Bizarrely-shaped huts in India, once home to global superstars, are now eerily quiet and neglected. Also, traces of a legendary escape story hidden beneath a Polish forest, epic castles in Transylvania telling a chilling story of the world's most notorious villain, and a shattered compound in Colombia linked to a criminal mastermind."
+      },
+      {
+        "id": "tvmaze:2122968",
+        "title": "Heroes & Villains",
+        "season": 8,
+        "episode": 1,
+        "released": "2021-07-30",
+        "overview": "The home of an African dictator and a sporting hero, the stage for civil rights revolution, and the facility that held apartheid's greatest critic. In these decaying structures are the echoes of history; each haunted shell with its own unique story."
+      },
+      {
+        "id": "tvmaze:2132128",
+        "title": "Paradise Lost",
+        "season": 8,
+        "episode": 2,
+        "released": "2021-08-06",
+        "overview": "A ghost town left high and dry in the mountains of Colorado, a marooned facility in the waters off England's south coast, the remnants of a sprawling industrial enterprise in Puerto Rico where locals struggled under colonial rule, and a remote village on the island of Cyprus that couldn't escape the clutches of war."
+      },
+      {
+        "id": "tvmaze:2138026",
+        "title": "A Royal Deception",
+        "season": 8,
+        "episode": 3,
+        "released": "2021-08-13",
+        "overview": "Exploring a jungle refuge concealing a story of royal deceit, nuclear bunkers infiltrated by outsiders, and a haunted hospital marked by scandal."
+      },
+      {
+        "id": "tvmaze:2143183",
+        "title": "Mafia Seaside Resort",
+        "season": 8,
+        "episode": 4,
+        "released": "2021-08-20",
+        "overview": "Exploring a beachside resort with ties to the Russian mafia, a windswept base hiding lifesaving technology, and a site in Iowa plagued by its past."
+      },
+      {
+        "id": "tvmaze:2143184",
+        "title": "The Giant Speaker",
+        "season": 8,
+        "episode": 5,
+        "released": "2021-08-27",
+        "overview": "Exploring a bizarre block in Taiwan resembling a giant speaker, a pioneering venture in Alaska, and an alpine village that masks a military beast."
+      },
+      {
+        "id": "tvmaze:2153591",
+        "title": "Cathedral of Sewage",
+        "season": 8,
+        "episode": 6,
+        "released": "2021-09-03",
+        "overview": "An ominous tower in the forests of Croatia, a New York City complex that broke the mould, and a grand facility guarding the London riverbanks."
+      },
+      {
+        "id": "tvmaze:2153592",
+        "title": "The Secret Bunker",
+        "season": 8,
+        "episode": 7,
+        "released": "2021-09-10",
+        "overview": "A desert island with an infected past adrift from the US mainland, the brutalist palace of a mad Bulgarian dictator, a top-secret Nazi project doomed from the start, and a floating prison rotting in Sydney Harbour."
+      },
+      {
+        "id": "tvmaze:2163107",
+        "title": "The Battle of San Pietro",
+        "season": 8,
+        "episode": 8,
+        "released": "2021-09-17",
+        "overview": "Exploring Italian ruins immortalised by Hollywood, a crumbling Chilean city with two lives and a brutalist Scottish relic whose prayers went unanswered."
+      },
+      {
+        "id": "tvmaze:2163108",
+        "title": "Divine Intervention",
+        "season": 8,
+        "episode": 9,
+        "released": "2021-09-24",
+        "overview": "Exploring a luxury resort that conceals a top-secret facility, a mysterious complex in Bali struck by disaster, and a relic of hope near Jerusalem."
+      },
+      {
+        "id": "tvmaze:2172264",
+        "title": "Shadow of the Wars",
+        "season": 8,
+        "episode": 10,
+        "released": "2021-10-01",
+        "overview": "A dystopian powerhouse in Pennsylvania, USA that once served in WWII; a dark past unearthed from a fairy-tale castle in Poland; Anglo-Saxon religious ruins across vast plains of Scotland; and a forgotten village that witnessed the rise and fall of Jerusalem."
+      },
+      {
+        "id": "tvmaze:2178591",
+        "title": "Death In Paradise",
+        "season": 8,
+        "episode": 11,
+        "released": "2021-10-08",
+        "overview": "Exploring a bloody battleground on the Pacific Island of Peleliu and an ominous military stronghold in Russia."
+      },
+      {
+        "id": "tvmaze:2178592",
+        "title": "Before The Crown",
+        "season": 8,
+        "episode": 12,
+        "released": "2021-10-15",
+        "overview": "This episode travels to Chile, the Maltese capital Valleta, Havana and Germany, to reveal: honeymoon home of a young princess that offered her a glimpse of freedom; grand monuments designed by the most notorious dictator of the twentieth century; a sprawling industrial complex?the site of a ruthless disappearance; and?the artistic dream of?a revolutionary now in?ruins."
+      },
+      {
+        "id": "tvmaze:2291495",
+        "title": "Megalomaniac's Palace",
+        "season": 9,
+        "episode": 1,
+        "released": "2022-03-21",
+        "overview": "Exploring a once lavish palace in Iraq, the Sathorn Unique, an epic ghost tower in Thailand, and a former sports stadium in Georgia, USA."
+      },
+      {
+        "id": "tvmaze:2297031",
+        "title": "Jungle Fantasy Land",
+        "season": 9,
+        "episode": 2,
+        "released": "2022-03-28",
+        "overview": "Exploring the remains of a pioneering industry town in Ohio, a once beautiful Croatian resort bombarded by enemy fire, and an otherworldly garden of Eden in Mexico."
+      },
+      {
+        "id": "tvmaze:2297032",
+        "title": "The Beached Leviathan",
+        "season": 9,
+        "episode": 3,
+        "released": "2022-04-04",
+        "overview": "The graffitied remains of a correctional facility in Atlanta, USA with a controversial and unexpected past, forgotten remnants of fraud and fusion on the Western border of Argentina and a mysterious ancient complex built by a devoted Khmer King in the jungles of Cambodia."
+      },
+      {
+        "id": "tvmaze:2303997",
+        "title": "Tunnel of Terrors",
+        "season": 9,
+        "episode": 4,
+        "released": "2022-04-11",
+        "overview": "Exploring a military strong-hold in the Philippines, a facility that spawned an American sporting great, and an English relic that hosted a cinematic sensation."
+      },
+      {
+        "id": "tvmaze:2312005",
+        "title": "Apocalyptic Skyscraper",
+        "season": 9,
+        "episode": 5,
+        "released": "2022-04-18",
+        "overview": "Exploring a ruined castle above a German village, a rural town in Idaho, a futuristic skyscraper in Johannesburg and a fantasy world outside of Buenos Aires."
+      },
+      {
+        "id": "tvmaze:2314094",
+        "title": "Ruins of Empire",
+        "season": 9,
+        "episode": 6,
+        "released": "2022-04-25",
+        "overview": "Exploring a British fort that became a bizzare zoo, a brutalist school for Communist top brass and a lost world hides secrets of a vanished people."
+      },
+      {
+        "id": "tvmaze:2314095",
+        "title": "Trouble in Paradise",
+        "season": 9,
+        "episode": 7,
+        "released": "2022-05-02",
+        "overview": "Exploring a luxury resort in Argentina, a Greek palace above a Mexican city and a former hotel in Hawaii."
+      },
+      {
+        "id": "tvmaze:2326647",
+        "title": "Experiments of War",
+        "season": 9,
+        "episode": 8,
+        "released": "2022-05-09",
+        "overview": "Exploring a crumbling dam hidden in the Welsh valleys, a quaint outpost on a paradise island, and a mastery of ancient engineering that brought life to the planes of Mexico."
+      },
+      {
+        "id": "tvmaze:2326648",
+        "title": "Ancient Encounter",
+        "season": 9,
+        "episode": 9,
+        "released": "2022-05-16",
+        "overview": "Exploring a picturesque French castle, the ruins of a Kansas City hospital, an ancient Turkish city, and an island in Ireland that brought its inhabitants closer to God."
+      },
+      {
+        "id": "tvmaze:2326649",
+        "title": "Alien Contact",
+        "season": 9,
+        "episode": 10,
+        "released": "2022-05-23",
+        "overview": "Exploring a complex in Georgia pointing into deep space that almost discovered a signal from aliens."
+      },
+      {
+        "id": "tvmaze:2326650",
+        "title": "Treasures to Die For",
+        "season": 9,
+        "episode": 11,
+        "released": "2022-05-30",
+        "overview": "Hartwood, a haunting facility in Scotland [pictured], the ruins of an iconic ancient city in Iraq, a scandal hit town in New Mexico, and a German factory that changed the face of the Western home."
+      },
+      {
+        "id": "tvmaze:2327318",
+        "title": "Niagara's Hidden Marvel",
+        "season": 9,
+        "episode": 12,
+        "released": "2022-06-06",
+        "overview": "Hidden behind the mighty Niagara Falls an extensive labyrinth containing an engineering marvel, plus the ruins of a once lavish Romanian destination caught in a web of corruption, and on the banks of the Uruguay River, a fallen cathedral from a golden age of industry."
+      },
+      {
+        "id": "tvmaze:2367797",
+        "title": "Raiders & Invaders",
+        "season": 10,
+        "episode": 1,
+        "released": "2022-09-05",
+        "overview": "This episode explores Oradour-sur-Glane is a French town drenched in infamy, the victim of a notorious raid; Alcatraz, a facility famed for breakouts, subjected to a daring break-in; and Sealand, a micronation off the English coast, stormed by a band of mercenaries."
+      },
+      {
+        "id": "tvmaze:2367798",
+        "title": "The Rock",
+        "season": 10,
+        "episode": 2,
+        "released": "2022-09-12",
+        "overview": "The Tunnels of Gibraltar were a Second World War espionage base, hidden in the Rock of Gibraltar, which lay undiscovered for decades; at Atlas-1 Test Site, are the remains of an ingenious US Airforce project that continues to keep us safe; at Roghudi Vecchio is an ancient culture threatened when an Italian town is deserted; and at Naissaar, a highly classified Soviet munitions factory camouflaged in the forests of Estonia."
+      },
+      {
+        "id": "tvmaze:2367799",
+        "title": "Enemy at the Gates",
+        "season": 10,
+        "episode": 3,
+        "released": "2022-09-19",
+        "overview": "In the Scottish capital of Edinburgh, hidden from view, a series of vaults tell a murky story of opportunity, crime and destitution; at Fort Schwatka Unalaska are the remains of an Alaskan battleground, where a foreign invader set foot on American soil for the first time since 1812; The Old Herring Factory is a remote Icelandic facility that played a major role in transforming the nation's economy; and in the calm waters of Croatia's Adriatic Sea, Fort Punta is a vast fortress charts the rise and fall of a European empire."
+      },
+      {
+        "id": "tvmaze:2367800",
+        "title": "Cowboy Mountain",
+        "season": 10,
+        "episode": 4,
+        "released": "2022-09-26",
+        "overview": "An Appalachian dream that conjured the spirit of the old west, left to rot on a North Carolina mountainside; in the ex-Soviet republic of Georgia are the remains of an ingenious sky-high solution to a ground-based problem, Chiatura, once known as the Venice of the air; Guernsey Hospital was a vast complex built when a slice of Britain lived under the Nazi yoke; and Houtouwan , a Chinese island of simple means, caught up in a brutal revolution that ushered in a tragic period of mass incarceration and murder."
+      },
+      {
+        "id": "tvmaze:2400352",
+        "title": "Drone Wars",
+        "season": 10,
+        "episode": 5,
+        "released": "2022-10-03",
+        "overview": "Agdam is a city in Azerbaijan raised to the ground in a conflict decided by a new weapon of war. Plus, a Kansas City Workhouse that appears to have been built for the aristocracy; two seemingly deserted towns in Sicily that are hard to decipher; and an extensive complex in Estonia that helped spawn a revolution."
+      },
+      {
+        "id": "tvmaze:2400357",
+        "title": "Moonshot",
+        "season": 10,
+        "episode": 6,
+        "released": "2022-10-10",
+        "overview": "An industrial ruin in the Florida everglades that once competed in the greatest race humankind has ever witnessed; a community in Indonesia shattered by a terrifying and deadly unseen force; the graffiti covered walls of an Ibizan legend hint at a fun-loving past; and a Bulgarian school that concealed an ambitious and covert plan for revenge."
+      },
+      {
+        "id": "tvmaze:2400358",
+        "title": "Rock and Ruin",
+        "season": 10,
+        "episode": 7,
+        "released": "2022-10-17",
+        "overview": "A once lavish theatre in Ohio that saw the house brought down; an ancient city with a poisonous secret, only recently revealed; a war-torn shell given new purpose by a blockbuster series; and traces of a mass deception hidden across an Italian island."
+      },
+      {
+        "id": "tvmaze:2400359",
+        "title": "Castle of the Occult",
+        "season": 10,
+        "episode": 8,
+        "released": "2022-10-24",
+        "overview": "In the disputed region of Abkhazia lies the wreckage of a vast site that promised heroic sporting victory over western rivals; a dense forest near the Czech capital of Prague hides an eerie castle rumoured to possess supernatural powers; in Liberia, West Africa, the ruin of a luxury hotel taken by a cruel warlord, then transformed into safe haven; and in north-central Arizona, a settlement's scattered remains reveal an ancient community given life by a deadly force."
+      },
+      {
+        "id": "tvmaze:2417966",
+        "title": "The Green Line",
+        "season": 10,
+        "episode": 9,
+        "released": "2022-10-31",
+        "overview": "This episodes visits Serbia, Fort Pike in Louisiana and a mountainside refuge in Georgia, revealed to the world by an act of God."
+      },
+      {
+        "id": "tvmaze:2417967",
+        "title": "Blitz Spirit",
+        "season": 10,
+        "episode": 10,
+        "released": "2022-11-07",
+        "overview": "This episode explores a grand structure in Hull, once the heartbeat of the community, reduced to rubble by Hitler's planes while those inside were laughing at him on the silver screen; Casa Albero in Italy, USS Hornet in California and the Sofia tunnels."
+      },
+      {
+        "id": "tvmaze:2418043",
+        "title": "An American Exodus",
+        "season": 10,
+        "episode": 11,
+        "released": "2022-11-14",
+        "overview": "The Whig Party HQ is a decrepit Liberian landmark with American origins; Doel is a desolate town in Belgium that stands in the shadow of its destroyer; Chacaltaya Ski Resort in Bolivia is a high-altitude retreat, once a world-class sporting resort, now drained of its lifeblood by a global threat; and Warner &amp; Swasey is a pioneering scientific structure in Cleveland rendered obsolete by light pollution."
+      },
+      {
+        "id": "tvmaze:2418044",
+        "title": "The Drop",
+        "season": 10,
+        "episode": 12,
+        "released": "2022-11-21",
+        "overview": "The Dew Drop Inn is a music mecca in New Orleans that dared to take on the authorities and paid the price; Belgica Fort is an epic ruin built to defend the most unlikely of treasures; and the legacy of West-81, a military exercise that terrified the West."
+      },
+      {
+        "id": "tvmaze:2555734",
+        "title": "Rock 'N' Roll Island",
+        "season": 11,
+        "episode": 1,
+        "released": "2023-05-15",
+        "overview": "Exploring Air Studios, on the Island of Montserrat, that became a mecca for rock legends. Also Tskaltubo, in Georgia, built to host a fearsome dictator."
+      },
+      {
+        "id": "tvmaze:2555735",
+        "title": "Penthouse Palace",
+        "season": 11,
+        "episode": 2,
+        "released": "2023-05-22",
+        "overview": "Exploring Haludovo Palace Hotel in Croatia, Wolf's Lair, a German military complex and Herouni Mirror Radio Telescope - a pioneering facility in Armenia."
+      },
+      {
+        "id": "tvmaze:2555736",
+        "title": "Castle Kingdom",
+        "season": 11,
+        "episode": 3,
+        "released": "2023-05-29",
+        "overview": "Exploring a theme park in Buenos Aires built in a time of terror and dogged by controversy, and a jaw-dropping collection of castles in Turkey."
+      },
+      {
+        "id": "tvmaze:2555737",
+        "title": "Fake News Fortress",
+        "season": 11,
+        "episode": 4,
+        "released": "2023-06-05",
+        "overview": "Exploring Dover Commando Fortress in South East England, where traces of a top-secret Commando raid are still visible."
+      },
+      {
+        "id": "tvmaze:2565455",
+        "title": "The True Cross",
+        "season": 11,
+        "episode": 5,
+        "released": "2023-06-12",
+        "overview": "Exploring Old Byron Hot Springs in the Californian desert - a once glittering Hollywood hotspot, converted into a top-secret interrogation centre."
+      },
+      {
+        "id": "tvmaze:2565463",
+        "title": "Wonderland",
+        "season": 11,
+        "episode": 6,
+        "released": "2023-06-19",
+        "overview": "Exploring a symbol of national pride that became a symbol of excess in the Turkish capital of Ankara."
+      },
+      {
+        "id": "tvmaze:2567328",
+        "title": "Pop Dreamland",
+        "season": 11,
+        "episode": 7,
+        "released": "2023-06-26",
+        "overview": "Yongma Land is a South Korean dreamland given a second life from the most unlikely of places; Saguramo Space Research Centre is a state-of-the-art facility that thrust the Georgian nation into the world's greatest race; Donnottar Castle is an ancient Scottish fortress besieged by a warrior that would inspire a Hollywood epic; and Nis Concentration Camp is a Balkan house of horrors that symbolised the worst of humanity."
+      },
+      {
+        "id": "tvmaze:2567329",
+        "title": "Blues Prison",
+        "season": 11,
+        "episode": 8,
+        "released": "2023-07-03",
+        "overview": "This episode features Old Joliet Prison, a battered facility near Chicago that hosted the Blues Brothers; Tito's Nuclear Bunker, Keelung Fortifications and Vilarinho de Furna Campo Do Geres.A dilapidated facility near Chicago that descended into open war but then hosted an iconic pop-culture moment; a vast underground base in Bosnia, saved by an act of sabotage, committed by a double agent; an ancient Portuguese settlement crushed under a wave of change, now emerging from the mud like a modern-day Atlantis; and a fortress city in Taiwan that a famed Chinese commander used to trap his French enemy and turn into their coffin."
+      },
+      {
+        "id": "tvmaze:2643788",
+        "title": "Murder in Martinique",
+        "season": 12,
+        "episode": 1,
+        "released": "2023-10-23",
+        "overview": "This episode visits Lake County Sheriff's House and Jail in Indiana, a notorious American gunslinger's great escape; Chateau Aubéry on the island of Martinique, where a criminal kingpin wiped out the opposition; and Pulacayo Silver Mine, a sprawling settlement in Bolivia, the scene of an infamous shootout."
+      },
+      {
+        "id": "tvmaze:2643789",
+        "title": "Italian Turf War",
+        "season": 12,
+        "episode": 2,
+        "released": "2023-10-30",
+        "overview": "Locations include Castel Volturno in Campana in Italy, Victor Colorado in USA, and HMP Shepton Mallet in Somerset."
+      },
+      {
+        "id": "tvmaze:2663230",
+        "title": "The Montauk Conspiracy",
+        "season": 12,
+        "episode": 3,
+        "released": "2023-11-06",
+        "overview": "This episode visits Camp Hero in Long Island, a salt mine in Poland, Croatia and Lewisham."
+      },
+      {
+        "id": "tvmaze:2663231",
+        "title": "Propaganda Palace",
+        "season": 12,
+        "episode": 4,
+        "released": "2023-11-13",
+        "overview": "Alps Ski Resort, is a mountainside retreat in Heul-Ri, South Korea in the shadow of a frozen conflict; Pyrenees Defence Organization, a network of defences in Spain, has recently declassified; Apollo Movie Theatre in Tbilisi, Georgia is an ornate shrine to Soviet propaganda; and Club Hotel De La Ventana is an Argentinian complex that became a surprising home for some unexpected guests."
+      },
+      {
+        "id": "tvmaze:2663232",
+        "title": "The Rediscovery of Archaeopolis",
+        "season": 12,
+        "episode": 5,
+        "released": "2023-11-20",
+        "overview": "This episode explores a country estate in Ireland where family divisions reflected a national struggle and was caught in the crossfire; a supposedly haunted ghost town deep in the Japanese forest, where teenagers test their bravery; a once famed fortress in Georgia lost to the sands of time, brought back from the dead by the discovery of a hoard of treasure; and the tranquil island of Mozambique, said to have inspired a musical legend."
+      },
+      {
+        "id": "tvmaze:2663233",
+        "title": "Hell Island",
+        "season": 12,
+        "episode": 6,
+        "released": "2023-11-27",
+        "overview": "Baker Hotel in Mineral Wells is a Texan retreat, frequented by the rich and infamous; Anchieta is a tropical island complex in Brazil, the scene of a dramatic uprising; McDermott Castle was a magical stronghold that inspired an Irish national hero; and Dosan Seowan Academy is the gateway to a powerful ancient order in South Korea."
+      },
+      {
+        "id": "tvmaze:2683537",
+        "title": "Myth & Legend",
+        "season": 12,
+        "episode": 7,
+        "released": "2023-12-04",
+        "overview": "Exploring the ruined site of Troy, that helped decode one of the world's most enduring mysteries."
+      },
+      {
+        "id": "tvmaze:2683538",
+        "title": "Korea's Joan of Arc",
+        "season": 12,
+        "episode": 8,
+        "released": "2023-12-11",
+        "overview": "Exploring Seodaemun Prison, a facility in Seoul that helped spawn a legend known as South Korea's Joan of Arc."
+      },
+      {
+        "id": "tvmaze:2849153",
+        "title": "Pirates of the North Sea",
+        "season": 13,
+        "episode": 1,
+        "released": "2024-06-10",
+        "overview": "In the USA, at the heart of a Miami suburb, lies a strange structure that began as the dream of an American Renaissance man, but soon turned into a nightmare. In the Lebanese capital of Beirut, a high rise famed for its glitz and glamour, is drawn into a brutal conflict that consumed the country. On a quiet English estuary, a marooned vessel once crewed by fun loving pirates becomes the target of armed raiders. And, in Japan, an out-of-place curiosity, caught in a devastating web of corruption."
+      },
+      {
+        "id": "tvmaze:2849154",
+        "title": "The Ghosts of Skeleton Coast",
+        "season": 13,
+        "episode": 2,
+        "released": "2024-06-17",
+        "overview": "In the US state of Alabama, a weird and wonderful fantasy land conceived by a visionary with a wild imagination. A place of refuge in Ireland that turned into a house of horrors during a moment of unprecedented national crisis. Scarred ruins strewn across a South Korean city tell of a moment when an outpouring of democratic fervor was met by ruthless repression and a violent crackdown at the hands of a military dictatorship. And, on Namibia's arid skeleton coast, lie scattered traces of a brutal but once vital industry."
+      },
+      {
+        "id": "tvmaze:2849155",
+        "title": "The Desert Pirates",
+        "season": 13,
+        "episode": 3,
+        "released": "2024-06-24",
+        "overview": "In Alabama, the home of a secretive fraternal organization, that would play a part in one of America's greatest moments of change. Hidden in the hostile Tunisian desert lie a vast chain of ruins that once stood in the way of Allied Victory in North Africa until a band of rogue heroes uncovered their weakness. In the Lebanese capital, Beirut, a once lavish complex was scarred by an avoidable tragedy that made headlines around the world. In Greece, an elite institution designed to form the leaders of tomorrow."
+      },
+      {
+        "id": "tvmaze:2931415",
+        "title": "Operation Just Cause",
+        "season": 13,
+        "episode": 4,
+        "released": "2024-07-01",
+        "overview": "This episode explores El Djem Amphitheatre, Tunisia, a colossal dynastic monument that bore witness to violent and bloody spectacle.Also explored: Fort Amador in Panama, a military base on the frontlines of a battle between the United States and a drug-running tyrant that had allegedly once been a CIA asset. In the foothills the Italian Alps, a community built on utopian ideals, in La Serra Ivrea. In the heart of the Polish capital of Warsaw stands Mokotów Prison, a grisly facility that once caged members of a revolutionary movement."
+      },
+      {
+        "id": "tvmaze:2931416",
+        "title": "The Real Schindler's List",
+        "season": 13,
+        "episode": 5,
+        "released": "2024-07-08",
+        "overview": "This episode explores Kasbah Telouet, Morocco; Schindler's Ark, Czech Republic; Ariaú Amazon Towers, Brazil; and Rudesdorf, Berlin.In a quiet corner of the Czech Republic, a run-down facility conceals a dramatic story of hope and survival against all odds in the brutal age of Nazi tyranny. High in Morocco's Atlas Mountain range is an imposing and lavish stronghold, once home to a wealthy warlord that stood accused of betraying his country. Deep in the Brazilian rainforest are the remains of an Amazonian paradise, lost to the financial lure of reality Television. And, in Germany a cathedral of industrial that played a pivotal role in building the nation's capital."
+      },
+      {
+        "id": "tvmaze:2931417",
+        "title": "Jailhouse Rebellion",
+        "season": 13,
+        "episode": 6,
+        "released": "2024-07-15",
+        "overview": "This episode visits Newland Park, UK; Pomona, Namibia; Old Essex County Jail, NJ, USA; and Modlin Fortress, Poland.In the state of New Jersey, USA, are the decaying remains of a facility that became a powder keg of injustice that was set to explode. In Poland, an imperial bastion at the heart of a global conflict became the unlikely setting for a unique war movie made by two American filmmakers. A quiet country retreat in England, where members of the establishment chose to harbor wanted radical fugitives who changed the United Kingdom forever. And a remote Namibian outpost built after the discovery of unprecedented riches hidden in the barren desert."
+      },
+      {
+        "id": "tvmaze:2931418",
+        "title": "Hunt for the Nazi Gold Train",
+        "season": 13,
+        "episode": 7,
+        "released": "2024-07-22",
+        "overview": "This episode visits Briarcliff Mansion, GA, USA; Nazi Gold Tunnels (Ksi?? Castle), Poland; Grand Sofar Hotel, Lebanon; and Mount Shannon House, Ireland.Near the Polish city of Wa?brzych, a fairy-tale castle perched on a cliff top conceals a vast subterranean tunnel network linked to an enduring legend of lost Nazi gold. In the American city of Atlanta is a millionaire's mansion, built from the riches of a world-famous business empire, that became entangled in a web of controversy. In Ireland, a country estate that was embroiled in a violent struggle for freedom. And a hedonist paradise in Lebanon that would find itself caught in the crossfire of a nation tearing itself apart."
+      },
+      {
+        "id": "tvmaze:2931419",
+        "title": "Panama's Nazi Conspiracy",
+        "season": 13,
+        "episode": 8,
+        "released": "2024-07-29",
+        "overview": "This episode explores Fort Sherman, Panama; Radunsti Hospital, Bulgaria; Rocchetta Mattei, Italy; and Siemensbahn Railway, Berlin, Germany.A jungle stronghold in Panama built to defend a prized American possession that soon faced the threat of an elaborate Nazi conspiracy. In Italy, an eclectic hilltop structure built to be the home and laboratory of a reclusive scientist making grand claims. A ghostly railroad cutting through the German capital of Berlin, that became a potent symbol of a city divided. And, in the rugged mountains of Bulgaria, a brutalist structure that once offered hope to its residents, devastated in the wake of Communism collapse."
+      },
+      {
+        "id": "tvmaze:3117902",
+        "title": "Murder on the Reservation",
+        "season": 14,
+        "episode": 1,
+        "released": "2025-03-28",
+        "overview": "An Oklahoman town so wealthy it inspired a Hollywood film and in Cambodia's capital, a place of learning that was turned into a chamber of horrors.A crumbling hotel built with stolen oil money located in an Oklahoma town so rich it inspired a Hollywood film. A former school in Cambodia, that became a chamber of horrors used to oppress an innocent population. In Latvia, a Soviet-era radio telescope that intercepted the West's most top-secret communications. And a fantastical construction in Italy, that combined the romance of air travel with renaissance art, and pizza."
+      },
+      {
+        "id": "tvmaze:3154283",
+        "title": "Slam Dunkin' in the USSR",
+        "season": 14,
+        "episode": 2,
+        "released": "2025-04-04",
+        "overview": "A derelict stadium in Lithuania that hosted an unlikely Cold War matchup and an industrial relic in England caught up in a battle between trade unions and the Iron Lady.An ambitious skyscraper with dreams of being a city within a city, that attracted rock ‘n' roll royalty, stands empty in Memphis. And, in eastern Malaysia, a royal vision to preserve the country's heritage has been left to rot in the tropical jungle."
+      },
+      {
+        "id": "tvmaze:3154284",
+        "title": "Nightmare in El Paso",
+        "season": 14,
+        "episode": 3,
+        "released": "2025-04-11",
+        "overview": "A crumbling hospital complex in Germany that became the site of unspeakable atrocities at the hands of a twisted Nazi Doctor. A lonely rusting giant in Malaysia that reveals a story of colonial greed, conquest and war. In El Paso, Texas, a sprawling farmstead with a hellish reputation for exploiting thousands of men in search of a better life. And, in Northeastern Italy, an Idyllic mountain village, destroyed by mother nature's fury."
+      },
+      {
+        "id": "tvmaze:3154285",
+        "title": "Border Wars",
+        "season": 14,
+        "episode": 4,
+        "released": "2025-04-18",
+        "overview": "In El Paso Texas, two ornate buildings once at the heart of the Mexican Revolution, still bear the scars of a deadly battle. A top-secret facility outside Berlin, used by a ruthless dictator to escape justice. In County Carlow, Ireland, an aristocratic party palace transformed into a military base, used by members of the IRA's all-female paramilitary wing. And a picture-perfect town in Spain where the residents were forced to evacuate on the orders of an authoritarian regime."
+      },
+      {
+        "id": "tvmaze:3154286",
+        "title": "Napoleon's Mistress",
+        "season": 14,
+        "episode": 5,
+        "released": "2025-04-25",
+        "overview": "A palatial ruin in Philadelphia built from the riches of an industrial golden age, linked by money and blood to the Titanic disaster. Hitler's headquarters in France, built to oversee the Nazi invasion of Britain but used to defend against the Allied reconquest of Europe. In Italy, an opulent island-stronghold converted to contain the country's mafia elite. And a country palace in Poland, the scene of a honey-trap devised to ensnare Napoleon."
+      },
+      {
+        "id": "tvmaze:3210342",
+        "title": "Hell's Waiting Room",
+        "season": 14,
+        "episode": 6,
+        "released": "2025-05-02",
+        "overview": "Exploring a concentration camp in the Czech Republic used for a publicity stunt to fool the world and a stark facility that once housed Oscar Wilde."
+      },
+      {
+        "id": "tvmaze:3210343",
+        "title": "Apocalypse Airbase",
+        "season": 14,
+        "episode": 7,
+        "released": "2025-05-09",
+        "overview": "Exploring a nuclear-armed facility in Arkansas that served as America's last line of defence in the Cold War and an industrial relic in Wales that felt a young Winston Churchill's wrath."
+      },
+      {
+        "id": "tvmaze:3210344",
+        "title": "Mafia Wars",
+        "season": 14,
+        "episode": 8,
+        "released": "2025-05-16",
+        "overview": "Exploring derelict villas in Sicily that reveal the island's complicated history with the Mafia and an aristocratic mansion in Ireland embroiled in a bizarre terrorist plot."
+      },
+      {
+        "id": "tvmaze:3450700",
+        "title": "Japan's Poison Island",
+        "season": 15,
+        "episode": 1,
+        "released": "2025-11-26",
+        "overview": "Exploring a complex in New Jersey infiltrated by a notorious gang, a tranquil Japanese island with a poisonous legacy, and a top-secret bunker in Lithuania."
+      },
+      {
+        "id": "tvmaze:3450701",
+        "title": "Hitler's Fortress of Fury",
+        "season": 15,
+        "episode": 2,
+        "released": "2025-12-03",
+        "overview": "Exploring a serene institution in Wisconsin seized out of righteous anger, a Spanish settlement stained in innocent blood, and a subterranean lair in France with a disturbing objective."
+      },
+      {
+        "id": "tvmaze:3450702",
+        "title": "The Nazi's Last Stand",
+        "season": 15,
+        "episode": 3,
+        "released": "2025-12-10",
+        "overview": "Nazi towers in Berlin that were defended to the bitter end by child soldiers, a Chicago institution that was the largest of its kind, and an odd vision in the Malaysian jungle."
+      },
+      {
+        "id": "tvmaze:3467221",
+        "title": "Suicide Island",
+        "season": 15,
+        "episode": 4,
+        "released": "2025-12-17",
+        "overview": "Exploring a Dover stronghold transformed during an unprecedented crisis, and a top-secret site in Japan used for wartime missions of no return."
+      },
+      {
+        "id": "tvmaze:3467222",
+        "title": "London's Burning",
+        "season": 15,
+        "episode": 5,
+        "released": "2025-12-24",
+        "overview": "Exploring a towering structure in London on the banks of the river Thames, witness to the city's darkest days, and a Wisconsin farmstead that brewed up a storm."
+      },
+      {
+        "id": "tvmaze:3467223",
+        "title": "Cold War Cover Up",
+        "season": 15,
+        "episode": 6,
+        "released": "2025-12-31",
+        "overview": "Exploring a top-secret military base in Michigan linked to an unexplained disappearance, and a California transportation hub that inspired lasting change."
+      },
+      {
+        "id": "tvmaze:3467224",
+        "title": "Escape from Dunkirk",
+        "season": 15,
+        "episode": 7,
+        "released": "2026-01-07",
+        "overview": "Exploring the nerve centre of a heroic rescue mission in England, a dilapidated mansion in Virginia raided during the Civil War, and a facility in Detroit where a champion made his name."
+      },
+      {
+        "id": "tvmaze:3467225",
+        "title": "The Invisible Enemy",
+        "season": 15,
+        "episode": 8,
+        "released": "2026-01-14",
+        "overview": "Exploring a top-secret facility in Scotland besieged by militant protesters, and a small Greek island caught in a chilling web of controversy."
+      },
+      {
+        "id": "tvmaze:3467226",
+        "title": "Agent Zigzag",
+        "season": 15,
+        "episode": 9,
+        "released": "2026-01-21",
+        "overview": "Exploring a Philadelphia venue that set the stage for era-defining artists, a French compound where a staggering deception was launched, and a the scene of a baffling crime in Malaysia."
+      },
+      {
+        "id": "tvmaze:3467227",
+        "title": "Peru's Massacre Island",
+        "season": 15,
+        "episode": 10,
+        "released": "2026-01-28",
+        "overview": "Exploring a remote Peruvian island besieged by a violent rebellion, a refuge in Nevada that offered hope to its occupants, and a French worker's paradise seized by an invading force."
+      },
+      {
+        "id": "tvmaze:3467228",
+        "title": "Churchill's Folly",
+        "season": 15,
+        "episode": 11,
+        "released": "2026-02-04",
+        "overview": "Exploring a secret New Jersey facility infiltrated by a Soviet spy ring, an island stronghold besieged by the Nazis, and a palatial compound in Peru frequented by the country's elite."
+      },
+      {
+        "id": "tvmaze:3467229",
+        "title": "Churchill's Shadow War",
+        "season": 15,
+        "episode": 12,
+        "released": "2026-02-11",
+        "overview": "Exploring a secret subterranean network in London that inspired James Bond author Ian Fleming, and an Italian country retreat that was designed to brainwash a generation of children."
+      }
+    ]
+  }
+}

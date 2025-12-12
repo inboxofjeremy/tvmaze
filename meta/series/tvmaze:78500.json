@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:78500",
+    "type": "series",
+    "name": "ABC News Live Weekend",
+    "description": "ABC News Live Weekend will feature the biggest stories of the week with all the facts and analysis viewers need to reflect on global events and prepare for what's coming next.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/528/1320416.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/528/1320416.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3451242",
+        "title": "Episode 98",
+        "season": 2025,
+        "episode": 98,
+        "released": "2025-12-07",
+        "overview": ""
+      }
+    ]
+  }
+}

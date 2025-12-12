@@ -1,0 +1,1236 @@
+{
+  "meta": {
+    "id": "tvmaze:65006",
+    "type": "series",
+    "name": "Customer Wars",
+    "description": "With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. Customer Wars spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that \"The customer is always right\" is the exception rather than the rule.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/595/1488024.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/595/1488024.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440467",
+        "title": "Sky High Scare",
+        "season": 7,
+        "episode": 14,
+        "released": "2025-12-09",
+        "overview": "In San Antonio, Texas, a couple clashes with a grumpy gate agent after they are denied boarding. In Interlaken, Switzerland, a hang glider's first flight turns into a nightmare when he realizes his harness isn't attached."
+      },
+      {
+        "id": "tvmaze:3440468",
+        "title": "Card Declined",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-09",
+        "overview": "At a coffee shop in New York City, a conflict over a customer's conduct escalates into a chaotic fight with an employee. Late at night in Warner Robins, Georgia, a massive group brawl erupts after one patron allegedly takes issue with his fast-food meal."
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440595",
+        "title": "Top 10: Biggest Blunders",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-16",
+        "overview": "Little mistakes made a huge impact on this top ten episode of Customer Wars."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3451079",
+        "title": "Top 10: Split Second Survival",
+        "season": 7,
+        "episode": null,
+        "released": "2025-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2426456",
+        "title": "Everything Must Go",
+        "season": 1,
+        "episode": 1,
+        "released": "2022-11-15",
+        "overview": "A woman vandalizes a New Jersey convenience store by randomly sweeping items off the shelves. A rideshare driver in Florida is pushed to the brink by a rude and unsanitary rider. A police officer uses his taser to neutralize a knife-wielding woman at a superstore in Florida. A grandmother in Canada thwarts the plans of a masked shoplifter."
+      },
+      {
+        "id": "tvmaze:2426457",
+        "title": "Extra Special Delivery",
+        "season": 1,
+        "episode": 2,
+        "released": "2022-11-15",
+        "overview": "Customers brawl over an all you can eat crab legs buffet in Queens, NY. Trash talking between two groups of diners at a pancake house in Texas comes to blows. A man infuriates other customers when he cuts the long line at a coffee shop drive thru in Florida. A package delivery person attacks a woman who questions her methods."
+      },
+      {
+        "id": "tvmaze:2429459",
+        "title": "The Last Straw",
+        "season": 1,
+        "episode": 3,
+        "released": "2022-11-22",
+        "overview": "A man in Florida attacks a fast food cashier apparently over a lack of available straws. A grounded passenger in Texas gets a serious comeuppance after slapping an airline employee. A man in a grocery store beats the manager with sausage allegedly for not allowing him to purchase beer. Two customers at a crowded North Carolina gas station get into an all-out brawl when one tries to cut in front of the other. A convenience store clerk in California must deal with an aggressive, hairy, 500 pound intruder seeking candy bars."
+      },
+      {
+        "id": "tvmaze:2429460",
+        "title": "Slippery Customer",
+        "season": 1,
+        "episode": 4,
+        "released": "2022-11-22",
+        "overview": "Supermarket loss prevention officers try to wrangle an accused teenage shoplifter. The owner of a watch shop fights off two masked robbers. A woman attempting to buy alcohol at a pharmacy refuses to show her identification. Two phone store employees in Virginia deal with a violent customer attempting to force his way into the store."
+      },
+      {
+        "id": "tvmaze:2433525",
+        "title": "You're Out!",
+        "season": 1,
+        "episode": 5,
+        "released": "2022-11-29",
+        "overview": "A delivery driver falls through a plate glass window at a New York pizza parlor. A concert goer in Toronto is accused of throwing a glass container at the stage and is set upon by the band. A robbery attempt in Texas is thwarted by quick thinking employees. A fan who runs onto the field at a Dodger Stadium gets taken out by the ball girl."
+      },
+      {
+        "id": "tvmaze:2433526",
+        "title": "Full Moon Brawl",
+        "season": 1,
+        "episode": 6,
+        "released": "2022-11-29",
+        "overview": "One customer's kind gesture sparks an all-out brawl in a Florida convenience store. Cops are called after shoppers duke it out over toilet paper. A retired police officer in California blocks an alleged shoplifter from leaving the parking lot. Masked robbers fleeing the scene in Washington D.C. are nearly outsmarted by pulling a push-door."
+      },
+      {
+        "id": "tvmaze:2436835",
+        "title": "Deli Derriere",
+        "season": 1,
+        "episode": 7,
+        "released": "2022-12-06",
+        "overview": "In a Michigan grocery store, a woman frustrated with the deli counter wait-time, displays her derrière. Fists fly at a luxury resort in Rio when one couple doesn't get their way. On a plane in Miami, a woman hits her husband with a laptop after confronting him about his wandering eye. A quick-thinking hotel clerk in Kentucky manages to grab the gun from an armed robber."
+      },
+      {
+        "id": "tvmaze:2442749",
+        "title": "Shoplift Til You Drop",
+        "season": 1,
+        "episode": 8,
+        "released": "2022-12-06",
+        "overview": "A shoplifter takes on a security guard in Oregon. A brawl breaks out in a parking lot in Illinois as thousands of concert goers try to leave at once. An emergency room doctor's horrific bedside manner is caught on camera in California. A couple's dream vacation turns into a nightmare when they discover their hotel room in New York City is infected with bed bugs."
+      },
+      {
+        "id": "tvmaze:2442856",
+        "title": "Beer Run",
+        "season": 1,
+        "episode": 9,
+        "released": "2022-12-13",
+        "overview": "A woman in Idaho tries to steal a chainsaw by stuffing it in her pants. Disgusted customers watch a woman eat directly from the serving ladle at restaurant buffet. A teenager attempting to get his hands on some alcohol, struggles to outrun security in California. A brawl over a cell phone spills across the bleachers at a Nashville football game."
+      },
+      {
+        "id": "tvmaze:2444780",
+        "title": "Haircut 911",
+        "season": 1,
+        "episode": 10,
+        "released": "2022-12-20",
+        "overview": "A customer fights a raging fire in a New Jersey superstore. A mother in Massachusetts calls 911 on her son's barber. Late-night brawlers in Maryland end up crashing through a store's window. A teen mother leaves her newborn baby with a customer at a New Jersey restaurant. In California, an elderly store owner fights back when his store is held up. A broken ride at a fair in Turkey sends a group of children hurtling through the air."
+      },
+      {
+        "id": "tvmaze:2455912",
+        "title": "Fast Food Freakout",
+        "season": 1,
+        "episode": 11,
+        "released": "2022-12-27",
+        "overview": "At a fast food restaurant in Florida, a customer acts out after claiming to witness unclean behavior from an employee. A jewelry shop owner in China wrestles with a robber wielding a large knife. Things take a dark turn at a Utah drive thru when an angry customer pulls out a gun. A squirrel confronts a nosy customer in Georgia."
+      },
+      {
+        "id": "tvmaze:2455914",
+        "title": "Baseball Brawl",
+        "season": 1,
+        "episode": 12,
+        "released": "2023-01-03",
+        "overview": "A man accused of cutting in line at an Arkansas drive-thru has to contend with an angry local. A brawl breaks out at a baseball game in Philadelphia when a sports fan is blocked from leaving his row. A CEO in Arizona makes racist remarks to his rideshare driver and pays a serious price. A wild squirrel interrupts and online business meeting in Pittsburg. In North Carolina, a man finds an unpleasant surprise in his can of food."
+      },
+      {
+        "id": "tvmaze:2455915",
+        "title": "Lip Service",
+        "season": 1,
+        "episode": 13,
+        "released": "2023-01-10",
+        "overview": "An Ohio customer fights fast food employees, apparently over a customized drink. A Scottish man has trouble ordering at an Alabama drive-thru. At a New York diner, a server tells off a customer. Thieves try to rob a gun store in Tennessee. At a California superstore, a woman accuses a man of stealing her cellphone. An overenthusiastic fan tips over a DJ's turntable at a concert."
+      },
+      {
+        "id": "tvmaze:2455916",
+        "title": "Nail Salon Nightmare",
+        "season": 1,
+        "episode": 14,
+        "released": "2023-01-17",
+        "overview": "In Florida, a couple is booted from a flight after allegedly refusing to follow instructions A young girl in California finds herself stuck in a gumball machine. A hatchet-wielding customer terrifies customers in a New York City fast food restaurant. An unhappy customer in China exacts a buzzworthy revenge on his terrified barber. At a nail salon in Tennessee, a customer accused of skipping the bill takes off in her car, with the nail tech clinging to the trunk."
+      },
+      {
+        "id": "tvmaze:2474294",
+        "title": "No Backup Needed",
+        "season": 1,
+        "episode": 15,
+        "released": "2023-01-24",
+        "overview": "At a fast food restaurant in South Carolina, a man stands up to what he believes is a rude customer, and things quickly become physical. When two rowdy spring breakers cause some trouble at a beach in Florida, a lone officer arrives and takes immediate control of the situation. An employee wrestles with a man who she believes is attempting to flee with several bottles of the store's wine in his backpack. A man in France destroys several smartphones with a steel ball because he claims he was denied a refund."
+      },
+      {
+        "id": "tvmaze:2560611",
+        "title": "Rage Against the Rideshare Driver",
+        "season": 2,
+        "episode": 1,
+        "released": "2023-06-06",
+        "overview": "A stubborn moviegoer refuses to give up his seat, causing employees to stop the movie and intervene. A woman throws a tantrum - and a water bottle - after being ordered off a flight for not complying with the airline's pet policy. In Las Vegas, a rideshare driver is unexpectedly attacked by seven passengers. At a marijuana dispensary shop in Ontario, Canada, an employee fights of three masked robbers...with a bong. A customer smashed a glass bottle over the head of an employee during a fight at a fast food restaurant in Corpus Christi, Texas."
+      },
+      {
+        "id": "tvmaze:2560612",
+        "title": "Mid-Air Scare",
+        "season": 2,
+        "episode": 2,
+        "released": "2023-06-06",
+        "overview": "A plate shatters on a woman's face during a brawl over restaurant seating. A man wreaks havoc in a video game store over their return policy. A delivery driver falls into a 13 foot septic hole while attempting to deliver a package. A passenger on a flight to Boston begins acting erratically and starts making his way toward the cockpit. A fast food worker throws a pair of scissors at a customer after he inquires about his late order. A department store employee quits his job over the store's PA system and then skates out on his roller shoes."
+      },
+      {
+        "id": "tvmaze:2565037",
+        "title": "Courage on Tap",
+        "season": 2,
+        "episode": 3,
+        "released": "2023-06-13",
+        "overview": "After allegedly skipping the bill at an airport restaurant in Atlanta, a customer causes chaos with a fire extinguisher. In La Puente, California, a man renting out his luxury car for the day finds it at a body shop - partially dismantled. A bar patron keeps his cool in St. Louis, Missouri, in the face of an armed robber. In Torrance, California, a supermarket customer starts arguing with the staff after a two-dollar mix up. Things get physical between a drug store employee and a woman she accuses of shoplifting. Diners and staff are shaken when a pantless man falls from the ceiling of a restaurant. A customer surprises a drive-thru worker with flowers for Valentine's Day."
+      },
+      {
+        "id": "tvmaze:2565038",
+        "title": "Didn't Nail it",
+        "season": 2,
+        "episode": 4,
+        "released": "2023-06-13",
+        "overview": "A Los Angeles woman confronts a nail technician over an alleged \"lazy\" manicure. A violent brawl erupts over a closed-off seating section at a restaurant chain in Texas. A man attacks a rideshare driver in Laveen, Arizona. A gas station attendant smashes a bottle of wine over a customer's head in Louisiana. In Liverpool, England, a construction worker demolishes a newly completed hotel lobby over his alleged unpaid wages."
+      },
+      {
+        "id": "tvmaze:2565040",
+        "title": "Chaos on the Conveyor Belt",
+        "season": 2,
+        "episode": 5,
+        "released": "2023-06-20",
+        "overview": "A woman demands a refund, allegedly after hearing Spanish at her local pizzeria. A donut shop customer hurls a pot of coffee at an employee during an argument over her order. A brawl breaks out among a group of tourists at a fast food restaurant in China. In a hotel lobby, a woman tells another guest to leave the premises despite objections from hotel staff. A 9-year-old boy takes a wild ride on an airport luggage conveyor belt in Minneapolis/St. Paul."
+      },
+      {
+        "id": "tvmaze:2565041",
+        "title": "Cart Crusader",
+        "season": 2,
+        "episode": 6,
+        "released": "2023-06-20",
+        "overview": "An irate resident of Omaha, Nebraska, intentionally strides through freshly poured cement, much to the frustration of the cement truck driver. In Miami, Florida, a disruptive passenger who refuses to switch seats on a commercial flight causes turbulence even before takeoff. Down south in Naples, Florida, a self-styled \"cart narc\" is on a mission to publicly shame shoppers who leave their carts in the parking lot - but one harried women doesn't take too kindly to his antics. Over in China, a heart-stopping moment is caught on camera as a toddler tumbles down an escalator, only to be rescued by a quick-thinking hero. In Jonesboro, Arkansas, a customer throws an unexpected curveball at a local auto shop when she adamantly refuses to accept an oil change from a qualified female mechanic."
+      },
+      {
+        "id": "tvmaze:2579747",
+        "title": "Fast Food Frenzy",
+        "season": 2,
+        "episode": 7,
+        "released": "2023-06-27",
+        "overview": "In Chicago, a brawl erupts in a fast food restaurant between several employees and one customer. In Laurinburg, North Carolina, a car rental agent keeps his cool while dealing with a difficult customer. When a pizza delivery driver in Texas gets out of his car, another man jumps in and takes off. A professional wrestler and an enthusiastic spectator come to blows at a wrestling match in Norfolk, Virginia. In Moncure, North Carolina, a utility worker is confronted by an angry property owner."
+      },
+      {
+        "id": "tvmaze:2579748",
+        "title": "Brawl at the Mall",
+        "season": 2,
+        "episode": 8,
+        "released": "2023-06-27",
+        "overview": "Passengers on a departing plane attempt to vote a disruptive woman off the aircraft. A brawl breaks out at a home-goods store in Arizona after someone allegedly cuts the line. Emergency services are called to a thrift store in New York because a woman's finger is stuck in a shopping cart. A customer risks his life to stop an armed robber at a coffee shop. A heckler and a stand-up comedian go at it in an argument that escalates to a decidedly unfunny act of violence."
+      },
+      {
+        "id": "tvmaze:2579977",
+        "title": "Robot Run",
+        "season": 2,
+        "episode": 9,
+        "released": "2023-07-11",
+        "overview": "In Nashville, Tennessee, a dissatisfied restaurant patron tests the tolerance of her fellow diners. A tech-savvy New Yorker sends his robot to fetch fish food, delighting a pet store employee. On a plane in San Francisco, an apparent disagreement over seating erupts into a violent dispute. In West Yorkshire, England, an attempted cellphone theft is foiled by an auto locking door. At a beauty salon in Hamilton, Ontario, an unhappy customer lashes out at an employee. In Anaheim, California, a homeowner leaves a pleasant surprise for delivery workers. In Columbia, South Carolina, a comedian's joke sets off a furniture-flinging frenzy at a comedy club."
+      },
+      {
+        "id": "tvmaze:2594221",
+        "title": "A Rude Awakening",
+        "season": 2,
+        "episode": 10,
+        "released": "2023-07-18",
+        "overview": "In Brookhaven, Pennsylvania, a pizza delivery man helps police apprehend a suspect. In Philadelphia, a gas station customer rudely wakes up a napping cashier. A store clerk in Los Angeles risks her life to fight off a would-be robber. An employee in Fresno, California, takes the law into her own hands by using her car to chase down a man who's been accused of shoplifting. In Lancaster, Pennsylvania, an angry customer confronts a driver who she believes stole her space in a mall parking lot. A man in New York City sets a restaurant on fire over an alleged botched chicken order. In North Carolina, a pup brightens the day of a fast food drive-through worker."
+      },
+      {
+        "id": "tvmaze:2599805",
+        "title": "Drama at the Drive Through",
+        "season": 2,
+        "episode": 11,
+        "released": "2023-07-25",
+        "overview": "In Swampscott, Massachusetts, a woman and a contractor face off over noisy construction in her neighborhood. At a fast food taco joint, police are called when a drive-through customer falls asleep while waiting in line. A pizza delivery man unwittingly enables a squirrel to gain entrance into a home. Window washers high up on a scaffold are dive-bombed by a falcon. An armed man holds up a Washington state gas station, very, very politely. After reportedly being told it's too early to order a chicken product, a woman attacks the employees through a drive thru window."
+      },
+      {
+        "id": "tvmaze:2599813",
+        "title": "Don't Mess With Grandma",
+        "season": 2,
+        "episode": 12,
+        "released": "2023-08-01",
+        "overview": "In Fort Lauderdale, Florida, tempers flare during a flight's deboarding process as an impulsive passenger attempts to force his way down the aisle. In Cherry Hill, New Jersey, a mall-goer's unique outlook on life stuns the man interviewing him. In Everett, Washington, three men attempting to rob a cannabis shop are met with an extremely effective deterrent. In England, a mother-daughter duo is shocked by their extreme eyebrow treatments. Tensions reach a boiling point in a San Francisco, California restaurant when a dissatisfied customer hurls a bottle of hand sanitizer toward a mother and child. A 25-person brawl erupts at a superstore in St. Louis, Missouri. A drive thru customer in Elkhart, Indiana, gets a huge surprise in his takeout bag."
+      },
+      {
+        "id": "tvmaze:2682804",
+        "title": "Can't Fight this Ceiling",
+        "season": 3,
+        "episode": 1,
+        "released": "2023-11-07",
+        "overview": "In Las Vegas, a rideshare driver and passenger get into a heated altercation over an alleged door slam. In Akron, Ohio, a cashier lifts her shirt and flashes a customer mid-argument. A young lady in England throws a milkshake at a car she was just paid to wash. A woman falls through the ceiling of a convenience store in Canada. In Houston, Texas, a woman stands in a sports stadium parking space in an attempt to reserve her spot. In Knoxville, Tennessee, a passenger attempts to rob a Taxi driver at gunpoint. At a superstore in Alabama, a pregnant woman shopping with her husband shocks him with a special request."
+      },
+      {
+        "id": "tvmaze:2682805",
+        "title": "Too Hot to Handle",
+        "season": 3,
+        "episode": 2,
+        "released": "2023-11-07",
+        "overview": "In Orlando, FL a passenger makes a scene in the aisle after being asked to leave the plane. A pickup truck at a drive thru window suddenly becomes engulfed by flames. Two men in an Oklahoma hair salon come to blows over some allegedly offensive comments. In Wisconsin, a man walks into a jewelry store with a brick and attempts to smash a display case. A delivery worker in New York has to think quickly to hide a surprise package for a homeowner. A bus driver and passenger get into a violent confrontation in North Carolina. In California, an angry customer demanding a double toasted bagel inspires a creative reaction from another patron."
+      },
+      {
+        "id": "tvmaze:2682807",
+        "title": "Dumpster Dive",
+        "season": 3,
+        "episode": 3,
+        "released": "2023-11-14",
+        "overview": "In Oakland, California, a disagreement between two employees culminates in a dramatic tug of war with one employee's hair. At a Texas airport, a passenger goes on a tirade after being denied boarding. In Indianapolis, Indiana, a waitress boldly confronts customers who leave her a cryptic message instead of a tip. An outdoor dining experience in China turns chaotic as hurricane-like winds send patrons and staff airborne. In Santa Cruz, California, a landscaper's run in with a neighbor takes a bizarre turn when she tries to hide from his camera using one of his trash bins."
+      },
+      {
+        "id": "tvmaze:2682808",
+        "title": "Cruise Blues",
+        "season": 3,
+        "episode": 4,
+        "released": "2023-11-14",
+        "overview": "A fight breaks out at a restaurant in Miami, Florida after employees throw cups at an allegedly disruptive customer. A man is accused of stealing the items he just purchased in a home goods store because he didn't take a receipt. A bakery owner armed with a small knife fends off a man with a gun. Severe weather in Port Canaveral threatens the safety of passengers on a cruise ship. A man embarks on a once in a lifetime adventure when he discovers that he is the only passenger on his flight. A bouncer in Florida uses his bare hands to thwart an armed intruder trying to enter a nightclub."
+      },
+      {
+        "id": "tvmaze:2682809",
+        "title": "Baggage Claim Brawl",
+        "season": 3,
+        "episode": 5,
+        "released": "2023-11-21",
+        "overview": "In Norman, OK a delivery driver goes all out in an attempt to find a customer's missing package. In Rye, NY, amusement park goers find themselves stuck on a malfunctioning ride that's spinning in reverse. A mass brawl breaks out at an airport baggage claim carousel in Chicago. A group of rideshare passengers in Buffalo, NY turn obnoxious when the driver tells them they cannot all fit in the vehicle. Police respond to an alarm at an Ohio credit union and hear mysterious noises coming from a crawl space in the roof. In California, a job seeker complains about a fast food restaurant's rigorous application process."
+      },
+      {
+        "id": "tvmaze:2682810",
+        "title": "Foul-Mouthed Flier",
+        "season": 3,
+        "episode": 6,
+        "released": "2023-11-21",
+        "overview": "On a flight bound for Austin, TX, a passenger goes on a foul-mouthed tirade after being asked to watch his language. An apparently armed man strikes out at a nail salon in Georgia. An Alaskan woman visiting Brooklyn, NY rids a local bar of a large pest. A complaining customer in a California tire shop exasperates other customers, leading to a physical altercation. A missed stop on a city bus leads to a violent altercation between the bus driver and an older passenger."
+      },
+      {
+        "id": "tvmaze:2682811",
+        "title": "Customer Support",
+        "season": 3,
+        "episode": 7,
+        "released": "2023-11-28",
+        "overview": "A hungry customer at a Florida restaurant draws the ire of other customers. Police confront a young man with a gun inside a Wisconsin Convenience store. A purported seating kerfuffle escalates to an all out brawl at a hot pot restaurant in Thailand. A pizza delivery worker in Detroit has a spill. Feeding time goes very, very badly for an animal trainer at a Utah reptile center."
+      },
+      {
+        "id": "tvmaze:2697923",
+        "title": "Runway Rage",
+        "season": 3,
+        "episode": 8,
+        "released": "2023-12-05",
+        "overview": "In Philadelphia, PA, a disruptive passenger is removed from an airplane. A fight breaks out at a local bar in Hill City, South Dakota. Football fans heading to a match in West Sussex, England race against the clock to receive a beer delivery as their train passes a station. In Brunswick, OH, a mom learns an important lesson about leaving one's child alone in a parked car. In Los Angeles, CA, two passengers wreak havoc at a drive thru after being kicked out of their rideshare."
+      },
+      {
+        "id": "tvmaze:2712779",
+        "title": "Bar Blunder",
+        "season": 3,
+        "episode": 9,
+        "released": "2023-12-26",
+        "overview": "In Baltimore, MD, a verbal argument between two groups of diners escalates when a man throws a drink in a woman's face. At a nail salon in Akron, OH, a complaining customer gets in a heated back and forth with a social media influencer. In Los Angeles, CA, a woman seeking directions ends up taking a very wrong turn. At a Missouri bar, a man behind the bar refuses to accept an ID he insists is fake. Chaos ensues at an Orlando airport when a canceled flight leads to an altercation between a traveler and police."
+      },
+      {
+        "id": "tvmaze:2712780",
+        "title": "Rideshare Rage",
+        "season": 3,
+        "episode": 10,
+        "released": "2023-12-26",
+        "overview": "In Parma, OH, a dissatisfied customer at a fast food restaurant throws her food at an employee. In the Bronx, NY, a rideshare passenger goes on a tirade apparently after learning that she can't charge her phone. In Nevada, a woman uses her smartwatch to track down her missing wallet. At O'Hare International Airport, an out of control catering cart threatens to hit a parked airplane. At a Houston, TX drive thru, an altercation over allegedly missing french fries turns terrifying. A delivery driver has a creative way of sneaking a snack on the job."
+      },
+      {
+        "id": "tvmaze:2712781",
+        "title": "Con Catastrophe",
+        "season": 3,
+        "episode": 11,
+        "released": "2024-01-02",
+        "overview": "In a drug store in Malibu, an employee confronts a man about his service dog's behavior. Police in Florida report to a big-box store and detain a woman who employees claim scanned numerous items at self-checkout and then left without paying. An argument at a fast food restaurant in Bakersfield, CA spills out into the parking lot. Outside a bar in Huntington Beach, CA, staff try to reign in some unruly patrons, to no avail."
+      },
+      {
+        "id": "tvmaze:2712782",
+        "title": "Suds and Spats",
+        "season": 3,
+        "episode": 12,
+        "released": "2024-01-02",
+        "overview": "At a Missouri laundromat, a customer calls the police over a dryer dispute. In Cincinnati, Ohio, a fast-food customer demanding a refund slaps an employee. An alligator wrestling show at a Florida reserve takes a terrifying turn. In Buford, Georgia, a heated dispute erupts when a man believes a woman has wrongfully parked in a handicap spot."
+      },
+      {
+        "id": "tvmaze:2712783",
+        "title": "Unhappy Customer",
+        "season": 3,
+        "episode": 13,
+        "released": "2024-01-09",
+        "overview": "Two passengers deal with flight delays in two very different ways. In Groves, TX, a carnival worker dangles from a ride 30 feet in the air while trying to keep a young rider safe. A food delivery worker in Ohio gives a customer a piece of his mind. A customer lends a much needed hand at a store in Tennessee. An out of control cruise ship barrels toward a docked boat in Venice, Italy. An unhappy customer is confronted by police at a restaurant in Florida..."
+      },
+      {
+        "id": "tvmaze:2712784",
+        "title": "Escalator Escapade",
+        "season": 3,
+        "episode": 14,
+        "released": "2024-01-09",
+        "overview": "A woman takes issue with a mouse she spots in a Pennsylvania restaurant. A suspected shoplifter in Illinois goes to great lengths to avoid arrest. A ride goes terribly wrong at a funfair in France. At a fast food restaurant in Savannah, Georgia, an argument apparently over cold french fries turns physical. In Poland, a pair of determined senior citizens go all out for a chance at a free hamburger."
+      },
+      {
+        "id": "tvmaze:2712785",
+        "title": "Subway Scuffle",
+        "season": 3,
+        "episode": 15,
+        "released": "2024-01-16",
+        "overview": "In New York City, a bike on the subway starts a brawl. On a plane taxiing in Philadelphia, a desperate passenger threatens to relieve herself in the aisle. A festival ride in Traverse City, Michigan appears to malfunction, causing a crowd of onlookers to jump into action. A delivery driver's mistake results in a panicked search for a missing cat in Aurora, Colorado."
+      },
+      {
+        "id": "tvmaze:2712786",
+        "title": "Cool as a Cucumber",
+        "season": 3,
+        "episode": 16,
+        "released": "2024-01-16",
+        "overview": "In Seattle, a restaurant owner confronts a woman accused of trying to leave without paying her tab. A rideshare driver in Washington D.C. remains very cool under extreme pressure. In Hawaii, a self proclaimed \"Shopping Cart Narc\" runs for cover after confronting a couple who leave their cart on the grass. Family and friends dining in Martin, TN, gets a very unpleasant surprise while sitting by the window. A customer at a car wash in Pennsylvania accidentally hits the gas."
+      },
+      {
+        "id": "tvmaze:2712787",
+        "title": "Emergency Exit",
+        "season": 3,
+        "episode": 17,
+        "released": "2024-01-23",
+        "overview": "A bus driver on the job in Las Vegas, NV speaks his mind. In Atlanta, GA, an altercation during the breakfast rush at a drive-thru escalates to a dangerous point. A zoo visitor in Indonesia gets up close and personal with an Orangutan. A rideshare driver in Brooklyn, NY witnesses something extraordinary. A passenger's odd behavior causes a panic on a gated plane in New Orleans."
+      },
+      {
+        "id": "tvmaze:2712788",
+        "title": "It's All Downhill From Here",
+        "season": 3,
+        "episode": 18,
+        "released": "2024-01-23",
+        "overview": "In Albuquerque, New Mexico, a passenger's unruly behavior causes the crew to divert a flight. In Glasgow, Kentucky, an off-duty officer is dealt a devastating blow when shopping for a gun. A downhill chase ensues in Park City, Utah after a skier is called out for his rude behavior on the slopes. A security camera in Madisonville, Kentucky captures an arsonist lighting a business and himself on fire. In Moorpark, California, someone goes way undercover in order to take a package undetected."
+      },
+      {
+        "id": "tvmaze:2712789",
+        "title": "High Anxiety",
+        "season": 3,
+        "episode": 19,
+        "released": "2024-01-30",
+        "overview": "At a pawn shop in Maine, two men reach an unlikely agreement about an allegedly ill-gotten bicycle. In Florida, a drive thru worker takes issue with a customer's allegedly noisy child. In Franklin, NC, an animal clinic's day turns disastrous. A young woman runs into a terrifying issue on a gondola ride in Queensbury, NY. At a zoo in India, a man gets much too close to two lions. In Irvine, CA a woman lends a hand to a meal delivery robot in trouble."
+      },
+      {
+        "id": "tvmaze:2712790",
+        "title": "Argument in the Air",
+        "season": 3,
+        "episode": 20,
+        "released": "2024-02-06",
+        "overview": "A heated argument breaks out on a mid-air flight to Los Angeles. In Wisconsin, an alleged shoplifter leads police on a wild chase. At a sandwich shop in California, a woman takes drastic measures after reportedly being denied a refund. On the slopes in Austria, a struggling snowboarder takes down a slew of other skiers. Two friends find a clever workaround for the 'no pedestrians at the drive-thru' rule."
+      },
+      {
+        "id": "tvmaze:2763729",
+        "title": "Just Plane Wrong",
+        "season": 3,
+        "episode": 21,
+        "released": "2024-02-13",
+        "overview": "Parents in Florence, KY, find an unexpected and unpleasant surprise in their child's chicken nuggets. An overbooked flight in Chicago, IL leads to the forced removal of an unwilling passenger. In Savoie, France, a skier's near miss with a drone camera leads to a forceful retaliation. In a Middle Eastern bakery, an employee's jacket gets tangled up in an industrial dough mixer. In San Francisco, CA, a rideshare journey takes an unfortunate turn when a sick passenger refuses to leave the vehicle."
+      },
+      {
+        "id": "tvmaze:2775776",
+        "title": "Not a Dog Person",
+        "season": 3,
+        "episode": 22,
+        "released": "2024-02-27",
+        "overview": "In Delaware, a restaurant customer takes issue with the proximity of a man's service dog. In Minnesota, a customer loses control of his vehicle at a car wash. Disappointment with a meal prize leads to blows in Nova Scotia. A rogue wave nearly demolishes a seaside restaurant in Italy."
+      },
+      {
+        "id": "tvmaze:2781637",
+        "title": "Construction Crusaders",
+        "season": 3,
+        "episode": 23,
+        "released": "2024-03-05",
+        "overview": "In Bakersfield, California, a pair of heroic contractors help a homeowner recover a bike taken from her yard. An angry customer in Bay Shore, Long Island blames a fast food restaurant for a fire in his microwave. In Australia, a professional snake catcher is called to a man's house to remove a python, and pays a price. A family trip to an amusement park in California ends in violence."
+      },
+      {
+        "id": "tvmaze:2786542",
+        "title": "Drive-Thru Debacle",
+        "season": 3,
+        "episode": 24,
+        "released": "2024-03-12",
+        "overview": "In Augusta, GA, disaster unfolds as a truck attempts to purchase food at a drive thru. At a Dallas, TX airport, a passenger's rudeness sparks a chaotic brawl among travelers. In Melbourne, Australia, a rideshare driver gets a very pleasant surprise. At a bus station in Nashville, TN, a customer's alleged inability to pay for a ticket with his phone leads to a destructive rampage. An unexpected guest makes a violent entrance at a New York hair salon, and then takes off with a flat iron."
+      },
+      {
+        "id": "tvmaze:2795816",
+        "title": "Homeowner vs. Handyman",
+        "season": 3,
+        "episode": 25,
+        "released": "2024-03-19",
+        "overview": "In Coram, New York, a homeowner confronts a handyman over his allegedly unsatisfactory work. On a train in Oakland, California, a heated argument between two women spins out of control. In the Florida Everglades, an alligator handler's routine goes very wrong. At a cinema in the Philippines, a malfunctioning sprinkler system causes a large portion of the ceiling to fall down on an unsuspecting crowd."
+      },
+      {
+        "id": "tvmaze:2852934",
+        "title": "Scuffle on the Slopes",
+        "season": 4,
+        "episode": 1,
+        "released": "2024-05-07",
+        "overview": "In Texas, an angry cell phone customer wreaks havoc in a store with a metal stool. A mistaken assumption creates an awkward situation for a food delivery worker in Maryland. In Florida, two telecommunication workers are confronted by an irate, and armed, resident. A demonstration at an Arkansas science museum goes very wrong. In Canada, a thrown snowball leads to a scuffle on the slopes. In Illinois, a package delivery worker refuses to let an icy driveway get in his way."
+      },
+      {
+        "id": "tvmaze:2852935",
+        "title": "Delivery Disaster",
+        "season": 4,
+        "episode": 2,
+        "released": "2024-05-07",
+        "overview": "At an Atlanta Airport, a woman berates airline staff after apparently being removed from her flight. In Covington, Georgia, a delivery driver rushing to drop off a package makes a big mistake. A young boy dangles precariously from a chairlift at a Nevada ski resort as a group of skiers below attempt a rescue. At a coffee shop drive-thru in England, a woman convinces her boyfriend to order from a secret menu that doesn't exist. In Fort Worth, Texas, an attempted credit union robbery spirals dangerously out of control."
+      },
+      {
+        "id": "tvmaze:2858573",
+        "title": "Convenience Store Chaos",
+        "season": 4,
+        "episode": 3,
+        "released": "2024-05-14",
+        "overview": "In Kansas City, Missouri, a convenience store clerk and a customer get into a heated and prolonged confrontation. In North Carolina, two sibling whitewater rafting guides physically fight each other on a raft as it makes its way down a river. In Ontario, Canada, a pair of car mechanics are caught on dashcam taking a vehicle on an unexpected errand. At a gym in Ohio, a woman gets stuck upside down on an inversion table, with no rescue in sight. In Louisville, Kentucky a karaoke host loses his cool over a patron's aggressive singing style."
+      },
+      {
+        "id": "tvmaze:2858574",
+        "title": "Stadium Scramble",
+        "season": 4,
+        "episode": 4,
+        "released": "2024-05-14",
+        "overview": "In Lebanon, Oregon, a pay-it-forward chain at a coffee shop drive-thru gets derailed when a customer is accused of cutting the line. At a restaurant in Scottsdale, Arizona, a mother with her baby is confronted by another patron. At a car dealership in Bedford, Ohio, a dispute between a customer and an employee comes to a terrifying head. In Texas, a delivery driver struggles on the icy steps of a porch. In Miami, Florida, fans scramble to save a cat dangling from a stadium's upper level. At a carnival in Juarez, Mexico, a thrill seeker gets more than she bargained for on a pendulum ride."
+      },
+      {
+        "id": "tvmaze:2858578",
+        "title": "Public Transit Peril",
+        "season": 4,
+        "episode": 5,
+        "released": "2024-05-21",
+        "overview": "An employee of a Minnesota big box store confronts a customer about her receipt. An argument on a public bus in Houston takes a shocking turn when shots are fired. A pet shop owner in Valley Glen, California goes all out to protect a McCaw. In Dickinson, Texas, a customer and a gas station employee argue over whether or not a gas pump is working. At a ski resort in the country of Georgia, a disastrous chair lift malfunction sends skiers flying through the air."
+      },
+      {
+        "id": "tvmaze:2858582",
+        "title": "Retail Rampage",
+        "season": 4,
+        "episode": 6,
+        "released": "2024-05-21",
+        "overview": "At a sandwich shop in Hemet, CA, two customers confront store employees about their unsatisfactory meal. In Chile, a man who allegedly tries to snatch a bus passenger's bag pays a serious price. A customer in a Las Vegas, NV drugstore who is pepper sprayed by a security guard uses the store's milk to find relief. In Sarasota, FL, an unauthorized trip in a yacht wreaks havoc at a marina. At a monster truck rally in Marion, OH, excitement turns to horror, as a safety worker is hit by one of the vehicles."
+      },
+      {
+        "id": "tvmaze:2879164",
+        "title": "Shopping Bag Shenanigans",
+        "season": 4,
+        "episode": 7,
+        "released": "2024-05-28",
+        "overview": "At a big box store in Encino, California, a customer fumes as an item she purchased is no longer in her shopping bag. In Saugus, Massachusetts, a man relaxing in the jacuzzi is shocked when he finds the gym has closed and he is now locked inside. At a Columbus, Mississippi hotel, an employee and a family attempting to check in argue over room availability. In Culcheth, England, a car barrels through a restaurant window, nearly missing a group of unsuspecting diners. In a parking lot in Lincoln, Nebraska, a man driving a skid loader results in a tense standoff with police."
+      },
+      {
+        "id": "tvmaze:2879168",
+        "title": "Out of Order",
+        "season": 4,
+        "episode": 8,
+        "released": "2024-05-28",
+        "overview": "Tempers flare when a Los Angeles drive thru's cashless payment system goes down. In South Africa, a tour bus full of tourists take cover from an aggressive elephant. A woman in Indiana tells her father she wants to apply for one of the world's most dangerous jobs. A tornado rips through a car dealership in Trevose, Pennsylvania, with devastating consequences. A hot air balloon causes chaos when it crash lands at an outdoor festival in Missouri."
+      },
+      {
+        "id": "tvmaze:2890347",
+        "title": "Boatside Brawl",
+        "season": 4,
+        "episode": 9,
+        "released": "2024-06-04",
+        "overview": "At a Dallas airport, confusion over seating assignments on a plane ends with police intervention. In Montgomery, Alabama, a dispute over boat parking leads to a huge brawl on the docks. A rideshare passenger in Chicago takes issue with a driver's dashcam. In Medellin, Colombia, a tourist helicopter with six people on board experiences a sudden and terrifying issue on takeoff."
+      },
+      {
+        "id": "tvmaze:2900730",
+        "title": "Coffee Conundrum",
+        "season": 4,
+        "episode": 10,
+        "released": "2024-06-11",
+        "overview": "At a convenience store in West Mifflin, Pennsylvania, a disagreement over coffee creamers ends up with the police being called. In a Paterson, New Jersey cellular shop, an employee traps two would-be robbers inside the store. A skydive in Chile turns terrifying when a student gets tangled up in her parachute's lines. In the Norwegian Sea, a cruise ship is hit by 60 foot waves causing chaos onboard."
+      },
+      {
+        "id": "tvmaze:2900733",
+        "title": "Fast Food Fury",
+        "season": 4,
+        "episode": 11,
+        "released": "2024-06-18",
+        "overview": "At a fast food drive thru in Iowa, a customer's tone when trying to retrieve his debit card leads to a tense conflict with employees. In a Wisconsin store, police confront a man suspected of shoplifting. A home security camera in Washington captures a delivery driver going above and beyond his usual duty to help a customer's dog. In Thailand, a group photo turns into a nightmare when a second story hotel balcony collapses. At a fair in Memphis, tensions explode between customers waiting in line and a ride operator."
+      },
+      {
+        "id": "tvmaze:2915958",
+        "title": "Haircut Heroes",
+        "season": 4,
+        "episode": 12,
+        "released": "2024-06-25",
+        "overview": "At a diner in Breaux Bridge, Louisiana, a canceled order leads to a confrontation between two customers and an employee. Two hammer-wielding robbers break into a London antique shop, in a brutal smash and grab robbery. In Ormond Beach, Florida, a homeowner and postal worker get into a screaming match over the scanning of a package. At a sandwich shop in Bowling Green, Kentucky, a young man brawls with employees and customers alike. In East Hartford, Connecticut, two barbers jump into action when they see a little girl running toward a busy intersection."
+      },
+      {
+        "id": "tvmaze:2927925",
+        "title": "Passenger Pandemonium",
+        "season": 4,
+        "episode": 13,
+        "released": "2024-07-09",
+        "overview": "On a runway in Los Angeles, California, travelers get annoyed at a passenger who appears to be disruptive. At a tennis match in Queens, New York, a father-daughter duo engage in a heated argument with another fan over proper sports etiquette. In Phoenix, Arizona, a high-end haircut gone wrong leaves one woman in hysterics. Two women at a fast food drive-thru in London, England, butt heads with employees. In Stamford, Connecticut, a boat engulfed in flames threatens to spread to an entire marina."
+      },
+      {
+        "id": "tvmaze:2940280",
+        "title": "War of the Words",
+        "season": 4,
+        "episode": 14,
+        "released": "2024-07-23",
+        "overview": "On a bus in Maryland, a heated argument between two passengers escalates to a dangerous breaking point. In a New York City pet store, a woman is asked to leave after kicking a puppy's kennel, but how she treats an innocent bystander before exiting shocks everyone. At a grocery store in Baltimore, a customer is upset after an employee allegedly calls him a name. While parasailing off the gulf in Florida, three friends begin to panic after seeing what they believe to be sharks in the water below."
+      },
+      {
+        "id": "tvmaze:2941028",
+        "title": "Shift Showdown",
+        "season": 4,
+        "episode": 15,
+        "released": "2024-08-06",
+        "overview": "At a convenience store in Reno, Nevada, a shift change between two employees escalates into a heated argument. In a fast food restaurant in Santa Monica, California, a security guard finds himself under siege while bystanders attempt to diffuse the situation. In Eatontown, New Jersey, a rideshare trip gets cut short after passengers appear to push their driver too far. In Seattle, Washington, a blind man and his service dog are unjustly ejected from a restaurant by an employee who questions his disability. On a bus in Naucalpan, Mexico, an attempted armed robbery backfires when brave passengers step into action."
+      },
+      {
+        "id": "tvmaze:2959525",
+        "title": "Parking Lot Lesson",
+        "season": 4,
+        "episode": 16,
+        "released": "2024-08-13",
+        "overview": "In a parking lot in Pascagoula, Mississippi, a customer in a wheelchair confronts another who he believes is blocking access to his wheelchair ramp. At a salon in Tampa, Florida, a hairstylist struggles to remain calm when an unexpected visitor catches her off guard. On a public bus in Mountain View, California, a dispute between a bus driver and his passenger takes a dramatic turn. A tourist in Phuket, Thailand squares up against other hotel guests, leading to a brawl in the lobby."
+      },
+      {
+        "id": "tvmaze:3114015",
+        "title": "Wild Horse Chase",
+        "season": 5,
+        "episode": 1,
+        "released": "2025-02-04",
+        "overview": "Tensions rise at a pet grooming business in Miami when staff informs a customer that her dog cannot be groomed because of its behavior. In a parking lot in Albuquerque, a suspected shoplifter is pursued by mounted police. A woman shopping in an Australian mall is confronted by a security guard because of her wardrobe. In a Florida parking lot, a large group of diners argue with a tow truck operator who's attempting to impound their vehicle. On a plane in Canada, a flight attendant takes the safety demonstration to new heights."
+      },
+      {
+        "id": "tvmaze:3114016",
+        "title": "Takeout Trouble",
+        "season": 5,
+        "episode": 2,
+        "released": "2025-02-04",
+        "overview": "At a restaurant in Nashville, Tennessee, a customer's demand for a refund spirals into a heated back and forth with employees. In Rockford, Illinois, a rideshare trip takes a startling turn when a passenger doesn't exit the vehicle after being asked to by the driver. At a Phoenix, Arizona airport, an airline employee is moved to tears by a customer's unexpected praise. On a New York City subway, two passengers' dispute over the ownership of a bag brings the train to a standstill. In Sakon Nakhon, Thailand, a cafe employee runs for cover when a construction mishap next door causes the building's pillars to give way."
+      },
+      {
+        "id": "tvmaze:3114017",
+        "title": "Ferris Wheel Fiasco",
+        "season": 5,
+        "episode": 3,
+        "released": "2025-02-11",
+        "overview": "On a train from Connecticut to New York, a commuter must contend with another passenger's feet on her seat. At a school in Lake Forest, California, a camera crew attempting to capture a challenging BMX stunt is confronted by a security guard. In Montevideo, Uruguay, a bystander aids a bus driver in dealing with an oddly behaving potential passenger. In Golden Valley, Minnesota, an HVAC Technician records as the homeowner who hired him calls 911 claiming she is scared of him. At a fairground in Greensboro, North Carolina, workers attempt to rescue two children from a stopped ferris wheel."
+      },
+      {
+        "id": "tvmaze:3114018",
+        "title": "Flying Plates and Punches",
+        "season": 5,
+        "episode": 4,
+        "released": "2025-02-11",
+        "overview": "At a late-night diner in Florida, customers and employees get into a physical altercation, allegedly over the wait time for food. At a Utah airport, officers are called to deal with a passenger after confusion over a seat assignment quickly escalates. In the UK, a delivery worker's social media post about having the easiest job in the country goes viral, leading to an unexpected call from his employer. At a cell phone store in Brazil, as an employee who brought his young daughter to work briefly steps out of sight, a man with a mallet enters the store and begins wreaking havoc. In an Oklahoma hotel, guests and employees seek shelter as a tornado approaches the area."
+      },
+      {
+        "id": "tvmaze:3114019",
+        "title": "Taxi Terror",
+        "season": 5,
+        "episode": 5,
+        "released": "2025-02-18",
+        "overview": "At a bike shop in San Antonio, Texas, an employee faces off with a customer over some apparent confusion about the cost of a repair."
+      },
+      {
+        "id": "tvmaze:3114020",
+        "title": "The Naughty List",
+        "season": 5,
+        "episode": 6,
+        "released": "2025-02-18",
+        "overview": "At a convenience store in Akron, Ohio, a customer attempts to return an allegedly faulty phone card without a receipt. At a big box store in Charlotte, North Carolina, a fight between two women, allegedly over one of the holiday season's hottest gaming consoles, turns physical. In Key West, Florida, police get involved in a couple's cruise stopover threatening to bring their vacation to an early end. In a grocery store in Lindenhurst, United Kingdom, a customer and employee go head to head in a dance off. At a basketball game in Sacramento, California, rival fans get heated over a cowbell."
+      },
+      {
+        "id": "tvmaze:3114021",
+        "title": "Escalation at the Airport Gate",
+        "season": 5,
+        "episode": 7,
+        "released": "2025-02-25",
+        "overview": "In New Jersey, a lifestyle vlogger's filming of her visit to a nail salon sparks a confrontation with employees. At an Indianapolis airport, a flight cancellation leads to a heated exchange between two passengers and airport security. On a safari in Zimbabwe, a group of tourists have their lunch interrupted by an apparently moody elephant. In Nashville, a group of friends contend with an apparent lack of employees at a hotel, and put themselves to work. At an amusement park in Tennessee, a mischievous ride operator toys with park-goers' emotions."
+      },
+      {
+        "id": "tvmaze:3114022",
+        "title": "Grandma to the Rescue",
+        "season": 5,
+        "episode": 8,
+        "released": "2025-02-25",
+        "overview": "In Honolulu, Hawaii, a resort guest's confrontation with a group of performers escalates into an explosive altercation. At a convenience store in Philadelphia, chaos ensues when two alleged shoplifters are locked inside by a security guard. In the back of a rideshare car, three friends are forced out after their bickering turns physical. An open-air concert in Jefferson County, Colorado, takes a dangerous turn when a massive hailstorm rains down on thousands of fans. And in Chonburi, Thailand, a heroic grandmother springs into action to save an electrocuted electrician."
+      },
+      {
+        "id": "tvmaze:3146535",
+        "title": "Difficult Delivery",
+        "season": 5,
+        "episode": 9,
+        "released": "2025-03-04",
+        "overview": "In Melbourne, Florida, a delivery driver must contend with a customer dissatisfied with how his package was delivered. At a sandwich shop in Chino, California, a dispute between a patron and employees over payment methods escalates when another customer gets involved. In York, United Kingdom, a professional house cleaner is interrupted by an upset neighbor with a startling accusation. On a cruise returning to Tampa, Florida, a man in search of a late-night snack stumbles upon a huge brawl. At a used clothing store in Ashwaubenon, Wisconsin, shoppers young and old are caught off guard by a shocking event."
+      },
+      {
+        "id": "tvmaze:3146538",
+        "title": "Barbershop Revenge",
+        "season": 5,
+        "episode": 10,
+        "released": "2025-03-11",
+        "overview": "At a gym in Nebraska, a professional trainer's workout session is disrupted by unwanted advice from a male gym member. At a fast-food restaurant in Kentucky, a disagreement between a customer and employees results in a chaotic altercation. On a sidewalk in California, a professional dog walker has a heated back-and-forth with a dog owner regarding leash laws. At a barbershop in Thailand, a man who's frustrated with his hairdresser chooses a violent retaliation. At a warehouse store in Georgia, a man becomes suspicious when he starts running into numerous people from all aspects of his life. At an amusement park in Oregon, 28 people get stuck upside down, 50 feet in the air, on a massive pendulum ride."
+      },
+      {
+        "id": "tvmaze:3146539",
+        "title": "Runaway at the Rodeo",
+        "season": 5,
+        "episode": 11,
+        "released": "2025-03-11",
+        "overview": "In Carbondale, Illinois, an employee vents about a tense confrontation with an allegedly rude customer. In Lathrup Village, Michigan, a football player's confrontation with police at a convenience store spirals out of control. In Las Vegas, Nevada, a customer's frustration boils over when she is denied a refund for what she claims is an expired juice. At a rodeo in Sisters, Oregon, chaos erupts as a 1,400-pound bull breaks free, sending fans scrambling. In Rochester, New York, a pizza delivery driver finds himself in the middle of relationship drama after accidentally delivering a pizza to a woman's ex-boyfriend's house. And in Mississauga, Canada, a jewelry store owner takes matters into his own hands, chasing off smash-and-grab robbers with a sword."
+      },
+      {
+        "id": "tvmaze:3146540",
+        "title": "Movie Theater Madness",
+        "season": 5,
+        "episode": 12,
+        "released": "2025-03-18",
+        "overview": "In the parking lot of a fast-food restaurant in Huntington Beach, California, a patron confronts three motorcyclists about their parking etiquette. On a packed train in New York City, a back-and-forth between passengers turns physical. In Austin, Texas, a woman laments a job interview gone wrong. At a movie theater in Vero Beach, Florida, the alleged disruptive behavior of two women escalates when the police arrive. At a coffee shop in Shanghai, China, an argument between a customer and employee over long wait times spirals out of control."
+      },
+      {
+        "id": "tvmaze:3146542",
+        "title": "Vacation Gone Wrong",
+        "season": 5,
+        "episode": 13,
+        "released": "2025-03-25",
+        "overview": "In an Alabama 24-hour diner, two frustrated employees clash in an explosive showdown. At a Dallas Airport, officers are called in after a passenger is denied boarding. In Houston, a delivery driver is stunned by a customer's tip. At a California resort, a man's alleged remarks lead to a violent altercation with other vacationers. At a Thai gold shop, an armed man enters the store and begins smashing displays, setting up a confrontation with the owner."
+      },
+      {
+        "id": "tvmaze:3146543",
+        "title": "Superstore Sprinter",
+        "season": 5,
+        "episode": 14,
+        "released": "2025-03-25",
+        "overview": "In Baltimore, Maryland, a long line at a fast-food drive-thru leads to flaring tempers and a chaotic brawl. In Bogota, Colombia, a tardy traveler's dramatic attempt to board a departing flight ends in a confrontation with authorities. Outside a superstore in Kent, Washington, a shoplifting suspect is confronted by police. In Northern Ireland, a courageous six-year-old enlists a delivery driver's help after his mother collapses. In San Diego, California, a hotel security guard and a desk clerk get into a physical altercation with a man who is being denied entry. At a Portland, Maine, pawn shop, a man attempts to sell a bass guitar that's been reported stolen."
+      },
+      {
+        "id": "tvmaze:3278510",
+        "title": "Tables and Tiaras",
+        "season": 6,
+        "episode": 1,
+        "released": "2025-07-15",
+        "overview": "In Toronto, Canada, confusion over handicapped accessibility on a streetcar causes tempers to flare. In Charlotte, North Carolina, an amateur fashion show devolves into an all-out brawl. A plane is forced to make an emergency landing in Albuquerque, New Mexico, after passengers receive frightening messages on their phones. In Green Valley, Arizona, a contracted delivery driver becomes locked in an ugly exchange with a resident from a gated community. At a fast-food restaurant in Stone Mountain, Georgia, an early morning employee is confronted by an apparently armed man."
+      },
+      {
+        "id": "tvmaze:3278511",
+        "title": "Sting Operation",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-07-15",
+        "overview": "In Florida, a dress-shop employee suspected of taking money from the cash drawer is confronted by police. In a Charlotte fast-food restaurant, employees attempt to remove two argumentative customers from the premises. At a hair salon in Texas, a woman gets an unpleasant surprise when having her hair washed. In a New Jersey gas station coffee shop, an alleged parking lot mishap turns violent. In England, a delivery cyclist pursues a man who he believes took his $2,700 bike."
+      },
+      {
+        "id": "tvmaze:3278512",
+        "title": "Do Not Disturb",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-07-22",
+        "overview": "In Allen, Texas, a parking lot dispute turns into a bizarre tirade of passive-aggressive insults. At a luxury hotel in West Palm Beach, Florida, an unruly guest clashes with staff and police. A Dallas rideshare driver picks up a passenger and has a stunning realization. In Loma Linda, California, a fast-food restaurant is thrown into chaos when a customer intervenes in an argument between employees and a man who's unhappy with the service. At a zoo in Chongqing, China, visitors are stunned as a zookeeper contends with a cantankerous panda."
+      },
+      {
+        "id": "tvmaze:3278513",
+        "title": "Passenger Problems",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-07-22",
+        "overview": "On a bus in Los Angeles, California, tensions rise over a woman's refusal to give up her seat to accommodate a passenger using a wheelchair. In West Palm Beach, Florida, a woman fails to comply with police attempting to remove her from a restaurant's premises. A vendor attempting to collect her supplies after an event in Texas faces resistance from the venue's owner. In Chatworth, Illinois, high winds causes a hot air balloon launch to take a disastrous turn. At an airport in Santiago, Chile, a man who was allegedly sold a counterfeit ticket unleashes a spree of destruction at the check-in counter."
+      },
+      {
+        "id": "tvmaze:3278514",
+        "title": "Customer to the Rescue",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-07-29",
+        "overview": "At a restaurant in Washington, a customer who's upset over a pick-up order begins directing her anger at the staff, prompting a nearby diner to intervene. In New York City, a rideshare driver is attacked by one of his passengers. At a cell phone repair shop in Cleveland, a customer allegedly attempting to leave without paying discovers the doors have been locked by the shop owner. In Wales, an elderly man using an ATM after hours is threatened with a knife. In Portland, Maine, a customer finds his dream acoustic guitar but finds himself $20 short."
+      },
+      {
+        "id": "tvmaze:3278515",
+        "title": "Doorstep Justice",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-07-29",
+        "overview": "In Orem, Utah, tempers flare when a neighbor lashes out at a construction crew for playing music while they work. In Hollywood, Florida, a shoplifting suspect flees from police, leading to a dramatic on-foot chase. In Bridgeport, Connecticut, three housemates jump into action after spotting someone taking a package from their front porch. And in Birmingham, England, a terrifying situation unfolds as a machete-wielding masked man finds himself trapped inside a convenience store."
+      },
+      {
+        "id": "tvmaze:3304808",
+        "title": "Calling Corporate!",
+        "season": 6,
+        "episode": 7,
+        "released": "2025-08-05",
+        "overview": "A Texas woman exchanges words with the manager of a fast-food chain after she claims to find something she shouldn't in her mac-and-cheese. A sheriff in Liberty Township, Ohio, struggles to arrest a drunk patron at a comedy club who takes issue with the manager's version of events. A rideshare driver finds himself in a standoff with a security officer at a Palm Springs airport pickup zone. A couple in Sao Paolo, Brazil, lash out at airport employees after their flight is delayed, grounded and then canceled."
+      },
+      {
+        "id": "tvmaze:3304809",
+        "title": "Exit, Stage Left",
+        "season": 6,
+        "episode": 8,
+        "released": "2025-08-05",
+        "overview": "On a New Jersey train, a rider refuses to move their bag, angering other passengers. At a Florida airport, police are called to handle a disruptive passenger. Across the country, delivery drivers are confronted by customers' dogs, with mixed results. In Los Angeles, masked thieves crash a car into a clothing store. In Toronto, a barista quits his job in the most harmonious way possible. A pyrotechnic mishap in a fireworks shop in India sparks a fire, sending customers fleeing in panic."
+      },
+      {
+        "id": "tvmaze:3304810",
+        "title": "Refund Rage",
+        "season": 6,
+        "episode": 9,
+        "released": "2025-08-12",
+        "overview": "At a California bar, a disagreement over how a customer responds to a server quickly escalates. In a New York rideshare, a passenger's interaction with the driver causes the trip to come to a sudden end. Police respond to a Sarasota hotel to help remove a man from the hot tub. In a cell phone shop in Brazil, a disagreement over an allegedly broken phone results in the customer wreaking havoc. In Florida, a FedEx driver prevents a package from being taken. In a Tennessee hotel parking lot, two hotel guests contend with the unwanted advances of a hungry visitor."
+      },
+      {
+        "id": "tvmaze:3304811",
+        "title": "Pay Now, Eat Later",
+        "season": 6,
+        "episode": 10,
+        "released": "2025-08-12",
+        "overview": "At LAX, a woman speaks disrespectfully to a man and his family, prompting him to confront her. A customer and a restaurant manager get into a heated argument over the restaurant's payment policy. A car dealership in Georgia enlists the police to help sort out an unusual situation with the purchase of a new car. A rideshare passenger in Brazil asks if he can pay for his trip later, igniting a back-and-forth that leads to a physical altercation."
+      },
+      {
+        "id": "tvmaze:3304812",
+        "title": "Bumper Sticker Pickle",
+        "season": 6,
+        "episode": 11,
+        "released": "2025-08-19",
+        "overview": "In New York City, a passenger calls the police on a rideshare driver after he refuses to play music. Outside a supermarket in Oregon, a bumper sticker on a customer's car causes some friction with another customer. At a restaurant in Florida, authorities respond to a situation involving an allegedly intoxicated customer and his young son. In a small shop in Colombia, two unexpected guests make a very big mess."
+      },
+      {
+        "id": "tvmaze:3304813",
+        "title": "Disturbance at the Gate",
+        "season": 6,
+        "episode": 12,
+        "released": "2025-08-19",
+        "overview": "In Utah, a snowboarder accidentally finds big trouble when he takes a shortcut off a trail. A couple at a Tampa airport is denied boarding after allegedly causing a disturbance at the gate. Colorado rideshare passengers discover an unexpected guest upon entering the vehicle. A man in Salt Lake returns a recently purchased car from a dealership in a very unorthodox way. A Michigan delivery driver risks life and limb to deliver a package. A fairground in Ecuador turns into a house of horrors when a ride suffers a mechanical issue."
+      },
+      {
+        "id": "tvmaze:3365100",
+        "title": "Regretful Robber",
+        "season": 7,
+        "episode": 1,
+        "released": "2025-10-14",
+        "overview": "In Toronto, Canada, a fast food customer berates the kitchen staff over his order. In Jupiter, Florida, a customer confronts a delivery driver who is unable to hand over her parcel."
+      },
+      {
+        "id": "tvmaze:3365101",
+        "title": "Diner Disruption",
+        "season": 7,
+        "episode": 2,
+        "released": "2025-10-14",
+        "overview": "At a 24-hour diner in Florida, a woman accuses another customer of being too loud and disturbing her meal. On board a plane at a Fort Lauderdale airport, police attempt to resolve a seat dispute with an uncooperative passenger."
+      },
+      {
+        "id": "tvmaze:3365102",
+        "title": "Fearless in a Food Truck",
+        "season": 7,
+        "episode": 3,
+        "released": "2025-10-21",
+        "overview": "In Florida, a couple's dispute at a movie theater escalates to a call for police assistance. In Taiwan, caf  customers are thrown into a panic when a massive earthquake hits the area."
+      },
+      {
+        "id": "tvmaze:3365103",
+        "title": "Go Home or Go to Jail",
+        "season": 7,
+        "episode": 4,
+        "released": "2025-10-21",
+        "overview": "At a North Carolina restaurant, a woman demands more hot sauce for her to-go order, causing some friction with the staff and other patrons. A bar fight in Washington between multiple parties requires the assistance of the authorities to sort things out."
+      },
+      {
+        "id": "tvmaze:3365104",
+        "title": "Security Snag",
+        "season": 7,
+        "episode": 5,
+        "released": "2025-10-28",
+        "overview": "At a Key Largo resort, officers are called to handle a couple who are allegedly causing a disturbance. At an airport in Florida, TSA agents attempt to stop a passenger who's acting erratically at a security checkpoint."
+      },
+      {
+        "id": "tvmaze:3394695",
+        "title": "License to Rage",
+        "season": 7,
+        "episode": 6,
+        "released": "2025-11-04",
+        "overview": "In California, a flower shop owner livestreams a tense standoff with a customer who appears to deny a simple request. At a Florida airport, a passenger's identification snafu escalates to a confrontation with police."
+      },
+      {
+        "id": "tvmaze:3394696",
+        "title": "Train Tantrum",
+        "season": 7,
+        "episode": 7,
+        "released": "2025-11-04",
+        "overview": "On a NYC commuter train, a passenger, allegedly unable to access the bathroom, causes a  disturbance. At a Florida Airport, a pilot calls police to deal with an unruly passenger."
+      },
+      {
+        "id": "tvmaze:3394697",
+        "title": "Locked In",
+        "season": 7,
+        "episode": 8,
+        "released": "2025-11-11",
+        "overview": "In Eustis, Florida, a fast food worker deals with an unreasonable complaint from customers. At a movie theater in Manchester, Connecticut, a dispute over assigned seating sparks a heated argument."
+      },
+      {
+        "id": "tvmaze:3394698",
+        "title": "Drift & Drama",
+        "season": 7,
+        "episode": 9,
+        "released": "2025-11-11",
+        "overview": "At an event in New Jersey, a clash between a few spectators escalates into a full-blown brawl. At a large Florida retail store, officers step in to apprehend two suspected shoplifters."
+      },
+      {
+        "id": "tvmaze:3394699",
+        "title": "Ketchup Chaos",
+        "season": 7,
+        "episode": 10,
+        "released": "2025-11-18",
+        "overview": "On a cruise ship in Miami, Florida, a bar side dispute takes a messy turn when a woman douses a fellow passenger in ketchup."
+      },
+      {
+        "id": "tvmaze:3394700",
+        "title": "Chairlift of Doom",
+        "season": 7,
+        "episode": 11,
+        "released": "2025-11-25",
+        "overview": "In Fort Lauderdale, Florida, a customer clashes with a fast-food employee over an unsatisfactory meal. At an airport in Orlando, officers step in when a disgruntled passenger is prevented from boarding her flight."
+      },
+      {
+        "id": "tvmaze:3433219",
+        "title": "Caught in the Act",
+        "season": 7,
+        "episode": 12,
+        "released": "2025-12-02",
+        "overview": "In Maryville, Tennessee, a man in a wheelchair confronts two customers for blocking a handicap ramp. At a fast-food restaurant in College Park, Georgia, an employee is reportedly threatened by her ex-girlfriend who shows up."
+      },
+      {
+        "id": "tvmaze:3433220",
+        "title": "Not Your Lucky Day",
+        "season": 7,
+        "episode": 13,
+        "released": "2025-12-02",
+        "overview": "At a gas station in Romeoville, Illinois, an argument breaks out when an employee refuses to cash a customer's lottery ticket. In Palm Beach, Florida, police officers are called to a luxury hotel to deal with a disruptive guest."
+      },
+      {
+        "id": "tvmaze:3440467",
+        "title": "Sky High Scare",
+        "season": 7,
+        "episode": 14,
+        "released": "2025-12-09",
+        "overview": "In San Antonio, Texas, a couple clashes with a grumpy gate agent after they are denied boarding. In Interlaken, Switzerland, a hang glider's first flight turns into a nightmare when he realizes his harness isn't attached."
+      },
+      {
+        "id": "tvmaze:3440468",
+        "title": "Card Declined",
+        "season": 7,
+        "episode": 15,
+        "released": "2025-12-09",
+        "overview": "At a coffee shop in New York City, a conflict over a customer's conduct escalates into a chaotic fight with an employee. Late at night in Warner Robins, Georgia, a massive group brawl erupts after one patron allegedly takes issue with his fast-food meal."
+      },
+      {
+        "id": "tvmaze:3440469",
+        "title": "Porch Pirate Payback",
+        "season": 7,
+        "episode": 16,
+        "released": "2025-12-16",
+        "overview": "In Duluth, Georgia, an officer catches a customer allegedly using a borrowed police badge to get free snacks. In Lancaster, Pennsylvania, a driver jumps into her car mid-tow and tries to drive it off the lift."
+      },
+      {
+        "id": "tvmaze:3440596",
+        "title": "Surfer Standoff",
+        "season": 7,
+        "episode": 17,
+        "released": "2025-12-23",
+        "overview": ""
+      }
+    ]
+  }
+}

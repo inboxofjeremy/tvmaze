@@ -1,0 +1,980 @@
+{
+  "meta": {
+    "id": "tvmaze:79916",
+    "type": "series",
+    "name": "The Beauty",
+    "description": "The world of high fashion turns dark when international supermodels begin dying in gruesome and mysterious ways. FBI Agents Cooper Madsen and Jordan Bennett are sent to Paris to uncover the truth, but as they delve deeper into the case, they uncover a sexually transmitted virus that transforms ordinary people into visions of physical perfection, but with terrifying consequences.Their path leads them directly into the crosshairs of \"The Corporation\", a shadowy tech billionaire who has secretly engineered a miracle drug dubbed \"The Beauty,\" who will do anything to protect his trillion-dollar empire - including unleashing his lethal enforcer, \"The Assassin.\" As the epidemic spreads, Jeremy, a desperate outsider, is caught in the chaos, searching for purpose as the agents race across Paris, Venice, Rome, and New York to stop a threat that could alter the future of humanity. The Beauty is a global thriller that asks: what would you sacrifice for perfection?",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/601/1504162.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/601/1504162.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459491",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459511",
+        "title": "Episode 2",
+        "season": 1,
+        "episode": 2,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459512",
+        "title": "Episode 3",
+        "season": 1,
+        "episode": 3,
+        "released": "2026-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459513",
+        "title": "Episode 4",
+        "season": 1,
+        "episode": 4,
+        "released": "2026-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459514",
+        "title": "Episode 5",
+        "season": 1,
+        "episode": 5,
+        "released": "2026-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459515",
+        "title": "Episode 6",
+        "season": 1,
+        "episode": 6,
+        "released": "2026-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459516",
+        "title": "Episode 7",
+        "season": 1,
+        "episode": 7,
+        "released": "2026-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459517",
+        "title": "Episode 8",
+        "season": 1,
+        "episode": 8,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459518",
+        "title": "Episode 9",
+        "season": 1,
+        "episode": 9,
+        "released": "2026-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459519",
+        "title": "Episode 10",
+        "season": 1,
+        "episode": 10,
+        "released": "2026-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3459520",
+        "title": "Episode 11",
+        "season": 1,
+        "episode": 11,
+        "released": "2026-03-04",
+        "overview": ""
+      }
+    ]
+  }
+}

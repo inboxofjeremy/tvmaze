@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:81910",
+    "type": "series",
+    "name": "Today with Jenna & Friends",
+    "description": "America's feel-good morning show with big stars and sweet surprises; a cast of rotating co-hosts join Jenna Bush Hager for an hour of heartfelt connection, inspirational stories, fun and laughs.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/551/1378046.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/551/1378046.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3459451",
+        "title": "Brooke Sheilds, Zooey Deschanel",
+        "season": 2,
+        "episode": 59,
+        "released": "2025-12-12",
+        "overview": "Brooke Sheilds Co-Hosts. Zooey Deschanel on \"Merv.\" Navigating Holiday Family Dynamics with Minaa B. Makeup Tips with Mario Dedivanovic. Holiday Gifts from Jenna's Bookshop."
+      }
+    ]
+  }
+}

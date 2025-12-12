@@ -1,0 +1,932 @@
+{
+  "meta": {
+    "id": "tvmaze:31986",
+    "type": "series",
+    "name": "Sunday NFL Countdown",
+    "description": "Sunday NFL Countdown is a sports talk show that airs Sunday mornings during Football season where a panel of NFL experts discuss and breakdown the upcoming weekend games. This show's former names include NFL GameDay from 1985 to 1995, NFL Countdown from 1996 to 1997, and since 1998, Sunday NFL Countdown. This Sunday pregame talk show debuted in 1985 and soon became a signature ESPN series behind host Chris Berman, who was at the helm for three decades. Taking over that role is Samantha Ponder, a one-time college football reporter and contributor. She introduces the features and directs the storylines associated with the day's games, joined by a roster of analysts highlighted by ex-NFL players. Chris Mortensen and Adam Schefter deliver breaking news and injury updates, while reporters at game sites set the scenes.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/356/890887.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/356/890887.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3451248",
+        "title": "Week 14",
+        "season": 41,
+        "episode": 14,
+        "released": "2025-12-07",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1305089",
+        "title": "Episode 1",
+        "season": 1,
+        "episode": 1,
+        "released": "1985-09-07",
+        "overview": "A preview of the week's NFL action with host Chris Bermen and a team of analysts."
+      },
+      {
+        "id": "tvmaze:1305090",
+        "title": "Episode 1",
+        "season": 33,
+        "episode": 1,
+        "released": "2017-09-03",
+        "overview": "A preview of the week's NFL action with host Samantha Ponder and a team of analysts."
+      },
+      {
+        "id": "tvmaze:1305091",
+        "title": "Episode 2",
+        "season": 33,
+        "episode": 2,
+        "released": "2017-09-10",
+        "overview": "A preview of the week's NFL action with host Samantha Ponder and a team of analysts."
+      },
+      {
+        "id": "tvmaze:1305092",
+        "title": "Episode 3",
+        "season": 33,
+        "episode": 3,
+        "released": "2017-09-17",
+        "overview": "A preview of the week's NFL action with host Samantha Ponder and a team of analysts."
+      },
+      {
+        "id": "tvmaze:1305093",
+        "title": "Episode 4",
+        "season": 33,
+        "episode": 4,
+        "released": "2017-09-24",
+        "overview": "A preview of the week's NFL action with host Samantha Ponder and a team of analysts."
+      },
+      {
+        "id": "tvmaze:1305094",
+        "title": "Episode 5",
+        "season": 33,
+        "episode": 5,
+        "released": "2017-10-01",
+        "overview": "A preview of the week's NFL action with host Samantha Ponder and a team of analysts."
+      },
+      {
+        "id": "tvmaze:1934847",
+        "title": "Episode 1",
+        "season": 36,
+        "episode": 1,
+        "released": "2020-09-13",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1934848",
+        "title": "Episode 2",
+        "season": 36,
+        "episode": 2,
+        "released": "2020-09-20",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1934849",
+        "title": "Episode 3",
+        "season": 36,
+        "episode": 3,
+        "released": "2020-09-27",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1934850",
+        "title": "Episode 4",
+        "season": 36,
+        "episode": 4,
+        "released": "2020-10-04",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1940743",
+        "title": "Episode 5",
+        "season": 36,
+        "episode": 5,
+        "released": "2020-10-11",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1944601",
+        "title": "Episode 6",
+        "season": 36,
+        "episode": 6,
+        "released": "2020-10-18",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1949480",
+        "title": "Episode 7",
+        "season": 36,
+        "episode": 7,
+        "released": "2020-10-25",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1953544",
+        "title": "Episode 8",
+        "season": 36,
+        "episode": 8,
+        "released": "2020-11-01",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1958582",
+        "title": "Episode 9",
+        "season": 36,
+        "episode": 9,
+        "released": "2020-11-08",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1963968",
+        "title": "Episode 10",
+        "season": 36,
+        "episode": 10,
+        "released": "2020-11-15",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1971572",
+        "title": "Episode 11",
+        "season": 36,
+        "episode": 11,
+        "released": "2020-11-22",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1971573",
+        "title": "Episode 12",
+        "season": 36,
+        "episode": 12,
+        "released": "2020-11-29",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1975038",
+        "title": "Episode 13",
+        "season": 36,
+        "episode": 13,
+        "released": "2020-12-06",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1978204",
+        "title": "Episode 14",
+        "season": 36,
+        "episode": 14,
+        "released": "2020-12-13",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1982945",
+        "title": "Episode 15",
+        "season": 36,
+        "episode": 15,
+        "released": "2020-12-20",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1986876",
+        "title": "Episode 16",
+        "season": 36,
+        "episode": 16,
+        "released": "2020-12-27",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:1990191",
+        "title": "Episode 17",
+        "season": 36,
+        "episode": 17,
+        "released": "2021-01-03",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2141619",
+        "title": "Week 1",
+        "season": 37,
+        "episode": 1,
+        "released": "2021-09-12",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2153716",
+        "title": "Week 2",
+        "season": 37,
+        "episode": 2,
+        "released": "2021-09-19",
+        "overview": "Highlights from previous week's action in the National Football League."
+      },
+      {
+        "id": "tvmaze:2153717",
+        "title": "Week 3",
+        "season": 37,
+        "episode": 3,
+        "released": "2021-09-26",
+        "overview": "Highlights from previous week's action in the National Football League."
+      },
+      {
+        "id": "tvmaze:2153718",
+        "title": "Week 4",
+        "season": 37,
+        "episode": 4,
+        "released": "2021-10-03",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2153719",
+        "title": "Week 5",
+        "season": 37,
+        "episode": 5,
+        "released": "2021-10-10",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2153720",
+        "title": "Week 6",
+        "season": 37,
+        "episode": 6,
+        "released": "2021-10-17",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2153721",
+        "title": "Week 7",
+        "season": 37,
+        "episode": 7,
+        "released": "2021-10-24",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2153722",
+        "title": "Week 8",
+        "season": 37,
+        "episode": 8,
+        "released": "2021-10-31",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2202927",
+        "title": "Week 9",
+        "season": 37,
+        "episode": 9,
+        "released": "2021-11-07",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2207683",
+        "title": "Week 10",
+        "season": 37,
+        "episode": 10,
+        "released": "2021-11-14",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2213197",
+        "title": "Week 11",
+        "season": 37,
+        "episode": 11,
+        "released": "2021-11-21",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2217031",
+        "title": "Week 12",
+        "season": 37,
+        "episode": 12,
+        "released": "2021-11-28",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2220144",
+        "title": "Week 13",
+        "season": 37,
+        "episode": 13,
+        "released": "2021-12-05",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2227761",
+        "title": "Week 14",
+        "season": 37,
+        "episode": 14,
+        "released": "2021-12-12",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2232292",
+        "title": "Week 15",
+        "season": 37,
+        "episode": 15,
+        "released": "2021-12-19",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2237058",
+        "title": "Week 16",
+        "season": 37,
+        "episode": 16,
+        "released": "2021-12-26",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2240881",
+        "title": "Week 17",
+        "season": 37,
+        "episode": 17,
+        "released": "2022-01-02",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2245592",
+        "title": "Week 18",
+        "season": 37,
+        "episode": 18,
+        "released": "2022-01-09",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2373654",
+        "title": "Week 1",
+        "season": 38,
+        "episode": 1,
+        "released": "2022-09-11",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2373655",
+        "title": "Week 2",
+        "season": 38,
+        "episode": 2,
+        "released": "2022-09-18",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2373656",
+        "title": "Week 3",
+        "season": 38,
+        "episode": 3,
+        "released": "2022-09-25",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2399202",
+        "title": "Week 4",
+        "season": 38,
+        "episode": 4,
+        "released": "2022-10-02",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2399203",
+        "title": "Week 5",
+        "season": 38,
+        "episode": 5,
+        "released": "2022-10-09",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2399204",
+        "title": "Week 6",
+        "season": 38,
+        "episode": 6,
+        "released": "2022-10-16",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2399205",
+        "title": "Week 7",
+        "season": 38,
+        "episode": 7,
+        "released": "2022-10-23",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2415460",
+        "title": "Week 8",
+        "season": 38,
+        "episode": 8,
+        "released": "2022-10-30",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2415461",
+        "title": "Week 9",
+        "season": 38,
+        "episode": 9,
+        "released": "2022-11-06",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2415462",
+        "title": "Week 10",
+        "season": 38,
+        "episode": 10,
+        "released": "2022-11-13",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2415463",
+        "title": "Week 11",
+        "season": 38,
+        "episode": 11,
+        "released": "2022-11-20",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2415464",
+        "title": "Week 12",
+        "season": 38,
+        "episode": 12,
+        "released": "2022-11-27",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2436535",
+        "title": "Week 13",
+        "season": 38,
+        "episode": 13,
+        "released": "2022-12-04",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2436536",
+        "title": "Week 14",
+        "season": 38,
+        "episode": 14,
+        "released": "2022-12-11",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2436537",
+        "title": "Week 15",
+        "season": 38,
+        "episode": 15,
+        "released": "2022-12-18",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2436538",
+        "title": "Week 16",
+        "season": 38,
+        "episode": 16,
+        "released": "2022-12-24",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2448757",
+        "title": "Week 17",
+        "season": 38,
+        "episode": 17,
+        "released": "2023-01-01",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2448761",
+        "title": "Week 18",
+        "season": 38,
+        "episode": 18,
+        "released": "2023-01-08",
+        "overview": "Samantha Ponder, with a team of analysts, introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2639993",
+        "title": "Week 1",
+        "season": 39,
+        "episode": 1,
+        "released": "2023-09-10",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games.Week 1 Episode Includes Cowboys' Jerry Jones One-on-One and Exclusive Access with Dolphins' Head Coach Mike McDaniel in Addition to Breakdowns, Insights and Analysis Synonymous with the Show.Reporters:Jeff Darlington at Acrisure Stadium for 49ers-SteelersDan Graziano at MetLife Stadium for Cowboys-GiantsKimberley A. Martin at Cleveland Browns Stadium for Bengals-BrownsSal Paolantonio at Gillette Stadium for Eagles-PatriotsLindsey Thiryat Soldier Field for Packers-Bears"
+      },
+      {
+        "id": "tvmaze:2639994",
+        "title": "Week 2",
+        "season": 39,
+        "episode": 2,
+        "released": "2023-09-17",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2639995",
+        "title": "Week 3",
+        "season": 39,
+        "episode": 3,
+        "released": "2023-09-24",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2639996",
+        "title": "Week 4A",
+        "season": 39,
+        "episode": 4,
+        "released": "2023-10-01",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2639997",
+        "title": "Week 4B",
+        "season": 39,
+        "episode": 5,
+        "released": "2023-10-01",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2639998",
+        "title": "Week 5",
+        "season": 39,
+        "episode": 6,
+        "released": "2023-10-08",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2639999",
+        "title": "Week 6",
+        "season": 39,
+        "episode": 7,
+        "released": "2023-10-15",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2640000",
+        "title": "Week 7",
+        "season": 39,
+        "episode": 8,
+        "released": "2023-10-22",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2651795",
+        "title": "Week 8",
+        "season": 39,
+        "episode": 9,
+        "released": "2023-10-29",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2681882",
+        "title": "Week 9",
+        "season": 39,
+        "episode": 10,
+        "released": "2023-11-05",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2681883",
+        "title": "Week 10",
+        "season": 39,
+        "episode": 11,
+        "released": "2023-11-12",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2681884",
+        "title": "Week 11",
+        "season": 39,
+        "episode": 12,
+        "released": "2023-11-19",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2681885",
+        "title": "Week 12",
+        "season": 39,
+        "episode": 13,
+        "released": "2023-11-26",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2681886",
+        "title": "Week 13",
+        "season": 39,
+        "episode": 14,
+        "released": "2023-12-03",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2681887",
+        "title": "Week 14",
+        "season": 39,
+        "episode": 15,
+        "released": "2023-12-10",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2681888",
+        "title": "Week 15",
+        "season": 39,
+        "episode": 16,
+        "released": "2023-12-17",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2681889",
+        "title": "Week 16",
+        "season": 39,
+        "episode": 17,
+        "released": "2023-12-24",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2719436",
+        "title": "Week 17",
+        "season": 39,
+        "episode": 18,
+        "released": "2023-12-31",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2719437",
+        "title": "Week 18",
+        "season": 39,
+        "episode": 19,
+        "released": "2024-01-07",
+        "overview": "Samantha Ponder, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2953325",
+        "title": "Week 1",
+        "season": 40,
+        "episode": 1,
+        "released": "2024-09-08",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2953326",
+        "title": "Week 2",
+        "season": 40,
+        "episode": 2,
+        "released": "2024-09-15",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2953327",
+        "title": "Week 3",
+        "season": 40,
+        "episode": 3,
+        "released": "2024-09-22",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:2953328",
+        "title": "Week 4",
+        "season": 40,
+        "episode": 4,
+        "released": "2024-09-29",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3020955",
+        "title": "Week 5",
+        "season": 40,
+        "episode": 5,
+        "released": "2024-10-06",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3020956",
+        "title": "Week 6",
+        "season": 40,
+        "episode": 6,
+        "released": "2024-10-13",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3020957",
+        "title": "Week 7",
+        "season": 40,
+        "episode": 7,
+        "released": "2024-10-20",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3020958",
+        "title": "Week 8",
+        "season": 40,
+        "episode": 8,
+        "released": "2024-10-27",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3020959",
+        "title": "Week 9",
+        "season": 40,
+        "episode": 9,
+        "released": "2024-11-03",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3048664",
+        "title": "Week 10",
+        "season": 40,
+        "episode": 10,
+        "released": "2024-11-10",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3048670",
+        "title": "Week 11",
+        "season": 40,
+        "episode": 11,
+        "released": "2024-11-17",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3048672",
+        "title": "Week 12",
+        "season": 40,
+        "episode": 12,
+        "released": "2024-11-24",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3048673",
+        "title": "Week 13",
+        "season": 40,
+        "episode": 13,
+        "released": "2024-12-01",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3048674",
+        "title": "Week 14",
+        "season": 40,
+        "episode": 14,
+        "released": "2024-12-08",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3048675",
+        "title": "Week 15",
+        "season": 40,
+        "episode": 15,
+        "released": "2024-12-15",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3048676",
+        "title": "Week 16",
+        "season": 40,
+        "episode": 16,
+        "released": "2024-12-22",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3048678",
+        "title": "Week 17",
+        "season": 40,
+        "episode": 17,
+        "released": "2024-12-29",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3098845",
+        "title": "Week 18",
+        "season": 40,
+        "episode": 18,
+        "released": "2025-01-05",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3311874",
+        "title": "Week 1",
+        "season": 41,
+        "episode": 1,
+        "released": "2025-09-07",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3311875",
+        "title": "Week 2",
+        "season": 41,
+        "episode": 2,
+        "released": "2025-09-14",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3311876",
+        "title": "Week 3",
+        "season": 41,
+        "episode": 3,
+        "released": "2025-09-21",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3311877",
+        "title": "Week 4",
+        "season": 41,
+        "episode": 4,
+        "released": "2025-09-28",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3376425",
+        "title": "Week 5",
+        "season": 41,
+        "episode": 5,
+        "released": "2025-10-05",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3376426",
+        "title": "Week 6",
+        "season": 41,
+        "episode": 6,
+        "released": "2025-10-12",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3376429",
+        "title": "Week 7",
+        "season": 41,
+        "episode": 7,
+        "released": "2025-10-19",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3376430",
+        "title": "Week 8",
+        "season": 41,
+        "episode": 8,
+        "released": "2025-10-26",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3404753",
+        "title": "Week 9",
+        "season": 41,
+        "episode": 9,
+        "released": "2025-11-02",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3404754",
+        "title": "Week 10",
+        "season": 41,
+        "episode": 10,
+        "released": "2025-11-09",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3404755",
+        "title": "Week 11",
+        "season": 41,
+        "episode": 11,
+        "released": "2025-11-16",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3404756",
+        "title": "Week 12",
+        "season": 41,
+        "episode": 12,
+        "released": "2025-11-23",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3404757",
+        "title": "Week 13",
+        "season": 41,
+        "episode": 13,
+        "released": "2025-11-30",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3451248",
+        "title": "Week 14",
+        "season": 41,
+        "episode": 14,
+        "released": "2025-12-07",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3451249",
+        "title": "Week 15",
+        "season": 41,
+        "episode": 15,
+        "released": "2025-12-14",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3451250",
+        "title": "Week 16",
+        "season": 41,
+        "episode": 16,
+        "released": "2025-12-21",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3451251",
+        "title": "Week 17",
+        "season": 41,
+        "episode": 17,
+        "released": "2025-12-28",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      },
+      {
+        "id": "tvmaze:3451252",
+        "title": "Week 18",
+        "season": 41,
+        "episode": 18,
+        "released": "2026-01-04",
+        "overview": "Host Mike Greenberg, with a team of analysts Rex Ryan, Randy Moss, Tedy Bruschi, Alex Smith, and Adam Schefter introduces the features and directs the storylines associated with the day's games."
+      }
+    ]
+  }
+}

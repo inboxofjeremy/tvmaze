@@ -1,0 +1,460 @@
+{
+  "meta": {
+    "id": "tvmaze:42836",
+    "type": "series",
+    "name": "All Creatures Great and Small",
+    "description": "All Creatures Great and Small chronicles the adventures of a young country veterinarian.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/593/1483974.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/593/1483974.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:3459060",
+        "title": "Behind the Magic",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "Presenter, dog-lover and All Creatures super-fan Graeme Hall journeys up to the Yorkshire Dales to learn the secrets behind the making of the much-loved hit TV series. Graeme spends time with both the human and furry cast members, takes a tour of the studio set and the market town of Grassington, Darrowby, with actor Callum Woodhouse, and even takes on an acting role in the show itself."
+      },
+      {
+        "id": "tvmaze:3405872",
+        "title": "Comfort and Joy",
+        "season": 6,
+        "episode": null,
+        "released": "2025-12-24",
+        "overview": "It's Christmas 1945, the first peacetime Christmas after the war and, with Helen feeling under the weather, it's fallen on James to take on the Darrowby Nativity play. That's not all that James has on his mind, as he fears it's the end of the road for Tricki's hopes of fatherhood and dreads telling Mrs Pumphrey, while Siegfried is back at Mrs Stokes' farm to see Hilda the goat, who's been up to more mischief. As the big day approaches, Mrs Hall becomes interested in the Drovers' darts competition, because the first prize is a turkey, and Maggie reminds Tristan that he's supposed to be supplying the Christmas tree."
+      },
+      {
+        "id": "tvmaze:1916878",
+        "title": "You've Got to Dream",
+        "season": 1,
+        "episode": 1,
+        "released": "2020-09-01",
+        "overview": "Fresh out of veterinary college in 1937, James Herriot struggles to find work in his Depression-struck home town of Glasgow. Seeking new opportunities, he pursues a position in the remote village of Darrowby working for eccentric local vet Siegfried Farnon, who is less than impressed by his early efforts. However, a difficult calving gives James a chance to prove his worth."
+      },
+      {
+        "id": "tvmaze:1920563",
+        "title": "Another Farnon?",
+        "season": 1,
+        "episode": 2,
+        "released": "2020-09-08",
+        "overview": "Siegfried's younger brother Tristan joins the practice after graduating from Edinburgh veterinary college. James finds himself begrudgingly taking the new arrival with him on his rounds, which leads to a disastrous clash of over how to treat a cow suffering from milk fever. On their return to the practice, they find that Mrs Hall has guessed that Tristan is not being entirely honest about his sudden arrival. Elsewhere, James makes a good impression on a wealthy widow and her beloved Pekingese."
+      },
+      {
+        "id": "tvmaze:1925458",
+        "title": "Andante",
+        "season": 1,
+        "episode": 3,
+        "released": "2020-09-15",
+        "overview": "Siegfried applies to become attending vet at Darrowby racecourse - but the position comes with conditions, and he is torn between his ambition and his loyalty to the practice. Tristan collects the debts owed to the surgery, but ends up losing all the money and resorts to placing a risky bet to cover up his mistake. When the favourite to win on the race day is diagnosed with a inoperable condition, James has his first painful experience of having to put an animal down - only to end up being threatened with legal action by the owner."
+      },
+      {
+        "id": "tvmaze:1926591",
+        "title": "A Tricki Case",
+        "season": 1,
+        "episode": 4,
+        "released": "2020-09-22",
+        "overview": "Mrs Pumphrey is convinced her beloved Pekingese is dying. James discovers that she has not been keeping her pampered pet on the strict diet he prescribed, and is forced to take the dog in while it recovers from illness brought about by over indulgence. Tristan prepares to return to university, but needs Siegfried's help to pay for his accommodation. However, his older brother is not prepared to part with a penny until he has proved he is serious about being a vet. James treats the Aldersons' prize bull, and Helen rewards his efforts with some unusual home baking."
+      },
+      {
+        "id": "tvmaze:1929827",
+        "title": "All's Fair",
+        "season": 1,
+        "episode": 5,
+        "released": "2020-09-29",
+        "overview": "James is appointed as attending vet at the Darrowby Show - but Siegfried and Tristan warn him that the job is a poisoned chalice and expect him to quit after the first day. Mrs Hall has more faith in him, however, and makes a wager with the Farnon brothers. James finds himself surrounded by pushy farmers offering bribes to help them cheat their way to victory and faces a dilemma when the Aldersons desperately need his help in securing the sale of their prize bull."
+      },
+      {
+        "id": "tvmaze:1929828",
+        "title": "A Cure for All Ills",
+        "season": 1,
+        "episode": 6,
+        "released": "2020-10-06",
+        "overview": "James' workload doubles when Siegfried takes ill during a harsh winter. Among his many patients is Dick Rudd's prized cow, which has an abscess in its throat and is on the brink of chokling to death. Dick is devastated, having risked everything on the animal, leaving James determined to save the animal by any means. Mrs Hall discovers it is James' birthday, and Tristan tries his best to cheer him up by arranging a double date."
+      },
+      {
+        "id": "tvmaze:2160144",
+        "title": "Where the Heart Is",
+        "season": 2,
+        "episode": 1,
+        "released": "2021-09-16",
+        "overview": "A trip back home to Glasgow presents James Herriot with a dilemma that will mean choosing between the people he loves when he is offered a position at his old mentor's forward-thinking practice."
+      },
+      {
+        "id": "tvmaze:2167245",
+        "title": "Semper Progrediens",
+        "season": 2,
+        "episode": 2,
+        "released": "2021-09-23",
+        "overview": "With Tristan's encouragement, James asks Helen if she'd like to go to the local spring dance. But village resident Gerald's arrival with his injured dog, Rock, puts a spanner in the works. Meanwhile, Tristan worries that Siegfried is in danger of losing his edge."
+      },
+      {
+        "id": "tvmaze:2170098",
+        "title": "We Can But Hope",
+        "season": 2,
+        "episode": 3,
+        "released": "2021-09-30",
+        "overview": "The fate of a struggling young widow causes difficulties for James and Helen's burgeoning romance. Meanwhile, Siegfried has another scheme to whip Tristan into shape, and a visit from Tricki Woo causes chaos in Skeldale House."
+      },
+      {
+        "id": "tvmaze:2176529",
+        "title": "Many Happy Returns",
+        "season": 2,
+        "episode": 4,
+        "released": "2021-10-07",
+        "overview": "It's an important day for Tristan in more ways than one, as he celebrates his birthday and Siegfried gives him new responsibilities as a vet. Tristan has to withstand the pressure and succeed in the challenge set by his older brother before returning to Skeldale for his birthday festivities. Meanwhile, Mrs Hall reminds James that he needs to tell Helen some home truths."
+      },
+      {
+        "id": "tvmaze:2177064",
+        "title": "The Last Man In",
+        "season": 2,
+        "episode": 5,
+        "released": "2021-10-14",
+        "overview": "When a familiar face from Helen's past returns to Darrowby, James worries that he has to vie for her attention and steps up to compete against them at Mrs Pumphrey's annual cricket match. The rest of Skeldale House are apprehensive as the game can be brutal. Siegfried tries his best to train James and get a reluctant Tristan to step in, but it's not looking good for their Darrowby Eleven team."
+      },
+      {
+        "id": "tvmaze:2177065",
+        "title": "Home Truths",
+        "season": 2,
+        "episode": 6,
+        "released": "2021-10-21",
+        "overview": "As Chamberlain heads to meet with Hitler in Munich, James prepares to face his parents and give them some difficult news. Meanwhile, the prospect of a return to war acts as a timely reminder to make the most of life while you can. But James's agenda is derailed by an emergency with the Alderson's pregnant mare, Candy."
+      },
+      {
+        "id": "tvmaze:2380979",
+        "title": "Second Time Lucky",
+        "season": 3,
+        "episode": 1,
+        "released": "2022-09-15",
+        "overview": "Siegfried decides to give James a poorly timed reminder about his responsibilities as a vet while he prepares for his honeymoon with Helen, leaving James feeling torn between his professional and private life. James feels further challenged when he encounters farmer William Henry at the Drovers, who worries that his cows might have tuberculosis. After a heavy night, James finds himself high up in the Dales at Henry's to perform a second round of TB testing far from where he's supposed to be on his wedding day. Despite Tristan being given an important task by James and Helen, Siegfried decides to take charge of things on his brother's behalf. An unforeseen mishap at the practice involving Mr Mulligan's vomiting dog Clancy leaves Siegfried scrambling to resolve things before James, Helen and Tristan find out. Tristan is sent to convince James to put down his work at Henry's and come back to Skeldale. When it emerges that one of Henry's cows is more unwell than initially thought, James feels unable to leave the farm. A word from Mrs Hall helps Siegfried realise the influence that his words have on James. Siegfried shows him that sometimes difficult choices have to be made and recognises James' dedication to his job by making him junior partner at the practice. He feels grateful that, as vets, James and Tristan are in protected jobs so unable to volunteer to fight in the potential war."
+      },
+      {
+        "id": "tvmaze:2384114",
+        "title": "Honeymoon's Over",
+        "season": 3,
+        "episode": 2,
+        "released": "2022-09-22",
+        "overview": "Everyone is trying to get along as best they can in the face of changes at Skeldale House. Helen has moved into the bedsit upstairs with James and though they're happy, she's unsure how to integrate herself into the rest of the house. No-one sees this more than Mrs Hall, who is keen to find a way to bring everyone together around the dinner table. James struggles to get Siegfried to let him take the reins now that he's junior partner at the practice. With Helen's help, James learns how much money Skeldale could make from the Ministry of Agriculture's lucrative bovine TB testing scheme, but Siegfried believes the MAG's scheme is more trouble than it's worth and risks damaging their relationships with farmers. He digs his heels in and a rift forms between the two vets. It takes Helen, Mrs Hall and a case of some mysteriously poisoned calves at farmer Kate Billings' to help James and Siegfried see that they're better when they work together. A lackadaisical Tristan thinks that James being his boss will make his life even more of a breeze. He learns that he needs to step up in his role at the practice and take it more seriously, when the dog of a rival is rushed into the surgery in an emergency and no-one is there to help him."
+      },
+      {
+        "id": "tvmaze:2396792",
+        "title": "Surviving Siegfried",
+        "season": 3,
+        "episode": 3,
+        "released": "2022-09-29",
+        "overview": "Siegfried receives some difficult news and becomes even more irascible than usual. The perfect distraction comes along in the form of Major Sebright Saunders, who asks Siegfried to look at a difficult young racehorse called River."
+      },
+      {
+        "id": "tvmaze:2399346",
+        "title": "What a Balls Up!",
+        "season": 3,
+        "episode": 4,
+        "released": "2022-10-06",
+        "overview": "James is finally succeeding with the farmers' uptake of the Ministry of Agriculture's TB testing scheme. However, he is struggling with the complicated paperwork and he is keen to keep this from Siegfried, after being told that it was to be his responsibility alone. The MAG summons James and tells him that he has one more chance to get it right or Skeldale will lose the scheme entirely. After revealing this to Helen, she helps James to do everything by the book, but suspects that there is more going on with James than he is willing to say. Tristan decides that he is outgrowing running the small animal surgery and buys a car to help with errands at the practice. It also provides him with transport for taking Florence, the daughter of Siegfried's rival, George Pandhi, out on a date. Siegfried feels sidelined and focuses on micromanaging Tricki while he is on another health visit at Skeldale. A shock departure from Darrowby brings James's feelings about his place in Darrowby to the surface for Helen. Siegfried steps in and realises that he still has the power to bring everyone back together again. Mrs Hall agrees to go on a date with Gerald without realising his intentions and has to decide whether she is ready for them to be more than friends."
+      },
+      {
+        "id": "tvmaze:2399347",
+        "title": "Edward",
+        "season": 3,
+        "episode": 5,
+        "released": "2022-10-13",
+        "overview": "Siegfried and Tristan are left in charge of Skeldale House, when Mrs Hall takes time off to meet up with an important person from her past. Siegfried immediately puts Tristan in charge of housekeeping duties and focuses on running the practice and educating a visiting work experience boy named Andrew Simmonds. Tristan expects this to be a disaster due to his own experiences of Siegfried's parenting, but Siegfried makes a connection with young Andrew, causing old resentments between the two brothers to bubble up to the surface. While Richard Alderson is away from Heston Grange, Jenny reveals to Helen that she has made a big decision about her future, leaving Helen feeling out of the loop. Jenny worries that Helen blames her for an oversight with a sheep that could have potentially serious consequences. James works to save the animal and enables the two sisters to see things from each other's points of view. Mrs Hall travels out of Darrowby for a longawaited meeting with an important person from her past. Mrs Hall hopes to be forgiven for her actions, but the person she may need to forgive the most is herself."
+      },
+      {
+        "id": "tvmaze:2413787",
+        "title": "For Whom the Bell Tolls",
+        "season": 3,
+        "episode": 6,
+        "released": "2022-10-20",
+        "overview": "The radio reports that Britain is standing on the brink of war."
+      },
+      {
+        "id": "tvmaze:2649836",
+        "title": "Broodiness",
+        "season": 4,
+        "episode": 1,
+        "released": "2023-10-05",
+        "overview": "It is Spring 1940, and without Tristan, Skeldale House is busier than ever. James and Helen dream about the future, hoping that he won't be called up. And a chance encounter with young lad, Wesley Binks, leaves James worrying if his dog, Duke, is being mistreated."
+      },
+      {
+        "id": "tvmaze:2652062",
+        "title": "Carpe Diem",
+        "season": 4,
+        "episode": 2,
+        "released": "2023-10-12",
+        "overview": "Chaos reigns in Skeldale House. Siegfried has the bright idea of bringing in an experienced bookkeeper, Miss Harbottle, to bring method to their madness. She's certainly efficient, but the cracks start to show and a sick ferret puts a spanner in the works.Farmer Dakin is very attached to his injured, elderly cow, Blossom, but Siegfried advises letting her go. Having made a few rash decisions recently, he might have to put aside his pride as James presses him to see the truth of the situation he has created.However misguided it might be, James and Helen take inspiration from Siegfried's \"Carpe Diem\" approach, and make a long-awaited decision."
+      },
+      {
+        "id": "tvmaze:2656734",
+        "title": "Right Hand Man",
+        "season": 4,
+        "episode": 3,
+        "released": "2023-10-19",
+        "overview": "Busy and exhausted from lambing, James and Helen can't get any time together. James thinks he's found a solution as he's hired a new trainee vet, Richard Carmody, but things don't quite work out as he expects.Mrs Pumphrey also has a new canine member of her household, Cedric, who has an antisocial problem that she needs addressed urgently. Tensions come to a head at Mrs Pumphrey's Community Tea Party, and Mrs Hall takes a big step forward in her relationship with Gerald.Beloved horse, Teasel, needs expert help from the Skeldale House vets and Helen realises that life happens while you're busy making plans."
+      },
+      {
+        "id": "tvmaze:2660308",
+        "title": "By the Book",
+        "season": 4,
+        "episode": 4,
+        "released": "2023-10-26",
+        "overview": "James and Helen are keeping a secret. Following a visit to the Crabtree's Farm, Carmody is challenged with learning how to be a vet outside of his books. The new farmers have a worrying illness amongst their herd and James wants to help them in any way he can. Helen volunteers to join him, but helping the Crabtrees might have had a bigger impact on James and Helen than they anticipated. Helen rallies the community to help the newcomers while she waits for some personal news.Carmody meets Bernard the tortoise and tries to ‘treat the owner' too by helping Ned Clough. Despite confiscating his textbooks, the whole household will come to realise the value of Carmody's bookish ways.Mrs Hall receives an important letter and has to decide whether or not to share the news."
+      },
+      {
+        "id": "tvmaze:2665200",
+        "title": "Papers",
+        "season": 4,
+        "episode": 5,
+        "released": "2023-11-02",
+        "overview": "The War is getting closer, James is about to embark on a new journey. He desperately wants things in order and Carmody trained up to support Siegfried. But James is frustrated at Carmody's inability to drive and he keeps missing opportunities to spend precious time with Helen. His grand plans are derailed when an injured cat is brought into the practice. The vets have little hope for the cat, but he might be just what they all need.Carmody and Pumphrey clash as he can't see her dogs the way she does. An unexpected offer might bring the two together and get Carmody ready to step into new responsibilities.A dinner with Gerald leaves Mrs Hall with a dilemma but watching James and Helen brace for their future gives her a new perspective on her own."
+      },
+      {
+        "id": "tvmaze:2672574",
+        "title": "The Home Front",
+        "season": 4,
+        "episode": 6,
+        "released": "2023-11-09",
+        "overview": "In the final episode of the series, Helen feels redundant at Skeldale and a million miles from home. When Richard Alderson seems to need help, she returns to Heston Grange. Buried family secrets threaten to tear their relationship apart as Richard refuses to let her muck in on the farm. Helen notices that calf Smokey seems unwell and tries to help him, but it only makes things worse with her dad.Mrs Hall is blindsided by Helen's plans and worries for Siegfried, but knows she must follow through on her decision, however painful it may be for everyone. Meanwhile, although Gerald's beloved dog, Rock, needs veterinary help, he is too worried about the operation. Mrs Hall pushes him to do the right thing.And Mrs Hall must make her final choice and let go of something special. Both Mrs Hall and Helen are about to learn where they truly belong."
+      },
+      {
+        "id": "tvmaze:2993541",
+        "title": "To All Our Boys",
+        "season": 5,
+        "episode": 1,
+        "released": "2024-09-19",
+        "overview": "A medical scare keeps James's feet firmly on the ground, while Siegfried and Carmody get their wires crossed over an animal. Helen steps in to help an old family friend, and Mrs Hall has a spot of bother when she decides to assist with the war effort."
+      },
+      {
+        "id": "tvmaze:3000042",
+        "title": "Holding The Baby",
+        "season": 5,
+        "episode": 2,
+        "released": "2024-09-26",
+        "overview": "James is settling back into life at home but still needs to find his feet with baby Jimmy as he's not yet confident with babies. Helen leaves father and son alone for the day to go up to Heston and realises how much Jenny has grown up in recent months, now best friends with newly arrived land girl, Doris. Meanwhile, Mrs Hall is caught in the middle of Siegfried and her new boss, Mr Bosworth as they fall out over some of Mr Bosworth's safety tactics.Baby Jimmy joins James and Carmody on their veterinary round and charms the farmers. James does a good job juggling work and parenting until he gets distracted at Dowson's farm. Jenny tells Helen that she's not been up at the farm much since Jimmy was born but when Jenny decides to ignore Helen's advice and take their horses out, there are significant consequences. Helen and Jenny talk through their issues and Helen realises she needs to allow Jenny to grow up, even if it means her exploring the wider world. Mrs Hall and Siegfried find a poisoned dog and try to work out how what's happened.Siegfried gains a newfound sympathy for Mr Bosworth. James admits his mistake to Helen."
+      },
+      {
+        "id": "tvmaze:3013289",
+        "title": "Homecoming",
+        "season": 5,
+        "episode": 3,
+        "released": "2024-10-03",
+        "overview": "When Jimmy's Christening day is interrupted by the arrival of a surprise visitor, Siegfried makes a promise he struggles to keep, while a furry friend helps Helen to find common ground with James's mother."
+      },
+      {
+        "id": "tvmaze:3016801",
+        "title": "Uninvited Guests",
+        "season": 5,
+        "episode": 4,
+        "released": "2024-10-10",
+        "overview": "Tristan settles into life back at Skeldale, but Carmody has taken his bed - and his brother! Mrs Hall schemes to bring the boys together and sends them to Pumphrey Manor after an alarming report of an escaped animal from the matron of the army convalescent hospital. Meanwhile, James hopes to reassure a worried Sid Crabtree when he's called out to treat a sick cow."
+      },
+      {
+        "id": "tvmaze:3023862",
+        "title": "Pair Bond",
+        "season": 5,
+        "episode": 5,
+        "released": "2024-10-17",
+        "overview": "Carmody gets outstanding exam results and is offered a position in a research program in London but he wants to turn it down so that he can stay at Skeldale where he can support the war efforts as a vet. Siegfried is relieved but worries that he might be holding Carmody back.An exhilarated Mr Bosworth summons Mrs Hall to examine a piece of debris dropped from a plane into a remote field - this could be his hero moment. Doris arrives at the surgery with a poorly ferret for James to treat. Carmody finds himself oddly unable to string a sentence together in front of her.Siegfried and Carmody meet the glamorous Miss Grantley and her herd of pygmy goats. Two are particularly hyper-sensitive and the vets must figure out the issue. There's a spark between Siegfried and Miss Grantley, who makes him realise that Carmody has to make the right decision about his future.Meanwhile, what Bosworth thinks could be an explosive turns out to be something far less sinister. But Mrs Hall struggles with Mr Bosworth's overzealous reaction to the incident.Siegfried encourages Carmody to take the offer but Carmody doesn't want to say goodbye to Skeldale. James treats Doris's ferret, and Helen realises that Doris's rat poison could have been behind a previous incident. Carmody finally makes a decision about his future and Mrs Hall and Bosworth mend their relationship."
+      },
+      {
+        "id": "tvmaze:3023863",
+        "title": "Glass Half Full",
+        "season": 5,
+        "episode": 6,
+        "released": "2024-10-24",
+        "overview": "James starts to behave very out of character whilst examining Tricki and his health takes a turn for the worst. Helen rushes him to bed, leaving Jimmy with Mrs Pumphrey and an already overburdened Mrs Hall, who is making strawberry jam for the WI. Meanwhile, Siegfried, needing an extra hand in Carmody's absence, recruits a reluctant Tristan to help.When Siegfried and Tristan treat a Scuffling horse for a simple rash, something rather unexpected happens. Things go from bad to worse when their car breaks down. Tristan and Siegfried start to walk home, swigging from homemade wine gifted to them by Dobson. Old tensions between them simmer as they try to figure out the best course home.Meanwhile, back at Skeldale, James drifts in and out of reality, hallucinating. Believing that he's back at RAF Abingdon, James's sadness surfaces and expresses his guilt that his comrades suffered and he survived. Helen is worried for James but, as he opens up to her more, she reaches a new understanding of what he's experienced.Mrs Pumphrey finds herself fulfilling something of a new role and Mrs Hall holds everything together.Now giddy from the homemade wine, Siegfried reveals how things went south with Miss Grantley and is secretly pleased when Tristan insists she'd be lucky to have him. Siegfried and Tristan come to a new understanding about their wartime experiences and, arriving in Darrowby, find some fun together too. James apologises profusely to Mrs Pumphrey, who catches Siegfried in a compromising position."
+      },
+      {
+        "id": "tvmaze:3363368",
+        "title": "Gathering the Flock",
+        "season": 6,
+        "episode": 1,
+        "released": "2025-09-25",
+        "overview": "In the first episode, it's May 1945 and James visits Archie Tredwell's farm to help with a difficult lambing, with the ever-curious young Jimmy in tow. However, the farmer's beloved sheepdog Fly soon requires James's attention when she has a nasty fall. Archie notes a big stray dog that's been seen around the area, known to the locals as the ‘Barghest'.Back at Skeldale, James realises that Fly has arthritis and might not be able to work for much longer, leaving the younger sheepdog Lad to step up. Tristan arrives home from his posting in Italy to find the house in all kinds of chaos! Tristan's perturbed by Siegfried's behaviour and James explains what a nightmare he's been.James and Tristan head out of Darrowby to find the only person who can help – Mrs Hall.James and Helen are now living at Heston Grange with the children. Helen is concerned about the state of Skeldale and Siegfried, but doesn't approve of James's plan to fix it.When the vets are all out looking for Archie's flock of sheep James gives Siegfried some home truths. However, is it too late for Siegfried to get his act together?"
+      },
+      {
+        "id": "tvmaze:3367481",
+        "title": "Old Dog, New Tricks",
+        "season": 6,
+        "episode": 2,
+        "released": "2025-10-02",
+        "overview": "James is exhausted running between Heston and Skeldale, and to make matters worse, he's often finding himself on the wrong side of Richard Alderson - this time, Richard's got a bee in his bonnet about the muddy floor. Meanwhile, Mrs Hall and James are curious about what Siegfried's been up to when James finds him wandering home after a night out.James visits a local nurse, Sister Rose, to tend to one of her rescue dogs, and ends up agreeing to buy an X-Ray machine from the hospital, hoping that it will benefit the surgery, but he hadn't taken into account Siegfried's reaction, nor the problems it would bring to the house! He enlists Tristan's help to fix things.Siegfried visits a concerned Mrs. Pumphrey, who fears that Tricki is giving her the cold shoulder. Meanwhile, in Darrowby, Mrs. Hall is perplexed by the odd behaviour of some of the locals and Helen wonders if Siegfried's behaviour in her absence might account for it. Mrs. Hall has to have a delicate word with Siegfried to try to put things right.When Sister Rose's dog worsens, James is put through his paces to attempt to save him.Richard is forced to eat his words when he realises that he's been wrongly accusing James all along. Helen has some news to share about her sister, Jenny.Meanwhile, Mrs. Pumphrey reveals her hopes for Tricki's future to Siegfried – can she breed the next generation of Tricki's from him before it's too late?"
+      },
+      {
+        "id": "tvmaze:3371491",
+        "title": "Captain Farnon?",
+        "season": 6,
+        "episode": 3,
+        "released": "2025-10-09",
+        "overview": "A memorial service is held in Darrowby to honour the war's fallen soldiers and Tristan tries to hide his emotion. He's keen to go for a drink with Siegfried, but finds himself at the bottom of Siegfried's priorities, especially now Siegfried has a ticket to a coveted concert at Orley Castle.‘Captain Farnon' is requested at the new and prestigious Beauvoir stables and everyone's confused when both Tristan and Siegfried arrive to tend to the horse, Philbrick. A disgruntled Tris isn't about to back down and give Siegfried the case, especially as Philbrick is owned by the enchanting Charlotte Beauvoir, daughter of the General. A hilarious rivalry between the Farnon brothers ensues and Tristan becomes suspicious of Siegfried's motives.Meanwhile, James tells Mrs. Pumphrey not to give up hope in her quest to find a mate for Tricki, and James plans a date night to get some time with Helen, but first has to conquer the hills of Darrowby on an alternative mode of transport to appease Mrs. Pumphrey.Charlotte Beauvoir is bemused as the vets offer differing opinions and Tris learns that they share something in common.Meanwhile, Mrs. Hall stumbles upon a secret that Tristan has been keeping all this time and has to tell Siegfried."
+      },
+      {
+        "id": "tvmaze:3390602",
+        "title": "Jenny Wren",
+        "season": 6,
+        "episode": 4,
+        "released": "2025-10-16",
+        "overview": "Helen is thrilled when Jenny gets exciting news and sets about getting her sister prepared for a big move, but soon realises neither of them are ready for it. Mrs Hall asks for time off for her granddaughter's birthday in Sunderland, and Siegfried starts to panic."
+      },
+      {
+        "id": "tvmaze:3390603",
+        "title": "Fixes",
+        "season": 6,
+        "episode": 5,
+        "released": "2025-10-23",
+        "overview": "James is worried about the practice finances but it falls on deaf ears when he tries to discuss the matter with Siegfried. James decides to take on the role of attending vet at Hensfield dog track to earn extra money.Tristan visits Mrs. Ainsley who has an aggressive parrot called George. Tristan fears the parrot may have a contagious disease and takes it back to Skeldale for observation, but the parrot starts to have an impact on his personal life.James arrives at Hensfield Racetrack and is put to work straight away, checking over the whippets. However, he soon wonders if there is something else afoot.Maggie uncovers one of Mrs. Hall's hidden talents and Siegfried enjoys spending time with Jimmy - until Jimmy inadvertently tells him some home truths."
+      },
+      {
+        "id": "tvmaze:3400905",
+        "title": "Our Hearts Are Full",
+        "season": 6,
+        "episode": 6,
+        "released": "2025-10-30",
+        "overview": "VJ Day is announced and Mrs. Hall helps to plan the celebrations. Tristan leans on his brother when his past experiences come home to roost. James is puzzled by the disappearance of a newborn calf."
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:60268",
+    "type": "series",
+    "name": "Gutfeld!",
+    "description": "Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/518/1297334.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/518/1297334.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3458436",
+        "title": "Episode 242",
+        "season": 2025,
+        "episode": 242,
+        "released": "2025-12-12",
+        "overview": ""
+      }
+    ]
+  }
+}

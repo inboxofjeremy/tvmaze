@@ -1,0 +1,2684 @@
+{
+  "meta": {
+    "id": "tvmaze:30940",
+    "type": "series",
+    "name": "NBC Sunday Night Football",
+    "description": "NBC Sunday Night Football is a weekly television broadcast of National Football League (NFL) games on NBC in the United States. It began airing on August 6, 2006 with the Pro Football Hall of Fame Game, which opened that year's preseason. NBC took over the rights to the Sunday prime time game telecasts from ESPN, which carried the broadcasts from 1987 to 2005 (concurrently with NBC assuming the rights to Sunday evening regular-season games).",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/472/1180868.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/472/1180868.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3241381",
+        "title": "Houston Texans at Kansas City Chiefs",
+        "season": 2025,
+        "episode": 16,
+        "released": "2025-12-07",
+        "overview": "Three-time Super Bowl MVP Patrick Mahomes and the Kansas City Chiefs (6-6) host 2023 NFL Offensive Rookie of the Year C.J. Stroud and the Houston Texans (7-5) in the Week 14 edition. Both teams are shy of the top seven spots in the AFC and need wins to stay in postseason contention. Live from GEHA Field at Arrowhead Stadium in Kansas City, Mo. The Texans and Chiefs meet for the 17th time on Sunday, including the postseason, with Kansas City holding an 11-5 advantage in the series. Houston and Kansas City met twice last season, with their most recent matchup in the AFC Divisional Round, which the Chiefs won, 23-14, en route to the team's fifth Super Bowl appearance in six seasons. Preceding that was a 27-19 Chiefs win."
+      },
+      {
+        "id": "tvmaze:1271071",
+        "title": "Miami Dolphins at Pittsburgh Steelers",
+        "season": 2006,
+        "episode": 1,
+        "released": "2006-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271072",
+        "title": "Indianapolis Colts at New York Giants",
+        "season": 2006,
+        "episode": 2,
+        "released": "2006-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271073",
+        "title": "Washington Redskins at Dallas Cowboys",
+        "season": 2006,
+        "episode": 3,
+        "released": "2006-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271074",
+        "title": "Denver Broncos at New England Patriots",
+        "season": 2006,
+        "episode": 4,
+        "released": "2006-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271075",
+        "title": "Seattle Seahawks at Chicago Bears",
+        "season": 2006,
+        "episode": 5,
+        "released": "2006-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271076",
+        "title": "Pittsburgh Steelers at San Diego Chargers",
+        "season": 2006,
+        "episode": 6,
+        "released": "2006-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271077",
+        "title": "Oakland Raiders at Denver Broncos",
+        "season": 2006,
+        "episode": 7,
+        "released": "2006-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271078",
+        "title": "Dallas Cowboys at Carolina Panthers",
+        "season": 2006,
+        "episode": 8,
+        "released": "2006-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271079",
+        "title": "Indianapolis Colts at New England Patriots",
+        "season": 2006,
+        "episode": 9,
+        "released": "2006-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271080",
+        "title": "Chicago Bears at New York Giants",
+        "season": 2006,
+        "episode": 10,
+        "released": "2006-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271081",
+        "title": "San Diego Chargers at Denver Broncos",
+        "season": 2006,
+        "episode": 11,
+        "released": "2006-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271082",
+        "title": "Philadelphia Eagles at Indianapolis Colts",
+        "season": 2006,
+        "episode": 12,
+        "released": "2006-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271083",
+        "title": "Seattle Seahawks at Denver Broncos",
+        "season": 2006,
+        "episode": 13,
+        "released": "2006-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271084",
+        "title": "New Orleans Saints at Dallas Cowboys",
+        "season": 2006,
+        "episode": 14,
+        "released": "2006-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271085",
+        "title": "Kansas City Chiefs at San Diego Chargers",
+        "season": 2006,
+        "episode": 15,
+        "released": "2006-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271086",
+        "title": "Philadelphia Eagles at Dallas Cowboys",
+        "season": 2006,
+        "episode": 16,
+        "released": "2006-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271087",
+        "title": "Green Bay Packers at Chicago Bears",
+        "season": 2006,
+        "episode": 17,
+        "released": "2006-12-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271096",
+        "title": "New Orleans Saints at Indianapolis Colts",
+        "season": 2007,
+        "episode": 1,
+        "released": "2007-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271097",
+        "title": "New York Giants at Dallas Cowboys",
+        "season": 2007,
+        "episode": 2,
+        "released": "2007-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271098",
+        "title": "San Diego Chargers at New England Patriots",
+        "season": 2007,
+        "episode": 3,
+        "released": "2007-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271099",
+        "title": "Dallas Cowboys at Chicago Bears",
+        "season": 2007,
+        "episode": 4,
+        "released": "2007-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271100",
+        "title": "Philadelphia Eagles at New York Giants",
+        "season": 2007,
+        "episode": 5,
+        "released": "2007-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271101",
+        "title": "Chicago Bears at Green Bay Packers",
+        "season": 2007,
+        "episode": 6,
+        "released": "2007-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271102",
+        "title": "New Orleans Saints at Seattle Seahawks",
+        "season": 2007,
+        "episode": 7,
+        "released": "2007-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271103",
+        "title": "Pittsburgh Steelers at Denver Broncos",
+        "season": 2007,
+        "episode": 8,
+        "released": "2007-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271104",
+        "title": "Dallas Cowboys at Philadelphia Eagles",
+        "season": 2007,
+        "episode": 9,
+        "released": "2007-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271105",
+        "title": "Indianapolis Colts at San Diego Chargers",
+        "season": 2007,
+        "episode": 10,
+        "released": "2007-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271106",
+        "title": "New England Patriots at Buffalo Bills",
+        "season": 2007,
+        "episode": 11,
+        "released": "2007-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271107",
+        "title": "Philadelphia Eagles at New England Patriots",
+        "season": 2007,
+        "episode": 12,
+        "released": "2007-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271108",
+        "title": "Cincinnati Bengals at Pittsburgh Steelers",
+        "season": 2007,
+        "episode": 13,
+        "released": "2007-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271109",
+        "title": "Indianapolis Colts at Baltimore Ravens",
+        "season": 2007,
+        "episode": 14,
+        "released": "2007-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271110",
+        "title": "Washington Redskins at New York Giants",
+        "season": 2007,
+        "episode": 15,
+        "released": "2007-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271111",
+        "title": "Washington Redskins at Minnesota Vikings",
+        "season": 2007,
+        "episode": 16,
+        "released": "2007-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271112",
+        "title": "Tennesee Titans at Indianapolis Colts",
+        "season": 2007,
+        "episode": 17,
+        "released": "2007-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271113",
+        "title": "Washington Redskins at New York Giants",
+        "season": 2008,
+        "episode": 1,
+        "released": "2008-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271114",
+        "title": "Chicago Bears at Indianapolis Colts",
+        "season": 2008,
+        "episode": 2,
+        "released": "2008-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271115",
+        "title": "Pittsburgh Steelers at Cleveland Browns",
+        "season": 2008,
+        "episode": 3,
+        "released": "2008-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271116",
+        "title": "Dallas Cowboys at Green Bay Packers",
+        "season": 2008,
+        "episode": 4,
+        "released": "2008-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271117",
+        "title": "Philadelphia Eagles at Chicago Bears",
+        "season": 2008,
+        "episode": 5,
+        "released": "2008-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271118",
+        "title": "Pittsburgh Steelers at Jacksonville Jaguars",
+        "season": 2008,
+        "episode": 6,
+        "released": "2008-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271119",
+        "title": "New England Patriots at San Diego Chargers",
+        "season": 2008,
+        "episode": 7,
+        "released": "2008-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271120",
+        "title": "Seattle Seahawks at Tampa Bay Buccaneers",
+        "season": 2008,
+        "episode": 8,
+        "released": "2008-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271121",
+        "title": "New England Patriots at Indianapolis Colts",
+        "season": 2008,
+        "episode": 9,
+        "released": "2008-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271122",
+        "title": "New York Giants at Philadelphia Eagles",
+        "season": 2008,
+        "episode": 10,
+        "released": "2008-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271123",
+        "title": "Dallas Cowboys at Washington Redskins",
+        "season": 2008,
+        "episode": 11,
+        "released": "2008-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271124",
+        "title": "Indianapolis Colts at San Diego Chargers",
+        "season": 2008,
+        "episode": 12,
+        "released": "2008-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271125",
+        "title": "Chicago Bears at Minnesota Vikings",
+        "season": 2008,
+        "episode": 13,
+        "released": "2008-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271126",
+        "title": "Washington Redskins at Baltimore Ravens",
+        "season": 2008,
+        "episode": 14,
+        "released": "2008-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271127",
+        "title": "New York Giants at Dallas Cowboys",
+        "season": 2008,
+        "episode": 15,
+        "released": "2008-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271128",
+        "title": "Carolina Panthers at New York Giants",
+        "season": 2008,
+        "episode": 16,
+        "released": "2008-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271129",
+        "title": "Denver Broncos vs. San Diego Chargers",
+        "season": 2008,
+        "episode": 17,
+        "released": "2008-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271130",
+        "title": "Tennessee Titans at Pittsburgh Steelers",
+        "season": 2009,
+        "episode": 1,
+        "released": "2009-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271131",
+        "title": "Chicago Bears at Green Bay Packers",
+        "season": 2009,
+        "episode": 2,
+        "released": "2009-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271132",
+        "title": "New York Giants at Dallas Cowboys",
+        "season": 2009,
+        "episode": 3,
+        "released": "2009-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271133",
+        "title": "Indianapolis Colts at Arizona Cardinals",
+        "season": 2009,
+        "episode": 4,
+        "released": "2009-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271134",
+        "title": "San Diego Chargers at Pittsburgh Steelers",
+        "season": 2009,
+        "episode": 5,
+        "released": "2009-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271135",
+        "title": "Indianapolis Colts at Tennessee Titans",
+        "season": 2009,
+        "episode": 6,
+        "released": "2009-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271136",
+        "title": "Chicago Bears at Atlanta Falcons",
+        "season": 2009,
+        "episode": 7,
+        "released": "2009-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271137",
+        "title": "Arizona Cardinals at New York Giants",
+        "season": 2009,
+        "episode": 8,
+        "released": "2009-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271138",
+        "title": "Dallas Cowboys at Philadelphia Eagles",
+        "season": 2009,
+        "episode": 9,
+        "released": "2009-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271139",
+        "title": "New England Patriots at Indianapolis Colts",
+        "season": 2009,
+        "episode": 10,
+        "released": "2009-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271140",
+        "title": "Philadelphia Eagles at Chicago Bears",
+        "season": 2009,
+        "episode": 11,
+        "released": "2009-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271141",
+        "title": "Pittsburgh Steelers at Baltimore Ravens",
+        "season": 2009,
+        "episode": 12,
+        "released": "2009-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271142",
+        "title": "Minnesota Vikings at Arizona Cardinals",
+        "season": 2009,
+        "episode": 13,
+        "released": "2009-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271143",
+        "title": "Philadelphia Eagles at New York Giants",
+        "season": 2009,
+        "episode": 14,
+        "released": "2009-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271144",
+        "title": "Minnesota Vikings at Carolina Panthers",
+        "season": 2009,
+        "episode": 15,
+        "released": "2009-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271145",
+        "title": "Dallas Cowboys at Washington Redskins",
+        "season": 2009,
+        "episode": 16,
+        "released": "2009-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271146",
+        "title": "Cincinnati Bengals at New York Jets",
+        "season": 2009,
+        "episode": 17,
+        "released": "2010-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271147",
+        "title": "Minnesota Vikings at New Orleans Saints",
+        "season": 2010,
+        "episode": 1,
+        "released": "2010-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271148",
+        "title": "Dallas Cowboys at Washington Redskins",
+        "season": 2010,
+        "episode": 2,
+        "released": "2010-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271149",
+        "title": "New York Giants at Indianapolis Colts",
+        "season": 2010,
+        "episode": 3,
+        "released": "2010-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271150",
+        "title": "New York Jets at Miami Dolphins",
+        "season": 2010,
+        "episode": 4,
+        "released": "2010-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271151",
+        "title": "Chicago Bears at New York Giants",
+        "season": 2010,
+        "episode": 5,
+        "released": "2010-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271152",
+        "title": "Philadelphia Eagles at San Francisco 49ers",
+        "season": 2010,
+        "episode": 6,
+        "released": "2010-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271153",
+        "title": "Indianapolis Colts at Washington Redskins",
+        "season": 2010,
+        "episode": 7,
+        "released": "2010-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271154",
+        "title": "Minnesota Vikings at Green Bay Packers",
+        "season": 2010,
+        "episode": 8,
+        "released": "2010-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271155",
+        "title": "Pittsburgh Steelers at New Orleans Saints",
+        "season": 2010,
+        "episode": 9,
+        "released": "2010-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271156",
+        "title": "Dallas Cowboys at Green Bay Packers",
+        "season": 2010,
+        "episode": 10,
+        "released": "2010-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271157",
+        "title": "New England Patriots at Pittsburgh Steelers",
+        "season": 2010,
+        "episode": 11,
+        "released": "2010-11-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271158",
+        "title": "New York Giants at Philadelphia Eagles",
+        "season": 2010,
+        "episode": 12,
+        "released": "2010-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271159",
+        "title": "San Diego Chargers at Indianapolis Colts",
+        "season": 2010,
+        "episode": 13,
+        "released": "2010-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271160",
+        "title": "Pittsburgh Steelers at Baltimore Ravens",
+        "season": 2010,
+        "episode": 14,
+        "released": "2010-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271161",
+        "title": "Philadelphia Eagles at Dallas Cowboys",
+        "season": 2010,
+        "episode": 15,
+        "released": "2010-12-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271162",
+        "title": "Green Bay Packers at New England Patriots",
+        "season": 2010,
+        "episode": 16,
+        "released": "2010-12-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271163",
+        "title": "Minnesota Vikings at Philadelphia Eagles",
+        "season": 2010,
+        "episode": 17,
+        "released": "2010-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271164",
+        "title": "St. Louis Rams at Seattle Seahawks",
+        "season": 2010,
+        "episode": 18,
+        "released": "2011-01-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271165",
+        "title": "New Orleans Saints at Green Bay Packers",
+        "season": 2011,
+        "episode": 1,
+        "released": "2011-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271166",
+        "title": "Dallas Cowboys at New York Jets",
+        "season": 2011,
+        "episode": 2,
+        "released": "2011-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271167",
+        "title": "Philadelphia Eagles at Atlanta Falcons",
+        "season": 2011,
+        "episode": 3,
+        "released": "2011-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271168",
+        "title": "Pittsburgh Steelers at Indianapolis Colts",
+        "season": 2011,
+        "episode": 4,
+        "released": "2011-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271169",
+        "title": "New York Jets at Baltimore Ravens",
+        "season": 2011,
+        "episode": 5,
+        "released": "2011-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271170",
+        "title": "Green Bay Packers at Atlanta Falcons",
+        "season": 2011,
+        "episode": 6,
+        "released": "2011-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271171",
+        "title": "Minnesota Vikings at Chicago Bears",
+        "season": 2011,
+        "episode": 7,
+        "released": "2011-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271172",
+        "title": "Indianapolis Colts at New Orleans Saints",
+        "season": 2011,
+        "episode": 8,
+        "released": "2011-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271173",
+        "title": "Dallas Cowboys at Philadelphia Eagles",
+        "season": 2011,
+        "episode": 9,
+        "released": "2011-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271174",
+        "title": "Baltimore Ravens at Pittsburgh Steelers",
+        "season": 2011,
+        "episode": 10,
+        "released": "2011-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271175",
+        "title": "New England Patriots at New York Jets",
+        "season": 2011,
+        "episode": 11,
+        "released": "2011-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271176",
+        "title": "Philadelphia Eagles at New York Giants",
+        "season": 2011,
+        "episode": 12,
+        "released": "2011-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271177",
+        "title": "Pittsburgh Steelers at Kansas City Chiefs",
+        "season": 2011,
+        "episode": 13,
+        "released": "2011-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271178",
+        "title": "Detroit Lions at New Orleans Saints",
+        "season": 2011,
+        "episode": 14,
+        "released": "2011-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271179",
+        "title": "New York Giants at Dallas Cowboys",
+        "season": 2011,
+        "episode": 15,
+        "released": "2011-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271180",
+        "title": "Baltimore Ravens at San Diego Chargers",
+        "season": 2011,
+        "episode": 16,
+        "released": "2011-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271181",
+        "title": "Chicago Bears at Green Bay Packers",
+        "season": 2011,
+        "episode": 17,
+        "released": "2011-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271182",
+        "title": "Dallas Cowboys at New York Giants",
+        "season": 2011,
+        "episode": 18,
+        "released": "2012-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271183",
+        "title": "Dallas Cowboys at New York Giants",
+        "season": 2012,
+        "episode": 1,
+        "released": "2012-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271184",
+        "title": "Pittsburgh Steelers at Denver Broncos",
+        "season": 2012,
+        "episode": 2,
+        "released": "2012-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271185",
+        "title": "Detroit Lions at San Francisco 49ers",
+        "season": 2012,
+        "episode": 3,
+        "released": "2012-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271186",
+        "title": "New England Patriots at Baltimore Ravens",
+        "season": 2012,
+        "episode": 4,
+        "released": "2012-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271187",
+        "title": "New York Giants at Philadelphia Eagles",
+        "season": 2012,
+        "episode": 5,
+        "released": "2012-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271188",
+        "title": "San Diego Chargers at New Orleans Saints",
+        "season": 2012,
+        "episode": 6,
+        "released": "2012-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271189",
+        "title": "Green Bay Packers at Houston Texans",
+        "season": 2012,
+        "episode": 7,
+        "released": "2012-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271190",
+        "title": "Pittsburgh Steelers at Cincinnati Bengals",
+        "season": 2012,
+        "episode": 8,
+        "released": "2012-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271191",
+        "title": "New Orleans Saints at Denver Broncos",
+        "season": 2012,
+        "episode": 9,
+        "released": "2012-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271192",
+        "title": "Dallas Cowboys at Atlanta Falcons",
+        "season": 2012,
+        "episode": 10,
+        "released": "2012-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271193",
+        "title": "Houston Texans at Chicago Bears",
+        "season": 2012,
+        "episode": 11,
+        "released": "2012-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271194",
+        "title": "Baltimore Ravens at Pittsburgh Steelers",
+        "season": 2012,
+        "episode": 12,
+        "released": "2012-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271195",
+        "title": "New England Patriots at New York Jets",
+        "season": 2012,
+        "episode": 13,
+        "released": "2012-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271196",
+        "title": "Green Bay Packers at New York Giants",
+        "season": 2012,
+        "episode": 14,
+        "released": "2012-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271197",
+        "title": "Philadelphia Eagles at Dallas Cowboys",
+        "season": 2012,
+        "episode": 15,
+        "released": "2012-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271198",
+        "title": "Detroit Lions at Green Bay Packers",
+        "season": 2012,
+        "episode": 16,
+        "released": "2012-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271199",
+        "title": "San Francisco 49ers at New England Patriots",
+        "season": 2012,
+        "episode": 17,
+        "released": "2012-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271200",
+        "title": "San Francisco 49ers at Seattle Seahawks",
+        "season": 2012,
+        "episode": 18,
+        "released": "2012-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271201",
+        "title": "Dallas Cowboys at Washington Redskins",
+        "season": 2012,
+        "episode": 19,
+        "released": "2012-12-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271202",
+        "title": "Baltimore Ravens at Denver Broncos",
+        "season": 2013,
+        "episode": 1,
+        "released": "2013-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271203",
+        "title": "New York Giants at Dallas Cowboys",
+        "season": 2013,
+        "episode": 2,
+        "released": "2013-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271204",
+        "title": "San Francisco 49ers at Seattle Seahawks",
+        "season": 2013,
+        "episode": 3,
+        "released": "2013-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271205",
+        "title": "Chicago Bears at Pittsburgh Steelers",
+        "season": 2013,
+        "episode": 4,
+        "released": "2013-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271206",
+        "title": "New England Patriots at Atlanta Falcons",
+        "season": 2013,
+        "episode": 5,
+        "released": "2013-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271207",
+        "title": "Houston Texans at San Francisco 49ers",
+        "season": 2013,
+        "episode": 6,
+        "released": "2013-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271208",
+        "title": "Washington Redskins at Dallas Cowboys",
+        "season": 2013,
+        "episode": 7,
+        "released": "2013-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271209",
+        "title": "Denver Broncos at Indianapolis Colts",
+        "season": 2013,
+        "episode": 8,
+        "released": "2013-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271210",
+        "title": "Green Bay Packers at Minnesota Vikings",
+        "season": 2013,
+        "episode": 9,
+        "released": "2013-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271211",
+        "title": "Indianapolis Colts at Houston Texans",
+        "season": 2013,
+        "episode": 10,
+        "released": "2013-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271212",
+        "title": "Dallas Cowboys at New Orleans Saints",
+        "season": 2013,
+        "episode": 11,
+        "released": "2013-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271213",
+        "title": "Kansas City Chiefs at Denver Broncos",
+        "season": 2013,
+        "episode": 12,
+        "released": "2013-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271214",
+        "title": "Denver Broncos at New England Patriots",
+        "season": 2013,
+        "episode": 13,
+        "released": "2013-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271215",
+        "title": "Pittsburgh Steelers at Baltimore Ravens",
+        "season": 2013,
+        "episode": 14,
+        "released": "2013-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271216",
+        "title": "New York Giants at Washington Redskins",
+        "season": 2013,
+        "episode": 15,
+        "released": "2013-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271217",
+        "title": "Carolina Panthers at New Orleans Saints",
+        "season": 2013,
+        "episode": 16,
+        "released": "2013-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271218",
+        "title": "Cincinnati Bengals at Pittsburgh Steelers",
+        "season": 2013,
+        "episode": 17,
+        "released": "2013-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271219",
+        "title": "Chicago Bears at Philadelphia Eagles",
+        "season": 2013,
+        "episode": 18,
+        "released": "2013-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271220",
+        "title": "Philadelphia Eagles at Dallas Cowboys",
+        "season": 2013,
+        "episode": 19,
+        "released": "2013-12-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271221",
+        "title": "Green Bay Packers at Seattle Seahawks",
+        "season": 2014,
+        "episode": 1,
+        "released": "2014-09-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271222",
+        "title": "Indianapolis Colts at Denver Broncos",
+        "season": 2014,
+        "episode": 2,
+        "released": "2014-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271223",
+        "title": "Chicago Bears at San Francisco 49ers",
+        "season": 2014,
+        "episode": 3,
+        "released": "2014-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271224",
+        "title": "Pittsburgh Steelers at Carolina Panthers",
+        "season": 2014,
+        "episode": 4,
+        "released": "2014-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271225",
+        "title": "New Orleans Saints at Dallas Cowboys",
+        "season": 2014,
+        "episode": 5,
+        "released": "2014-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271226",
+        "title": "Cincinnati Bengals at New England Patriots",
+        "season": 2014,
+        "episode": 6,
+        "released": "2014-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271227",
+        "title": "New York Giants at Philadelphia Eagles",
+        "season": 2014,
+        "episode": 7,
+        "released": "2014-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271228",
+        "title": "San Francisco 49ers at Denver Broncos",
+        "season": 2014,
+        "episode": 8,
+        "released": "2014-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271229",
+        "title": "Green Bay Packers at New Orleans Saints",
+        "season": 2014,
+        "episode": 9,
+        "released": "2014-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271230",
+        "title": "Baltimore Ravens at Pittsburgh Steelers",
+        "season": 2014,
+        "episode": 10,
+        "released": "2014-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271231",
+        "title": "Chicago Bears at Green Bay Packers",
+        "season": 2014,
+        "episode": 11,
+        "released": "2014-11-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271232",
+        "title": "New England Patriots at Indianapolis Colts",
+        "season": 2014,
+        "episode": 12,
+        "released": "2014-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271233",
+        "title": "Dallas Cowboys at New York Giants",
+        "season": 2014,
+        "episode": 13,
+        "released": "2014-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271234",
+        "title": "Seattle Seahawks at San Francisco 49ers",
+        "season": 2014,
+        "episode": 14,
+        "released": "2014-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271235",
+        "title": "Denver Broncos at Kansas City Chiefs",
+        "season": 2014,
+        "episode": 15,
+        "released": "2014-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271236",
+        "title": "New England Patriots at San Diego Chargers",
+        "season": 2014,
+        "episode": 16,
+        "released": "2014-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271237",
+        "title": "Dallas Cowboys at Philadelphia Eagles",
+        "season": 2014,
+        "episode": 17,
+        "released": "2014-12-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271238",
+        "title": "Seattle Seahawks at Arizona Cardinals",
+        "season": 2014,
+        "episode": 18,
+        "released": "2014-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271239",
+        "title": "Cincinnati Bengals at Pittsburgh Steelers",
+        "season": 2014,
+        "episode": 19,
+        "released": "2014-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271246",
+        "title": "Pittsburgh Steelers at New England Patriots",
+        "season": 2015,
+        "episode": 1,
+        "released": "2015-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271247",
+        "title": "New York Giants at Dallas Cowboys",
+        "season": 2015,
+        "episode": 2,
+        "released": "2015-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271248",
+        "title": "Seattle Seahawks at Green Bay Packers",
+        "season": 2015,
+        "episode": 3,
+        "released": "2015-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271249",
+        "title": "Denver Broncos at Detroit Lions",
+        "season": 2015,
+        "episode": 4,
+        "released": "2015-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271250",
+        "title": "Dallas Cowboys at New Orleans Saints",
+        "season": 2015,
+        "episode": 5,
+        "released": "2015-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271251",
+        "title": "San Francisco 49ers at New York Giants",
+        "season": 2015,
+        "episode": 6,
+        "released": "2015-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271252",
+        "title": "New England Patriots at Indianapolis Colts",
+        "season": 2015,
+        "episode": 7,
+        "released": "2015-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271253",
+        "title": "Philadelphia Eagles at Carolina Panthers",
+        "season": 2015,
+        "episode": 8,
+        "released": "2015-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271254",
+        "title": "Green Bay Packers \tat Denver Broncos",
+        "season": 2015,
+        "episode": 9,
+        "released": "2015-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271255",
+        "title": "Philadelphia Eagles at Dallas Cowboys",
+        "season": 2015,
+        "episode": 10,
+        "released": "2015-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271256",
+        "title": "Arizona Cardinals at Seattle Seahawks",
+        "season": 2015,
+        "episode": 11,
+        "released": "2015-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271257",
+        "title": "Cincinnati Bengals at Arizona Cardinals",
+        "season": 2015,
+        "episode": 12,
+        "released": "2015-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271258",
+        "title": "Chicago Bears at Green Bay Packers",
+        "season": 2015,
+        "episode": 13,
+        "released": "2015-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271259",
+        "title": "New England Patriots at Denver Broncos",
+        "season": 2015,
+        "episode": 14,
+        "released": "2015-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271260",
+        "title": "Indianapolis Colts at Pittsburgh Steelers",
+        "season": 2015,
+        "episode": 15,
+        "released": "2015-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271261",
+        "title": "New England Patriots at Houston Texans",
+        "season": 2015,
+        "episode": 16,
+        "released": "2015-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271262",
+        "title": "Arizona Cardinals at Philadelphia Eagles",
+        "season": 2015,
+        "episode": 17,
+        "released": "2015-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271263",
+        "title": "New York Giants at Minnesota Vikings",
+        "season": 2015,
+        "episode": 18,
+        "released": "2015-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271264",
+        "title": "Minnesota Vikings at Green Bay Packers",
+        "season": 2015,
+        "episode": 19,
+        "released": "2016-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271267",
+        "title": "Carolina Panthers at Denver Broncos",
+        "season": 2016,
+        "episode": 1,
+        "released": "2016-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271268",
+        "title": "New England Patriots at Arizona Cardinals",
+        "season": 2016,
+        "episode": 2,
+        "released": "2016-09-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271269",
+        "title": "Green Bay Packers at Minnesota Vikings",
+        "season": 2016,
+        "episode": 3,
+        "released": "2016-09-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271270",
+        "title": "Chicago Bears at Dallas Cowboys",
+        "season": 2016,
+        "episode": 4,
+        "released": "2016-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271271",
+        "title": "Kansas City Chiefs at Pittsburgh Steelers",
+        "season": 2016,
+        "episode": 5,
+        "released": "2016-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271272",
+        "title": "New York Giants at Green Bay Packers",
+        "season": 2016,
+        "episode": 6,
+        "released": "2016-10-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271273",
+        "title": "Indianapolis Colts at Houston Texans",
+        "season": 2016,
+        "episode": 7,
+        "released": "2016-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271274",
+        "title": "Seattle Seahawks at Arizona Cardinals",
+        "season": 2016,
+        "episode": 8,
+        "released": "2016-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271275",
+        "title": "Philadelphia Eagles at Dallas Cowboys",
+        "season": 2016,
+        "episode": 9,
+        "released": "2016-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271276",
+        "title": "Denver Broncos at Oakland Raiders",
+        "season": 2016,
+        "episode": 10,
+        "released": "2016-11-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271277",
+        "title": "Seattle Seahawks at New England Patriots",
+        "season": 2016,
+        "episode": 11,
+        "released": "2016-11-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271278",
+        "title": "Green Bay Packers \tat Washington Redskins",
+        "season": 2016,
+        "episode": 12,
+        "released": "2016-11-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271279",
+        "title": "Pittsburgh Steelers at Indianapolis Colts",
+        "season": 2016,
+        "episode": 13,
+        "released": "2016-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271280",
+        "title": "Kansas City Chiefs at Denver Broncos",
+        "season": 2016,
+        "episode": 14,
+        "released": "2016-11-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271281",
+        "title": "Carolina Panthers at Seattle Seahawks",
+        "season": 2016,
+        "episode": 15,
+        "released": "2016-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271282",
+        "title": "Dallas Cowboys at New York Giants",
+        "season": 2016,
+        "episode": 16,
+        "released": "2016-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271283",
+        "title": "Tampa Bay Buccaneers at Dallas Cowboys",
+        "season": 2016,
+        "episode": 17,
+        "released": "2016-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271284",
+        "title": "Denver Broncos at Kansas City Chiefs",
+        "season": 2016,
+        "episode": 18,
+        "released": "2016-12-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271285",
+        "title": "Green Bay Packers at Detroit Lions",
+        "season": 2016,
+        "episode": 19,
+        "released": "2017-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271310",
+        "title": "Kansas City Chiefs at New England Patriots",
+        "season": 2017,
+        "episode": 1,
+        "released": "2017-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271311",
+        "title": "New York Giants at Dallas Cowboys",
+        "season": 2017,
+        "episode": 2,
+        "released": "2017-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271312",
+        "title": "Green Bay Packers at Atlanta Falcons",
+        "season": 2017,
+        "episode": 3,
+        "released": "2017-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271314",
+        "title": "Oakland Raiders at Washington Redskins",
+        "season": 2017,
+        "episode": 4,
+        "released": "2017-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271315",
+        "title": "Indianapolis Colts at Seattle Seahawks",
+        "season": 2017,
+        "episode": 5,
+        "released": "2017-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271316",
+        "title": "Kansas City Chiefs at Houston Texans",
+        "season": 2017,
+        "episode": 6,
+        "released": "2017-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271317",
+        "title": "New York Giants at Denver Broncos",
+        "season": 2017,
+        "episode": 7,
+        "released": "2017-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271318",
+        "title": "Atlanta Falcons at New England Patriots",
+        "season": 2017,
+        "episode": 8,
+        "released": "2017-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271319",
+        "title": "Pittsburgh Steelers at Detroit Lions",
+        "season": 2017,
+        "episode": 9,
+        "released": "2017-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271320",
+        "title": "Oakland Raiders at Miami Dolphins",
+        "season": 2017,
+        "episode": 10,
+        "released": "2017-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271321",
+        "title": "New England Patriots at Denver Broncos",
+        "season": 2017,
+        "episode": 11,
+        "released": "2017-11-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271322",
+        "title": "Philadelphia Eagles at Dallas Cowboys",
+        "season": 2017,
+        "episode": 12,
+        "released": "2017-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271323",
+        "title": "New York Giants at Washington Redskins",
+        "season": 2017,
+        "episode": 13,
+        "released": "2017-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271324",
+        "title": "Green Bay Packers at Pittsburgh Steelers",
+        "season": 2017,
+        "episode": 14,
+        "released": "2017-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271325",
+        "title": "Philadelphia Eagles at Seattle Seahawks",
+        "season": 2017,
+        "episode": 15,
+        "released": "2017-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271326",
+        "title": "Baltimore Ravens at Pittsburgh Steelers",
+        "season": 2017,
+        "episode": 16,
+        "released": "2017-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271327",
+        "title": "Dallas Cowboys at Oakland Raiders",
+        "season": 2017,
+        "episode": 17,
+        "released": "2017-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1271328",
+        "title": "Minnesota Vikings at Green Bay Packers",
+        "season": 2017,
+        "episode": 18,
+        "released": "2017-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1975567",
+        "title": "Dallas Cowboys at Los Angeles Rams",
+        "season": 2020,
+        "episode": 1,
+        "released": "2020-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1931329",
+        "title": "New England Patriots at Seattle Seahawks",
+        "season": 2020,
+        "episode": 2,
+        "released": "2020-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1933153",
+        "title": "Green Bay Packers at New Orleans Saints",
+        "season": 2020,
+        "episode": 3,
+        "released": "2020-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1939935",
+        "title": "Philadelphia Eagles at San Francisco 49ers",
+        "season": 2020,
+        "episode": 4,
+        "released": "2020-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1944385",
+        "title": "Minnesota Vikings at Seattle Seahawks",
+        "season": 2020,
+        "episode": 5,
+        "released": "2020-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1949235",
+        "title": "L.A. Rams at San Francisco 49ers",
+        "season": 2020,
+        "episode": 6,
+        "released": "2020-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1952924",
+        "title": "Tampa Bay Buccaneers at Las Vegas Raiders",
+        "season": 2020,
+        "episode": 7,
+        "released": "2020-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1957913",
+        "title": "Dallas Cowboys at Philadelphia Eagles",
+        "season": 2020,
+        "episode": 8,
+        "released": "2020-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1963434",
+        "title": "New Orleans Saints at Tampa Bay Buccaneers",
+        "season": 2020,
+        "episode": 9,
+        "released": "2020-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1968023",
+        "title": "Baltimore Ravens at New England Patriots",
+        "season": 2020,
+        "episode": 10,
+        "released": "2020-11-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1971048",
+        "title": "Kansas City Chiefs at Las Vegas Raiders",
+        "season": 2020,
+        "episode": 11,
+        "released": "2020-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1974738",
+        "title": "Baltimore Ravens at Pittsburgh Steelers",
+        "season": 2020,
+        "episode": 12,
+        "released": "2020-12-02",
+        "overview": "The Steelers (10-0) host the Ravens (6-4). Pittsburgh rallied to beat Baltimore 28-24 in Week 8 behind two TD passes from Ben Roethlisberger. The Steelers lead the NFL in sacks (38) and turnover differential (plus-12) in 2020."
+      },
+      {
+        "id": "tvmaze:1974739",
+        "title": "Chicago Bears at Green Bay Packers",
+        "season": 2020,
+        "episode": 13,
+        "released": "2020-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1977714",
+        "title": "Denver Broncos at Kansas City Chiefs",
+        "season": 2020,
+        "episode": 14,
+        "released": "2020-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1978647",
+        "title": "Pittsburgh Steelers at Buffalo Bills",
+        "season": 2020,
+        "episode": 15,
+        "released": "2020-12-13",
+        "overview": "The Bills host the Steelers. Buffalo halted a six-game series slide with a 17-10 victory in 2019. The Bills' Josh Allen threw a TD pass and rushed for another in that game. The Steelers' Ben Roethlisberger did not play because of an elbow injury."
+      },
+      {
+        "id": "tvmaze:1982953",
+        "title": "Cleveland Browns at New York Giants",
+        "season": 2020,
+        "episode": 16,
+        "released": "2020-12-20",
+        "overview": "The Browns (9-4) visit the Giants (5-8). Cleveland saw its four-game winning streak come to an end in Week 14, falling to Baltimore for the second time in 2020, 47-42. New York also had a four-game streak snapped when it was upended 26-7 by Arizona."
+      },
+      {
+        "id": "tvmaze:1989278",
+        "title": "Tennessee Titans at Green Bay Packers",
+        "season": 2020,
+        "episode": 17,
+        "released": "2020-12-27",
+        "overview": "High-powered collide on Sunday Night Football as the Packers (11-3) host the Titans (10-4). Tennessee led the NFL in points with 436 entering Week 16 while Green Bay paced the NFC with 434. The Packers' Aaron Rodgers had a league-best 40 TD passes."
+      },
+      {
+        "id": "tvmaze:1990194",
+        "title": "Washington Football Team at Philadelphia Eagles",
+        "season": 2020,
+        "episode": 18,
+        "released": "2021-01-03",
+        "overview": "Washington (6-9) can win the NFC East with a victory over Philadelphia (4-10-1). Washington missed an opportunity to wrap up its first division title since 2015 by losing to Carolina 20-13 last week. Washington defeated Philadelphia 27-17 in Week 1."
+      },
+      {
+        "id": "tvmaze:2144468",
+        "title": "Chicago Bears at Los Angeles Rams",
+        "season": 2021,
+        "episode": 1,
+        "released": "2021-09-12",
+        "overview": "Matthew Stafford makes his debut in Rams blue against a familiar opponent in the Bears. Stafford tossed 282 touchdown passes in 165 games over 12 seasons with the Lions before being traded. The first pick in the 2009 draft is 11-9 against Chicago."
+      },
+      {
+        "id": "tvmaze:2165204",
+        "title": "Kansas City Chiefs at Baltimore Ravens",
+        "season": 2021,
+        "episode": 2,
+        "released": "2021-09-19",
+        "overview": "Former MVP quarterbacks square off as Lamar Jackson's Ravens host Patrick Mahomes' Chiefs. When the QBs did battle in Week 3 last season, Mahomes torched the Baltimore defense for 385 passing yards and four TDs as Kansas City claimed a 34-20 win."
+      },
+      {
+        "id": "tvmaze:2170454",
+        "title": "Green Bay Packers at San Francisco 49ers",
+        "season": 2021,
+        "episode": 3,
+        "released": "2021-09-26",
+        "overview": "The Packers and 49ers duel on Sunday Night Football. Green Bay topped San Francisco 34-17 last season in its first visit to Levi Stadium since falling in the 2020 NFC Championship Game. Aaron Rodgers (GB) tossed for 305 yards and four TDs in the win."
+      },
+      {
+        "id": "tvmaze:2176871",
+        "title": "Tampa Bay Buccaneers at New England Patriots",
+        "season": 2021,
+        "episode": 4,
+        "released": "2021-10-03",
+        "overview": "Tom Brady's Buccaneers visit the Patriots. Brady spent 20 years in New England, leading the Pats to 19 consecutive winning seasons and six Super Bowl victories. Tampa Bay's Rob Gronkowski played with Brady in New England for nine of those campaigns."
+      },
+      {
+        "id": "tvmaze:2181853",
+        "title": "Buffalo Bills at Kansas City Chiefs",
+        "season": 2021,
+        "episode": 5,
+        "released": "2021-10-10",
+        "overview": "The defending AFC champion Chiefs brace for the Bills in a rematch of the 2020 conference title game. Kansas City exploded with a 38-6 run to burst Buffalo's bubble in January behind Patrick Mahomes' three touchdown passes, two to Travis Kelce."
+      },
+      {
+        "id": "tvmaze:2187292",
+        "title": "Seattle Seahawks at Pittsburgh Steelers",
+        "season": 2021,
+        "episode": 6,
+        "released": "2021-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2187293",
+        "title": "Indianapolis Colts at San Francisco 49ers",
+        "season": 2021,
+        "episode": 7,
+        "released": "2021-10-24",
+        "overview": "The 49ers try to halt a four-game slide at Levi's Stadium as they welcome the Colts. San Francisco lost both its home games this season by a combined nine points. Indianapolis has won four straight meetings. The 49ers last defeated the Colts in 2001."
+      },
+      {
+        "id": "tvmaze:2197426",
+        "title": "Dallas Cowboys at Minnesota Vikings",
+        "season": 2021,
+        "episode": 8,
+        "released": "2021-10-31",
+        "overview": "Clubs coming off bye weeks collide as the Cowboys visit the Vikings. Dallas has won three of the last four meetings after a 31-28 victory in 2020 behind Ezekiel Elliott's 114 scrimmage yards and a touchdown. Minnesota is 2-1 at home this season."
+      },
+      {
+        "id": "tvmaze:2202995",
+        "title": "Tennessee Titans at Los Angeles Rams",
+        "season": 2021,
+        "episode": 9,
+        "released": "2021-11-07",
+        "overview": "The Titans visit Cooper Kupp and the Rams for a potential Super Bowl 56 preview. Los Angeles has won eight of 13 meetings after a 27-23 triumph in the Music City on Christmas Eve 2017. Kupp caught the go-ahead 14-yard touchdown pass in that game."
+      },
+      {
+        "id": "tvmaze:2206846",
+        "title": "Kansas City Chiefs at Las Vegas Raiders",
+        "season": 2021,
+        "episode": 10,
+        "released": "2021-11-14",
+        "overview": "The Chiefs visit the Raiders. Kansas City has won six of the last seven meetings after prevailing 35-31 in its first trip to Las Vegas in 2020. The Chiefs' Patrick Mahomes is 5-1 versus the Raiders with 15 touchdown passes and three interceptions."
+      },
+      {
+        "id": "tvmaze:2213213",
+        "title": "Pittsburgh Steelers at Los Angeles Chargers",
+        "season": 2021,
+        "episode": 11,
+        "released": "2021-11-21",
+        "overview": "The Steelers visit the Chargers. Pittsburgh won the last meeting 24-17 in Carson, Calif., in 2019, which was also that week's Sunday Night Football feature. The Steelers' Ben Roethlisberger is 2-7 lifetime in games played in California."
+      },
+      {
+        "id": "tvmaze:2218471",
+        "title": "Cleveland Browns at Baltimore Ravens",
+        "season": 2021,
+        "episode": 12,
+        "released": "2021-11-28",
+        "overview": "The Ravens host the Browns. The clubs meet again in 14 days. Cleveland has a bye week in between. Baltimore leads the series 33-11 and has won the last three get-togethers. The Ravens totaled 85 points in a pair of victories over the Browns in 2020."
+      },
+      {
+        "id": "tvmaze:2220160",
+        "title": "Denver Broncos at Kansas City Chiefs",
+        "season": 2021,
+        "episode": 13,
+        "released": "2021-12-05",
+        "overview": "The original plan was: San Francisco 49ers at Seattle Seahawks. (Russell Wilson and the Seahawks host the 49ers. Seattle has won three straight meetings, and 16 of the last 19, after a 28-21 triumph at San Francisco in Week 4. Wilson accounted for three touchdowns in that game, improving to 15-4 against the 49ers.)"
+      },
+      {
+        "id": "tvmaze:2227779",
+        "title": "Chicago Bears at Green Bay Packers",
+        "season": 2021,
+        "episode": 14,
+        "released": "2021-12-12",
+        "overview": "The Packers host the Bears in the NFL's most-played rivalry. Green Bay won at Chicago 24-14 in Week 6 to take a 102-95-6 series lead. Packers quarterback Aaron Rodgers is 21-5 against the Bears after accounting for three touchdowns in that game."
+      },
+      {
+        "id": "tvmaze:2237083",
+        "title": "New Orleans Saints at Tampa Bay Buccaneers",
+        "season": 2021,
+        "episode": 15,
+        "released": "2021-12-19",
+        "overview": "Tampa Bay can clinch its first NFC South title since 2007 with a victory over New Orleans. The Buccaneers walked off the Bills 33-27 in overtime for their fourth straight win in Week 14. The Saints stopped a five-game slide with a win over the Jets."
+      },
+      {
+        "id": "tvmaze:2237084",
+        "title": "Washington Football Team at Dallas Cowboys",
+        "season": 2021,
+        "episode": 16,
+        "released": "2021-12-26",
+        "overview": "The Cowboys look to end a two-game skid against their NFC East rivals when they host the Washington Football Team. Dallas suffered a season sweep last year for the first time since 2012. The Cowboys have won seven of the last 10 in the series."
+      },
+      {
+        "id": "tvmaze:2240887",
+        "title": "Minnesota Vikings at Green Bay Packers",
+        "season": 2021,
+        "episode": 17,
+        "released": "2022-01-02",
+        "overview": "The Packers try to exact revenge from the rival Vikings. Minnesota has won two straight meetings after a 34-31 triumph in Week 11. The Vikings' Greg Joseph kicked a 29-yard field goal as time expired and Kirk Cousins threw three touchdown passes."
+      },
+      {
+        "id": "tvmaze:2245601",
+        "title": "Los Angeles Chargers at Las Vegas Raiders",
+        "season": 2021,
+        "episode": 18,
+        "released": "2022-01-09",
+        "overview": "The Chargers head for Sin City to play the Raiders in an AFC West showdown. Los Angeles has won two straight meetings, including the only one in Las Vegas. The Chargers beat the Raiders 28-14 at home in Week 4 behind three Justin Herbert TD passes."
+      },
+      {
+        "id": "tvmaze:2355084",
+        "title": "Buffalo Bills at Los Angeles Rams",
+        "season": 2022,
+        "episode": 1,
+        "released": "2022-09-08",
+        "overview": "The NFL kicks off the season in style as the defending Super Bowl champion Rams host the Bills. Buffalo is favored to dethrone Los Angeles in 2022 and win its first title behind quarterback Josh Allen. The Rams have won five straight season openers."
+      },
+      {
+        "id": "tvmaze:2388504",
+        "title": "Tampa Bay Buccaneers at Dallas Cowboys",
+        "season": 2022,
+        "episode": 2,
+        "released": "2022-09-11",
+        "overview": "Tom Brady becomes the oldest starting quarterback in NFL history as his Buccaneers visit the Cowboys. The 45-year-old legend briefly retired during the offseason before deciding to return for a 23rd campaign. TB12 is 6-0 against Dallas all-time."
+      },
+      {
+        "id": "tvmaze:2388505",
+        "title": "Chicago Bears at Green Bay Packers",
+        "season": 2022,
+        "episode": 3,
+        "released": "2022-09-18",
+        "overview": "A rivalry as old as the NFL is renewed for the 2022 campaign as the Packers host the Bears. Green Bay has won six straight meetings with Chicago to take a 103-95-6 lead in the all-time series. Aaron Rodgers (GB) threw 16 TD passes in those wins."
+      },
+      {
+        "id": "tvmaze:2388506",
+        "title": "San Francisco 49ers at Denver Broncos",
+        "season": 2022,
+        "episode": 4,
+        "released": "2022-09-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2388507",
+        "title": "Kansas City Chiefs at Tampa Bay Buccaneers",
+        "season": 2022,
+        "episode": 5,
+        "released": "2022-10-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2399170",
+        "title": "Cincinnati Bengals at Baltimore Ravens",
+        "season": 2022,
+        "episode": 6,
+        "released": "2022-10-09",
+        "overview": "The Bengals try to continue their recent mastery of the Ravens. Cincinnati won both meetings in 2021, scoring 41 points in each game. Running back J.K. Dobbins scored both of Baltimore's touchdowns in a 23-20 loss to Buffalo in Week 4."
+      },
+      {
+        "id": "tvmaze:2409380",
+        "title": "Dallas Cowboys at Philadelphia Eagles",
+        "season": 2022,
+        "episode": 7,
+        "released": "2022-10-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2409381",
+        "title": "Pittsburgh Steelers at Miami Dolphins",
+        "season": 2022,
+        "episode": 8,
+        "released": "2022-10-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2412957",
+        "title": "Green Bay Packers at Buffalo Bills",
+        "season": 2022,
+        "episode": 9,
+        "released": "2022-10-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2416748",
+        "title": "Tennessee Titans at Kansas City Chiefs",
+        "season": 2022,
+        "episode": 10,
+        "released": "2022-11-06",
+        "overview": "Andy Reid's Chiefs host the Titans in a clash of division-leading clubs. Kansas City had a bye in Week 8. Reid, 20-3 in games he's coached after a regular-season break, tries to stop Tennessee's Derrick Henry, who rushed for 219 yards last week."
+      },
+      {
+        "id": "tvmaze:2420248",
+        "title": "Los Angeles Chargers at San Francisco 49ers",
+        "season": 2022,
+        "episode": 11,
+        "released": "2022-11-13",
+        "overview": "The 49ers (4-4) come off a bye week to host the Chargers (5-3). Los Angeles has won four of its past five outings following a three-point win at Atlanta in Week 9. Austin Ekeler (LAC) has 10 touchdowns this year. San Francisco is 2-1 at home in 2022."
+      },
+      {
+        "id": "tvmaze:2424209",
+        "title": "Kansas City Chiefs at Los Angeles Chargers",
+        "season": 2022,
+        "episode": 12,
+        "released": "2022-11-20",
+        "overview": "The top AFC West teams collide as the first-place Chiefs (7-2) visit the Chargers (5-4). Kansas City rallied past Los Angeles 27-24 in Week 2. Chiefs rookie Jaylen Watson scored the go-ahead touchdown on a 99-yard interception return in that game."
+      },
+      {
+        "id": "tvmaze:2427976",
+        "title": "New England Patriots at Minnesota Vikings",
+        "season": 2022,
+        "episode": 13,
+        "released": "2022-11-24",
+        "overview": "The Patriots visit the Vikings for a Thanksgiving night affair. New England last played on the holiday in 2012, when it upended the New York Jets 49-19 in the Butt Fumble game. Minnesota is 6-2 on Thanksgiving after defeating Detroit 30-23 in 2017."
+      },
+      {
+        "id": "tvmaze:2427977",
+        "title": "Green Bay Packers at Philadelphia Eagles",
+        "season": 2022,
+        "episode": 14,
+        "released": "2022-11-27",
+        "overview": "Aaron Rodgers and the Packers visit the City of Brotherly Love to play the Eagles. Rodgers is 5-2 against Philadelphia following a 30-16 victory in 2020. The 38-year-old has thrown 15 touchdown passes against three interceptions versus the Eagles."
+      },
+      {
+        "id": "tvmaze:2432836",
+        "title": "Indianapolis Colts at Dallas Cowboys",
+        "season": 2022,
+        "episode": 15,
+        "released": "2022-12-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2435831",
+        "title": "Miami Dolphins @ Los Angeles Chargers",
+        "season": 2022,
+        "episode": 16,
+        "released": "2022-12-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2439518",
+        "title": "New York Giants @ Washington Commanders",
+        "season": 2022,
+        "episode": 17,
+        "released": "2022-12-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2443480",
+        "title": "Tampa Bay Buccaneers at Arizona Cardinals",
+        "season": 2022,
+        "episode": 18,
+        "released": "2022-12-25",
+        "overview": "The Buccaneers visit the Cardinals. Tampa Bay won the last meeting 30-27 in 2019. Arizona is 2-0 against the NFC South with victories over Carolina and New Orleans. Cardinals quarterback Kyler Murray accounted for four touchdowns in those games."
+      },
+      {
+        "id": "tvmaze:2448713",
+        "title": "Pittsburgh Steelers at Baltimore Ravens",
+        "season": 2022,
+        "episode": 19,
+        "released": "2023-01-01",
+        "overview": "The Ravens host the Steelers for an AFC North matchup. J.K. Dobbins returned to the lineup and rushed for 120 yards and a TD in Baltimore's 16-14 win over Pittsburgh on Dec. 11. That decision snapped the Steelers' four-game head-to-head win streak."
+      },
+      {
+        "id": "tvmaze:2456588",
+        "title": "Detroit Lions at Green Bay Packers",
+        "season": 2022,
+        "episode": 20,
+        "released": "2023-01-08",
+        "overview": "From Lambeau Field.A wild-card berth is at stake as the Packers (8-8) welcome the Lions (8-8) to Lambeau Field. Green Bay is in with a win. Detroit needs a victory, coupled with a Seattle loss to the Los Angeles Rams, to make the playoffs for the first time since 2016."
+      },
+      {
+        "id": "tvmaze:2545857",
+        "title": "Detroit Lions at Kansas City Chiefs",
+        "season": 2023,
+        "episode": 1,
+        "released": "2023-09-07",
+        "overview": "The season begins with NFL Kickoff 2023 on Thursday, Sept. 7 at GEHA Field at Arrowhead Stadium in Kansas City, Mo., as NFL MVP Patrick Mahomes and the Kansas City Chiefs, winners of two of the last four Super Bowls, host Jared Goff and the Detroit Lions, who won 8 of their final 10 games last season."
+      },
+      {
+        "id": "tvmaze:2545863",
+        "title": "Dallas Cowboys at New York Giants",
+        "season": 2023,
+        "episode": 2,
+        "released": "2023-09-10",
+        "overview": "In the season opener of Sunday Night Football on Sunday, Sept. 10, a pair of NFC East playoff teams meet as Daniel Jones and the New York Giants host Dak Prescott and the Dallas Cowboys. The matchup marks the series-high fifth time that the Cowboys and Giants have met in the opening NBC Sunday Night Football game."
+      },
+      {
+        "id": "tvmaze:2546209",
+        "title": "Miami Dolphins at New England Patriots",
+        "season": 2023,
+        "episode": 3,
+        "released": "2023-09-17",
+        "overview": "Tua Tagovailoa and the Miami Dolphins (1-0) host Mac Jones and the New England Patriots (0-1) in an AFC East divisional clash in the Week 2 of the NFL Schedule.Miami and New England meet for the 116th time (including the postseason) this weekend, with the Dolphins holding a 60-55 advantage. Last season, the clubs split the series, 1-1, with both teams winning at home."
+      },
+      {
+        "id": "tvmaze:2546210",
+        "title": "Pittsburgh Steelers at Las Vegas Raiders",
+        "season": 2023,
+        "episode": 4,
+        "released": "2023-09-24",
+        "overview": "Jimmy Garoppolo and the Las Vegas Raiders (1-1) host Kenny Pickett and the Pittsburgh Steelers (1-1) in a historic rivalry game in the Week 3 match up. Las Vegas and Pittsburgh meet for the 32nd time (including the postseason) on Sunday, with the Raiders holding a 17-14 advantage. From 1972-1976, these two teams met in the playoffs a record five consecutive seasons in what was one of the bitter rivalries of the 1970s, fueled in part by the \"Immaculate Reception,\" the miracle touchdown catch by Steelers wide receiver Franco Harris from Hall of Fame quarterback Terry Bradshaw during a 1972 AFC Divisional Playoff game."
+      },
+      {
+        "id": "tvmaze:2546211",
+        "title": "Kansas City Chiefs at New York Jets",
+        "season": 2023,
+        "episode": 5,
+        "released": "2023-10-01",
+        "overview": "From MetLife Stadium in East Rutherford, New Jersey.Are you ready for it? Two-time NFL MVP Patrick Mahomes, seven-time All-Pro tight end Travis Kelce, and the defending Super Bowl champion Kansas City Chiefs (2-1) visit 2022 NFL Defensive Rookie of the Year Sauce Gardner and the New York Jets (1-2) in the Week 4 game.Old AFL rivals, the Chiefs and Jets meet for the 41st time (including postseason) on Sunday, with Kansas City holding a 20-19-1 advantage. This will be the Jets' first game on Sunday Night Football since 2012."
+      },
+      {
+        "id": "tvmaze:2546212",
+        "title": "Dallas Cowboys at San Francisco 49ers",
+        "season": 2023,
+        "episode": 6,
+        "released": "2023-10-08",
+        "overview": "Dak Prescott and the Dallas Cowboys (3-1) visit Christian McCaffrey and the undefeated San Francisco 49ers (4-0) in a rematch of last year's NFC Divisional Playoff game in the Week 5 game.San Francisco has defeated Dallas in the last two postseasons, including a 19-12 win in last year's NFC Divisional Round – their NFL-record-tying ninth postseason matchup. In total, the two franchises have met in six NFC Championship Games – including \"The Catch\" game in January 1982. The rivalry reached its height in the 1990s when the teams played nine times overall, and met in three consecutive NFC Championship Games, following the 1992-94 seasons. The winner of each of those three matchups won the Super Bowl."
+      },
+      {
+        "id": "tvmaze:2546213",
+        "title": "New York Giants at Buffalo Bills",
+        "season": 2023,
+        "episode": 7,
+        "released": "2023-10-15",
+        "overview": "Josh Allen and the Buffalo Bills host the New York Giants in the Week 6 edition of NBC's Sunday Night Football.The Bills and Giants meet for the 15th time (including the playoffs) on Sunday, with the two teams currently tied 7-7 for the all-time series. Their lone postseason matchup, Super Bowl XXV, saw New York defeat Buffalo, 20-19, and win the franchise's second championship."
+      },
+      {
+        "id": "tvmaze:2546214",
+        "title": "Miami Dolphins at Philadelphia Eagles",
+        "season": 2023,
+        "episode": 8,
+        "released": "2023-10-22",
+        "overview": "Jalen Hurts and the Philadelphia Eagles (5-1) host Tua Tagovailoa and the Miami Dolphins (5-1) in a battle of division-leading teams in the Week 7 game.Sunday's game marks the first career NFL matchup between Hurts and Tagovailoa, who were teammates at the University of Alabama for two seasons (2017-2018). Both first-round draft picks, the quarterbacks were members of the Crimson Tide team that won the 2017 College Football Playoff National Championship and lost in the 2018 CFP title game.The Dolphins and Eagles, who are tied for the best record in the NFL this season, meet for the 16th time on Sunday, with Miami leading the all-time series, 9-6. Sunday's game will also be the first matchup of teams 5-1 or better on Sunday Night Football at this point in the season since 2015 (6-0 Green Bay vs. 6-0 Denver on Nov. 1)."
+      },
+      {
+        "id": "tvmaze:2546215",
+        "title": "Chicago Bears at L.A. Chargers",
+        "season": 2023,
+        "episode": 9,
+        "released": "2023-10-29",
+        "overview": "Justin Herbert and the Los Angeles Chargers host the Chicago Bears in the Week 8 edition from SoFi Stadium in Inglewood, Cal. The Bears and Chargers meet for the 14th time on Sunday, with Chicago leading the all-time series, 7-6."
+      },
+      {
+        "id": "tvmaze:2546216",
+        "title": "Buffalo Bills at Cincinnati Bengals",
+        "season": 2023,
+        "episode": 10,
+        "released": "2023-11-05",
+        "overview": "Joe Burrow and the Cincinnati Bengals (4-3) host Josh Allen and the Buffalo Bills (5-3) in a rematch of last season's AFC Divisional Playoff game in the Week 9 edition.The Bills lead the all-time series with the Bengals by a slim 17-16 margin. Sunday will also be a rematch of last season's AFC Divisional Playoff game, which Cincinnati won, 27-10, to advance to its second consecutive AFC Championship Game. This will only be the second career matchup between Allen and Burrow."
+      },
+      {
+        "id": "tvmaze:2546217",
+        "title": "N.Y. Jets at Las Vegas Raiders",
+        "season": 2023,
+        "episode": 11,
+        "released": "2023-11-12",
+        "overview": "In a crucial game for both teams, the New York Jets (4-4) visit the Las Vegas Raiders (4-5) in the Week 10 edition.The Jets-Raiders rivalry dates to the beginning of the American Football League in 1960. The Raiders lead the all-time series with a record of 26-20-2. The teams have met four times in the playoffs, with each winning twice. The Jets beat the Raiders in the 1968 AFL Championship Game, 27-23, en route to winning Super Bowl III, their lone championship. This will be the first matchup between the two teams since 2020."
+      },
+      {
+        "id": "tvmaze:2546218",
+        "title": "Minnesota Vikings at Denver Broncos",
+        "season": 2023,
+        "episode": 12,
+        "released": "2023-11-19",
+        "overview": "In a matchup of streaking teams, Russell Wilson and the Denver Broncos, aiming for their fourth consecutive win, host Joshua Dobbs and the Minnesota Vikings, who have won five in a row, in the Week 11 edition. Sunday's matchup sees the Vikings and the Broncos meet for a 16th time, with Minnesota holding a slight 8-7 lead in the all-time series."
+      },
+      {
+        "id": "tvmaze:2546219",
+        "title": "San Francisco 49ers at Seattle Seahawks",
+        "season": 2023,
+        "episode": 13,
+        "released": "2023-11-23",
+        "overview": "The 49ers and Seahawks engage for the first time since an NFC wild-card meeting last season. San Francisco has won three straight meetings after ousting Seattle 41-23 behind superstar Christian McCaffrey's 119 rushing yards and receiving touchdown."
+      },
+      {
+        "id": "tvmaze:2546220",
+        "title": "Baltimore Ravens at L.A. Chargers",
+        "season": 2023,
+        "episode": 14,
+        "released": "2023-11-26",
+        "overview": "Lamar Jackson and the well-rested Ravens (8-3) visit the reeling Chargers (4-6). Jackson tossed two touchdown passes in a 34-20 triumph over rival Cincinnati on Thursday Night Football. Los Angeles dropped its last two, each by a field goal."
+      },
+      {
+        "id": "tvmaze:2546221",
+        "title": "Kansas City Chiefs at Green Bay Packers",
+        "season": 2023,
+        "episode": 15,
+        "released": "2023-12-03",
+        "overview": "Two-time NFL MVP Patrick Mahomes makes his first visit to Lambeau Field when the Kansas City Chiefs (8-3) visit Jordan Love and the Green Bay Packers (5-6) in the Week 13 edition. Mahomes – the two-time Super Bowl winner who won both the league MVP and Super Bowl MVP last season – makes his first visit to the iconic home of the Packers, which opened as City Stadium in 1957 and was re-named Lambeau Field in 1965 after former head coach Curly Lambeau. Mahomes is 23-4 (.852) in starts after Dec. 1 in his career, while the Packers have won 10 of their past 11 regular season home games after Dec. 1.Sunday's matchup sees the Chiefs and Packers meet for a 15th time, with Kansas City holding an 8-5-1 advantage in the all-time series. Sunday will also be a rematch of Super Bowl I, which the Vince Lombardi-coached Packers won, 35-10, in 1967."
+      },
+      {
+        "id": "tvmaze:2546222",
+        "title": "Philadelphia Eagles at Dallas Cowboys",
+        "season": 2023,
+        "episode": 16,
+        "released": "2023-12-10",
+        "overview": "In a historic NFC East rivalry game, Dak Prescott and the Dallas Cowboys (9-3) host Jalen Hurts and the defending NFC champion Philadelphia Eagles, who are a league-best 10-2, in the Week 14 edition. Sunday's meeting is the first regular-season game between the Eagles and Cowboys at least 10 games into the season with each team having a winning percentage of .750 or better. Sunday's game will also help determine the NFC East title. If the Eagles win, they will remain in first place; if the Cowboys win, they will move into first place via tiebreaker (division record)."
+      },
+      {
+        "id": "tvmaze:2546223",
+        "title": "Baltimore Ravens at Jacksonville Jaguars",
+        "season": 2023,
+        "episode": 17,
+        "released": "2023-12-17",
+        "overview": "2019 NFL MVP Lamar Jackson and the Baltimore Ravens (10-3), the current top seed in the AFC, visit Trevor Lawrence and the AFC South-leading Jacksonville Jaguars (8-5) in the Week 15 edition. Sunday marks the 24th regular season meeting between the Ravens and Jaguars, with Jacksonville holding a 13-10 advantage in the all-time series."
+      },
+      {
+        "id": "tvmaze:2546224",
+        "title": "Cincinnati Bengals at Pittsburgh Steelers",
+        "season": 2023,
+        "episode": 18,
+        "released": "2023-12-23",
+        "overview": "The Steelers host the Bengals. Pittsburgh has dropped all three games on its schedule since beating Cincinnati 16-10 in Week 12, while the Bengals have won three straight behind quarterback Jake Browning. T.J. Watt (PIT) leads the NFL with 16 sacks."
+      },
+      {
+        "id": "tvmaze:2546225",
+        "title": "Green Bay Packers at Minnesota Vikings",
+        "season": 2023,
+        "episode": 19,
+        "released": "2023-12-31",
+        "overview": "Jordan Love and the Green Bay Packers battle Justin Jefferson and the Minnesota Vikings to keep their playoff hopes alive in the Week 17 edition live from U.S. Bank Stadium in Minneapolis, Minn.Sunday marks the 127th regular-season meeting between the Packers and Vikings, with Green Bay holding a 65-58-3 advantage in the all-time series. This will be the ninth Packers-Vikings game on SNF, making it the fifth-most-played matchup since the show debuted in the 2006 NFL season."
+      },
+      {
+        "id": "tvmaze:2727278",
+        "title": "Buffalo Bills at Miami Dolphins",
+        "season": 2023,
+        "episode": 20,
+        "released": "2024-01-07",
+        "overview": "The Dolphins host the Bills for a regular season-ending AFC East showdown. Buffalo has won three straight meetings and 10 of the last 11 following a 48-20 triumph in Week 4. Josh Allen threw four touchdown passes, three to Stefon Diggs, in that game."
+      },
+      {
+        "id": "tvmaze:2806458",
+        "title": "Baltimore Ravens at Kansas City Chiefs",
+        "season": 2024,
+        "episode": 1,
+        "released": "2024-09-05",
+        "overview": "Two-time NFL MVP Patrick Mahomes and the defending Super Bowl champion Kansas City Chiefs raise their Super Bowl LVIII banner before hosting 2023 NFL MVP Lamar Jackson and the Baltimore Ravens at GEHA Field at Arrowhead Stadium in Kansas City, Mo."
+      },
+      {
+        "id": "tvmaze:2879138",
+        "title": "L.A. Rams at Detroit Lions",
+        "season": 2024,
+        "episode": 2,
+        "released": "2024-09-08",
+        "overview": "2023 NFL Wild Card rematch as Jared Goff and the Detroit Lions host Matthew Stafford and the Los Angeles Rams at Ford Field in Detroit, Mich. In January, Detroit defeated Los Angeles, 24-23, to earn its first playoff win since 1991."
+      },
+      {
+        "id": "tvmaze:2879139",
+        "title": "Chicago Bears at Houston Texans",
+        "season": 2024,
+        "episode": 3,
+        "released": "2024-09-15",
+        "overview": "From NRG Stadium in Houston, TX.2023 AP Offensive Rookie of the Year C.J. Stroud and the Houston Texans (1-0) host 2024 No. 1 overall pick Caleb Williams and the Chicago Bears (1-0)."
+      },
+      {
+        "id": "tvmaze:2879140",
+        "title": "Kansas City Chiefs at Atlanta Falcons",
+        "season": 2024,
+        "episode": 4,
+        "released": "2024-09-22",
+        "overview": "From Mercedes Benz Stadium in Atlanta, GA.Three-time Super Bowl MVP Patrick Mahomes,seven-time All-Pro tight end Travis Kelce,and the Kansas City Chiefs (2-0) visit four-time Pro Bowl quarterback Kirk Cousins and the Atlanta Falcons (1-1)."
+      },
+      {
+        "id": "tvmaze:2879141",
+        "title": "Buffalo Bills at Baltimore Ravens",
+        "season": 2024,
+        "episode": 5,
+        "released": "2024-09-29",
+        "overview": "From M&amp;T Bank Stadium in Baltimore, MD."
+      },
+      {
+        "id": "tvmaze:2879329",
+        "title": "Dallas Cowboys at Pittsburgh Steelers",
+        "season": 2024,
+        "episode": 6,
+        "released": "2024-10-06",
+        "overview": "The Steelers (3-1) host the Cowboys (2-2) on Sunday Night Football. Pittsburgh lost at Indianapolis 27-24 in Week 4. Dallas snapped a two-game slide with a 20-15 victory over the New York Giants behind a pair of touchdown passes by Dak Prescott."
+      },
+      {
+        "id": "tvmaze:2879330",
+        "title": "Cincinnati Bengals at New York Giants",
+        "season": 2024,
+        "episode": 7,
+        "released": "2024-10-13",
+        "overview": "Joe Burrow and the Cincinnati Bengals visit Daniel Jones and the New York Giants in the Week 6 game from MetLife Stadium in East Rutherford, N.J. Cincinnati and New York meet for the 12th time on Sunday, with the Bengals holding a 6-5 advantage in the all-time series. The Giants have won the two most recent matchups in 2020 and 2016."
+      },
+      {
+        "id": "tvmaze:2879331",
+        "title": "New York Jets at Pittsburgh Steelers",
+        "season": 2024,
+        "episode": 8,
+        "released": "2024-10-20",
+        "overview": "New York jets to Pittsburgh for a Sunday Night Football showdown with the Steelers. The Jets dropped their first game under interim coach Jeff Ulbrich, 23-20 to the Bills in Week 6. Pittsburgh won 32-13 in Las Vegas to halt a two-game slide."
+      },
+      {
+        "id": "tvmaze:2879333",
+        "title": "Dallas Cowboys at San Francisco 49ers",
+        "season": 2024,
+        "episode": 9,
+        "released": "2024-10-27",
+        "overview": "The Cowboys (3-3) and 49ers (3-4) limp into a prime-time match. Dallas took Week 7 off after getting demolished by Detroit 47-9. San Francisco is without wide receiver Brandon Aiyuk who tore his ACL and MCL in its Super Bowl rematch with Kansas City."
+      },
+      {
+        "id": "tvmaze:2879334",
+        "title": "Indianapolis Colts at Minnesota Vikings",
+        "season": 2024,
+        "episode": 10,
+        "released": "2024-11-03",
+        "overview": "The Vikings try to get back to their winning ways when they host the Colts. Joe Flacco starts at quarterback for Indianapolis after Anthony Richardson was benched in Week 8. Minnesota has lost two in a row since heading into its bye with a 5-0 mark."
+      },
+      {
+        "id": "tvmaze:2879335",
+        "title": "Detroit Lions at Houston Texans",
+        "season": 2024,
+        "episode": 11,
+        "released": "2024-11-10",
+        "overview": "Houston hosts Detroit for a potential Super Bowl 59 preview. In Week 9, the Lions went outside for the first time this season, breezing past the Packers 24-14 for their sixth consecutive victory. The Texans defend a 4-0 record at NRG Stadium in 2024."
+      },
+      {
+        "id": "tvmaze:2879336",
+        "title": "Cincinnati Bengals at Los Angeles Chargers",
+        "season": 2024,
+        "episode": 12,
+        "released": "2024-11-17",
+        "overview": "The Chargers host the Bengals in a matchup of AFC playoff hopefuls. Los Angeles has won three in a row following a 27-17 triumph over Tennessee. Cincinnati tries to head into its bye on a winning note after a heartbreaking 35-34 loss at Baltimore."
+      },
+      {
+        "id": "tvmaze:2879337",
+        "title": "Philadelphia Eagles at Los Angeles Rams",
+        "season": 2024,
+        "episode": 13,
+        "released": "2024-11-24",
+        "overview": "The Eagles soar into a Sunday-night date with the Rams. Philadelphia is 6-0 since its bye after beating Washington to stretch its NFC East lead Nov. 14. Los Angeles is 4-1 since its week off, and tries to avenge a 23-14 home loss to Philly in 2023."
+      },
+      {
+        "id": "tvmaze:2879338",
+        "title": "Miami Dolphins at Green Bay Packers",
+        "season": 2024,
+        "episode": 14,
+        "released": "2024-11-28",
+        "overview": "Live from Lambeau Field in Green Bay, Wisconsin. The Dolphins hit the road for a Thanksgiving game against the Packers in primetime. Green Bay is 15-20-2 on the holiday after defeating Detroit 29-22 in 2023. Miami is 5-2 on Thanksgiving, all on the road, after a 20-19 loss to Dallas in 2011."
+      },
+      {
+        "id": "tvmaze:2879339",
+        "title": "San Francisco 49ers at Buffalo Bills",
+        "season": 2024,
+        "episode": 15,
+        "released": "2024-12-01",
+        "overview": "The Bills come off a bye week to battle the 49ers. San Francisco is scrambling after a second straight setback in Week 12 dropped it to 5-6 on the season. Buffalo handed Kansas City its first loss of 2024 for a sixth consecutive victory in Week 11."
+      },
+      {
+        "id": "tvmaze:2879340",
+        "title": "Los Angeles Chargers at Kansas City Chiefs",
+        "season": 2024,
+        "episode": 16,
+        "released": "2024-12-08",
+        "overview": "The Chiefs (11-1) try to clinch the AFC West as they host the Chargers (8-4) on Sunday Night Football. Kansas City scored a 17-10 victory Sept. 29 for its sixth in a row against Los Angeles. The Chargers have rattled off a 6-2 record since that loss."
+      },
+      {
+        "id": "tvmaze:2879341",
+        "title": "Green Bay Packers at Seattle Seahawks",
+        "season": 2024,
+        "episode": 17,
+        "released": "2024-12-15",
+        "overview": "Jordan Love and the Green Bay Packers (9-4) visit 2022 NFL Comeback Player of the Year Geno Smith and the NFC West-leading Seattle Seahawks from Lumen Field in Seattle, Wash."
+      },
+      {
+        "id": "tvmaze:2879342",
+        "title": "Houston Texans at Kansas City Chiefs",
+        "season": 2024,
+        "episode": 18,
+        "released": "2024-12-21",
+        "overview": "NFL Holiday Special featuring a matchup of 2024 division championsas Patrick Mahomes and the AFC leading-Kansas City Chiefs (13-1) host C.J. Stroud and the AFC South-leading Houston Texans (9-5) from GEHA Field at Arrowhead Stadium in Kansas City, Mo."
+      },
+      {
+        "id": "tvmaze:2879343",
+        "title": "Tampa Bay Buccaneers at Dallas Cowboys",
+        "season": 2024,
+        "episode": 19,
+        "released": "2024-12-22",
+        "overview": "Baker Mayfield and the NFC South-leading Tampa Bay Buccaneers (8-6) visit Micah Parsons and the Dallas Cowboys (6-8) at AT&amp;T Stadium in Arlington, Texas, on this week's edition."
+      },
+      {
+        "id": "tvmaze:2879344",
+        "title": "Atlanta Falcons at Washington Commanders",
+        "season": 2024,
+        "episode": 20,
+        "released": "2024-12-29",
+        "overview": "The Commanders seek a fourth win in a row over the Falcons. Jayden Daniels threw five TD passes in Washington's comeback win over Philadelphia on Dec. 22. Atlanta turned to rookie Michael Penix Jr. under center and won a second straight the same day."
+      },
+      {
+        "id": "tvmaze:2879345",
+        "title": "Minnesota Vikings at Detroit Lions",
+        "season": 2024,
+        "episode": 21,
+        "released": "2025-01-05",
+        "overview": "Live from Ford Field in Detroit, Michigan.The Lions and Vikings wrap up the NFL's regular season with a battle for the top seed in the NFC on Sunday Night Football. Sam Darnold threw for 377 yards and three TDs to help Minnesota beat Green Bay and stay alive in the NFC North title fight."
+      },
+      {
+        "id": "tvmaze:3241340",
+        "title": "Dallas Cowboys at Philadelphia Eagles",
+        "season": 2025,
+        "episode": 1,
+        "released": "2025-09-04",
+        "overview": "NFL Kickoff live from Lincoln Financial Field in Philadelphia, Pennsylvania.Dak Prescott and the Dallas Cowboys visit Super Bowl MVP Jalen Hurts, 2024 NFL rushing leader Saquon Barkley and the Super Bowl-champion Philadelphia Eagles. The opener marks the record 17th matchup between the clubs in NBC's SNF package, and the first time Dallas and Philadelphia will meet in Week 1 since 2000."
+      },
+      {
+        "id": "tvmaze:3241344",
+        "title": "Baltimore Ravens at Buffalo Bills",
+        "season": 2025,
+        "episode": 2,
+        "released": "2025-09-07",
+        "overview": "Live from Highmark Stadium in Orchard Park, New York. SNF featuring the past two NFL MVPs as Lamar Jackson ('23 MVP) and the AFC North champion Baltimore Ravens visit Josh Allen ('24 MVP) and the AFC East champion Buffalo Bills in a rematch of last season's AFC Divisional Playoff."
+      },
+      {
+        "id": "tvmaze:3241356",
+        "title": "Atlanta Falcons at Minnesota Vikings",
+        "season": 2025,
+        "episode": 3,
+        "released": "2025-09-14",
+        "overview": "Live from U.S. Bank Stadium in Minneapolis, Minnesota.2024 NFL Draft first round quarterbacks square off when Michael Penix Jr. and the Atlanta Falcons visit J.J. McCarthy and the Minnesota Vikings. Atlanta and Minnesota meet for the 35th time, including the postseason, on Sunday, with the Vikings holding a 22-12 advantage. McCarthy and Penix Jr. faced off once in college, when McCarthy's No. 1-ranked Michigan Wolverines defeated Penix Jr.'s No. 2 Washington Huskies, 34-13, in the 2024 College Football Playoff National Championship Game. McCarthy threw for 140 yards and added 31 yards on the ground to lead Michigan to its first national title since 1997, while Penix Jr. passed for 255 yards and a touchdown."
+      },
+      {
+        "id": "tvmaze:3241365",
+        "title": "Kansas City Chiefs at New York Giants",
+        "season": 2025,
+        "episode": 4,
+        "released": "2025-09-21",
+        "overview": "Live from MetLife Stadium in East Rutherford, New Jersey."
+      },
+      {
+        "id": "tvmaze:3241370",
+        "title": "Green Bay Packers at Dallas Cowboys",
+        "season": 2025,
+        "episode": 5,
+        "released": "2025-09-28",
+        "overview": "Live from AT&amp;T Stadium in Arlington, Texas. Exactly one month after he was traded by the Cowboys, All-Pro linebacker Micah Parsons returns to Dallas with new teammate Jordan Love as the Green Bay Packers (2-1) visit Dak Prescott and the Cowboys (1-2) in a historic rivalry game in the Week 4. Parsons, the No. 12 overall pick in the 2021 NFL Draft, spent four seasons with the Cowboys, earning four Pro Bowl and two AP All-Pro selections. On Aug. 28, Dallas traded him to Green Bay, where he has 1.5 sacks this season.The Cowboys (62) and Packers (48) have appeared in the most NBC SNF games since the package began in 2006, and have met the second-most times in NFL postseason history (nine). Sunday night's matchup also marks the 24th game at AT&amp;T Stadium in the NBC SNF package, breaking a first-place tie with the Packers' Lambeau Field and the Steelers' Acrisure Stadium."
+      },
+      {
+        "id": "tvmaze:3241371",
+        "title": "New England Patriots at Buffalo Bills",
+        "season": 2025,
+        "episode": 6,
+        "released": "2025-10-05",
+        "overview": "Reigning NFL MVP Josh Allen and the undefeated Buffalo Bills (4-0) host Drake Maye and the New England Patriots (2-2) in an AFC East showdown in the Week 5 from Highmark Stadium in Orchard Park, N.Y. New England and Buffalo, who have combined to win every AFC East title since 2009, meet for the 132nd time (including postseason) on Sunday, with the Patriots holding a 79-51-1 advantage in the series. Since the start of the 2020 season, Buffalo has won eight of the last 11 meetings. Allen is 10-2 on Sunday Night Football in his career, while this Sunday will be Maye's SNF debut."
+      },
+      {
+        "id": "tvmaze:3241372",
+        "title": "Detroit Lions at Kansas City Chiefs",
+        "season": 2025,
+        "episode": 7,
+        "released": "2025-10-12",
+        "overview": "Three-time Super Bowl MVP Patrick Mahomes and the Kansas City Chiefs host Jared Goff and the first-place Detroit Lions (4-1) in the Week 6. Live from GEHA Field at Arrowhead Stadium in Kansas City, Mo. Detroit and Kansas City meet for the 16th time on Sunday, with the Chiefs holding a 9-6 advantage in the series. Their last matchup was the 2023 NFL Kickoff Game on NBC and Peacock, which the Lions won, 21-20. Montgomery scored the go-ahead game-winning touchdown in the fourth quarter and the Lions' defense stopped a potential game-winning drive by the Chiefs in the closing minutes."
+      },
+      {
+        "id": "tvmaze:3241373",
+        "title": "Atlanta Falcons at San Francisco 49ers",
+        "season": 2025,
+        "episode": 8,
+        "released": "2025-10-19",
+        "overview": "2023 NFL Offensive Player of the Year Christian McCaffrey and the San Francisco 49ers (4-2) host NFC rushing leader Bijan Robinson and the Atlanta Falcons (3-2) in the Week 7 edition of NBC's Sunday Night Football at Levi's Stadium in Santa Clara, Calif., the site of Super Bowl LX on Feb. 8. Atlanta's Robinson, with 822 scrimmage yards, and San Francisco'sMcCaffrey, with 780, lead the NFL in scrimmage yards entering Week 7.Atlanta and San Francisco, who both played in the NFC West from 1967-2001, meet for the 83rd time on Sunday, with the 49ers holding a 48-33-1 advantage in the series. Their last matchup was Oct. 16, 2022, which the Falcons won, 28-14."
+      },
+      {
+        "id": "tvmaze:3241374",
+        "title": "Green Bay Packers at Pittsburgh Steelers",
+        "season": 2025,
+        "episode": 9,
+        "released": "2025-10-26",
+        "overview": "Super Bowl XLV champion and MVP (with Green Bay) Aaron Rodgers and the AFC North-leading Pittsburgh Steelers (4-2) host Jordan Love and the NFC North-leading Green Bay Packers (4-1-1) in a rematch of Super Bowl XLV in the Week 8. Rodgers, who spent 18 seasons in Green Bay, holds the franchise record for passing touchdowns (475) and was named NFL MVP four times while with the Packers. Sunday night's matchup will mark the first time Rodgers faces his former team. With a win, Rodgers would become just the fifth quarterback in NFL history to beat all 32 teams."
+      },
+      {
+        "id": "tvmaze:3241375",
+        "title": "Seattle Seahawks at Washington Commanders",
+        "season": 2025,
+        "episode": 10,
+        "released": "2025-11-02",
+        "overview": "NFL Offensive Rookie of the Year Jayden Daniels and the Washington Commanders host Sam Darnold and the first-place Seattle Seahawks in the Week 9. Seattle and Washington meet for the 24th time on Sunday, including the postseason, with the Commanders holding a 13-10 advantage in the series. This will be the first-ever matchup between Darnold and Daniels."
+      },
+      {
+        "id": "tvmaze:3241376",
+        "title": "Pittsburgh Steelers at Los Angeles Chargers",
+        "season": 2025,
+        "episode": 11,
+        "released": "2025-11-09",
+        "overview": "Four-time NFL MVP Aaron Rodgers and the AFC North-leading Pittsburgh Steelers (5-3) visit Justin Herbert and the Los Angeles Chargers (6-3) in the Week 10 edition. Live from SoFi Stadium in Inglewood, Calif.Sunday marks Rodgers' 42nd game on Sunday Night Football, the most among active players. With two touchdown passes, Rodgers will surpass Pro Football Hall of Famer Peyton Manning for the third-most games with multiple touchdown passes in NFL history, as well as extend his record for most touchdown passes in SNF history (89).The Steelers and Chargers meet for the 37th time on Sunday, including the postseason, with Pittsburgh holding a 25-11 advantage in the series. This will be the first-ever matchup between Rodgers and Herbert."
+      },
+      {
+        "id": "tvmaze:3241377",
+        "title": "Detroit Lions at Philadelphia Eagles",
+        "season": 2025,
+        "episode": 12,
+        "released": "2025-11-16",
+        "overview": "Super Bowl LIX MVP Jalen Hurts and the defending Super Bowl champion Philadelphia Eagles (7-2) are atop the NFC East and host Jared Goff and the NFC North-leading Detroit Lions (6-3) in a Week 11 matchup of first-place NFC clubs. SNF return to Philadelphia after opening the season with the NFL Kickoff Game when the Eagles defeated the Dallas Cowboys, 24-20. In this milestone 20th season of NBC Sunday Night Football, Lions-Eagles is the 20th game in the SNF package to be played at Lincoln Financial Field (fourth-most among all NFL stadiums). The two winningest NFC teams since 2022, the Eagles (46 regular-season wins) and Detroit (42) are the only two NFC teams with at least 40 regular-season wins over the past four seasons.The Lions and Eagles meet for the 37th time on Sunday, including the postseason, with Philadelphia leading the series, 19-16-2. They last played to open the 2022 regular season at Ford Field, where Detroit fell to Philadelphia, 38-35."
+      },
+      {
+        "id": "tvmaze:3241378",
+        "title": "Tampa Bay Buccaneers at Los Angeles Rams",
+        "season": 2025,
+        "episode": 13,
+        "released": "2025-11-23",
+        "overview": "Live from SoFi Stadium in Inglewood, California. NFL passing touchdowns leader Matthew Stafford and the Los Angeles Rams (8-2) host two-time Pro Bowler Baker Mayfield and the Tampa Bay Buccaneers (6-4) in a clash of first-place NFC teams.The Buccaneers and Rams meet for the 30th time on Sunday, including the postseason, with Los Angeles holding a 19-10 advantage in the series. In 2022, Mayfield filled in for an injured Stafford, starting four games for the Rams. This will be the first-ever matchup between Stafford and Mayfield, who were both drafted No. 1 overall in 2009 and 2018, respectively."
+      },
+      {
+        "id": "tvmaze:3241379",
+        "title": "Cincinnati Bengals at Baltimore Ravens",
+        "season": 2025,
+        "episode": 14,
+        "released": "2025-11-27",
+        "overview": "NFLmatchups as part of the fourth annual \"John Madden Thanksgiving Celebration\" kick off this Thursday as Lamar Jackson and the AFC North-leading Baltimore Ravens host Joe Burrow and the Cincinnati Bengals at M&amp;T Bank Stadium in Baltimore, Md. The Ravens aim to win their sixth consecutive game this Thursday night, as they have moved into first place in the AFC North, while quarterback Joe Burrow returns to start for the Bengals for the first time since a toe injury sidelined him after Week 2. Burrow will look to connect with wide receiver Ja'Marr Chase, who leads the AFC in catches (79) and receiving yards (861).Ravens running back Derrick Henry, in his second season with the team, has a rushing touchdown in 84 career games, including playoffs, surpassing Pro Football Hall of Famer John Riggins (83 games) for the fourth-most games with a rushing touchdown, including postseason, in NFL history. Only Pro Football Hall of Famers Emmitt Smith (130 games), Marcus Allen (100) and LaDainian Tomlinson (96), as well as Adrian Peterson (89) have more.Thursday's matchup will be the 60th overall meeting between the teams, including playoffs, with Baltimore holding a 32-27 advantage. Baltimore (6-5) has won the last four regular season division contests in 2023 and 2024 while Cincinnati (3-8) won the teams' matchup in the 2022 AFC Wild Card game. The Bengals and Ravens have combined to win the past four AFC North titles."
+      },
+      {
+        "id": "tvmaze:3241380",
+        "title": "Denver Broncos at Washington Commanders",
+        "season": 2025,
+        "episode": 15,
+        "released": "2025-11-30",
+        "overview": "Live from Northwest Stadium in Landover, Maryland.Bo Nix and the Denver Broncos (9-2) are off to their best start since 2015. With eight straight wins, the team boasts the second-longest active winning streak in the NFL behind only the New England Patriots (9). The Broncos enter Week 13 with a two-game lead over the Chargers for first place in the AFC West and look to win their first division title since the 2015 season.The Washington Commanders enter Week 13 with a 3-8 record, having lost their last six consecutive games. Injuries have been an obstacle for the team this season, particularly at quarterback. Jayden Daniels has appeared in just six games, missing Weeks 3-4 with a left knee injury, Week 8 with a hamstring issue, and Weeks 10-11 after dislocating his left elbow."
+      },
+      {
+        "id": "tvmaze:3241381",
+        "title": "Houston Texans at Kansas City Chiefs",
+        "season": 2025,
+        "episode": 16,
+        "released": "2025-12-07",
+        "overview": "Three-time Super Bowl MVP Patrick Mahomes and the Kansas City Chiefs (6-6) host 2023 NFL Offensive Rookie of the Year C.J. Stroud and the Houston Texans (7-5) in the Week 14 edition. Both teams are shy of the top seven spots in the AFC and need wins to stay in postseason contention. Live from GEHA Field at Arrowhead Stadium in Kansas City, Mo. The Texans and Chiefs meet for the 17th time on Sunday, including the postseason, with Kansas City holding an 11-5 advantage in the series. Houston and Kansas City met twice last season, with their most recent matchup in the AFC Divisional Round, which the Chiefs won, 23-14, en route to the team's fifth Super Bowl appearance in six seasons. Preceding that was a 27-19 Chiefs win."
+      },
+      {
+        "id": "tvmaze:3241382",
+        "title": "Minnesota Vikings at Dallas Cowboys",
+        "season": 2025,
+        "episode": 17,
+        "released": "2025-12-14",
+        "overview": "Dak Prescott and the Dallas Cowboys (6-6-1) host J.J. McCarthy and the Minnesota Vikings (5-8) in the Week 15 edition. The Cowboys, in second place in the NFC East, aim for a win to improve their postseason chances, while the Vikings can't remain in playoff contention without a Week 15 victory. Live from AT&amp;T Stadium in Arlington, Texas.The Cowboys have appeared in the most games (63) in the 20-season history of the NBC SNF package. Sunday night's matchup also marks the 25th game at AT&amp;T Stadium in the NBC SNF package (since 2006), breaking a first-place tie with the Steelers' Acrisure Stadium (24). Minnesota and Dallas meet for the 35th time (including postseason) on Sunday night, with the Cowboys holding a 19-15 advantage in the all-time series. Their last meeting came in 2022, which the Cowboys won, 40-3."
+      },
+      {
+        "id": "tvmaze:3241383",
+        "title": "TBD at TBD",
+        "season": 2025,
+        "episode": 18,
+        "released": "2025-12-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3241389",
+        "title": "Chicago Bears at San Francisco 49ers",
+        "season": 2025,
+        "episode": 19,
+        "released": "2025-12-28",
+        "overview": ""
+      }
+    ]
+  }
+}

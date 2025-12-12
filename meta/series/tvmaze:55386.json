@@ -1,0 +1,708 @@
+{
+  "meta": {
+    "id": "tvmaze:55386",
+    "type": "series",
+    "name": "Krapopolis",
+    "description": "Set in mythical ancient Greece, Krapopolis is centered on a flawed family of humans, gods and monsters that tries to run one of the world's first cities without killing each other.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/589/1474471.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/589/1474471.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "TBA",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3441552",
+        "title": "Nike (The Goddness)",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-07",
+        "overview": "Tyrannis and his siblings enter a contest; Shlub and Deliria go to a play; she hates it."
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2593882",
+        "title": "All Hail The Goddess Of Likeability",
+        "season": 1,
+        "episode": 1,
+        "released": "2023-09-24",
+        "overview": "Asskill threatens to attack Krapopolis, Tyrannis tries to use diplomacy to stop him. Deliria decides to build a temple to herself. Stupendous and Hippocampus give a trojan horse to the Asskillians."
+      },
+      {
+        "id": "tvmaze:2594030",
+        "title": "The Stuperbowl",
+        "season": 1,
+        "episode": 2,
+        "released": "2023-09-24",
+        "overview": "Tyrannis hosts other kings for a series of games in Krapopolis where Stupendous shines. Deliria makes the games about herself. Hippocampus and Schlub track and catch the cities first serial killer."
+      },
+      {
+        "id": "tvmaze:2594032",
+        "title": "Wife Swamp",
+        "season": 1,
+        "episode": 3,
+        "released": "2023-10-01",
+        "overview": "Tyrannis returns from a quest with a girlfriend, but it was all a setup from Deliria to make him think he's a hero. Hippocampus, Stupendous, and Schlub fight and then befriend the species of wolves."
+      },
+      {
+        "id": "tvmaze:2647820",
+        "title": "Prometheus",
+        "season": 1,
+        "episode": 4,
+        "released": "2023-10-08",
+        "overview": "Tyrannis and Hippocampus release Prometheus - the only god they like - from his eternity on the rock, then learn he's friends with Deliria; Shlub takes Stupendous to the cyclops' island to help find her father."
+      },
+      {
+        "id": "tvmaze:2652585",
+        "title": "12 Angry Goat Herders",
+        "season": 1,
+        "episode": 5,
+        "released": "2023-10-22",
+        "overview": "Tyrannis creates a court system in order to absolve Shlub of a goat eating crime he didn't commit. Hippocampus creates a sprinkler system for Killass in order to get back at Deliria."
+      },
+      {
+        "id": "tvmaze:2652586",
+        "title": "Woods-stock",
+        "season": 1,
+        "episode": 6,
+        "released": "2023-10-29",
+        "overview": "Tyrannis becomes the life of a party in the woods, summoning the god Dionysus. Deliria and Shlub explore their open relationship at the Parthenon."
+      },
+      {
+        "id": "tvmaze:2652587",
+        "title": "Please Demeter",
+        "season": 1,
+        "episode": 7,
+        "released": "2023-11-05",
+        "overview": "Tyrannis begins dating the goddess Demeter and is given an option at immortality that Deliria squashes. Stupendous and Hippocampus go to Hades to retrieve Stupendous' shield from a fallen foe."
+      },
+      {
+        "id": "tvmaze:2653330",
+        "title": "Big Man on Hippocampus",
+        "season": 1,
+        "episode": 8,
+        "released": "2023-11-12",
+        "overview": "When Hippocampus is ostracized for his unconventional appearance, Tyrannis takes him to a science convention where he is finally appreciated for his intellect. When her friend is turned to stone, Stupendous enlists the help of Deliria who is determined to turn him back and prove she is better than Athena."
+      },
+      {
+        "id": "tvmaze:2653331",
+        "title": "Dungeons and Deliria",
+        "season": 1,
+        "episode": 9,
+        "released": "2023-11-19",
+        "overview": "Tyrannis struggles with a ruling dilemma when a citizen is ejected from a bar for wearing newly invented pants. Meanwhile, Deliria wreaks havoc on Stupendous' secret quest, only to end up in trouble with a titan. While hunting a monster, Hippocampus ends up sparring with a tree nymph."
+      },
+      {
+        "id": "tvmaze:2664107",
+        "title": "Ty's Tail Tale",
+        "season": 1,
+        "episode": 10,
+        "released": "2023-12-03",
+        "overview": "When Tyrannis is possessed by his deceased grandfather who rules with fear and a large scorpion tail, Shlub must fight to bring back the old Tyrannis. After Hippocampus and Stupendous bring a pregnant pegasus home, they release a range of mythical monsters to control the pegasus babies that terrorize the city."
+      },
+      {
+        "id": "tvmaze:2680424",
+        "title": "Tyrdra",
+        "season": 1,
+        "episode": 11,
+        "released": "2023-12-17",
+        "overview": "Tyrannis invites a suicidal Hydra to come live with him and his family. Everyone grows to love her, but Tyrannis comes to regret his decision when she accidentally embroils Krapopolis in chaos."
+      },
+      {
+        "id": "tvmaze:2691992",
+        "title": "Buy Low, Sell Ty",
+        "season": 1,
+        "episode": 12,
+        "released": "2024-01-07",
+        "overview": "With Tyrannis' support, Hippocampus overcomes his imposter syndrome and wins first prize for his invention at Hephaestus-Con, only to learn that Hephaestus selected him for his looks, not his intellect. Rebranding her image into the 'goddess of no hangovers', Deliria unintentionally starts a city-wide drunken riot while Shlub watches, afraid to confront her."
+      },
+      {
+        "id": "tvmaze:2694160",
+        "title": "Contagion",
+        "season": 1,
+        "episode": 13,
+        "released": "2024-02-18",
+        "overview": "Tyrannis and Deliria go up north to find the dragon that is causing a plague; but when Deliria is infected with it, Ty must save his kingdom and his mom. Meanwhile, Hippo works on a cure to save the infected Krapopolis residents."
+      },
+      {
+        "id": "tvmaze:2765994",
+        "title": "A Krapwork Orange",
+        "season": 1,
+        "episode": 14,
+        "released": "2024-02-25",
+        "overview": "Hippocampus and Stupendous train an unruly group of town-children and accidentally create an apex predator. Tyrannis mistakenly attends an Anti-Tyrannis rally."
+      },
+      {
+        "id": "tvmaze:2769554",
+        "title": "Death Takes a Holiday",
+        "season": 1,
+        "episode": 15,
+        "released": "2024-03-03",
+        "overview": "Deliria and Tyrannis attend an exclusive island retreat hosted by the goddess Hestia."
+      },
+      {
+        "id": "tvmaze:2774815",
+        "title": "Eclipse",
+        "season": 1,
+        "episode": 16,
+        "released": "2024-03-17",
+        "overview": "The city of Krapopolis reckons with a solar eclipse. Tyrannis learns that it is not a cruel punishment by Zeus but a natural occurrence."
+      },
+      {
+        "id": "tvmaze:2792733",
+        "title": "The Majors",
+        "season": 1,
+        "episode": 17,
+        "released": "2024-03-24",
+        "overview": "There is a major god opening on Mt. Olympus and Deliria decide to mentor the nerdy minor god Salt for the spot as a way to spite her rival, Athena. When Krapopolis residents start moving to the wilderness to get away from the excess poop problem, Tyrannis makes it his mission to create a box that gets rid of one's number two."
+      },
+      {
+        "id": "tvmaze:2799477",
+        "title": "War with the Roses",
+        "season": 1,
+        "episode": 18,
+        "released": "2024-04-07",
+        "overview": "Nymph Daphne and Tyrannis arrange a meeting to negotiate peace between the city and the forest. Hippocampus and Nymph Daphne hide out in Hippocampus' bunker, where they show more interest in each other."
+      },
+      {
+        "id": "tvmaze:2815251",
+        "title": "Muse Your Illusion",
+        "season": 1,
+        "episode": 19,
+        "released": "2024-04-21",
+        "overview": "A plague of Muses descends upon Krapopolis. Deliria struggles to endure Shlub's centennial molting."
+      },
+      {
+        "id": "tvmaze:2824112",
+        "title": "Prince Hippo",
+        "season": 1,
+        "episode": 20,
+        "released": "2024-04-28",
+        "overview": "When Atlanteans approach Krapopolis, Shlub reveals that Hippocampus is technically the king of Atlantis. A priestess visits Deliria and offers her services."
+      },
+      {
+        "id": "tvmaze:2831787",
+        "title": "Olive Oil Crisis",
+        "season": 1,
+        "episode": 21,
+        "released": "2024-05-05",
+        "overview": "Deliria loses her memory when she and Stupendous transform into geese. Tyrannis tasks Shlub with procuring olive oil for Krapopolis."
+      },
+      {
+        "id": "tvmaze:2836894",
+        "title": "The Tyrannis Crown Affair",
+        "season": 1,
+        "episode": 22,
+        "released": "2024-05-12",
+        "overview": "Tyrannis tasks Stupendous with tracking down a thief. Deliria and Hippocampus team up to beat Hermes in the All Valley Create a Creature Tournament."
+      },
+      {
+        "id": "tvmaze:2836895",
+        "title": "Remedial Archeology",
+        "season": 1,
+        "episode": 23,
+        "released": "2024-05-19",
+        "overview": "Tyrannis buys a magic shell. Shlub takes Deliria to a monster wedding."
+      },
+      {
+        "id": "tvmaze:2944675",
+        "title": "Ice Week!",
+        "season": 2,
+        "episode": 1,
+        "released": "2024-09-29",
+        "overview": "Tyrannis struggles to keep his cool when he gets the hots for a visiting reporter. Shlub is paid a visit by an old friend. Hippocampus and Stupendous risk missing the festivities altogether."
+      },
+      {
+        "id": "tvmaze:2980177",
+        "title": "Thor",
+        "season": 2,
+        "episode": 2,
+        "released": "2024-10-06",
+        "overview": "Tyrannis' little hunting mishap brings the Norse gods to Olympus. The family is forced to deal with the hunky Thor, the mischievous Loki, and some nasty bridge trolls."
+      },
+      {
+        "id": "tvmaze:3013839",
+        "title": "Hades Nuts",
+        "season": 2,
+        "episode": 3,
+        "released": "2024-10-20",
+        "overview": "Stupendous is at it again, making trips to the underworld to visit her old fling Prack. But this time, Hades is onto her. Tyrannis tries to teach Deliria and Shlub the value of human life."
+      },
+      {
+        "id": "tvmaze:3023461",
+        "title": "Mr. Boogens",
+        "season": 2,
+        "episode": 4,
+        "released": "2024-10-27",
+        "overview": "Garbage is piling high in Krapopolis, but the townsfolk can't wrap their heads around the concept. Tyrannis discovers how to get them in the cleaning mood. Stupendous and Hippocampus become death, the destroyer of worlds."
+      },
+      {
+        "id": "tvmaze:3023462",
+        "title": "Krapocalypse",
+        "season": 2,
+        "episode": 5,
+        "released": "2024-11-03",
+        "overview": "Tyrannis is is stuck in a time loop trying to save the city."
+      },
+      {
+        "id": "tvmaze:3038196",
+        "title": "National Lampoon's The Odyssey!",
+        "season": 2,
+        "episode": 6,
+        "released": "2024-11-10",
+        "overview": "The family takes a vacation to Storgos for Shlub's mother's birthday."
+      },
+      {
+        "id": "tvmaze:3043527",
+        "title": "Ty Man Woman Table Chairs Food",
+        "season": 2,
+        "episode": 7,
+        "released": "2024-11-24",
+        "overview": "There's this new thing called a map, and all the cool cities are on it! Tyrannis and Hippocampus start a restaurant to earn Krapopolis its spot. Stupendous follows the map to face her long time foe."
+      },
+      {
+        "id": "tvmaze:3050092",
+        "title": "Shlub$",
+        "season": 2,
+        "episode": 8,
+        "released": "2024-12-08",
+        "overview": "Shlub is sick- well, one part of Shlub is sick. The family uses Hippocampus' new invention to extract and replace the ailing part, but might just need to operate on themselves in order to save him."
+      },
+      {
+        "id": "tvmaze:3066478",
+        "title": "Enter Prophecy Duck",
+        "season": 2,
+        "episode": 9,
+        "released": "2024-12-15",
+        "overview": "There's a new king in town - the Rug King. Horrible timing for a prophecy foretelling of Tyrannis' downfall. Stupendous tries to get deep with Deliria."
+      },
+      {
+        "id": "tvmaze:3107752",
+        "title": "John Fate Comes a Knockin'",
+        "season": 2,
+        "episode": 10,
+        "released": "2025-02-16",
+        "overview": "Deliria's clairvoyant ex comes to town and gives the family some bad news, everyone knows The Fates, but what about their brother, John Fate?"
+      },
+      {
+        "id": "tvmaze:3128281",
+        "title": "Stavros Live and in Concert",
+        "season": 2,
+        "episode": 11,
+        "released": "2025-02-23",
+        "overview": "Tyrannis' favorite singer Stavros is in town! But he also happens to be the favorite singer of Athena and her radical followers. Deliria goes on a little getaway."
+      },
+      {
+        "id": "tvmaze:3128286",
+        "title": "Baby Boom",
+        "season": 2,
+        "episode": 12,
+        "released": "2025-03-02",
+        "overview": "Aphrodite's Fertility Fest is here and baby fever is at an all time high. Deliria is convinced it's nothing but a scam, but Stupendous may be falling for it; Tyrannis tries to relax at a bathhouse but it's proving difficult to let loose."
+      },
+      {
+        "id": "tvmaze:3128358",
+        "title": "Ty Big Fat Greek Wedding",
+        "season": 2,
+        "episode": 13,
+        "released": "2025-03-09",
+        "overview": "Ty plots to skip out on his wedding day since weddings are hotspots for familial bloodbaths. Stupendous bonds with her future uncle-in-law. Shlub puts on his dancing horseshoes."
+      },
+      {
+        "id": "tvmaze:3128359",
+        "title": "Love Trap, Baby!",
+        "season": 2,
+        "episode": 14,
+        "released": "2025-03-16",
+        "overview": "A mysterious princess is hosting a dating competition to find her new partner and Stupe and Ty are invited, but Hippo's not falling for this love trap! Shlub and Deliria do the worst thing possible while Ty's away - accidentally improve the city."
+      },
+      {
+        "id": "tvmaze:3151683",
+        "title": "The Weather Stick",
+        "season": 2,
+        "episode": 15,
+        "released": "2025-03-23",
+        "overview": "It's HOT in Krapopolis, but luckily Shlub has a little trick up his sleeve to help Ty stay nice and cool, now if only Tyrannis can learn to keep some things for himself. Deliria's temple becomes home to the sweaty soldiers and worshipers seeking shelter from the heat… and seeking love."
+      },
+      {
+        "id": "tvmaze:3151684",
+        "title": "Number Twos",
+        "season": 2,
+        "episode": 16,
+        "released": "2025-03-30",
+        "overview": "Ty and Stupe are both looking to hire assistants, and Ty is trying to not judge a book by its cover - its slimy, eerie, evil looking cover. Hippo tries to have a romantic getaway with Daphne.. and his parents."
+      },
+      {
+        "id": "tvmaze:3151685",
+        "title": "One Eye One Heart She's Stupe",
+        "season": 2,
+        "episode": 17,
+        "released": "2025-04-06",
+        "overview": "The legendary hero Hector and his grand fighting show come to town and Deliria signs Stupe up to fight - or rather, to perform. Ty discovers a new branch of his family tree."
+      },
+      {
+        "id": "tvmaze:3190915",
+        "title": "A Pimple Favor",
+        "season": 2,
+        "episode": 18,
+        "released": "2025-04-13",
+        "overview": "Hippocampus has a pimple! He and Deliria travel to Dermiapolis for him to that ugly thing taken care of. Tyrannis gets sculpted."
+      },
+      {
+        "id": "tvmaze:3193023",
+        "title": "Mazed and Kingfused",
+        "season": 2,
+        "episode": 19,
+        "released": "2025-04-30",
+        "overview": "Hippo accompanies Shlub on his journey to Minos, treacherous labyrinths, minotaurs, and divorced dads await; Ty gets glued to his throne."
+      },
+      {
+        "id": "tvmaze:3193046",
+        "title": "Love Week",
+        "season": 2,
+        "episode": 20,
+        "released": "2025-05-04",
+        "overview": "Love arrows are in the air! Ty gets a second chance at romance with Tina. Hippo and Stupe let love come between them; Shlub finds a new love: winning."
+      },
+      {
+        "id": "tvmaze:3216179",
+        "title": "Don Tyxote",
+        "season": 2,
+        "episode": 21,
+        "released": "2025-05-11",
+        "overview": "Ty gets a fancy new suit and with it, the confidence to invade Persia; Hippo is left home to defend the throne; Deliria and Shlub role-play."
+      },
+      {
+        "id": "tvmaze:3216180",
+        "title": "Ty Died",
+        "season": 2,
+        "episode": 22,
+        "released": "2025-05-18",
+        "overview": "Ty is tired of his family thinking he's not important enough to be assassinated. He'll show them!"
+      },
+      {
+        "id": "tvmaze:3316824",
+        "title": "Krapocracy Now!",
+        "season": 3,
+        "episode": 1,
+        "released": "2025-09-28",
+        "overview": "Tyrannis holds the world's first democratic elections, which is a terrible idea. Deliria finds a new way to antagonize the gods."
+      },
+      {
+        "id": "tvmaze:3367719",
+        "title": "Bobageddon",
+        "season": 3,
+        "episode": 2,
+        "released": "2025-10-05",
+        "overview": "Shlub wants boba and mobilizes an army; Tyrannis prepares for his demigod Ceremony on Mount Olympus"
+      },
+      {
+        "id": "tvmaze:3378157",
+        "title": "Basket Baby",
+        "season": 3,
+        "episode": 3,
+        "released": "2025-10-19",
+        "overview": "A baby arrives in a basket; Deliria encroaches on Apollo's turf; Tyrannis throws a potluck."
+      },
+      {
+        "id": "tvmaze:3390064",
+        "title": "There's Something About Viscera",
+        "season": 3,
+        "episode": 4,
+        "released": "2025-10-26",
+        "overview": "Shlub's Endless Wine, Cheese, and Pita Festival causes a famine; Stupendous and Deliria have a girls weekend."
+      },
+      {
+        "id": "tvmaze:3394709",
+        "title": "Society of Swords",
+        "season": 3,
+        "episode": 5,
+        "released": "2025-11-02",
+        "overview": "Before Deliria can become goddess of another city, she and Shlub must win over its exasperating king and queen; Ty gets dating advice from Viscera."
+      },
+      {
+        "id": "tvmaze:3400719",
+        "title": "Plague and Fury",
+        "season": 3,
+        "episode": 6,
+        "released": "2025-11-09",
+        "overview": "Tyrannis gets a new girlfriend whose job becomes a problem for him; Deliria and Hippocampus deal with a Plague."
+      },
+      {
+        "id": "tvmaze:3424497",
+        "title": "Casino",
+        "season": 3,
+        "episode": 7,
+        "released": "2025-11-16",
+        "overview": "Shlub has a gambling problem; Tyrannis and Stupendous set off to sea."
+      },
+      {
+        "id": "tvmaze:3427568",
+        "title": "The Anniversary Present",
+        "season": 3,
+        "episode": 8,
+        "released": "2025-11-23",
+        "overview": "Shlub has to improvise a gift for Deliria after forgetting their anniversary; Tyrannis and Stupendous try to cheer up Hippocampus after a break-up."
+      },
+      {
+        "id": "tvmaze:3441552",
+        "title": "Nike (The Goddness)",
+        "season": 3,
+        "episode": 9,
+        "released": "2025-12-07",
+        "overview": "Tyrannis and his siblings enter a contest; Shlub and Deliria go to a play; she hates it."
+      },
+      {
+        "id": "tvmaze:3448500",
+        "title": "Vengeance Will Be Nine",
+        "season": 3,
+        "episode": 10,
+        "released": "2025-12-14",
+        "overview": "A determined child enlists Stupendous to track down her father's killer; Tyrannis agrees to pose as Viscera's boyfriend."
+      },
+      {
+        "id": "tvmaze:3468859",
+        "title": "Monster Week",
+        "season": 3,
+        "episode": 11,
+        "released": "2025-12-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:3470037",
+        "title": "TBA",
+        "season": 3,
+        "episode": 12,
+        "released": "2026-01-04",
+        "overview": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,4036 @@
+{
+  "meta": {
+    "id": "tvmaze:5908",
+    "type": "series",
+    "name": "Only Connect",
+    "description": "Quiz show in which connections must be made between apparently unconnected things, where patience and lateral thinking are as vital as knowledge.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/48/121768.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/48/121768.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:353349",
+        "title": "Lapsed Psychologists v Knitters",
+        "season": 1,
+        "episode": 1,
+        "released": "2008-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353350",
+        "title": "Crossworders v Birkbeck Alumni",
+        "season": 1,
+        "episode": 2,
+        "released": "2008-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353351",
+        "title": "County Councillors v Ombudsmen",
+        "season": 1,
+        "episode": 3,
+        "released": "2008-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353352",
+        "title": "Science Writers v Travel Writers",
+        "season": 1,
+        "episode": 4,
+        "released": "2008-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353353",
+        "title": "Edinburgh Scrabblers v Solent Scrabblers",
+        "season": 1,
+        "episode": 5,
+        "released": "2008-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353354",
+        "title": "Urban Cyclists v Country Walkers",
+        "season": 1,
+        "episode": 6,
+        "released": "2008-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353355",
+        "title": "Bankers v Bookkeepers",
+        "season": 1,
+        "episode": 7,
+        "released": "2008-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353356",
+        "title": "Cricket Supporters v IT Supporters",
+        "season": 1,
+        "episode": 8,
+        "released": "2008-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353357",
+        "title": "County Councillors v Science Writers",
+        "season": 1,
+        "episode": 9,
+        "released": "2008-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353358",
+        "title": "Crossworders v Edinburgh Scrabblers",
+        "season": 1,
+        "episode": 10,
+        "released": "2008-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353359",
+        "title": "Bankers v IT Supporters",
+        "season": 1,
+        "episode": 11,
+        "released": "2008-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353360",
+        "title": "Lapsed Psychologists v Country Walkers",
+        "season": 1,
+        "episode": 12,
+        "released": "2008-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353361",
+        "title": "Crossworders v Science Writers",
+        "season": 1,
+        "episode": 13,
+        "released": "2008-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353362",
+        "title": "Bankers v Lapsed Psychologists",
+        "season": 1,
+        "episode": 14,
+        "released": "2008-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353363",
+        "title": "Crossworders v Lapsed Psychologists",
+        "season": 1,
+        "episode": 15,
+        "released": "2008-12-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353364",
+        "title": "Cambridge Quiz Society v Oxford Librarians",
+        "season": 2,
+        "episode": 1,
+        "released": "2009-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353365",
+        "title": "Mathematicians v Wordsmiths",
+        "season": 2,
+        "episode": 2,
+        "released": "2009-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353366",
+        "title": "History Boys v Rugby Boys",
+        "season": 2,
+        "episode": 3,
+        "released": "2009-07-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353367",
+        "title": "Chessmen v Charity Puzzlers",
+        "season": 2,
+        "episode": 4,
+        "released": "2009-08-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353368",
+        "title": "Mathematicians v Cambridge Quiz Society",
+        "season": 2,
+        "episode": 5,
+        "released": "2009-08-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353369",
+        "title": "Chessmen v Rugby Boys",
+        "season": 2,
+        "episode": 6,
+        "released": "2009-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353370",
+        "title": "Chessman v Mathematicians",
+        "season": 2,
+        "episode": 7,
+        "released": "2009-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353371",
+        "title": "Cambridge Quiz Society v Rugby Boys",
+        "season": 2,
+        "episode": 8,
+        "released": "2009-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353373",
+        "title": "Archers Admirers v Music Lovers",
+        "season": 3,
+        "episode": 1,
+        "released": "2010-04-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353374",
+        "title": "Polymaths v Strategists",
+        "season": 3,
+        "episode": 2,
+        "released": "2010-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353375",
+        "title": "Choir Boys v Brasenose Postgrads",
+        "season": 3,
+        "episode": 3,
+        "released": "2010-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353376",
+        "title": "Philosophers v Hitchhikers",
+        "season": 3,
+        "episode": 4,
+        "released": "2010-01-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353377",
+        "title": "Neuroscientists v Rugby Fans",
+        "season": 3,
+        "episode": 5,
+        "released": "2010-02-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353378",
+        "title": "Exeter Alumni v Gourmands",
+        "season": 3,
+        "episode": 6,
+        "released": "2010-02-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353379",
+        "title": "Insurers v Gamblers",
+        "season": 3,
+        "episode": 7,
+        "released": "2010-02-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353380",
+        "title": "Booksellers v Bowlers",
+        "season": 3,
+        "episode": 8,
+        "released": "2010-02-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353381",
+        "title": "Archers Admirers v Exeter Alumni",
+        "season": 3,
+        "episode": 9,
+        "released": "2010-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353382",
+        "title": "Brasenose Postgrads v Hitchhikers",
+        "season": 3,
+        "episode": 10,
+        "released": "2010-03-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353383",
+        "title": "Neuroscientists v Strategists",
+        "season": 3,
+        "episode": 11,
+        "released": "2010-03-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353384",
+        "title": "Gamblers v Bowlers",
+        "season": 3,
+        "episode": 12,
+        "released": "2010-03-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353385",
+        "title": "Archers Admirers v Gamblers",
+        "season": 3,
+        "episode": 13,
+        "released": "2010-03-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353386",
+        "title": "Hitchhikers v Strategists",
+        "season": 3,
+        "episode": 14,
+        "released": "2010-04-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353387",
+        "title": "Gamblers v Strategists",
+        "season": 3,
+        "episode": 15,
+        "released": "2010-04-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353388",
+        "title": "Epicureans v Courtiers",
+        "season": 4,
+        "episode": 1,
+        "released": "2010-09-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353389",
+        "title": "The Wrights v Urban Walkers",
+        "season": 4,
+        "episode": 2,
+        "released": "2010-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353390",
+        "title": "Radio Addicts v Taxonomists",
+        "season": 4,
+        "episode": 3,
+        "released": "2010-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353391",
+        "title": "Brit Poppers v Geocachers",
+        "season": 4,
+        "episode": 4,
+        "released": "2010-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353392",
+        "title": "Fantasy Writers v Bridge Players",
+        "season": 4,
+        "episode": 5,
+        "released": "2010-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353393",
+        "title": "Mensans v Bloggers",
+        "season": 4,
+        "episode": 6,
+        "released": "2010-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353394",
+        "title": "Mountain Men v In-Laws",
+        "season": 4,
+        "episode": 7,
+        "released": "2010-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353395",
+        "title": "Alesmen v Pool Sharks",
+        "season": 4,
+        "episode": 8,
+        "released": "2010-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353396",
+        "title": "Epicureans v Bridge Players",
+        "season": 4,
+        "episode": 9,
+        "released": "2010-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353397",
+        "title": "Wrights v Bloggers",
+        "season": 4,
+        "episode": 10,
+        "released": "2010-11-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353398",
+        "title": "Radio Addicts v Brit Poppers",
+        "season": 4,
+        "episode": 11,
+        "released": "2010-11-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353399",
+        "title": "In-Laws v Alesmen",
+        "season": 4,
+        "episode": 12,
+        "released": "2010-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353400",
+        "title": "Epicureans v Wrights",
+        "season": 4,
+        "episode": 13,
+        "released": "2010-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353401",
+        "title": "Alesmen v Radio Addicts",
+        "season": 4,
+        "episode": 14,
+        "released": "2010-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353402",
+        "title": "Wrights v Alesmen",
+        "season": 4,
+        "episode": 15,
+        "released": "2010-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353403",
+        "title": "Epicureans v Radio Addicts",
+        "season": 4,
+        "episode": 16,
+        "released": "2010-12-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353405",
+        "title": "Social Networkers v Vegetarians",
+        "season": 5,
+        "episode": 1,
+        "released": "2011-08-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353406",
+        "title": "Edwards Family v Inorganic Chemists",
+        "season": 5,
+        "episode": 2,
+        "released": "2011-08-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353407",
+        "title": "Analysts v Editors",
+        "season": 5,
+        "episode": 3,
+        "released": "2011-08-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353408",
+        "title": "Joggers v Technologists",
+        "season": 5,
+        "episode": 4,
+        "released": "2011-09-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353409",
+        "title": "Fantasy Footballers v Antiquarians",
+        "season": 5,
+        "episode": 5,
+        "released": "2011-09-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353410",
+        "title": "Listeners v Steel City Singers",
+        "season": 5,
+        "episode": 6,
+        "released": "2011-09-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353411",
+        "title": "Rowers v Linguists",
+        "season": 5,
+        "episode": 7,
+        "released": "2011-09-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353412",
+        "title": "Rock 'n' rollers v Trade Unionists",
+        "season": 5,
+        "episode": 8,
+        "released": "2011-10-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353413",
+        "title": "Social Networkers v Antiquarians",
+        "season": 5,
+        "episode": 9,
+        "released": "2011-10-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353414",
+        "title": "Rowers v Listeners",
+        "season": 5,
+        "episode": 10,
+        "released": "2011-10-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353415",
+        "title": "Edwards Family v Trade Unionists",
+        "season": 5,
+        "episode": 11,
+        "released": "2011-10-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353416",
+        "title": "Analysts v Technologists",
+        "season": 5,
+        "episode": 12,
+        "released": "2011-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353417",
+        "title": "Listeners v Antiquarians",
+        "season": 5,
+        "episode": 13,
+        "released": "2011-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353418",
+        "title": "Analysts v Trade Unionists",
+        "season": 5,
+        "episode": 14,
+        "released": "2011-11-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353419",
+        "title": "Listeners v Trade Unionists",
+        "season": 5,
+        "episode": 15,
+        "released": "2011-11-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353420",
+        "title": "Analysts v Antiquarians",
+        "season": 5,
+        "episode": 16,
+        "released": "2011-12-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353421",
+        "title": "Joinees v Draughtsmen",
+        "season": 6,
+        "episode": 1,
+        "released": "2012-08-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353422",
+        "title": "TEFL Teachers v IT Specialists",
+        "season": 6,
+        "episode": 2,
+        "released": "2012-09-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353423",
+        "title": "Footballers v Second Violinists",
+        "season": 6,
+        "episode": 3,
+        "released": "2012-09-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353424",
+        "title": "Wordsmiths v Educators",
+        "season": 6,
+        "episode": 4,
+        "released": "2012-09-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353425",
+        "title": "Trenchermen v Numerists",
+        "season": 6,
+        "episode": 5,
+        "released": "2012-09-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353426",
+        "title": "Wintonians v Quitters",
+        "season": 6,
+        "episode": 6,
+        "released": "2012-10-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353427",
+        "title": "Scribes v Ciphers",
+        "season": 6,
+        "episode": 7,
+        "released": "2012-10-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353428",
+        "title": "Accountants v Cinephiles",
+        "season": 6,
+        "episode": 8,
+        "released": "2012-10-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353429",
+        "title": "Draughtsmen v Numerists",
+        "season": 6,
+        "episode": 9,
+        "released": "2012-10-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353430",
+        "title": "Footballers v Cinephiles",
+        "season": 6,
+        "episode": 10,
+        "released": "2012-10-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353431",
+        "title": "Teachers v Scribes",
+        "season": 6,
+        "episode": 11,
+        "released": "2012-11-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353432",
+        "title": "Wintonians v Wordsmiths",
+        "season": 6,
+        "episode": 12,
+        "released": "2012-11-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353433",
+        "title": "Footballers v Draughtsmen",
+        "season": 6,
+        "episode": 13,
+        "released": "2012-11-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353434",
+        "title": "Scribes v Wordsmiths",
+        "season": 6,
+        "episode": 14,
+        "released": "2012-12-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353435",
+        "title": "Footballers v Wordsmiths",
+        "season": 6,
+        "episode": 15,
+        "released": "2012-12-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353436",
+        "title": "Scribes v Draughtsmen",
+        "season": 6,
+        "episode": 16,
+        "released": "2012-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353437",
+        "title": "Corpuscles v Cat Lovers",
+        "season": 7,
+        "episode": 1,
+        "released": "2013-05-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353438",
+        "title": "Cartophiles v Celts",
+        "season": 7,
+        "episode": 2,
+        "released": "2013-05-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353439",
+        "title": "Francophiles v Festival Fans",
+        "season": 7,
+        "episode": 3,
+        "released": "2013-05-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353440",
+        "title": "General Practitioners v Fell Walkers",
+        "season": 7,
+        "episode": 4,
+        "released": "2013-06-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353441",
+        "title": "Corpuscles v Cartophiles",
+        "season": 7,
+        "episode": 5,
+        "released": "2013-06-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353442",
+        "title": "General Practitioners v Festival Fans",
+        "season": 7,
+        "episode": 6,
+        "released": "2013-06-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353443",
+        "title": "Celts v Cat Lovers",
+        "season": 7,
+        "episode": 7,
+        "released": "2013-06-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353444",
+        "title": "Francophiles v Fell Walkers",
+        "season": 7,
+        "episode": 8,
+        "released": "2013-07-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353445",
+        "title": "Festival Fans v Cat Lovers",
+        "season": 7,
+        "episode": 9,
+        "released": "2013-07-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353446",
+        "title": "Cartophiles v Fell Walkers",
+        "season": 7,
+        "episode": 10,
+        "released": "2013-07-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353447",
+        "title": "Celts v Festival Fans",
+        "season": 7,
+        "episode": 11,
+        "released": "2013-07-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353448",
+        "title": "Francophiles v Cartophiles",
+        "season": 7,
+        "episode": 12,
+        "released": "2013-07-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353449",
+        "title": "Francophiles v Celts",
+        "season": 7,
+        "episode": 13,
+        "released": "2013-08-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353450",
+        "title": "Lasletts v Pilots",
+        "season": 8,
+        "episode": 1,
+        "released": "2013-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353451",
+        "title": "Globetrotters v Board Gamers",
+        "season": 8,
+        "episode": 2,
+        "released": "2013-09-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353452",
+        "title": "Oenophiles v Science Editors",
+        "season": 8,
+        "episode": 3,
+        "released": "2013-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353453",
+        "title": "Press Gang v Bakers",
+        "season": 8,
+        "episode": 4,
+        "released": "2013-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353454",
+        "title": "Pilots v Globetrotters",
+        "season": 8,
+        "episode": 5,
+        "released": "2013-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353455",
+        "title": "Press Gang v Science Editors",
+        "season": 8,
+        "episode": 6,
+        "released": "2013-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353456",
+        "title": "Lasletts v Board Gamers",
+        "season": 8,
+        "episode": 7,
+        "released": "2013-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353457",
+        "title": "Oenophiles v Bakers",
+        "season": 8,
+        "episode": 8,
+        "released": "2013-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353458",
+        "title": "Science Editors v Board Gamers",
+        "season": 8,
+        "episode": 9,
+        "released": "2013-11-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353459",
+        "title": "Globetrotters v Bakers",
+        "season": 8,
+        "episode": 10,
+        "released": "2013-12-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353460",
+        "title": "Oenophiles v Board Gamers",
+        "season": 8,
+        "episode": 11,
+        "released": "2013-12-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353461",
+        "title": "Lasletts v Bakers",
+        "season": 8,
+        "episode": 12,
+        "released": "2013-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353462",
+        "title": "Board Gamers v Bakers",
+        "season": 8,
+        "episode": 13,
+        "released": "2013-12-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353463",
+        "title": "Heath Family v Exhibitionist",
+        "season": 9,
+        "episode": 1,
+        "released": "2014-04-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353464",
+        "title": "Europhiles v Relatives",
+        "season": 9,
+        "episode": 2,
+        "released": "2014-04-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353465",
+        "title": "Welsh Learners v Software Engineers",
+        "season": 9,
+        "episode": 3,
+        "released": "2014-04-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353466",
+        "title": "Erstwhile Athletes v Record Collectors",
+        "season": 9,
+        "episode": 4,
+        "released": "2014-05-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353467",
+        "title": "Relatives v Exhibitionists",
+        "season": 9,
+        "episode": 5,
+        "released": "2014-05-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353468",
+        "title": "Software Engineers v Erstwhile Athletes",
+        "season": 9,
+        "episode": 6,
+        "released": "2014-05-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353469",
+        "title": "Europhiles v Heath Family",
+        "season": 9,
+        "episode": 7,
+        "released": "2014-05-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353470",
+        "title": "Welsh Learners v Record Collectors",
+        "season": 9,
+        "episode": 8,
+        "released": "2014-06-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353471",
+        "title": "Software Engineers v Heath Family",
+        "season": 9,
+        "episode": 9,
+        "released": "2014-06-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353472",
+        "title": "Relatives v Record Collectors",
+        "season": 9,
+        "episode": 10,
+        "released": "2014-06-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353473",
+        "title": "Welsh Learners v Relatives",
+        "season": 9,
+        "episode": 11,
+        "released": "2014-06-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353474",
+        "title": "Europhiles v Software Engineers",
+        "season": 9,
+        "episode": 12,
+        "released": "2014-06-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353475",
+        "title": "Europhiles v Relatives",
+        "season": 9,
+        "episode": 13,
+        "released": "2014-07-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353476",
+        "title": "Politicos v Felinophiles",
+        "season": 10,
+        "episode": 1,
+        "released": "2014-09-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353477",
+        "title": "History Boys v Oxonians",
+        "season": 10,
+        "episode": 2,
+        "released": "2014-09-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353478",
+        "title": "Wandering Minstrels v Gallifreyans",
+        "season": 10,
+        "episode": 3,
+        "released": "2014-09-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353479",
+        "title": "QI Elves v Bibliophiles",
+        "season": 10,
+        "episode": 4,
+        "released": "2014-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353480",
+        "title": "Coders v Gamesmasters",
+        "season": 10,
+        "episode": 5,
+        "released": "2014-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353481",
+        "title": "Chessmen v Linguists",
+        "season": 10,
+        "episode": 6,
+        "released": "2014-10-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353482",
+        "title": "Orienteers v Romantics",
+        "season": 10,
+        "episode": 7,
+        "released": "2014-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353483",
+        "title": "Nordiphiles v Nightwatchmen",
+        "season": 10,
+        "episode": 8,
+        "released": "2014-10-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353484",
+        "title": "Politicos v Oxonians",
+        "season": 10,
+        "episode": 9,
+        "released": "2014-10-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353485",
+        "title": "Wandering Minstrels v Chessmen",
+        "season": 10,
+        "episode": 10,
+        "released": "2014-11-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353486",
+        "title": "Coders v Romantics",
+        "season": 10,
+        "episode": 11,
+        "released": "2014-11-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353487",
+        "title": "QI Elves v Nightwatchmen",
+        "season": 10,
+        "episode": 12,
+        "released": "2014-11-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353488",
+        "title": "History Boys v Felinophiles",
+        "season": 10,
+        "episode": 13,
+        "released": "2014-12-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353489",
+        "title": "Linguists v Gallifreyans",
+        "season": 10,
+        "episode": 14,
+        "released": "2014-12-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353490",
+        "title": "Orienteers v Gamesmasters",
+        "season": 10,
+        "episode": 15,
+        "released": "2014-12-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353491",
+        "title": "Nordiphiles v Bibliophiles",
+        "season": 10,
+        "episode": 16,
+        "released": "2015-01-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353492",
+        "title": "Chessmen v Felinophiles",
+        "season": 10,
+        "episode": 17,
+        "released": "2015-01-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353493",
+        "title": "Linguists v Oxonians",
+        "season": 10,
+        "episode": 18,
+        "released": "2015-01-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353494",
+        "title": "Bibliophiles v Gamesmasters",
+        "season": 10,
+        "episode": 19,
+        "released": "2015-01-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353495",
+        "title": "QI Elves v Coders",
+        "season": 10,
+        "episode": 20,
+        "released": "2015-02-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353496",
+        "title": "History Boys v Linguists",
+        "season": 10,
+        "episode": 21,
+        "released": "2015-02-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353497",
+        "title": "Orienteers v Gamemasters",
+        "season": 10,
+        "episode": 22,
+        "released": "2015-02-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353498",
+        "title": "Nordiphiles v QI Elves",
+        "season": 10,
+        "episode": 23,
+        "released": "2015-02-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353499",
+        "title": "Chessmen v Gallifreyans",
+        "season": 10,
+        "episode": 24,
+        "released": "2015-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353500",
+        "title": "Chessmen v History Boys",
+        "season": 10,
+        "episode": 25,
+        "released": "2015-03-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353501",
+        "title": "Orienteers v QI Elves",
+        "season": 10,
+        "episode": 26,
+        "released": "2015-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353502",
+        "title": "Orienteers v Chessmen",
+        "season": 10,
+        "episode": 27,
+        "released": "2015-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353503",
+        "title": "Cluesmiths v Operational Researchers",
+        "season": 11,
+        "episode": 1,
+        "released": "2015-07-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353504",
+        "title": "Polyglots v Yorkers",
+        "season": 11,
+        "episode": 2,
+        "released": "2015-07-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353505",
+        "title": "Spaghetti Westerners v Mixologists",
+        "season": 11,
+        "episode": 3,
+        "released": "2015-07-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353506",
+        "title": "Collectors v Railwaymen",
+        "season": 11,
+        "episode": 4,
+        "released": "2015-08-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353507",
+        "title": "Wayfarers v Bookworms",
+        "season": 11,
+        "episode": 5,
+        "released": "2015-08-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353508",
+        "title": "String Section v Headliners",
+        "season": 11,
+        "episode": 6,
+        "released": "2015-08-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353509",
+        "title": "Road Trippers v Athenians",
+        "season": 11,
+        "episode": 7,
+        "released": "2015-08-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353510",
+        "title": "Scientists v Builders",
+        "season": 11,
+        "episode": 8,
+        "released": "2015-08-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353511",
+        "title": "Polyglots v Operational Researchers",
+        "season": 11,
+        "episode": 9,
+        "released": "2015-09-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353512",
+        "title": "Collectors v Mixologists",
+        "season": 11,
+        "episode": 10,
+        "released": "2015-09-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353513",
+        "title": "Headliners v Bookworms",
+        "season": 11,
+        "episode": 11,
+        "released": "2015-09-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353514",
+        "title": "Road Trippers v Builders",
+        "season": 11,
+        "episode": 12,
+        "released": "2015-09-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353515",
+        "title": "Cluesmiths v Yorkers",
+        "season": 11,
+        "episode": 13,
+        "released": "2015-10-05",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:353516",
+        "title": "Spaghetti Westerners v Railwaymen",
+        "season": 11,
+        "episode": 14,
+        "released": "2015-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:376998",
+        "title": "Wayfarers v String Section",
+        "season": 11,
+        "episode": 15,
+        "released": "2015-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:394093",
+        "title": "Scientists v Athenians",
+        "season": 11,
+        "episode": 16,
+        "released": "2015-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:423533",
+        "title": "Cluesmiths v Mixologists",
+        "season": 11,
+        "episode": 17,
+        "released": "2015-11-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:471733",
+        "title": "Spaghetti Westerners v Operational Researchers",
+        "season": 11,
+        "episode": 18,
+        "released": "2015-11-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:471734",
+        "title": "Wayfarers v Builders",
+        "season": 11,
+        "episode": 19,
+        "released": "2015-11-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:494769",
+        "title": "Athenians v Bookworms",
+        "season": 11,
+        "episode": 20,
+        "released": "2015-11-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:521463",
+        "title": "Scientists v String Section",
+        "season": 11,
+        "episode": 21,
+        "released": "2015-12-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:521464",
+        "title": "Yorkers v Operational Researchers",
+        "season": 11,
+        "episode": 22,
+        "released": "2015-12-14",
+        "overview": "The second quarter-final takes place between the Yorkers and the Operational Researchers."
+      },
+      {
+        "id": "tvmaze:521465",
+        "title": "Cluesmiths v Railwaymen",
+        "season": 11,
+        "episode": 23,
+        "released": "2015-12-21",
+        "overview": "The quarter-final match between the Cluesmiths and the Railwaymen gets underway."
+      },
+      {
+        "id": "tvmaze:528313",
+        "title": "Wayfarers v Bookworms",
+        "season": 11,
+        "episode": 24,
+        "released": "2015-12-28",
+        "overview": "The second quarter-final match sees the Wayfarers take on the Bookworms."
+      },
+      {
+        "id": "tvmaze:530652",
+        "title": "Semi-Final",
+        "season": 11,
+        "episode": 25,
+        "released": "2016-01-04",
+        "overview": "The first semi-final takes place."
+      },
+      {
+        "id": "tvmaze:550365",
+        "title": "Semi-Final",
+        "season": 11,
+        "episode": 26,
+        "released": "2016-01-11",
+        "overview": "The second semi-final takes place."
+      },
+      {
+        "id": "tvmaze:562868",
+        "title": "The Final",
+        "season": 11,
+        "episode": 27,
+        "released": "2016-01-18",
+        "overview": "The final of this series takes place."
+      },
+      {
+        "id": "tvmaze:858841",
+        "title": "Tubers v Bardophiles",
+        "season": 12,
+        "episode": 1,
+        "released": "2016-07-11",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital.Three fans of the London Underground take on a trio of bardophiles in the first of the twelfth series. They'll compete to draw together the connections between things which, at first glance, seem utterly random.So join Victoria Coren Mitchell if you want to know what connects Brownies, Michael Fagan, Freddie Krueger and the Milk Tray Man."
+      },
+      {
+        "id": "tvmaze:863479",
+        "title": "Cosmopolitans v Taverners",
+        "season": 12,
+        "episode": 2,
+        "released": "2016-07-18",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital. Three cocktail drinkers take on a trio of taverners in the second episode. They'll compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Eurovision Song Contest, Cow and Gate, Wall's and I Love New York."
+      },
+      {
+        "id": "tvmaze:869275",
+        "title": "Psmiths v Verbivores",
+        "season": 12,
+        "episode": 3,
+        "released": "2016-07-25",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Three fans of PG Wodehouse square up to a team of wordsmiths in this episode. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Georgia: Canada, Sunda: Indonesia, Bass: Australia and Cook: New Zealand."
+      },
+      {
+        "id": "tvmaze:878097",
+        "title": "Networkers v Cousins",
+        "season": 12,
+        "episode": 4,
+        "released": "2016-08-01",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A trio of networkers take on a family team in this episode. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Cafetiere, Condom, Eggy bread and Chips."
+      },
+      {
+        "id": "tvmaze:880233",
+        "title": "Shutterbugs v Highgates",
+        "season": 12,
+        "episode": 5,
+        "released": "2016-08-08",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A team of photographers take on a trio of Londoners in this episode. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Cot, Holland, Chira and Bonapart."
+      },
+      {
+        "id": "tvmaze:886126",
+        "title": "Korfballers v Channel Islanders",
+        "season": 12,
+        "episode": 6,
+        "released": "2016-08-15",
+        "overview": "Three Korfball players take on a family from Guernsey in this episode. They compete to draw together the connections between things which, at first glance, seem utterly random.So join Victoria Coren Mitchell if you want to know what connects Annabel Lee, Delilah, Rebecca and Weekend at Bernie's."
+      },
+      {
+        "id": "tvmaze:895865",
+        "title": "Bardophiles v Taverners",
+        "season": 12,
+        "episode": 7,
+        "released": "2016-08-22",
+        "overview": "Two teams who lost their first heats return as highest scoring losers in this show. They compete to draw together the connections between things which, at first glance, seem utterly random.So join Victoria Coren Mitchell if you want to know what connects Betjeman, Alsatian, Liberty Cabbage and Windsor."
+      },
+      {
+        "id": "tvmaze:900525",
+        "title": "Verbivores v Channel Islanders",
+        "season": 12,
+        "episode": 8,
+        "released": "2016-08-29",
+        "overview": "Two teams who lost their first heats return as highest scoring losers in this show. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Minotaur, Frobscottle, Moloko Plus and Duff."
+      },
+      {
+        "id": "tvmaze:905177",
+        "title": "Spicy Food Lovers v Eurovision Fans",
+        "season": 12,
+        "episode": 9,
+        "released": "2016-09-05",
+        "overview": "A new round of heats begins as a team of spicy food lovers take on three fans of Eurovision. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects 'From the roots' (Greek), 'We can' (Spanish), 'We ourselves' (Gaelic) and 'Party of Wales' (Welsh)."
+      },
+      {
+        "id": "tvmaze:911255",
+        "title": "Wrestlers v Clareites",
+        "season": 12,
+        "episode": 10,
+        "released": "2016-09-12",
+        "overview": "A team of wrestling fans take on a trio from Clare College, Cambridge, in this opening heat. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects single-fingered rock-climbing hold, Spanish monkey, North American glandular fever and single-channel sound reproduction."
+      },
+      {
+        "id": "tvmaze:920560",
+        "title": "Part-Time Poets v Oscar Men",
+        "season": 12,
+        "episode": 11,
+        "released": "2016-09-19",
+        "overview": "Another heat sees a team of poets take on three fans of the Oscars. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects the Nabateans, Makka Pakka, Alley Oop and Old Mother Shipton."
+      },
+      {
+        "id": "tvmaze:934189",
+        "title": "Genealogists v Surrealists",
+        "season": 12,
+        "episode": 12,
+        "released": "2016-09-26",
+        "overview": "This heat sees a team of genealogists take on three surrealists. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects a violin's extraneous discordant notes, Lotharios, Molineux team and Canis Lupis."
+      },
+      {
+        "id": "tvmaze:937206",
+        "title": "Maltsters v Policy Wonks",
+        "season": 12,
+        "episode": 13,
+        "released": "2016-10-03",
+        "overview": "The Maltsters take on the Policy Wonks in this opening heat. They compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:949522",
+        "title": "Scunthorpe Scholars v Beekeepers",
+        "season": 12,
+        "episode": 14,
+        "released": "2016-10-10",
+        "overview": "A team from Scunthorpe take on a trio of Beekeepers in this heat. They compete to draw together the connections between things which, at first glance, seem utterly random. Presented by Victoria Coren Mitchell."
+      },
+      {
+        "id": "tvmaze:958102",
+        "title": "Maltsters v Oscar Men",
+        "season": 12,
+        "episode": 15,
+        "released": "2016-10-17",
+        "overview": "The Maltsters and Oscar Men, two teams who lost their first heats, return as highest-scoring losers in this show. They compete to draw together the connections between things which, at first glance, seem utterly random.So join Victoria Coren Mitchell if you want to know what connects Mother-in-law, Court-martial, Lord Lieutenant and Poet Laureate."
+      },
+      {
+        "id": "tvmaze:973215",
+        "title": "Wrestlers v Genealogists",
+        "season": 12,
+        "episode": 16,
+        "released": "2016-10-31",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:981419",
+        "title": "Cosmopolitans v Tubers",
+        "season": 12,
+        "episode": 17,
+        "released": "2016-11-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:981420",
+        "title": "Networkers v Psmiths",
+        "season": 12,
+        "episode": 18,
+        "released": "2016-11-14",
+        "overview": "Two teams of first-round winners return to fight for a place in round three. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Kashmir, Pyrenees, Lake Victoria and Borneo."
+      },
+      {
+        "id": "tvmaze:987818",
+        "title": "Shutterbugs v Korfballers",
+        "season": 12,
+        "episode": 19,
+        "released": "2016-11-21",
+        "overview": "Two teams of first-round winners return to fight for a place in round three. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects AUGUST 7, APOLLO 8, EXODUS 14 and QUIZ 22."
+      },
+      {
+        "id": "tvmaze:989320",
+        "title": "Verbivores v Taverners",
+        "season": 12,
+        "episode": 20,
+        "released": "2016-11-28",
+        "overview": "The Taverners and Verbivores return for their last chance to make it into round three. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects...Bill,...Baby,...Homepage and...Quartet."
+      },
+      {
+        "id": "tvmaze:992466",
+        "title": "Fire-Eaters v Clareites",
+        "season": 12,
+        "episode": 21,
+        "released": "2016-12-05",
+        "overview": "First-round winners the Fire-Eaters and the Clareites return for a chance to make it into round three. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Ian R, Cameron O, Cyrus P and Pru E."
+      },
+      {
+        "id": "tvmaze:996493",
+        "title": "Part-Time Poets v Surrealists",
+        "season": 12,
+        "episode": 22,
+        "released": "2016-12-12",
+        "overview": "First-round winners the Part-Time Poets and the Surrealists return for a chance to make it into round three. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Pink Pinky, Orange Clyde, Red Blinky and Cyan Inky."
+      },
+      {
+        "id": "tvmaze:1002874",
+        "title": "Beekeepers v Policy Wonks",
+        "season": 12,
+        "episode": 23,
+        "released": "2016-12-19",
+        "overview": "Two teams of first-round winners return for a chance to make it into the next round. The Beekeepers and Policy Wonks try to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Ship of Theseus, Sugababes, George Washington's axe and Trigger's broom."
+      },
+      {
+        "id": "tvmaze:1015479",
+        "title": "Genealogists v Oscar Men",
+        "season": 12,
+        "episode": 24,
+        "released": "2017-01-06",
+        "overview": "The Genealogists and Oscar Men return for their last chance to make it into round three. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects three arrowheads, red hexagon containing two white triangles, blue spread eagle and black horse."
+      },
+      {
+        "id": "tvmaze:1027019",
+        "title": "Fire-Eaters v Korfballers",
+        "season": 12,
+        "episode": 25,
+        "released": "2017-01-13",
+        "overview": "It's the beginning of round three as two returning teams fight it out for a place in the quarter-finals. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects the occipital nerve, the apostle James, the Antilles and the spotted woodpecker."
+      },
+      {
+        "id": "tvmaze:1040722",
+        "title": "Surrealists v Verbivores",
+        "season": 12,
+        "episode": 26,
+        "released": "2017-01-20",
+        "overview": "Round three continues as two returning teams fight it out for a place in the quarter-finals. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Gray, Waltz, Pleasence and Savalas."
+      },
+      {
+        "id": "tvmaze:1048200",
+        "title": "Beekeepers v Cosmopolitans",
+        "season": 12,
+        "episode": 27,
+        "released": "2017-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1048201",
+        "title": "Psmiths v Oscar Men",
+        "season": 12,
+        "episode": 28,
+        "released": "2017-02-03",
+        "overview": "The Psmiths take on the Oscar Men in this round three game. They compete to draw together the connections between things. Victoria Coren Mitchell hosts."
+      },
+      {
+        "id": "tvmaze:1055603",
+        "title": "Fire-Eaters v Verbivores",
+        "season": 12,
+        "episode": 29,
+        "released": "2017-02-10",
+        "overview": "Two losing teams return for a last chance to make it to the quarter-finals. Presented by Victoria Coren Mitchell."
+      },
+      {
+        "id": "tvmaze:1070565",
+        "title": "Beekeepers v Oscar Men",
+        "season": 12,
+        "episode": 30,
+        "released": "2017-02-17",
+        "overview": "Two losing teams return for a last chance to make it to the quarter-finals. Victoria Coren Mitchell hosts."
+      },
+      {
+        "id": "tvmaze:1076598",
+        "title": "Surrealists v Korfballers",
+        "season": 12,
+        "episode": 31,
+        "released": "2017-02-24",
+        "overview": "The Surrealists take on the Korfballers in a quarter-final to find out what connects Tuvalu, hijab, Defra and nope. Victoria Coren Mitchell hosts ."
+      },
+      {
+        "id": "tvmaze:1087341",
+        "title": "Psmiths v Cosmopolitans",
+        "season": 12,
+        "episode": 32,
+        "released": "2017-03-03",
+        "overview": "The Psmiths take on the Cosmopolitans in the quarter-final game. They compete to draw together the connections between things which, at first glance, seem utterly random.So join Victoria Coren Mitchell if you want to know what connects Ali Amako, Reece Thens, Elize Elmopan and Enya Airobi."
+      },
+      {
+        "id": "tvmaze:1087342",
+        "title": "Beekeepers v Korfballers",
+        "season": 12,
+        "episode": 33,
+        "released": "2017-03-10",
+        "overview": "The Beekeepers take on the Korfballers in this quarter-final game. They compete to draw together the connections between things which, at first glance, seem utterly random.So join Victoria Coren Mitchell if you want to know what connects Palm Jumeirah, Boscombe Reef, Silbury Hill and Kielder Water."
+      },
+      {
+        "id": "tvmaze:1095362",
+        "title": "Psmiths v Verbivores (2)",
+        "season": 12,
+        "episode": 34,
+        "released": "2017-03-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1099276",
+        "title": "Semi-Final 1",
+        "season": 12,
+        "episode": 35,
+        "released": "2017-03-24",
+        "overview": "Two teams compete to draw together the connections between things which, at first glance, seem utterly random in this semi-final game. So join Victoria Coren Mitchell to find out what connects Preion, Detive, Inenza and Eabeth."
+      },
+      {
+        "id": "tvmaze:1101143",
+        "title": "Semi-Final 2",
+        "season": 12,
+        "episode": 36,
+        "released": "2017-03-31",
+        "overview": "Two teams compete to draw together the connections between things which, at first glance, seem utterly random in this semi-final game. So join Victoria Coren Mitchell if you want to know what connects pudding and cheese, Maria and Peter, widow and murder and ops and funk."
+      },
+      {
+        "id": "tvmaze:1110306",
+        "title": "The Final",
+        "season": 12,
+        "episode": 37,
+        "released": "2017-04-07",
+        "overview": "Two teams compete to draw together the connections between things which, at first glance, seem utterly random, in this series finale. So join Victoria Coren Mitchell if you want to know what connects The Property of a Lady, The Hidebrand Rarity, Risico and 007 in New York."
+      },
+      {
+        "id": "tvmaze:1250339",
+        "title": "Stewards v Parishioners",
+        "season": 13,
+        "episode": 1,
+        "released": "2017-07-28",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital. Three Tolkien fans take on a church team in the first of the series. They compete to draw together the connections between things which at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects pat: bone, rub: disease, Nut: spread and salmon: bacteria."
+      },
+      {
+        "id": "tvmaze:1262398",
+        "title": "Geocachers v Vikings",
+        "season": 13,
+        "episode": 2,
+        "released": "2017-08-04",
+        "overview": "A team of geocachers take on a trio from York in this opening heat. They compete to draw together the connections between things which at first glance seem utterly random. So join Victoria Coren Mitchell to find out what connects Exhibit, Salt and Pepper, Outcast and Roots Manoeuvre."
+      },
+      {
+        "id": "tvmaze:1265972",
+        "title": "Snake Charmers v Extras",
+        "season": 13,
+        "episode": 3,
+        "released": "2017-08-11",
+        "overview": "A team of reptile lovers take on three background actors in this opening heat. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell to learn what connects Bubble, Indemnity, Dutch and Entendre."
+      },
+      {
+        "id": "tvmaze:1272027",
+        "title": "Eco-warriors v Escapologists",
+        "season": 13,
+        "episode": 4,
+        "released": "2017-08-18",
+        "overview": "In this heat, a team of environmentalists take on three friends who enjoy tackling escape rooms. They compete to draw together the connections between things which at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Polonius, Waymar Royce, Reg Cox and Abel."
+      },
+      {
+        "id": "tvmaze:1274606",
+        "title": "Lapsed Physicists v Belgophiles",
+        "season": 13,
+        "episode": 5,
+        "released": "2017-08-25",
+        "overview": "Three former physicists take on a trio united by their love of Belgium. They compete to draw together the connections between things which at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1286857",
+        "title": "Meeples v Tequila Slammers",
+        "season": 13,
+        "episode": 6,
+        "released": "2017-09-01",
+        "overview": "In tonight's heat, a team of boardgamers, led by University Challenge alumnusGail Trimble, takes on three lovers of Latin cuisine. They compete to draw together the connections between things which at first glance, seem utterly random. So join Victoria Coren Mitchell to see what connects Tom Finney, Joe Wurzelbacher, Thomas Crapper and Mario."
+      },
+      {
+        "id": "tvmaze:1286858",
+        "title": "Cricketers v Inquisitors",
+        "season": 13,
+        "episode": 7,
+        "released": "2017-09-08",
+        "overview": "In this heat, three cricket fans take on a team of professional question setters.They compete to draw together the connections betweenthings which at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects the Pied Piper of Hamelin, Dolly Parton, Colin Baker's Doctor Who and Joseph."
+      },
+      {
+        "id": "tvmaze:1286859",
+        "title": "Wanderers v Pedagogues",
+        "season": 13,
+        "episode": 8,
+        "released": "2017-09-15",
+        "overview": "A team of solo applicants take on three teachers in this episode. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Chit, Knick, Jibber and Pitter."
+      },
+      {
+        "id": "tvmaze:1293002",
+        "title": "Disparates v Beaks",
+        "season": 13,
+        "episode": 9,
+        "released": "2017-09-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1310799",
+        "title": "Dandies v Gaffers",
+        "season": 13,
+        "episode": 10,
+        "released": "2017-09-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1315733",
+        "title": "Arrowheads v Wombles",
+        "season": 13,
+        "episode": 11,
+        "released": "2017-10-06",
+        "overview": "Victoria Coren Mitchell presents the quiz show about making connections. A team of darts players take on a team of Wimbledon FC supporters."
+      },
+      {
+        "id": "tvmaze:1328427",
+        "title": "Detectives v Theatricals",
+        "season": 13,
+        "episode": 12,
+        "released": "2017-10-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1328428",
+        "title": "Vikings v Parishioners",
+        "season": 13,
+        "episode": 13,
+        "released": "2017-10-20",
+        "overview": "Two teams of round-one winners return. So join Victoria Coren Mitchell to see what connects Comedian, Identical Twin, Private Life and History Boy."
+      },
+      {
+        "id": "tvmaze:1331851",
+        "title": "Eco-Warriors v Snake Charmers",
+        "season": 13,
+        "episode": 14,
+        "released": "2017-10-27",
+        "overview": "The Eco-Warriors and Snake Charmers return for this round-two game. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria if you want to know what connects Pressed, Stained, Little Hood and American."
+      },
+      {
+        "id": "tvmaze:1344336",
+        "title": "Meeples v Belgophiles",
+        "season": 13,
+        "episode": 15,
+        "released": "2017-11-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1344337",
+        "title": "Wanderers v Inquisitors",
+        "season": 13,
+        "episode": 16,
+        "released": "2017-11-17",
+        "overview": "Quiz show presented by Victoria Coren Mitchell. The Wanderers and Inquisitors return for a round-two game."
+      },
+      {
+        "id": "tvmaze:1362615",
+        "title": "Dandies v Beaks",
+        "season": 13,
+        "episode": 17,
+        "released": "2017-12-08",
+        "overview": "The Dandies and Beaks return for a second-round game. So join Victoria if you want to know what connects Something's Got to Give, The Athenaeum Portrait, The Last Tycoon and Schubert's Symphony No 8."
+      },
+      {
+        "id": "tvmaze:1362731",
+        "title": "Detectives v Arrowheads",
+        "season": 13,
+        "episode": 18,
+        "released": "2017-12-15",
+        "overview": "The Detectives and Arrowheads return for a round two game. So join Victoria if you want to know what connects Man-Killer, Penthesilea, Sharron Davies and Jeff Bezos company."
+      },
+      {
+        "id": "tvmaze:1370509",
+        "title": "Meeples v Parishioners",
+        "season": 13,
+        "episode": 19,
+        "released": "2017-12-22",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital.Two teams of round two losers return for their last chance to stay in the competition. The Meeples and Parishioners compete to find the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Blockbusters, Rorke's Drift, Fox and Geese and Ice hockey power play."
+      },
+      {
+        "id": "tvmaze:1371699",
+        "title": "Snake Charmers v Inquisitors",
+        "season": 13,
+        "episode": 20,
+        "released": "2018-01-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1380724",
+        "title": "Dandies v Arrowheads",
+        "season": 13,
+        "episode": 21,
+        "released": "2018-01-08",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital.The Dandies and Arrowheads return for a last chance to stay in the competition. They compete to find the connections between things which, at first glance, seem utterly random. So join Victoria if you want to know what connects Extra Special, M Signature, Finest and Taste the Difference."
+      },
+      {
+        "id": "tvmaze:1386688",
+        "title": "Cricketers v Escapologists",
+        "season": 13,
+        "episode": 22,
+        "released": "2018-01-15",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital.Two teams of high-scoring losers return for a last chance to stay in the competition. They compete to find the connections between things which, at first glance, seem utterly random. So join Victoria if you want to know what connects Robin Masters, Madeline Magellan, Temperance Brennan and Jessica Fletcher."
+      },
+      {
+        "id": "tvmaze:1388379",
+        "title": "Meeples v Inquisitors",
+        "season": 13,
+        "episode": 23,
+        "released": "2018-01-22",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital.The Meeples and the Inquisitors return for a last chance to stay in the tournament. They compete to find the connections between things which, at first glance, seem utterly random. So join Victoria if you want to know what connects Ice Field, Eton Rugby, English Carom and League Union."
+      },
+      {
+        "id": "tvmaze:1392662",
+        "title": "Dandies v Escapologists",
+        "season": 13,
+        "episode": 24,
+        "released": "2018-01-29",
+        "overview": "The Dandies and Escapologists return for a last chance to stay in the tournament. They compete to find the connections between things which, at first glance, seem utterly random. So join Victoria if you want to know what connects Light kiss, Snow leopard, American garden and A fastening with rope."
+      },
+      {
+        "id": "tvmaze:1398768",
+        "title": "Eco-Warriors v Inquisitors",
+        "season": 13,
+        "episode": 25,
+        "released": "2018-02-05",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital.This round-three game sees the return of the Eco-Warriors and the Inquisitors. They compete to find the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Boring Ted, Violent Vic, Devout P and Repulsive Od."
+      },
+      {
+        "id": "tvmaze:1398769",
+        "title": "Wanderers v Vikings",
+        "season": 13,
+        "episode": 26,
+        "released": "2018-02-12",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital.This round-three game sees the return of the Wanderers and the Vikings. They compete to find the connections between things which, atfirst glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Odyle, Caloric, Phlogiston and Luminiferous aether."
+      },
+      {
+        "id": "tvmaze:1409917",
+        "title": "Detectives v Escapologists",
+        "season": 13,
+        "episode": 27,
+        "released": "2018-02-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1411122",
+        "title": "Belgophiles v Beaks",
+        "season": 13,
+        "episode": 28,
+        "released": "2018-02-26",
+        "overview": "Victoria Coren Mitchell presents the quiz show about making connections. The Belgophiles take on the Beaks in this round-three game"
+      },
+      {
+        "id": "tvmaze:1414920",
+        "title": "Wanderers v Eco-Warriors",
+        "season": 13,
+        "episode": 29,
+        "released": "2018-03-05",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital. Two teams of round three losers return for a last chance to stay in the competition."
+      },
+      {
+        "id": "tvmaze:1418930",
+        "title": "Detectives v Beaks",
+        "season": 13,
+        "episode": 30,
+        "released": "2018-03-12",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital. Two teams of round three losers return for a last chance to stay in the competition."
+      },
+      {
+        "id": "tvmaze:1423286",
+        "title": "Vikings v Inquisitors",
+        "season": 13,
+        "episode": 31,
+        "released": "2018-03-19",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital. Two round-three winners return in a bid to make it the semi-finals."
+      },
+      {
+        "id": "tvmaze:1426649",
+        "title": "Belgophiles v Escapologists",
+        "season": 13,
+        "episode": 32,
+        "released": "2018-03-26",
+        "overview": "Victoria Coren Mitchell hosts the quiz series. Two round-three winners return in a bid to make it the semi-finals."
+      },
+      {
+        "id": "tvmaze:1430653",
+        "title": "Detectives v Vikings",
+        "season": 13,
+        "episode": 33,
+        "released": "2018-04-02",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital. Two teams of round-three losers return for a last chance to make the semi-finals."
+      },
+      {
+        "id": "tvmaze:1436271",
+        "title": "Eco-Warriors v Escapologists (rematch)",
+        "season": 13,
+        "episode": 34,
+        "released": "2018-04-09",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only takes you so far. Two teams of round-three losers compete for a place in the semi-finals."
+      },
+      {
+        "id": "tvmaze:1440198",
+        "title": "Semi Final 1",
+        "season": 13,
+        "episode": 35,
+        "released": "2018-04-16",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital. It is the first of the semi-finals as two returning teams compete to find the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1440766",
+        "title": "Semi Final 2",
+        "season": 13,
+        "episode": 36,
+        "released": "2018-04-23",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Patience and lateral thinking are also vital. It is the second of the semi-finals as two returning teams compete to find the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Many a Slip, Ghostwatch and Nationwide."
+      },
+      {
+        "id": "tvmaze:1440767",
+        "title": "Final",
+        "season": 13,
+        "episode": 37,
+        "released": "2018-04-30",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. In the grand final, two teams battle it out to be named series champions."
+      },
+      {
+        "id": "tvmaze:1545099",
+        "title": "Hotpots v Poptimists",
+        "season": 14,
+        "episode": 1,
+        "released": "2018-10-22",
+        "overview": "A team from Lancashire take on three pop music aficionados in the first of the series. They compete to draw together the connections between things which, at first glance, seem utterly random. So join Victoria Coren Mitchell if you want to know what connects Beethoven's Seventh, the centre of gravity, 3 November and the very beginning."
+      },
+      {
+        "id": "tvmaze:1548462",
+        "title": "Durhamites v LARPers",
+        "season": 14,
+        "episode": 2,
+        "released": "2018-10-29",
+        "overview": "Three Durham University graduates take on a team who enjoy live action role play."
+      },
+      {
+        "id": "tvmaze:1553968",
+        "title": "Pyromaniacs v Cartoonists",
+        "season": 14,
+        "episode": 3,
+        "released": "2018-11-05",
+        "overview": "A team of pyromaniacs take on three animation fans."
+      },
+      {
+        "id": "tvmaze:1557747",
+        "title": "Motorheads v Time Ladies",
+        "season": 14,
+        "episode": 4,
+        "released": "2018-11-12",
+        "overview": "A team of Formula 1 fans take on three Doctor Who aficionados."
+      },
+      {
+        "id": "tvmaze:1563632",
+        "title": "Birdwatchers v Dicers",
+        "season": 14,
+        "episode": 5,
+        "released": "2018-11-19",
+        "overview": "A trio of birdwatchers take on a team of boardgamers."
+      },
+      {
+        "id": "tvmaze:1565904",
+        "title": "Brews v Forrests",
+        "season": 14,
+        "episode": 6,
+        "released": "2018-11-26",
+        "overview": "A trio of tea drinkers square up to a family team in this opening heat."
+      },
+      {
+        "id": "tvmaze:1569475",
+        "title": "Ancient Alumni v Three Peaks",
+        "season": 14,
+        "episode": 7,
+        "released": "2018-12-03",
+        "overview": "Three graduates of Scotland's ancient universities take on the Three Peaks."
+      },
+      {
+        "id": "tvmaze:1570484",
+        "title": "Dragons v Westenders",
+        "season": 14,
+        "episode": 8,
+        "released": "2018-12-10",
+        "overview": "A team of Welsh descent take on three theatre fans."
+      },
+      {
+        "id": "tvmaze:1574548",
+        "title": "Hotpots v Durhamites",
+        "season": 14,
+        "episode": 9,
+        "released": "2018-12-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1579906",
+        "title": "Motorheads v Cartoonists",
+        "season": 14,
+        "episode": 10,
+        "released": "2018-12-24",
+        "overview": "Two teams of first-round losers return for one last chance to stay in the competition. They compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1579907",
+        "title": "Birdwatchers v Brews",
+        "season": 14,
+        "episode": 11,
+        "released": "2019-01-01",
+        "overview": "Two teams of first-round losers return for one last chance to stay in the competition. They compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1579908",
+        "title": "Dragons v Three Peaks",
+        "season": 14,
+        "episode": 12,
+        "released": "2019-01-07",
+        "overview": "Two teams of first-round losers return for one last chance to stay in the competition. They compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1587524",
+        "title": "Poptimists v LARPers",
+        "season": 14,
+        "episode": 13,
+        "released": "2019-01-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1589461",
+        "title": "Pyromaniacs v Time Ladies",
+        "season": 14,
+        "episode": 14,
+        "released": "2019-01-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1593396",
+        "title": "Brews v Dicers",
+        "season": 14,
+        "episode": 15,
+        "released": "2019-01-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1596968",
+        "title": "Ancient Alumni v Westenders",
+        "season": 14,
+        "episode": 16,
+        "released": "2019-02-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1600331",
+        "title": "Motorheads v LARPers",
+        "season": 14,
+        "episode": 17,
+        "released": "2019-02-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1606322",
+        "title": "Durhamites v Pyromaniacs",
+        "season": 14,
+        "episode": 18,
+        "released": "2019-02-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1610119",
+        "title": "Hotpots v Brews",
+        "season": 14,
+        "episode": 19,
+        "released": "2019-02-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1613416",
+        "title": "Birdwatchers v Westenders",
+        "season": 14,
+        "episode": 20,
+        "released": "2019-03-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1616984",
+        "title": "Time Ladies v LARPers",
+        "season": 14,
+        "episode": 21,
+        "released": "2019-03-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1620042",
+        "title": "Durhamites v Poptimists",
+        "season": 14,
+        "episode": 22,
+        "released": "2019-03-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1625099",
+        "title": "Brews v Ancient Alumni",
+        "season": 14,
+        "episode": 23,
+        "released": "2019-03-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1628969",
+        "title": "Dicers v Birdwatchers",
+        "season": 14,
+        "episode": 24,
+        "released": "2019-04-01",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. The Dicers take on the Birdwatchers in the last quarter-final and 300th episode of the quiz."
+      },
+      {
+        "id": "tvmaze:1630125",
+        "title": "Semi-Final 1",
+        "season": 14,
+        "episode": 25,
+        "released": "2019-04-08",
+        "overview": "Victoria Coren Mitchell hosts the first of the semi-finals in the series where knowledge will only take you so far."
+      },
+      {
+        "id": "tvmaze:1636155",
+        "title": "Semi-Final 2",
+        "season": 14,
+        "episode": 26,
+        "released": "2019-04-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1638373",
+        "title": "Third-Place Play-Off",
+        "season": 14,
+        "episode": 27,
+        "released": "2019-04-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1642381",
+        "title": "The Final",
+        "season": 14,
+        "episode": 28,
+        "released": "2019-04-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1702517",
+        "title": "Darksiders v Suits",
+        "season": 15,
+        "episode": 1,
+        "released": "2019-09-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1707143",
+        "title": "Gladiators v Lexplorers",
+        "season": 15,
+        "episode": 2,
+        "released": "2019-09-09",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1711498",
+        "title": "Wickets v Choristers",
+        "season": 15,
+        "episode": 3,
+        "released": "2019-09-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1715529",
+        "title": "Electrophiles v Forrests",
+        "season": 15,
+        "episode": 4,
+        "released": "2019-09-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1722561",
+        "title": "Eggchasers v 007s",
+        "season": 15,
+        "episode": 5,
+        "released": "2019-10-07",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1727324",
+        "title": "Endeavours v Outliers",
+        "season": 15,
+        "episode": 6,
+        "released": "2019-10-14",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1732753",
+        "title": "Journeymen v Turophiles",
+        "season": 15,
+        "episode": 7,
+        "released": "2019-10-21",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1740271",
+        "title": "Orwellians v Junipers",
+        "season": 15,
+        "episode": 8,
+        "released": "2019-10-28",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1744895",
+        "title": "Gladiators v Darksiders",
+        "season": 15,
+        "episode": 9,
+        "released": "2019-11-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1749976",
+        "title": "Wickets v Electrophiles",
+        "season": 15,
+        "episode": 10,
+        "released": "2019-11-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1753338",
+        "title": "Eggchasers v Outliers",
+        "season": 15,
+        "episode": 11,
+        "released": "2019-11-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1764043",
+        "title": "Journeymen v Junipers",
+        "season": 15,
+        "episode": 12,
+        "released": "2019-11-25",
+        "overview": "Victoria Coren Mitchell hosts as first-round losers the Journeymen and the Junipers return for one last chance to stay in the competition and reach the second stage. The contestants must use patience, lateral thinking and sheer inspiration to make connections between four things that may appear at first not to be linked, with one set of clues consisting of Malcolm I of Scotland, John Bradman, Kiefer Sutherland, and Ivanka Trump."
+      },
+      {
+        "id": "tvmaze:1764044",
+        "title": "Lexplorers v Suits",
+        "season": 15,
+        "episode": 13,
+        "released": "2019-12-02",
+        "overview": "Victoria Coren Mitchell hosts the opening second-round match as the Lexplorers take on the Suits for a place in the quarter-finals. The contestants must use patience, lateral thinking and sheer inspiration to make connections between four things that may appear at first not to be linked, with one set of clues consisting of Green iguana, Eurasian lynx, American bison and Western gorilla."
+      },
+      {
+        "id": "tvmaze:1764045",
+        "title": "Forrests v Choristers",
+        "season": 15,
+        "episode": 14,
+        "released": "2019-12-09",
+        "overview": "Victoria Coren Mitchell hosts another second-round match as the Forrests take on the Choristers for a place in the quarter-finals. The contestants must use patience, lateral thinking and sheer inspiration to make connections between four things that may appear at first not to be linked, with one set of clues consisting of Heavenly, Woodsound, Bellplay, Softloud."
+      },
+      {
+        "id": "tvmaze:1771634",
+        "title": "Endeavours v 007s",
+        "season": 15,
+        "episode": 15,
+        "released": "2019-12-16",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1776049",
+        "title": "Orwellians v Turophiles",
+        "season": 15,
+        "episode": 16,
+        "released": "2020-01-06",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Two teams who won their first match return to fight it out for a place in the quarter-finals."
+      },
+      {
+        "id": "tvmaze:1779486",
+        "title": "Electrophiles v Suits",
+        "season": 15,
+        "episode": 17,
+        "released": "2020-01-13",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Two teams who have each won a game and lost a game have one last chance to stay in the tournament."
+      },
+      {
+        "id": "tvmaze:1791969",
+        "title": "Darksiders v Forrests",
+        "season": 15,
+        "episode": 18,
+        "released": "2020-01-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1791970",
+        "title": "Endeavours v Junipers",
+        "season": 15,
+        "episode": 19,
+        "released": "2020-01-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1795045",
+        "title": "Eggchasers v Turophiles",
+        "season": 15,
+        "episode": 20,
+        "released": "2020-02-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1797672",
+        "title": "Lexplorers v Suits",
+        "season": 15,
+        "episode": 21,
+        "released": "2020-02-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1799793",
+        "title": "Forrests v Choristers",
+        "season": 15,
+        "episode": 22,
+        "released": "2020-02-17",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1806685",
+        "title": "007s v Junipers",
+        "season": 15,
+        "episode": 23,
+        "released": "2020-02-24",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1806686",
+        "title": "Orwellians v Turophiles",
+        "season": 15,
+        "episode": 24,
+        "released": "2020-03-02",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1814199",
+        "title": "Semi-Final 1",
+        "season": 15,
+        "episode": 25,
+        "released": "2020-03-09",
+        "overview": "Victoria Coren Mitchell hosts the first of the semi-finals tonight as two teams compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1814200",
+        "title": "Semi-Final 2",
+        "season": 15,
+        "episode": 26,
+        "released": "2020-03-16",
+        "overview": "Victoria Coren Mitchell hosts the last semi-final, where two teams compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1816475",
+        "title": "Third-Place Play-Off",
+        "season": 15,
+        "episode": 27,
+        "released": "2020-03-23",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1821143",
+        "title": "Final",
+        "season": 15,
+        "episode": 28,
+        "released": "2020-03-30",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1930211",
+        "title": "Pilgrims v Corkscrews",
+        "season": 16,
+        "episode": 1,
+        "released": "2020-09-21",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A trio of Boston United football fans take on a team of wine lovers in the first of the series."
+      },
+      {
+        "id": "tvmaze:1932706",
+        "title": "Bridges v Whodunnits",
+        "season": 16,
+        "episode": 2,
+        "released": "2020-09-28",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A family team take on three murder mystery fans to draw together the connections between seemingly random things."
+      },
+      {
+        "id": "tvmaze:1942463",
+        "title": "Sliders v Ticket Collectors",
+        "season": 16,
+        "episode": 3,
+        "released": "2020-10-05",
+        "overview": "A team of shuffleboard players take on three live entertainment fans. They compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1942464",
+        "title": "Puzzle Hunters v Walruses",
+        "season": 16,
+        "episode": 4,
+        "released": "2020-10-12",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1942465",
+        "title": "Barons v Whitcombes",
+        "season": 16,
+        "episode": 5,
+        "released": "2020-10-19",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1957685",
+        "title": "Dungeon Masters v Severns",
+        "season": 16,
+        "episode": 6,
+        "released": "2020-10-26",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:1957686",
+        "title": "Apres Skiers v Colleagues",
+        "season": 16,
+        "episode": 7,
+        "released": "2020-11-02",
+        "overview": "Three skiing enthusiasts take on a team of co-workers in tonight's heat. They compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1963695",
+        "title": "Polyhymnians v Sandy Shores",
+        "season": 16,
+        "episode": 8,
+        "released": "2020-11-09",
+        "overview": "A team of sacred music fans take on three seaside dwellers in this heat. They'll compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1965354",
+        "title": "Pilgrims v Bridges",
+        "season": 16,
+        "episode": 9,
+        "released": "2020-11-16",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Two teams who lost their first heats return for a last chance to stay in the competition."
+      },
+      {
+        "id": "tvmaze:1970651",
+        "title": "Ticket Collectors v Walruses",
+        "season": 16,
+        "episode": 10,
+        "released": "2020-11-23",
+        "overview": "Two teams who lost their first heats return for a last chance to stay in the competition. They compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1970652",
+        "title": "Whitcombes v Severns",
+        "season": 16,
+        "episode": 11,
+        "released": "2020-11-30",
+        "overview": "Two teams who lost their first heats return for a last chance to stay in the competition. They compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1983245",
+        "title": "Colleagues v Sandy Shores",
+        "season": 16,
+        "episode": 12,
+        "released": "2020-12-07",
+        "overview": "Two teams who lost their first heats return for a last chance to stay in the competition. They compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1983247",
+        "title": "Whodunnits v Corkscrews",
+        "season": 16,
+        "episode": 13,
+        "released": "2020-12-14",
+        "overview": "Two teams who won their first heats return for a second round. They'll compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1983248",
+        "title": "Sliders v Puzzle Hunters",
+        "season": 16,
+        "episode": 14,
+        "released": "2020-12-21",
+        "overview": "Two teams who won their first heats return for a second round. They'll compete to draw together the connections between things which, at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:1983249",
+        "title": "Barons v Dungeon Masters",
+        "season": 16,
+        "episode": 15,
+        "released": "2020-12-28",
+        "overview": "Two teams who won their first heats return for a second round. They compete to draw together the connections between things which seem utterly random at first glance."
+      },
+      {
+        "id": "tvmaze:1984169",
+        "title": "Apres Skiers v Polyhymnians",
+        "season": 16,
+        "episode": 16,
+        "released": "2021-01-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2004131",
+        "title": "Whodunnits v Walruses",
+        "season": 16,
+        "episode": 17,
+        "released": "2021-01-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2004612",
+        "title": "Bridges v Puzzle Hunters",
+        "season": 16,
+        "episode": 18,
+        "released": "2021-01-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2016613",
+        "title": "Barons v Colleagues",
+        "season": 16,
+        "episode": 19,
+        "released": "2021-01-25",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A team of former school friends take on three co-workers for a last chance to make the quarter-finals."
+      },
+      {
+        "id": "tvmaze:2016614",
+        "title": "Polyhymnians v Severns",
+        "season": 16,
+        "episode": 20,
+        "released": "2021-02-01",
+        "overview": "The Polyhymnians take on the Severns in a last chance to stay in the tournament. They will compete to draw together the connections between things which at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:2017129",
+        "title": "Whodunnits v Corkscrews",
+        "season": 16,
+        "episode": 21,
+        "released": "2021-02-08",
+        "overview": "The Whodunnits take on the Corkscrews in tonight's quarter-final. They'll compete to draw together the connections between things which at first glance, seem utterly random."
+      },
+      {
+        "id": "tvmaze:2031391",
+        "title": "Sliders v Puzzle Hunters",
+        "season": 16,
+        "episode": 22,
+        "released": "2021-02-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2031392",
+        "title": "Dungeon Masters v Barons",
+        "season": 16,
+        "episode": 23,
+        "released": "2021-02-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2034900",
+        "title": "Severns v Apres Skiers",
+        "season": 16,
+        "episode": 24,
+        "released": "2021-03-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2040088",
+        "title": "Semi-Final 1",
+        "season": 16,
+        "episode": 25,
+        "released": "2021-03-08",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2040089",
+        "title": "Semi-Final 2",
+        "season": 16,
+        "episode": 26,
+        "released": "2021-03-15",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2048709",
+        "title": "Third-Place Play-Off",
+        "season": 16,
+        "episode": 27,
+        "released": "2021-03-22",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2048710",
+        "title": "Final",
+        "season": 16,
+        "episode": 28,
+        "released": "2021-03-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2127228",
+        "title": "Scrubs v Librarians",
+        "season": 17,
+        "episode": 1,
+        "released": "2021-07-12",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Three NHS medics take on a team of Librarians in the first episode of the series."
+      },
+      {
+        "id": "tvmaze:2127229",
+        "title": "Gamemakers v Animal Lovers",
+        "season": 17,
+        "episode": 2,
+        "released": "2021-07-19",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A team of gaming enthusiasts take on three animal lovers in this opening heat."
+      },
+      {
+        "id": "tvmaze:2134825",
+        "title": "Apollos v Jukeboxers",
+        "season": 17,
+        "episode": 3,
+        "released": "2021-07-26",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Three space enthusiasts take on a team of music lovers in this opening heat."
+      },
+      {
+        "id": "tvmaze:2139798",
+        "title": "Golfers v Wildlifers",
+        "season": 17,
+        "episode": 4,
+        "released": "2021-08-02",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A team of golfers take on three wildlife lovers in this opening heat."
+      },
+      {
+        "id": "tvmaze:2140155",
+        "title": "Discotheques v Muppets",
+        "season": 17,
+        "episode": 5,
+        "released": "2021-08-09",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A team of disco lovers take on three film fans in this opening heat."
+      },
+      {
+        "id": "tvmaze:2149309",
+        "title": "Debuggers v Steelers",
+        "season": 17,
+        "episode": 6,
+        "released": "2021-08-16",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A team of computer programmers take on three former Sheffield housemates."
+      },
+      {
+        "id": "tvmaze:2149310",
+        "title": "Ramblers v Woolgatherers",
+        "season": 17,
+        "episode": 7,
+        "released": "2021-08-23",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A team of walkers take on three knitters in this opening heat."
+      },
+      {
+        "id": "tvmaze:2154703",
+        "title": "Godyn Family v Data Wizards",
+        "season": 17,
+        "episode": 8,
+        "released": "2021-08-30",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. A family team takes on three data science workers in the last of the opening heats."
+      },
+      {
+        "id": "tvmaze:2158318",
+        "title": "Gamemakers v Scrubs",
+        "season": 17,
+        "episode": 9,
+        "released": "2021-09-06",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Two teams who lost their opening heats return for a last chance to stay in the competition."
+      },
+      {
+        "id": "tvmaze:2161335",
+        "title": "Apollos v Wildlifers",
+        "season": 17,
+        "episode": 10,
+        "released": "2021-09-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2170842",
+        "title": "Debuggers v Discotheques",
+        "season": 17,
+        "episode": 11,
+        "released": "2021-09-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2181432",
+        "title": "Godyn Family v Woolgatherers",
+        "season": 17,
+        "episode": 12,
+        "released": "2021-09-27",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2181433",
+        "title": "Librarians v Animal Lovers",
+        "season": 17,
+        "episode": 13,
+        "released": "2021-10-04",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2192142",
+        "title": "Golfers v Jukeboxers",
+        "season": 17,
+        "episode": 14,
+        "released": "2021-10-11",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2195031",
+        "title": "Muppets v Steelers",
+        "season": 17,
+        "episode": 15,
+        "released": "2021-10-18",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2197772",
+        "title": "Ramblers v Data Wizards",
+        "season": 17,
+        "episode": 16,
+        "released": "2021-10-25",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2205818",
+        "title": "Apollos v Jukeboxers",
+        "season": 17,
+        "episode": 17,
+        "released": "2021-11-01",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2212239",
+        "title": "Scrubs v Librarians",
+        "season": 17,
+        "episode": 18,
+        "released": "2021-11-08",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Two teams who have won a game and lost a game return for a last chance to stay in the competition."
+      },
+      {
+        "id": "tvmaze:2212240",
+        "title": "Godyn Family v Ramblers",
+        "season": 17,
+        "episode": 19,
+        "released": "2021-11-15",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Two teams who've won a game and lost a game return for a last chance to stay in the competition."
+      },
+      {
+        "id": "tvmaze:2212241",
+        "title": "Steelers v Discotheques",
+        "season": 17,
+        "episode": 20,
+        "released": "2021-11-22",
+        "overview": "Victoria Coren Mitchell hosts the series where knowledge will only take you so far. Two teams who've won a game and lost a game return for a last chance to stay in the competition."
+      },
+      {
+        "id": "tvmaze:2216935",
+        "title": "Apollos v Animal Lovers",
+        "season": 17,
+        "episode": 21,
+        "released": "2021-11-29",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2221118",
+        "title": "Golfers v Scrubs",
+        "season": 17,
+        "episode": 22,
+        "released": "2021-12-06",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2221119",
+        "title": "Ramblers v Muppets",
+        "season": 17,
+        "episode": 23,
+        "released": "2021-12-13",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2235780",
+        "title": "Data Wizards v Discotheques",
+        "season": 17,
+        "episode": 24,
+        "released": "2021-12-20",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2241285",
+        "title": "Semi-Final 1",
+        "season": 17,
+        "episode": 25,
+        "released": "2022-01-03",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2241286",
+        "title": "Semi-Final 2",
+        "season": 17,
+        "episode": 26,
+        "released": "2022-01-10",
+        "overview": ""
+      },
+      {
+        "id": "tvmaze:2259944",
+        "title": "Third-Place Play-Off",
+        "season": 17,
+        "episode": 27,
+        "released": "2022-01-17",
+        "overview": "It's the third-place play-off, with two teams trying to draw together the connections between things which, at first glance, seem utterly random. So join Victoria if you want to know what comes next in this sequence: 12. Holbein, 13: Hat and 14: Paris."
+      },
+      {
+        "id": "tvmaze:2264935",
+        "title": "The Final",
+        "season": 17,
+        "episode": 28,
+        "released": "2022-01-24",
+        "overview": "It's the 400th episode and the series finale, with two teams hoping to be named champions. Join Victoria to find out what connects Nineteen Eighty-Four, World Snooker Championships (usually), Home-Thoughts, from Abroad and the tax year."
+      },
+      {
+        "id": "tvmaze:2376073",
+        "title": "Statisticals v Morporkians",
+        "season": 18,
+        "episode": 1,
+        "released": "2022-08-29",
+        "overview": "Victoria Coren Mitchell presents the brain-teasing quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.In the opening heat of the series, three data-lovers take on a team of Terry Pratchett fans, all striving to establish a connection between things that, at first glance, seem utterly random.For example, what connects the following: Micro-eon, Guinea-tail, Greedy-let, Peppa-ment?"
+      },
+      {
+        "id": "tvmaze:2380333",
+        "title": "Jillies v Road Runners",
+        "season": 18,
+        "episode": 2,
+        "released": "2022-09-05",
+        "overview": "Victoria Coren Mitchell presents the brain-teasing quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three Jilly Cooper fans face a team of road runners in another opening heat, all striving to establish a connection between things that, at first glance, seem utterly random.For example, Chiron, Desdemona, Duncan and Polonius are all Shakespearian characters – but the question-setters are after something more specific."
+      },
+      {
+        "id": "tvmaze:2387055",
+        "title": "Peacocks v Mothers Ruined",
+        "season": 18,
+        "episode": 3,
+        "released": "2022-09-12",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are also vital.Three followers of fashion take on a team comprising a mother, a daughter, the daughter's cousin and the mother's niece. No, the format hasn't changed: that's still only a team of three.So join Victoria to find out the connection between Barrett Homes, Timberland, Malibu and the Conservative Party."
+      },
+      {
+        "id": "tvmaze:2394355",
+        "title": "Cryptics v Strigiformes",
+        "season": 18,
+        "episode": 4,
+        "released": "2022-09-19",
+        "overview": "Victoria Coren Mitchell presents the brain-teasing quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three puzzle fans compete against a team of mature students - yes, there is such a thing. They strive to establish a connection between things that, at first glance, seem utterly random.For example, two Inns of Court, five snooker balls and Benny Andersson are not an entirely random list - together they form part of a sequence."
+      },
+      {
+        "id": "tvmaze:2395593",
+        "title": "Cunning Planners v Seagulls",
+        "season": 18,
+        "episode": 5,
+        "released": "2022-09-26",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three teachers from Brighton take on three Blackadder addicts in another opening heat. They're put to the test when they're asked what comes next in the following sequence: Flower, Moores and Bayliss."
+      },
+      {
+        "id": "tvmaze:2401034",
+        "title": "Jugadores v Harlequins",
+        "season": 18,
+        "episode": 6,
+        "released": "2022-10-03",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.There's a former MP on one of the teams: her political background comes in handy on the Wall but doesn't help to complete the following sequence: 4th: E___, 3rd: M___ P___ , 2nd: P___."
+      },
+      {
+        "id": "tvmaze:2409039",
+        "title": "Scrummagers v Crustaceans",
+        "season": 18,
+        "episode": 7,
+        "released": "2022-10-10",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.One team are rugby supporters, and their opponents are admirers of crustaceans - but that's unlikely to help in establishing the connection between Homeland, Eminem, ABBA and Toys R Us."
+      },
+      {
+        "id": "tvmaze:2412173",
+        "title": "Croot Family v Irregulars",
+        "season": 18,
+        "episode": 8,
+        "released": "2022-10-17",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's another first round match, and a family team take on three Sherlock Holmes aficionados.Could Sherlock have worked out the connection between Lola, Lucinda, Narcissus and Cash? Can the teams?"
+      },
+      {
+        "id": "tvmaze:2415076",
+        "title": "Statisticals v Road Runners",
+        "season": 18,
+        "episode": 9,
+        "released": "2022-10-25",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The series reaches the knock-out stage. Staying in the competition means establishing the connection between four apparently random clues, such as West and Exotic, Diane and Elvis, Moll and Graeme, and Liston and Lloyd."
+      },
+      {
+        "id": "tvmaze:2419762",
+        "title": "Peacocks v Strigiformes",
+        "season": 18,
+        "episode": 10,
+        "released": "2022-11-01",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Two bird-named teams take part in an avian stand-off to establish a pecking order. Their task is to establish connections between groups of items, such as those between the following four capital letters: a blue W, a green L, a red M and a yellow, upside-down L."
+      },
+      {
+        "id": "tvmaze:2423007",
+        "title": "Jugadores v Seagulls",
+        "season": 18,
+        "episode": 11,
+        "released": "2022-11-08",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.When presented with a sequence of three clues, can the teams work out what the fourth would be? They're faced with this apparently random list: New Zealand Parrott, Alias, Small Ford Model."
+      },
+      {
+        "id": "tvmaze:2426845",
+        "title": "Scrummagers v Irregulars",
+        "season": 18,
+        "episode": 12,
+        "released": "2022-11-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.In another knockout match, one of the teams works out what connects four clues after only seeing two of them: Narnian donkey and Edinburgh-based detective.So what is the connection? And what were the two clues they didn't need?"
+      },
+      {
+        "id": "tvmaze:2429015",
+        "title": "Jillies v Morporkians",
+        "season": 18,
+        "episode": 13,
+        "released": "2022-11-21",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three Pratchett people take on a team of Jilly Cooper aficionados. Can they work out the connection between Douglass Dilman/Barack Obama, Mr Cavor/Neil Armstrong, Velvet Brown/Charlotte Brew and Icarus/Orville Wright?"
+      },
+      {
+        "id": "tvmaze:2436221",
+        "title": "Mothers Ruined v Cryptics",
+        "season": 18,
+        "episode": 14,
+        "released": "2022-11-28",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.She asks what connects the following: Black and White, X and Y, Sun and Moon, and Sword and Shield.Those below a certain age may have worked it out already – but how do the teams get on?"
+      },
+      {
+        "id": "tvmaze:2437189",
+        "title": "Cunning Planners v Harlequins",
+        "season": 18,
+        "episode": 15,
+        "released": "2022-12-05",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three sitcom fans take on a team with a passion for the performing arts. As ever, it's all about making connections, so what connects black coffee, the daily bread, coast and ready to eat?"
+      },
+      {
+        "id": "tvmaze:2437190",
+        "title": "Croot Family v Crustaceans",
+        "season": 18,
+        "episode": 16,
+        "released": "2022-12-12",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It could be covered with duct tape, rubbed with raw meat, have dandelion milk dripped on it, or be frozen. But why would anyone want to? Victoria is on hand to explain."
+      },
+      {
+        "id": "tvmaze:2442281",
+        "title": "Strigiformes v Cryptics",
+        "season": 18,
+        "episode": 17,
+        "released": "2022-12-19",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Two returning teams fight for a place in the next round. To get there, all they have to do is answer a series of questions, including working out what comes next in this sequence: The Bosphorous, The Menai Stait and The Golden Gate..."
+      },
+      {
+        "id": "tvmaze:2444378",
+        "title": "Statisticals v Morporkians",
+        "season": 18,
+        "episode": 18,
+        "released": "2023-01-02",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.This is a rematch: the fiendish series structure means these teams met in a previous round. As ever, the trick is finding connections – for example, between Hotel Marbez, Mount Everest, Horseshoe Falls and Chester Football Club."
+      },
+      {
+        "id": "tvmaze:2462023",
+        "title": "Scrummagers v Croot Family",
+        "season": 18,
+        "episode": 19,
+        "released": "2023-01-09",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Two family teams battle it out to stay in the competition, tackling questions such as: Underchamber, Equine sea monster, Pod of the temples and Little brain – what is the connection?"
+      },
+      {
+        "id": "tvmaze:2468089",
+        "title": "Jugadores v Cunning Planners",
+        "season": 18,
+        "episode": 20,
+        "released": "2023-01-16",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.There's a place in the next round on offer, and all the teams have to do is answer questions like this: Obel Tower / The Tower, Meridian Quay / Glasgow Tower / The Shard. What's the connection?"
+      },
+      {
+        "id": "tvmaze:2477981",
+        "title": "Jillies v Strigiformes",
+        "season": 18,
+        "episode": 21,
+        "released": "2023-01-23",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.A semi-final place awaits one of the two returning teams, but to get there, they have to answer a series of diabolical questions, such as working out what comes next in this sequence: Diaballik, Chess and Sudoku..."
+      },
+      {
+        "id": "tvmaze:2478002",
+        "title": "Mothers Ruined v Morporkians",
+        "season": 18,
+        "episode": 22,
+        "released": "2023-01-30",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Standing between the teams and a place in the semi-final are questions such as: what is the connection between Your New Adventure, Grande Valse, Marimba and Hello Moto?Think you know? Join Victoria to find out if you're right."
+      },
+      {
+        "id": "tvmaze:2479768",
+        "title": "Scrummagers v Harlequins",
+        "season": 18,
+        "episode": 23,
+        "released": "2023-02-06",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The semi-finals are looming. All the teams need to do to book their place is answer questions such as: 7 March 2021, 3 July 2021, 22 January 2022. What comes next in the sequence?"
+      },
+      {
+        "id": "tvmaze:2483844",
+        "title": "Cunning Planners v Crustaceans",
+        "season": 18,
+        "episode": 24,
+        "released": "2023-02-13",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Six contestants in search of a semi-final place must deal with a series of tricky questions. For example, what connects the following: For the most part, Hypersensitive immune response, In a manner befitting royalty, and Building for art display?"
+      },
+      {
+        "id": "tvmaze:2490241",
+        "title": "Strigiformes v Morporkians",
+        "season": 18,
+        "episode": 25,
+        "released": "2023-02-20",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's the first of the semi-finals, and the pressure is on. Although, naturally, there's always time for some singing – what connects On Top of Spaghetti, Pinocchio's time inside Monstro, Adelaide's Lament and the cocaine scene in the film Annie Hall?"
+      },
+      {
+        "id": "tvmaze:2491491",
+        "title": "Scrummagers v Crustaceans",
+        "season": 18,
+        "episode": 26,
+        "released": "2023-02-27",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's the second semi-final, but the series structure means the teams have met before. The final beckons, but first there's the small matter of finding the connections between things like this: spread out, heap, lock of hair and heap of rainstorm."
+      },
+      {
+        "id": "tvmaze:2498821",
+        "title": "Third Place Play-Off",
+        "season": 18,
+        "episode": 27,
+        "released": "2023-03-06",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The final can wait, because this episode is the third place play-off! Featuring such questions as what comes next in this sequence: Mc/Ball, Nu/Bell, Gg/Bone…"
+      },
+      {
+        "id": "tvmaze:2498822",
+        "title": "The Final",
+        "season": 18,
+        "episode": 28,
+        "released": "2023-03-13",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's the grand final, and Victoria and the teams are joined in the studio by two sparkling guests. Are the questions trickier than normal? Nauru, Canada and Bolivia... what comes next?"
+      },
+      {
+        "id": "tvmaze:2596518",
+        "title": "Cribbagers v Gunners",
+        "season": 19,
+        "episode": 1,
+        "released": "2023-07-17",
+        "overview": "Victoria Coren Mitchell returns to the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.In the opening heat, three keen cribbage players and a team of Arsenal supporters try to establish the link between apparently unconnected clues. For example, what connects the following: horseshoe, pencil, walrus and handlebar?"
+      },
+      {
+        "id": "tvmaze:2596519",
+        "title": "Roadies v Stitchers",
+        "season": 19,
+        "episode": 2,
+        "released": "2023-07-24",
+        "overview": "Victoria Coren Mitchell hosts another series of the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three rock music fans face a team of enthusiastic embroiderers in another first-round heat. The aim is simple enough: to establish the connection between the clues.For example, what links the following: way in, outside the works, mouth entertainment and little ovens?"
+      },
+      {
+        "id": "tvmaze:2605851",
+        "title": "Antiphons v Drop of Red",
+        "season": 19,
+        "episode": 3,
+        "released": "2023-07-31",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three devotees of choral music come up against a team of red wine connoisseurs, all trying to establish the connection between apparently random clues.For example, what connects Beautiful Horizon, Joyful Port, Saint Paul and River of January?"
+      },
+      {
+        "id": "tvmaze:2605852",
+        "title": "Thrifters v Suncatchers",
+        "season": 19,
+        "episode": 4,
+        "released": "2023-08-07",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three lovers of all things pre-loved compete against a team of warm-weather worshippers to work out the connection between a series of clues. For example, what links the following: rise (v), sufficiently (adv), healthy (adj) and hole containing water (n)?"
+      },
+      {
+        "id": "tvmaze:2621348",
+        "title": "Isotopes v Academicals",
+        "season": 19,
+        "episode": 5,
+        "released": "2023-08-14",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three Matt Groening fans take on a trio of teachers in another opening heat, during which they are tasked with finding the connection between the following: Loretta Lynch, Matthew Hopkins, Tim Davie and Ban Ki-moon."
+      },
+      {
+        "id": "tvmaze:2621349",
+        "title": "Also Rans v Gardners",
+        "season": 19,
+        "episode": 6,
+        "released": "2023-08-21",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Another first-round match, and three former Mastermind contenders are in the spotlight, facing a family team. There's a connection between Catalonia, China, MCC, lifeguard on duty – can the family work it out?"
+      },
+      {
+        "id": "tvmaze:2630067",
+        "title": "Mercians v Volunteers",
+        "season": 19,
+        "episode": 7,
+        "released": "2023-08-28",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Three willing volunteers take on a team from the Midlands to establish the connection between apparently random clues. For example: what is the connection between sharp taste, words set to music, merciless character and solo character?"
+      },
+      {
+        "id": "tvmaze:2630068",
+        "title": "Video Nasties v Solomons Family",
+        "season": 19,
+        "episode": 8,
+        "released": "2023-09-04",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients. In another first-round contest, a fearless family faces fervent film fans. As ever, it's all about connections – what, for example, links Green monster, Small chandelier, Stone sausage and Merrygold robin? Join Victoria to find out."
+      },
+      {
+        "id": "tvmaze:2639800",
+        "title": "Roadies v Cribbagers",
+        "season": 19,
+        "episode": 9,
+        "released": "2023-09-11",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The series reaches the knock-out stage, and only one of the teams can progress to the next round. The quiz is based around establishing connections – for example, what connects the following: 7:36pm, 7:36pm, 7:52pm and 8:22pm? Intrigued? Join Victoria for the answer."
+      },
+      {
+        "id": "tvmaze:2639801",
+        "title": "Drop of Red v Suncatchers",
+        "season": 19,
+        "episode": 10,
+        "released": "2023-09-18",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients. It's the knockout stage, and the next round beckons for one of the teams.To get there, they must establish the connection between apparently random clues, such as: Van Diemonian demon, stout swine, navigation warning device, and chicken and insects rabbit."
+      },
+      {
+        "id": "tvmaze:2649893",
+        "title": "Academicals v Gardners",
+        "season": 19,
+        "episode": 11,
+        "released": "2023-09-25",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Having lost their first game, both teams need a win to stay in. One of them guesses the connection after only three clues: Rador, Ceros and Anzee. What links them, and what could the fourth clue be?"
+      },
+      {
+        "id": "tvmaze:2649894",
+        "title": "Solomons Family v Volunteers",
+        "season": 19,
+        "episode": 12,
+        "released": "2023-10-02",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Once again, one of the teams will be saying goodbye – but not before they have established the connection between some apparently random clues.For example, what connects the following: canister and deep, beat and sadness, boulder and bap, and nation and cowboy movie?"
+      },
+      {
+        "id": "tvmaze:2661247",
+        "title": "Stitchers v Gunners",
+        "season": 19,
+        "episode": 13,
+        "released": "2023-10-09",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's a ‘winner-winner' game, so everyone survives to quiz another day. As always, it's all about connections – the teams try to establish one between Robin, Henry Jones Sr, Gromit and Clarissa Dickson Wright. But what is it?"
+      },
+      {
+        "id": "tvmaze:2661248",
+        "title": "Antiphons v Thrifters",
+        "season": 19,
+        "episode": 14,
+        "released": "2023-10-16",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's another ‘winner-winner' heat, which means one team motors straight through to the next round, while the other has to take a more scenic route.Tug of war, marbles, glass bridge – what comes fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:2668597",
+        "title": "Isotopes v Also Rans",
+        "season": 19,
+        "episode": 15,
+        "released": "2023-10-23",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Everyone's a winner in this episode - in the sense that the losing team wins the right to play another game later in the series.Church, gin, school... what comes fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:2668598",
+        "title": "Mercians v Video Nasties",
+        "season": 19,
+        "episode": 16,
+        "released": "2023-10-30",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The Mercians became the second-highest scorers in the programme's history in their last appearance, finishing with 36 points. But how will they fare against the Video Nasties?They're presented with the following clues: 4th: McIntyre, 3rd: Hillman, and 2nd: Platt. What could come next?"
+      },
+      {
+        "id": "tvmaze:2678990",
+        "title": "Antiphons v Suncatchers",
+        "season": 19,
+        "episode": 17,
+        "released": "2023-11-06",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Only one team can progress to the next round, after wrestling with clues such as: Patch (dog), Jason (cat), Fred/Freda (tortoise)… What comes next in the sequence?"
+      },
+      {
+        "id": "tvmaze:2678991",
+        "title": "Roadies v Stitchers",
+        "season": 19,
+        "episode": 18,
+        "released": "2023-11-13",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's a rematch tonight – the teams have met before, but once again, fate has intervened to bring them face to face to face.Posidriv, Torx, Phillips… what comes next in the sequence?"
+      },
+      {
+        "id": "tvmaze:2687025",
+        "title": "Solomons Family v Video Nasties",
+        "season": 19,
+        "episode": 19,
+        "released": "2023-11-20",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's another rematch – the Video Nasties won last time these teams met. What will the Solomons Family have to do to beat them?Amongst other questions, they have to work out what comes fourth in this sequence: Diversionary Route (2), Primary Route (3), and Tourist Attraction (4)..."
+      },
+      {
+        "id": "tvmaze:2687030",
+        "title": "Isotopes v Gardners",
+        "season": 19,
+        "episode": 20,
+        "released": "2023-11-27",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.All that stands between the teams and a place in the quarter finals is… well, questions, obviously.Questions such as this: aua (J), eua (F), a (M). What's next?"
+      },
+      {
+        "id": "tvmaze:2691175",
+        "title": "Gunners v Suncatchers",
+        "season": 19,
+        "episode": 21,
+        "released": "2023-12-04",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's another fiercely fought contest, but one of the teams will have to head home after facing fiendish question such as: 4. George Orwell, 3. Mamma Mia, 2. Bob Odenkirk. What might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:2705070",
+        "title": "Thrifters v Stitchers",
+        "season": 19,
+        "episode": 22,
+        "released": "2023-12-11",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's a quarter-final, but the losing team can go home with their heads held high, knowing they've grappled with such important questions as: what connects Meng Po soup, Lacuna Inc, the waters of Lethe and Superman's kiss?"
+      },
+      {
+        "id": "tvmaze:2705071",
+        "title": "Also Rans v Video Nasties",
+        "season": 19,
+        "episode": 23,
+        "released": "2023-12-18",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's a quarter-final, and the questions are getting trickier. For example: various, gaseous, caesium... what might come next in the sequence?"
+      },
+      {
+        "id": "tvmaze:2705072",
+        "title": "Isotopes v Mercians",
+        "season": 19,
+        "episode": 24,
+        "released": "2024-01-01",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.A look at just how far some people will go to commemorate their participation in the show. And what comes fourth in the following sequence: The Snow ____, Under the ____ Sun and The ____ In Winter?"
+      },
+      {
+        "id": "tvmaze:2729823",
+        "title": "Semi-Final 1",
+        "season": 19,
+        "episode": 25,
+        "released": "2024-01-08",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's the first semi-final of the series, with the teams facing such questions as: what connects gender reveal parties, Dune (1984 film), Creep and pop-up ads?"
+      },
+      {
+        "id": "tvmaze:2732558",
+        "title": "Semi-Final 2",
+        "season": 19,
+        "episode": 26,
+        "released": "2024-01-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.A coveted place in the third place play-off is at stake: one team will have to settle for being in the final.Here's a question: Andrea Ghez.Why only one clue? Well, that's all they needed on the night. Join Victoria for the answer."
+      },
+      {
+        "id": "tvmaze:2743119",
+        "title": "Third Place Play-Off",
+        "season": 19,
+        "episode": 27,
+        "released": "2024-01-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's the third place play-off - how close can it be?SSQQSSD, LMMJVSD, MDMDFSS – what comes next, and what's the connection?"
+      },
+      {
+        "id": "tvmaze:2749677",
+        "title": "The Final",
+        "season": 19,
+        "episode": 28,
+        "released": "2024-01-29",
+        "overview": "Victoria Coren Mitchell hosts the series final of the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's an exciting episode: everyone will remember where they were when they watched the drama unfold. The teams certainly will: Cardiff.What's next in this sequence: 1st of 26: A, 2nd of 26: H, 3rd of 26: R...?"
+      },
+      {
+        "id": "tvmaze:2961376",
+        "title": "Al Frescans v Midlanders",
+        "season": 20,
+        "episode": 1,
+        "released": "2024-08-12",
+        "overview": "Victoria Coren Mitchell returns with the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.In this opening heat, three fresh air fanatics take on a trio of Midlanders, attempting to find connections between a series of random clues. For example, what comes next in this sequence: sumo, tuwe, thfr...?"
+      },
+      {
+        "id": "tvmaze:2981687",
+        "title": "Hopsters v Sprouters",
+        "season": 20,
+        "episode": 2,
+        "released": "2024-08-19",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.One of the teams likes beer, while the other has a bit of a thing for big vegetables - the bigger the better, apparently. Meanwhile, what's the connection here: 'cat: 200-300', 'mouse: 10-15', 'horse: 15-20k', and 'human: 2-2.5k'?"
+      },
+      {
+        "id": "tvmaze:2981688",
+        "title": "Four Opinions v Bean Farmers",
+        "season": 20,
+        "episode": 3,
+        "released": "2024-08-26",
+        "overview": "Victoria Coren Mitchell presents the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Two teams of three look for connections between apparently random clues. For example, the words peaceful, easy and normal – what do they have in common, and what would come fourth in that sequence?"
+      },
+      {
+        "id": "tvmaze:2990572",
+        "title": "Harmonics v Cat Cows",
+        "season": 20,
+        "episode": 4,
+        "released": "2024-09-02",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.A love of classical music brought one team together, and a yearning for yoga unites the other, but both teams are bound up in their devotion to quizzing.Rocky, Norm, not in this game, yes we can – can they find the connection?"
+      },
+      {
+        "id": "tvmaze:2990573",
+        "title": "Too Many Cookes v Pipe-dreamers",
+        "season": 20,
+        "episode": 5,
+        "released": "2024-09-09",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.The Pipe-dreamers are, well, pipe-dreamers. Too Many Cookes are a family team, whose surname is, er, Cooke.Not much of a puzzle there, so how about this: Ian Buckells, Marwood, the narrator of Three Men in a Boat... what's next in the sequence?"
+      },
+      {
+        "id": "tvmaze:3004242",
+        "title": "Bloomsbury Group v Tea Totallers",
+        "season": 20,
+        "episode": 6,
+        "released": "2024-09-16",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.EM Forster, JM Keynes and Virginia Woolf: all unavailable, sadly, but how will their stand-ins fare against a team of three tea devotees?The connection between chorod, clary muscles, rs and retna is revealed, and a long-standing scoring record is broken."
+      },
+      {
+        "id": "tvmaze:3004243",
+        "title": "Third Agers v Introverts",
+        "season": 20,
+        "episode": 7,
+        "released": "2024-09-23",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Three self-professed introverts have ventured as far as Cardiff to take on three representatives of the University of the Third Age, all seeking the link between apparently random clues.For example: Barbados, Club Med, Maserati and Britannia – what do they have in common?"
+      },
+      {
+        "id": "tvmaze:3015166",
+        "title": "Uisge Beathas v Crunchers",
+        "season": 20,
+        "episode": 8,
+        "released": "2024-09-30",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Three whisky drinkers take on three number crunchers this week, all seeking the link between apparently random clues.For example: Black (from Australia), Bewick's and Whooper – what do they have in common?"
+      },
+      {
+        "id": "tvmaze:3015167",
+        "title": "Hopsters v Midlanders",
+        "season": 20,
+        "episode": 9,
+        "released": "2024-10-07",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Three Midlanders take on a team of ale aficionados in trying to connect a series of clues.Downhill, Super-G, Giant Slalom – not hard to spot the connection with this one, perhaps. But what would come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3027564",
+        "title": "Harmonics v Bean Farmers",
+        "season": 20,
+        "episode": 10,
+        "released": "2024-10-14",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Undeterred by having been beaten in the missing vowels round last time, the Harmonics are back to take on three devotees of a German card game.Question: tonsillectomy, Victoria and mergers - what connects all of the above?"
+      },
+      {
+        "id": "tvmaze:3027565",
+        "title": "Pipe-Dreamers v Tea Totallers",
+        "season": 20,
+        "episode": 11,
+        "released": "2024-10-21",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Three fans of surrealism take on a team of tea enthusiasts, all attempting to establish connections between apparently random clues.For example, what connects the following: Fritz Walter, Billy Gene, Wes Lindsay and Ang Spike?"
+      },
+      {
+        "id": "tvmaze:3037303",
+        "title": "Uisge Beathas v Third Agers",
+        "season": 20,
+        "episode": 12,
+        "released": "2024-10-28",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.A team of whisky lovers returns to face a team from the U3A, all aiming to establish connections between apparently random clues.For example: what connects EDIA, ENTRA, ALFWA and IDDL? One team reckons they're Welsh traffic signs."
+      },
+      {
+        "id": "tvmaze:3037304",
+        "title": "Al Frescans v Sprouters",
+        "season": 20,
+        "episode": 13,
+        "released": "2024-11-04",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The Al Frescans and the Sprouters return to slug it out for a place in the next round – the winners go straight through, the losing team takes a more scenic route.Bearded, ancient and bearded, Sunday and trinity, and tobacco. What connects them all?"
+      },
+      {
+        "id": "tvmaze:3048681",
+        "title": "Four Opinions v Cat Cows",
+        "season": 20,
+        "episode": 14,
+        "released": "2024-11-11",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Two teams of talented quizzers wrestle with such questions as -1: OAT, -2: BAT, -3: BOT. What comes next in the sequence?"
+      },
+      {
+        "id": "tvmaze:3048682",
+        "title": "Too Many Cookes v Bloomsbury Group",
+        "season": 20,
+        "episode": 15,
+        "released": "2024-11-18",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.In another tight match, the team that wins (just) goes straight through to the next round, while the other team will have to play again to stay in the competition.What connects: evil, line manager, pleasantly cold and vomit?"
+      },
+      {
+        "id": "tvmaze:3048683",
+        "title": "Introverts v Crunchers",
+        "season": 20,
+        "episode": 16,
+        "released": "2024-11-25",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Nobody goes home tonight: for the teams, it's a question of how they get to the next round...The questions are getting tougher. For example: German 'yes', the bassist Pastorius and actor Sir Derek – what comes next in the sequence?"
+      },
+      {
+        "id": "tvmaze:3070076",
+        "title": "Harmonics v Cat Cows",
+        "season": 20,
+        "episode": 17,
+        "released": "2024-12-02",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The knockout stage has arrived, and it's a rematch! Yes, thanks to the cunning series structure that nobody quite understands, these teams have played each other before.They're facing such questions as: Arkana, Astana, Nur-Sultan... what comes fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3070077",
+        "title": "Hopsters v Al Frescans",
+        "season": 20,
+        "episode": 18,
+        "released": "2024-12-09",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far - logic and lateral thinking are the vital extra ingredients.It's the knockout stage, so one of the teams will be going home - but not before grappling with clues such as 1000 is ALL, 100 is CV, 10 is J. What's next in the sequence?"
+      },
+      {
+        "id": "tvmaze:3070078",
+        "title": "Uisge Beathas v Crunchers",
+        "season": 20,
+        "episode": 19,
+        "released": "2024-12-16",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.When these teams met before, the Crunchers barely won, so there's a score to be settled.Gwen Stefani, Ryan Reynolds and Alexis Carrington – what do they have in common, and who might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3094443",
+        "title": "Too Many Cookes v Tea Totallers",
+        "season": 20,
+        "episode": 20,
+        "released": "2025-01-06",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.More high scores, but only one team can progress to the next round, and the clues are getting trickier.For example - what connects: Tamaulipas, British Hong Kong, Seychelles and British Columbia?"
+      },
+      {
+        "id": "tvmaze:3094444",
+        "title": "Cat Cows v Sprouters",
+        "season": 20,
+        "episode": 21,
+        "released": "2025-01-13",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Yoga lovers and veg men vie for victory and a place in the next round. They face such questions as: what connects verb, abbreviated, monosyllabic and hyphenated?"
+      },
+      {
+        "id": "tvmaze:3111895",
+        "title": "Al Frescans v Four Opinions",
+        "season": 20,
+        "episode": 22,
+        "released": "2025-01-20",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The Four Opinions won their previous game on a tiebreak – the captain hopes never to repeat the experience, but what does fate have in store?The question-setters, meanwhile, have the following in store: Fourham, Threefield, Twomouth – what might come next in the sequence?"
+      },
+      {
+        "id": "tvmaze:3117217",
+        "title": "Bloomsbury Group v Crunchers",
+        "season": 20,
+        "episode": 23,
+        "released": "2025-01-27",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.Two teams face off in an attempt to get through to the semi-finals. What connects the following: excels, robust, Liberec and Arabic?"
+      },
+      {
+        "id": "tvmaze:3125974",
+        "title": "Introverts v Tea Totallers",
+        "season": 20,
+        "episode": 24,
+        "released": "2025-02-03",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far - logic and lateral thinking are the vital extra ingredients.There's a place in the semi-finals at stake and, as is only to be expected, the questions are getting more fiendish. For example: first wife, almost old, forty-one and Ghost Wolf - what is the connection?"
+      },
+      {
+        "id": "tvmaze:3135270",
+        "title": "Semi Final - Four Opinions v Cat Cows",
+        "season": 20,
+        "episode": 25,
+        "released": "2025-02-10",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's semi-final time, and a coveted place in the third-place play-off is at stake. The teams are on form, with this sequence question being answered after just two clues: 13: Anne of Austria, 14: Maria Theresa of Spain... what comes fourth?"
+      },
+      {
+        "id": "tvmaze:3144326",
+        "title": "Semi-Final - Tea Totallers v Crunchers",
+        "season": 20,
+        "episode": 26,
+        "released": "2025-02-17",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The second semi-final goes to the wire in the Missing Vowels round, but before that, some tricky Sequence questions must be dealt with.For example – BBC: M&amp;S, C4: N&amp;S, C4: N&amp;M... what comes next?"
+      },
+      {
+        "id": "tvmaze:3150949",
+        "title": "Third Place Play-Off",
+        "season": 20,
+        "episode": 27,
+        "released": "2025-02-24",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.It's the third place play-off, and the questions have grown suitably difficult. For example: Pelham and Hope, Curb and Fosse, Gag and Marley, and Snaffle and Geldof – what's the connection?"
+      },
+      {
+        "id": "tvmaze:3157569",
+        "title": "The Final",
+        "season": 20,
+        "episode": 28,
+        "released": "2025-03-03",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – logic and lateral thinking are the vital extra ingredients.The winners of the series are crowned – and, as can be expected, it's a close contest."
+      },
+      {
+        "id": "tvmaze:3305153",
+        "title": "Whitley Baes v Caraxians",
+        "season": 21,
+        "episode": 1,
+        "released": "2025-07-21",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far. A husband-wife-friend combo take on three fans of the films of Leos Carax."
+      },
+      {
+        "id": "tvmaze:3305154",
+        "title": "Oh No They Didn't v Pear Trees",
+        "season": 21,
+        "episode": 2,
+        "released": "2025-07-28",
+        "overview": "Fans of Pantomime and Partridge put their passions on hold to puzzle out the connection between clues such as east Azerbaijan, south Holland, Inner Mongolia and New Mexico."
+      },
+      {
+        "id": "tvmaze:3311905",
+        "title": "Metrophiles v Grapevines",
+        "season": 21,
+        "episode": 3,
+        "released": "2025-08-04",
+        "overview": "Metro systems fascinate one team, while wine does it for the others. There's a fourth in this sequence: and (for A), be (for B), can (for C). But what might it be?"
+      },
+      {
+        "id": "tvmaze:3317952",
+        "title": "5ks v Showstoppers",
+        "season": 21,
+        "episode": 4,
+        "released": "2025-08-11",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far. One team regularly run five kilometres, while the other team prefer a short stroll to singalong nights in Cardiff pubs."
+      },
+      {
+        "id": "tvmaze:3324995",
+        "title": "Scanners v Worker Bees",
+        "season": 21,
+        "episode": 5,
+        "released": "2025-08-18",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far. One team is medical, while the other is Mancunian."
+      },
+      {
+        "id": "tvmaze:3331080",
+        "title": "Pitchers v Benchwarmers",
+        "season": 21,
+        "episode": 6,
+        "released": "2025-08-25",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far. One of the teams comes straight in with an answer after seeing just two clues."
+      },
+      {
+        "id": "tvmaze:3337564",
+        "title": "Jive Bunnies v Sorcerers",
+        "season": 21,
+        "episode": 7,
+        "released": "2025-09-01",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far. Three keen ballroom dancers face a team of devoted Dungeons &amp; Dragons players."
+      },
+      {
+        "id": "tvmaze:3342066",
+        "title": "Doctors Matthews v Keyboard Worriers",
+        "season": 21,
+        "episode": 8,
+        "released": "2025-09-08",
+        "overview": "It's a close match as a family team of doctors takes on three keen pianists. They face questions such as: an embittered former pin-up girl, a robotic dog, a penguin criminal mastermind... what comes next in the sequence?"
+      },
+      {
+        "id": "tvmaze:642769",
+        "title": "Pear Trees v Caraxians",
+        "season": 21,
+        "episode": 9,
+        "released": "2025-09-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Two teams who lost their first-round match return – only one of them can go through to the next round.They face such questions as: what's the connection between dis-moi, the royal, Nintendo and pee-?"
+      },
+      {
+        "id": "tvmaze:3363322",
+        "title": "5ks v Grapevines",
+        "season": 21,
+        "episode": 10,
+        "released": "2025-09-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.One of the contestants still bears a tortoise-related scar, while another was runner-up in a scarecrow competition. Thankfully, they've put all that behind them, so they face such questions as: what connects laughing, ET, Red Bull and fairy dust?"
+      },
+      {
+        "id": "tvmaze:3368918",
+        "title": "Scanners v Benchwarmers",
+        "season": 21,
+        "episode": 11,
+        "released": "2025-09-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.One team must leave the competition. Spoiler alert: it'll be the losers. That's just how this thing works.Postmodern, Boris Johnson and frozen yoghurt – one team spotted the connection after three clues."
+      },
+      {
+        "id": "tvmaze:3377889",
+        "title": "Jive Bunnies v Keyboard Worriers",
+        "season": 21,
+        "episode": 12,
+        "released": "2025-10-06",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.One of the returning teams faced a tie-break in their previous match. To avoid the same fate, they need to keep solving puzzles such as: Sant' Antioco, Elba, Sardinia... what comes next in the sequence?"
+      },
+      {
+        "id": "tvmaze:3387232",
+        "title": "Whitley Baes v Oh No They Didn't",
+        "season": 21,
+        "episode": 13,
+        "released": "2025-10-14",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Neither team has lost a match so far – but that's about to change. The questions are as tricky as ever - for example, what connects deep bass, first lady, air and little book?"
+      },
+      {
+        "id": "tvmaze:3391159",
+        "title": "Metrophiles v Showstoppers",
+        "season": 21,
+        "episode": 14,
+        "released": "2025-10-20",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Both teams won their opening heats, which means nobody goes home. So it's all about the questions, such as what connects Julius Caesar, Fiorentina, poet Jenny Joseph when old, and bishops."
+      },
+      {
+        "id": "tvmaze:3398954",
+        "title": "Pitchers v Worker Bees",
+        "season": 21,
+        "episode": 15,
+        "released": "2025-10-27",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far. No elimination this time: the winners go through, but the losing team gets to play again later in the series."
+      },
+      {
+        "id": "tvmaze:3407648",
+        "title": "Doctors Matthews v Sorcerers",
+        "season": 21,
+        "episode": 16,
+        "released": "2025-11-03",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another week with no knock-out – the winners progress, while the losers will have to play again to stay in the competition.One team correctly guesses the fourth in the sequence after just two clues: master and ultra."
+      },
+      {
+        "id": "tvmaze:3430960",
+        "title": "5ks v Showstoppers",
+        "season": 21,
+        "episode": 17,
+        "released": "2025-11-10",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's going to be a knockout show - in the sense that the losing team will be, well, knocked out.But not before wrestling with fiendish questions such as: holy faith, of the monks, sacrament, red stick – what's the connection?"
+      },
+      {
+        "id": "tvmaze:3436341",
+        "title": "Pear Trees v Whitley Baes",
+        "season": 21,
+        "episode": 18,
+        "released": "2025-11-17",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's a very close game, with the teams having been here before and knowing what to expect: questions such as what connects Armies of Sauron, Lord Zedd, Yogi Bear and Boo-Boo, and Celtic?"
+      },
+      {
+        "id": "tvmaze:3436342",
+        "title": "Keyboard Worriers v Sorcerers",
+        "season": 21,
+        "episode": 19,
+        "released": "2025-11-24",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.A place in the quarter-finals is at stake – one of the teams will have to leave the competition.But not before facing such questions as: Tom Jones, Andy McNab, Ruby Sunday and Moses – what connects them all?"
+      },
+      {
+        "id": "tvmaze:3441239",
+        "title": "Benchwarmers v Worker Bees",
+        "season": 21,
+        "episode": 20,
+        "released": "2025-12-01",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another quarter-final place is on offer, and it looks to be another tight game, featuring such questions as: Thailand -4, Malaysia -3, Slovakia -2… what might come next in the sequence?"
+      },
+      {
+        "id": "tvmaze:3450602",
+        "title": "5Ks v Oh No They Didn't",
+        "season": 21,
+        "episode": 21,
+        "released": "2025-12-08",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.The semi-finals loom, and the questions are getting trickier. For example, what would come fourth in this sequence: South Africa: 4/8, New Zealand 3/10 and Australia 2/10?"
+      },
+      {
+        "id": "tvmaze:3456365",
+        "title": "Metrophiles v Whitley Baes",
+        "season": 21,
+        "episode": 22,
+        "released": "2025-12-15",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Another place in the semi-finals is decided, and the questions are as demanding as ever. For example: Ross, Stoke, Henley... what might come fourth in the sequence?"
+      },
+      {
+        "id": "tvmaze:3465768",
+        "title": "Pitchers v Sorcerers",
+        "season": 21,
+        "episode": 23,
+        "released": "2025-12-22",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.Once again there's a place in the semi-finals on offer, with two teams facing ever more testing questions, such as: 19/2=50, 10/4=100, 30/5=150… what would come fourth in this sequence?"
+      },
+      {
+        "id": "tvmaze:3465769",
+        "title": "Doctors Matthews v Worker Bees",
+        "season": 21,
+        "episode": 24,
+        "released": "2025-12-29",
+        "overview": "Victoria Coren Mitchell hosts the quiz where knowledge only gets you so far – the vital extra ingredients are logic and lateral thinking.It's nip and tuck and touch and go as another place in the semi-finals is decided. Here's an example of the sort of question the teams are up against: 4. Saint Francis, 3. Saint Joseph, 2. Saint James… what comes fourth in this sequence?"
+      }
+    ]
+  }
+}

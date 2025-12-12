@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "id": "tvmaze:80711",
+    "type": "series",
+    "name": "WWE NXT Premium Live Events",
+    "description": "This is a list of WWE NXT pay-per-view and livestreaming supercards, detailing all professional wrestling cards promoted by the American promotion WWE on pay-per-view (PPV) and available via livestreaming on services such as the WWE Network. Due to the American version of the WWE Network merging under Peacock, and with the WWE Network still available in most international markets, as well as less focus being given to traditional PPV channels, in 2022, the company began using the term \"Premium Live Event\" to refer to their events airing on PPV and the livestreaming services. The terminology \"TakeOver\" was dropped in December of 2021 as the NXT brand transformed.",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/546/1365169.jpg",
+    "background": "https://static.tvmaze.com/uploads/images/original_untouched/546/1365169.jpg",
+    "videos": [
+      {
+        "id": "tvmaze:3425055",
+        "title": "Deadline",
+        "season": 2025,
+        "episode": 10,
+        "released": "2025-12-06",
+        "overview": "The NXT Championship will be on the line when Ricky Saints defends the title against Oba Femi.Je'Von Evans, Joe Hendry, Myles Borne, TNA X-Division Champion Leon Slater and Dion Lennox will compete in the Men's Iron Survivor Challenge Match for a future NXT Championship opportunity. Sol Ruca, Jordynne Grace, Kelani Jordan, Lola Vice and Evolve Women's Champion Kendal Grey will compete in the Women's Iron Survivor Challenge for a future NXT Women's Championship opportunity. Former NXT Women's Champion Tatum Paxley will take on the woman that cost her the title, Izzi Dame.AAA Superstar Mr. Iguana returns to NXT to challenge Ethan Page for the NXT North American Championship."
+      }
+    ]
+  }
+}
