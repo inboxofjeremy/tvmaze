@@ -1,12 +1,11 @@
-// build.js (ES module)
-// Final production-ready build script
+// build.js (ES module) — FINAL VERSION
 import fs from "fs";
 import path from "path";
 
 // =======================
 // CONFIG
 // =======================
-const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc"; // your key
+const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const OUT_DIR = "./";
 const CATALOG_DIR = path.join(OUT_DIR, "catalog", "series");
 const META_DIR = path.join(OUT_DIR, "meta", "series");
@@ -36,9 +35,8 @@ function pickDate(ep) {
 }
 
 // =======================
-// FILTERS (A + C)
+// FILTERS — UNCHANGED
 // =======================
-// A + C: block if show.type === "Sports" OR show.genres includes "Sports"
 function isSports(show) {
   if (!show) return false;
   const t = (show.type || "").toLowerCase();
@@ -56,11 +54,12 @@ function isNews(show) {
 }
 
 function isForeign(show) {
-  // Allowed countries: US, GB, CA, AU, IE, NZ
   const allowed = ["US", "GB", "CA", "AU", "IE", "NZ"];
   const c =
-    (show?.network?.country?.code || show?.webChannel?.country?.code || "").toUpperCase() || null;
-  if (!c) return true; // conservative: if no country, treat as foreign
+    (show?.network?.country?.code ||
+      show?.webChannel?.country?.code ||
+      "").toUpperCase();
+  if (!c) return true;
   return !allowed.includes(c);
 }
 
@@ -78,29 +77,32 @@ function filterLastNDays(episodes, n, todayStr) {
 }
 
 // =======================
-// TMDB -> TVMaze fallback via IMDB
+// TMDB Fallback
 // =======================
 async function tmdbToTvmazeByImdb(imdbId) {
   if (!imdbId) return null;
-  // lookup tvmaze by imdb id
+
   const lookup = await fetchJSON(
     `https://api.tvmaze.com/lookup/shows?imdb=${encodeURIComponent(imdbId)}`
   );
   if (!lookup?.id) return null;
-  const detail = await fetchJSON(`https://api.tvmaze.com/shows/${lookup.id}?embed=episodes`);
+
+  const detail = await fetchJSON(
+    `https://api.tvmaze.com/shows/${lookup.id}?embed=episodes`
+  );
   return detail || null;
 }
 
 // =======================
-// DEDUP HELPERS
+// DEDUPE
 // =======================
 function dedupeEpisodes(episodes) {
   const map = new Map();
   for (const ep of episodes || []) {
-    if (!ep || !ep.id) continue;
+    if (!ep?.id) continue;
     map.set(ep.id, ep);
   }
-  return Array.from(map.values());
+  return [...map.values()];
 }
 
 // =======================
@@ -113,12 +115,15 @@ async function build() {
   const dd = String(now.getUTCDate()).padStart(2, "0");
   const todayStr = `${yyyy}-${mm}-${dd}`;
 
-  const showMap = new Map(); // tvmaze showId -> { show, episodes: [] }
+  const showMap = new Map();
 
-  // --- 1) Collect from TVMaze schedule endpoints (10 days)
+  // =====================================
+  // 1) Collect from all schedule endpoints
+  // =====================================
   for (let i = 0; i < 10; i++) {
     const d = new Date(todayStr);
     d.setDate(d.getDate() - i);
+
     const y = d.getUTCFullYear();
     const m = String(d.getUTCMonth() + 1).padStart(2, "0");
     const day = String(d.getUTCDate()).padStart(2, "0");
@@ -133,90 +138,105 @@ async function build() {
     for (const url of endpoints) {
       const list = await fetchJSON(url);
       if (!Array.isArray(list)) continue;
+
       for (const ep of list) {
         const show = ep?.show || ep?._embedded?.show;
         if (!show?.id) continue;
 
-        // filters: news, sports (A+C), foreign
         if (isNews(show)) continue;
         if (isSports(show)) continue;
         if (isForeign(show)) continue;
 
-        const cur = showMap.get(show.id);
-        if (!cur) showMap.set(show.id, { show, episodes: [ep] });
-        else cur.episodes.push(ep);
+        if (!showMap.has(show.id))
+          showMap.set(show.id, { show, episodes: [ep] });
+        else showMap.get(show.id).episodes.push(ep);
       }
     }
   }
 
-  // --- 2) episodesByDate fallback for shows missing from the schedule collection
+  // ===========================================================
+  // 2) Fallback #1: episodesbydate for ANY missing-from-schedule
+  // ===========================================================
   for (let i = 0; i < 10; i++) {
     const d = new Date(todayStr);
     d.setDate(d.getDate() - i);
+
     const y = d.getUTCFullYear();
     const m = String(d.getUTCMonth() + 1).padStart(2, "0");
     const day = String(d.getUTCDate()).padStart(2, "0");
     const dateStr = `${y}-${m}-${day}`;
 
-    const genericSchedule = await fetchJSON(`https://api.tvmaze.com/schedule?date=${dateStr}`);
-    if (!Array.isArray(genericSchedule)) continue;
+    // generic schedule: very broad list of episodes
+    const generic = await fetchJSON(
+      `https://api.tvmaze.com/schedule?date=${dateStr}`
+    );
+    if (!Array.isArray(generic)) continue;
 
-    for (const ep of genericSchedule) {
+    for (const ep of generic) {
       const show = ep?.show;
       if (!show?.id) continue;
-      if (showMap.has(show.id)) continue;
 
-      // quick filters before making more calls
+      if (showMap.has(show.id)) continue; // skip—we already collected it
+
       if (isNews(show)) continue;
       if (isSports(show)) continue;
       if (isForeign(show)) continue;
 
-      // fetch episodes by date for this show
+      // Try episodesbydate for this date
       const eps = await fetchJSON(
         `https://api.tvmaze.com/shows/${show.id}/episodesbydate?date=${dateStr}`
       );
-      if (Array.isArray(eps) && eps.length > 0) {
+
+      if (Array.isArray(eps) && eps.length) {
         showMap.set(show.id, { show, episodes: eps });
       }
     }
   }
 
-  // --- 3) TMDB/IMDB -> TVMaze fallback for shows needing more detail
-  // iterate over a snapshot of keys
-  const keys = Array.from(showMap.keys());
+  // =============================================================
+  // 3) Fallback #2: TMDB → IMDB → TVMaze (if episodes still missing)
+  // =============================================================
+  const keys = [...showMap.keys()];
   for (const showId of keys) {
     const entry = showMap.get(showId);
-    if (!entry) continue;
+    const show = entry.show;
 
-    // if show already has embedded episodes, skip heavy lookup
-    const hasEmbed = entry.show && entry.show._embedded && Array.isArray(entry.show._embedded.episodes) && entry.show._embedded.episodes.length;
+    const hasEmbed =
+      show?._embedded?.episodes &&
+      Array.isArray(show._embedded.episodes) &&
+      show._embedded.episodes.length;
+
     if (hasEmbed) {
-      // merge embedded episodes into entry.episodes to normalize
-      entry.episodes = [...(entry.episodes || []), ...(entry.show._embedded.episodes || [])];
-      entry.episodes = dedupeEpisodes(entry.episodes);
+      entry.episodes = dedupeEpisodes([
+        ...(entry.episodes || []),
+        ...show._embedded.episodes,
+      ]);
       continue;
     }
 
-    const imdb = entry.show?.externals?.imdb;
+    const imdb = show?.externals?.imdb;
     if (!imdb) continue;
 
     const detail = await tmdbToTvmazeByImdb(imdb);
-    if (detail && detail._embedded?.episodes?.length) {
-      // merge episodes and update show detail
-      entry.episodes = [...(entry.episodes || []), ...detail._embedded.episodes];
-      entry.episodes = dedupeEpisodes(entry.episodes);
+    if (detail?._embedded?.episodes?.length) {
+      entry.episodes = dedupeEpisodes([
+        ...(entry.episodes || []),
+        ...detail._embedded.episodes,
+      ]);
       entry.show = detail;
     }
   }
 
-  // --- 4) Finalize catalog entries (only shows with episodes in last 10 days)
+  // ============================
+  // 4) Build catalog output
+  // ============================
   const catalog = [];
+
   for (const [id, entry] of showMap.entries()) {
     const episodes = entry.episodes || [];
     const recent = filterLastNDays(episodes, 10, todayStr);
     if (!recent.length) continue;
 
-    // dedupe episodes once more and sort by airdate
     const deduped = dedupeEpisodes(episodes);
     entry.episodes = deduped;
 
@@ -231,16 +251,20 @@ async function build() {
       type: "series",
       name: entry.show.name,
       description: cleanHTML(entry.show.summary),
-      poster: entry.show.image?.medium || entry.show.image?.original || null,
+      poster:
+        entry.show.image?.medium || entry.show.image?.original || null,
       background: entry.show.image?.original || null,
       latestDate,
     });
   }
 
-  // sort newest first
-  catalog.sort((a, b) => (b.latestDate || "").localeCompare(a.latestDate || ""));
+  catalog.sort((a, b) =>
+    (b.latestDate || "").localeCompare(a.latestDate || "")
+  );
 
-  // --- 5) Write catalog and per-show meta files (one meta file per show)
+  // ============================
+  // 5) Write catalog + meta files
+  // ============================
   fs.mkdirSync(CATALOG_DIR, { recursive: true });
   fs.writeFileSync(
     path.join(CATALOG_DIR, "tvmaze_weekly_schedule.json"),
@@ -251,10 +275,8 @@ async function build() {
 
   for (const [id, entry] of showMap.entries()) {
     const show = entry.show;
-    // dedupe episodes by id before making the meta
-    const unique = dedupeEpisodes(entry.episodes || []);
 
-    // sort episodes by airstamp/date ascending (optional)
+    const unique = dedupeEpisodes(entry.episodes || []);
     unique.sort((a, b) => {
       const da = pickDate(a) || "";
       const db = pickDate(b) || "";
@@ -276,21 +298,25 @@ async function build() {
         type: "series",
         name: show.name,
         description: cleanHTML(show.summary),
-        poster: show.image?.original || show.image?.medium || null,
+        poster:
+          show.image?.original || show.image?.medium || null,
         background: show.image?.original || null,
         videos,
       },
     };
 
     const filename = `tvmaze:${show.id}.json`;
-    fs.writeFileSync(path.join(META_DIR, filename), JSON.stringify(metaObj, null, 2));
+    fs.writeFileSync(
+      path.join(META_DIR, filename),
+      JSON.stringify(metaObj, null, 2)
+    );
   }
 
   console.log("Build complete — catalog count:", catalog.length);
 }
 
-// run
+// run it
 build().catch((err) => {
-  console.error("Build failed:", err && (err.stack || err));
+  console.error("Build failed:", err);
   process.exit(1);
 });
