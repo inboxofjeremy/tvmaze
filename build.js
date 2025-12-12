@@ -82,7 +82,7 @@ const date = new Date(Date.now() + d * 86400000)
 .toISOString()
 .slice(0, 10);
 
-```
+
 const eps = await fetchJSON(
   `https://api.tvmaze.com/schedule?date=${date}`
 );
@@ -101,7 +101,7 @@ for (const ep of eps) {
 
   showMap.get(id).episodes.push(ep);
 }
-```
+
 
 }
 
@@ -116,7 +116,6 @@ async function tmdbFallback(showMap) {
 for (const entry of showMap.values()) {
 if (entry.episodes.length > 0) continue;
 
-```
 const imdb =
   entry.show.externals?.imdb ||
   entry.show.externals?.thetvdb ||
@@ -158,7 +157,7 @@ try {
     }
   }
 } catch {}
-```
+
 
 }
 }
@@ -176,7 +175,7 @@ const catalog = [];
 for (const { show, episodes } of showMap.values()) {
 if (episodes.length === 0) continue;
 
-```
+
 const id = `tvmaze:${show.id}`;
 
 catalog.push({
@@ -200,7 +199,7 @@ fs.writeFileSync(
     2
   )
 );
-```
+
 
 }
 
