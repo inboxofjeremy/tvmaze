@@ -26,41 +26,14 @@ function pickDate(ep) {
   return null;
 }
 
-// ==========================
-// FILTERS
-// ==========================
+// Filters
 function isNews(show) {
-  const name = (show.name || "").toLowerCase();
-  const network = (show.network?.name || "").toLowerCase();
-
-  // Exact title keywords for news/talk shows
-  const newsTitles = [
-    "politicsnation",
-    "early start with rahel solomon",
-    "700 club",
-    "gma",
-    "today"
-  ];
-  
-  // Known news networks
-  const newsNetworks = ["cnn", "abc", "cbs", "nbc", "fox news"];
-
-  const isNewsTitle = newsTitles.some(t => name.includes(t));
-  const isNewsNetwork = newsNetworks.some(n => network.includes(n));
-
-  return isNewsTitle || isNewsNetwork;
+  const t = (show.type || "").toLowerCase();
+  return t === "news" || t === "talk show";
 }
 
 function isSportsShow(show) {
-  const type = (show.type || "").toLowerCase();
-  const genres = show.genres || [];
-  const name = (show.name || "").toLowerCase();
-  return (
-    type === "sports" ||
-    genres.some(g => g.toLowerCase() === "sports") ||
-    name.includes("football") ||
-    name.includes("soccer")
-  );
+  return (show.type || "").trim().toLowerCase() === "sports";
 }
 
 function looksLikeSports(show) {
@@ -95,9 +68,7 @@ function filterLastNDays(episodes, n, todayStr) {
   });
 }
 
-// ==========================
 // TMDB FALLBACK
-// ==========================
 async function tmdbFallback(imdbId) {
   if (!imdbId) return null;
 
@@ -113,10 +84,9 @@ async function tmdbFallback(imdbId) {
   return detail || null;
 }
 
-// ==========================
 // MAIN BUILD PROCESS
-// ==========================
 async function build() {
+  // Today
   const now = new Date();
   const yyyy = now.getUTCFullYear();
   const mm = String(now.getUTCMonth() + 1).padStart(2, "0");
@@ -146,7 +116,6 @@ async function build() {
         const show = ep?.show || ep?._embedded?.show;
         if (!show?.id) continue;
 
-        // APPLY NEWS/SPORTS/FILTER
         if (isNews(show) || isSportsShow(show) || looksLikeSports(show)) continue;
         if (isForeign(show)) continue;
 
@@ -173,17 +142,13 @@ async function build() {
     for (const ep of list) {
       const show = ep?.show;
       if (!show?.id) continue;
-
       if (!showMap.has(show.id)) {
         const ep2 = await fetchJSON(
           `https://api.tvmaze.com/shows/${show.id}/episodesbydate?date=${dateStr}`
         );
 
         if (Array.isArray(ep2) && ep2.length > 0) {
-          // APPLY NEWS/SPORTS/FILTER AFTER EPISODESBYDATE
-          if (!isNews(show) && !isSportsShow(show) && !looksLikeSports(show) && !isForeign(show)) {
-            showMap.set(show.id, { show, episodes: ep2 });
-          }
+          showMap.set(show.id, { show, episodes: ep2 });
         }
       }
     }
@@ -198,19 +163,7 @@ async function build() {
     if (detail && detail._embedded?.episodes?.length > 0) {
       const existing = info.episodes || [];
       const combined = [...existing, ...detail._embedded.episodes];
-
-      // DEDUPLICATE episodes by ID
-      const combinedMap = new Map();
-      for (const ep of combined) {
-        if (!ep?.id) continue;
-        combinedMap.set(ep.id, ep);
-      }
-      info.episodes = [...combinedMap.values()];
-
-      // APPLY NEWS/SPORTS FILTER AFTER TMDB
-      if (isNews(info.show) || isSportsShow(info.show) || looksLikeSports(info.show)) {
-        showMap.delete(id);
-      }
+      info.episodes = combined;
     }
   }
 
@@ -252,7 +205,7 @@ async function build() {
   for (const v of showMap.values()) {
     const show = v.show;
 
-    // Deduplicate episodes by ID
+    // ✅ DEDUPLICATE EPISODES BY TVMAZE EPISODE ID
     const uniqueMap = new Map();
     for (const ep of v.episodes || []) {
       if (!ep?.id) continue;
