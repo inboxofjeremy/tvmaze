@@ -33,18 +33,22 @@ function isNews(show) {
   const name = (show.name || "").toLowerCase();
   const network = (show.network?.name || "").toLowerCase();
 
-  // keywords in show title
-  const newsKeywords = [
-    "news", "morning", "early start", "gma", "politicsnation", "700 club", "today", "talk show"
+  // Exact title keywords for news/talk shows
+  const newsTitles = [
+    "politicsnation",
+    "early start with rahel solomon",
+    "700 club",
+    "gma",
+    "today"
   ];
-
-  // known news networks
+  
+  // Known news networks
   const newsNetworks = ["cnn", "abc", "cbs", "nbc", "fox news"];
 
-  return (
-    newsKeywords.some(k => name.includes(k)) ||
-    newsNetworks.some(n => network.includes(n))
-  );
+  const isNewsTitle = newsTitles.some(t => name.includes(t));
+  const isNewsNetwork = newsNetworks.some(n => network.includes(n));
+
+  return isNewsTitle || isNewsNetwork;
 }
 
 function isSportsShow(show) {
