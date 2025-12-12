@@ -1,43 +1,49 @@
-name: Build TVMaze Addon
+name: Build and Deploy TVMaze Catalog
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'   # every 6 hours
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Add minimal package.json
-        run: |
-          # ensure type: module present for ES modules
-          if [ ! -f package.json ]; then
-            echo '{ "type": "module" }' > package.json
-          else
-            node -e "let p=require('./package.json'); if(!p.type){p.type='module'; require('fs').writeFileSync('package.json', JSON.stringify(p,null,2))}"
-          fi
+      - name: Install Dependencies
+        run: npm install
 
-      - name: Run build
+      - name: Build Catalog
         run: node build.js
 
-      - name: Commit generated files
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add catalog meta || true
-          git commit -m "Auto rebuild catalog" || echo "No changes to commit"
-          git push origin HEAD:main || echo "Push failed (maybe branch protection)"
+      # Upload output for Pages
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
