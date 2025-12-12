@@ -173,13 +173,17 @@ async function build() {
     for (const ep of list) {
       const show = ep?.show;
       if (!show?.id) continue;
+
       if (!showMap.has(show.id)) {
         const ep2 = await fetchJSON(
           `https://api.tvmaze.com/shows/${show.id}/episodesbydate?date=${dateStr}`
         );
 
         if (Array.isArray(ep2) && ep2.length > 0) {
-          showMap.set(show.id, { show, episodes: ep2 });
+          // APPLY NEWS/SPORTS/FILTER AFTER EPISODESBYDATE
+          if (!isNews(show) && !isSportsShow(show) && !looksLikeSports(show) && !isForeign(show)) {
+            showMap.set(show.id, { show, episodes: ep2 });
+          }
         }
       }
     }
@@ -203,8 +207,8 @@ async function build() {
       }
       info.episodes = [...combinedMap.values()];
 
-      // Apply NEWS/SPORTS filter after TMDB fallback
-      if (isNews(info.show) || isSportsShow(info.show)) {
+      // APPLY NEWS/SPORTS FILTER AFTER TMDB
+      if (isNews(info.show) || isSportsShow(info.show) || looksLikeSports(info.show)) {
         showMap.delete(id);
       }
     }
