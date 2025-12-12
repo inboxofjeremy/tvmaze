@@ -46,15 +46,29 @@ function isNews(show) {
 function isSportsShow(show) {
   const type = (show.type || "").toLowerCase();
   const genres = show.genres || [];
-
-  return type === "sports" || genres.some(g => g.toLowerCase() === "sports");
+  const name = (show.name || "").toLowerCase();
+  
+  const sportsKeywords = ["football", "soccer", "basketball", "nfl", "nhl"];
+  
+  return (
+    type === "sports" ||
+    genres.some(g => g.toLowerCase() === "sports") ||
+    sportsKeywords.some(k => name.includes(k))
+  );
 }
 
 function isForeign(show) {
   const allowedCountries = ["US", "GB", "CA", "AU", "NZ", "IE"];
   const country = show?.network?.country?.code;
-  // Only remove if country exists and is NOT allowed
-  return country ? !allowedCountries.includes(country) : false;
+
+  if (country) return !allowedCountries.includes(country);
+
+  // fallback: check network name for foreign indicators
+  const networkName = (show?.network?.name || "").toLowerCase();
+  const foreignIndicators = ["china", "japan", "korea", "russia", "cctv", "tvb"];
+  if (foreignIndicators.some(f => networkName.includes(f))) return true;
+
+  return false;
 }
 
 function filterLastNDays(episodes, n, todayStr) {
@@ -118,8 +132,10 @@ async function build() {
         const show = ep?.show || ep?._embedded?.show;
         if (!show?.id) continue;
 
-        // Initial schedule-level filtering
-        if (isNews(show) || isSportsShow(show) || isForeign(show)) continue;
+        if (isNews(show) || isSportsShow(show) || isForeign(show)) {
+          console.log("Skipping schedule show:", show.name, show.type, show.genres, show.network?.country?.code);
+          continue;
+        }
 
         const cur = showMap.get(show.id);
         if (!cur) showMap.set(show.id, { show, episodes: [ep] });
@@ -150,6 +166,10 @@ async function build() {
         );
 
         if (Array.isArray(ep2) && ep2.length > 0) {
+          if (isNews(show) || isSportsShow(show) || isForeign(show)) {
+            console.log("Skipping episodesByDate show:", show.name);
+            continue;
+          }
           showMap.set(show.id, { show, episodes: ep2 });
         }
       }
@@ -166,20 +186,17 @@ async function build() {
       const existing = info.episodes || [];
       const combined = [...existing, ...detail._embedded.episodes];
       info.episodes = combined;
+
+      // Apply filters after TMDB fallback
+      if (isNews(info.show) || isSportsShow(info.show) || isForeign(info.show)) {
+        console.log("Filtered via TMDB fallback:", info.show.name, info.show.type, info.show.genres);
+        showMap.delete(id);
+      }
     }
   }
 
-  // 4) FINAL FILTERING after TMDB fallback
+  // 4) FINAL LIST
   const finalList = [...showMap.values()]
-    .filter(v => {
-      const show = v.show;
-      // Remove only news, sports, or foreign shows
-      return !(
-        isNews(show) || 
-        isSportsShow(show) || 
-        isForeign(show)
-      );
-    })
     .map((v) => {
       const recent = filterLastNDays(v.episodes, 10, todayStr);
       if (!recent.length) return null;
