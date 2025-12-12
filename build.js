@@ -44,32 +44,17 @@ function isNews(show) {
 }
 
 function isSportsShow(show) {
+  const type = (show.type || "").toLowerCase();
   const genres = show.genres || [];
-  const name = (show.name || "").toLowerCase();
 
-  const sportsKeywords = ["football", "soccer", "basketball", "nfl", "nhl"];
-
-  return (
-    genres.some(g => g.toLowerCase() === "sports") ||
-    sportsKeywords.some(k => name.includes(k))
-  );
-}
-
-function looksLikeSports(show) {
-  const name = (show.name || "").toLowerCase();
-  const network = (show.network?.name || "").toLowerCase();
-  const sportsKeywords = ["football", "soccer", "basketball", "nfl", "nhl"];
-  const sportsNetworks = ["espn", "abc", "nbc sports", "fox sports"];
-  return (
-    sportsKeywords.some((k) => name.includes(k)) ||
-    sportsNetworks.some((n) => network.includes(n))
-  );
+  // Only remove shows explicitly marked as "sports"
+  return type === "sports" || genres.some(g => g.toLowerCase() === "sports");
 }
 
 function isForeign(show) {
   const allowedCountries = ["US", "GB", "CA", "AU", "NZ", "IE"];
   const c = show?.network?.country?.code;
-  if (!c) return true;
+  if (!c) return false; // don’t remove shows with missing country info
   return !allowedCountries.includes(c);
 }
 
@@ -136,7 +121,7 @@ async function build() {
         if (!show?.id) continue;
 
         // initial schedule-level filtering
-        if (isNews(show) || isSportsShow(show) || looksLikeSports(show)) continue;
+        if (isNews(show) || isSportsShow(show)) continue;
         if (isForeign(show)) continue;
 
         const cur = showMap.get(show.id);
@@ -190,10 +175,10 @@ async function build() {
   // 4) FINAL FILTERING after TMDB fallback
   const finalList = [...showMap.values()]
     .filter(v => {
-      // remove any news or sports shows here
-      return !(
-        isNews(v.show) || isSportsShow(v.show) || looksLikeSports(v.show) || isForeign(v.show)
-      );
+      const show = v.show;
+      // remove only actual news or sports shows
+      if (isNews(show) || isSportsShow(show)) return false;
+      return true;
     })
     .map((v) => {
       const recent = filterLastNDays(v.episodes, 10, todayStr);
