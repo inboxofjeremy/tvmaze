@@ -73,12 +73,6 @@ function isNews(show) {
   const t = (show.type || "").toLowerCase();
   return t === "news" || t === "talk show";
 }
-/* ✅ ADDED: block YouTube web-channel shows */
-function isYouTubeShow(show) {
-  const name = (show?.webChannel?.name || "").toLowerCase();
-  return name.includes("youtube");
-}
-
 
 function isForeign(show) {
   const allowed = ["US", "GB", "CA", "AU", "IE", "NZ"];
@@ -95,6 +89,10 @@ function isForeign(show) {
 function isBlockedWebChannel(show) {
   const name = (show?.webChannel?.name || "").toLowerCase();
   return name === "iqiyi";
+}
+function isYouTubeShow(show) {
+  const name = (show?.webChannel?.name || "").toLowerCase();
+  return name.includes("youtube");
 }
 
 function filterLastNDays(episodes, n, todayStr) {
@@ -160,7 +158,7 @@ async function build() {
           isNews(show) ||
           isSports(show) ||
           isForeign(show) ||
-          isBlockedWebChannel(show)   // ✅ ADDED
+          isBlockedWebChannel(show) ||
           isYouTubeShow(show)
         ) continue;
 
@@ -188,7 +186,7 @@ async function build() {
         isNews(show) ||
         isSports(show) ||
         isForeign(show) ||
-        isBlockedWebChannel(show)   // ✅ ADDED
+        isBlockedWebChannel(show) ||
         isYouTubeShow(show)
       ) continue;
 
