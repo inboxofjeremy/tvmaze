@@ -73,6 +73,12 @@ function isNews(show) {
   const t = (show.type || "").toLowerCase();
   return t === "news" || t === "talk show";
 }
+/* ✅ ADDED: block YouTube web-channel shows */
+function isYouTubeShow(show) {
+  const name = (show?.webChannel?.name || "").toLowerCase();
+  return name.includes("youtube");
+}
+
 
 function isForeign(show) {
   const allowed = ["US", "GB", "CA", "AU", "IE", "NZ"];
@@ -155,6 +161,7 @@ async function build() {
           isSports(show) ||
           isForeign(show) ||
           isBlockedWebChannel(show)   // ✅ ADDED
+          isYouTubeShow(show)
         ) continue;
 
         const cur = showMap.get(show.id);
@@ -182,6 +189,7 @@ async function build() {
         isSports(show) ||
         isForeign(show) ||
         isBlockedWebChannel(show)   // ✅ ADDED
+        isYouTubeShow(show)
       ) continue;
 
       const eps = await fetchJSON(
