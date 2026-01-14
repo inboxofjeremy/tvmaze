@@ -1,8 +1,6 @@
 /**
- * build.js — PATCHED VERSION
- * ✔ Keeps original logic
- * ✔ Keeps TMDB fallback
- * ✔ Fixes "No meta found"
+ * build.js — Static Stremio catalog with embedded meta
+ * Keeps all original logic, TMDB fallback, filters, dedupe
  */
 
 import fs from "fs";
@@ -14,7 +12,7 @@ import path from "path";
 const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const OUT_DIR = "./";
 const CATALOG_DIR = path.join(OUT_DIR, "catalog", "series");
-const META_DIR = path.join(OUT_DIR, "meta", "series");
+const META_DIR = path.join(OUT_DIR, "meta", "series"); // optional, not used by Stremio
 
 // =======================
 // TVMAZE RATE LIMIT FIX
@@ -62,7 +60,7 @@ function pickDate(ep) {
 }
 
 // =======================
-// FILTERS (UNCHANGED)
+// FILTERS
 // =======================
 function isSports(show) {
   const t = (show.type || "").toLowerCase();
@@ -81,7 +79,6 @@ function isForeign(show) {
     (show?.network?.country?.code ||
      show?.webChannel?.country?.code ||
      "").toUpperCase();
-
   if (!c) return false;
   return !allowed.includes(c);
 }
@@ -109,7 +106,7 @@ function filterLastNDays(episodes, n, todayStr) {
 }
 
 // =======================
-// TMDB → TVMAZE (UNCHANGED)
+// TMDB → TVMAZE
 // =======================
 async function tmdbToTvmazeByImdb(imdbId) {
   if (!imdbId) return null;
@@ -136,7 +133,7 @@ async function build() {
   const todayStr = new Date().toISOString().slice(0, 10);
   const showMap = new Map();
 
-  // --- ORIGINAL DISCOVERY LOGIC (UNCHANGED)
+  // --- TVMaze schedule discovery
   for (let i = 0; i < 10; i++) {
     const d = new Date(todayStr);
     d.setDate(d.getDate() - i);
@@ -169,7 +166,7 @@ async function build() {
     }
   }
 
-  // --- TMDB ENRICHMENT (UNCHANGED)
+  // --- TMDB enrichment
   for (const entry of showMap.values()) {
     const imdb = entry.show?.externals?.imdb;
     if (!imdb) continue;
@@ -182,96 +179,56 @@ async function build() {
     }
   }
 
-// =======================
-// BUILD CATALOG WITH EMBEDDED META
-// =======================
-const catalog = [];
+  // =======================
+  // BUILD CATALOG WITH EMBEDDED META
+  // =======================
+  const catalog = [];
 
-for (const entry of showMap.values()) {
-  entry.episodes = dedupeEpisodes(entry.episodes);
-  const recent = filterLastNDays(entry.episodes, 10, todayStr);
-  if (!recent.length) continue;
+  for (const entry of showMap.values()) {
+    entry.episodes = dedupeEpisodes(entry.episodes);
+    const recent = filterLastNDays(entry.episodes, 10, todayStr);
+    if (!recent.length) continue;
 
-  // Build videos array
-  const videos = entry.episodes
-    .sort((a, b) => (pickDate(a) || "").localeCompare(pickDate(b) || ""))
-    .map(ep => ({
-      id: `tvmaze:${ep.id}`,
-      title: ep.name,
-      season: ep.season,
-      episode: ep.number,
-      released: ep.airdate,
-      overview: cleanHTML(ep.summary),
-    }));
+    const videos = entry.episodes
+      .sort((a, b) => (pickDate(a) || "").localeCompare(pickDate(b) || ""))
+      .map(ep => ({
+        id: `tvmaze:${ep.id}`,
+        title: ep.name,
+        season: ep.season,
+        episode: ep.number,
+        released: ep.airdate,
+        overview: cleanHTML(ep.summary),
+      }));
 
-  // Build the full meta object
-  const meta = {
-    id: `tvmaze:${entry.show.id}`,
-    type: "series",
-    name: entry.show.name,
-    description: cleanHTML(entry.show.summary),
-    poster: entry.show.image?.original || entry.show.image?.medium || null,
-    background: entry.show.image?.original || null,
-    videos,
-  };
+    const meta = {
+      id: `tvmaze:${entry.show.id}`,
+      type: "series",
+      name: entry.show.name,
+      description: cleanHTML(entry.show.summary),
+      poster: entry.show.image?.original || entry.show.image?.medium || null,
+      background: entry.show.image?.original || null,
+      videos,
+    };
 
-  catalog.push({
-    id: meta.id,
-    type: meta.type,
-    name: meta.name,
-    description: meta.description,
-    poster: meta.poster,
-    background: meta.background,
-    meta, // ✅ embed full meta for static-only hosting
-  });
-}
+    catalog.push({
+      id: meta.id,
+      type: meta.type,
+      name: meta.name,
+      description: meta.description,
+      poster: meta.poster,
+      background: meta.background,
+      meta, // ✅ embedded meta for static hosting
+    });
 
-// Write catalog file
-fs.mkdirSync(CATALOG_DIR, { recursive: true });
-fs.writeFileSync(
-  path.join(CATALOG_DIR, "tvmaze_weekly_schedule.json"),
-  JSON.stringify({ metas: catalog }, null, 2)
-);
-
-// =======================
-// WRITE META (FIXED)
-// =======================
-fs.mkdirSync(META_DIR, { recursive: true }); // ✅ ensure folder exists
-
-for (const entry of showMap.values()) {
-  const videos = dedupeEpisodes(entry.episodes)
-    .sort((a, b) => (pickDate(a) || "").localeCompare(pickDate(b) || ""))
-    .map(ep => ({
-      id: `tvmaze:${ep.id}`,
-      title: ep.name,
-      season: ep.season,
-      episode: ep.number,
-      released: ep.airdate,
-      overview: cleanHTML(ep.summary),
-    }));
-
-  fs.writeFileSync(
-    path.join(META_DIR, `tvmaze_${entry.show.id}.json`),
-    JSON.stringify(
-      {
-        meta: {
-          id: `tvmaze:${entry.show.id}`,
-          type: "series",
-          name: entry.show.name,
-          description: cleanHTML(entry.show.summary),
-          poster: entry.show.image?.original || entry.show.image?.medium || null,
-          background: entry.show.image?.original || null,
-          videos,
-        },
-      },
-      null,
-      2
-    )
-  );
-
-
-
+    console.log(`Added show: ${meta.name} (${meta.id})`);
   }
+
+  // Write catalog JSON
+  fs.mkdirSync(CATALOG_DIR, { recursive: true });
+  fs.writeFileSync(
+    path.join(CATALOG_DIR, "tvmaze_weekly_schedule.json"),
+    JSON.stringify({ metas: catalog }, null, 2)
+  );
 
   console.log("Build complete:", catalog.length, "shows");
 }
