@@ -1,7 +1,6 @@
 /**
- * build.js — Stremio static catalog with embedded meta (full version)
- * Keeps all original logic: filters, TMDB fallback, dedupe, last 10 days
- * Produces catalog JSON compatible with GitHub Pages (no nested meta)
+ * build.js — Stremio static catalog with embedded meta
+ * Fully compatible with GitHub Pages
  */
 
 import fs from "fs";
@@ -15,7 +14,7 @@ const OUT_DIR = "./";
 const CATALOG_DIR = path.join(OUT_DIR, "catalog", "series");
 
 // =======================
-// TVMAZE RATE LIMIT FIX
+// TVMAZE RATE LIMIT
 // =======================
 const TVMAZE_DELAY_MS = 150;
 const TVMAZE_MAX_RETRIES = 5;
@@ -59,6 +58,18 @@ function pickDate(ep) {
   return null;
 }
 
+function filterLastNDays(episodes, n, todayStr) {
+  const today = new Date(todayStr);
+  const start = new Date(todayStr);
+  start.setDate(start.getDate() - (n - 1));
+  return episodes.filter(ep => {
+    const d = pickDate(ep);
+    if (!d || d > todayStr) return false;
+    const dt = new Date(d);
+    return dt >= start && dt <= today;
+  });
+}
+
 // =======================
 // FILTERS
 // =======================
@@ -93,18 +104,6 @@ function isYouTubeShow(show) {
   return name.includes("youtube");
 }
 
-function filterLastNDays(episodes, n, todayStr) {
-  const today = new Date(todayStr);
-  const start = new Date(todayStr);
-  start.setDate(start.getDate() - (n - 1));
-  return episodes.filter(ep => {
-    const d = pickDate(ep);
-    if (!d || d > todayStr) return false;
-    const dt = new Date(d);
-    return dt >= start && dt <= today;
-  });
-}
-
 // =======================
 // TMDB → TVMAZE
 // =======================
@@ -133,7 +132,7 @@ async function build() {
   const todayStr = new Date().toISOString().slice(0, 10);
   const showMap = new Map();
 
-  // --- TVMaze schedule discovery (last 10 days)
+  // --- DISCOVER TVMAZE SCHEDULE (last 10 days)
   for (let i = 0; i < 10; i++) {
     const d = new Date(todayStr);
     d.setDate(d.getDate() - i);
@@ -166,7 +165,7 @@ async function build() {
     }
   }
 
-  // --- TMDB enrichment
+  // --- TMDB fallback enrichment
   for (const entry of showMap.values()) {
     const imdb = entry.show?.externals?.imdb;
     if (!imdb) continue;
@@ -180,7 +179,7 @@ async function build() {
   }
 
   // =======================
-  // BUILD CATALOG WITH EMBEDDED META (Stremio static-ready)
+  // BUILD STATIC CATALOG (Stremio-ready)
   // =======================
   const catalog = [];
 
@@ -200,8 +199,8 @@ async function build() {
         overview: cleanHTML(ep.summary),
       }));
 
-    // ✅ Full meta object directly pushed into catalog
-    const meta = {
+    // ✅ Push meta directly — NO nested meta
+    catalog.push({
       id: `tvmaze:${entry.show.id}`,
       type: "series",
       name: entry.show.name,
@@ -209,10 +208,9 @@ async function build() {
       poster: entry.show.image?.original || entry.show.image?.medium || null,
       background: entry.show.image?.original || null,
       videos,
-    };
+    });
 
-    catalog.push(meta);
-    console.log(`Added show: ${meta.name} (${meta.id})`);
+    console.log(`Added show: ${entry.show.name} (tvmaze:${entry.show.id})`);
   }
 
   // Write catalog JSON
