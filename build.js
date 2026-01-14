@@ -199,7 +199,6 @@ async function build() {
         overview: cleanHTML(ep.summary),
       }));
 
-    // ✅ Push meta directly — NO nested meta
     catalog.push({
       id: `tvmaze:${entry.show.id}`,
       type: "series",
@@ -213,7 +212,7 @@ async function build() {
     console.log(`Added show: ${entry.show.name} (tvmaze:${entry.show.id})`);
   }
 
-  // Write catalog JSON
+  // WRITE CATALOG
   fs.mkdirSync(CATALOG_DIR, { recursive: true });
   fs.writeFileSync(
     path.join(CATALOG_DIR, "tvmaze_weekly_schedule.json"),
