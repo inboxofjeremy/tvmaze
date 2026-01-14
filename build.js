@@ -1,6 +1,7 @@
 /**
- * build.js — Static Stremio catalog with embedded meta
- * Keeps all original logic, TMDB fallback, filters, dedupe
+ * build.js — Stremio static catalog with embedded meta (full version)
+ * Keeps all original logic: filters, TMDB fallback, dedupe, last 10 days
+ * Produces catalog JSON compatible with GitHub Pages (no nested meta)
  */
 
 import fs from "fs";
@@ -12,7 +13,6 @@ import path from "path";
 const TMDB_API_KEY = "944017b839d3c040bdd2574083e4c1bc";
 const OUT_DIR = "./";
 const CATALOG_DIR = path.join(OUT_DIR, "catalog", "series");
-const META_DIR = path.join(OUT_DIR, "meta", "series"); // optional, not used by Stremio
 
 // =======================
 // TVMAZE RATE LIMIT FIX
@@ -133,7 +133,7 @@ async function build() {
   const todayStr = new Date().toISOString().slice(0, 10);
   const showMap = new Map();
 
-  // --- TVMaze schedule discovery
+  // --- TVMaze schedule discovery (last 10 days)
   for (let i = 0; i < 10; i++) {
     const d = new Date(todayStr);
     d.setDate(d.getDate() - i);
@@ -180,7 +180,7 @@ async function build() {
   }
 
   // =======================
-  // BUILD CATALOG WITH EMBEDDED META
+  // BUILD CATALOG WITH EMBEDDED META (Stremio static-ready)
   // =======================
   const catalog = [];
 
@@ -200,6 +200,7 @@ async function build() {
         overview: cleanHTML(ep.summary),
       }));
 
+    // ✅ Full meta object directly pushed into catalog
     const meta = {
       id: `tvmaze:${entry.show.id}`,
       type: "series",
@@ -210,16 +211,7 @@ async function build() {
       videos,
     };
 
-    catalog.push({
-      id: meta.id,
-      type: meta.type,
-      name: meta.name,
-      description: meta.description,
-      poster: meta.poster,
-      background: meta.background,
-      meta, // ✅ embedded meta for static hosting
-    });
-
+    catalog.push(meta);
     console.log(`Added show: ${meta.name} (${meta.id})`);
   }
 
