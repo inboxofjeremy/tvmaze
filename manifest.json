@@ -4,13 +4,7 @@
   "name": "TVMaze Weekly Schedule",
   "description": "English-language TV shows aired in the last 10 days (US/GB/CA/AU/IE/NZ).",
   "types": ["series"],
-  "resources": [
-    "catalog",
-    {
-      "name": "meta",
-      "types": ["series"]
-    }
-  ],
+  "resources": ["catalog"],
   "catalogs": [
     {
       "type": "series",
