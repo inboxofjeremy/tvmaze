@@ -2,7 +2,7 @@
   "id": "github.tvmaze.schedule",
   "version": "1.0.0",
   "name": "TVMaze Weekly Schedule",
-  "description": "English-language TV shows aired in the last 10 days",
+  "description": "English-language TV shows aired in the last 10 days (US/GB/CA/AU/IE/NZ).",
   "types": ["series"],
   "resources": [
     "catalog",
