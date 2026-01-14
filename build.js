@@ -207,10 +207,11 @@ async function build() {
     path.join(CATALOG_DIR, "tvmaze_weekly_schedule.json"),
     JSON.stringify({ metas: catalog }, null, 2)
   );
+// =======================
+// WRITE META (FIXED)
+// =======================
+fs.mkdirSync(META_DIR, { recursive: true }); // ✅ ensure folder exists
 
-  // =======================
-  // WRITE META (FIXED)
-  // =======================
 for (const entry of showMap.values()) {
   const videos = dedupeEpisodes(entry.episodes)
     .sort((a, b) => (pickDate(a) || "").localeCompare(pickDate(b) || ""))
@@ -224,7 +225,7 @@ for (const entry of showMap.values()) {
     }));
 
   fs.writeFileSync(
-    path.join(META_DIR, `tvmaze_${entry.show.id}.json`), // ✅ FIX
+    path.join(META_DIR, `tvmaze_${entry.show.id}.json`),
     JSON.stringify(
       {
         meta: {
