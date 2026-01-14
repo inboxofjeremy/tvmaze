@@ -212,32 +212,37 @@ async function build() {
   // WRITE META (FIXED)
   // =======================
 for (const entry of showMap.values()) {
-  const metaId = `tvmaze:${entry.show.id}`;
-  const safeFile = `tvmaze_${entry.show.id}.json`;
-
-  const videos = dedupeEpisodes(entry.episodes).map(ep => ({
-    id: `tvmaze:${entry.show.id}:${ep.season || 1}:${ep.number || 1}`,
-    title: ep.name,
-    season: ep.season || 1,
-    episode: ep.number || 1,
-    released: ep.airdate,
-    overview: cleanHTML(ep.summary),
-  }));
-
-  const meta = {
-    id: metaId,
-    type: "series",
-    name: entry.show.name,
-    description: cleanHTML(entry.show.summary),
-    poster: entry.show.image?.medium || null,
-    background: entry.show.image?.original || null,
-    videos,
-  };
+  const videos = dedupeEpisodes(entry.episodes)
+    .sort((a, b) => (pickDate(a) || "").localeCompare(pickDate(b) || ""))
+    .map(ep => ({
+      id: `tvmaze:${ep.id}`,
+      title: ep.name,
+      season: ep.season,
+      episode: ep.number,
+      released: ep.airdate,
+      overview: cleanHTML(ep.summary),
+    }));
 
   fs.writeFileSync(
-    path.join(META_DIR, safeFile),
-    JSON.stringify({ meta }, null, 2)
+    path.join(META_DIR, `tvmaze_${entry.show.id}.json`), // ✅ FIX
+    JSON.stringify(
+      {
+        meta: {
+          id: `tvmaze:${entry.show.id}`,
+          type: "series",
+          name: entry.show.name,
+          description: cleanHTML(entry.show.summary),
+          poster: entry.show.image?.original || entry.show.image?.medium || null,
+          background: entry.show.image?.original || null,
+          videos,
+        },
+      },
+      null,
+      2
+    )
   );
+}
+
 
   }
 
