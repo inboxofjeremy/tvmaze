@@ -182,31 +182,57 @@ async function build() {
     }
   }
 
-  // =======================
-  // BUILD CATALOG
-  // =======================
-  const catalog = [];
+// =======================
+// BUILD CATALOG WITH EMBEDDED META
+// =======================
+const catalog = [];
 
-  for (const entry of showMap.values()) {
-    entry.episodes = dedupeEpisodes(entry.episodes);
-    const recent = filterLastNDays(entry.episodes, 10, todayStr);
-    if (!recent.length) continue;
+for (const entry of showMap.values()) {
+  entry.episodes = dedupeEpisodes(entry.episodes);
+  const recent = filterLastNDays(entry.episodes, 10, todayStr);
+  if (!recent.length) continue;
 
-    catalog.push({
-      id: `tvmaze:${entry.show.id}`,
-      type: "series",
-      name: entry.show.name,
-      description: cleanHTML(entry.show.summary),
-      poster: entry.show.image?.medium || null,
-      background: entry.show.image?.original || null,
-    });
-  }
+  // Build videos array
+  const videos = entry.episodes
+    .sort((a, b) => (pickDate(a) || "").localeCompare(pickDate(b) || ""))
+    .map(ep => ({
+      id: `tvmaze:${ep.id}`,
+      title: ep.name,
+      season: ep.season,
+      episode: ep.number,
+      released: ep.airdate,
+      overview: cleanHTML(ep.summary),
+    }));
 
-  fs.mkdirSync(CATALOG_DIR, { recursive: true });
-  fs.writeFileSync(
-    path.join(CATALOG_DIR, "tvmaze_weekly_schedule.json"),
-    JSON.stringify({ metas: catalog }, null, 2)
-  );
+  // Build the full meta object
+  const meta = {
+    id: `tvmaze:${entry.show.id}`,
+    type: "series",
+    name: entry.show.name,
+    description: cleanHTML(entry.show.summary),
+    poster: entry.show.image?.original || entry.show.image?.medium || null,
+    background: entry.show.image?.original || null,
+    videos,
+  };
+
+  catalog.push({
+    id: meta.id,
+    type: meta.type,
+    name: meta.name,
+    description: meta.description,
+    poster: meta.poster,
+    background: meta.background,
+    meta, // ✅ embed full meta for static-only hosting
+  });
+}
+
+// Write catalog file
+fs.mkdirSync(CATALOG_DIR, { recursive: true });
+fs.writeFileSync(
+  path.join(CATALOG_DIR, "tvmaze_weekly_schedule.json"),
+  JSON.stringify({ metas: catalog }, null, 2)
+);
+
 // =======================
 // WRITE META (FIXED)
 // =======================
