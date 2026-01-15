@@ -185,18 +185,22 @@ async function build() {
 
   for (const entry of showMap.values()) {
     entry.episodes = dedupeEpisodes(entry.episodes);
-    const recent = filterLastNDays(entry.episodes, 10, todayStr);
-    if (!recent.length) continue;
 
-    const videos = entry.episodes
+    // last 10 days filter
+    const recent = filterLastNDays(entry.episodes, 10, todayStr);
+
+    // fallback: always have at least one episode
+    const episodesToShow = recent.length ? recent : [entry.episodes[entry.episodes.length - 1]];
+
+    const videos = episodesToShow
       .sort((a, b) => (pickDate(a) || "").localeCompare(pickDate(b) || ""))
       .map(ep => ({
         id: `tvmaze:${ep.id}`,
-        title: ep.name,
-        season: ep.season,
-        episode: ep.number,
-        released: ep.airdate,
-        overview: cleanHTML(ep.summary),
+        title: ep.name || pickDate(ep),
+        season: ep.season || 0,
+        episode: ep.number || 0,
+        released: pickDate(ep),
+        overview: cleanHTML(ep.summary) || "",
       }));
 
     catalog.push({
