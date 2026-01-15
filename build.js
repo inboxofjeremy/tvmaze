@@ -1,6 +1,6 @@
 /**
  * build.js — Stremio static catalog with embedded meta
- * Fully compatible with GitHub Pages
+ * Fully compatible with GitHub Pagess
  */
 
 import fs from "fs";
