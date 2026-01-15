@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "0 8 * * *"  # Daily at 08:00 UTC (12AM PST)
+    - cron: "0 8 * * *"  # daily at 08:00 UTC (~12AM PST)
 
 permissions:
   contents: read
@@ -16,9 +16,11 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      artifact-path: ${{ steps.set-path.outputs.path }}
 
     steps:
-      - name: Checkout repo
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -32,17 +34,24 @@ jobs:
       - name: Build catalog
         run: node build.js
 
-      # Upload catalog folder preserving path
-      - name: Upload catalog for Pages
+      - name: Prepare artifact
+        id: set-path
+        run: |
+          mkdir -p deploy
+          cp -r catalog deploy/catalog
+          echo "path=deploy" >> $GITHUB_OUTPUT
+
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./catalog  # keeps catalog/series/... folder structure
+          path: deploy
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
