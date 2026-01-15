@@ -22,7 +22,7 @@
   "catalogs": [
     {
       "type": "series",
-      "id": "tvmaze_weekly",
+      "id": "tvmaze_weekly_schedule",
       "name": "TVMaze Weekly Schedule",
       "url": "https://inboxofjeremy.github.io/tvmaze/catalog/series/tvmaze_weekly_schedule.json",
       "extra": []
