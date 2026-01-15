@@ -1,7 +1,8 @@
 name: Build Stremio Catalog
+
 on:
   schedule:
-    - cron: "0 3 * * *" # daily at 3AM
+    - cron: "0 3 * * *"
   push:
     branches: ["main"]
 
@@ -9,17 +10,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v3
         with:
           node-version: "20"
-      - name: Install dependencies
-        run: npm install
+
       - name: Build catalog
         run: node build.js
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./catalog
+
+      - name: Commit catalog to main
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add catalog
+          git commit -m "Update Stremio catalog" || true
+          git pull --rebase
+          git push
