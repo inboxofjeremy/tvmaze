@@ -1,39 +1,43 @@
-name: Build Stremio Catalog
+name: Build & Deploy Stremio Catalog
 
 on:
+  workflow_dispatch:        # allows manual trigger
   schedule:
-    - cron: "0 3 * * *" # daily at 3AM
+    - cron: "0 3 * * *"    # daily at 3AM UTC
   push:
-    branches: ["main"]
-  workflow_dispatch:    # enables manual runs
+    branches:
+      - main               # triggers on pushes to main
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repository
-      - uses: actions/checkout@v3
+      # --- 1. Checkout repo ---
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      # 2. Setup Node.js
+      # --- 2. Setup Node.js ---
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: "20"
 
-      # 3. Install dependencies (if you have package.json)
+      # --- 3. Install dependencies ---
       - name: Install dependencies
         run: npm install
 
-      # 4. Build catalog
-      - name: Build catalog
+      # --- 4. Build catalog ---
+      - name: Build Stremio catalog
         run: node build.js
 
-      # 5. Deploy to GitHub Pages
-      - name: Deploy to GitHub Pages
+      # --- 5. Deploy to GitHub Pages (main branch) ---
+      - name: Deploy catalog to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./catalog
-          # The pages branch will be main if you want to serve from main branch
           publish_branch: main
+          publish_dir: ./catalog
+          user_name: github-actions
+          user_email: github-actions@github.com
+          commit_message: "Update TVMaze weekly schedule [skip ci]"
