@@ -13,9 +13,8 @@ permissions:
   id-token: write
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
-    environment: github-pages
 
     steps:
       - name: Checkout
@@ -26,16 +25,25 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: npm install || true
 
-      - name: Build Catalog
+      - name: Build catalog
         run: node build.js
 
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v1
         with:
-          # deploy both catalog folder and manifest.json
           path: |
             catalog
             manifest.json
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v1
