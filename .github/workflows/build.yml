@@ -6,7 +6,6 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Daily at 8:00 UTC
     - cron: "0 8 * * *"
 
 permissions:
@@ -17,12 +16,9 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    outputs:
-      artifact-name: github-pages
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -32,17 +28,19 @@ jobs:
       - name: Install dependencies
         run: npm install || true
 
-      - name: Build TVMaze catalog
+      - name: Build catalog
         run: node build.js
 
-      # Upload only the files we need for GitHub Pages
-      - name: Upload artifact for Pages
+      - name: Prepare folder for Pages
+        run: |
+          mkdir -p public/catalog/series
+          cp manifest.json public/
+          cp catalog/series/tvmaze_weekly_schedule.json public/catalog/series/
+
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          artifact_name: github-pages
-          path: |
-            manifest.json
-            catalog/series/tvmaze_weekly_schedule.json
+          path: public
 
   deploy:
     needs: build
@@ -52,7 +50,4 @@ jobs:
 
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          artifact_name: github-pages
