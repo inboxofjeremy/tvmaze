@@ -4,12 +4,9 @@ on:
   push:
     branches:
       - main
-
   workflow_dispatch:
-
   schedule:
-    # 12:00 AM Pacific Time (PST = UTC-8) → 08:00 UTC daily
-    - cron: "0 8 * * *"
+    - cron: "0 3 * * *"  # daily at 3AM UTC
 
 permissions:
   contents: read
@@ -19,28 +16,26 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      artifact-path: ${{ steps.upload.outputs.artifact-path }}
 
     steps:
-      # Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Setup Node.js
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # Install dependencies
       - name: Install dependencies
         run: npm install || true
 
-      # Run your build.js to generate catalog
-      - name: Build Catalog
+      - name: Build catalog
         run: node build.js
 
-      # Upload catalog folder AND manifest.json
       - name: Upload Pages artifact
+        id: upload
         uses: actions/upload-pages-artifact@v3
         with:
           path: |
