@@ -5,29 +5,35 @@ on:
     - cron: "0 3 * * *" # daily at 3AM
   push:
     branches: ["main"]
+  workflow_dispatch:    # enables manual runs
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
 
+    steps:
+      # 1. Checkout the repository
+      - uses: actions/checkout@v3
+
+      # 2. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: "20"
 
+      # 3. Install dependencies (if you have package.json)
       - name: Install dependencies
         run: npm install
 
+      # 4. Build catalog
       - name: Build catalog
         run: node build.js
 
-      - name: Commit catalog to main branch
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add catalog/series/tvmaze_weekly_schedule.json
-          git diff --cached --quiet || git commit -m "Update TVMaze weekly schedule [skip ci]"
-          git push origin main
+      # 5. Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./catalog
+          # The pages branch will be main if you want to serve from main branch
+          publish_branch: main
