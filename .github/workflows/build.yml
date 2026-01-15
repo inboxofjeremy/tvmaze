@@ -2,7 +2,7 @@ name: Build Stremio Catalog
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *" # daily at 3AM
   push:
     branches: ["main"]
 
@@ -10,22 +10,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
 
       - name: Build catalog
         run: node build.js
 
-      - name: Commit catalog to main
+      - name: Commit catalog to main branch
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add catalog
-          git commit -m "Update Stremio catalog" || true
-          git pull --rebase
-          git push
+          git add catalog/series/tvmaze_weekly_schedule.json
+          git diff --cached --quiet || git commit -m "Update TVMaze weekly schedule [skip ci]"
+          git push origin main
