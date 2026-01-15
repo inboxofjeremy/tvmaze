@@ -8223,12 +8223,28 @@
           "overview": "In the season premiere, Tim rejoins Tickle on the outlaw side as Canadian tariffs open a new market. With police on their trail, Mark and Digger revive old-time tactics. Josh heads to the Carolina hills to reinvent his family recipe with a new ingredient."
         },
         {
+          "id": "tvmaze:3524701",
+          "title": "True Crime & Shine: Sin City Alabama",
+          "season": 15,
+          "episode": 0,
+          "released": "2026-01-06",
+          "overview": ""
+        },
+        {
           "id": "tvmaze:3486770",
           "title": "Outlaw Redemption",
           "season": 15,
           "episode": 2,
           "released": "2026-01-13",
           "overview": "Tim and Tickle bottle their first illegal run together in 14 years. Mark and Digger reintroduce their infamous hand-made corn liquor to the outlaw market, only to find their price undercut by a mysterious competitor. Josh gets a wakeup call about the law."
+        },
+        {
+          "id": "tvmaze:3524700",
+          "title": "True Crime & Shine: Brooklyn Whiskey Wars",
+          "season": 15,
+          "episode": 0,
+          "released": "2026-01-13",
+          "overview": ""
         }
       ]
     },
@@ -11137,11 +11153,11 @@
       "background": "https://static.tvmaze.com/uploads/images/original_untouched/601/1504779.jpg",
       "videos": [
         {
-          "id": "tvmaze:3524697",
-          "title": "Euphoria",
+          "id": "tvmaze:3524698",
+          "title": "TBA",
           "season": 3,
-          "episode": 7,
-          "released": "2026-05-24",
+          "episode": 8,
+          "released": "2026-05-31",
           "overview": ""
         }
       ]
