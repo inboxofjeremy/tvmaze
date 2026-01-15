@@ -4,10 +4,9 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:   # allows manual trigger
+  workflow_dispatch:
   schedule:
-    # Daily at 3AM UTC
-    - cron: "0 3 * * *"
+    - cron: "0 8 * * *"  # Daily at 08:00 UTC (12AM PST)
 
 permissions:
   contents: read
@@ -19,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -33,16 +32,18 @@ jobs:
       - name: Build catalog
         run: node build.js
 
-      - name: Upload catalog artifact for Pages
+      # Upload catalog folder preserving path
+      - name: Upload catalog for Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./catalog
+          path: ./catalog  # keeps catalog/series/... folder structure
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
+
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
