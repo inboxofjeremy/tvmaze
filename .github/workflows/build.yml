@@ -2,12 +2,10 @@ name: Build and Deploy TVMaze Catalog
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   workflow_dispatch:
   schedule:
-    # Daily at 3AM UTC
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"  # daily at 3AM UTC
 
 permissions:
   contents: read
@@ -15,11 +13,12 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    environment: github-pages
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -27,28 +26,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install || true
 
       - name: Build Catalog
         run: node build.js
 
-      - name: Upload artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
         with:
-          # Use LF line endings and one path per line
+          # deploy both catalog folder and manifest.json
           path: |
             catalog
             manifest.json
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
