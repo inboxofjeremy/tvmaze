@@ -1,19 +1,18 @@
 {
-  "id": "github.tvmaze.schedule",
+  "id": "tvmaze.weekly.schedule",
   "version": "1.0.0",
-  "name": "TVMaze Weekly Schedule",
-  "description": "English-language TV shows aired in the last 10 days (US/GB/CA/AU/IE/NZ).",
+  "name": "TV Schedule",
+  "description": "Shows from TVMaze weekly schedule",
+  "resources": ["meta"],
   "types": ["series"],
-  "resources": [
-    "catalog",
-    { "name": "meta", "types": ["series"] }
-  ],
-  "catalogs": [
-    { "type": "series", "id": "tvmaze_weekly_schedule", "name": "TVMaze Weekly Schedule" }
-  ],
   "idPrefixes": ["tvmaze"],
-  "logo": "https://inboxofjeremy.github.io/tvmaze/icon.png",
-  "catalogUrls": [
-    "https://inboxofjeremy.github.io/tvmaze/catalog/series/tvmaze_weekly_schedule.json"
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "tvmaze_weekly_schedule",
+      "name": "TVMaze Weekly Schedule",
+      "extra": [],
+      "url": "https://yourusername.github.io/your-repo/catalog/series/tvmaze_weekly_schedule.json"
+    }
   ]
 }
