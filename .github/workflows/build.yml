@@ -6,7 +6,8 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    - cron: "0 8 * * *" # daily at 08:00 UTC
+    # Daily at 3AM UTC
+    - cron: "0 3 * * *"
 
 permissions:
   contents: read
@@ -29,13 +30,13 @@ jobs:
       - name: Install dependencies
         run: npm install || true
 
-      - name: Build catalog
+      - name: Build Catalog
         run: node build.js
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          # Must be relative paths; LF line endings; one path per line
+          # Use LF line endings and one path per line
           path: |
             catalog
             manifest.json
@@ -45,6 +46,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
