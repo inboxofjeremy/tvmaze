@@ -1,8 +1,8 @@
 {
-  "id": "tvmaze.weekly.schedule",
+  "id": "github.tvmaze.schedule",
   "version": "1.0.0",
   "name": "TV Schedule",
-  "description": "Shows from TVMaze weekly schedule",
+  "description": "TV shows from TVMaze",
   "resources": ["meta"],
   "types": ["series"],
   "idPrefixes": ["tvmaze"],
@@ -10,9 +10,9 @@
     {
       "type": "series",
       "id": "tvmaze_weekly_schedule",
-      "name": "TVMaze Weekly Schedule",
+      "name": "Weekly Schedule",
       "extra": [],
-      "url": "https://yourusername.github.io/your-repo/catalog/series/tvmaze_weekly_schedule.json"
+      "url": "https://inboxofjeremy.github.io/tvmaze/catalog/series/tvmaze_weekly_schedule.json"
     }
   ]
 }
